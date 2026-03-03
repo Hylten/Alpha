@@ -131,7 +131,7 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
                 )}
             </header>
 
-            <div className="prose prose-invert prose-p:font-sans prose-p:font-light prose-p:text-sm prose-p:leading-relaxed prose-p:tracking-wide prose-p:text-gray-400 prose-headings:font-serif prose-headings:font-normal prose-headings:text-platinum prose-h1:text-3xl prose-h2:text-2xl prose-h2:mt-12 prose-h3:text-xl prose-h3:mt-8 prose-a:text-oldgold prose-strong:font-medium prose-strong:text-platinum prose-ol:text-gray-400 prose-ul:text-gray-400 border-b border-white/10 pb-16">
+            <div className="prose prose-invert max-w-none prose-p:font-sans prose-p:font-light prose-p:text-base prose-p:leading-loose prose-p:tracking-wide prose-p:text-gray-400 prose-p:mb-12 prose-headings:font-serif prose-headings:font-normal prose-headings:text-platinum prose-h2:text-3xl prose-h2:mt-24 prose-h2:mb-12 prose-h3:text-xl prose-h3:mt-16 prose-h3:mb-8 prose-a:text-oldgold prose-strong:font-medium prose-strong:text-platinum prose-ol:text-gray-400 prose-ul:text-gray-400 border-b border-white/10 pb-20">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
