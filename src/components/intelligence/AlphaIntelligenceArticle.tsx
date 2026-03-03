@@ -95,7 +95,7 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
     return (
         <article className="pt-32 pb-24 px-6 md:px-12 max-w-3xl mx-auto min-h-screen relative z-10">
             <a
-                href="/intelligence"
+                href="/Alpha/intelligence/"
                 className="inline-flex items-center gap-2 text-gray-500 hover:text-oldgold font-mono text-[10px] tracking-[0.2em] font-medium uppercase mb-16 transition-colors duration-300"
             >
                 <ArrowLeft className="w-3 h-3" />

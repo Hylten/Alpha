@@ -76,7 +76,7 @@ export const AlphaIntelligenceIndex: React.FC = () => {
                         key={post.slug}
                         className="group bg-obsidian p-8 border border-white/5 hover:border-oldgold/30 hover:bg-white/[0.02] transition-all duration-500 text-left"
                     >
-                        <a href={`/intelligence/${post.slug}`} className="block">
+                        <a href={`/Alpha/intelligence/${post.slug}`} className="block">
                             <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-4">
                                 <time className="text-[10px] tracking-widest text-gray-500 uppercase">
                                     {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
@@ -112,7 +112,7 @@ export const AlphaIntelligenceIndex: React.FC = () => {
                             <p className="text-[10px] text-gray-600 tracking-wider mt-2">Public briefings are released periodically.</p>
                         </div>
                         <a
-                            href="/"
+                            href="/Alpha/"
                             className="inline-flex items-center gap-2 px-6 py-3 border border-white/10 hover:bg-white/5 hover:border-white/20 text-[10px] tracking-[0.2em] text-gray-400 uppercase transition-all duration-300"
                         >
                             Return to Core
