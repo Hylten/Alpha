@@ -66,8 +66,8 @@ async function generateSEO() {
         console.log(`✅ Generated /dist/intelligence/${slug}/index.html`);
     }
 
-    // 3. Generate sitemap.xml
-    const SITE_URL = 'https://roialsalpha.com'; // User can update this to the final domain
+    // 3. Generate sitemap.xml - Korrigerad för hylten.github.io/Alpha/
+    const SITE_URL = 'https://hylten.github.io/Alpha';
     const today = new Date().toISOString().split('T')[0];
 
     let sitemapUrls = `  <url>
