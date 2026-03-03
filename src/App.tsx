@@ -29,7 +29,7 @@ function App() {
   // SEO Route Hijack
   const path = window.location.pathname;
   if (path.startsWith('/intelligence')) {
-    const slug = path.replace('/intelligence', '').replace('/', '');
+    const slug = path.replace('/intelligence', '').replace(/^\/|\/$/g, '');
 
     return (
       <div className="min-h-screen bg-obsidian text-platinum font-sans selection:bg-oldgold selection:text-obsidian bg-grid overflow-hidden">
