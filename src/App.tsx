@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import { Lock, Server, Cpu, Activity, ShieldCheck, Zap, X, Linkedin, AlertCircle } from 'lucide-react';
+import { AlphaIntelligenceIndex } from './components/intelligence/AlphaIntelligenceIndex';
+import { AlphaIntelligenceArticle } from './components/intelligence/AlphaIntelligenceArticle';
 
 function App() {
   const [showLogin, setShowLogin] = useState(false);
@@ -24,11 +26,44 @@ function App() {
     setAccessKey('');
   };
 
-  // Redirect /intelligence/* back to the main Alpha page
+  // Intelligence Route Handler
   const path = window.location.pathname;
   if (path.includes('/intelligence')) {
-    window.location.replace('/Alpha/');
-    return null;
+    const slug = path.split('/intelligence')[1].replace(/^\/|\/$/g, '');
+
+    return (
+      <div className="min-h-screen bg-obsidian text-platinum font-sans selection:bg-oldgold selection:text-obsidian bg-grid overflow-hidden">
+        {/* HEADER */}
+        <header className="absolute top-0 left-0 w-full z-50 px-8 py-6 flex justify-between items-center border-b border-white/5 bg-obsidian/80 backdrop-blur-md">
+          <a href="/Alpha/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
+            <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse shadow-[0_0_8px_rgba(34,197,94,0.6)]"></div>
+            <span className="font-mono text-[10px] tracking-[0.2em] font-medium text-gray-500 uppercase">System Online</span>
+          </a>
+
+          <div className="flex items-center gap-6">
+            <div className="hidden md:flex items-center gap-2 px-3 py-1 bg-white/5 border border-white/5 rounded-sm">
+              <span className="w-1.5 h-1.5 bg-oldgold rounded-full"></span>
+              <span className="text-[10px] tracking-widest text-gray-400 uppercase">v4.0.2-ALPHA</span>
+            </div>
+            <a
+              href="/Alpha/"
+              className="flex items-center gap-1.5 text-gray-700 hover:text-gray-500 transition-colors group"
+              title="Return to Core"
+            >
+              <X className="w-4 h-4 group-hover:text-oldgold transition-colors" />
+            </a>
+          </div>
+        </header>
+
+        <main className="flex-grow">
+          {slug ? (
+            <AlphaIntelligenceArticle slug={slug} />
+          ) : (
+            <AlphaIntelligenceIndex />
+          )}
+        </main>
+      </div>
+    );
   }
 
   return (
