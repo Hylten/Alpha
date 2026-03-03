@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { Lock } from 'lucide-react';
 
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
