@@ -210,7 +210,7 @@ function App() {
             </div>
 
             {/* MODULE 03 */}
-            <div className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left">
+            <div className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left border-r md:border-r-0 border-white/5">
               <div className="flex justify-between items-start mb-4">
                 <Activity className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
                 <span className="text-[9px] tracking-widest text-gray-700 group-hover:text-oldgold/70">MOD 03</span>
@@ -218,6 +218,22 @@ function App() {
               <h3 className="text-sm tracking-widest text-platinum uppercase mb-2">Capital Deployment</h3>
               <p className="text-[10px] text-gray-500 leading-relaxed">High-velocity resource allocation systems.</p>
             </div>
+
+            {/* MODULE 04 - SYSTEM INTELLIGENCE */}
+            <a
+              href="/Alpha/intelligence/"
+              className="bg-obsidian p-8 hover:bg-white/5 transition-all duration-500 group text-left border-t md:border-t-0 border-white/5 hover:border-oldgold/30 block"
+            >
+              <div className="flex justify-between items-start mb-4">
+                <Zap className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
+                <span className="text-[9px] tracking-widest text-gray-700 group-hover:text-oldgold/70">MOD 04</span>
+              </div>
+              <h3 className="text-sm tracking-widest text-platinum uppercase mb-2 group-hover:text-oldgold transition-colors">System Intelligence</h3>
+              <p className="text-[10px] text-gray-500 leading-relaxed">Proprietary architecture reports & structural analysis.</p>
+              <div className="mt-6 flex items-center gap-2 text-[8px] text-oldgold/60 uppercase tracking-[0.2em] group-hover:translate-x-1 transition-transform">
+                Access Archives →
+              </div>
+            </a>
 
           </div>
 

@@ -35,21 +35,41 @@ async function generateSEO() {
 
     ensureDir(INTELLIGENCE_DIST_DIR);
 
-    // 1. Generate Index Page
+    const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
+
+    // 1. Generate Index Page with Pre-rendered content for FCP
+    let listHtml = '<div style="background: #0a0a0a; min-height: 100vh; padding: 100px 20px;">';
+    for (const file of files) {
+        const filePath = path.join(CONTENT_DIR, file);
+        const rawContent = fs.readFileSync(filePath, 'utf8');
+        const { data } = matter(rawContent);
+        const slug = data.slug || file.replace('.md', '');
+        const title = data.title || 'Intelligence Report';
+        const description = data.description || '';
+
+        listHtml += `
+            <div style="max-width: 800px; margin: 0 auto 40px; padding: 30px; border: 1px solid rgba(197, 160, 89, 0.1); background: rgba(255,255,255,0.02);">
+                <a href="/Alpha/intelligence/${slug}/" style="text-decoration: none; color: inherit;">
+                    <h2 style="font-family: serif; font-size: 1.5rem; color: #C5A059; margin-bottom: 10px;">${title}</h2>
+                    <p style="font-size: 0.9rem; color: #9ca3af; line-height: 1.6;">${description}</p>
+                </a>
+            </div>`;
+    }
+    listHtml += '</div>';
+
     const indexHtml = baseHtml
         .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Alpha</title>')
-        .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Proprietary intelligence on asset hardening, institutional migration, and the structural mechanics of Fund III+ expansions.">');
+        .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Proprietary intelligence on asset hardening, institutional migration, and the structural mechanics of Fund III+ expansions.">')
+        .replace('<div id="root"></div>', `<div id="root">${listHtml}</div>`);
 
     fs.writeFileSync(path.join(INTELLIGENCE_DIST_DIR, 'index.html'), indexHtml);
     console.log('✅ Generated /dist/intelligence/index.html');
 
     // 2. Generate Article Pages
-    const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
-
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(rawContent);
+        const { data, content } = matter(rawContent);
 
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Intelligence Article';
@@ -58,15 +78,25 @@ async function generateSEO() {
         const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);
         ensureDir(articleDir);
 
+        const contentHtml = `<div style="background: #0a0a0a; min-height: 100vh; padding: 100px 20px; color: #E5E7EB; font-family: sans-serif;">
+            <div style="max-width: 800px; margin: 0 auto;">
+                <h1 style="font-family: serif; font-size: 3rem; color: #E5E7EB; margin-bottom: 30px;">${title}</h1>
+                <div style="line-height: 1.8; font-size: 1.1rem; color: #9ca3af;">
+                    ${content.split('\n').map(p => `<p style="margin-bottom: 20px;">${p}</p>`).join('')}
+                </div>
+            </div>
+        </div>`;
+
         const articleHtml = baseHtml
             .replace(/<title>.*?<\/title>/, `<title>${title} | Roials Alpha</title>`)
-            .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`);
+            .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
+            .replace('<div id="root"></div>', `<div id="root">${contentHtml}</div>`);
 
         fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
         console.log(`✅ Generated /dist/intelligence/${slug}/index.html`);
     }
 
-    // 3. Generate sitemap.xml - Korrigerad för hylten.github.io/Alpha/
+    // 3. Generate sitemap.xml
     const SITE_URL = 'https://hylten.github.io/Alpha';
     const today = new Date().toISOString().split('T')[0];
 
