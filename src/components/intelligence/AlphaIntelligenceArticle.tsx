@@ -131,11 +131,23 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
                 )}
             </header>
 
-            <div className="prose prose-invert max-w-none prose-p:font-sans prose-p:font-light prose-p:text-base prose-p:leading-loose prose-p:tracking-wide prose-p:text-gray-400 prose-p:mb-12 prose-headings:font-serif prose-headings:font-normal prose-headings:text-platinum prose-h2:text-3xl prose-h2:mt-24 prose-h2:mb-12 prose-h3:text-xl prose-h3:mt-16 prose-h3:mb-8 prose-a:text-oldgold prose-strong:font-medium prose-strong:text-platinum prose-ol:text-gray-400 prose-ul:text-gray-400 border-b border-white/10 pb-20">
+            <div className="article-content" style={{ color: 'rgba(229, 231, 235, 0.7)', fontSize: '1rem', fontWeight: 300 }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
             </div>
+
+            <style>{`
+                .article-content { line-height: 2.2; }
+                .article-content p { margin-bottom: 3.5rem; }
+                .article-content h2 { font-family: serif; font-size: 2.2rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.3; }
+                .article-content h3 { font-family: serif; font-size: 1.6rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; }
+                .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
+                .article-content li { margin-bottom: 1.5rem; }
+                .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 6rem 0; }
+                .article-content strong { color: #fff; font-weight: 500; }
+                .article-content a { color: #8a6d3b; text-decoration: underline; }
+            `}</style>
 
             <footer className="mt-16 text-center">
                 <p className="font-mono text-[9px] text-gray-600 tracking-widest uppercase">
