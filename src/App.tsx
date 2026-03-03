@@ -37,7 +37,7 @@ function App() {
         <header className="absolute top-0 left-0 w-full z-50 px-8 py-6 flex justify-between items-center border-b border-white/5 bg-obsidian/80 backdrop-blur-md">
           <a href="/Alpha/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse shadow-[0_0_8px_rgba(34,197,94,0.6)]"></div>
-            <span className="font-mono text-[10px] tracking-[0.2em] font-medium text-gray-500 uppercase">System Online</span>
+            <span className="font-mono text-[10px] tracking-[0.2em] font-medium text-gray-500 uppercase">System Online | HOME</span>
           </a>
 
           <div className="flex items-center gap-6">

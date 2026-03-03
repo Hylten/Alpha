@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { ArrowLeft } from 'lucide-react';
+import { Lock } from 'lucide-react';
 
 // Browser-safe frontmatter parser
 function parseFrontmatter(raw: string) {
@@ -94,13 +94,21 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
 
     return (
         <article className="pt-32 pb-24 px-6 md:px-12 max-w-3xl mx-auto min-h-screen relative z-10">
-            <a
-                href="/Alpha/intelligence/"
-                className="inline-flex items-center gap-2 text-gray-500 hover:text-oldgold font-mono text-[10px] tracking-[0.2em] font-medium uppercase mb-16 transition-colors duration-300"
-            >
-                <ArrowLeft className="w-3 h-3" />
-                Back to Index
-            </a>
+            <div className="flex flex-wrap items-center gap-6 mb-12">
+                <a
+                    href="/Alpha/intelligence/"
+                    className="inline-flex items-center gap-2 text-[10px] tracking-[0.2em] text-gray-500 hover:text-oldgold uppercase transition-colors group"
+                >
+                    <span className="group-hover:-translate-x-1 transition-transform">←</span> Back to Intelligence
+                </a>
+                <span className="text-gray-800">|</span>
+                <a
+                    href="/Alpha/"
+                    className="inline-flex items-center gap-2 text-[10px] tracking-[0.2em] text-gray-500 hover:text-oldgold uppercase transition-colors group"
+                >
+                    <span className="group-hover:-translate-x-1 transition-transform">←</span> Return to Alpha Home
+                </a>
+            </div>
 
             <header className="mb-16 border-b border-white/10 pb-12">
                 <div className="flex flex-col md:flex-row md:items-baseline gap-4 mb-8">
