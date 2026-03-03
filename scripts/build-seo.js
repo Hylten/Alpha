@@ -44,12 +44,7 @@ async function generateSEO() {
     console.log('✅ Generated /dist/intelligence/index.html');
 
     // 2. Generate Article Pages
-    if (!fs.existsSync(CONTENT_DIR)) {
-        console.log('No content directory found. Skipping articles.');
-        return;
-    }
-
-    const files = fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md'));
+    const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
 
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
@@ -70,6 +65,53 @@ async function generateSEO() {
         fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
         console.log(`✅ Generated /dist/intelligence/${slug}/index.html`);
     }
+
+    // 3. Generate sitemap.xml
+    const SITE_URL = 'https://roialsalpha.com'; // User can update this to the final domain
+    const today = new Date().toISOString().split('T')[0];
+
+    let sitemapUrls = `  <url>
+    <loc>${SITE_URL}/</loc>
+    <lastmod>${today}</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>${SITE_URL}/intelligence/</loc>
+    <lastmod>${today}</lastmod>
+    <priority>0.9</priority>
+  </url>`;
+
+    for (const file of files) {
+        const filePath = path.join(CONTENT_DIR, file);
+        const rawContent = fs.readFileSync(filePath, 'utf8');
+        const { data } = matter(rawContent);
+        const slug = data.slug || file.replace('.md', '');
+        const date = data.date || today;
+
+        sitemapUrls += `
+  <url>
+    <loc>${SITE_URL}/intelligence/${slug}/</loc>
+    <lastmod>${date}</lastmod>
+    <priority>0.8</priority>
+  </url>`;
+    }
+
+    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapUrls}
+</urlset>`;
+
+    fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
+    console.log('✅ Generated /dist/sitemap.xml');
+
+    // 4. Generate robots.txt
+    const robots = `User-agent: *
+Allow: /
+
+Sitemap: ${SITE_URL}/sitemap.xml`;
+
+    fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), robots);
+    console.log('✅ Generated /dist/robots.txt');
 
     console.log('SEO Generation Complete!');
 }
