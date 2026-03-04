@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Complex Financial Structures"
 description: "High velocity liquidity engineering through private credit and asset based liquidity engineering structures designed for HNWI and UHNW portfolios."
-date: "2025-12-27"
+date: "2026-01-24"
 author: "Jonas Hyltén"
 slug: "agentic-systems-for-complex-financial-structures"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

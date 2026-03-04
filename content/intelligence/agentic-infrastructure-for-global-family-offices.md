@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Global Family Offices: The New Liquidity Architecture"
 description: "A high-authority breakdown of agentic infrastructure for global family offices, with emphasis on liquidity generation through private credit and asset based liquidity engineering."
-date: "2025-12-23"
+date: "2026-01-18"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-global-family-offices"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

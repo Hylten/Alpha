@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Liquidity Architecture for Sovereign-Level Capital Movements"
 description: "High-velocity liquidity engineering built on private credit and asset-based liquidity engineering for HNWI and UHNW entities."
-date: "2026-01-01"
+date: "2026-02-01"
 author: "Jonas Hyltén"
 slug: "ai-powered-liquidity-for-sovereign-entities"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

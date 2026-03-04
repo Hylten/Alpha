@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Liquidity Management for High-Frequency Family Offices"
 description: "A deep technical exploration of autonomous liquidity systems, private credit, and asset based liquidity engineering for high net worth capital operators seeking structural advantage."
-date: "2026-01-04"
+date: "2026-02-05"
 author: "Jonas Hyltén"
 slug: "autonomous-liquidity-management-for-high-frequency"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

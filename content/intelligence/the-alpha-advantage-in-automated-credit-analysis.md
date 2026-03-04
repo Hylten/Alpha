@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Advantage in Automated Credit Analysis"
 description: "Explore how Roials-Alpha delivers institutional-grade liquidity through advanced automated credit analysis for private credit and asset based liquidity engineering."
-date: "2026-01-09"
+date: "2026-02-12"
 author: "Jonas Hyltén"
 slug: "the-alpha-advantage-in-automated-credit-analysis"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

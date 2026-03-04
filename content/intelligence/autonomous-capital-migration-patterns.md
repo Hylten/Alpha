@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Capital Migration Patterns: The New Architecture of High Velocity Wealth"
 description: "A high authority analysis of liquidity behavior, private credit, and asset based liquidity engineering in an autonomous capital environment."
-date: "2026-01-02"
+date: "2026-02-03"
 author: "Jonas Hyltén"
 slug: "autonomous-capital-migration-patterns"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

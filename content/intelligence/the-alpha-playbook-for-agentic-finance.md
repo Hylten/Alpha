@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Playbook for Agentic Finance"
 description: "A high authority blueprint on liquidity engineering, private credit, and asset based liquidity engineering for HNWI and UHNW investors."
-date: "2026-01-10"
+date: "2026-02-14"
 author: "Jonas Hyltén"
 slug: "the-alpha-playbook-for-agentic-finance"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

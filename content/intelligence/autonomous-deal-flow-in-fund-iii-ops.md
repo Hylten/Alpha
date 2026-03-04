@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow Architecture for Fund III Ops"
 description: "A high-authority breakdown of autonomous deal flow mechanics, liquidity structuring, and advanced ABL optimization for HNWI and UHNW participants."
-date: "2026-01-03"
+date: "2026-02-04"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-in-fund-iii-ops"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

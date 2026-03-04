@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Global Capital Markets"
 description: "Advanced liquidity architecture for private credit and asset based liquidity engineering, engineered for HNWI and UHNW capital optimization."
-date: "2025-12-23"
+date: "2026-01-18"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-global-capital-markets"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
