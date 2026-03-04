@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'fs'; // Build trigger
 import path from 'path';
 import { fileURLToPath } from 'url';
 import matter from 'gray-matter';
