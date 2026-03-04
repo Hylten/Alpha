@@ -40,4 +40,3 @@ This is the Alpha Advantage.
 This is Roials-Alpha.
 
 Inquire about agentic infrastructure.
----markdown
