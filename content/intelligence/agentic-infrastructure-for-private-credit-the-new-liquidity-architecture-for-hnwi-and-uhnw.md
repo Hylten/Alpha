@@ -3,7 +3,7 @@ title: "Agentic Infrastructure for Private Credit: The New Liquidity Architectur
 description: "High-end liquidity architecture built on agentic automation and asset based liquidity engineering for private credit. Institutional mechanics for high net worth capital."
 date: "2025-12-24"
 author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-private-credit"
+slug: "agentic-infrastructure-for-private-credit-the-new-liquidity-architecture-for-hnwi-and-uhnw"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

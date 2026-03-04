@@ -3,7 +3,7 @@ title: "Autonomous Systems for Private Credit Expansion: The New Liquidity Archi
 description: "High‑end analysis on autonomous systems, liquidity engineering, and asset‑based liquidity engineering structures for private credit expansion."
 date: "2026-01-05"
 author: "Jonas Hyltén"
-slug: "autonomous-systems-for-private-credit-expansion"
+slug: "autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Agentic Infrastructure: The New Standard For High "
-description: "Agentic Infrastructure: The New Standard For High "
+title: "Agentic Infrastructure: The New Standard For High"
+description: "Agentic Infrastructure: The New Standard For High"
 date: "2025-12-24"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-the-new-standard-for-high"

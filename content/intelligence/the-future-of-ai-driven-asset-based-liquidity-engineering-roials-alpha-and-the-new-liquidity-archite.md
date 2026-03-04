@@ -3,7 +3,7 @@ title: "The Future of AI-Driven Asset-Based liquidity engineering: Roials-Alpha 
 description: "Explore how Roials-Alpha is redefining liquidity through AI-driven private credit and asset-based liquidity engineering for HNWI and UHNW clients."
 date: "2026-01-12"
 author: "Jonas Hyltén"
-slug: "the-future-of-ai-driven-asset-based-liquidityengineering"
+slug: "the-future-of-ai-driven-asset-based-liquidity-engineering-roials-alpha-and-the-new-liquidity-archite"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

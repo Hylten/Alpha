@@ -3,7 +3,7 @@ title: "Agentic Infrastructure for Cross‑Border Assets: The New Liquidity Arch
 description: "High-end analysis on liquidity infrastructure, private credit, and asset based liquidity engineering for global HNWI and UHNW portfolios. Roials‑Alpha enables institutional-grade cross-border leverage."
 date: "2025-12-22"
 author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-cross-border-assets"
+slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

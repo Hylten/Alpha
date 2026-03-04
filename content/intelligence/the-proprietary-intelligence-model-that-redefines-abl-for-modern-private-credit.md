@@ -3,7 +3,7 @@ title: "The Proprietary Intelligence Model That Redefines ABL for Modern Private
 description: "Roials-Alpha introduces a proprietary intelligence model engineered for high-speed liquidity and institutional-grade asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2026-01-14"
 author: "Jonas Hyltén"
-slug: "the-proprietary-intelligence-model-for-abl"
+slug: "the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

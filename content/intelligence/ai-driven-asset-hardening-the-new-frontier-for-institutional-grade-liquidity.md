@@ -3,7 +3,7 @@ title: "AI-Driven Asset Hardening: The New Frontier for Institutional-Grade Liqu
 description: "Explore how Roials-Alpha uses AI-driven asset hardening to deliver high-precision liquidity solutions through private credit and ABL structures."
 date: "2025-12-29"
 author: "Jonas Hyltén"
-slug: "ai-driven-asset-hardening-the-new-frontier"
+slug: "ai-driven-asset-hardening-the-new-frontier-for-institutional-grade-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

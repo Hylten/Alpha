@@ -3,7 +3,7 @@ title: "Predictive Modeling for liquidity engineering Against Volatile Crypto As
 description: "A high-authority breakdown of predictive modeling for liquidity creation through private credit and ABL applied to volatile crypto collateral."
 date: "2026-01-06"
 author: "Jonas Hyltén"
-slug: "predictive-modeling-for-liquidityengineering-against-volatile-c"
+slug: "predictive-modeling-for-liquidity-engineering-against-volatile-crypto-assets-the-roials-alpha-framew"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

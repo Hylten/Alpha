@@ -3,7 +3,7 @@ title: "Automating the Buy, Borrow, Die Strategy for Perpetual Liquidity"
 description: "A high-authority breakdown of how automation, private credit, and asset based liquidity engineering create institutional-grade liquidity for HNWI and UHNW entities."
 date: "2026-01-02"
 author: "Jonas Hyltén"
-slug: "automating-the-buy-borrow-die-strategy"
+slug: "automating-the-buy-borrow-die-strategy-for-perpetual-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

@@ -38,7 +38,7 @@ async function generateSEO() {
     const files = fs.existsSync(CONTENT_DIR) ? fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md')) : [];
 
     // 1. Generate Index Page with Pre-rendered content for FCP
-    let listHtml = '<div style="background: #0a0a0a; min-height: 100vh; padding: 100px 20px;">';
+    let listHtml = '<div style="background: #0a0a0a !important; min-height: 100vh; padding: 100px 24px; color: #E5E7EB; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
@@ -46,14 +46,20 @@ async function generateSEO() {
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Intelligence Report';
         const description = data.description || '';
+        const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
         listHtml += `
-            <div style="max-width: 800px; margin: 0 auto 40px; padding: 30px; border: 1px solid rgba(197, 160, 89, 0.1); background: rgba(255,255,255,0.02);">
-                <a href="/Alpha/intelligence/${slug}/" style="text-decoration: none; color: inherit;">
-                    <h2 style="font-family: serif; font-size: 1.5rem; color: #C5A059; margin-bottom: 10px;">${title}</h2>
-                    <p style="font-size: 0.9rem; color: #9ca3af; line-height: 1.6;">${description}</p>
+            <article style="margin-bottom: 400px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+                <div style="font-size: 14px; color: #C5A059; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 60px; font-weight: 700;">${date}</div>
+                <a href="/Alpha/intelligence/${slug}/" style="text-decoration: none !important; color: #E5E7EB !important; display: block; width: 100%;">
+                    <h2 style="font-size: clamp(2.5rem, 6vw, 5rem); color: #C5A059 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; line-height: 1.1; text-align: center;">${title}</h2>
+                    <p style="font-size: 1.5rem; color: #9CA3AF !important; line-height: 1.8; font-weight: 300; margin-bottom: 80px; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
+                    <div style="display: flex; flex-direction: column; align-items: center; gap: 48px;">
+                        <span style="color: #C5A059; font-size: 12px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700;">Execute Process</span>
+                        <div style="width: 48px; height: 1px; background: #C5A059;"></div>
+                    </div>
                 </a>
-            </div>`;
+            </article>`;
     }
     listHtml += '</div>';
 
@@ -91,11 +97,11 @@ async function generateSEO() {
         const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);
         ensureDir(articleDir);
 
-        const contentHtml = `<div style="background: #0a0a0a; min-height: 100vh; padding: 100px 20px; color: #E5E7EB; font-family: sans-serif;">
+        const contentHtml = `<div style="background: #0a0a0a; min-height: 100vh; padding: 220px 20px; color: #E5E7EB; font-family: sans-serif;">
             <div style="max-width: 800px; margin: 0 auto;">
-                <h1 style="font-family: serif; font-size: 3rem; color: #E5E7EB; margin-bottom: 30px;">${title}</h1>
-                <div style="line-height: 1.8; font-size: 1.1rem; color: #9ca3af;">
-                    ${content.split('\n').map(p => `<p style="margin-bottom: 20px;">${p}</p>`).join('')}
+                <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #C5A059; margin-bottom: 60px; line-height: 1.1;">${title}</h1>
+                <div style="line-height: 2.1; font-size: 1.35rem; color: #9CA3AF !important; font-weight: 300; width: 100%; text-align: left;">
+                    ${content.split('\n').map(p => p.trim() ? `<p style="margin-bottom: 48px;">${p}</p>` : '').join('')}
                 </div>
             </div>
         </div>`;

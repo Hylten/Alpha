@@ -3,7 +3,7 @@ title: "Agentic Systems for Institutional Capital: The New Architecture of Liqui
 description: "A deep technical insight into agentic systems that accelerate liquidity, private credit, and asset based liquidity engineering for institutional-grade capital."
 date: "2025-12-27"
 author: "Jonas Hyltén"
-slug: "agentic-systems-for-institutional-capital"
+slug: "agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

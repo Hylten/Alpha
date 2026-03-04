@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Capital"
 description: "A high‑end technical analysis of liquidity engines, private credit structures, and asset based liquidity engineering for HNWI and UHNW seeking institutional grade capital architecture."
-date: "2025-12-26"
+date: "2025-12-25"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-new-architecture-of-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

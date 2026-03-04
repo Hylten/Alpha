@@ -3,7 +3,7 @@ title: "Autonomous Systems for Multi‑Asset ABL: The New Architecture of Intell
 description: "A deep analysis of autonomous systems for multi‑asset ABL, optimized for liquidity engineering and high net worth credit execution."
 date: "2026-01-05"
 author: "Jonas Hyltén"
-slug: "autonomous-systems-for-multi-asset-abl"
+slug: "autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
