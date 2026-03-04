@@ -78,14 +78,13 @@ async function generateSEO() {
         const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
         listHtml += `
-            <article style="margin-bottom: 400px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center;">
-                <div style="font-size: 14px; color: #C5A059; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 60px; font-weight: 700;">${date}</div>
+            <article style="margin-bottom: 300px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center; padding-bottom: 150px; border-bottom: 1px solid rgba(255,255,255,0.05);">
+                <div style="font-size: 11px; color: #C5A059; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 700; opacity: 0.8;">Release &mdash; ${date}</div>
                 <a href="/Alpha/intelligence/${slug}/" style="text-decoration: none !important; color: #E5E7EB !important; display: block; width: 100%;">
-                    <h2 style="font-size: clamp(2.5rem, 6vw, 5rem); color: #C5A059 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; line-height: 1.1; text-align: center;">${title}</h2>
-                    <p style="font-size: 1.5rem; color: #9CA3AF !important; line-height: 1.8; font-weight: 300; margin-bottom: 80px; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
-                    <div style="display: flex; flex-direction: column; align-items: center; gap: 48px;">
-                        <span style="color: #C5A059; font-size: 12px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700;">Execute Process</span>
-                        <div style="width: 48px; height: 1px; background: #C5A059;"></div>
+                    <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #C5A059 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${title}</h2>
+                    <p style="font-size: 1.25rem; color: #9CA3AF !important; line-height: 1.8; font-weight: 300; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
+                    <div style="display: flex; flex-direction: column; align-items: center;">
+                        <span style="color: #E5E7EB; font-size: 10px; text-transform: uppercase; letter-spacing: 4px; font-weight: 700; border-bottom: 1px solid #C5A059; padding-bottom: 8px;">Access Intelligence</span>
                     </div>
                 </a>
             </article>`;
