@@ -4,7 +4,7 @@ description: "A high-density institutional briefing on agentic capital systems, 
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-systems-sovereign-capital-migration"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -58,7 +58,7 @@ The system does not estimate. It computes structural resilience.
 4. Autonomous Deal Flow Routing  
 This mechanism matches allocator preferences to verified counterparties using algorithmic sequence scoring. Roials Capital uses this within an institutional introducer framework. The system does not originate product. It identifies alignment between allocator mandates and counterparties with validated operational competency.
 
-For the energy vertical, the counterparties with established technical execution are limited. NAEO is among the few operators with:
+For the energy vertical, the counterparties with established technical execution are limited. NAEOCC is among the few operators with:
 - Verifiable multi field operating history  
 - Predictable recovery factor performance  
 - Efficient capital deployment cycles  
@@ -71,7 +71,7 @@ This is not automation for efficiency. It is strategic acceleration.
 
 PHASE 3: THE PARTNERSHIP MODEL AND INSTITUTIONAL NAVIGATION
 
-Roials Capital does not act as a fund manager or capital claimant. The role is that of institutional navigator. The firm engineers alignment between sovereign mandates and verified counterparties. In the North American energy vertical, NAEO serves as the technical operator with on the ground competency, while Roials Capital curates the alignment architecture.
+Roials Capital does not act as a fund manager or capital claimant. The role is that of institutional navigator. The firm engineers alignment between sovereign mandates and verified counterparties. In the North American energy vertical, NAEOCC serves as the technical operator with on the ground competency, while Roials Capital curates the alignment architecture.
 
 The partnership model operates on four dimensions:
 
@@ -79,7 +79,7 @@ The partnership model operates on four dimensions:
 Sovereign allocators articulate directional intent. Roials Capital converts that intent into navigable structures. This includes analyzing carbon obligations, multi decade duration constraints, currency exposures, and geopolitical sensitivities. The translation process eliminates misalignment at the point of introduction.
 
 2. Technical Verification  
-Energy assets undergo technical scrutiny. Alberta heavy oil is not homogenous. Fields differ by permeability, reservoir thickness, steam requirements, water handling, and decline logic. For SAGD fields, the recovery factor can be forecast with exceptional precision once the steam chamber geometry stabilizes. NAEO has mastered these dynamics through disciplined operational cycles and efficient field analytics.
+Energy assets undergo technical scrutiny. Alberta heavy oil is not homogenous. Fields differ by permeability, reservoir thickness, steam requirements, water handling, and decline logic. For SAGD fields, the recovery factor can be forecast with exceptional precision once the steam chamber geometry stabilizes. NAEOCC has mastered these dynamics through disciplined operational cycles and efficient field analytics.
 
 3. Structure Calibration  
 Roials Capital calibrates the structures that govern engagement. These structures may include:
@@ -129,10 +129,10 @@ For allocators evaluating resource backed private credit exposures, Alberta heav
 - Mature reservoir physics  
 - Predictable decline geometry  
 - Stable royalty frameworks  
-- Strong technical operators like NAEO  
+- Strong technical operators like NAEOCC  
 - High transparency relative to global resource markets  
 
-For allocators evaluating global private credit, agentic systems provide cross border coherence. For allocators needing energy exposure without speculative volatility, the combination of Roials Capital as strategic navigator and NAEO as operational partner produces an alignment channel that is rare in conventional markets.
+For allocators evaluating global private credit, agentic systems provide cross border coherence. For allocators needing energy exposure without speculative volatility, the combination of Roials Capital as strategic navigator and NAEOCC as operational partner produces an alignment channel that is rare in conventional markets.
 
 A confidential Strategy Audit evaluates the allocator's mandate across liquidity horizons, jurisdictional constraints, risk tolerances, and desired counterparty profiles. It then maps suitable pathways with precision and transparency, without recommending or promoting any specific transaction. The objective is navigation, not distribution.
 

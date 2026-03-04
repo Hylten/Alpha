@@ -4,7 +4,7 @@ description: "Institutional briefing on agentic private credit systems, AI media
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-private-credit-liquidity-architecture"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -64,7 +64,7 @@ Mapping of credit engines, agentic platforms, and sector specific pipelines that
 - Institutional Introduction  
 Direct connection with platforms or operators whose systems align with the allocator's balance sheet profile. Roials Capital remains structurally neutral. The value is the technical intelligence that de risks allocator decisions.
 
-When relevant, Roials Capital introduces NAEO for energy aligned allocators. NAEO represents an institutional grade operator whose technical recovery frameworks in Alberta heavy oil align with the underwriting requirements of agentic credit systems. The Alberta basin's decline curve predictability and stable cash flow geometry create an ideal environment for machine constrained credit evaluation. This is where operational physics and algorithmic underwriting converge.
+When relevant, Roials Capital introduces NAEOCC for energy aligned allocators. NAEOCC represents an institutional grade operator whose technical recovery frameworks in Alberta heavy oil align with the underwriting requirements of agentic credit systems. The Alberta basin's decline curve predictability and stable cash flow geometry create an ideal environment for machine constrained credit evaluation. This is where operational physics and algorithmic underwriting converge.
 
 PHASE 4: THE STEWARDSHIP FILTER
 

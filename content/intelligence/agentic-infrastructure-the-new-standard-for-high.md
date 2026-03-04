@@ -10,7 +10,7 @@ keywords: "private credit, ABL, liquidity"
 # Agentic Infrastructure. The New Standard for High-Velocity Finance
 
 Agentic infrastructure is no longer an option.  
-It is the minimum viable structure for any principal operating above the NAEO threshold.
+It is the minimum viable structure for any principal operating above the NAEOCC threshold.
 
 Liquidity.  
 Precision.  
@@ -215,9 +215,9 @@ Yet it is precisely the ethos that produces resilient capital structures.
 Gnosjö is not aesthetic.  
 It is operational theology.
 
-## Crossing the NAEO Threshold
+## Crossing the NAEOCC Threshold
 
-The NAEO (Non Administrative Economic Operator) threshold is where principals transition from administrative logic to agentic logic.
+The NAEOCC (Non Administrative Economic Operator) threshold is where principals transition from administrative logic to agentic logic.
 
 Below the threshold.  
 Operators rely on external advisors.  
@@ -229,7 +229,7 @@ Intelligence is internalized.
 Structures are hardened.  
 Execution is continuous.
 
-The NAEO threshold is not defined by net worth.  
+The NAEOCC threshold is not defined by net worth.  
 It is defined by decision autonomy.
 
 Agentic infrastructure accelerates this transition.
@@ -371,7 +371,7 @@ The second group will follow them.
 Agentic infrastructure is the new standard for high velocity finance.  
 It integrates covenant stewardship with technical dominance.  
 It hardens assets for institutional scrutiny.  
-It restores agency to principals operating at the NAEO threshold and above.
+It restores agency to principals operating at the NAEOCC threshold and above.
 
 This is not a trend.  
 It is a structural realignment of how private capital interacts with liquidity, intelligence, and execution pathways.

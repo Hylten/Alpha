@@ -4,7 +4,7 @@ description: "Institutional analysis of agentic AI architectures, balance sheet 
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-intelligence-future-of-asset-based-lending"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -41,7 +41,7 @@ PHASE 3: THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator within this environment. The role is institutional alignment rather than credit origination. The firm evaluates operator needs, collateral structures, and time sensitive liquidity challenges, then identifies the most suitable AI oriented credit partners and platforms. Introduction is based on operational intelligence and institutional fit.
 
-Within the energy sector, the strategic partner NAEO provides a distinct model. While NAEO operates primarily in North American energy optimization, its internal data architecture mirrors the principles of agentic credit systems. The company utilizes continuous field telemetry, decline curve recalibration, and production optimization algorithms that act as a parallel to agentic ABL. When allocators understand the NAEO execution framework, they often recognize similar principles at work in advanced private credit systems.
+Within the energy sector, the strategic partner NAEOCC provides a distinct model. While NAEOCC operates primarily in North American energy optimization, its internal data architecture mirrors the principles of agentic credit systems. The company utilizes continuous field telemetry, decline curve recalibration, and production optimization algorithms that act as a parallel to agentic ABL. When allocators understand the NAEOCC execution framework, they often recognize similar principles at work in advanced private credit systems.
 
 The partnership model therefore focuses on structural clarity, counterparty alignment, and ensuring that allocators receive transparent access to the operational mechanics of any AI driven lending environment.
 

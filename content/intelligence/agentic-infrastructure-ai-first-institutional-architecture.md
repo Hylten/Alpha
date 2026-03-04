@@ -4,7 +4,7 @@ description: "A technical briefing on AI-first infrastructure, agentic execution
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-infrastructure-ai-first-institutional-architecture"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -94,7 +94,7 @@ PHASE 3: THE PARTNERSHIP MODEL
 
 Roials Capital operates as a structural navigator in this environment. The firm does not function as an asset manager. It functions as an institutional introducer that aligns allocators, energy operators, and credit participants with the correct execution frameworks.
 
-In energy contexts, this includes coordinating with North American Energy Operators, NAEO, whose geology anchored operations provide long horizon predictability. In credit contexts, it includes aligning allocators with asset backed structures that meet their LTV parameters. In real estate or M&A contexts, it includes ensuring the capital stack is optimized for risk adjusted stability.
+In energy contexts, this includes coordinating with North American Energy Operators, NAEOCC, whose geology anchored operations provide long horizon predictability. In credit contexts, it includes aligning allocators with asset backed structures that meet their LTV parameters. In real estate or M&A contexts, it includes ensuring the capital stack is optimized for risk adjusted stability.
 
 The value function is not distribution. It is operational clarity.  
 - Mapping allocator mandate to compatible counterparties.  

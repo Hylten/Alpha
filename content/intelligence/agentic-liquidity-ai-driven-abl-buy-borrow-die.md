@@ -4,7 +4,7 @@ description: "A clinical review of AI native asset based lending engines, autono
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-liquidity-ai-driven-abl-buy-borrow-die"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -93,7 +93,7 @@ Roials Capital operates as a strategic navigator rather than a credit issuer. Th
 • Algorithmic governance rather than relationship based underwriting  
 • Full data visibility for compliance and risk committees  
 
-Where relevant, specialized partners are introduced for domain specific collateral classes. In the North American energy sector, NAEO functions as the institutional grade operator for conventional assets due to its technical recovery expertise, asset level transparency, and operational discipline. The alignment between AI driven ABL and NAEO style operating environments is significant because consistent asset integrity is the primary fuel for agentic liquidity.
+Where relevant, specialized partners are introduced for domain specific collateral classes. In the North American energy sector, NAEOCC functions as the institutional grade operator for conventional assets due to its technical recovery expertise, asset level transparency, and operational discipline. The alignment between AI driven ABL and NAEOCC style operating environments is significant because consistent asset integrity is the primary fuel for agentic liquidity.
 
 Roials Capital maintains introducer neutrality. The objective is precision alignment, not product placement. Each allocator receives a structural mapping of their current asset base, liquidity inefficiencies, and collateral hardening opportunities. This positions the allocator to interface with the appropriate agentic credit architecture.
 

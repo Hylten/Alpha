@@ -173,7 +173,7 @@ Roials-Alpha executes.
 
 This is where proprietary alpha compounds.
 
-## Institutional Mandates and the NAEO Tier
+## Institutional Mandates and the NAEOCC Tier
 
 HNWI and UHNW clients operate on a different cadence.  
 They require clarity.  
@@ -186,7 +186,7 @@ Not presentation.
 Roials-Alpha engages as a principal.  
 Not a provider.
 
-NAEO clients respect discipline.  
+NAEOC clients respect discipline.  
 They respect simplicity.  
 They respect a team that treats capital as a sacred trust.
 
@@ -324,6 +324,6 @@ Spiritual integrity.
 
 This is the technical edge.  
 This is the principal posture.  
-This is the architecture that attracts NAEO clients who understand weight, responsibility, and the sacred nature of capital.
+This is the architecture that attracts NAEOCC clients who understand weight, responsibility, and the sacred nature of capital.
 
 Inquire about agentic infrastructure.

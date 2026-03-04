@@ -15,7 +15,7 @@ Artificial intelligence has altered the structural architecture of asset based l
 
 This structural shift has become directly relevant to private equity Fund-III investment opportunities 2026 where advanced liquidity engineering is no longer auxiliary but central to underwriting strategy. It also influences capital raising for mid market buyout funds that now signal AI driven asset intelligence as part of their core GP advantage. Furthermore, regulatory tightening across EU MiFID II firm acquisitions amplifies the need for transparent, auditable, machine annotated collateral representations.
 
-Healthcare and technology carry unique attributes that historically weakened the ABL thesis. Healthcare encounters payer drag, denial churn, and clinical throughput variances. Technology faces deferred revenue arcs, intangible asset dominance, and contract concentration. AI driven ABL resolves many of these distortions by converting volatile operational flows into predictable liquidity profiles. This provides a new foundation for UHNW liquidity planning, asset backed financing for businesses, and infrastructure projects such as NAEOC energy infrastructure investment where cross sector technology stacks influence capital access criteria.
+Healthcare and technology carry unique attributes that historically weakened the ABL thesis. Healthcare encounters payer drag, denial churn, and clinical throughput variances. Technology faces deferred revenue arcs, intangible asset dominance, and contract concentration. AI driven ABL resolves many of these distortions by converting volatile operational flows into predictable liquidity profiles. This provides a new foundation for UHNW liquidity planning, asset backed financing for businesses, and infrastructure projects such as NAEOCC energy infrastructure investment where cross sector technology stacks influence capital access criteria.
 
 The mandate: articulate the mechanics and capital implications of AI driven ABL, demonstrate its institutional relevance through a detailed case simulation, and frame its deployment under the stewardship values of Gnosjö discipline, intelligence precision, and transparent capital craft.
 
@@ -178,9 +178,9 @@ Resulting uplifts:
 * Compression of integration timeline driven by predictive operating intelligence
 * Enhanced asset hardening due to better payer predictability and software usage stabilization
 
-Relevance for NAEOC Energy Infrastructure and UHNW Liquidity Planning
+Relevance for NAEOCC Energy Infrastructure and UHNW Liquidity Planning
 
-Although healthcare technology is the core scenario, the same engine applies to energy infrastructure under NAEOC policy environments. Real time asset telemetry from grid nodes can be converted into collateral signals. For UHNW liquidity planning, the technology converts illiquid assets into predictable liquidity channels based on operational data flows rather than traditional mark to market analysis.
+Although healthcare technology is the core scenario, the same engine applies to energy infrastructure under NAEOCC policy environments. Real time asset telemetry from grid nodes can be converted into collateral signals. For UHNW liquidity planning, the technology converts illiquid assets into predictable liquidity channels based on operational data flows rather than traditional mark to market analysis.
 
 
 4. STEWARDSHIP FILTER

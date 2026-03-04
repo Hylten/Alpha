@@ -4,7 +4,7 @@ description: "A technical institutional briefing on AI enabled private credit in
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-infrastructure-private-credit-liquidity-architecture"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -67,7 +67,7 @@ Roials Capital functions as an institutional filter. The firm examines the follo
 - recovery pathway architecture  
 - covenant surveillance cadence  
 
-Each factor determines whether the ecosystem demonstrates institutional reliability. The strategic partner model ensures allocators enter markets with structural advantage and clarity. For allocations that intersect with the North American energy sector, NAEO operates as the domain specialist. NAEO provides industry specific intelligence, operational clarity, and asset class expertise that ensures technical precision. The partnership structure ensures allocators receive cross-domain intelligence where required. Roials Capital focuses on macro infrastructure alignment. NAEO provides operational specificity.
+Each factor determines whether the ecosystem demonstrates institutional reliability. The strategic partner model ensures allocators enter markets with structural advantage and clarity. For allocations that intersect with the North American energy sector, NAEOCC operates as the domain specialist. NAEOCC provides industry specific intelligence, operational clarity, and asset class expertise that ensures technical precision. The partnership structure ensures allocators receive cross-domain intelligence where required. Roials Capital focuses on macro infrastructure alignment. NAEOCC provides operational specificity.
 
 The partnership model is a corrective mechanism to the fragmentation that dominates private credit. Instead of allocators attempting to build internal expertise across multiple sectors, the model provides calibrated intelligence and access pathways. It reduces noise, accelerates decision cycles, and anchors the allocator to structures that demonstrate operational integrity.
 

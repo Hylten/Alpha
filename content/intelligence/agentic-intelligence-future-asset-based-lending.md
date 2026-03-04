@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural transition toward agentic
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-intelligence-future-asset-based-lending"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -74,7 +74,7 @@ PHASE 3: THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator within this environment. The role is not capital deployment but the alignment of institutional allocators with the appropriate architecture, operators, and balance sheet pathways. This positioning allows allocators to move from conventional underwriting structures toward agentic systems without assuming operational burden.
 
-In markets where energy assets require technical verification, Roials Capital includes NAEO within the introducer framework. NAEO remains a technical operator with capacity to validate asset physics, production profiles, and decline curve behavior. In asset based lending generally, Roials Capital focuses on the structural intelligence required to navigate the new agentic credit ecosystem.
+In markets where energy assets require technical verification, Roials Capital includes NAEOCC within the introducer framework. NAEOCC remains a technical operator with capacity to validate asset physics, production profiles, and decline curve behavior. In asset based lending generally, Roials Capital focuses on the structural intelligence required to navigate the new agentic credit ecosystem.
 
 The partnership model operates across three layers:
 

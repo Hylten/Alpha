@@ -12,7 +12,7 @@ keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Alpha, 2026, liq
 THE MANDATE  
 Autonomous systems within private credit are no longer theoretical constructs but structural catalysts. They represent the most significant inflection point for capital markets since the institutionalization of structured credit in the mid 1990s. What differentiates the current cycle is the convergence between algorithmic policy execution, machine mediated underwriting, and architected liquidity pathways designed for HNWI and UHNW capital.  
 
-The mandate is to define how autonomous systems transition private credit from a manual, broker mediated environment to a digitized liquidity grid. This grid is built on machine reasoning, multi node collateral verification, and velocity based liquidity engineering. The impact is direct: capital raising for mid market buyout transactions becomes faster, more predictable, and less correlated to human bandwidth. Simultaneously, NAEOC energy infrastructure investment, EU MiFID II firm acquisitions, and asset backed financing for businesses all shift from event driven opportunities to continuous flow markets.
+The mandate is to define how autonomous systems transition private credit from a manual, broker mediated environment to a digitized liquidity grid. This grid is built on machine reasoning, multi node collateral verification, and velocity based liquidity engineering. The impact is direct: capital raising for mid market buyout transactions becomes faster, more predictable, and less correlated to human bandwidth. Simultaneously, NAEOCC energy infrastructure investment, EU MiFID II firm acquisitions, and asset backed financing for businesses all shift from event driven opportunities to continuous flow markets.
 
 The structural reality is that autonomous systems do not replace human governance. Instead, they compress the operational friction that historically made private credit a slow moving domain. They transform underwriting from a linear sequence into a dynamic, multi factor assessment engine that enables instantaneous capital allocation mapping.  
 
@@ -37,7 +37,7 @@ Advance rates in autonomous systems are no longer threshold based. Instead, they
 
 Examples:  
 - A mid market industrial company with 42 day DSO may receive an 82 percent advance rate during stable cycles, which can be automatically increased to 88 percent if real time RCM data shows a drop in delinquency velocity.  
-- Energy infrastructure assets within NAEOC energy infrastructure investment frameworks may shift from 65 percent to 72 percent advance valuation when grid feed telemetry shows a multiquarter stability trend.  
+- Energy infrastructure assets within NAEOCC energy infrastructure investment frameworks may shift from 65 percent to 72 percent advance valuation when grid feed telemetry shows a multiquarter stability trend.  
 
 Collateral volumes are not treated as monolithic blocks but as fractions within a continuous liquidity equation. The system analyses inventory liquidity half life, contract adherence, operational uptime, and asset wear cycles. The result is predictable liquidity engineering that optimizes capital efficiency without deteriorating asset hardening.
 
@@ -79,7 +79,7 @@ The system pulls:
 - Real time production telemetry from equipment sensors  
 - Contract renewal probabilities extracted through natural language vectorization  
 - Cross jurisdictional risk signals related to EU MiFID II firm acquisitions  
-- Energy consumption data for NAEOC energy infrastructure investment alignment  
+- Energy consumption data for NAEOCC energy infrastructure investment alignment  
 
 Phase 2: Collateral Modelling  
 The autonomous engine builds a collateral map which identifies three primary liquidity vectors:  
@@ -98,7 +98,7 @@ Advance rates are dynamic, not fixed.
 This yields an initial liquidity allocation of 40.2M.
 
 Phase 4: Capital Expansion Through Recursive Liquidity  
-The system identifies an opportunity to enhance capital efficiency through secondary collateralization. By integrating energy telemetry signals tied to the facility's power management infrastructure, the system categorizes part of the division's energy assets under NAEOC energy infrastructure investment frameworks. This classification increases stability coefficients and allows an additional 6M of liquidity.
+The system identifies an opportunity to enhance capital efficiency through secondary collateralization. By integrating energy telemetry signals tied to the facility's power management infrastructure, the system categorizes part of the division's energy assets under NAEOCC energy infrastructure investment frameworks. This classification increases stability coefficients and allows an additional 6M of liquidity.
 
 Total engineered liquidity: 46.2M.
 
