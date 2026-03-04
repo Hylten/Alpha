@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Asset Hardening: Automating Institutio"
 description: "Algorithmic Asset Hardening: Automating Institutio"
-date: "2026-02-02"
+date: "2026-01-02"
 author: "Jonas Hyltén"
 slug: "algorithmic-asset-hardening:-automating-institutio"
 keywords: "private credit, ABL, liquidity"

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow for Institutional Investors: The New Architecture of High-Velocity Capital"
 description: "A deep dive into autonomous deal flow mechanics, liquidity engineering, and asset based liquidity engineering structures for institutional and ultra high net worth investors."
-date: "2026-02-03"
+date: "2026-01-03"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-for-institutional-investors"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Intelligence on Asset Hardening via DeFi Protocols for High Net Worth Capital"
 description: "High level proprietary mechanics on liquidity optimization, private credit, and asset based liquidity engineering structures for HNWI and UHNW individuals."
-date: "2026-02-10"
+date: "2026-01-07"
 author: "Jonas Hyltén"
 slug: "proprietary-intelligence-on-asset-hardening-via-de"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
