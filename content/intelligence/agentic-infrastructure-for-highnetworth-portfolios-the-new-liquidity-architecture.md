@@ -1,9 +1,9 @@
 ---
 title: "Agentic Infrastructure for High‑Net‑Worth Portfolios: The New Liquidity Architecture"
 description: "A deep look into agentic infrastructure, private credit liquidity engineering, and asset based liquidity engineering structures engineered to expand liquidity for high net worth portfolios."
-date: "2026-01-19"
+date: "2025-12-23"
 author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-high-net-worth-portfoli"
+slug: "agentic-infrastructure-for-highnetworth-portfolios-the-new-liquidity-architecture"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "The Alpha Vision for AI‑First Capital Management"
 description: "A deep‑reach analysis of AI driven liquidity architecture, private credit, and asset based liquidity engineering for ultra affluent capital holders."
-date: "2026-02-15"
+date: "2026-01-10"
 author: "Jonas Hyltén"
-slug: "the-alpha-vision-for-ai-first-capital-management"
+slug: "the-alpha-vision-for-aifirst-capital-management"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

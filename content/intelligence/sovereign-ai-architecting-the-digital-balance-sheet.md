@@ -1,9 +1,9 @@
 ---
 title: "Sovereign AI: Architecting the Digital Balance Sheet"
 description: "A high-end strategic analysis of AI structured liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital architecture."
-date: "2026-02-11"
+date: "2026-01-08"
 author: "Jonas Hyltén"
-slug: "sovereign-ai-architecting-the-digital-balance-she"
+slug: "sovereign-ai-architecting-the-digital-balance-sheet"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

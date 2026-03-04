@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Sovereign Capital Migration"
 description: "High‑precision liquidity engineering using private credit and asset based liquidity engineering structures for HNWI and UHNW capital velocity."
-date: "2026-01-25"
+date: "2025-12-28"
 author: "Jonas Hyltén"
 slug: "agentic-systems-for-sovereign-capital-migration"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

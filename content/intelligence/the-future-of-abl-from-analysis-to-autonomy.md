@@ -1,7 +1,7 @@
 ---
 title: "The Future of ABL: From Analysis to Autonomy"
 description: "A high-authority exploration of next‑generation asset based liquidity engineering and liquidity architecture for HNWI and UHNW clients."
-date: "2026-02-15"
+date: "2026-01-11"
 author: "Jonas Hyltén"
 slug: "the-future-of-abl-from-analysis-to-autonomy"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

@@ -1,9 +1,9 @@
 ---
 title: "AI-Driven Liquidity Architecture for Institutional Sovereigns"
 description: "A technically dominant exploration of AI-driven liquidity, private credit, and institutional-grade ABL frameworks engineered for HNWI and UHNW capital."
-date: "2026-01-29"
+date: "2025-12-30"
 author: "Jonas Hyltén"
-slug: "ai-driven-liquidity-for-institutional-sovereigns"
+slug: "ai-driven-liquidity-architecture-for-institutional-sovereigns"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

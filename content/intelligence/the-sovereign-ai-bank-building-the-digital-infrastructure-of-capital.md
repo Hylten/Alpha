@@ -1,9 +1,9 @@
 ---
 title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"
 description: "A high-authority exploration of AI powered liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW clients seeking structural capital advantages."
-date: "2026-02-21"
+date: "2026-01-15"
 author: "Jonas Hyltén"
-slug: "the-sovereign-ai-bank-building-the-digital-infras"
+slug: "the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

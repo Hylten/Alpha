@@ -1,9 +1,9 @@
 ---
 title: "The Proprietary Model for Automated Asset Hardening"
 description: "High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based liquidity engineering. Automated asset hardening for institutional grade capital efficiency."
-date: "2026-02-20"
+date: "2026-01-14"
 author: "Jonas Hyltén"
-slug: "the-proprietary-model-for-automated-asset-hardenin"
+slug: "the-proprietary-model-for-automated-asset-hardening"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Agentic Alpha: The AI-Orchestrated Future of Crypto-Backed liquidity engineering"
 description: "High-liquidity AI liquidity engineering infrastructure built on private credit and asset-based liquidity engineering for HNWI and UHNW borrowers."
-date: "2026-01-16"
+date: "2025-12-21"
 author: "Jonas Hyltén"
-slug: "agentic-alpha-ai-orchestrated-crypto-backed-lendi"
+slug: "agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 

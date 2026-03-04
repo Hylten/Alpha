@@ -1,9 +1,9 @@
 ---
 title: "The Alpha Approach to AI First liquidity engineering: Institutional Mechanics for the Next Liquidity Class"
 description: "A deep technical exploration of AI driven private credit and asset based liquidity engineering, engineered for HNWI and UHNW clients seeking precision liquidity."
-date: "2026-02-13"
+date: "2026-01-09"
 author: "Jonas Hyltén"
-slug: "the-alpha-approach-to-ai-first-liquidityengineering"
+slug: "the-alpha-approach-to-ai-first-liquidity-engineering-institutional-mechanics-for-the-next-liquidity-"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
