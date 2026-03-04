@@ -1,3 +1,12 @@
+---
+title: "Proprietary Agentic Models"
+description: "Insights on Proprietary Agentic Models from Roials Capital and Hyltén Invest."
+date: "2026-03-04"
+author: "Roials Architect"
+slug: "proprietary-agentic-models"
+keywords: "private credit, asset based lending, strategic capital"
+---
+
 # Proprietary Agentic Models  
 Roials-Alpha Edition  
 

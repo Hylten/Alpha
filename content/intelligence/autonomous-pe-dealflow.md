@@ -1,3 +1,12 @@
+---
+title: "Autonomous PE Dealflow"
+description: "Insights on Autonomous PE Dealflow from Roials Capital and Hyltén Invest."
+date: "2026-03-04"
+author: "Roials Architect"
+slug: "autonomous-pe-dealflow"
+keywords: "private credit, asset based lending, strategic capital"
+---
+
 # Autonomous PE Dealflow  
   
 
