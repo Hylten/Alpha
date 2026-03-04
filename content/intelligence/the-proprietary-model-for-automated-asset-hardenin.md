@@ -1,7 +1,7 @@
 ---
 title: "The Proprietary Model for Automated Asset Hardening"
 description: "High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based lending. Automated asset hardening for institutional grade capital efficiency."
-date: "2026-03-04"
+date: "2026-02-07"
 author: "Roials Architect"
 slug: "the-proprietary-model-for-automated-asset-hardenin"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

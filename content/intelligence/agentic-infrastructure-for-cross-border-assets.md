@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Cross‑Border Assets: The New Liquidity Architecture for Private Capital"
 description: "High-end analysis on liquidity infrastructure, private credit, and asset based lending for global HNWI and UHNW portfolios. Roials‑Alpha enables institutional-grade cross-border leverage."
-date: "2026-03-04"
+date: "2026-01-09"
 author: "Roials Architect"
 slug: "agentic-infrastructure-for-cross-border-assets"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

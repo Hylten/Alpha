@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Global Family Offices: The New Liquidity Architecture"
 description: "A high-authority breakdown of agentic infrastructure for global family offices, with emphasis on liquidity generation through private credit and asset based lending."
-date: "2026-03-04"
+date: "2026-01-10"
 author: "Roials Architect"
 slug: "agentic-infrastructure-for-global-family-offices"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

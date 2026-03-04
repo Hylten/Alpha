@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow: How AI Surfaces ABL Liquidity Before Humans Notice"
 description: "How autonomous systems detect asset based lending opportunities, accelerate private credit liquidity, and create silent structural advantage for HNWI and UHNW clients."
-date: "2026-03-04"
+date: "2026-01-25"
 author: "Roials Architect"
 slug: "autonomous-deal-flow:-how-ai-identifies-abl-opport"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

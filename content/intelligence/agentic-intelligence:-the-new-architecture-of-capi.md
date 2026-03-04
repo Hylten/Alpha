@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Capital"
 description: "A high‑end technical analysis of liquidity engines, private credit structures, and asset based lending for HNWI and UHNW seeking institutional grade capital architecture."
-date: "2026-03-04"
+date: "2026-01-13"
 author: "Roials Architect"
 slug: "agentic-intelligence:-the-new-architecture-of-capi"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

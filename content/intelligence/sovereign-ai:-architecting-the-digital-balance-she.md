@@ -1,7 +1,7 @@
 ---
 title: "Sovereign AI: Architecting the Digital Balance Sheet"
 description: "A high-end strategic analysis of AI structured liquidity, private credit, and asset based lending for HNWI and UHNW capital architecture."
-date: "2026-03-04"
+date: "2026-01-30"
 author: "Roials Architect"
 slug: "sovereign-ai:-architecting-the-digital-balance-she"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Complex Financial Structures"
 description: "High velocity liquidity engineering through private credit and asset based lending structures designed for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-01-15"
 author: "Roials Architect"
 slug: "agentic-systems-for-complex-financial-structures"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
@@ -26,4 +26,3 @@ We do not market to the general public.
   
 
 We are an engineering layer for capital owners who operate above retail friction.
-

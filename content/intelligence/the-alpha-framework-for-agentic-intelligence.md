@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Framework for Agentic Intelligence"
 description: "A deep technical exploration of Roials-Alpha and its liquidity architecture across private credit and asset based lending."
-date: "2026-03-04"
+date: "2026-02-01"
 author: "Roials Architect"
 slug: "the-alpha-framework-for-agentic-intelligence"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

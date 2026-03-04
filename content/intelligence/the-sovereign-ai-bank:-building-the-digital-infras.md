@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"
 description: "A high-authority exploration of AI powered liquidity, private credit, and asset based lending for HNWI and UHNW clients seeking structural capital advantages."
-date: "2026-03-04"
+date: "2026-02-08"
 author: "Roials Architect"
 slug: "the-sovereign-ai-bank:-building-the-digital-infras"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

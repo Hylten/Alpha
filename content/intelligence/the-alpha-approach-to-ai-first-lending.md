@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Approach to AI First Lending: Institutional Mechanics for the Next Liquidity Class"
 description: "A deep technical exploration of AI driven private credit and asset based lending, engineered for HNWI and UHNW clients seeking precision liquidity."
-date: "2026-03-04"
+date: "2026-01-31"
 author: "Roials Architect"
 slug: "the-alpha-approach-to-ai-first-lending"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

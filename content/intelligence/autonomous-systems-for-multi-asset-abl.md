@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Systems for Multi‑Asset ABL: The New Architecture of Intelligent Credit"
 description: "A deep analysis of autonomous systems for multi‑asset ABL, optimized for liquidity engineering and high net worth credit execution."
-date: "2026-03-04"
+date: "2026-01-27"
 author: "Roials Architect"
 slug: "autonomous-systems-for-multi-asset-abl"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

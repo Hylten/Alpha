@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure AI First"
 description: "Insights on Agentic Infrastructure AI First from Roials Capital and Hyltén Invest."
-date: "2026-03-04"
+date: "2026-01-08"
 author: "Roials Architect"
 slug: "agentic-infrastructure-ai-first"
 keywords: "private credit, asset based lending, strategic capital"

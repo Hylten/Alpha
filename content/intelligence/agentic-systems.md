@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems in Fund III Operations"
 description: "How autonomous digital operators are accelerating the screening and origination pipelines in mid-market rollups."
-date: "2026-03-03"
+date: "2026-01-17"
 author: "Roials Alpha Systems"
 slug: "agentic-systems-fund-iii"
 keywords: "Agentic Workflow, AI, Alpha, Private Equity, Operational Infrastructure"

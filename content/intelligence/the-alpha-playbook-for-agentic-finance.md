@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Playbook for Agentic Finance"
 description: "A high authority blueprint on liquidity engineering, private credit, and asset based lending for HNWI and UHNW investors."
-date: "2026-03-04"
+date: "2026-02-01"
 author: "Roials Architect"
 slug: "the-alpha-playbook-for-agentic-finance"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

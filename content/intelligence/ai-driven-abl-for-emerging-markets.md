@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven ABL for Emerging Markets: The Silent Infrastructure of Future Liquidity"
 description: "An advanced breakdown of how AI-driven Asset-Based Lending unlocks liquidity in emerging markets for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-01-18"
 author: "Roials Architect"
 slug: "ai-driven-abl-for-emerging-markets"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

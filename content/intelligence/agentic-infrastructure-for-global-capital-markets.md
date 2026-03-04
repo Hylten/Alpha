@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Global Capital Markets"
 description: "Advanced liquidity architecture for private credit and asset based lending, engineered for HNWI and UHNW capital optimization."
-date: "2026-03-04"
+date: "2026-01-09"
 author: "Roials Architect"
 slug: "agentic-infrastructure-for-global-capital-markets"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

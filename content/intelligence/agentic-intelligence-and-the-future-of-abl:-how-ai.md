@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the Future of ABL: How AI-Driven Credit Systems Redefine Liquidity"
 description: "How autonomous financial agents are transforming asset-based lending into a proactive wealth engine."
-date: "2026-03-04"
+date: "2026-01-12"
 author: "Roials Alpha Architect"
 slug: "agentic-intelligence-and-the-future-of-abl:-how-ai"
 keywords: "agentic AI, ABL, private credit, fintech, Roials Alpha"

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Systems for Private Credit Expansion: The New Liquidity Architecture for HNWI"
 description: "High‑end analysis on autonomous systems, liquidity engineering, and asset‑based lending structures for private credit expansion."
-date: "2026-03-04"
+date: "2026-01-27"
 author: "Roials Architect"
 slug: "autonomous-systems-for-private-credit-expansion"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
