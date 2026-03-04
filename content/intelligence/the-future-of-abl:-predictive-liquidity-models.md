@@ -1,7 +1,7 @@
 ---
 title: "The Future of ABL: Predictive Liquidity Models for Institutional Precision"
 description: "A high‑authority deep dive into predictive liquidity models and the next era of private credit and asset based lending for HNWI and UHNW lenders."
-date: "2026-02-03"
+date: "2026-02-16"
 author: "Jonas Hyltén"
 slug: "the-future-of-abl:-predictive-liquidity-models"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

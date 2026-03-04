@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Liquidity Architecture for High Velocity Private Credit"
 description: "An advanced exploration of AI powered liquidity infrastructure for Private Credit and Asset Based Lending, tailored for high velocity deal flow."
-date: "2026-01-19"
+date: "2026-01-28"
 author: "Jonas Hyltén"
 slug: "ai-driven-liquidity-for-high-velocity-deals"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

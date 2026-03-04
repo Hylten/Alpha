@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity: How AI-Driven ABL Supercharges the Buy Borrow Die Strategy"
 description: "A deep, technical, high-level analysis of how agentic AI unlocks liquidity, leverage efficiency, and tax-optimized wealth scaling through next-generation asset based lending."
-date: "2026-01-14"
+date: "2026-01-23"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity:-how-ai-driven-abl-optimizes-'bu"
 keywords: "private credit, asset based lending, Roials-Alpha"

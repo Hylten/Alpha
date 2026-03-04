@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems and the New Architecture of PE Dealflow"
 description: "A high-authority exploration of agentic systems, liquidity engineering, and advanced asset based lending structures for HNWI and UHNW investors."
-date: "2026-01-15"
+date: "2026-01-24"
 author: "Jonas Hyltén"
 slug: "agentic-systems-and-the-evolution-of-pe-dealflow"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

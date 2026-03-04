@@ -1,7 +1,7 @@
 ---
 title: "The Proprietary Path to Autonomous Capital"
 description: "A high-authority exploration of Roials-Alpha liquidity structures, private credit, and asset based lending engineered for HNWI and UHNW capital autonomy."
-date: "2026-02-08"
+date: "2026-02-21"
 author: "Jonas Hyltén"
 slug: "the-proprietary-path-to-autonomous-capital"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"

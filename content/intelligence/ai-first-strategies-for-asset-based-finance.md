@@ -1,7 +1,7 @@
 ---
 title: "AI-First Strategies for Asset-Based Finance: The New Liquidity Architecture for HNWI and UHNW"
 description: "Advanced AI-driven approaches to private credit and asset-based lending, engineered for high net worth liquidity optimization."
-date: "2026-01-22"
+date: "2026-01-31"
 author: "Jonas Hyltén"
 slug: "ai-first-strategies-for-asset-based-finance"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
