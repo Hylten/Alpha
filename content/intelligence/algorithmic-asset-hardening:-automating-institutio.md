@@ -219,7 +219,7 @@ Not an aspirational symbol.
 
 This philosophical substrate is embedded into Roials-Alpha’s operating logic.
 
-It structures lending criteria.  
+It structures liquidity engineering criteria.  
 It structures risk philosophy.  
 It structures counterparty selection.  
 It structures covenant enforcement.
@@ -260,7 +260,7 @@ It accelerates deployment.
 
 Roials-Alpha addresses collateral through clarity.
 
-Crypto lending requires a 2 million minimum.  
+Crypto liquidity engineering requires a 2 million minimum.  
 Public shares require a 5 million minimum.
 
 These are not arbitrary.  
@@ -326,7 +326,7 @@ Not a temporary façade.
 
 # Algorithmic Anticipation
 
-The difference between reactive lending and Principal-grade lending is anticipation.
+The difference between reactive liquidity engineering and Principal-grade liquidity engineering is anticipation.
 
 Reactive underwriting responds to surface data.  
 Principal underwriting anticipates.

@@ -197,8 +197,8 @@ Only after the first five layers are hardened do we execute.
 
 The architecture supports:
 
-- Crypto lending starting at 2M.  
-- Public shares lending starting at 5M.  
+- Crypto liquidity engineering starting at 2M.  
+- Public shares liquidity engineering starting at 5M.  
 - Private credit lines above 1M.  
 - Cross-border asset based structures.
 

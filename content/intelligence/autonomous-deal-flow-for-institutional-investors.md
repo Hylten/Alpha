@@ -1,10 +1,10 @@
 ---
 title: "Autonomous Deal Flow for Institutional Investors: The New Architecture of High-Velocity Capital"
-description: "A deep dive into autonomous deal flow mechanics, liquidity engineering, and asset based lending structures for institutional and ultra high net worth investors."
+description: "A deep dive into autonomous deal flow mechanics, liquidity engineering, and asset based liquidity engineering structures for institutional and ultra high net worth investors."
 date: "2026-02-03"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-for-institutional-investors"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Autonomous Deal Flow for Institutional Investors
@@ -15,7 +15,7 @@ Institutional investors are no longer looking for faster deal sourcing. They wan
 
 Roials-Alpha builds the infrastructure for this shift.  
 
-We engineer the mechanical backbone that transforms private credit and asset based lending into autonomous financial architecture, calibrated for HNWI and UHNW operators who do not trade time for access.  
+We engineer the mechanical backbone that transforms private credit and asset based liquidity engineering into autonomous financial architecture, calibrated for HNWI and UHNW operators who do not trade time for access.  
 
 They command liquidity on arrival.  
 
@@ -70,7 +70,7 @@ Roials-Alpha designs that system.
 
 ## Conclusion
 
-Autonomous deal flow is the natural evolution of private lending, asset-based structures, and institutional-grade liquidity engineering.  
+Autonomous deal flow is the natural evolution of private liquidity engineering, asset-based structures, and institutional-grade liquidity engineering.  
 
 Roials-Alpha builds the architecture that makes this evolution functional, scalable, and silent.  
 

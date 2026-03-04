@@ -4,7 +4,7 @@ description: "A deep analysis of autonomous systems for multi‑asset ABL, optim
 date: "2026-02-07"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-multi-asset-abl"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Autonomous Systems for Multi Asset ABL
@@ -51,7 +51,7 @@ The system observes.
 
 The system scores.  
 
-The system adjusts the lending envelope with neutral precision.
+The system adjusts the liquidity engineering envelope with neutral precision.
 
 Borrowers benefit from stability engineered through movement rather than through restriction.  
 
@@ -61,7 +61,7 @@ Liquidity is a behavior, not a balance sheet line item.
 
 Autonomous systems make it programmable.
 
-By integrating private credit, crypto collateral, and public share lending into one machine executed environment, the system can route capital based on probability weighted stability rather than static underwriting rules.  
+By integrating private credit, crypto collateral, and public share liquidity engineering into one machine executed environment, the system can route capital based on probability weighted stability rather than static underwriting rules.  
 
 This produces a new form of liquidity orchestration:
 
@@ -97,7 +97,7 @@ Then they calculate the exact leverage perimeter that maximizes borrow capacity 
 
 This is alpha extraction through computational discipline.
 
-## Crypto Lending at Institutional Scale
+## Crypto liquidity engineering at Institutional Scale
 
 Crypto collateral provides speed.  
 
@@ -113,9 +113,9 @@ The autonomous engine handles the variables:
 • Volatility clusters  
 • Rapid contagion signals  
 
-This creates a crypto lending framework that is resilient, predictable, and engineered for high net worth stability rather than speculation.
+This creates a crypto liquidity engineering framework that is resilient, predictable, and engineered for high net worth stability rather than speculation.
 
-## Public Share Lending with Autonomous Governance
+## Public Share liquidity engineering with Autonomous Governance
 
 Public equities behave differently from crypto.  
 
@@ -152,7 +152,7 @@ Once modeled, private credit becomes the gravitational center of the ABL structu
 
 It offsets volatility elsewhere.  
 
-Borrowers benefit from smoother leverage profiles and higher total borrowing power.
+Borrowers benefit from smoother leverage profiles and higher total balance sheet optimization power.
 
 ## Agentic Flow Control and Automated Margin Safety
 

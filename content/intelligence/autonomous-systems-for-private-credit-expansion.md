@@ -1,10 +1,10 @@
 ---
 title: "Autonomous Systems for Private Credit Expansion: The New Liquidity Architecture for HNWI"
-description: "High‑end analysis on autonomous systems, liquidity engineering, and asset‑based lending structures for private credit expansion."
+description: "High‑end analysis on autonomous systems, liquidity engineering, and asset‑based liquidity engineering structures for private credit expansion."
 date: "2026-02-07"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-private-credit-expansion"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Autonomous Systems for Private Credit Expansion  
@@ -47,8 +47,8 @@ They are the new credit infrastructure.
   
 
 Private credit expansion belongs to those with engineered liquidity.  
-Asset‑based lending belongs to those who treat assets as computational inputs.  
-High‑threshold crypto and public share lending belong to those who understand scale capital mechanics.  
+Asset‑based liquidity engineering belongs to those who treat assets as computational inputs.  
+High‑threshold crypto and public share liquidity engineering belong to those who understand scale capital mechanics.  
 
   
 

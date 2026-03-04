@@ -1,6 +1,6 @@
 ---
 title: "Agentic Intelligence and the Future of ABL: How AI-Driven Credit Systems Redefine Liquidity"
-description: "How autonomous financial agents are transforming asset-based lending into a proactive wealth engine."
+description: "How autonomous financial agents are transforming asset-based liquidity engineering into a proactive wealth engine."
 date: "2026-01-21"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-future-of-abl:-how-ai"
@@ -9,7 +9,7 @@ keywords: "agentic AI, ABL, private credit, fintech, Roials Alpha"
 
 # Agentic Intelligence and the Future of ABL: How AI-Driven Credit Systems Redefine Liquidity
 
-Asset based lending is entering a structural rewrite.  
+Asset based liquidity engineering is entering a structural rewrite.  
 Not an optimization.  
 A replacement.
 
@@ -32,7 +32,7 @@ Roials Alpha operates at this frontier.
 
 ABL has historically been built on static snapshots.  
 Quarterly statements.  
-Manual borrowing base certificates.  
+Manual balance sheet optimization base certificates.  
 Delayed reporting.  
 Point in time risk.
 
@@ -88,13 +88,13 @@ Audit streaming.
 
 ABL facilities transition from static credit products into adaptive credit utilities.
 
-## Continuous Borrowing Base Reconstruction
+## Continuous balance sheet optimization Base Reconstruction
 
-Traditional borrowing bases are manually assembled.  
+Traditional balance sheet optimization bases are manually assembled.  
 The process is fragile.  
 It depends on borrower integrity and lender interpretation.
 
-Agentic credit systems rebuild the borrowing base in real time.  
+Agentic credit systems rebuild the balance sheet optimization base in real time.  
 Line item by line item.  
 Across every ledger.  
 Across every counterparty.
@@ -104,7 +104,7 @@ Inventory is valued using continuous signals.
 Dilution risk is recalculated at ingestion.  
 Concentration risk is adjusted without human oversight.
 
-Borrowing capacity becomes fluid.  
+balance sheet optimization capacity becomes fluid.  
 The line becomes alive.
 
 ## The Rise of Predictive Liquidity
@@ -112,7 +112,7 @@ The line becomes alive.
 Once every asset in the collateral pool is machine monitored, the next evolution emerges.  
 Predictive availability.
 
-Agentic intelligence does not only quantify current borrowing capacity.  
+Agentic intelligence does not only quantify current balance sheet optimization capacity.  
 It forecasts future capacity.
 
 Examples:
@@ -130,7 +130,7 @@ Liquidity anticipates them.
 
 ## Automation First Risk Architecture
 
-Risk controls in agentic lending environments behave differently.
+Risk controls in agentic liquidity engineering environments behave differently.
 
 They are not rules.  
 They are agents.  
@@ -185,7 +185,7 @@ It uses:
 • Counterparty behavior modeling  
 
 Eligibility is recalculated in minutes, not weeks.  
-The borrowing base is always current.  
+The balance sheet optimization base is always current.  
 Always compliant.  
 Always verified.
 
@@ -243,7 +243,7 @@ Monitoring.
 Underwriting.  
 Risk modeling.  
 Eligibility verification.  
-Borrowing base construction.  
+balance sheet optimization base construction.  
 Fraud detection.  
 Facility optimization.
 

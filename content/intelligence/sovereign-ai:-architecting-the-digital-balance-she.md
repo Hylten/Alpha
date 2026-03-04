@@ -1,10 +1,10 @@
 ---
 title: "Sovereign AI: Architecting the Digital Balance Sheet"
-description: "A high-end strategic analysis of AI structured liquidity, private credit, and asset based lending for HNWI and UHNW capital architecture."
+description: "A high-end strategic analysis of AI structured liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital architecture."
 date: "2026-02-11"
 author: "Jonas Hyltén"
 slug: "sovereign-ai:-architecting-the-digital-balance-she"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Sovereign AI: Architecting the Digital Balance Sheet
@@ -23,9 +23,9 @@ We operate quietly. We operate structurally. We operate where institutional capi
 
 This article outlines the trade architecture behind Sovereign AI, and why digital balance sheets will become the new standard for elite private capital.
 
-## Crypto Lending for Institutional-Grade Digital Holders
+## Crypto liquidity engineering for Institutional-Grade Digital Holders
 
-Crypto as collateral is now a legitimate asset class for structured lending, but it requires precision.
+Crypto as collateral is now a legitimate asset class for structured liquidity engineering, but it requires precision.
 
   
 
@@ -51,14 +51,14 @@ Our Sovereign AI layer performs:
 - Portfolio-weighted collateral stress tests  
 
   
-This minimizes the need for forced liquidation events and maximizes borrowing power while maintaining safety integrity.
+This minimizes the need for forced liquidation events and maximizes balance sheet optimization power while maintaining safety integrity.
 
   
 
 Crypto holders gain liquidity without breaking long-term theses.  
 This is critical in markets that punish emotional exits.
 
-## Public Share Lending for Large, Concentrated Positions
+## Public Share liquidity engineering for Large, Concentrated Positions
 
 For clients with significant public equity positions, liquidity extraction is an art.
 
@@ -73,7 +73,7 @@ Share disposal can disrupt voting structures, long-term mandates, and tax strate
 
   
 
-Our public share lending framework is designed to avoid signaling risk, portfolio deformation, and unnecessary public visibility.
+Our public share liquidity engineering framework is designed to avoid signaling risk, portfolio deformation, and unnecessary public visibility.
 
   
 
@@ -86,7 +86,7 @@ Sovereign AI monitors:
 - Volatility clusters  
 
   
-This allows us to construct lending lines that align with both liquidity requirements and narrative stability.
+This allows us to construct liquidity engineering lines that align with both liquidity requirements and narrative stability.
 
   
 
@@ -157,7 +157,7 @@ This transforms the balance sheet into a protected system rather than a reactive
 
 ## The Leverage Engine
 
-AI optimized leverage is not about maximizing borrowing power.  
+AI optimized leverage is not about maximizing balance sheet optimization power.  
 It is about maximizing functional liquidity while minimizing structural risk.
 
   
@@ -205,9 +205,9 @@ Agentic structuring is the next evolution of private credit.
   
 
 The system analyzes your entire asset universe.  
-It identifies the ideal borrowing base.  
+It identifies the ideal balance sheet optimization base.  
 It predicts liquidity requirements.  
-It constructs the lending stack automatically.
+It constructs the liquidity engineering stack automatically.
 
   
 

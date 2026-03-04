@@ -101,7 +101,7 @@ Structural alignment is the backbone of covenant stewardship.
 Borrowers entering the pipeline are conditioned through systematic filtration.  
 Eligibility is verified against capital thresholds.
 
-- Crypto secured lending minimum 2 million.  
+- Crypto secured liquidity engineering minimum 2 million.  
 - Public shares minimum 5 million.  
 - Private credit mandates mapped to liquidity ranges and collateral integrity.  
 
@@ -126,7 +126,7 @@ Signal intake.
 Machine parsing of financial documents, chain of custody, collateral audit trails, director behavior, and jurisdictional risk.
 
 ### Layer Two  
-Scoring frameworks modeled on historical lending events, asset price movements, and covenant breach probability.
+Scoring frameworks modeled on historical liquidity engineering events, asset price movements, and covenant breach probability.
 
 ### Layer Three  
 Scenario projection.  

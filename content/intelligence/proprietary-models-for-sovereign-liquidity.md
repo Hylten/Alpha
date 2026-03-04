@@ -1,10 +1,10 @@
 ---
 title: "Proprietary Models for Sovereign Liquidity"
-description: "High authority analysis of Roials-Alpha proprietary liquidity structures, private credit, and asset-based lending for HNWI and UHNW clients."
+description: "High authority analysis of Roials-Alpha proprietary liquidity structures, private credit, and asset-based liquidity engineering for HNWI and UHNW clients."
 date: "2026-02-10"
 author: "Jonas Hyltén"
 slug: "proprietary-models-for-sovereign-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Proprietary Models for Sovereign Liquidity
@@ -29,15 +29,15 @@ Our foundation is simple.
 
   
 
-We lend against Private Credit and Asset Based Lending assets for qualified HNWI and UHNW portfolios.
+We lend against Private Credit and Asset Based liquidity engineering assets for qualified HNWI and UHNW portfolios.
 
   
 
-We support institutional grade Crypto Lending with a minimum of 2,000,000.
+We support institutional grade Crypto liquidity engineering with a minimum of 2,000,000.
 
   
 
-We support Public Share Lending with a minimum of 5,000,000.
+We support Public Share liquidity engineering with a minimum of 5,000,000.
 
   
 

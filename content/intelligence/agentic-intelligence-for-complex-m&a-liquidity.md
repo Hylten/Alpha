@@ -4,7 +4,7 @@ description: "High‑authority analysis on agentic intelligence, private credit,
 date: "2026-01-22"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-for-complex-m&a-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Intelligence for Complex M&A Liquidity
@@ -17,7 +17,7 @@ We engineer liquidity where legacy underwriting cannot even model the geometry.
 
   
 
-Our framework uses agentic intelligence to convert fragmented assets, asymmetric credit realities, and multi‑jurisdictional structures into executable, institution‑grade lending pathways.
+Our framework uses agentic intelligence to convert fragmented assets, asymmetric credit realities, and multi‑jurisdictional structures into executable, institution‑grade liquidity engineering pathways.
 
   
 
@@ -63,7 +63,7 @@ It respects the hidden variables that determine whether a transaction stabilizes
 
   
 
-This is where structural intelligence eclipses traditional lending logic.
+This is where structural intelligence eclipses traditional liquidity engineering logic.
 
 ## The Mechanics Behind Silent Execution
 
@@ -122,7 +122,7 @@ They only need infrastructure.
 
 ## The Future: Autonomous Liquidity for Autonomous Principals
 
-Agentic intelligence is not the future of lending.
+Agentic intelligence is not the future of liquidity engineering.
 
   
 

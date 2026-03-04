@@ -1,10 +1,10 @@
 ---
 title: "The Alpha Playbook for Agentic Finance"
-description: "A high authority blueprint on liquidity engineering, private credit, and asset based lending for HNWI and UHNW investors."
+description: "A high authority blueprint on liquidity engineering, private credit, and asset based liquidity engineering for HNWI and UHNW investors."
 date: "2026-02-14"
 author: "Jonas Hyltén"
 slug: "the-alpha-playbook-for-agentic-finance"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # The Alpha Playbook for Agentic Finance
@@ -133,7 +133,7 @@ It is human directed and machine optimized.
 
 Roials Alpha specializes in liquidity structures that do not follow linear timelines.  
 
-Traditional borrowing logic assumes a straight line.  
+Traditional balance sheet optimization logic assumes a straight line.  
 
 We assume a curve.  
 

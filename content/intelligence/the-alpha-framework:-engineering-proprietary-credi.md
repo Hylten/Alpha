@@ -121,7 +121,7 @@ Because counterparty behavior under pressure determines credit outcome.
 
 ## Asset Hardening  
 Asset Hardening is the process of engineering credit structures that withstand institutional scrutiny before capital deployment.  
-Most credit failures occur before the loan is issued.  
+Most credit failures occur before the liquidity facility is issued.  
 Failure is latent in structure.  
 
 Asset Hardening operates in four arcs.  
@@ -159,7 +159,7 @@ The goal is not maximum coverage.
 The goal is maximum certainty.  
 
 ### Information Integrity  
-High velocity lending collapses when data is unreliable.  
+High velocity liquidity engineering collapses when data is unreliable.  
 Information integrity demands:  
 * clean ledger architecture.  
 * standardized reporting cadence.  
@@ -179,7 +179,7 @@ Control requires:
 * transparent intercreditor relationships.  
 * direct access to operational data.  
 
-These controls transform the lending dynamic.  
+These controls transform the liquidity engineering dynamic.  
 The borrower remains in stewardship.  
 The lender gains predictability.  
 
@@ -303,7 +303,7 @@ The lender experiences protection.
 ## Specialized Domains  
 The Alpha Framework adapts to specific structures.  
 
-### Crypto Secured Lending  
+### Crypto Secured liquidity engineering  
 Minimum threshold 2M.  
 
 Crypto collateral requires:  
@@ -316,7 +316,7 @@ The advantage is velocity.
 The risk is counterparty opacity.  
 Asset hardening resolves this by isolating collateral within enforceable pathways.  
 
-### Public Share Secured Lending  
+### Public Share Secured liquidity engineering  
 Minimum threshold 5M.  
 
 Public equities are liquid but exposed to volatility.  

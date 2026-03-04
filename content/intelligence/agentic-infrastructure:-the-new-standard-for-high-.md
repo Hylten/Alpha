@@ -57,7 +57,7 @@ We are now in a financial reality defined by the following conditions.
 - Intermediary fragility.  
 - Execution bottlenecks.  
 - Compliance drag that reduces return velocity.  
-- Inconsistent lending appetites at institutional desks.  
+- Inconsistent liquidity engineering appetites at institutional desks.  
 - Increasing signal noise from public markets.  
 - A saturated private credit universe with minimal actual intelligence.
 
@@ -143,10 +143,10 @@ Not narratives.
 ### 2. Liquidity Routing  
 Once intelligence is extracted, the system evaluates optimal liquidity paths.  
 This includes cross asset collateralization and private credit routing.  
-Institutional lending thresholds are respected.
+Institutional liquidity engineering thresholds are respected.
 
-- Crypto lending begins at 2M.  
-- Public shares lending begins at 5M.
+- Crypto liquidity engineering begins at 2M.  
+- Public shares liquidity engineering begins at 5M.
 
 Liquidity routing is execution focused.  
 Not exploratory.

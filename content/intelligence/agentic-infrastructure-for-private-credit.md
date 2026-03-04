@@ -1,10 +1,10 @@
 ---
 title: "Agentic Infrastructure for Private Credit: The New Liquidity Architecture for HNWI and UHNW"
-description: "High-end liquidity architecture built on agentic automation and asset based lending for private credit. Institutional mechanics for high net worth capital."
+description: "High-end liquidity architecture built on agentic automation and asset based liquidity engineering for private credit. Institutional mechanics for high net worth capital."
 date: "2026-01-19"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-private-credit"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Infrastructure for Private Credit
@@ -15,7 +15,7 @@ Roials Alpha was built to eliminate those friction points.
 
   
 
-Agentic infrastructure rewires the entire liquidity chain. It replaces human bottlenecks with autonomous capital logic. It merges asset based lending with programmable risk modules. It gives high net worth and ultra high net worth clients the mechanics of institutional liquidity without the institutional drag.
+Agentic infrastructure rewires the entire liquidity chain. It replaces human bottlenecks with autonomous capital logic. It merges asset based liquidity engineering with programmable risk modules. It gives high net worth and ultra high net worth clients the mechanics of institutional liquidity without the institutional drag.
 
   
 
@@ -111,9 +111,9 @@ These layers are not optional modules.
 
 They are the foundation.
 
-## ABL in the Agentic Era: High Fidelity Lending
+## ABL in the Agentic Era: High Fidelity liquidity engineering
 
-Asset based lending has existed for decades. What has not existed is the ability to transform ABL into a high fidelity, real time capital architecture.
+Asset based liquidity engineering has existed for decades. What has not existed is the ability to transform ABL into a high fidelity, real time capital architecture.
 
   
 
@@ -151,7 +151,7 @@ HNWI and UHNW clients who use agentic infrastructure experience outcomes that tr
 • No manual underwriting delays  
 • Institutional mechanics without institutional visibility  
 
-The infrastructure itself generates alpha because it removes friction from every stage of the lending cycle.
+The infrastructure itself generates alpha because it removes friction from every stage of the liquidity engineering cycle.
 
   
 
@@ -183,7 +183,7 @@ And Roials Alpha is the architecture behind it.
 
 ## Inquire About Agentic Infrastructure
 
-If you operate in the HNWI or UHNW strata and require private credit, ABL, or high value collateral lending that functions with institutional precision and zero retail friction, Roials Alpha provides the infrastructure.
+If you operate in the HNWI or UHNW strata and require private credit, ABL, or high value collateral liquidity engineering that functions with institutional precision and zero retail friction, Roials Alpha provides the infrastructure.
 
   
 

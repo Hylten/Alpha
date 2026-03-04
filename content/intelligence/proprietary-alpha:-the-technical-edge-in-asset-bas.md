@@ -77,7 +77,7 @@ Few create structural conditions that nullify market volatility.
 Structural alignment means the following.
 
 1. The asset carries more weight than the borrower.  
-2. The lending threshold sets the tone for seriousness.  
+2. The liquidity engineering threshold sets the tone for seriousness.  
 3. Institutional scrutiny is assumed from day one.  
 4. Execution velocity replaces marketing narrative.  
 5. Repayment logic is engineered before issuance.
@@ -103,8 +103,8 @@ Three algorithmic engines carry the load.
 Identifies mispriced collateral signals.  
 Captures early liquidity pockets in crypto, public shares, and private inventory.  
 Applies mandate thresholds.  
-Crypto lending begins at 2M.  
-Public share lending begins at 5M.
+Crypto liquidity engineering begins at 2M.  
+Public share liquidity engineering begins at 5M.
 
 2. Covenant Engine.  
 Stresses collateral.  
@@ -205,7 +205,7 @@ There is only progress built through intention.
 
 This spiritual architecture influences the operating system.
 
-Asset based finance becomes more than lending.  
+Asset based finance becomes more than liquidity engineering.  
 It becomes guardianship.
 
 ## Why Proprietary Alpha Endures
@@ -228,7 +228,7 @@ This posture keeps Roials-Alpha ahead of competitors who chase aesthetics instea
 
 ## Asset Classes and Structural Logic
 
-### Crypto Lending (2M minimum)
+### Crypto liquidity engineering (2M minimum)
 
 Digital collateral behaves with high tempo.  
 Therefore the structure must be unbreakable.
@@ -240,7 +240,7 @@ Covenant testing must be constant.
 
 This environment rewards technical intelligence, not sentiment.
 
-### Public Shares Lending (5M minimum)
+### Public Shares liquidity engineering (5M minimum)
 
 Listed securities offer transparency.  
 They also offer volatility.

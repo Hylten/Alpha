@@ -1,10 +1,10 @@
 ---
 title: "Autonomous Liquidity Management for Sovereigns"
-description: "A high‑authority exploration of autonomous liquidity mechanics, private credit, and asset‑based lending systems designed for sovereigns, HNWI, and UHNW clients seeking structural leverage infrastructure."
+description: "A high‑authority exploration of autonomous liquidity mechanics, private credit, and asset‑based liquidity engineering systems designed for sovereigns, HNWI, and UHNW clients seeking structural leverage infrastructure."
 date: "2026-02-06"
 author: "Jonas Hyltén"
 slug: "autonomous-liquidity-management-for-sovereigns"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Autonomous Liquidity Management for Sovereigns
@@ -21,7 +21,7 @@ Roials-Alpha builds that intelligence.
 
 We architect autonomous liquidity programs for sovereign-level entities, high net worth individuals, and ultra high net worth individuals.  
 
-We operate inside private credit, asset based lending, and multi-asset liquidity extraction across digital and traditional collateral classes.  
+We operate inside private credit, asset based liquidity engineering, and multi-asset liquidity extraction across digital and traditional collateral classes.  
 
 We remain silent authority.  
 
@@ -134,15 +134,15 @@ It automates stabilization.
 
 Private credit becomes liquid, predictable, and agentic.  
 
-## Asset-Based Lending: The Sovereign Collateral Engine
+## Asset-Based liquidity engineering: The Sovereign Collateral Engine
 
-Asset based lending is a structural advantage when automated correctly.  
+Asset based liquidity engineering is a structural advantage when automated correctly.  
 
 ABL offers measurable, transparent, audited collateral.  
 
 When automated, it becomes a dynamic liquidity feed.  
 
-Roials-Alpha treats ABL as a liquidity reservoir, not a static loan structure.  
+Roials-Alpha treats ABL as a liquidity reservoir, not a static liquidity facility structure.  
 
 The system monitors collateral movement.  
 
@@ -160,9 +160,9 @@ This creates a capital environment where ABL continuously supports liquidity wit
 
 Roials-Alpha maintains strict minimums.  
 
-Crypto lending begins at two million.  
+Crypto liquidity engineering begins at two million.  
 
-Public share lending begins at five million.  
+Public share liquidity engineering begins at five million.  
 
 These thresholds maintain sovereign-grade capital quality.  
 
@@ -307,7 +307,7 @@ Private credit provides yield.
 
 Digital collateral provides liquidity velocity.  
 
-Asset based lending provides stability.  
+Asset based liquidity engineering provides stability.  
 
 The system merges these inputs.  
 
@@ -403,7 +403,7 @@ Autonomous.
 
 Sovereign liquidity must be autonomous.  
 
-Private credit and asset based lending must be integrated into a single intelligent system.  
+Private credit and asset based liquidity engineering must be integrated into a single intelligent system.  
 
 Crypto and public shares must be treated as programmable collateral.  
 

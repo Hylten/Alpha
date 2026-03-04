@@ -1,10 +1,10 @@
 ---
 title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
-description: "A high-authority deep dive into high frequency liquidity structuring, private credit, and asset based lending for HNWI and UHNW portfolios."
+description: "A high-authority deep dive into high frequency liquidity structuring, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2026-01-16"
 author: "Jonas Hyltén"
 slug: "agentic-deals:-high-frequency-liquidity-structurin"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Deals: High Frequency Liquidity Structuring
@@ -17,7 +17,7 @@ Where capital movement is not reactive. It is agentic, autonomous, and mathemati
 
   
 
-High Frequency Liquidity Structuring redefines how private credit, asset based lending, crypto collateralization, and public share lending converge into a single fluid ecosystem.
+High Frequency Liquidity Structuring redefines how private credit, asset based liquidity engineering, crypto collateralization, and public share liquidity engineering converge into a single fluid ecosystem.
 
   
 

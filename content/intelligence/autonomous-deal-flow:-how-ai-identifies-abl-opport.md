@@ -1,10 +1,10 @@
 ---
 title: "Autonomous Deal Flow: How AI Surfaces ABL Liquidity Before Humans Notice"
-description: "How autonomous systems detect asset based lending opportunities, accelerate private credit liquidity, and create silent structural advantage for HNWI and UHNW clients."
+description: "How autonomous systems detect asset based liquidity engineering opportunities, accelerate private credit liquidity, and create silent structural advantage for HNWI and UHNW clients."
 date: "2026-02-04"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow:-how-ai-identifies-abl-opport"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Autonomous Deal Flow: How AI Identifies ABL Opportunities in M&A
@@ -43,11 +43,11 @@ Find signal hidden under institutional noise.
 
 Private credit.  
 
-Asset based lending.  
+Asset based liquidity engineering.  
 
-Crypto lending. Minimum entry 2,000,000.  
+Crypto liquidity engineering. Minimum entry 2,000,000.  
 
-Public share lending. Minimum entry 5,000,000.  
+Public share liquidity engineering. Minimum entry 5,000,000.  
 
   
 
@@ -130,7 +130,7 @@ Roials-Alpha delivers a new category of liquidity intelligence for HNWI and UHNW
   
 
 Private credit.  
-Asset based lending.  
+Asset based liquidity engineering.  
 Crypto collateral above 2,000,000.  
 Public share blocks above 5,000,000.  
 

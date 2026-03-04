@@ -1,10 +1,10 @@
 ---
 title: "The Alpha Advantage in Automated Credit Analysis"
-description: "Explore how Roials-Alpha delivers institutional-grade liquidity through advanced automated credit analysis for private credit and asset based lending."
+description: "Explore how Roials-Alpha delivers institutional-grade liquidity through advanced automated credit analysis for private credit and asset based liquidity engineering."
 date: "2026-02-12"
 author: "Jonas Hyltén"
 slug: "the-alpha-advantage-in-automated-credit-analysis"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # The Alpha Advantage in Automated Credit Analysis
@@ -24,7 +24,7 @@ With an automation-first architecture that creates measurable Alpha inside every
 Our credit systems do not guess.  
 They compute.  
 They integrate asset intelligence with automated collateral verification, real-time market feeds, and machine-based valuation models.  
-The result is a streamlined, institutional-grade path to liquidity across Private Credit and Asset-Based Lending.
+The result is a streamlined, institutional-grade path to liquidity across Private Credit and Asset-Based liquidity engineering.
 
 This is the Alpha Advantage.  
 Engineered for those who move capital at scale, and who demand frictionless execution.

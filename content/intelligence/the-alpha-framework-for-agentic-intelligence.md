@@ -1,10 +1,10 @@
 ---
 title: "The Alpha Framework for Agentic Intelligence"
-description: "A deep technical exploration of Roials-Alpha and its liquidity architecture across private credit and asset based lending."
+description: "A deep technical exploration of Roials-Alpha and its liquidity architecture across private credit and asset based liquidity engineering."
 date: "2026-02-13"
 author: "Jonas Hyltén"
 slug: "the-alpha-framework-for-agentic-intelligence"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # The Alpha Framework for Agentic Intelligence
@@ -16,12 +16,12 @@ Not the surface-level liquidity that retail platforms promise.
 The institutional-grade liquidity that actually moves capital.  
 
 We operate inside private credit.  
-We operate inside asset based lending.  
+We operate inside asset based liquidity engineering.  
 We operate where leverage, custody, and credit modelling converge into real power.  
 
 Our minimum thresholds reflect that reality.  
-Crypto lending begins at 2 million USD.  
-Public share lending begins at 5 million USD.  
+Crypto liquidity engineering begins at 2 million USD.  
+Public share liquidity engineering begins at 5 million USD.  
 Everything below this level belongs to consumer markets.  
 Roials-Alpha is engineered only for the top decile of wealth.  
 
@@ -34,8 +34,8 @@ We state this openly.
 The Alpha Framework is not designed for the mass market.  
 The minimums exist because the system requires scale.  
 
-A 2 million dollar crypto loan behaves differently from a 200 thousand dollar loan.  
-A 5 million dollar public share lending position behaves differently from a micro portfolio.  
+A 2 million dollar crypto liquidity facility behaves differently from a 200 thousand dollar liquidity facility.  
+A 5 million dollar public share liquidity engineering position behaves differently from a micro portfolio.  
 
 Scale produces liquidity inertia.  
 Liquidity inertia produces execution stability.  
@@ -48,7 +48,7 @@ When the system is predictive it becomes powerful.
 Private credit clients often arrive expecting standard credit mechanics.  
 They discover that the Alpha Framework treats private credit like computational leverage.  
 
-Asset based lending clients often come expecting traditional collateralization.  
+Asset based liquidity engineering clients often come expecting traditional collateralization.  
 They discover that the Alpha Framework turns collateral into a programmable asset.  
 
 This is the shift.  
@@ -101,9 +101,9 @@ Dynamic.
 Self-regulating.  
 Always ready for deployment.  
 
-## Asset Based Lending Inside the Alpha Framework
+## Asset Based liquidity engineering Inside the Alpha Framework
 
-Asset based lending is the structural backbone of the framework.  
+Asset based liquidity engineering is the structural backbone of the framework.  
 Collateral here is diverse.  
 From operating assets to financial instruments.  
 
@@ -114,7 +114,7 @@ This is where much of our trade secret logic resides.
 The agent does not just price collateral.  
 It forecasts its behaviour.  
 
-This allows us to provide asset based lending lines that feel predictive.  
+This allows us to provide asset based liquidity engineering lines that feel predictive.  
 Collateral volatility is anticipated.  
 Liquidity is pre-positioned.  
 
@@ -125,9 +125,9 @@ Credit rotation.
 
 All without the drag that traditional lenders impose.  
 
-## Crypto Lending at Institutional Scale
+## Crypto liquidity engineering at Institutional Scale
 
-Crypto lending begins at 2 million USD for a reason.  
+Crypto liquidity engineering begins at 2 million USD for a reason.  
 Below that threshold the volatility signal is too chaotic.  
 Above that threshold the behaviour becomes geometric rather than erratic.  
 
@@ -136,12 +136,12 @@ Volatility is mapped.
 Drawdown signatures are modelled.  
 Execution windows are optimized.  
 
-The result is crypto lending that behaves with the predictability of private credit.  
+The result is crypto liquidity engineering that behaves with the predictability of private credit.  
 This is rare.  
 This is quiet.  
 This is structural.  
 
-## Public Share Lending at 5 Million Minimum
+## Public Share liquidity engineering at 5 Million Minimum
 
 Equity portfolios above 5 million USD behave differently from retail portfolios.  
 They move with market depth rather than market noise.  
@@ -151,7 +151,7 @@ It models liquidity pressure points.
 It models exposure surfaces.  
 It models institutional inflow behaviour.  
 
-The agent uses this to stabilize the lending line.  
+The agent uses this to stabilize the liquidity engineering line.  
 The collateral becomes predictable.  
 The liquidity becomes agile.  
 
@@ -160,7 +160,7 @@ The system understands the behaviour of the asset class at the scale where insti
 
 ## The Alpha Effect: Turning Liquidity Into Silent Power
 
-When agentic intelligence is combined with private credit and asset based lending the outcome is transformative.  
+When agentic intelligence is combined with private credit and asset based liquidity engineering the outcome is transformative.  
 Liquidity stops being a resource.  
 It becomes a capability.  
 
@@ -196,7 +196,7 @@ Multiple autonomous systems working across a client's liquidity footprint.
 We see portfolios becoming multi agent ecosystems.  
 Crypto agents managing volatility.  
 Private credit agents managing stability.  
-Asset based lending agents managing liquidity depth.  
+Asset based liquidity engineering agents managing liquidity depth.  
 
 All orchestrated by a master capital agent.  
 This is where the industry is heading.  
@@ -208,7 +208,7 @@ The Alpha Framework for Agentic Intelligence is not a trend.
 It is an architectural shift in how high net worth and ultra high net worth capital behaves.  
 
 We turn private credit into a computational engine.  
-We turn asset based lending into programmable liquidity.  
+We turn asset based liquidity engineering into programmable liquidity.  
 We turn collateral into strategy.  
 We turn liquidity into silent authority.  
 

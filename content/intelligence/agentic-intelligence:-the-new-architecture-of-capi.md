@@ -1,10 +1,10 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Capital"
-description: "A high‑end technical analysis of liquidity engines, private credit structures, and asset based lending for HNWI and UHNW seeking institutional grade capital architecture."
+description: "A high‑end technical analysis of liquidity engines, private credit structures, and asset based liquidity engineering for HNWI and UHNW seeking institutional grade capital architecture."
 date: "2026-01-22"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence:-the-new-architecture-of-capi"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Intelligence and the New Architecture of Capital
@@ -22,14 +22,14 @@ Quietly.
 Deliberately.  
 Providing the mechanical underlayer that moves institutional capital.  
 
-## Public Share Lending for the Upper Tier
+## Public Share liquidity engineering for the Upper Tier
 
 HNWI and UHNW clients with significant equity positions require non disruptive liquidity extraction.  
 They cannot sell shares at the wrong moment.  
 They cannot shift market perception.  
 They cannot trigger unnecessary tax events.  
 
-This is where agentic public share lending becomes dominant.  
+This is where agentic public share liquidity engineering becomes dominant.  
 Roials Alpha lends against public equities starting at 5,000,000 USD.  
 
 Agentic systems evaluate equity positions based on:  

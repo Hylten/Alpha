@@ -1,10 +1,10 @@
 ---
 title: "Agentic Systems for Sovereign Capital Migration"
-description: "High‑precision liquidity engineering using private credit and asset based lending structures for HNWI and UHNW capital velocity."
+description: "High‑precision liquidity engineering using private credit and asset based liquidity engineering structures for HNWI and UHNW capital velocity."
 date: "2026-01-25"
 author: "Jonas Hyltén"
 slug: "agentic-systems-for-sovereign-capital-migration"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Systems for Sovereign Capital Migration
@@ -191,13 +191,13 @@ This is the Roials-Alpha advantage.
 
 ## Why Thresholds Matter
 
-Our lending minimums are deliberate.
+Our liquidity engineering minimums are deliberate.
 
   
-Crypto Lending starts at 2,000,000.
+Crypto liquidity engineering starts at 2,000,000.
 
   
-Public Share Lending begins at 5,000,000.
+Public Share liquidity engineering begins at 5,000,000.
 
   
 These thresholds ensure that the system engages only with capital profiles capable of absorbing high grade financial operations.

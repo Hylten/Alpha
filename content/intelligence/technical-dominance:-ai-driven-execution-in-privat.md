@@ -168,12 +168,12 @@ The stack is silent but absolute.
 
   
   
-# Lending Thresholds. Clarity and Authority
+# liquidity engineering Thresholds. Clarity and Authority
 
 Roials-Alpha maintains firm thresholds to ensure portfolio integrity.
 
-- Crypto collateral lending minimum 2M.
-- Public share collateral lending minimum 5M.
+- Crypto collateral liquidity engineering minimum 2M.
+- Public share collateral liquidity engineering minimum 5M.
 
 These thresholds are non negotiable. They preserve capital quality and safeguard execution efficiency. They also reflect the stewardship doctrine. Do not place capital in situations where structural alignment is impossible.
 

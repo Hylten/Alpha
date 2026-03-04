@@ -1,10 +1,10 @@
 ---
 title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"
-description: "A high-authority exploration of AI powered liquidity, private credit, and asset based lending for HNWI and UHNW clients seeking structural capital advantages."
+description: "A high-authority exploration of AI powered liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW clients seeking structural capital advantages."
 date: "2026-02-21"
 author: "Jonas Hyltén"
 slug: "the-sovereign-ai-bank:-building-the-digital-infras"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # The Sovereign AI Bank: Building the Digital Infrastructure of Capital
@@ -63,11 +63,11 @@ Roials Alpha lends against private credit and asset based structures that can be
 
 Private credit is no longer an opaque instrument.  
 
-With AI driven analytics, an individual can unlock institutional grade borrowing structures without bureaucracy and without dependency on legacy underwriting.
+With AI driven analytics, an individual can unlock institutional grade balance sheet optimization structures without bureaucracy and without dependency on legacy underwriting.
 
   
 
-Asset Based Lending forms the spine of this system.  
+Asset Based liquidity engineering forms the spine of this system.  
 
 Everything from private equity positions to real assets to contractual revenue streams can be input into the engine.  
 
@@ -82,9 +82,9 @@ This framework transforms the individual into their own financing vehicle, simil
 The Sovereign AI Bank replaces dependence with infrastructure.
 
   
-## The Crypto Lending Threshold of Agency
+## The Crypto liquidity engineering Threshold of Agency
 
-Crypto lending begins at two million dollars.
+Crypto liquidity engineering begins at two million dollars.
 
   
 
@@ -113,9 +113,9 @@ At scale, crypto becomes part of a multi collateral stack that interacts with pr
 This is where digital assets become part of a sovereign capital infrastructure instead of merely an investment class.
 
   
-## Public Share Lending for Strategic Actors
+## Public Share liquidity engineering for Strategic Actors
 
-Public share lending initiates at five million dollars.
+Public share liquidity engineering initiates at five million dollars.
 
   
 
@@ -133,7 +133,7 @@ A client may borrow against a public position to fund a private acquisition.
 
 Or to reinforce a crypto position.  
 
-Or to expand an asset based lending stack that then amplifies credit capacity elsewhere.
+Or to expand an asset based liquidity engineering stack that then amplifies credit capacity elsewhere.
 
   
 
@@ -238,7 +238,7 @@ The Sovereign AI Bank provides:
   
 • A computation first liquidity framework  
 • A private credit and ABL core engine  
-• Multi asset lending capability  
+• Multi asset liquidity engineering capability  
 • On chain and off chain collateral fusion  
 • Silent underwriting  
 • AI driven credit orchestration  
@@ -278,7 +278,7 @@ The system evaluates:
 • Collateral pivot moments  
 
   
-The client gains a liquid, borrowing enabled engine capable of capturing these windows at scale with risk frameworks that adjust in milliseconds.
+The client gains a liquid, balance sheet optimization enabled engine capable of capturing these windows at scale with risk frameworks that adjust in milliseconds.
 
   
 
@@ -325,7 +325,7 @@ Dominance through superior systems.
   
 
 The Sovereign AI Bank is the digital infrastructure of capital itself.  
-It is the next evolution in liquidity, private credit, and computational asset based lending.
+It is the next evolution in liquidity, private credit, and computational asset based liquidity engineering.
 
   
 

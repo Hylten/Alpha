@@ -1,16 +1,16 @@
 ---
 title: "The Proprietary Intelligence Model That Redefines ABL for Modern Private Credit"
-description: "Roials-Alpha introduces a proprietary intelligence model engineered for high-speed liquidity and institutional-grade asset based lending for HNWI and UHNW portfolios."
+description: "Roials-Alpha introduces a proprietary intelligence model engineered for high-speed liquidity and institutional-grade asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2026-02-20"
 author: "Jonas Hyltén"
 slug: "the-proprietary-intelligence-model-for-abl"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # The Proprietary Intelligence Model for ABL  
 Roials-Alpha Edition
 
-Asset Based Lending is no longer a mechanical underwriting play.  
+Asset Based liquidity engineering is no longer a mechanical underwriting play.  
 
 It has become a computational discipline.  
 
@@ -28,9 +28,9 @@ We engineer the structural mechanics that institutions later replicate.
 
 Our model is built specifically for high value collateral categories.  
 
-Crypto Lending begins at 2 million.  
+Crypto liquidity engineering begins at 2 million.  
 
-Public Share Lending begins at 5 million.  
+Public Share liquidity engineering begins at 5 million.  
 
 These tiers are intentional.  
 
@@ -40,7 +40,7 @@ Above these levels, the model achieves full precision and the client receives wh
 
 ## The Private Credit Dimension
 
-Private credit for HNWI and UHNW clients is fundamentally different from mass market lending.  
+Private credit for HNWI and UHNW clients is fundamentally different from mass market liquidity engineering.  
 
 The assets carry deeper complexity.  
 
@@ -115,7 +115,7 @@ Most institutions treat these as unrelated silos.
 
 Roials-Alpha treats them as one integrated collateral sphere.  
 
-The intelligence model evaluates combined liquidity gradients and delivers a unified lending envelope that can be activated from any angle.  
+The intelligence model evaluates combined liquidity gradients and delivers a unified liquidity engineering envelope that can be activated from any angle.  
 
 This creates liquidity mobility.  
 
@@ -145,9 +145,9 @@ The Roials-Alpha Standard
 
 The proprietary intelligence model is not a temporary advantage.  
 
-It is the new baseline for elite level lending.  
+It is the new baseline for elite level liquidity engineering.  
 
-HNWI and UHNW clients increasingly require lending systems that move at the speed of market signals.  
+HNWI and UHNW clients increasingly require liquidity engineering systems that move at the speed of market signals.  
 
 Not the speed of human paperwork.  
 
@@ -165,7 +165,7 @@ Collateral becomes a strategic instrument rather than a static asset.
 
 This is the Roials-Alpha framework.  
 
-We do not provide loans.  
+We do not provide liquidity facilities.  
 We provide computational liquidity infrastructure for the modern wealth class.  
 
 Inquire about agentic infrastructure.

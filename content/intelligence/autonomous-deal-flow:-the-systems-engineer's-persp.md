@@ -117,8 +117,8 @@ Nothing proceeds without passing resilience thresholds.
 
 Minimum thresholds:
 
-- Crypto backed lending: 2M  
-- Public shares lending: 5M  
+- Crypto backed liquidity engineering: 2M  
+- Public shares liquidity engineering: 5M  
 
 Anything below is noise.
 

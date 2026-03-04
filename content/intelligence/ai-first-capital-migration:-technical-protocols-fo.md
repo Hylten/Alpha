@@ -126,11 +126,11 @@ There are four primary lane types.
    Verified efficiency. Clean financials. Low behavioral drift.
 
 3. **Digital collateral lanes**  
-   Crypto lending with a two million minimum.  
+   Crypto liquidity engineering with a two million minimum.  
    Requires algorithmic monitoring for volatility and liquidation thresholds.
 
 4. **Public shares liquidity lanes**  
-   Equity-backed lending with a five million minimum.  
+   Equity-backed liquidity engineering with a five million minimum.  
    Institutions demand transparency. Roials-Alpha provides it through multi-layered intelligence stacks.
 
 AI does not merely identify lanes.  

@@ -4,7 +4,7 @@ description: "Insights on Proprietary Agentic Models from Roials Capital and Hyl
 date: "2026-02-09"
 author: "Jonas Hyltén"
 slug: "proprietary-agentic-models"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Proprietary Agentic Models  

@@ -1,10 +1,10 @@
 ---
 title: "Agentic Wealth Mobility: How Reinforcement Learning Unlocks Borderless Capital Optimization"
-description: "High end analysis on liquidity engineering through private credit and asset based lending for HNWI and UHNW clients."
+description: "High end analysis on liquidity engineering through private credit and asset based liquidity engineering for HNWI and UHNW clients."
 date: "2026-01-26"
 author: "Jonas Hyltén"
 slug: "agentic-wealth-mobility:-borderless-capital-optimi"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Wealth Mobility: Borderless Capital Optimization via RL
@@ -18,7 +18,7 @@ We are describing structural advantage.
 
 Private wealth becomes agentic when the capital stack begins to move on its own.  
 Reinforcement learning becomes the supervisory intelligence.  
-And asset based lending becomes the collateral architecture that keeps everything stable, compliant, and scalable for HNWI and UHNW operators.  
+And asset based liquidity engineering becomes the collateral architecture that keeps everything stable, compliant, and scalable for HNWI and UHNW operators.  
 
 This is the new field of Agentic Wealth Mobility.  
 And Roials-Alpha built the mechanics for it.  
@@ -30,7 +30,7 @@ The mobility is the competitive edge.
 
 HNWI and UHNW clients gain advantages such as:  
 
-Improved borrowing power due to optimized collateral weighting.  
+Improved balance sheet optimization power due to optimized collateral weighting.  
 
 Lower liquidity drag across asset classes and jurisdictions.  
 

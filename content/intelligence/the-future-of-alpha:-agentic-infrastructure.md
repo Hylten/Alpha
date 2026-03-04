@@ -1,10 +1,10 @@
 ---
 title: "The Future of Alpha: Agentic Infrastructure for Private Credit Dominance"
-description: "High net worth liquidity engineering through private credit and asset based lending. Strategic insight into future agentic infrastructure for accelerated capital velocity."
+description: "High net worth liquidity engineering through private credit and asset based liquidity engineering. Strategic insight into future agentic infrastructure for accelerated capital velocity."
 date: "2026-02-18"
 author: "Jonas Hyltén"
 slug: "the-future-of-alpha:-agentic-infrastructure"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # The Future of Alpha: Agentic Infrastructure
@@ -22,14 +22,14 @@ Silent authority.
 Mechanics over noise.  
 Infrastructure over storytelling.  
 
-We enable liquidity for HNWI and UHNW operators through private credit and asset based lending, calibrated for a future shaped by automated decisioning and continuous capital orchestration.  
+We enable liquidity for HNWI and UHNW operators through private credit and asset based liquidity engineering, calibrated for a future shaped by automated decisioning and continuous capital orchestration.  
 
 ## The New Era of Agentic Capital
 
 Agentic infrastructure is the evolution of automation into autonomous capital intelligence.  
 
 It is not algorithmic trading.  
-It is not basic lending automation.  
+It is not basic liquidity engineering automation.  
 It is not workflow software with AI added as garnish.  
 
 Agentic infrastructure is a full‑stack liquidity engine that continuously evaluates collateral, risk, cross‑asset influence, liquidity slippage, conversion velocity, and real‑time opportunity cost.  
@@ -67,7 +67,7 @@ We structure credit that understands the present and anticipates the next interv
 
 For clients operating at scale, liquidity must behave as an intelligent organism.  
 
-The traditional lending world is too slow.  
+The traditional liquidity engineering world is too slow.  
 Too manual.  
 Too bundled into legacy underwriting heuristics.  
 
@@ -95,9 +95,9 @@ Agentic infrastructure transforms private credit into a precision instrument tha
 This is not high fantasy automation.  
 This is engineered liquidity.  
 
-## Asset Based Lending in an Agentic World
+## Asset Based liquidity engineering in an Agentic World
 
-Asset based lending is the backbone of real capital.  
+Asset based liquidity engineering is the backbone of real capital.  
 
 But ABL in its legacy form is slow and frictional.  
 Data collection is manual.  
@@ -114,9 +114,9 @@ HNWI and UHNW borrowers benefit because liquidity surfaces earlier.
 Opportunities remain actionable.  
 And capital behaves like an extension of their operating ecosystem, not an administrative obstacle.  
 
-## Crypto Lending for Mature Operators Only
+## Crypto liquidity engineering for Mature Operators Only
 
-Roials‑Alpha sets a minimum threshold of 2,000,000 USD for crypto‑backed lending.  
+Roials‑Alpha sets a minimum threshold of 2,000,000 USD for crypto‑backed liquidity engineering.  
 
 This is intentional.  
 This is structural.  
@@ -134,7 +134,7 @@ Agentic infrastructure continuously models exchange depth, collateral stability 
 This is not algorithmic speculation.  
 It is controlled collateral intelligence for serious operators.  
 
-## Public Share Lending With Institutional Precision
+## Public Share liquidity engineering With Institutional Precision
 
 Minimum threshold: 5,000,000 USD.  
 
@@ -207,7 +207,7 @@ The market will continue to reward those who build structural advantages.
 Agentic infrastructure is that advantage.  
 It is the machinery beneath the strategy.  
 It is the silent force that converts information into capital velocity.  
-It is the next evolution of private credit and asset based lending.  
+It is the next evolution of private credit and asset based liquidity engineering.  
 
 And the operators who harness it first will dominate the next cycle.  
 

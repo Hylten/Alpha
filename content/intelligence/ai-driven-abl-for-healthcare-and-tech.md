@@ -1,10 +1,10 @@
 ---
 title: "AI-Driven ABL: The New Liquidity Engine for Healthcare and Tech Capital"
-description: "AI-driven asset based lending and private credit solutions for HNWI and UHNW, engineered to unlock deep liquidity in healthcare and technology portfolios."
+description: "AI-driven asset based liquidity engineering and private credit solutions for HNWI and UHNW, engineered to unlock deep liquidity in healthcare and technology portfolios."
 date: "2026-01-27"
 author: "Jonas Hyltén"
 slug: "ai-driven-abl-for-healthcare-and-tech"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # AI-Driven ABL for Healthcare and Tech  
@@ -16,7 +16,7 @@ We design silent systems.
 
 We build liquidity architecture for individuals who do not ask for capital. They command it.
 
-Private Credit and Asset-Based Lending create the foundation.  
+Private Credit and Asset-Based liquidity engineering create the foundation.  
 
 AI creates the edge.  
 

@@ -1,10 +1,10 @@
 ---
 title: "The Alpha Vision for AI‑First Capital Management"
-description: "A deep‑reach analysis of AI driven liquidity architecture, private credit, and asset based lending for ultra affluent capital holders."
+description: "A deep‑reach analysis of AI driven liquidity architecture, private credit, and asset based liquidity engineering for ultra affluent capital holders."
 date: "2026-02-15"
 author: "Jonas Hyltén"
 slug: "the-alpha-vision-for-ai-first-capital-management"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # The Alpha Vision for AI First Capital Management
@@ -27,7 +27,7 @@ We architect the layer beneath it.
 ## The Alpha Vision Forward
 
 The future of capital is agentic.  
-The future of lending is real time.  
+The future of liquidity engineering is real time.  
 The future of risk is quantified, not debated.
 
 Roials Alpha is building the infrastructure that will power this shift.  

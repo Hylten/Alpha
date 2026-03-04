@@ -1,10 +1,10 @@
 ---
 title: "Agentic Systems and the New Architecture of PE Dealflow"
-description: "A high-authority exploration of agentic systems, liquidity engineering, and advanced asset based lending structures for HNWI and UHNW investors."
+description: "A high-authority exploration of agentic systems, liquidity engineering, and advanced asset based liquidity engineering structures for HNWI and UHNW investors."
 date: "2026-01-24"
 author: "Jonas Hyltén"
 slug: "agentic-systems-and-the-evolution-of-pe-dealflow"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Systems and the Evolution of PE Dealflow
@@ -40,7 +40,7 @@ This produces dealflow where others see noise.
 
 It builds the foundation of next generation private credit dominance.
 
-Roials Alpha integrates these adjacency engines directly into our lending process, enabling clients to exploit opportunities before they are publicly recognized.
+Roials Alpha integrates these adjacency engines directly into our liquidity engineering process, enabling clients to exploit opportunities before they are publicly recognized.
 
 ## Why Silent Authority Wins
 
@@ -88,9 +88,9 @@ We engineer liquidity.
 
 We provide private credit and ABL at the highest tier.
 
-We support crypto lending at a 2,000,000 minimum.
+We support crypto liquidity engineering at a 2,000,000 minimum.
 
-We support public share lending at a 5,000,000 minimum.
+We support public share liquidity engineering at a 5,000,000 minimum.
 
 We build for clients who operate above the noise.
 
@@ -102,7 +102,7 @@ Agentic systems have rewritten the rules of private equity dealflow.
 
 They have collapsed the latency of information.
 
-They have rebuilt the architecture of lending.
+They have rebuilt the architecture of liquidity engineering.
 
 They have created a new landscape where liquidity, data, and engineered intelligence form a unified operating system.
 

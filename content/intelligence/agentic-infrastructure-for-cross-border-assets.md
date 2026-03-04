@@ -1,10 +1,10 @@
 ---
 title: "Agentic Infrastructure for Cross‑Border Assets: The New Liquidity Architecture for Private Capital"
-description: "High-end analysis on liquidity infrastructure, private credit, and asset based lending for global HNWI and UHNW portfolios. Roials‑Alpha enables institutional-grade cross-border leverage."
+description: "High-end analysis on liquidity infrastructure, private credit, and asset based liquidity engineering for global HNWI and UHNW portfolios. Roials‑Alpha enables institutional-grade cross-border leverage."
 date: "2026-01-17"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-cross-border-assets"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Infrastructure for Cross-Border Assets
@@ -23,11 +23,11 @@ HNWI and UHNW portfolios are more global than ever. The assets are dispersed. Th
 
   
 
-Roials‑Alpha operates at the point where private credit, asset based lending, and cross‑border liquidity need to be orchestrated inside a single autonomous system. We lend against non‑vanilla structures. We standardize the irregular. We codify the unstructured. We make global liquidity programmable.
+Roials‑Alpha operates at the point where private credit, asset based liquidity engineering, and cross‑border liquidity need to be orchestrated inside a single autonomous system. We lend against non‑vanilla structures. We standardize the irregular. We codify the unstructured. We make global liquidity programmable.
 
   
 
-This is not traditional lending.
+This is not traditional liquidity engineering.
 
 This is agentic infrastructure.
 
@@ -52,7 +52,7 @@ This creates a new paradigm for HNWI and UHNW capital deployment, especially for
 
   
 • Private credit positions  
-• Asset based lending paper  
+• Asset based liquidity engineering paper  
 • Crypto assets above institutional thresholds  
 • Public equities inside global custodial environments  
 
@@ -116,9 +116,9 @@ Liquidity emerges where traditional lenders see opacity.
 
   
 
-## Asset Based Lending Reinvented Through Autonomous Mechanics
+## Asset Based liquidity engineering Reinvented Through Autonomous Mechanics
 
-Asset Based Lending is predictable when standardized.  
+Asset Based liquidity engineering is predictable when standardized.  
 Inventory. Receivables. Machinery. Accounts.  
 
   
@@ -141,15 +141,15 @@ This is about liquidity optionality that was previously inaccessible.
 
   
 
-## Crypto Lending at Institutional Floors
+## Crypto liquidity engineering at Institutional Floors
 
-Crypto wealth is no longer fringe. It is structural. It is part of the UHNW allocation map. But the noise in the crypto lending space has made HNWI capital cautious.
+Crypto wealth is no longer fringe. It is structural. It is part of the UHNW allocation map. But the noise in the crypto liquidity engineering space has made HNWI capital cautious.
 
   
 Roials‑Alpha is not in the noise segment.
 
   
-We operate at a minimum threshold of 2,000,000 for crypto lending.  
+We operate at a minimum threshold of 2,000,000 for crypto liquidity engineering.  
 Below that number, the risk‑reward surface is inefficient and does not fit an institutional liquidity profile.
 
   
@@ -163,12 +163,12 @@ Crypto becomes another cross‑border collateral instrument, not an outlier.
 
   
 
-## Public Share Lending for the Ultra Capital Holder
+## Public Share liquidity engineering for the Ultra Capital Holder
 
 Public equities are the most internationally distributed assets in today’s wealth space. But using them for liquidity, especially cross‑border, is still a high friction event.
 
   
-Our minimum threshold for public share lending is 5,000,000.  
+Our minimum threshold for public share liquidity engineering is 5,000,000.  
 The scale creates stability.  
 The scale reduces noise.  
 The scale enables purity in the execution logic.

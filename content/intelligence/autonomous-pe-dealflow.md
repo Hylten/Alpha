@@ -4,7 +4,7 @@ description: "Insights on Autonomous PE Dealflow from Roials Capital and Hyltén
 date: "2026-02-06"
 author: "Jonas Hyltén"
 slug: "autonomous-pe-dealflow"
-keywords: "private credit, asset based lending, strategic capital"
+keywords: "private credit, asset based liquidity engineering, strategic capital"
 ---
 
 # Autonomous PE Dealflow  

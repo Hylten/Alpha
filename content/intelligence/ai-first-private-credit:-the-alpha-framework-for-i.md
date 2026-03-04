@@ -1,10 +1,10 @@
 ---
 title: "AI‑First Private Credit: The Alpha Framework for Institutional ABL Liquidity"
-description: "Roials‑Alpha delivers AI‑First private credit and institutional‑grade asset based lending, engineered for HNWI and UHNW portfolios seeking high‑integrity liquidity."
+description: "Roials‑Alpha delivers AI‑First private credit and institutional‑grade asset based liquidity engineering, engineered for HNWI and UHNW portfolios seeking high‑integrity liquidity."
 date: "2026-01-31"
 author: "Jonas Hyltén"
 slug: "ai-first-private-credit:-the-alpha-framework-for-i"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # AI‑First Private Credit: The Alpha Framework for Institutional ABL
@@ -31,9 +31,9 @@ The Alpha Framework is our internal operating system.
 
  
 
-This article reveals the structural logic behind it, the agentic underwriting mechanics, and why AI‑First Asset Based Lending is now the only competitive mode for serious capital holders.
+This article reveals the structural logic behind it, the agentic underwriting mechanics, and why AI‑First Asset Based liquidity engineering is now the only competitive mode for serious capital holders.
 
-## The Future: Agentic Lending as Capital Infrastructure
+## The Future: Agentic liquidity engineering as Capital Infrastructure
 
 Agentic models are the next evolution of private credit.
 
