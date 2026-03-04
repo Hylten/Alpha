@@ -2,7 +2,7 @@
 title: "Autonomous Systems for UHNW Capital Optimization"
 description: "A deep analysis of autonomous liquidity architecture, private credit, and ABL mechanisms engineered for UHNW efficiency."
 date: "2026-01-28"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "autonomous-systems-for-uhnw-capital-optimization"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

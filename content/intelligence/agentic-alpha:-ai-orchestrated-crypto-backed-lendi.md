@@ -2,7 +2,7 @@
 title: "Agentic Alpha: The AI-Orchestrated Future of Crypto-Backed Lending"
 description: "High-liquidity AI lending infrastructure built on private credit and asset-based lending for HNWI and UHNW borrowers."
 date: "2026-01-07"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "agentic-alpha:-ai-orchestrated-crypto-backed-lendi"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

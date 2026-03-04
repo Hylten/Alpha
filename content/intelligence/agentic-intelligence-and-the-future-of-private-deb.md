@@ -2,7 +2,7 @@
 title: "Agentic Intelligence and the New Architecture of Private Debt"
 description: "A high authority analysis on liquidity engineering, private credit, and asset based lending for HNWI and UHNW clients seeking structural advantage."
 date: "2026-01-12"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-future-of-private-deb"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

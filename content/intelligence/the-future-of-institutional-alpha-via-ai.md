@@ -2,7 +2,7 @@
 title: "The Future of Institutional Alpha via AI"
 description: "A deep analysis of how AI-driven private credit and asset-based lending unlock next-generation liquidity for HNWI and UHNW capital."
 date: "2026-02-06"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-future-of-institutional-alpha-via-ai"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

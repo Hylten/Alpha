@@ -2,7 +2,7 @@
 title: "Automating the Buy, Borrow, Die Strategy for Perpetual Liquidity"
 description: "A high-authority breakdown of how automation, private credit, and asset based lending create institutional-grade liquidity for HNWI and UHNW entities."
 date: "2026-01-23"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "automating-the-'buy,-borrow,-die'-strategy"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

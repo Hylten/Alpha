@@ -2,7 +2,7 @@
 title: "The Future of ABL: Prompting the Liquidity Spider"
 description: "A deep authority blueprint on how Roials-Alpha engineers the next era of liquidity through private credit and advanced asset-based lending structures."
 date: "2026-02-03"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-future-of-abl:-prompting-the-liquidity-spider"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

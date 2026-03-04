@@ -2,7 +2,7 @@
 title: "The Alpha Vision for AI‑First Capital Management"
 description: "A deep‑reach analysis of AI driven liquidity architecture, private credit, and asset based lending for ultra affluent capital holders."
 date: "2026-02-02"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-alpha-vision-for-ai-first-capital-management"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

@@ -2,7 +2,7 @@
 title: "The Future of Alpha: Agentic Infrastructure for Private Credit Dominance"
 description: "High net worth liquidity engineering through private credit and asset based lending. Strategic insight into future agentic infrastructure for accelerated capital velocity."
 date: "2026-02-05"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-future-of-alpha:-agentic-infrastructure"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---

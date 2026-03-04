@@ -2,7 +2,7 @@
 title: "The Sovereign AI: Building the Alpha Future"
 description: "A deep analysis of sovereign-grade AI, private credit, and asset-based lending structures engineered for liquidity at scale."
 date: "2026-02-09"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-sovereign-ai:-building-the-alpha-future"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
