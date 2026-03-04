@@ -27,8 +27,6 @@ We remain silent authority.
 
 We provide the mechanics, the invisible structure, the capital routing spine that institutional markets depend on.  
 
-
-
 ## The Era of Self-Directed Capital
 
 Sovereigns and UHNW operators no longer accept liquidity windows that depend on gatekeepers.  
@@ -44,8 +42,6 @@ Self‑stabilize.
 The old model forces the sovereign to react to markets.  
 
 The Roials-Alpha model empowers the sovereign to preempt them.  
-
-
 
 ## The Structural Shift: Autonomous Liquidity Over Discretionary Execution
 
@@ -75,8 +71,6 @@ This is not advisory.
 
 This is engineered autonomy.  
 
-
-
 ## Why Sovereigns Require Autonomous Liquidity
 
 The sovereign wealth paradigm is shifting toward precision-based capital control.  
@@ -103,8 +97,6 @@ Sovereigns need the following.
 Roials-Alpha builds this environment.  
 
 We design the liquidity substrate that supports these functions.  
-
-
 
 ## The Core: Private Credit as Autonomous Fuel
 
@@ -142,8 +134,6 @@ It automates stabilization.
 
 Private credit becomes liquid, predictable, and agentic.  
 
-
-
 ## Asset-Based Lending: The Sovereign Collateral Engine
 
 Asset based lending is a structural advantage when automated correctly.  
@@ -165,8 +155,6 @@ It pulls leverage opportunistically.
 It constrains exposure when volatility increases.  
 
 This creates a capital environment where ABL continuously supports liquidity without becoming a drag on sovereign cashflow.  
-
-
 
 ## Multi‑Asset Collateral: Crypto and Public Shares
 
@@ -194,8 +182,6 @@ The system integrates both into a single liquidity engine.
 
 The sovereign receives unified capital behavior.  
 
-
-
 ## Sovereign Architecture: Liquidity Without Friction
 
 The core objective is frictionless liquidity intelligence.  
@@ -221,8 +207,6 @@ It opens and closes liquidity windows.
 It protects the sovereign from exposure spikes.  
 
 It preserves wealth integrity while increasing yield.  
-
-
 
 ## Autonomous Liquidity Mechanics: How the System Moves Capital
 
@@ -250,8 +234,6 @@ Execution is automated and prioritized by yield-to-risk ratios.
 
 Unwanted exposure is neutralized instantly.  
 
-
-
 ## Why Sovereigns Choose Autonomous Liquidity Over Static Wealth Management
 
 Static wealth systems depend on human advisors making periodic adjustments.  
@@ -274,8 +256,6 @@ No human drift.
 
 Only precision.  
 
-
-
 ## Silent Authority: The Sovereign Edge
 
 Roials-Alpha operates with silent authority.  
@@ -295,8 +275,6 @@ We engineer the structural infrastructure that sovereigns and UHNW operators nee
 We provide the frameworks that institutional capital depends on.  
 
 We remain the architecture behind the authority.  
-
-
 
 ## Autonomy Creates Strategic Advantage
 
@@ -319,8 +297,6 @@ Structure becomes leverage.
 
 Autonomy becomes strategic inevitability.  
 
-
-
 ## Multi-Market Coordination: Private Credit Meets Digital Collateral
 
 Roials-Alpha integrates private credit and digital collateral into a unified liquidity architecture.  
@@ -338,8 +314,6 @@ The system merges these inputs.
 It generates liquidity layers that remain functional regardless of market disruptions.  
 
 Sovereigns receive a durable, multidimensional liquidity spine.  
-
-
 
 ## Autonomous Stress Response: Protecting Sovereign Capital
 
@@ -365,8 +339,6 @@ This is the advantage of autonomy.
 
 Sovereigns are protected not by advisors, but by engineered intelligence.  
 
-
-
 ## The Sovereign Liquidity Loop
 
 Liquidity becomes self-reinforcing.  
@@ -385,8 +357,6 @@ Capital compounds without interruption.
 
 The sovereign receives accelerated capital expansion with controlled exposure.  
 
-
-
 ## Autonomous Liquidity as a Sovereign Standard
 
 The shift toward autonomous liquidity is not optional.  
@@ -404,8 +374,6 @@ Self-optimizing.
 This is the new standard.  
 
 Roials-Alpha builds the infrastructure behind that standard.  
-
-
 
 ## The Future: Agentic Capital Programs for Sovereigns
 
@@ -430,7 +398,6 @@ Discrete.
 Precise.  
 
 Autonomous.  
-
 
 ## Conclusion
 

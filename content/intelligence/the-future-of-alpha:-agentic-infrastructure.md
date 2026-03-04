@@ -24,8 +24,6 @@ Infrastructure over storytelling.
 
 We enable liquidity for HNWI and UHNW operators through private credit and asset based lending, calibrated for a future shaped by automated decisioning and continuous capital orchestration.  
 
-
-
 ## The New Era of Agentic Capital
 
 Agentic infrastructure is the evolution of automation into autonomous capital intelligence.  
@@ -39,8 +37,6 @@ Agentic infrastructure is a full‑stack liquidity engine that continuously eval
 It behaves like an institutional internal desk, but with greater precision and zero fatigue.  
 
 This is the coming competitive frontier for private credit.  
-
-
 
 ## Why Alpha Is Migrating From Strategy to Structure
 
@@ -61,8 +57,6 @@ The investor who operates with agentic infrastructure will consistently outperfo
 
 The difference is architecture.  
 
-
-
 ## Liquidity, Re‑Engineered
 
 At Roials‑Alpha, liquidity is not an event.  
@@ -78,8 +72,6 @@ Too manual.
 Too bundled into legacy underwriting heuristics.  
 
 Agentic infrastructure unbundles these constraints and reassembles them into a faster, more precise model.  
-
-
 
 ## Private Credit as a Precision Instrument
 
@@ -103,8 +95,6 @@ Agentic infrastructure transforms private credit into a precision instrument tha
 This is not high fantasy automation.  
 This is engineered liquidity.  
 
-
-
 ## Asset Based Lending in an Agentic World
 
 Asset based lending is the backbone of real capital.  
@@ -123,8 +113,6 @@ This creates the structural ability to price credit more efficiently and deploy 
 HNWI and UHNW borrowers benefit because liquidity surfaces earlier.  
 Opportunities remain actionable.  
 And capital behaves like an extension of their operating ecosystem, not an administrative obstacle.  
-
-
 
 ## Crypto Lending for Mature Operators Only
 
@@ -145,8 +133,6 @@ Agentic infrastructure continuously models exchange depth, collateral stability 
 
 This is not algorithmic speculation.  
 It is controlled collateral intelligence for serious operators.  
-
-
 
 ## Public Share Lending With Institutional Precision
 
@@ -169,8 +155,6 @@ For HNWI and UHNW borrowers with large equity blocks, this turns dormant holding
 The capital is released without interfering with long‑term investment strategy.  
 The infrastructure extracts liquidity while preserving exposure.  
 
-
-
 ## Silent Authority as a Structural Advantage
 
 Roials‑Alpha is built to operate in the background.  
@@ -183,8 +167,6 @@ We design systems that do not require attention because they are engineered to p
 HNWI and UHNW clients use us as an internal capability, not a vendor.  
 
 Quiet precision is more powerful than visible complexity.  
-
-
 
 ## The Future Playbook: Autonomous Liquidity by Design
 
@@ -203,8 +185,6 @@ This creates alpha.
 
 And because the infrastructure becomes smarter with every cycle, the alpha compounds.  
 
-
-
 ## Why HNWI and UHNW Operators Will Lead the Transition
 
 Scale accelerates intelligence.  
@@ -219,8 +199,6 @@ Not the bottom.
 
 Institutional intelligence requires institutional‑grade clients.  
 This is the domain of Roials‑Alpha.  
-
-
 
 ## Conclusion: The New Alpha Is Autonomous
 

@@ -34,8 +34,6 @@ We do not broadcast.
 We do not hype.  
 Silent authority is our operating signature.  
 
-
-
 ## The New Liquidity Standard for GPs
 
 The private markets are drowning in trapped value.  
@@ -73,8 +71,6 @@ The difference is structural, not cosmetic.
 This is why institutional GPs use us.  
 We make liquidity deterministic instead of negotiable.
 
-
-
 ## AI as the Primary Underwriter
 
 Traditional underwriting is an act of defensive modeling.  
@@ -108,8 +104,6 @@ It is exponential.
 
 Your collateral becomes borrow ready with minimal friction, because we remove the historical bottlenecks that slow down institutional liquidity.  
 
-
-
 ## Lending Against Private Credit
 
 Private credit is an opaque category for most lenders.  
@@ -135,8 +129,6 @@ We are not a retail venue.
 We operate purely at the high end.  
 Our relationship structure is engineered for clients who need liquidity measured in millions, not noise decimals.  
 
-
-
 ## Asset Based Lending for Structural Operators
 
 Asset based lending, when executed correctly, is an intelligence problem, not a collateral problem.
@@ -155,8 +147,6 @@ Everything is executed under silent authority.
   
 
 If you operate in ABL and require lending that reacts faster than your acquisition pipeline, our system is built for you.  
-
-
 
 ## Crypto Lending with a 2 Million Minimum
 
@@ -181,8 +171,6 @@ The AI layer evaluates:
 
 The result is high grade lending with deep stability.  
 
-
-
 ## Public Share Lending with a 5 Million Minimum
 
 Large public equity blocks require silent handling.  
@@ -205,8 +193,6 @@ Our models evaluate:
   
 
 You receive clean capital without exposure to public noise.
-
-
 
 ## Why AI First Liquidity Dominates the Next Cycle
 
@@ -231,8 +217,6 @@ They will ask who has the fastest intelligence.
 Speed wins cycles.  
 Intelligence wins decades.
 
-
-
 ## The Silent Authority Framework
 
 Roials Alpha does not compete in public.  
@@ -250,8 +234,6 @@ Provide AI infrastructure that eliminates latency.
 Silent authority is not performed.  
 It is engineered.  
 It is the result of consistently doing the work that others cannot do, at a level they cannot reach, with a clarity they cannot replicate.  
-
-
 
 ## Strategic Liquidity for HNWI and UHNW Clients
 
@@ -283,8 +265,6 @@ This is engineered financial mobility for clients who manage complex capital sta
 We design the infrastructure.  
 You control the velocity.
 
-
-
 ## Future Proofing the GP Liquidity Stack
 
 The next era of institutional liquidity is already underway.  
@@ -313,8 +293,6 @@ GPs that integrate AI fluency into their liquidity operations outperform on spee
 Roials Alpha operates as your quiet structural partner.  
 We deliver the mechanics.  
 You capture the advantage.
-
-
 
 ## Why Roials Alpha Is the Intelligent Choice
 
@@ -348,8 +326,6 @@ Only high end capital infrastructure.
 
 When a GP or UHNW allocator requires liquidity that behaves like an internal capital engine, they use Roials Alpha.
 
-
-
 ## The Trade Secret Layer
 
 There are quiet mechanics that shape modern liquidity.
@@ -378,8 +354,6 @@ These insights are invisible without AI.
 They are invisible to most lenders.  
 They are foundational to us.
 
-
-
 ## The Roials Alpha Advantage
 
 Every client receives:  
@@ -400,7 +374,6 @@ We supply mechanics that shape the liquidity environment around you.
   
 
 This is where modern wealth architecture lives.  
-
 
 ## Conclusion
 
