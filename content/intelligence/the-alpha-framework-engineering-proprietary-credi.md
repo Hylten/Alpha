@@ -47,7 +47,7 @@ The Alpha Framework operates on three doctrines.
 
 These doctrines form the foundation for institutional credibility.  
 They establish a geometry that HNW and UHNW capital can trust.  
-They produce clarity for Fund III+ allocators who require repeatability and structural alignment.  
+They produce clarity for Fund-III+ allocators who require repeatability and structural alignment.  
 
 In the Roials-Alpha context the doctrine is not branding.  
 It is operational theology.  
@@ -334,7 +334,7 @@ This creates stability for both principal and lender.
 ---
 
 ## Institutional Alignment  
-Fund III+ allocators require hard data, repeatability, control, and moral clarity.  
+Fund-III+ allocators require hard data, repeatability, control, and moral clarity.  
 They reject noise.  
 They reject intermediaries who cannot articulate covenant theology.  
 They reject anything that resembles marketing.  

@@ -53,7 +53,7 @@ Three pillars define the stack.
 3. Autonomous execution rails engineered for covenant stewardship
 
 Each pillar is independent yet interlocking.  
-Each advances the mandate of structural alignment with Fund III expectations and UHNW family office governance.
+Each advances the mandate of structural alignment with Fund-III expectations and UHNW family office governance.
 
 The entire system is oriented around one invariant.  
 Control is never outsourced.

@@ -51,7 +51,7 @@ The instrument is AI-driven origination and underwriting built by Jonas Hylt√©n‚
 
 Deal flow determines opportunity. Intelligence determines quality.
 
-Traditional origination depends on linear networks and slow human gating. Such methods cannot serve Fund III institutions or NAEO tier Principals. The velocity gap is too wide. The diligence window is too narrow. The information asymmetry is too costly.
+Traditional origination depends on linear networks and slow human gating. Such methods cannot serve Fund-III institutions or NAEO tier Principals. The velocity gap is too wide. The diligence window is too narrow. The information asymmetry is too costly.
 
 Roials-Alpha replaces network drag with computational scanning.
 
@@ -185,7 +185,7 @@ Thresholds are filters. Not barriers.
 
 The audience for this architecture is narrow.
 
-Fund III institutions.
+Fund-III institutions.
 HNWI with active governance mandates.
 UHNW Principals requiring liquidity without dilution.
 Family offices operating under Christian conservative doctrine.

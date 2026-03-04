@@ -332,7 +332,7 @@ In a world where regulatory drift and global instability continue to rise, insti
 
 Roials-Alpha is designed for this audience.
 
-The architecture is built for Fund III and above.  
+The architecture is built for Fund-III and above.  
 The thresholds are built for HNWI and UHNW.  
 The posture is built for sovereign families and long-horizon capital.  
 
