@@ -81,7 +81,7 @@ async function generateSEO() {
 
         listHtml += `
             <article style="margin-bottom: 300px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center; padding-bottom: 150px; border-bottom: 1px solid rgba(255,255,255,0.05);">
-                <div style="font-size: 11px; color: #C5A059; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 40px; font-weight: 700; opacity: 0.8;">Release &mdash; ${date}</div>
+                <div style="font-size: 11px; color: #C5A059; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 80px; font-weight: 700; opacity: 0.8;">Release &mdash; ${date}</div>
                 <a href="/Alpha/intelligence/${slug}/" style="text-decoration: none !important; color: #E5E7EB !important; display: block; width: 100%;">
                     <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #C5A059 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${title}</h2>
                     <p style="font-size: 1.25rem; color: #9CA3AF !important; line-height: 1.8; font-weight: 300; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
@@ -131,7 +131,14 @@ async function generateSEO() {
             <div style="max-width: 800px; margin: 0 auto;">
                 <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #C5A059; margin-bottom: 60px; line-height: 1.1;">${title}</h1>
                 <div style="line-height: 2.1; font-size: 1.35rem; color: #9CA3AF !important; font-weight: 300; width: 100%; text-align: left;">
-                    ${content.split('\n').map(p => p.trim() ? `<p style="margin-bottom: 48px;">${p}</p>` : '').join('')}
+                    ${content.split('\n').map(p => {
+            p = p.trim();
+            if (!p) return '';
+            if (p.startsWith('### ')) return `<h3 style="font-size: 1.5rem; color: #C5A059; margin-top: 40px; margin-bottom: 20px; font-weight: 500; font-family: serif;">${p.replace('### ', '')}</h3>`;
+            if (p.startsWith('## ')) return `<h2 style="font-size: 2rem; color: #C5A059; margin-top: 60px; margin-bottom: 30px; font-weight: 500; font-family: serif;">${p.replace('## ', '')}</h2>`;
+            p = p.replace(/\*\*(.*?)\*\*/g, '<strong style="color: #E5E7EB; font-weight: 600;">$1</strong>');
+            return `<p style="margin-bottom: 48px;">${p}</p>`;
+        }).join('')}
                 </div>
             </div>
         </div>`;
