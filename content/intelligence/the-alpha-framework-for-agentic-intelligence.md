@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Framework for Agentic Intelligence"
 description: "A deep technical exploration of Roials-Alpha and its liquidity architecture across private credit and asset based liquidity engineering."
-date: "2026-01-10"
+date: "2023-10-22"
 author: "Jonas Hyltén"
 slug: "the-alpha-framework-for-agentic-intelligence"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Alpha"

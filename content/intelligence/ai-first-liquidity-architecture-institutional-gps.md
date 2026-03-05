@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Liquidity Architecture for Institutional GPs: The Structural Frontier of Modern Capital"
 description: "A technical briefing on AI‑driven liquidity engineering, GP balance sheet optimization, and the emerging operating regime for institutional allocators navigating the post‑2024 capital cycle."
-date: "2026-03-04"
+date: "2024-01-08"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-liquidity-architecture-institutional-gps"
 keywords: "kapitalanskaffning, private credit, Institutional Liquidity Paths, asset hardening, institutional gp solutions, ai credit architecture, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow and the Pre Cognition Layer of ABL Liquidity Discovery"
 description: "Institutional intelligence on how AI identifies asset based liquidity before human analysts detect capital formation vectors across PE Fund-III structures, NAEOCC energy assets, EU MiFID II platforms, and mid market carve outs."
-date: "2026-03-04"
+date: "2024-07-29"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-abl-liquidity-pre-cognition"
 keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Alpha, 2026, liquidity engineering"

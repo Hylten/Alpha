@@ -1,7 +1,7 @@
 ---
 title: "The Proprietary Path to Autonomous Capital"
 description: "A principal-level brief on AI-driven capital autonomy, algorithmic deal flow, private credit engineering, and institutional-grade tech stacks for UHNW/HNW family offices seeking frictionless, sovereignty-oriented capital infrastructure."
-date: "2026-03-05"
+date: "2026-02-24"
 author: "Roials-Alpha"
 slug: "proprietary-path-to-autonomous-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

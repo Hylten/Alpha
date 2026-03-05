@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Liquidity for Institutional GPs: The Structural Frontier of Modern Capital"
 description: "High end analysis of AI‑driven liquidity mechanics for private credit and asset based liquidity engineering. Tailored for institutional GPs and UHNW capital allocators."
-date: "2025-12-31"
+date: "2025-06-07"
 author: "Jonas Hyltén"
 slug: "aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Alpha"

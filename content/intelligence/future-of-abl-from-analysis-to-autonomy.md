@@ -1,7 +1,7 @@
 ---
 title: "The Future of ABL: From Analysis to Autonomy"
 description: "A principal-grade examination of autonomous asset‑based lending systems, algorithmic credit architectures, and institutional-scale liquidity engineering frameworks for UHNW/HNW family offices."
-date: "2026-03-05"
+date: "2025-04-04"
 author: "Roials-Alpha"
 slug: "future-of-abl-from-analysis-to-autonomy"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

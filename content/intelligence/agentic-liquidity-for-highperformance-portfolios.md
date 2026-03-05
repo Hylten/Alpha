@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity for High‑Performance Portfolios"
 description: "A deep dive into high‑efficiency liquidity engineering, private credit, and asset based Strategic Collateralization for HNWI and UHNW portfolios."
-date: "2025-12-26"
+date: "2023-11-07"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-for-highperformance-portfolios"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Alpha"

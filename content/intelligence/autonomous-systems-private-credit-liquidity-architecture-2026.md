@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Systems for Private Credit Expansion and the Emergent Liquidity Architecture for HNWI Capital"
 description: "A technical intelligence report on autonomous liquidity systems, private credit infrastructure, and the evolving mechanics shaping 2026 private equity Fund-III investment opportunities."
-date: "2026-03-04"
+date: "2023-09-03"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-private-credit-liquidity-architecture-2026"
 keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Alpha, 2026, liquidity engineering"

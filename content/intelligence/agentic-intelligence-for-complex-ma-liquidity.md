@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence for Complex M&A Liquidity"
 description: "High‑authority analysis on agentic intelligence, private credit, and ABL structures engineered to unlock complex M&A liquidity for HNWI and UHNW principals."
-date: "2025-12-26"
+date: "2023-01-21"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-for-complex-ma-liquidity"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

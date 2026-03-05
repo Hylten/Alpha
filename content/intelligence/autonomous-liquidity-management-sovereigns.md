@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Liquidity Management for Sovereigns: Architecture, Regime Dynamics, and Institutional Navigation"
 description: "A high density institutional briefing on algorithmic liquidity engineering for sovereign allocators, technical structuring mechanics, and the operational role of Roials Capital as a strategic navigator within AI driven credit and energy linked collateral ecosystems."
-date: "2026-03-04"
+date: "2024-07-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-liquidity-management-sovereigns"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

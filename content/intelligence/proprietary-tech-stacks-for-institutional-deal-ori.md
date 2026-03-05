@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Tech Stacks For Institutional Deal Ori"
 description: "Proprietary Tech Stacks For Institutional Deal Ori"
-date: "2026-01-08"
+date: "2023-09-30"
 author: "Jonas Hyltén"
 slug: "proprietary-tech-stacks-for-institutional-deal-ori"
 keywords: "private credit, ABL, liquidity"

@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Strategies for Asset‑Based Finance: The New Liquidity Architecture for HNWI and UHNW"
 description: "Institutional brief on AI-driven asset-based finance, algorithmic credit structuring, private liquidity engineering, and multi‑jurisdictional optimization for HNWI and UHNW entities. Focus on Fund‑III–ready architectures."
-date: "2026-03-05"
+date: "2023-11-20"
 author: "Roials-Alpha"
 slug: "ai-first-asset-based-finance-liquidity-architecture"
 keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset hardening"

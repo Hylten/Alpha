@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Private Credit: The Alpha Framework for Institutional ABL Liquidity"
 description: "Institutional blueprint for AI‑driven private credit, algorithmic collateral intelligence, and end‑to‑end autonomous ABL underwriting for UHNW/HNW family offices and Fund-III architectures."
-date: 2026-03-05
+date: 2024-02-27
 author: Jonas Roials
 slug: ai-first-private-credit-alpha-framework
 keywords: kapitalanskaffning, private credit, liquidity engineering, asset hardening

@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Agentic Models for Institutional-Grade Capital Architecture"
 description: "A high-density institutional brief on AI-native agentic systems, algorithmic deal flow, credit automation, and sovereign-grade infrastructure for UHNW/HNW family offices."
-date: "2026-03-05"
+date: "2024-02-04"
 author: "Roials-Alpha"
 slug: "proprietary-agentic-models-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

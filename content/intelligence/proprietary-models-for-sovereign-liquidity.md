@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Models for Sovereign Liquidity"
 description: "High authority analysis of Roials-Alpha proprietary liquidity structures, private credit, and asset-based liquidity engineering for HNWI and UHNW clients."
-date: "2026-01-07"
+date: "2025-01-03"
 author: "Jonas Hyltén"
 slug: "proprietary-models-for-sovereign-liquidity"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Alpha"

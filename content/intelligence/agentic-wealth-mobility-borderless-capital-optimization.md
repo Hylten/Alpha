@@ -1,7 +1,7 @@
 ---
 title: "Agentic Wealth Mobility: Reinforcement Learning as the Catalyst for Borderless Capital Optimization"
 description: "A principal level intelligence brief on how RL driven agentic systems reshape liquidity engineering, UHNW capital mobility, and cross jurisdictional asset hardening for 2026 private equity Fund-III investment opportunities."
-date: "2026-03-04"
+date: "2025-01-07"
 author: "Jonas Hyltén"
 slug: "agentic-wealth-mobility-borderless-capital-optimization"
 keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Alpha, 2026, Institutional Liquidity Paths"

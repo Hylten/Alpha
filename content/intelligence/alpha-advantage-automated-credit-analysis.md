@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Advantage in Automated Credit Analysis"
 description: "A principal-grade exposition on AI-first credit architecture, autonomous underwriting, liquidity engineering, and institutional alpha capture for UHNW/HNW family offices operating across private credit cycles."
-date: "2026-03-05"
+date: "2024-11-27"
 author: "Jonas Roials"
 slug: "alpha-advantage-automated-credit-analysis"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"

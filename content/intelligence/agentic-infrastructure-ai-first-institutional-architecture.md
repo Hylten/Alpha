@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure as the Primary Operating System for Institutional Capital Architecture"
 description: "A technical briefing on AI-first infrastructure, agentic execution frameworks, and institutional-grade liquidity engineering for family offices and private credit allocators."
-date: "2026-03-04"
+date: "2025-10-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-infrastructure-ai-first-institutional-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEOC"

@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven ABL for Emerging Markets: The Silent Infrastructure of Future Liquidity"
 description: "An advanced breakdown of how AI-driven Asset-Based liquidity engineering unlocks liquidity in emerging markets for HNWI and UHNW portfolios."
-date: "2025-12-29"
+date: "2024-02-06"
 author: "Jonas Hyltén"
 slug: "ai-driven-abl-for-emerging-markets-the-silent-infrastructure-of-future-liquidity"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Alpha"

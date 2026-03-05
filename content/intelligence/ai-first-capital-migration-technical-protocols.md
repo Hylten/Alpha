@@ -1,7 +1,7 @@
 ---
 title: "AI First Capital Migration: Technical Protocols for Institutional Realignment"
 description: "Institutional analysis on AI driven capital migration architectures, balance sheet optimization, and algorithmic credit structures positioned for UHNW allocators and private credit platforms recalibrating toward automation centric liquidity engineering."
-date: "2026-03-04"
+date: "2025-10-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-capital-migration-technical-protocols"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

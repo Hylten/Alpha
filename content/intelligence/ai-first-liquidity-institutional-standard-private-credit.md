@@ -1,7 +1,7 @@
 ---
 title: "AI First Liquidity: The Institutional Standard for Private Credit and Asset Based Lending"
 description: "A technical briefing on AI driven credit architecture, balance sheet optimization, and institutional grade liquidity engineering for private credit allocators and family office principals."
-date: "2026-03-04"
+date: "2025-08-06"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-liquidity-institutional-standard-private-credit"
 keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset hardening, Alberta energy, NAEO"

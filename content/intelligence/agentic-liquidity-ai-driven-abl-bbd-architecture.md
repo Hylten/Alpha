@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity Architecture for Fund-III: AI‑Driven ABL as the New Institutional Leverage Regime"
 description: "A principal‑level analysis of agentic liquidity systems, AI‑driven asset‑based lending, and the structural redesign of Buy‑Borrow‑Die frameworks for institutional portfolios across private credit, energy assets, and family‑office capital stacks."
-date: "2026-03-05"
+date: "2025-10-18"
 author: "Roials-Alpha"
 slug: "agentic-liquidity-ai-driven-abl-bbd-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

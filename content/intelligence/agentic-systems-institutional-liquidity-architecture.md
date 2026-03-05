@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Institutional Capital: The New Architecture of Liquidity"
 description: "Institutional briefing on the structural shift toward agentic systems, AI-first credit architecture, and the recalibration of liquidity channels across global private markets."
-date: "2026-03-04"
+date: "2026-02-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-systems-institutional-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

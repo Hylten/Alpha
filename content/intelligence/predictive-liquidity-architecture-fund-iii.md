@@ -1,7 +1,7 @@
 ---
 title: "Predictive Liquidity Architecture for Fund-III: ABL Without Friction"
 description: "Institutional brief on AI-first asset‑backed lending, predictive liquidity models, and algorithmic credit architecture engineered for UHNW/HNW family‑office precision."
-date: "2026-03-05"
+date: "2025-03-01"
 author: "Roials-Alpha"
 slug: "predictive-liquidity-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Liquidity Architecture for Institutional Sovereigns: A Technical Framework for Capital Efficiency and Cross Jurisdictional Precision"
 description: "A clinical analysis of AI coordinated liquidity systems, institutional balance sheet engineering, and sovereign grade capital routing. Focus on algorithmic credit structuring, operational intelligence, and the emerging regime of autonomous capital architectures."
-date: "2026-03-04"
+date: "2023-01-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-liquidity-architecture-institutional-sovereigns"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

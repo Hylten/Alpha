@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity: How AI Driven ABL Reshapes the Buy Borrow Die Architecture for Institutional Portfolios"
 description: "A clinical review of AI native asset based lending engines, autonomous credit adjudication, and the structural shift toward perpetual liquidity ecosystems that reinforce the Buy Borrow Die model for UHNW and institutional allocators."
-date: "2026-03-04"
+date: "2023-04-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-liquidity-ai-driven-abl-buy-borrow-die"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"

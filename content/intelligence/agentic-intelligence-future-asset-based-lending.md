@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the Future of Asset Based Lending: How AI Driven Credit Systems Redefine Liquidity"
 description: "Institutional briefing on the structural transition toward agentic credit systems, automated collateral intelligence, and balance sheet optimization in next generation private credit architecture."
-date: "2026-03-04"
+date: "2023-10-20"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-intelligence-future-asset-based-lending"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
 description: "A high-authority deep dive into high frequency liquidity structuring, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2025-12-22"
+date: "2024-12-07"
 author: "Jonas Hyltén"
 slug: "agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Alpha"

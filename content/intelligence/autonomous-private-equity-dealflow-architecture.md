@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Private Equity Dealflow and the Institutional Architecture of Algorithmic Transaction Sourcing"
 description: "A high density institutional briefing on autonomous PE dealflow, algorithmic credit architectures, technical screening systems, and the structural realignment of private markets toward AI directed sourcing. Written for UHNWIs, family offices, and institutional LPs requiring operational intelligence on autonomous transaction origination."
-date: "2026-03-04"
+date: "2024-05-13"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-private-equity-dealflow-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow: The Systems EngineerS Persp"
 description: "Autonomous Deal Flow: The Systems EngineerS Persp"
-date: "2026-01-04"
+date: "2025-01-10"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-the-systems-engineers-persp"
 keywords: "private credit, ABL, liquidity"

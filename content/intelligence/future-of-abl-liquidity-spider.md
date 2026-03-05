@@ -1,7 +1,7 @@
 ---
 title: "The Future of ABL: Prompting the Liquidity Spider"
 description: "An institutional analysis of next-generation Asset Based Lending architecture, AI-driven credit mapping, and strategic liquidity engineering frameworks for allocators evaluating structural opportunities in North American private credit."
-date: "2026-03-04"
+date: "2024-05-31"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-abl-liquidity-spider"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

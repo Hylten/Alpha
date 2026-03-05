@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing and the Reconfiguration of Institutional Capital Architecture"
 description: "Technical briefing on the AI governed sovereign credit landscape, liquidity engineering, and the ascent of machine mediated capital allocation frameworks across UHNW and institutional mandates."
-date: "2026-03-04"
+date: "2025-03-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-alpha-ai-centric-sovereign-financing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

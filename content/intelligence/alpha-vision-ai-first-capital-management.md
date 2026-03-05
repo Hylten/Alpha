@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Vision for AI First Capital Management: Institutional Architecture, Algorithmic Deal Flow, and the Elimination of Human Friction"
 description: "A high density institutional briefing on the emergence of AI governed capital frameworks, algorithmic credit architectures, and sovereign grade operational stacks for UHNW and institutional allocators navigating next generation private markets."
-date: "2026-03-04"
+date: "2025-03-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-vision-ai-first-capital-management"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "The Future of ABL: Predictive Liquidity Models for Institutional Precision"
 description: "A technical briefing on the regime shift redefining asset based lending, driven by algorithmic visibility, predictive liquidity engines, and institutional grade balance sheet intelligence."
-date: "2026-03-04"
+date: "2023-05-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-abl-predictive-liquidity-models"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

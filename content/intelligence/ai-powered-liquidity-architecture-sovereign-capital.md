@@ -1,7 +1,7 @@
 ---
 title: "AI Powered Liquidity Architecture for Sovereign Level Capital Movements"
 description: "An institutional briefing on algorithmic liquidity systems, AI structured credit engines, machine governed allocation pathways, and the emerging architecture powering sovereign scale capital navigation across global private markets."
-date: "2026-03-04"
+date: "2025-07-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-powered-liquidity-architecture-sovereign-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

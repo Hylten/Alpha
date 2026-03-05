@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Sovereign Capital Migration: Institutional Frameworks for Algorithmic Allocation Mobility"
 description: "A clinical examination of algorithmic capital mobility, sovereign allocation infrastructure, and agentic systems that reconfigure cross-border deployment mechanics for UHNW, family office, and institutional mandates."
-date: "2026-03-04"
+date: "2025-02-13"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-systems-sovereign-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

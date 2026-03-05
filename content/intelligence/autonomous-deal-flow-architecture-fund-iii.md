@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow Architecture for Fund-III Ops"
 description: "Institutional briefing on algorithmic deal origination, autonomous credit structuring, and liquidity engineering frameworks for Fund-III operations. Focus on removing human friction through systemized underwriting, rule based capital routing, and proprietary field intelligence integrations."
-date: "2026-03-04"
+date: "2023-06-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-deal-flow-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

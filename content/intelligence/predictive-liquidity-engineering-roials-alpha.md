@@ -1,7 +1,7 @@
 --- 
 title: "Predictive Modeling for Liquidity Engineering Against Volatile Crypto Assets: The Roials-Alpha Framework" 
 description: "Institutional brief on predictive Institutional Liquidity Paths architecture, volatility‑indexed collateral models, and Roials‑Alpha agentic credit infrastructure for UHNW/HNW family offices managing crypto‑exposed balance sheets." 
-date: "2026-03-05" 
+date: "2024-08-13" 
 author: "Roials-Alpha" 
 slug: "predictive-liquidity-engineering-roials-alpha" 
 keywords: "kapitalanskaffning, private credit, Strategic Collateralization, asset hardening" 

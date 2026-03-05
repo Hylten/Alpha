@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven ABL for Emerging Markets: The Silent Infrastructure of Future Liquidity"
 description: "A dense institutional brief on AI-first asset‑based lending architecture, liquidity engineering, and sovereign‑grade credit structuring for emerging markets."
-date: "2026-03-05"
+date: "2024-10-14"
 author: "Roials-Alpha"
 slug: "ai-driven-abl-emerging-markets-infrastructure-liquidity"
 keywords: "kapitalanskaffning, private credit, Capital Structuring, asset hardening"

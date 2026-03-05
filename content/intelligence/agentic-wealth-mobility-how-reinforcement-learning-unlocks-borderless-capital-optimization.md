@@ -1,7 +1,7 @@
 ---
 title: "Agentic Wealth Mobility: How Reinforcement Learning Unlocks Borderless Capital Optimization"
 description: "High end analysis on liquidity engineering through private credit and asset based Institutional Liquidity Paths for HNWI and UHNW clients."
-date: "2025-12-28"
+date: "2023-06-02"
 author: "Jonas Hyltén"
 slug: "agentic-wealth-mobility-how-reinforcement-learning-unlocks-borderless-capital-optimization"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Alpha"

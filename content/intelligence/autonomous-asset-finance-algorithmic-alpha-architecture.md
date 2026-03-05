@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Asset Finance and the Institutional Migration Toward Algorithmic Alpha"
 description: "A technical briefing on the structural transition from human mediated capital deployment to autonomous, data driven credit engines that reshape private credit, asset backed finance, and institutional liquidity engineering."
-date: "2026-03-04"
+date: "2024-04-20"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-asset-finance-algorithmic-alpha-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"
