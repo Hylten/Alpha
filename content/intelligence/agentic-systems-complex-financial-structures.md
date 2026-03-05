@@ -28,7 +28,7 @@ High-conviction families understand origination as a frontier, not an inbox. Age
 
 Algorithms classify signals by liquidity slope, volatility signature, friction cost, counterparty opacity, and jurisdictional resilience. The engine predicts settlement probability before human review. The machine narrows the world to what matters. Everything else is noise.
 
-Liquidity Engineering:
+Asset-Backed Frameworks:
 Complex families require liquidity independence: the ability to create capital velocity internally, independent of external credit markets. Agentic systems supervise liquidity cycles with millisecond sensitivity. Flows shift before the market senses movement.
 
 Core functions include:
@@ -192,3 +192,6 @@ The family transforms into a sovereign micro-institution. Capital becomes autono
 
 Final Mandate:
 Deploy agentic infrastructure. Now. Request full build specifications.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

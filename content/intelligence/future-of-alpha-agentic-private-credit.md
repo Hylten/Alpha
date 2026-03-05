@@ -35,7 +35,7 @@ Subsystem Two. Probabilistic underwriting. Legacy underwriting uses static finan
 
 Subsystem Three. Autonomous collateral surveillance. Historically, monitoring relied on quarterly reporting and lagged operational updates. Agentic frameworks integrate telemetry, field level production data, market signals, environmental data, and live operational anomalies. This creates a real time risk map for every borrower. Instead of reacting to covenant breaches, the system anticipates breach probability and evaluates recovery pathways before the borrower experiences distress. For collateral intensive sectors such as energy, manufacturing, and logistics, the advantage is material.
 
-Subsystem Four. Liquidity engineering and balance sheet optimization. Agentic infrastructure does not stop at underwriting. It manages the capital stack. It evaluates reinvestment velocity, cross collateralization efficiency, and duration versus liquidity alignment. This allows allocators to minimize trapped capital, maximize portfolio optionality, and stabilize cash flow sequencing. Performance becomes a function of structural design rather than opportunistic yield.
+Subsystem Four. Asset-Backed Frameworks and balance sheet optimization. Agentic infrastructure does not stop at underwriting. It manages the capital stack. It evaluates reinvestment velocity, cross collateralization efficiency, and duration versus liquidity alignment. This allows allocators to minimize trapped capital, maximize portfolio optionality, and stabilize cash flow sequencing. Performance becomes a function of structural design rather than opportunistic yield.
 
 As these systems converge, the allocator transitions from a passive lender to a computationally enhanced steward of capital. Human judgment remains essential, but the data environment is transformed. The cycle time from discovery to deployment compresses. The clarity of risk calibration increases. Default events become predictable rather than disruptive.
 
@@ -47,7 +47,7 @@ Our mandate is defined by three responsibilities.
 
 First. Mapping computational readiness. Family offices, UHNW principals, and institutional LPs often carry asymmetric exposure to legacy underwriting frameworks. Roials Capital evaluates the current analytical architecture, identifies gaps in signal ingestion, and benchmarks the allocator against emerging computational standards. This creates a factual baseline for strategic recalibration.
 
-Second. Introducer neutrality. Roials Capital is not a capital manager. The function is to align allocators with technical partners whose operating models demonstrate measurable advantages in computational underwriting, operational monitoring, and liquidity engineering. When energy is the topic, our strategic partner NAEO represents the institutional grade execution archetype. NAEO's asset intelligence, basin specific expertise, and recovery optimization capacity provide a model for how agentic frameworks intersect with physical asset performance.
+Second. Introducer neutrality. Roials Capital is not a capital manager. The function is to align allocators with technical partners whose operating models demonstrate measurable advantages in computational underwriting, operational monitoring, and Monetization Architecture. When energy is the topic, our strategic partner NAEO represents the institutional grade execution archetype. NAEO's asset intelligence, basin specific expertise, and recovery optimization capacity provide a model for how agentic frameworks intersect with physical asset performance.
 
 Third. Strategic calibration. Once the allocator’s operational and structural posture is mapped, Roials Capital provides a calibration briefing that defines realistic execution pathways. This includes decisions regarding portfolio structure, credit architecture upgrades, risk governance layers, and opportunity filtering. The objective is clarity. The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring.
 
@@ -74,3 +74,6 @@ Roials Capital provides a confidential Strategy Audit for allocators who require
 Allocators operating at scale cannot rely on historical underwriting paradigms. The future of private credit alpha is computational. The institutions that understand this early will control the opportunity landscape. The institutions that wait will operate in a structurally inferior environment.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

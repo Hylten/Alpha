@@ -4,7 +4,7 @@ description: "A clinical analysis of algorithmic credit origination, liquidity e
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-framework-proprietary-credit-architecture"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -56,9 +56,9 @@ The underwriting engine is built on deterministic scoring rather than committee 
 
 Underwriting no longer depends on narrative assessment. It is computed through a scoring matrix calibrated for institutional constraints. The output is a credit logic profile that indicates structural viability rather than return potential.
 
-Module C: Liquidity Engineering and Balance Sheet Alignment
+Module C: Asset-Backed Frameworks and Balance Sheet Alignment
 
-Liquidity engineering is the optimization discipline that converts raw credit opportunities into structured institutional exposures. The framework calibrates:
+Strategic Collateralization is the optimization discipline that converts raw credit opportunities into structured institutional exposures. The framework calibrates:
 
 - Front loaded vs amortizing liquidity profiles.
 - Cash flow waterfall sequencing.
@@ -142,8 +142,11 @@ The Alpha Framework provides a repeatable methodology that enables:
 - Reduced counterparty complexity.
 - Enhanced structural predictability.
 
-The next step for institutions and UHNW family offices is a confidential strategy audit. This audit evaluates the current portfolio’s alignment with modern credit architecture standards and identifies structural inefficiencies that can be optimized through advanced liquidity engineering.
+The next step for institutions and UHNW family offices is a confidential strategy audit. This audit evaluates the current portfolio’s alignment with modern credit architecture standards and identifies structural inefficiencies that can be optimized through advanced Strategic Collateralization.
 
 Roials Capital functions as a strategic partner in this process. Its role is to guide allocators through the structural landscape, introduce institutionally validated operators, and calibrate credit frameworks to match long term mandates.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

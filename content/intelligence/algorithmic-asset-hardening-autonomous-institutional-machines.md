@@ -33,7 +33,7 @@ Institutional drift is removed through algorithmic policy enforcement. Governanc
 
 The engine extends to revenue insurance. Oil-and-gas wells decline. Predictable. Slow. Modeled. Build credit tranches that anticipate the curve. Use algorithmic decline compensation to throttle capital. Slow drip. Tight control. No surprises. Hardening is not rigidity. Hardening is principled adaptation.
 
-Liquidity engineering sits at the center. Capital routes through programmable corridors. Each corridor has conditions: time, performance, risk. When a condition fires, liquidity moves. No approvals. No meetings. No committees. Just autonomous execution. Institutions that move this fast win.
+Capital Structuring sits at the center. Capital routes through programmable corridors. Each corridor has conditions: time, performance, risk. When a condition fires, liquidity moves. No approvals. No meetings. No committees. Just autonomous execution. Institutions that move this fast win.
 
 Asset hardening extends to intellectual property. Family offices that rely on outside vendors leak alpha. Build internal AI stacks. Proprietary engines. Proprietary scoring models. Proprietary signal pipelines. Codebase is collateral. Data is leverage. Algorithms are assets. Tie them to trust structures. No vendor can claim ownership. No regulator can claim interpretative authority.
 
@@ -51,4 +51,8 @@ In a world where institutions fail because governance lags behind complexity, al
 
 The principal remains above the machine. But the machine extends the principal’s reach. The institution becomes a living asset.
 
-Mandatory directive: Inquire about agentic infrastructure.
+Mandatory directive: 
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Inquire about agentic infrastructure.

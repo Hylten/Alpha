@@ -94,7 +94,7 @@ Stewardship is treated as a discipline rather than sentiment. The principles ali
 The system reduces capital misallocation by removing emotional, reactive, or opaque decision pathways. Mechanized underwriting and data normalization limit waste and produce allocation clarity. This discipline ensures capital is not deployed into environments with unclear risk structures.
 
 2. Ethical Liquidity Movement
-Cross jurisdictional capital flows require a compliance governed framework. The architecture maintains regulatory alignment, operational transparency, and data auditability. This ensures that liquidity movement remains consistent with institutional and intergenerational accountability mandates.
+Cross jurisdictional capital flows require a compliance governed framework. The architecture maintains regulatory alignment, operational transparency, and data auditability. The architecture dictates liquidity movement remains consistent with institutional and intergenerational accountability mandates.
 
 3. Asset Hardening Discipline
 Stewardship requires movement toward real asset backed structures that preserve capital integrity. AI architectures harden asset exposure by verifying collateral stability before capital is positioned. For energy assets this includes:
@@ -119,3 +119,6 @@ Allocators with AI governed liquidity architecture will operate with structural 
 Roials Capital provides institutional grade intelligence and introduction pathways for allocators seeking to calibrate their existing liquidity systems to the new regime. The objective is strategic alignment, not solicitation. The next step for institutions requiring clarity is a confidential Strategy Consultation or broader Capital Architecture Audit to map how AI driven liquidity systems can be integrated into their deployment framework.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

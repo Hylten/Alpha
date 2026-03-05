@@ -27,16 +27,16 @@ PHASE 2: TECHNICAL MECHANICS
 
 Autonomous dealflow architecture relies on multi layer filtration systems designed to classify and validate opportunities before any human evaluation occurs. For private equity and private credit, the architecture uses four principal components:
 
-1. Pattern Recognition Layers  
+1. Pattern Recognition Layers 
 These applications scan operator registries, regulatory filings, distressed signals, lien data, production curves, supply chain movements, and sector specific workflow indicators. They identify anomalies that traditionally precede capital events such as refinancing needs, asset divestitures, liquidity stress, or expansion triggers.
 
-2. Cash Flow Integrity Engines  
+2. Cash Flow Integrity Engines 
 These instruments evaluate historical cash flows using predictive modeling that accounts for seasonality, margin variability, operational maturity, and cost inflation velocities. The models assess the sustainability of EBITDA sequences, sensitivity to leverage, and structural resilience under altered rate environments. The output is a stability classification used to pre sort opportunities into creditworthy, equity eligible, or structurally impaired categories.
 
-3. Institutional Archetype Matching  
+3. Institutional Archetype Matching 
 Algorithmic classification assesses whether the opportunity aligns with the preferences of UHNW or institutional family office archetypes. Variables include risk tolerance, duration flexibility, collateral acceptability, drawdown capacity, and jurisdictional mandates. This prevents misalignment at the inception stage and reduces friction in the capital introduction cycle.
 
-4. Governance Integrity Screening  
+4. Governance Integrity Screening 
 The system identifies regulatory flags, compliance inconsistencies, and operator governance gaps. It does this by examining officer histories, litigation patterns, environmental exposure (if relevant), cross linked entity behavior, and capital stack irregularities. This stage eliminates opportunities incompatible with institutional governance standards.
 
 The aggregate result is an autonomous origination pipeline that delivers only those transactions that structurally align with institutional expectations. Human review occurs after the machine interface has transformed the opportunity into a technically coherent dossier.
@@ -71,3 +71,6 @@ Allocators navigating 2026 private markets require clarity, not volume. The inst
 Roials Capital provides a strategic interface for UHNWIs, family offices, and institutional allocators seeking to integrate autonomous sourcing into their capital deployment framework. The objective is calibration, not solicitation. Allocators who require deeper alignment can request a confidential strategy audit to assess whether their portfolio structures, mandate constraints, and capital velocity requirements align with the autonomous framework now defining modern private markets.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

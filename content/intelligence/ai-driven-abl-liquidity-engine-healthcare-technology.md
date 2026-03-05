@@ -4,7 +4,7 @@ description: "Institutional briefing on algorithmic asset based lending, liquidi
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-abl-liquidity-engine-healthcare-technology"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -31,7 +31,7 @@ Asset mapping transforms the ingested data into quantifiable collateral proxies.
 
 Real time credit calibration replaces the static credit model with a dynamic system where LTV, advance rates, and exposure limits adjust continuously based on performance data. Instead of manual quarterly reviews, the credit facility recalibrates daily or weekly. Automated safeguards can activate liquidity throttles, maintain target coverage ratios, and deploy pre programmed de risking mechanisms. This transforms asset based lending from a backward looking instrument into a forward aligned liquidity engine.
 
-This is the core functional innovation. The model allows healthcare and technology operators to monetize operational momentum with institutional reliability. Liquidity becomes proportional to verified performance, not estimated projections. This marks the beginning of liquidity engineering as a discipline rather than a marketing concept.
+This is the core functional innovation. The model allows healthcare and technology operators to monetize operational momentum with institutional reliability. Liquidity becomes proportional to verified performance, not estimated projections. This marks the beginning of Capital Structuring as a discipline rather than a marketing concept.
 
 PHASE 3: THE PARTNERSHIP MODEL
 
@@ -56,3 +56,6 @@ Allocators are entering an era where balance sheet optimization requires real ti
 Roials Capital provides strategic alignment, market navigation, and institutional introduction into this rapidly evolving landscape. A confidential strategy audit can clarify where AI driven ABL intersects with existing mandates and how these structures can enhance portfolio durability, opportunity velocity, and long term stewardship.
 
 [END OF INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

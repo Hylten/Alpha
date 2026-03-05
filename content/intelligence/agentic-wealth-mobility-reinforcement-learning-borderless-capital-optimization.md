@@ -32,17 +32,17 @@ Reinforcement learning as deployed within private capital ecosystems is not pred
 
 Four core architectures are now forming the backbone of borderless capital optimization:
 
-1. Policy Gradient Capital Allocation  
-   The system learns the optimal policy for moving capital across borders and asset classes by directly improving probability weighted decisions. When integrated with private credit analysis, the model evaluates structural seniority, LTV curves, amortization velocity, and counterparty resilience. The decision environment is not a market price. It is a credit waterfall.
+1. Policy Gradient Capital Allocation 
+ The system learns the optimal policy for moving capital across borders and asset classes by directly improving probability weighted decisions. When integrated with private credit analysis, the model evaluates structural seniority, LTV curves, amortization velocity, and counterparty resilience. The decision environment is not a market price. It is a credit waterfall.
 
-2. Constraint Encoding Layer  
-   All jurisdictional constraints are codified into a regulatory graph. This includes capital controls, withholding tax regimes, CRS and FATCA reporting layers, thin capitalization rules, and beneficial ownership standards. The reinforcement learning agent computes optimal paths through this graph without crossing compliance boundaries.
+2. Constraint Encoding Layer 
+ All jurisdictional constraints are codified into a regulatory graph. This includes capital controls, withholding tax regimes, CRS and FATCA reporting layers, thin capitalization rules, and beneficial ownership standards. The reinforcement learning agent computes optimal paths through this graph without crossing compliance boundaries.
 
-3. Multimodal Underwriting Aggregation  
-   Private credit, energy infrastructure, and real asset opportunities produce heterogeneous data. Reinforcement learning systems synthesize geospatial data, production curves, borrower balance sheets, and legal structuring documents into an underwriting synthesis layer. When assessing North American energy opportunities through our strategic partner NAEO, this architecture integrates SAGD technical recovery factors, CSS cycle effectiveness, reservoir pressure dynamics, and historical steam oil ratio data.
+3. Multimodal Underwriting Aggregation 
+ Private credit, energy infrastructure, and real asset opportunities produce heterogeneous data. Reinforcement learning systems synthesize geospatial data, production curves, borrower balance sheets, and legal structuring documents into an underwriting synthesis layer. When assessing North American energy opportunities through our strategic partner NAEO, this architecture integrates SAGD technical recovery factors, CSS cycle effectiveness, reservoir pressure dynamics, and historical steam oil ratio data.
 
-4. Adaptive Liquidity Sequencing  
-   Capital is not deployed uniformly. Reinforcement learning systems optimize sequencing. If a private credit structure requires initial capital hardening through senior secured positions before mezzanine expansion, the system models liquidity weight distribution. This is especially relevant in energy infrastructure, where production curves require capital synchronization with reservoir physics. NAEOs matching algorithms incorporate recovery timetables into capital dispatch, ensuring alignment between asset performance and liquidity flow.
+4. Adaptive Liquidity Sequencing 
+ Capital is not deployed uniformly. Reinforcement learning systems optimize sequencing. If a private credit structure requires initial capital hardening through senior secured positions before mezzanine expansion, the system models liquidity weight distribution. This is especially relevant in energy infrastructure, where production curves require capital synchronization with reservoir physics. NAEOs matching algorithms incorporate recovery timetables into capital dispatch, ensuring alignment between asset performance and liquidity flow.
 
 Within Alberta heavy oil specifically, reinforcement learning models produce highly stable performance projections because the decline curves are geological, not speculative. SAGD and CSS assets operate within predictable thermal recovery mechanics. These assets exhibit low volatility relative to shale or conventional light oil. This stability allows reinforcement learning architectures to operate with higher confidence intervals because reservoir behavior is consistent with long term field data.
 
@@ -80,17 +80,20 @@ Allocators operating at the institutional level require a structural lens rather
 
 Three diagnostic markers define readiness:
 
-1. Portfolio Mobility  
-   The ability for capital to move across borders without triggering regulatory friction or inefficient tax structures.
+1. Portfolio Mobility 
+ The ability for capital to move across borders without triggering regulatory friction or inefficient tax structures.
 
-2. Structural Intelligence  
-   The ability to deploy capital using constraint optimized logic that integrates operational data, jurisdictional rules, and risk weighted performance pathways.
+2. Structural Intelligence 
+ The ability to deploy capital using constraint optimized logic that integrates operational data, jurisdictional rules, and risk weighted performance pathways.
 
-3. Strategic Alignment  
-   Alignment with partners who maintain domain mastery, whether within heavy oil operations through NAEO or within multi jurisdictional structuring through Roials Capital.
+3. Strategic Alignment 
+ Alignment with partners who maintain domain mastery, whether within heavy oil operations through NAEO or within multi jurisdictional structuring through Roials Capital.
 
-Allocators who meet these markers are positioned to integrate agentic reinforcement learning systems into their capital architecture. Allocators who do not meet these markers benefit from a structured portfolio calibration process that identifies gaps in mobility, liquidity engineering, and asset hardening.
+Allocators who meet these markers are positioned to integrate agentic reinforcement learning systems into their capital architecture. Allocators who do not meet these markers benefit from a structured portfolio calibration process that identifies gaps in mobility, Asset-Backed Frameworks, and asset hardening.
 
 Roials Capital facilitates confidential strategy audits for allocators seeking to navigate this shift. The audit evaluates cross border flows, credit structuring, energy allocation pathways, and reinforcement learning integration readiness.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

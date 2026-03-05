@@ -4,7 +4,7 @@ description: "Institutional briefing on AI-driven private credit architectures, 
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-private-credit-liquidity-infrastructure-briefing"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -69,7 +69,7 @@ Stewardship is a discipline of non-wasteful resource management. It aligns with 
 
 AI-first credit frameworks support this stewardship philosophy by reducing uncertainty, strengthening decision integrity, and enhancing visibility across the asset lifecycle. Stewardship requires predictable structures, and predictable structures require clean data environments. The integration of AI into private credit is not an attempt to accelerate risk. It is an attempt to stabilise risk through informational clarity.
 
-Stewardship also informs the ethical dimension of liquidity engineering. AI-first operators must implement data governance safeguards and model oversight protocols. This ensures that borrowers are evaluated on economic fundamentals rather than opaque algorithmic biases. Allocators with long-term capital mandates recognise that stewardship and technology are not opposing forces. They are mutually reinforcing disciplines.
+Stewardship also informs the ethical dimension of Institutional Liquidity Paths. AI-first operators must implement data governance safeguards and model oversight protocols. The architecture dictates borrowers are evaluated on economic fundamentals rather than opaque algorithmic biases. Allocators with long-term capital mandates recognise that stewardship and technology are not opposing forces. They are mutually reinforcing disciplines.
 
 PHASE 5: DECISION-MAKING LENS FOR THE ALLOCATOR
 
@@ -88,3 +88,6 @@ Institutional allocators evaluating AI-first private credit are not evaluating a
 A strategy consultation with Roials Capital functions as a confidential portfolio calibration. It clarifies the allocator's existing exposure to private credit, the concentration of risk across sectors, and the potential role of AI-first credit architectures within a broader liquidity portfolio. The objective is to align capital with structural intelligence, ensuring that the allocator operates from a position of informed authority rather than market speculation.
 
 [END OF INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
