@@ -301,7 +301,5 @@ Collateral becomes intelligent.
 Your portfolio becomes a living structure.
 
 ## 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Inquire About Agentic Infrastructure

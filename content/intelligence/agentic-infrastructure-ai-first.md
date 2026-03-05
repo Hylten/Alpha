@@ -348,8 +348,4 @@ This is the shift.
 This is the strategic advantage. 
 This is the infrastructure layer that defines the next decade.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure

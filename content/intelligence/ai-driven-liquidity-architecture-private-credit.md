@@ -97,5 +97,3 @@ Final Metric: Sub-30ms Underwriting Latency Threshold.
 
 To proceed, specify whether you require agentic infrastructure design.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

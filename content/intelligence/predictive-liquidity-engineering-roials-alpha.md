@@ -119,8 +119,6 @@ Proverbs 13:22 anchors the philosophy. Liquidity must endure beyond cycles. Endu
 Crypto volatility will rise. Liquidity demands will accelerate. Family offices need design. Not hope. Roials‑Alpha is the design.
 
 To advance this architecture into production, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 inquire about agentic infrastructure.
 

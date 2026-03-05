@@ -47,5 +47,3 @@ Every function of our ecosystem is built for principals who require silent autho
 
 Below is a structural deep dive into the proprietary frameworks that enable sovereign scale capital mobility inside the Roials-Alpha infrastructure.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -62,5 +62,3 @@ Roials Capital supports these assessments through confidential strategy audits a
 
 [END OF BRIEFING]
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -220,8 +220,4 @@ To receive the architecture is to step into the long arc of capital continuity. 
 
 End metric: Systemic Hardening Coefficient target ≥ 0.82 across all capital layers. 
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

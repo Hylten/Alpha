@@ -85,5 +85,3 @@ Roials Capital functions as the strategic architect and introducer for allocator
 
 [END INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

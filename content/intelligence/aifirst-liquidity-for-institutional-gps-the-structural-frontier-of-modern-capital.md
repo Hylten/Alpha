@@ -392,8 +392,4 @@ If you operate at the high end of capital, you know exactly why this matters.
 
  
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

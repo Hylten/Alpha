@@ -221,10 +221,6 @@ This is the architecture of Fund-III scale dominance. This is the Roials-Alpha s
 
 If you want the advantage, you build the stack. If you want the edge, you trust the architecture. If you want the future, you remove friction.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.
 
 Metric: Latency-to-Underwrite = 0.83 seconds.

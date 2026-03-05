@@ -210,8 +210,4 @@ Roials-Alpha creates that environment.
 
 If you operate at the level where liquidity is strategy, where capital is an instrument, and where leverage is a tool of precision, then the path is open. 
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

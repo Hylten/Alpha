@@ -192,8 +192,6 @@ The institutions that adopt these systems will not compete in the same arena as 
 And in markets defined by velocity, intelligence becomes the ultimate hard asset.
 
 If you require structuring, deployment, or integration of agentic infrastructure into your existing credit arm or Fund-III ecosystem, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 inquire about agentic infrastructure.
 

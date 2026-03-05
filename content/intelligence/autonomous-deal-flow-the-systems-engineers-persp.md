@@ -355,8 +355,4 @@ It transforms private credit from a negotiation sport into a system of order.
 In this architecture, randomness disappears. 
 Only mandate remains.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

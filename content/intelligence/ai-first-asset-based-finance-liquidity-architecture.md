@@ -110,8 +110,4 @@ Proverbs 13:22 applies: the good father leaves inheritance. But the sovereign ar
 
 The mandate is clear: build the engine now. Fund‑III scale demands it. The market is slow. The machines are fast. Speed wins. Precision wins. Architecture wins.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

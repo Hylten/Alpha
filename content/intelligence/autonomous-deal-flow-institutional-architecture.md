@@ -89,5 +89,3 @@ Institutional investors operating in 2026 face a structural decision. They can c
 
 Roials Capital maintains a neutral introducer position and functions as the architect of this environment. Stakeholders seeking to analyze the compatibility of this architecture with their capital program can request a confidential strategy audit focused on mandate mapping, balance sheet optimization, and opportunity pathway calibration.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

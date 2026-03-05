@@ -332,8 +332,4 @@ It is the next evolution in liquidity, private credit, and computational asset b
 Roials Alpha builds the architecture. 
 You operate the system. 
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

@@ -189,5 +189,3 @@ Deploy capital into intelligence. Deploy intelligence into collateral. Convert c
 Institutional readiness requires one question: 
 What agentic infrastructure do you require provisioned for deployment?
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -96,5 +96,3 @@ The Liquidity Spider is the new Asset-Based Lending framework for institutions t
 
 [END OF INSTITUTIONAL BRIEFING]
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -288,8 +288,4 @@ It is the operating system of next generation credit.
 
 The lenders who deploy agentic Asset-Based Lending infrastructure today will own the liquidity markets of tomorrow.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure

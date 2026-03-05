@@ -239,7 +239,5 @@ Deploy autonomous capital systems across the family enterprise. Establish sovere
 Completion metric: 0.14 seconds latency across all capital nodes.
 
 If you require additional construction, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 inquire about agentic infrastructure.

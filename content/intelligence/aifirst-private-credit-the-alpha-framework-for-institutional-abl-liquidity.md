@@ -58,7 +58,5 @@ The Alpha Framework already operates in this regime.
 This positions Roials‑Alpha not as a competitor within the private credit field, but as the underlying infrastructure that makes the field functional.
 
 # 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Inquire about agentic infrastructure

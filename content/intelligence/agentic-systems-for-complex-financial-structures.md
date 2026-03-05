@@ -27,5 +27,3 @@ We do not market to the general public.
 
 We are an engineering layer for capital owners who operate above retail friction.
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

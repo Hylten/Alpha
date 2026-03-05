@@ -161,8 +161,6 @@ THE MANDATE
 The future of Asset-Based Lending is autonomous. It is algorithmic. It is infrastructural. It is architected by principals, not analysts. The market trend is irreversible. The institutions that deploy autonomous architectures now will own the most valuable assets later: throughput, certainty, and control.
 
 If you require the infrastructure that transforms credit into an autonomous system, 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 inquire about agentic infrastructure.
 

@@ -388,8 +388,4 @@ It serves HNWI and UHNW borrowers who are not looking for basic credit, they are
 
 Agentic Alpha represents the transition from human finance to machine optimized liquidity.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

@@ -75,5 +75,3 @@ The future of capital formation is not simply faster systems. It is autonomous r
 
 [END OF REPORT]
 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

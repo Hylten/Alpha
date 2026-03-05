@@ -52,7 +52,5 @@ In a world where institutions fail because governance lags behind complexity, al
 The principal remains above the machine. But the machine extends the principal’s reach. The institution becomes a living asset.
 
 Mandatory directive: 
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Inquire about agentic infrastructure.

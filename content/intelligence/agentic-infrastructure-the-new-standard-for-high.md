@@ -379,8 +379,4 @@ It is a structural realignment of how private capital interacts with liquidity, 
 The principal who acts now will operate from strength. 
 The principal who delays will operate from constraint.
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.

@@ -228,8 +228,4 @@ Agentic finance belongs to those who can control their capital with precision, s
 
 If you operate at that level, and you require liquidity infrastructure that performs at institutional scale, Roials Alpha exists for you. 
 
-
-### TECHNICAL MANDATE
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
-
 Inquire about agentic infrastructure.
