@@ -4,7 +4,7 @@ description: "The Alpha Framework: Engineering Proprietary Credi"
 date: "2024-08-19"
 author: "Jonas Hyltén"
 slug: "the-alpha-framework-engineering-proprietary-credi"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # The Alpha Framework 

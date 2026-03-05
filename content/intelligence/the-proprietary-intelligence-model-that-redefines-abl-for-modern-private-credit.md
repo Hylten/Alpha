@@ -1,5 +1,5 @@
 ---
-title: "The Proprietary Intelligence Model That Redefines ABL for Modern Private Credit"
+title: "The Proprietary Intelligence Model That Redefines Asset-Based Lending for Modern Private Credit"
 description: "Roials-Alpha introduces a proprietary intelligence model engineered for high-speed liquidity and institutional-grade asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2025-09-11"
 author: "Jonas Hyltén"
@@ -7,7 +7,7 @@ slug: "the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
-# The Proprietary Intelligence Model for ABL 
+# The Proprietary Intelligence Model for Asset-Based Lending 
 Roials-Alpha Edition
 
 Asset Based Asset-Backed Frameworks is no longer a mechanical underwriting play. 
@@ -24,7 +24,7 @@ We do not imitate institutional capital.
 
 We engineer the structural mechanics that institutions later replicate. 
 
-## The ABL Universe We Operate In
+## The Asset-Based Lending Universe We Operate In
 
 Our model is built specifically for high value collateral categories. 
 
@@ -92,7 +92,7 @@ Control over opportunity selection.
 ## The Automation Layer 
 The true engine behind the system
 
-Automation is the only viable pathway for modern ABL at scale. 
+Automation is the only viable pathway for modern Asset-Based Lending at scale. 
 
 Human underwriters cannot adjust exposure every two seconds. 
 They cannot compute cross market correlations for multi asset collateral environments. 
@@ -140,7 +140,7 @@ To execute where others analyze.
 
 To deliver liquidity in seconds where others require committees, meetings, and review cycles. 
 
-## Future Proofing ABL 
+## Future Proofing Asset-Based Lending 
 The Roials-Alpha Standard
 
 The proprietary intelligence model is not a temporary advantage. 
@@ -151,7 +151,7 @@ HNWI and UHNW clients increasingly require Capital Structuring systems that move
 
 Not the speed of human paperwork. 
 
-The future of ABL is computational, adaptive, and agentic. 
+The future of Asset-Based Lending is computational, adaptive, and agentic. 
 
 Roials-Alpha is already operating in that future. 
 
@@ -159,7 +159,7 @@ Roials-Alpha is already operating in that future.
 
 When liquidity becomes intelligent, wealth architecture changes. 
 
-ABL becomes dynamic. 
+Asset-Based Lending becomes dynamic. 
 Private credit becomes fluid. 
 Collateral becomes a strategic instrument rather than a static asset. 
 

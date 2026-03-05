@@ -55,7 +55,7 @@ Roials-Alpha builds the structural mechanics that institutional capital relies o
 We bring those mechanics to HNWI and UHNW clients without noise and without spectacle. 
 
 Reinforcement learning is the intelligence layer. 
-Private credit and ABL are the structural backbone. 
+Private credit and Asset-Based Lending are the structural backbone. 
 Cross border mobility is the lived experience. 
 
 This is private wealth that moves with institutional precision and agentic autonomy. 

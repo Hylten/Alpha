@@ -1,6 +1,6 @@
 ---
 title: "Agentic Infrastructure: The New Architecture Beyond Buy, Borrow, Die"
-description: "HNWI and UHNW liquidity engineered through private credit and ABL. Roials-Alpha structures institutional-grade leverage in an AI-first world."
+description: "HNWI and UHNW liquidity engineered through private credit and Asset-Based Lending. Roials-Alpha structures institutional-grade leverage in an AI-first world."
 date: "2025-07-02"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die"
@@ -115,13 +115,13 @@ Silent authority, built into the mechanics.
 
 ## Asset-Based Institutional Liquidity Paths: The Structural Lever of the Invisible Elite
 
-Asset-Based Asset-Backed Frameworks, or ABL, has historically been viewed as an institutional tool. Corporations use it to smooth operations. Funds use it to stabilize performance. Family offices treat it as an afterthought.
+Asset-Based Asset-Backed Frameworks, or Asset-Based Lending, has historically been viewed as an institutional tool. Corporations use it to smooth operations. Funds use it to stabilize performance. Family offices treat it as an afterthought.
 
  
 Agentic infrastructure changes that.
 
  
-ABL becomes the chassis for portfolio liquidity.
+Asset-Based Lending becomes the chassis for portfolio liquidity.
 
  
 Every qualifying asset becomes a node. 
@@ -221,7 +221,7 @@ Agentic infrastructure treats your assets symmetrically.
 Private credit is evaluated alongside digital assets. 
  
 
-ABL is evaluated alongside public equities. 
+Asset-Based Lending is evaluated alongside public equities. 
  
 
 All assets become part of a unified liquidity matrix, instead of separate accounts needing separate conversations.
@@ -308,7 +308,7 @@ HNWI and UHNW individuals no longer need to rely on fragmented services.
 They require a unified operating system.
 
  
-They require infrastructure that handles private credit, ABL, crypto Capital Structuring at scale, and institutional-grade share Capital Structuring under one automated architecture.
+They require infrastructure that handles private credit, Asset-Based Lending, crypto Capital Structuring at scale, and institutional-grade share Capital Structuring under one automated architecture.
 
  
 Roials-Alpha builds that architecture. 

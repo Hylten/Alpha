@@ -119,14 +119,14 @@ The client maintains strategic continuity.
 
 ## Asset Based Asset-Backed Frameworks Rebuilt for Institutional Precision
 
-Traditional ABL is slow. 
+Traditional Asset-Based Lending is slow. 
 It is intentionally inefficient. 
 Institutions prioritize their internal risk frameworks over client velocity. 
 HNWI and UHNW borrowers rarely receive the responsiveness their portfolios demand.
 
  
 Roials-Alpha operates on a different layer. 
-Our autonomous ABL engine ingests asset data across wide categories. 
+Our autonomous Asset-Based Lending engine ingests asset data across wide categories. 
 It simplifies exposure modeling. 
 It removes human delay. 
 It outputs Capital Structuring decisions at institutional precision without institutional friction.

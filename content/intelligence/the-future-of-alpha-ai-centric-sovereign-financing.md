@@ -1,6 +1,6 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing"
-description: "A high authority analysis on AI driven liquidity, private credit, and ABL mechanics for HNWI and UHNW capital optimization."
+description: "A high authority analysis on AI driven liquidity, private credit, and Asset-Based Lending mechanics for HNWI and UHNW capital optimization."
 date: "2026-02-09"
 author: "Jonas Hyltén"
 slug: "the-future-of-alpha-ai-centric-sovereign-financing"
@@ -80,11 +80,11 @@ And it allows private credit to become a tactical instrument instead of a slow m
 
 ## Asset Based Monetization Architecture Rewritten
 
-ABL structures have been stagnant for decades. 
+Asset-Based Lending structures have been stagnant for decades. 
 They were designed for banks. 
 Not for individuals with sovereign scale portfolios.
 
-We reengineer ABL into an AI navigated collateral ecosystem. 
+We reengineer Asset-Based Lending into an AI navigated collateral ecosystem. 
 It no longer depends on outdated valuation cycles or static risk assumptions. 
 Our models ingest real time asset flows. 
 They compute collateral behavior under stress. 
@@ -93,7 +93,7 @@ They simulate multi scenario market environments at millisecond granularity.
 The result is a Institutional Liquidity Paths architecture that behaves with institutional strength, but client controlled precision.
 
 Roials Alpha lends against private credit. 
-We lend against ABL. 
+We lend against Asset-Based Lending. 
 We turn static portfolios into dynamic liquidity engines. 
 And we keep the structures quiet by design.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on AI-driven private credit architectures, 
 date: "2025-09-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-private-credit-liquidity-infrastructure-briefing"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]

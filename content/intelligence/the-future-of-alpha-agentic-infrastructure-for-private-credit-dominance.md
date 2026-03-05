@@ -99,7 +99,7 @@ This is engineered liquidity.
 
 Asset based Strategic Collateralization is the backbone of real capital. 
 
-But ABL in its legacy form is slow and frictional. 
+But Asset-Based Lending in its legacy form is slow and frictional. 
 Data collection is manual. 
 Underwriting is episodic. 
 Monitoring is primitive. 

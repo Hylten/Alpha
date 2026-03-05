@@ -51,7 +51,7 @@ The Sovereign AI Bank is not a metaphor.
 It is the structural reality created when capital is automated.
 
  
-## Private Credit and ABL as the Core Liquidity Engine
+## Private Credit and Asset-Based Lending as the Core Liquidity Engine
 
 Liquidity begins with collateral. 
 
@@ -237,7 +237,7 @@ The Sovereign AI Bank provides:
 
  
 • A computation first liquidity framework 
-• A private credit and ABL core engine 
+• A private credit and Asset-Based Lending core engine 
 • Multi asset Institutional Liquidity Paths capability 
 • On chain and off chain collateral fusion 
 • Silent underwriting 

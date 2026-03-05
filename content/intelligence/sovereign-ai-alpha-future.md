@@ -73,7 +73,7 @@ The structure works in three stages:
 Allocators receive access to domain operators, technical specialists, AI infrastructure teams, and data pipelines structured for institutional review.
 
 2. Operational Intelligence Calibration.  
-Roials Capital translates raw field metrics, regulatory structures, and technical models into a modality usable for private credit, family offices, and UHNW allocations.
+Roials Capital translates raw field metrics, regulatory structures, and technical models into a modality usable for private credit, family offices, and UHNW allocations. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 3. Strategic Alignment Execution.  
 Partnerships are formed only where the allocator, the operational partner, and the computational architecture produce a coherent structural fit. No marketing. No soliciting. No return projections. Pure alignment engineering.

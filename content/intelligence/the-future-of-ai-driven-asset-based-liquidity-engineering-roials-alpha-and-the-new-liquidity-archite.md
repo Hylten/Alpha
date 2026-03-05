@@ -47,7 +47,7 @@ It is the backbone of next-generation credit architecture.
 For elite clients, liquidity is not about survival. 
 It is about acceleration. 
 
-AI-driven ABL gives clients strategic advantages:
+AI-driven Asset-Based Lending gives clients strategic advantages:
 
 • immediate access to capital during market dislocations 
 • leverage deployment before price movements become obvious 
@@ -104,7 +104,7 @@ HNWI and UHNW individuals increasingly measure financial performance not in port
 
 This is the new battleground. 
 
-AI-driven ABL gives clients the ability to: 
+AI-driven Asset-Based Lending gives clients the ability to: 
 • increase balance sheet velocity 
 • extract liquidity from dormant assets 
 • compress underwriting time to near zero 

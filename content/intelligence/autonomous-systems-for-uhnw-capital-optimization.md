@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Systems for UHNW Capital Optimization"
-description: "A deep analysis of autonomous liquidity architecture, private credit, and ABL mechanisms engineered for UHNW efficiency."
+description: "A deep analysis of autonomous liquidity architecture, private credit, and Asset-Based Lending mechanisms engineered for UHNW efficiency."
 date: "2023-06-13"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-uhnw-capital-optimization"
@@ -48,18 +48,18 @@ For UHNW portfolios, micro-inefficiencies add up to tens of millions in opportun
 
  
 
-## Structural Power: Private Credit and ABL as Core Engines
+## Structural Power: Private Credit and Asset-Based Lending as Core Engines
 
 The wealthiest families do not grow through static allocation. They grow through structural leverage.
 
  
 
-Roials-Alpha lends against private credit and asset based Capital Structuring collateral, creating liquidity far earlier and far more efficiently than traditional institutions permit.
+Roials-Alpha lends against private credit and asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/) collateral, creating liquidity far earlier and far more efficiently than traditional institutions permit.
 
  
 
 Private credit is predictable. 
-ABL is measurable. 
+Asset-Based Lending is measurable. 
 Autonomous systems amplify both.
 
  
@@ -145,7 +145,7 @@ Roials-Alpha’s architecture processes:
 
  
 
-• Cross asset correlations across private credit, ABL assets, crypto holdings, and public shares. 
+• Cross asset correlations across private credit, Asset-Based Lending assets, crypto holdings, and public shares. 
 • Real time collateral value, not the lagging estimate used by standard institutions. 
 • Volatility frequency mapping for assets with asymmetric risk profiles. 
 • Liquidity depth signals for any asset that might be pledged. 

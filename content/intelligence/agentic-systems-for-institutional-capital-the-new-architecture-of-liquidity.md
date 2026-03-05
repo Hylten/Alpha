@@ -346,7 +346,7 @@ By the time a Strategic Collateralization decision is made, the opportunity has 
 
  
 
-Agentic ABL removes this failure cycle.
+Agentic Asset-Based Lending removes this failure cycle.
 
 It operates as a continuous appraisal mechanism.
 
@@ -467,7 +467,7 @@ It is operational truth.
 
  
 
-Agentic Strategic Collateralization, private credit, and ABL under Roials-Alpha give clients the ability to act without announcement.
+Agentic Strategic Collateralization, private credit, and Asset-Based Lending under Roials-Alpha give clients the ability to act without announcement.
 
 To move without broadcast.
 

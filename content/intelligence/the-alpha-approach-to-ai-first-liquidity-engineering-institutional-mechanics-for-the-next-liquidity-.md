@@ -18,7 +18,7 @@ HNWI and UHNW clients.
 
 Individuals who view liquidity as a strategic weapon rather than a convenience. 
 
-This article outlines the Alpha Approach to AI first Asset-Backed Frameworks. 
+This article outlines the Alpha Approach to AI first [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/). 
 
 It unpacks the automation layer, the credit logic, the collateral intelligence, and the structural mechanics that govern our private credit and asset based Monetization Architecture frameworks. 
 
@@ -98,7 +98,7 @@ No shortcuts. No arbitrary haircuts. No uniform templates.
 
 We build bespoke credit mechanics that match the geometry of the asset. 
 
-This is what differentiates institutional grade ABL from retail grade Strategic Collateralization. 
+This is what differentiates institutional grade Asset-Based Lending from retail grade Strategic Collateralization. 
 
 ## Crypto Monetization Architecture for Sophisticated Positions 
 Minimum Threshold: 2,000,000 USD

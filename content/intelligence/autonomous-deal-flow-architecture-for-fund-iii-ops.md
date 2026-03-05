@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Deal Flow Architecture for Fund-III Ops"
-description: "A high-authority breakdown of autonomous deal flow mechanics, liquidity structuring, and advanced ABL optimization for HNWI and UHNW participants."
+description: "A high-authority breakdown of autonomous deal flow mechanics, liquidity structuring, and advanced Asset-Based Lending optimization for HNWI and UHNW participants."
 date: "2024-11-13"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-architecture-for-Fund-III-ops"
@@ -34,7 +34,7 @@ Fund II scales a thesis.
 Fund-III requires the thesis to run on its own momentum. 
 
 HNWI and UHNW operators do not need more meetings. 
-They need structural mechanics that behave like institutional capital, without demanding institutional drag. 
+They need structural mechanics that behave like [institutional capital](https://hylten.github.io/Roials-Capital/), without demanding institutional drag. 
 
 Autonomous deal flow solves this. 
 It removes human bottlenecks. 
@@ -65,7 +65,7 @@ Agentic origination builds:
 - Liquidity path mapping 
 - Leverage simulation and risk absorption modeling 
 
-This architecture creates a self generating feed of lendable opportunities across Private Credit, ABL, Crypto Capital Structuring, and Public Share Asset-Backed Frameworks. 
+This architecture creates a self generating feed of lendable opportunities across Private Credit, Asset-Based Lending, Crypto Capital Structuring, and Public Share Asset-Backed Frameworks. 
 
 It replaces deal sourcing with deal discovery. 
 
@@ -117,8 +117,8 @@ The result is a Private Credit pipeline that maintains velocity without sacrific
  
 ## Asset Based Monetization Architecture as a Dynamic Structure 
 
-ABL traditionally depends on static collateral. 
-Fund-III autonomy turns ABL into a dynamic liquidity engine. 
+Asset-Based Lending traditionally depends on static collateral. 
+Fund-III autonomy turns Asset-Based Lending into a dynamic liquidity engine. 
 
 The system evaluates asset classes with real time signals. 
 
@@ -130,7 +130,7 @@ It asks:
 - Does counterparty behavior align with our high net worth risk profile 
 - Is the timing favorable for a structured liquidity event 
 
-ABL stops being a manual underwriting problem. 
+Asset-Based Lending stops being a manual underwriting problem. 
 It becomes an adaptive collateral intelligence operation. 
 
 This is where Fund-III shifts from passive structuring to active modeling. 

@@ -23,11 +23,11 @@ This is private credit without the noise.
 
  
 
-This is ABL with surgical efficiency.
+This is Asset-Based Lending with surgical efficiency.
 
  
 
-This is the architecture behind silent authority.
+This is the architecture behind silent authority. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 ## The Strategic Edge: Why Agentic Systems Beat Conventional Underwriting
 
@@ -111,13 +111,13 @@ These layers are not optional modules.
 
 They are the foundation.
 
-## ABL in the Agentic Era: High Fidelity Institutional Liquidity Paths
+## Asset-Based Lending in the Agentic Era: High Fidelity Institutional Liquidity Paths
 
-Asset based Institutional Liquidity Paths has existed for decades. What has not existed is the ability to transform ABL into a high fidelity, real time capital architecture.
+Asset based Institutional Liquidity Paths has existed for decades. What has not existed is the ability to transform Asset-Based Lending into a high fidelity, real time capital architecture.
 
  
 
-Agentic systems allow ABL to become:
+Agentic systems allow Asset-Based Lending to become:
 
 • Faster 
 • Cleaner 
@@ -187,7 +187,7 @@ Qualification Gates strictly observed. The architecture requires a minimum commi
 
 Inquire About Agentic Infrastructure
 
-If you operate in the HNWI or UHNW strata and require private credit, ABL, or high value collateral Strategic Collateralization that functions with institutional precision and zero retail friction, Roials Alpha provides the infrastructure.
+If you operate in the HNWI or UHNW strata and require private credit, Asset-Based Lending, or high value collateral Strategic Collateralization that functions with institutional precision and zero retail friction, Roials Alpha provides the infrastructure.
 
  
 

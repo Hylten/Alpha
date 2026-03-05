@@ -86,7 +86,7 @@ We are a structural partner for capital.
 
 We engineer liquidity.
 
-We provide private credit and ABL at the highest tier.
+We provide private credit and Asset-Based Lending at the highest tier.
 
 We support crypto Capital Structuring at a 2,000,000 minimum.
 

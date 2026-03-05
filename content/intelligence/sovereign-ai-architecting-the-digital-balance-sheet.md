@@ -242,7 +242,7 @@ Roials-Alpha is building the infrastructure that sits under this future.
 
  
 
-We lend against private credit and ABL. 
+We lend against private credit and Asset-Based Lending. 
 We support crypto positions over 2,000,000 dollars. 
 We support public share positions over 5,000,000 dollars.
 

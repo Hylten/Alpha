@@ -79,7 +79,7 @@ HNWI and UHNW families who hold significant private credit allocations can final
 
 ## Asset Based Institutional Liquidity Paths as a Precision Instrument
 
-ABL is often misunderstood.
+Asset-Based Lending is often misunderstood.
 
 It is not about Institutional Liquidity Paths against hard assets.
 
@@ -275,7 +275,7 @@ Crypto Capital Structuring starts at two million.
 
 Public share Monetization Architecture starts at five million.
 
-Private credit and ABL Capital Structuring target clients with structurally significant asset stacks.
+Private credit and Asset-Based Lending Capital Structuring target clients with structurally significant asset stacks.
 
 We do not service the mass market.
 

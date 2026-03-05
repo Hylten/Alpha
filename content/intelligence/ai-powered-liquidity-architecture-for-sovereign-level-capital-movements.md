@@ -67,8 +67,8 @@ Asset based Capital Structuring at Roials-Alpha is not collateralization.
 It is conversion. 
 Assets become variables inside a multi-agent system that continuously evaluates risk, volatility, liquidity depth, and exit profiles. 
 
-Traditional ABL freezes capital. 
-Our ABL activates capital. 
+Traditional Asset-Based Lending freezes capital. 
+Our Asset-Based Lending activates capital. 
 
 We lend against assets with an institutional silent profile, enabling liquidity extraction without signaling, disruption, or exposure. 
 
@@ -136,7 +136,7 @@ We offer continuity infrastructure.
 Every Capital Structuring channel within Roials-Alpha is built on frictionless conversion. 
 
 Private credit flows. 
-ABL activates dormant assets. 
+Asset-Based Lending activates dormant assets. 
 Crypto portfolios become liquidity engines. 
 Public shares become silent leverage. 
 

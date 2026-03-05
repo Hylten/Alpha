@@ -1,6 +1,6 @@
 ---
 title: "Predictive Modeling for liquidity engineering Against Volatile Crypto Assets: The Roials-Alpha Framework"
-description: "A high-authority breakdown of predictive modeling for liquidity creation through private credit and ABL applied to volatile crypto collateral."
+description: "A high-authority breakdown of predictive modeling for liquidity creation through private credit and Asset-Based Lending applied to volatile crypto collateral."
 date: "2025-03-29"
 author: "Jonas Hyltén"
 slug: "predictive-modeling-for-liquidity-engineering-against-volatile-crypto-assets-the-roials-alpha-framew"

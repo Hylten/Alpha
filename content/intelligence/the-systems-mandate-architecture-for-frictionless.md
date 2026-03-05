@@ -4,7 +4,7 @@ description: "The Systems Mandate: Architecture For Frictionless"
 date: "2024-09-19"
 author: "Jonas Hyltén"
 slug: "the-systems-mandate-architecture-for-frictionless"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # The Systems Mandate. Architecture for Frictionless Liquidity

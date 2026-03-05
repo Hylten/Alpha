@@ -63,7 +63,7 @@ High net worth portfolios benefit because this replaces the cadence of bankers, 
 
 This is not theory. 
 
-This is already how silent institutional capital operates. 
+This is already how silent [institutional capital](https://hylten.github.io/Roials-Capital/) operates. 
 
 Roials‑Alpha provides private clients with the same mechanical advantage. 
 
@@ -92,7 +92,7 @@ Roials‑Alpha specializes in Strategic Collateralization against asset backed p
 We do not rely on human sentiment. 
 We rely on computational truth. 
 
-HNWI portfolios are often asset heavy, yet liquidity light. ABL resolves that imbalance. 
+HNWI portfolios are often asset heavy, yet liquidity light. Asset-Based Lending resolves that imbalance. 
 
 Roials‑Alpha turns these assets into programmable collateral that can be activated instantly, rerouted, or converted into liquidity with minimal friction. 
 
@@ -204,7 +204,7 @@ Now it is defined by liquidity maneuverability.
 
 Roials‑Alpha views wealth as a dynamic system. A system that must stay elastic. 
 
-Private credit, ABL, crypto collateral, and public equity are not separate silos. They are interchangeable blocks in a programmable structure. 
+Private credit, Asset-Based Lending, crypto collateral, and public equity are not separate silos. They are interchangeable blocks in a programmable structure. 
 
 When assembled correctly, they create a portfolio that can respond, adapt, and deploy with institutional precision. 
 

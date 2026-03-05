@@ -1,6 +1,6 @@
 ---
 title: "The Proprietary Model for Automated Asset Hardening"
-description: "High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based Asset-Backed Frameworks. Automated asset hardening for institutional grade capital efficiency."
+description: "High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/). Automated asset hardening for institutional grade capital efficiency."
 date: "2024-06-01"
 author: "Jonas Hyltén"
 slug: "the-proprietary-model-for-automated-asset-hardening"
@@ -59,7 +59,7 @@ The system evaluates resilience, volatility, latent Asset-Backed Frameworks valu
 
 Our objective is to ensure that your assets can take on leverage while maintaining both stability and recoverability.
 
-## Private Credit and ABL Within a Hardened Framework
+## Private Credit and Asset-Based Lending Within a Hardened Framework
 
 Roials-Alpha provides Asset-Backed Frameworks against two primary categories. 
 
@@ -123,7 +123,7 @@ At this point the hardened asset transitions into a Institutional Liquidity Path
 
 Private credit activation becomes instant. 
 
-ABL lines become modular. 
+Asset-Based Lending lines become modular. 
 
 Collateral values become predictable even under volatility. 
 

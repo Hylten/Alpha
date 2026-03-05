@@ -4,7 +4,7 @@ description: "Agentic Infrastructure: The New Standard For High"
 date: "2025-08-24"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-the-new-standard-for-high"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Agentic Infrastructure. The New Standard for High-Velocity Finance
@@ -303,7 +303,7 @@ Intelligence without velocity produces paralysis.
 
 Agentic infrastructure merges both.
 
-The system compiles intelligence across multiple domains and deploys it instantly when thresholds or conditions are met.
+The system compiles intelligence across multiple domains and deploys it instantly when thresholds or conditions are met. (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
 
 This produces compounding effects.
 

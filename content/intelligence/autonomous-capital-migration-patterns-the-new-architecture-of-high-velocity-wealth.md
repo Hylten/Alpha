@@ -242,7 +242,7 @@ We enable capital flows across:
 • Private credit 
 • Public shares 
 • Crypto assets 
-• ABL collateral frameworks
+• Asset-Based Lending collateral frameworks
 
 This allows capital to shift without triggering traceable market patterns.
 

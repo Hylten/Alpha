@@ -90,7 +90,7 @@ Sovereigns need the following.
 • Instant leverage routing 
 • Market-agnostic execution 
 • Private credit optimization 
-• ABL stabilization 
+• Asset-Based Lending stabilization 
 • Synthetic liquidity creation 
 • Automated unwinding systems 
 
@@ -138,11 +138,11 @@ Private credit becomes liquid, predictable, and agentic.
 
 Asset based Monetization Architecture is a structural advantage when automated correctly. 
 
-ABL offers measurable, transparent, audited collateral. 
+Asset-Based Lending offers measurable, transparent, audited collateral. 
 
 When automated, it becomes a dynamic liquidity feed. 
 
-Roials-Alpha treats ABL as a liquidity reservoir, not a static liquidity facility structure. 
+Roials-Alpha treats Asset-Based Lending as a liquidity reservoir, not a static liquidity facility structure. 
 
 The system monitors collateral movement. 
 
@@ -154,7 +154,7 @@ It pulls leverage opportunistically.
 
 It constrains exposure when volatility increases. 
 
-This creates a capital environment where ABL continuously supports liquidity without becoming a drag on sovereign cashflow. 
+This creates a capital environment where Asset-Based Lending continuously supports liquidity without becoming a drag on sovereign cashflow. 
 
 ## Multi‑Asset Collateral: Crypto and Public Shares
 

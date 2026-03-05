@@ -4,7 +4,7 @@ description: "Technical Dominance: Ai Driven Execution In Privat"
 date: "2023-01-22"
 author: "Jonas Hyltén"
 slug: "technical-dominance-ai-driven-execution-in-privat"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Technical Dominance. AI-Driven Execution in Private Debt

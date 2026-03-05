@@ -4,7 +4,7 @@ description: "High-end analysis on liquidity infrastructure, private credit, and
 date: "2023-07-04"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Infrastructure for Cross-Border Assets
@@ -131,9 +131,9 @@ Agentic infrastructure thrives in this complexity.
 Roials‑Alpha uses autonomous evaluation logic to grade collateral across global custodial venues, cross‑border holding companies, and multi‑entity portfolios. We treat collateral packages as modular liquidity units that can be recombined, re‑weighted, or re‑activated depending on the client’s real‑time liquidity horizon.
 
  
-ABL becomes dynamic. 
-ABL becomes orchestrated. 
-ABL becomes responsive. 
+Asset-Based Lending becomes dynamic. 
+Asset-Based Lending becomes orchestrated. 
+Asset-Based Lending becomes responsive. 
 
  
 This is not about higher leverage. 
@@ -279,7 +279,7 @@ Consider a UHNW individual with:
 • Private credit positions in Luxembourg 
 • Public equities in Hong Kong 
 • Crypto assets in a tier‑one custodian 
-• ABL assets inside a US holding entity 
+• Asset-Based Lending assets inside a US holding entity 
 
  
 Traditionally, this portfolio is a logistical complexity.

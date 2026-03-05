@@ -59,7 +59,7 @@ We treat it as an infrastructure layer.
 
 A unified brain that listens to your balance sheet.
 
-A networked evaluator that understands private credit, ABL, crypto collateral quality, and public equity liquidity simultaneously.
+A networked evaluator that understands private credit, Asset-Based Lending, crypto collateral quality, and public equity liquidity simultaneously.
 
 A risk arbiter that adapts in real time.
 
@@ -69,7 +69,7 @@ This is not fintech.
 
 This is structural intelligence.
 
-## Private Credit and ABL: Rewritten by Automation
+## Private Credit and Asset-Based Lending: Rewritten by Automation
 
 Private credit traditionally suffers from static underwriting.
 
@@ -389,7 +389,7 @@ The institutions copy later.
 
 ## Why This Shift Is Permanent
 
-The fusion of AI, private credit, ABL, crypto Asset-Backed Frameworks, and public share Monetization Architecture is not a passing phase.
+The fusion of AI, private credit, Asset-Based Lending, crypto Asset-Backed Frameworks, and public share Monetization Architecture is not a passing phase.
 
 It is a structural evolution.
 

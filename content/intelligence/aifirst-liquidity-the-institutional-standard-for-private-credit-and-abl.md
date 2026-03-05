@@ -1,5 +1,5 @@
 ---
-title: "AI‑First Liquidity: The Institutional Standard for Private Credit and ABL"
+title: "AI‑First Liquidity: The Institutional Standard for Private Credit and Asset-Based Lending"
 description: "A deep dive into AI‑first liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking structural advantage."
 date: "2024-02-10"
 author: "Jonas Hyltén"
@@ -53,9 +53,9 @@ The result is the new standard.
 
 Silent. Rapid. Exact. 
 
-## Private Credit and ABL: When AI Rewrites the Liquidity Equation
+## Private Credit and Asset-Based Lending: When AI Rewrites the Liquidity Equation
 
-Private credit and ABL were historically dependent on analyst review pipelines. 
+Private credit and Asset-Based Lending were historically dependent on analyst review pipelines. 
 
 Documentation passes through multiple human checkpoints. 
 
@@ -207,13 +207,13 @@ This is the strategic edge that differentiates modern capital operators.
 
 ## Asset-Based Asset-Backed Frameworks Reinvented: Data Instead of Delay
 
-ABL has historically been slow because collateral interpretation is slow. 
+Asset-Based Lending has historically been slow because collateral interpretation is slow. 
 
 Valuation requires expertise. 
 
 Expertise requires time. 
 
-AI-first ABL uses structured computation instead of expert opinion. 
+AI-first Asset-Based Lending uses structured computation instead of expert opinion. 
 
 The collateral is not reviewed. It is digitized. 
 

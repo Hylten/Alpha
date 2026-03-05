@@ -63,15 +63,15 @@ HNWI and UHNW clientele bypass the slow pulse of conventional capital release.
 
 ## Asset Based Institutional Liquidity Paths as a Precision Vector
 
-ABL in many institutions is checklist driven.
+Asset-Based Lending in many institutions is checklist driven.
 
-At Roials Alpha, ABL is signal driven.
+At Roials Alpha, Asset-Based Lending is signal driven.
 
 Every asset class carries behavior patterns across time, sector, and liquidity sensitivity.
 
 We feed that data into proprietary agentic models that anticipate the optimal Institutional Liquidity Paths envelope.
 
-This transforms ABL into an adaptive structure where collateral is not merely appraised.
+This transforms Asset-Based Lending into an adaptive structure where collateral is not merely appraised.
 
 It is continuously interpreted.
 
@@ -345,7 +345,7 @@ While competitors iterate on old models, we build on models that evolve in real 
 
 Private credit becomes fluid.
 
-ABL becomes adaptive.
+Asset-Based Lending becomes adaptive.
 
 Crypto positions become strategic liquidity reservoirs.
 

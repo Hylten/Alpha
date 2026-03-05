@@ -4,7 +4,7 @@ description: "Algorithmic Asset Hardening: Automating Institutio"
 date: "2023-01-17"
 author: "Jonas Hyltén"
 slug: "algorithmic-asset-hardening-automating-institutio"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Algorithmic Asset Hardening. Automating Institutional Scrutiny
@@ -260,7 +260,7 @@ It accelerates deployment.
 
 Roials-Alpha addresses collateral through clarity.
 
-Crypto Asset-Backed Frameworks requires a 2 million minimum. 
+Crypto [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) requires a 2 million minimum. 
 Public shares require a 5 million minimum.
 
 These are not arbitrary. 

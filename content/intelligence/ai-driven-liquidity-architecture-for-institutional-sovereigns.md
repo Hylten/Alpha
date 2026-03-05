@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Liquidity Architecture for Institutional Sovereigns"
-description: "A technically dominant exploration of AI-driven liquidity, private credit, and institutional-grade ABL frameworks engineered for HNWI and UHNW capital."
+description: "A technically dominant exploration of AI-driven liquidity, private credit, and institutional-grade Asset-Based Lending frameworks engineered for HNWI and UHNW capital."
 date: "2023-08-26"
 author: "Jonas Hyltén"
 slug: "ai-driven-liquidity-architecture-for-institutional-sovereigns"
@@ -50,7 +50,7 @@ This allows us to lend against private credit and asset-backed structures with p
 We operate where predictive analytics meets collateral orchestration. 
 
  
-## Structural Mechanics for Private Credit and ABL
+## Structural Mechanics for Private Credit and Asset-Based Lending
 
 Roials-Alpha does not simply lend. 
 
@@ -185,7 +185,7 @@ It is an infrastructure layer for sovereign operators.
  
 ## Asset-Based Institutional Liquidity Paths as a Compounding Engine
 
-ABL is traditionally collateral-heavy, slow, and restrictive. 
+Asset-Based Lending is traditionally collateral-heavy, slow, and restrictive. 
 
 Roials-Alpha transforms it into a compounding engine. 
 
@@ -250,7 +250,7 @@ Roials-Alpha operates above this baseline.
 Our liquidity infrastructure is engineered for sovereign operators who understand that the future of capital is computational. 
 
  
-## ABL, Private Credit, and Crypto Convergence
+## Asset-Based Lending, Private Credit, and Crypto Convergence
 
 When these three domains converge, a new category of capital emerges. 
 

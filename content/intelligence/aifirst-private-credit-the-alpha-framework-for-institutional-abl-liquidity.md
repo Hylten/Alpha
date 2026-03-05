@@ -1,5 +1,5 @@
 ---
-title: "AI‑First Private Credit: The Alpha Framework for Institutional ABL Liquidity"
+title: "AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending Liquidity"
 description: "Roials‑Alpha delivers AI‑First private credit and institutional‑grade asset based liquidity engineering, engineered for HNWI and UHNW portfolios seeking high‑integrity liquidity."
 date: "2023-02-20"
 author: "Jonas Hyltén"
@@ -7,7 +7,7 @@ slug: "aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidit
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
-# AI‑First Private Credit: The Alpha Framework for Institutional ABL
+# AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending
 
 The architecture of private credit is shifting.
 
@@ -49,7 +49,7 @@ The capital markets of the next decade will be governed by:
 • Predictive collateral intelligence 
 • Zero‑latency underwriting 
 • Non‑linear liquidity mapping 
-• AI‑native ABL structures 
+• AI‑native Asset-Based Lending structures 
 
 The Alpha Framework already operates in this regime.
 

@@ -9,7 +9,7 @@ keywords: "private credit, asset based Monetization Architecture, liquidity, HNW
 
 # AI First Liquidity for Institutional GPs
 
-Institutional capital is reorganizing itself around a single principle. 
+[Institutional capital](https://hylten.github.io/Roials-Capital/) is reorganizing itself around a single principle. 
 Latency is risk. 
 Liquidity is sovereignty.
 
@@ -146,7 +146,7 @@ Everything is executed under silent authority.
 
  
 
-If you operate in ABL and require Strategic Collateralization that reacts faster than your acquisition pipeline, our system is built for you. 
+If you operate in Asset-Based Lending and require Strategic Collateralization that reacts faster than your acquisition pipeline, our system is built for you. 
 
 ## Crypto Institutional Liquidity Paths with a 2 Million Minimum
 
@@ -362,7 +362,7 @@ Every client receives:
 - Discreet execution. 
 - Institutional grade asset modeling. 
 - Institutional Liquidity Paths against private credit. 
-- Asset-Backed Frameworks against ABL portfolios. 
+- Asset-Backed Frameworks against Asset-Based Lending portfolios. 
 - Crypto Asset-Backed Frameworks with a 2 million minimum. 
 - Public share Strategic Collateralization with a 5 million minimum. 
 

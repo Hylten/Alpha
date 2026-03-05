@@ -4,7 +4,7 @@ description: "Institutional-grade architectural brief on AI‑driven M&A liquidi
 date: "2023-12-29"
 author: "Roials-Alpha"
 slug: "agentic-intelligence-mna-liquidity-engineering"
-keywords: "kapitalanskaffning, private credit, Capital Structuring, asset hardening"
+keywords: "kapitalanskaffning, private credit, [Capital Structuring](https://hylten.github.io/Roials-Capital/), asset hardening"
 ---
 
 [START INSTITUTIONAL BRIEFING]

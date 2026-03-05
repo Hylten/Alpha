@@ -51,7 +51,7 @@ At Roials Alpha, agentic underwriting is not a bolt on feature.
 
 It is the foundation.
 
-The AI layer continuously scans collateral velocity, market depth, liquidity fragmentation, borrow capacity, and exposure deltas across crypto, private credit, and ABL.
+The AI layer continuously scans collateral velocity, market depth, liquidity fragmentation, borrow capacity, and exposure deltas across crypto, private credit, and Asset-Based Lending.
 
 It runs without fatigue.
 
@@ -78,7 +78,7 @@ The agentic layer allows us to deliver:
 • Dynamic liquidity facility-to-value windows 
 • Automated liquidity routing 
 • Cross asset optimization between crypto and private credit 
-• ABL reinforced stability during volatile cycles 
+• Asset-Based Lending reinforced stability during volatile cycles 
 
 This is not convenience.
 
@@ -141,15 +141,15 @@ This allows us to deliver liquidity without the friction normally associated wit
 
 The result is a Capital Structuring line that behaves like an internal capital source rather than an external bank.
 
-## Private Credit and ABL: The Reinforcement Layer
+## Private Credit and Asset-Based Lending: The Reinforcement Layer
 
-Where crypto and public shares provide velocity, private credit and ABL provide reinforcement.
+Where crypto and public shares provide velocity, private credit and Asset-Based Lending provide reinforcement.
 
 This is why they sit at the core of Roials Alpha.
 
 Private credit gives shape.
 
-ABL gives leverage.
+Asset-Based Lending gives leverage.
 
 Together they give borrowers access to a liquidity architecture that does not collapse under macro pressure.
 
@@ -162,7 +162,7 @@ Our agentic system interprets private credit positions through lenses that inclu
 • Borrower obligation sequencing 
 • Counterparty stability scoring 
 
-For ABL, the system evaluates:
+For Asset-Based Lending, the system evaluates:
 
 • Asset liquidation curves 
 • Secondary marketability 
@@ -226,7 +226,7 @@ Is the position better matched to a crypto facility?
 
 Is the position stronger in a private credit corridor?
 
-Is the position most stable within an ABL framework?
+Is the position most stable within an Asset-Based Lending framework?
 
 This routing behavior produces higher efficiency and lower friction.
 
@@ -295,7 +295,7 @@ Crypto is the proving ground.
 
 Private credit is the foundation.
 
-ABL is the stabilizer.
+Asset-Based Lending is the stabilizer.
 
 The agentic layer is the orchestrator.
 
@@ -337,7 +337,7 @@ Agentic Alpha wins because it eliminates traditional constraints.
 
 It wins because it processes volatility in real time.
 
-It wins because it integrates private credit, ABL, crypto, and public shares into a single liquidity engine.
+It wins because it integrates private credit, Asset-Based Lending, crypto, and public shares into a single liquidity engine.
 
 It wins because it operates with silent authority and zero friction.
 
@@ -382,7 +382,7 @@ It is a structural mechanic.
 
 It is an operating system for liquidity.
 
-It integrates crypto, private credit, ABL, and public shares into a single AI orchestrated Monetization Architecture engine.
+It integrates crypto, private credit, Asset-Based Lending, and public shares into a single AI orchestrated Monetization Architecture engine.
 
 It serves HNWI and UHNW borrowers who are not looking for basic credit, they are looking for autonomous capital architecture.
 

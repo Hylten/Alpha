@@ -52,7 +52,7 @@ The global liquidity environment has changed. Assets move faster. Market pricing
 AI is the only instrument with enough bandwidth to handle it.
 
  
-Roials-Alpha uses agentic intelligence to create liquidity advantages that were not possible inside traditional ABL frameworks.
+Roials-Alpha uses agentic intelligence to create liquidity advantages that were not possible inside traditional Asset-Based Lending frameworks.
 
  
 Key advantages include:
@@ -93,10 +93,10 @@ The result is the same structural safety, delivered with exponentially higher pr
 Asset-based Institutional Liquidity Paths is often misunderstood as a simple collateral exercise.
 
  
-At Roials-Alpha, ABL is treated as an engineering discipline. The asset is just the top layer. The deeper value sits in the correlations, the volatility history, the liquidity path, and the predictive state of the environment around the asset.
+At Roials-Alpha, Asset-Based Lending is treated as an engineering discipline. The asset is just the top layer. The deeper value sits in the correlations, the volatility history, the liquidity path, and the predictive state of the environment around the asset.
 
  
-Traditional ABL focuses on snapshots. AI-first ABL focuses on trajectories. The difference is profound.
+Traditional Asset-Based Lending focuses on snapshots. AI-first Asset-Based Lending focuses on trajectories. The difference is profound.
 
  
 An asset can appear stable today and unstable tomorrow. Human-underwritten liquidity facilities assume static stability. AI-underwritten liquidity facilities continuously re-evaluate the asset’s path.

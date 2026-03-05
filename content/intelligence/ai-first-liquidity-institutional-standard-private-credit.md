@@ -101,7 +101,7 @@ The objective is to ensure the allocator engages with the correct credit infrast
 
 3. Sector Specific Pathways 
 The AI first credit ecosystem is not monolithic. Roials Capital categorizes the ecosystem into four primary verticals: 
-- general ABL engines 
+- general Asset-Based Lending engines 
 - revenue based financing systems 
 - inventory backed liquidity networks 
 - sector specialized credit engines 

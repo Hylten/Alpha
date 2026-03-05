@@ -92,7 +92,7 @@ We serve a very narrow category.
 Not the wealthy. 
 The structurally powerful. 
 
-The ones who understand that private credit and ABL are not Capital Structuring tools. 
+The ones who understand that private credit and Asset-Based Lending are not Capital Structuring tools. 
 They are leverage multipliers. 
 
 The ones who understand that AI is not automation. 

@@ -4,7 +4,7 @@ description: "A deep dive into high‑efficiency liquidity engineering, private 
 date: "2023-11-07"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-for-highperformance-portfolios"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Liquidity for High Performance Portfolios
@@ -82,7 +82,7 @@ It is not last resort financing.
 It is first tier engineering when executed correctly.
 
  
-When deployed for HNWI and UHNW portfolios, ABL becomes a tool for:
+When deployed for HNWI and UHNW portfolios, Asset-Based Lending becomes a tool for:
 
 • Balance sheet compression 
 • Opportunistic capital events 
@@ -91,7 +91,7 @@ When deployed for HNWI and UHNW portfolios, ABL becomes a tool for:
 • Strategic cross collateralization
 
  
-We design ABL lines that behave more like capital conduits than revolving facilities.
+We design Asset-Based Lending lines that behave more like capital conduits than revolving facilities.
 
  
 Your assets become programmable liquidity objects. 
@@ -216,7 +216,7 @@ You command.
 
 The market rewards investors who can move quickly.
 
-The ability to deploy liquidity across private credit, public equities, digital assets, and ABL structures creates a multidomain advantage that cannot be matched by single channel strategies.
+The ability to deploy liquidity across private credit, public equities, digital assets, and Asset-Based Lending structures creates a multidomain advantage that cannot be matched by single channel strategies.
 
  
 Most wealth platforms operate horizontally. 
@@ -243,7 +243,7 @@ Here are the most common deployment scenarios:
 
 When a private investment appears suddenly, traditional capital is too slow.
 
-We deploy immediate liquidity against private credit, ABL structures, or public positions to fund the allocation without asset liquidation.
+We deploy immediate liquidity against private credit, Asset-Based Lending structures, or public positions to fund the allocation without asset liquidation.
 
 ### Tax and Settlement Efficiency
 

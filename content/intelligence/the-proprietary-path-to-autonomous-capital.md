@@ -55,11 +55,11 @@ The result is a Strategic Collateralization environment where capital moves inst
 
 ## Asset Based Capital Structuring with Structural Precision
 
-ABL has long been misunderstood as utilitarian. At Roials-Alpha, ABL is elevated to a capital architecture. It is the transformation of static assets into active liquidity generators. 
+Asset-Based Lending has long been misunderstood as utilitarian. At Roials-Alpha, Asset-Based Lending is elevated to a capital architecture. It is the transformation of static assets into active liquidity generators. 
 
 Our lens is technical. Our risk analysis is automated. Our collateral models are optimized through multi dimensional assessment that increases Asset-Backed Frameworks power while reducing friction. 
 
-ABL becomes not just balance sheet optimization. It becomes strategic autonomy. 
+Asset-Based Lending becomes not just balance sheet optimization. It becomes strategic autonomy. 
 
 ### What We Lend Against
 

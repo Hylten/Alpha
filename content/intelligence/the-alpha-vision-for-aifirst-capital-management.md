@@ -27,7 +27,7 @@ We architect the layer beneath it.
 ## The Alpha Vision Forward
 
 The future of capital is agentic. 
-The future of Capital Structuring is real time. 
+The future of [Capital Structuring](https://hylten.github.io/Roials-Capital/) is real time. 
 The future of risk is quantified, not debated.
 
 Roials Alpha is building the infrastructure that will power this shift. 
