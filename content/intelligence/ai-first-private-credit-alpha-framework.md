@@ -82,9 +82,7 @@ The result is institutional advantage at origin. Not after deterioration.
 
 For UHNW and family office principals, the implications are clear:
 
-Predictable downside.
-Algorithmic deployment.
-Continuous surveillance.
+Predictable downside. Algorithmic deployment. Continuous surveillance.
 Frictionless enforcement.
 Non‑correlated cashflow.
 Institutional-grade structures.

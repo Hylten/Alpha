@@ -305,8 +305,7 @@ Flow is a function.
 
 Agentic infrastructure is the future of private credit.
 
-Not because it is fashionable. 
-Because it is inevitable.
+it is inevitable.
 
 Agentic systems:
 
