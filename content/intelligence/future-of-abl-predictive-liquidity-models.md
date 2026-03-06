@@ -32,7 +32,7 @@ Private credit allocators prioritize structures that convert operational volatil
 5. Integration of algorithmic credit architecture 
 Machine driven data models refine credit parameters without expanding underwriting labor. This aligns with the institutional objective of expanding deal volume without increasing operating complexity.
 
-These forces redefine the market equilibrium and shift Asset-Based Lending into a new category of institutional relevance. The landscape is no longer shaped by lender capacity but by analytical acuity. Predictive liquidity intelligence forms the backbone of this transition. (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
+These forces redefine the market equilibrium and shift Asset-Based Lending into a new category of institutional relevance. The landscape is no longer shaped by lender capacity but by analytical acuity. Predictive liquidity intelligence forms the backbone of this transition. (See [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 PHASE 2: TECHNICAL MECHANICS OF PREDICTIVE Asset-Based Lending ARCHITECTURE
 

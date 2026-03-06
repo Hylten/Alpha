@@ -4,7 +4,7 @@ description: "High velocity liquidity engineering through private credit and ass
 date: "2024-05-28"
 author: "Jonas Hyltén"
 slug: "agentic-systems-for-complex-financial-structures"
-keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Systems for Complex Financial Structures

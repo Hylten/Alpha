@@ -17,7 +17,7 @@ The private market landscape is transitioning from relationship driven sourcing 
 
 - Capital displacement from regional banking due to post 2020 regulatory recalibration. 
 - The migration of high quality operators into non bank financing ecosystems.
-- Increased fragmentation of asset holders who lack structured introductions to [institutional capital](https://hylten.github.io/Roials-Capital/).
+- Increased fragmentation of asset holders who lack structured introductions to [institutional capital](https://hylten.github.io/ROIALS CAPITAL/).
 
 The outcome is a capital vacuum in the lower middle market where information is abundant but institutionally usable intelligence is scarce. Transaction velocity has not decreased. What has diminished is the reliability of human mediated discovery. Family offices report rising costs per actionable opportunity and an escalation of diligence burden. Institutional allocators indicate that less than 4 percent of inbound dealflow meets threshold viability. The landscape rewards systems capable of reducing noise density, identifying pattern anomalies, and classifying operator quality through probabilistic scoring instead of narrative driven representation.
 

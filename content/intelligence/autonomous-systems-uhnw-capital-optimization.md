@@ -65,7 +65,7 @@ The principal defines thresholds, constraints, legacy rules, and veto rights. Hu
 THE INSTITUTIONAL SHELL 
 Trust structures, SPVs, holding companies, fund vehicles, private banks, offshore nodes. The shell provides legal insulation and regulatory clarity. It is the skin of the enterprise. Replaceable. Flexible. Jurisdiction-agnostic.
 
-Portugal. UAE. Luxembourg. Cayman. Singapore. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Portugal. UAE. Luxembourg. Cayman. Singapore. (See [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 Each a node. Each a tool. Each a shield.
 

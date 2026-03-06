@@ -260,7 +260,7 @@ It accelerates deployment.
 
 Roials-Alpha addresses collateral through clarity.
 
-Crypto [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) requires a 2 million minimum. 
+Crypto [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) requires a 2 million minimum. 
 Public shares require a 5 million minimum.
 
 These are not arbitrary. 

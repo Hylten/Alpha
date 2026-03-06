@@ -13,7 +13,7 @@ The structural gap in modern capital markets is no longer information asymmetry.
 
 PHASE 1: THE REGIME SHIFT
 
-The current private capital environment is shaped by two converging distortions. First, the global allocator base faces a rising opportunity velocity exceeding the bandwidth of traditional underwriting frameworks. Second, [Capital Structuring](https://hylten.github.io/Roials-Capital/) has become a computational discipline where allocators require infrastructure capable of reading, interpreting, and scoring thousands of fragmented private market signals at institutional grade reliability.
+The current private capital environment is shaped by two converging distortions. First, the global allocator base faces a rising opportunity velocity exceeding the bandwidth of traditional underwriting frameworks. Second, [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) has become a computational discipline where allocators require infrastructure capable of reading, interpreting, and scoring thousands of fragmented private market signals at institutional grade reliability.
 
 This has produced a bifurcated environment. On one side are allocators operating through legacy human centric workflows. These entities experience drag at every operational layer including sourcing, due diligence, cash flow mapping, and covenant surveillance. On the other side are emerging AI governed architectures that reduce this drag through high frequency pattern extraction, cross asset anomaly detection, and automated compliance calibration.
 

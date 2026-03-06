@@ -13,7 +13,7 @@ Liquidity follows structure. Structure follows intelligence. Intelligence-when a
 
 This brief establishes the architecture. The operational frame. The institutional opportunity. It is written for principals who control assets, not advisers who react to them. And it anchors itself in the oldest wealth principle: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just. Proverbs 13:22.
 
-Agentic systems transform this principle from moral to mechanical. They reclassify inheritance as algorithmic continuity. They convert legacy into liquidity. And they harden assets into programmable yield engines that execute 24/7 without human drift. (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Agentic systems transform this principle from moral to mechanical. They reclassify inheritance as algorithmic continuity. They convert legacy into liquidity. And they harden assets into programmable yield engines that execute 24/7 without human drift. (See [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 Foundation first. Then expansion. Then sovereign control.
 

@@ -68,7 +68,7 @@ Buy Borrow Die has historically been a strategic tax position. Agentic liquidity
 The architecture functions through a series of institutional mechanisms.
 
 1. Asset Hardening
-High quality collateral is converted into a liquidity generating machine through AI driven valuation and risk surveillance. The agentic system identifies the maximum safe liquidity extraction threshold without stress testing the asset base. (See [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/) for structural parameters)
+High quality collateral is converted into a liquidity generating machine through AI driven valuation and risk surveillance. The agentic system identifies the maximum safe liquidity extraction threshold without stress testing the asset base. (See [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 2. Institutional Liquidity Paths
 Borrowing becomes a programmatic function. The system releases credit lines based on updated asset intelligence. The borrower does not petition for capital. The capital surfaces automatically when the asset profile justifies it.

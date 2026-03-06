@@ -54,7 +54,7 @@ The wealthiest families do not grow through static allocation. They grow through
 
  
 
-Roials-Alpha lends against private credit and asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/) collateral, creating liquidity far earlier and far more efficiently than traditional institutions permit.
+Roials-Alpha lends against private credit and asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) collateral, creating liquidity far earlier and far more efficiently than traditional institutions permit.
 
  
 

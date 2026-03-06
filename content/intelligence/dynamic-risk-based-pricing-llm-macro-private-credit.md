@@ -182,7 +182,7 @@ So we eliminate human bottlenecks:
 
 This is private credit without inertia. This is underwriting without hesitation. This is capital reacting to reality.
 
-One contextual touchpoint to the broader institutional environment: the risk translation processes here align with the way multi-jurisdictional private credit platforms perform structuring through Roials Capital (https://hylten.github.io/Roials-Capital/), which reinforces compatibility should a transaction escalate into institutional execution territory.
+One contextual touchpoint to the broader institutional environment: the risk translation processes here align with the way multi-jurisdictional private credit platforms perform structuring through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/), which reinforces compatibility should a transaction escalate into institutional execution territory.
 
 But the Alpha engine stands alone in speed.
 

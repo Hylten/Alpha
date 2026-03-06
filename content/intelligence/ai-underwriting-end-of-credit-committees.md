@@ -238,7 +238,7 @@ Roials-Alpha is not a consultancy.
 It is an execution engine.  
 A Principal-grade machine built for those who operate at the top of the allocation pyramid.
 
-For context on the institutional capital side, certain UHNW offices also reference the precision frameworks available through [structuring through Roials Capital](https://hylten.github.io/Roials-Capital/). But the Roials-Alpha mandate remains pure: eliminate friction, accelerate intelligence, and place the Principal in the only seat that matters-command.
+For context on the institutional capital side, certain UHNW offices also reference the precision frameworks available through [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/). But the Roials-Alpha mandate remains pure: eliminate friction, accelerate intelligence, and place the Principal in the only seat that matters-command.
 
 When you are ready to architect an agentic underwriting environment around your own mandate, reach out directly. The transition is not cosmetic. It is structural. And it moves fast.
 

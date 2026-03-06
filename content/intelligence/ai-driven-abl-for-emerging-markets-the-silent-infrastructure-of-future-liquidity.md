@@ -29,7 +29,7 @@ HNWI and UHNW private clients are now demanding systems that see faster, underwr
 
  
 
-At Roials-Alpha, we operate inside that gap. We position in the silent zone between private credit origination and the structural mechanics of [institutional capital](https://hylten.github.io/Roials-Capital/). We build unseen architecture that converts assets into accelerated liquidity at scale, with precision, and without noise.
+At Roials-Alpha, we operate inside that gap. We position in the silent zone between private credit origination and the structural mechanics of [institutional capital](https://hylten.github.io/ROIALS CAPITAL/). We build unseen architecture that converts assets into accelerated liquidity at scale, with precision, and without noise.
 
  
 

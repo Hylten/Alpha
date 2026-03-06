@@ -180,7 +180,7 @@ This is not compliance.
 This is structural dominance.
 
 And for firms that need multi-jurisdictional execution environments, optional structuring through Roials Capital provides another lever of sophistication, with seamless handoff from verification to institutional-grade execution:  
-[Institutional capital execution](https://hylten.github.io/Roials-Capital/)
+[Institutional capital execution](https://hylten.github.io/ROIALS CAPITAL/)
 
 ---
 

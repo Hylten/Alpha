@@ -49,7 +49,7 @@ AI enables pre-emptive liquidity. Predictive underwriting. Auto-generated term s
 The architecture forms in three layers.
 
 Layer One: Asset Computation 
-Asset segmentation. Compression. Pattern extraction. Every asset class becomes a node in a computational graph. The system learns correlations invisible to human underwriters. Oil and gas wells tied to freight index movements. Commercial real estate yields tied to grid congestion pricing. Midstream assets correlated to tanker utilization curves. This informs credit quality at a resolution impossible through human review. (See [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Asset segmentation. Compression. Pattern extraction. Every asset class becomes a node in a computational graph. The system learns correlations invisible to human underwriters. Oil and gas wells tied to freight index movements. Commercial real estate yields tied to grid congestion pricing. Midstream assets correlated to tanker utilization curves. This informs credit quality at a resolution impossible through human review. (See [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 Layer Two: Liquidity Routing 
 Once asset behavior is mapped, the system determines liquidity pathways. Domestic credit lines. Offshore SPVs. Cash-equivalent tokenization. Synthetic forward contracts. Revenue-participation debt. The routing is not aesthetic. It is algorithmic. Optimization is measured in basis points saved, hours won, and regulatory friction avoided.

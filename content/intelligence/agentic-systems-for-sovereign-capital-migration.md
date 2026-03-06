@@ -191,7 +191,7 @@ This is the Roials-Alpha advantage.
 
 ## Why Thresholds Matter
 
-Our [Capital Structuring](https://hylten.github.io/Roials-Capital/) minimums are deliberate.
+Our [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) minimums are deliberate.
 
  
 Crypto Asset-Backed Frameworks starts at 2,000,000.

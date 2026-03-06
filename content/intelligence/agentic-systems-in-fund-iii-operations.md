@@ -13,7 +13,7 @@ The operational infrastructure of modern private equity is transitioning from hu
 
 ## The Origination Pipeline
 
-Traditional origination relies heavily on decentralized networks and manual outbound. Our transition towards **Agentic Workflows (Mod 02)** allows for real-time scraping, validation, and outreach serialization at an unprecedented scale. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Traditional origination relies heavily on decentralized networks and manual outbound. Our transition towards **Agentic Workflows (Mod 02)** allows for real-time scraping, validation, and outreach serialization at an unprecedented scale. (See [special mandates execution](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 * Criteria Matching: 100% automated
 * Outreach: Serialized via custom models

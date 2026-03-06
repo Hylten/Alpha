@@ -4,7 +4,7 @@ description: "A deep dive into high‑efficiency liquidity engineering, private 
 date: "2023-11-07"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-for-highperformance-portfolios"
-keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Liquidity for High Performance Portfolios

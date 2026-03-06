@@ -68,7 +68,7 @@ Stewardship is not charity. It is the discipline of resource non waste. Agentic 
 Key components of stewardship include:
 
 1. Mission Integrity 
-Every allocator has an identity. Many sovereign entities allocate according to national priorities. UHNW families allocate according to legacy objectives. Institutions allocate according to fiduciary commitments. Agentic systems protect identity by ensuring all allocations reflect the governing mission. (See [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) for structural parameters)
+Every allocator has an identity. Many sovereign entities allocate according to national priorities. UHNW families allocate according to legacy objectives. Institutions allocate according to fiduciary commitments. Agentic systems protect identity by ensuring all allocations reflect the governing mission. (See [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 2. Efficiency as Moral Behavior 
 Inefficiency is a form of waste. Proverbs 13:22 states that a good person leaves an inheritance for their children. Stewardship is therefore the elimination of avoidable waste inside the capital deployment process. Agentic systems enforce efficiency by design.

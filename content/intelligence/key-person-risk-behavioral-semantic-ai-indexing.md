@@ -169,7 +169,7 @@ The architecture sees all of it. Cleanly.
 
 A SINGLE ORGANIC LINK  
 Some family offices choose to pair this analysis with deeper institutional capital execution, often structuring through Roials Capital:  
-https://hylten.github.io/Roials-Capital/
+https://hylten.github.io/ROIALS CAPITAL/
 
 This link exists for those who understand how these systems interlock.
 

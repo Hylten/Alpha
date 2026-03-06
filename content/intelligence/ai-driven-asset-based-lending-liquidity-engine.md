@@ -47,7 +47,7 @@ This produces a more accurate risk adjusted advance rate than static underwritin
 
 4. Automated Covenant Governance 
 Covenants become dynamic thresholds governed by machine analysis rather than annual renegotiation. Breaches are detected within minutes, not months. 
-This reduces lender risk while expanding borrower flexibility because the system is evaluating actual performance instead of historical projections. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
+This reduces lender risk while expanding borrower flexibility because the system is evaluating actual performance instead of historical projections. (See [special mandates execution](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 Healthcare Application 
 Healthcare receivables carry precise behavioral data. Claim acceptance velocity, reimbursement consistency, payer grading, and dispute cycles create mathematically reliable performance curves. An AI synchronized Asset-Based Lending system can extract this data to generate predictable borrowing capacity even in environments where regulated lenders cannot operate.

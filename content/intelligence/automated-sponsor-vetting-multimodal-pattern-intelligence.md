@@ -162,7 +162,7 @@ This is why the system matters. Because speed is an asset. Accuracy is an asset.
 STRUCTURAL INTEROPERABILITY  
 AND THE ROLE OF ROIALS SYSTEMS
 
-Roials-Alpha is the traffic engine. The ingestion layer. The pattern extractor. But the architecture must interact with capital execution channels. At times, structuring through Roials Capital provides the necessary depth for institutional-grade underwriting-though the brands operate separately and the gates do not apply here. The link is architectural, not hierarchical: Roials-Alpha feeds. Roials-Capital structures. Fund-III deploys. Family offices compound.
+Roials-Alpha is the traffic engine. The ingestion layer. The pattern extractor. But the architecture must interact with capital execution channels. At times, structuring through Roials Capital provides the necessary depth for institutional-grade underwriting-though the brands operate separately and the gates do not apply here. The link is architectural, not hierarchical: Roials-Alpha feeds. ROIALS CAPITAL structures. Fund-III deploys. Family offices compound.
 
 The value is in the interoperability. The precision. The velocity.  
 One system. Multiple roles.  

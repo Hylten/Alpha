@@ -106,7 +106,7 @@ Allocators evaluating agentic credit systems require a framework that aligns imp
 • Transparency upgrades through continuous asset surveillance. 
 • Downside protection through dynamic risk propagation mapping. 
 • Scalability of deal flow through automated opportunity screening. 
-• Balance sheet optimization through [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/) pathways. 
+• Balance sheet optimization through [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/) pathways. 
 • Governance compatibility with existing investment committees. 
 
 Agentic intelligence is not a future concept. It is an active structural transition currently reshaping the private credit landscape. Allocators who integrate these systems early will obtain operational advantages that compound over time. The next step for sophisticated capital holders is a confidential strategy audit. This creates clarity on where agentic architectures can strengthen portfolio design, balance sheet durability, and allocation velocity.

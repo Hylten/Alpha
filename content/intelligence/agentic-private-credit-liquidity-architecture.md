@@ -23,7 +23,7 @@ Three dynamics define the new regime:
 
 This created an environment in which capital does not flow based on risk, it flows based on process. Allocators are no longer simply underwriting assets. They are underwriting the quality of the system that evaluates these assets. This is the beginning of the agentic infrastructure era.
 
-The shift is most visible in the mid market segment where transaction velocity has increased faster than lender adaptability. Corporate carveouts, real asset refinancing, energy asset consolidation, equipment backed facilities, and revenue stabilized middle market operations are all impacted by this mismatch. [Capital Structuring](https://hylten.github.io/Roials-Capital/) has become the discipline through which these gaps are mapped and resolved.
+The shift is most visible in the mid market segment where transaction velocity has increased faster than lender adaptability. Corporate carveouts, real asset refinancing, energy asset consolidation, equipment backed facilities, and revenue stabilized middle market operations are all impacted by this mismatch. [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) has become the discipline through which these gaps are mapped and resolved.
 
 PHASE 2: TECHNICAL MECHANICS OF AGENTIC PRIVATE CREDIT
 

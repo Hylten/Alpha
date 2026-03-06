@@ -27,7 +27,7 @@ This is Asset-Based Lending with surgical efficiency.
 
  
 
-This is the architecture behind silent authority. (See [special mandates execution](https://hylten.github.io/Roials-Capital/) for structural parameters)
+This is the architecture behind silent authority. (See [special mandates execution](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 ## The Strategic Edge: Why Agentic Systems Beat Conventional Underwriting
 

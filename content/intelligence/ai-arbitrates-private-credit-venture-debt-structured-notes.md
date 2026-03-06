@@ -139,7 +139,7 @@ AI monitors continuously, without fatigue, without distraction, without politica
 
 And this is the critical point: when AI arbitrates capital instruments, it identifies the path of lowest friction. Friction is the enemy. Friction erodes value. Friction delays execution. Friction destroys momentum. Remove friction, and you remove fragility.
 
-This is why Roials-Alpha exists: to eliminate friction and build the first purely agentic capital engine for founders and family offices. Our architecture doesn’t imitate institutional processes; it replaces them. And when necessary, it coordinates institutional channels through automation. (One of these channels, where appropriate, can involve institutional capital execution through Roials Capital: https://hylten.github.io/Roials-Capital/)
+This is why Roials-Alpha exists: to eliminate friction and build the first purely agentic capital engine for founders and family offices. Our architecture doesn’t imitate institutional processes; it replaces them. And when necessary, it coordinates institutional channels through automation. (One of these channels, where appropriate, can involve institutional capital execution through Roials Capital: https://hylten.github.io/ROIALS CAPITAL/)
 
 The true power is not in automation.  
 The true power is in orchestration.

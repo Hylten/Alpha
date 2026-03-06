@@ -303,7 +303,7 @@ Intelligence without velocity produces paralysis.
 
 Agentic infrastructure merges both.
 
-The system compiles intelligence across multiple domains and deploys it instantly when thresholds or conditions are met. (See [Capital Structuring](https://hylten.github.io/Roials-Capital/) for structural parameters)
+The system compiles intelligence across multiple domains and deploys it instantly when thresholds or conditions are met. (See [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
 This produces compounding effects.
 

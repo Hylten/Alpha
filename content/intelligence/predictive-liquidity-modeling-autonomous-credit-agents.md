@@ -196,7 +196,7 @@ Clean. Cohesive. True.
 --
 
 A natural integration point emerges with institutional credit execution. Many family offices pair Roials-Alpha deal flow with structuring through Roials Capital for institutional alignment, jurisdictional intelligence, and deal packet standardization. The result is a combined engine: algorithmic deal sourcing fused with sovereign-level execution.  
-https://hylten.github.io/Roials-Capital/
+https://hylten.github.io/ROIALS CAPITAL/
 
 --
 

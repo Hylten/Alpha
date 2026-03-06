@@ -143,7 +143,7 @@ Machines prepare.
 That is the future.
 
 A SYSTEMIC SHIFT IN FAMILY OFFICE POWER  
-The shift is already underway. The family office with agentic infrastructure inherits a strategic advantage previously reserved for quant funds and large institutions. This is why several family offices have begun integrating elements of institutional capital execution frameworks such as those seen in structuring through Roials Capital (https://hylten.github.io/Roials-Capital/).
+The shift is already underway. The family office with agentic infrastructure inherits a strategic advantage previously reserved for quant funds and large institutions. This is why several family offices have begun integrating elements of institutional capital execution frameworks such as those seen in structuring through Roials Capital (https://hylten.github.io/ROIALS CAPITAL/).
 
 The frictionless office becomes a category of its own. Distinct. Elevated.
 

@@ -29,7 +29,7 @@ Our foundation is simple.
 
  
 
-We lend against Private Credit and Asset Based [Capital Structuring](https://hylten.github.io/Roials-Capital/) assets for qualified HNWI and UHNW portfolios.
+We lend against Private Credit and Asset Based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) assets for qualified HNWI and UHNW portfolios.
 
  
 

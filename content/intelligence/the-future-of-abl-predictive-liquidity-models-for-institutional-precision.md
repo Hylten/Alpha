@@ -9,7 +9,7 @@ keywords: "private credit, asset based Strategic Collateralization, liquidity, H
 
 # The Future of Asset-Based Lending: Predictive Liquidity Models
 
-Asset Based [Capital Structuring](https://hylten.github.io/Roials-Capital/) is entering a new era.
+Asset Based [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) is entering a new era.
 
 The institutions already know it.
 

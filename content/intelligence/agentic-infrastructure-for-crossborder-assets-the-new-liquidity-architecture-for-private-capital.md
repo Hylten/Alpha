@@ -4,7 +4,7 @@ description: "High-end analysis on liquidity infrastructure, private credit, and
 date: "2023-07-04"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
-keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/), liquidity, HNWI, UHNW, Roials-Alpha"
+keywords: "private credit, asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), liquidity, HNWI, UHNW, Roials-Alpha"
 ---
 
 # Agentic Infrastructure for Cross-Border Assets

@@ -28,7 +28,7 @@ This created a regime where allocators do not suffer from deal scarcity. They su
 
 PHASE 2: TECHNICAL MECHANICS
 
-Agentic architectures are not chat interfaces. They are multi agent computational stacks designed to operate as autonomous executive functions inside the private markets workflow. The correct framework is to treat them as [Capital Structuring](https://hylten.github.io/Roials-Capital/) engines rather than digital assistants.
+Agentic architectures are not chat interfaces. They are multi agent computational stacks designed to operate as autonomous executive functions inside the private markets workflow. The correct framework is to treat them as [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) engines rather than digital assistants.
 
 Core mechanical components:
 

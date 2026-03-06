@@ -18,7 +18,7 @@ HNWI and UHNW clients.
 
 Individuals who view liquidity as a strategic weapon rather than a convenience. 
 
-This article outlines the Alpha Approach to AI first [Asset-Backed Frameworks](https://hylten.github.io/Roials-Capital/). 
+This article outlines the Alpha Approach to AI first [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/). 
 
 It unpacks the automation layer, the credit logic, the collateral intelligence, and the structural mechanics that govern our private credit and asset based Monetization Architecture frameworks. 
 

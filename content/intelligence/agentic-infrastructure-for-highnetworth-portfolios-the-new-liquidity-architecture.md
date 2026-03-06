@@ -63,7 +63,7 @@ High net worth portfolios benefit because this replaces the cadence of bankers, 
 
 This is not theory. 
 
-This is already how silent [institutional capital](https://hylten.github.io/Roials-Capital/) operates. 
+This is already how silent [institutional capital](https://hylten.github.io/ROIALS CAPITAL/) operates. 
 
 Roials‑Alpha provides private clients with the same mechanical advantage. 
 

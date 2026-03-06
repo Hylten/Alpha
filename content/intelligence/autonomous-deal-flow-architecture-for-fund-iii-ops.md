@@ -34,7 +34,7 @@ Fund II scales a thesis.
 Fund-III requires the thesis to run on its own momentum. 
 
 HNWI and UHNW operators do not need more meetings. 
-They need structural mechanics that behave like [institutional capital](https://hylten.github.io/Roials-Capital/), without demanding institutional drag. 
+They need structural mechanics that behave like [institutional capital](https://hylten.github.io/ROIALS CAPITAL/), without demanding institutional drag. 
 
 Autonomous deal flow solves this. 
 It removes human bottlenecks. 

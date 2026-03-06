@@ -9,7 +9,7 @@ keywords: "private credit, asset based Monetization Architecture, liquidity, HNW
 
 # AI First Liquidity for Institutional GPs
 
-[Institutional capital](https://hylten.github.io/Roials-Capital/) is reorganizing itself around a single principle. 
+[Institutional capital](https://hylten.github.io/ROIALS CAPITAL/) is reorganizing itself around a single principle. 
 Latency is risk. 
 Liquidity is sovereignty.
 

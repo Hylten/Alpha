@@ -17,7 +17,6 @@ Machine runs. Principal decides. That is the covenant.
 ---
 
 PHASE ONE  
-Internal Logic  
 A secured briefing on architecture and jurisdictional dynamics.
 
 True counterparty probability scoring emerges from multi-vector inference. You cannot rely on declarations, documents, or conventional Know‑Your‑Customer frameworks. They catch the novice. They miss the professional. The UHNW operator does not move through conventional channels. They move through shells, mandates, situational advisors, and contingent access. The system must identify behavioral signatures, not surface identifiers.
