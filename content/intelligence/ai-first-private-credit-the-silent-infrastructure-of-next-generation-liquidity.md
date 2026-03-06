@@ -56,12 +56,7 @@ The result is faster execution, cleaner risk envelopes, and deeper liquidity opt
 ## The Structural Mechanics of AI-Led Institutional Liquidity Paths
 
 Roials-Alpha builds capital mechanics that remain quiet on the surface. 
-
-Silent authority. 
-
-No theatrics. 
-
-Just precision. 
+ Silent authority. No theatrics. Just precision. 
 
 The architecture runs on three pillars: 
 
@@ -260,12 +255,7 @@ The differentiation is subtle but absolute.
 We do not replicate bank Capital Structuring. 
 
 We build the hidden structural mechanics that banks wish they had. 
-
-Silent authority. 
-
-No broadcast. 
-
-Only execution. 
+ Silent authority. No broadcast. Only execution. 
 
 ## Liquidity as a Non-Linear Asset
 
@@ -302,10 +292,7 @@ It recalibrates trust.
 Trust shifts from human interpretation to structural logic. 
 
 The system is transparent in function, but not in noise. 
-
-Clear mechanics. 
-Minimal friction. 
-No theatrics. 
+ Clear mechanics. Minimal friction. No theatrics. 
 
 In a world where speed decides outcomes, trust is built on consistent precision. 
 

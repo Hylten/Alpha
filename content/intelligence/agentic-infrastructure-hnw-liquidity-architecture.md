@@ -245,10 +245,7 @@ Our model integrates:
 • Multi‑jurisdictional compliance automation 
 • Proprietary capital hardening logic 
 • Structural continuity systems for generational wealth 
-
-Everything connects. 
-Everything adapts. 
-Everything compounds.
+ Everything connects. Everything adapts. Everything compounds.
 
 This is Roials‑Alpha: architecture for high‑net‑worth capital operating beyond human constraints.
 

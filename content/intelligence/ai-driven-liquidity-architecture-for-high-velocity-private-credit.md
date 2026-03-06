@@ -30,12 +30,7 @@ It waited for intermediaries.
 It waited for approvals from committees that were two layers too slow for modern deal velocity.
 
 Roials Alpha treats liquidity as dynamic signal flow.
-
-Real time.
-
-Self evaluating.
-
-Predictively optimized.
+ Real time. Self evaluating. Predictively optimized.
 
 Structured for HNWI and UHNW individuals who need institutional mechanics without institutional drag.
 
@@ -140,12 +135,7 @@ Silent authority preserved.
 Every product within Roials Alpha is built around agentic automation.
 
 No human can track thousands of variables across multiple asset classes in real time.
-
-Agents can.
-
-Agents do.
-
-Agents execute.
+ Agents can. Agents do. Agents execute.
 
 They evaluate collateral dynamics.
 

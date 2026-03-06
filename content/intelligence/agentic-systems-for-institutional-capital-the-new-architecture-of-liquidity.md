@@ -113,11 +113,7 @@ HNWI and UHNW portfolios contain complexity.
 
 Diversified private equity.
 
-Private credit allocations.
-
-Public market blocks.
-
-Digital assets.
+Private credit allocations. Public market blocks. Digital assets.
 
 Operational businesses.
 

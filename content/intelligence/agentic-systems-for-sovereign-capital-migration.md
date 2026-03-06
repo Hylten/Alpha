@@ -30,14 +30,7 @@ Human-driven wealth management cannot scale to the complexity of modern assets.
  
 HNWI and UHNW individuals require three things.
 
- 
-Fluid liquidity.
-
- 
-Silent execution.
-
- 
-Autonomous protection.
+  Fluid liquidity. Silent execution. Autonomous protection.
 
  
 Agentic systems enable all three.

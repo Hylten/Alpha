@@ -34,10 +34,7 @@ Roials Alpha operates on this premise.
 Proprietary tech stacks are not accessories. 
 They are the infrastructure that reinforces authority in negotiations, precision in underwriting, and structural readiness for institutional inspection.
 
-Each component is built for one function. 
-Remove latency. 
-Increase certainty. 
-Harden assets.
+Each component is built for one function.  Remove latency. Increase certainty. Harden assets.
 
 Institutional partners do not engage for personality. 
 They engage because execution is inevitable. 

@@ -42,10 +42,7 @@ We deploy adaptive.
 We deploy autonomous.
 
 The LLM is not the underwriter. It is the interpreter of variance-detecting pressure long before it shows up in traditional credit metrics.
-
-Stress propagates.  
-Signals cascade.  
-Pricing responds.
+ Stress propagates. Signals cascade. Pricing responds.
 
 This is institutional-grade precision delivered with algorithmic immediacy.
 
@@ -67,10 +64,7 @@ We operate where volatility becomes advantage.
 We operate where others hesitate.  
 We operate where price discovery becomes automated intelligence.
 
-The Principal mandate is simple:  
-Protect capital.  
-Accelerate deployment.  
-Eliminate friction.
+The Principal mandate is simple:   Protect capital. Accelerate deployment. Eliminate friction.
 
 Dynamic pricing is not technology. It is governance at scale.
 

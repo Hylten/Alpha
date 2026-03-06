@@ -362,10 +362,7 @@ Dominion is covenant aligned authority.
 
 The Alpha Framework produces dominion by engineering predictable outcomes under uncertainty. 
 This is the essence of stewardship. 
-This is the essence of Gnosjö spirit. 
-Quiet competence. 
-Unimpeachable integrity. 
-Relentless execution. 
+This is the essence of Gnosjö spirit.  Quiet competence. Unimpeachable integrity. Relentless execution. 
 
 ---
 

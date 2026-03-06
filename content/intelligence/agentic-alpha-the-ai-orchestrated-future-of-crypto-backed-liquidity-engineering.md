@@ -130,12 +130,7 @@ The agentic layer analyzes:
 • Earnings cycle volatility 
 
 Every public equity position is treated as a living data organism.
-
-Not static.
-
-Not simple.
-
-Not generic.
+ Not static. Not simple. Not generic.
 
 This allows us to deliver liquidity without the friction normally associated with brokerage level share backed Institutional Liquidity Paths.
 

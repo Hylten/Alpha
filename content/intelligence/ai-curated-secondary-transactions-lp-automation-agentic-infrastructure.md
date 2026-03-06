@@ -43,10 +43,7 @@ Learns relentlessly.
 Secondary opportunities no longer appear because a broker pushes an email.  
 They surface algorithmically the moment the portfolio’s internal architecture violates the LP’s target risk vector.
 
-This is the rise of agentic infrastructure-multi-stage AI entities performing end-to-end portfolio oversight, secondary readiness evaluation, pricing simulations, counterparty mapping, and rebalancing execution.  
-Without fatigue.  
-Without bias.  
-Without pride.
+This is the rise of agentic infrastructure-multi-stage AI entities performing end-to-end portfolio oversight, secondary readiness evaluation, pricing simulations, counterparty mapping, and rebalancing execution.   Without fatigue. Without bias. Without pride.
 
 And precisely because of this, LP behavior will bifurcate.  
 Those who adopt agentic infrastructures will quietly dominate.  
@@ -70,9 +67,7 @@ It is operational sovereignty.
 
 The LP who commands automated rebalancing establishes a posture of continuous strength. Vintage exposure stays calibrated. Denominator shock loses its power. Capital calls are met without panic. Liquidity windows open before price compression sets in. This is structural power, not market luck.
 
-The distinction matters.  
-Luck is noise.  
-Architecture endures.
+The distinction matters. Luck is noise. Architecture endures.
 
 Deep analysis follows.
 

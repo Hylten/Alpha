@@ -55,7 +55,7 @@ Agentic systems handle the repetition and high-volume analytics; humans handle j
 5. Interoperability  
 Most institutional deployments involve:
 
-- A central orchestrator (e.g., LangGraph, AutoGen, Crew, or custom multi-agent frameworks)  
+- A central orchestrator (e.g. LangGraph, AutoGen, Crew, or custom multi-agent frameworks)  
 - A permissions layer for agent actions  
 - Logging and observability stack  
 - API connectivity to data providers and signature workflows  

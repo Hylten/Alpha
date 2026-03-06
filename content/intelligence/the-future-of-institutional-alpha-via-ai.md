@@ -84,12 +84,7 @@ Roials-Alpha replaces this with dynamic collateral intelligence.
 The AI evaluates collateral in micro slices, not blanket categories.
 
 It reads:
-
-Asset volatility.
-
-Liquidity depth.
-
-Default pathways.
+ Asset volatility. Liquidity depth. Default pathways.
 
 Recovery probabilities.
 

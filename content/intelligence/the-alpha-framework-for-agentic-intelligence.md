@@ -118,10 +118,7 @@ This allows us to provide asset based Capital Structuring lines that feel predic
 Collateral volatility is anticipated. 
 Liquidity is pre-positioned. 
 
-HNWI and UHNW clients use this to orchestrate larger plays. 
-Portfolio expansion. 
-Leverage stacking. 
-Credit rotation. 
+HNWI and UHNW clients use this to orchestrate larger plays.  Portfolio expansion. Leverage stacking. Credit rotation. 
 
 All without the drag that traditional lenders impose. 
 
@@ -182,10 +179,7 @@ Our focus is entirely on structural mechanics.
 The systems behind institutional behaviour. 
 The liquidity dynamics that drive autonomous capital. 
 
-This is the F Hierarchical Dynamics. 
-Silent authority. 
-No noise. 
-Only structure. 
+This is the F Hierarchical Dynamics.  Silent authority. No noise. Only structure. 
 
 ## The Next Evolution: Multi Agent Capital Systems
 

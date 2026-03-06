@@ -71,10 +71,7 @@ Unreconciled accounts.
 Improvised vendor agreements. 
 Arbitrary cash management. 
 No functional governance. 
-No covenant literacy. 
-No institutional alignment.
-
-Operators operate. 
+No covenant literacy. No institutional alignment. Operators operate. 
 They do not architect.
 
 This gap creates a signal failure.
@@ -386,10 +383,7 @@ Agentic systems enforce conformity without emotional variance.
 Covenant stewardship ensures the capital is used faithfully. 
 Execution velocity ensures no opportunity decays.
 
-This is the Roials-Alpha operating cycle. 
-High integrity. 
-High discipline. 
-High velocity.
+This is the Roials-Alpha operating cycle.  High integrity. High discipline. High velocity.
 
 # The Principal Stance
 

@@ -100,10 +100,7 @@ Enforces structural confidentiality.
 
 ### Layer 5: Institutional Settlement Fabric
 
-Ensures settlement occurs across clean, institution-grade rails. 
-No friction. 
-No noise. 
-No uncertainty.
+Ensures settlement occurs across clean, institution-grade rails.  No friction. No noise. No uncertainty.
 
  
 
@@ -156,10 +153,7 @@ The infrastructure itself generates alpha because it removes friction from every
  
 
 This is the design principle behind Roials Alpha.
-
-Remove friction. 
-Increase velocity. 
-Enhance control.
+ Remove friction. Increase velocity. Enhance control.
 
 ## The Future: Agentic Infrastructure as the Standard for Private Credit
 

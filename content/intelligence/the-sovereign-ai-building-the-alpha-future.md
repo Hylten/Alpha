@@ -98,10 +98,7 @@ They are leverage multipliers.
 The ones who understand that AI is not automation. 
 It is sovereignty. 
 
-We build architectures that operate for you. 
-Without noise. 
-Without delay. 
-Without compromise. 
+We build architectures that operate for you.  Without noise. Without delay. Without compromise. 
 
 ## The Invitation
 

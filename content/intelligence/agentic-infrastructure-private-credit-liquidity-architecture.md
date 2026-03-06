@@ -146,10 +146,7 @@ This is the architecture of the next financial decade.
 ---
 
 The future of private credit is a triad:
-
-Agentic underwriting. 
-Autonomous liquidity. 
-Sovereign infrastructure.
+ Agentic underwriting. Autonomous liquidity. Sovereign infrastructure.
 
 Families who adopt this triad gain control of velocity, not just yield. They operate faster. They execute cleaner. They win deals others never see. They compress risk others cannot measure. They build institutional muscle others cannot copy.
 

@@ -36,13 +36,7 @@ Complex M&A is never linear.
 There are always layers.
 
  
-
-Regulatory constraints. 
-Jurisdictional inconsistencies. 
-Counterparty opacity. 
-Collateral fragmentation. 
-Solvency distortion. 
-Timing misalignment. 
+ Regulatory constraints. Jurisdictional inconsistencies. Counterparty opacity.  Collateral fragmentation. Solvency distortion. Timing misalignment. 
 
  
 Most lenders only understand single‑vector underwriting.

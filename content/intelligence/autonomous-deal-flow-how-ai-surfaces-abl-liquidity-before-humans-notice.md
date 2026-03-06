@@ -135,10 +135,7 @@ Crypto collateral above 2,000,000.
 Public share blocks above 5,000,000. 
 
  
-
-Engineered precision. 
-Silent authority. 
-Institutional mechanics. 
+ Engineered precision. Silent authority. Institutional mechanics. 
 
  
 

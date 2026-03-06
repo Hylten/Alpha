@@ -313,12 +313,7 @@ It means the client experiences capital as a living system.
 This is the natural endpoint of AI driven Asset-Based Lending.
 
 This is the direction Roials-Alpha is driving the market.
-
-Not speculative.
-
-Not hypothetical.
-
-Already operational.
+ Not speculative. Not hypothetical. Already operational.
 
 ## Final Position, Silent Authority in a Noisy Market
 

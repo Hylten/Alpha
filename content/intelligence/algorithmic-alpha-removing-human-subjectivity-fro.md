@@ -356,12 +356,7 @@ From drift to disciplined stewardship.
 Human subjectivity will not vanish, but it will no longer hold authority over credit allocation. Authority shifts to objective covenant execution measured by algorithmic logic.
 
 This is the future of private credit.
-
-Not intuition.
-
-Not relationships.
-
-Not persuasion.
+ Not intuition. Not relationships. Not persuasion.
 
 Architecture.
 

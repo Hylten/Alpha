@@ -43,10 +43,7 @@ A Principal does not convene committees to distribute blame.
 
 The stack embodies that ethic.
 
-Machine gun clarity:  
-No waiting.  
-No politics.  
-No hesitation.  
+Machine gun clarity:   No waiting. No politics. No hesitation.  
 No drift.
 
 What emerges is not “automation” in the shallow sense. It is sovereignty in computational form.

@@ -83,10 +83,7 @@ The difference is not incremental. It is categorical.
 
 Agentic credit architectures use reinforcement learning to model collateral resilience under thousands of micro-scenarios-supply chain shocks, price volatility, geopolitical pressures, counterparty risk cascades. Each scenario informs the liquidity envelope.
 
-The envelope adjusts automatically. 
-No meetings. 
-No committees. 
-No lag.
+The envelope adjusts automatically.  No meetings. No committees. No lag.
 
 Liquidity matches asset truth. Asset truth updates continuously.
 
@@ -122,10 +119,7 @@ The future of asset-based lending is not digital transformation. It is not cloud
 
 Agentic systems function as institutional extensions of the principal. They embody the mental models of an INTP architect. Pattern first. Structure second. Execution third. They think in networks. They operate in logic bursts. They recode the credit ecosystem in real time. They eliminate friction by design.
 
-Three to five word bursts. 
-Cold logic. 
-Zero drift. 
-Precision everywhere. 
+Three to five word bursts.  Cold logic. Zero drift. Precision everywhere. 
 No wasted motion. 
 
 This is principal-grade intelligence.

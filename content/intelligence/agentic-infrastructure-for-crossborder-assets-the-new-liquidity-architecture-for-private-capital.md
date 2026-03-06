@@ -220,10 +220,7 @@ They do not wait for manual verification cycles.
 
  
 Liquidity is the real competitive advantage. 
-Not just having liquidity, but commanding it. 
-On demand. 
-Across borders. 
-Across structures. 
+Not just having liquidity, but commanding it.  On demand. Across borders. Across structures. 
 Across asset classes.
 
  
@@ -320,10 +317,7 @@ Agentic infrastructure fills the gap.
 It is the operating system for a world where wealth is mobile, border‑agnostic, and opportunity‑driven.
 
  
-Roials‑Alpha provides the mechanics. 
-The intelligence. 
-The automation. 
-The discipline.
+Roials‑Alpha provides the mechanics.  The intelligence. The automation. The discipline.
 
  
 Silent authority powering global liquidity.

@@ -227,10 +227,7 @@ The result is a self-optimizing liquidity organism.
 ## Institutional Mechanics, Private Domain
 
 Institutional capital structures were never designed for private families. 
- 
-Too rigid. 
-Too bureaucratic. 
-Too exposed. 
+  Too rigid. Too bureaucratic. Too exposed. 
 
 Roials-Alpha transplantes institutional mechanics into the private domain with three requirements: 
  

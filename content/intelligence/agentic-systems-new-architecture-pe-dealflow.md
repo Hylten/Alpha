@@ -33,9 +33,7 @@ Agents capture signals at speed.
 Agents decompose targets. 
 Agents score risk instantly. 
 Agents generate ready‑review briefs. 
-Agents triage misalignment. 
-Agents escalate anomalies. 
-Agents learn.
+Agents triage misalignment. Agents escalate anomalies. Agents learn.
 
 Machine gun sentences. 
 Sharp. 
@@ -45,10 +43,7 @@ Because speed is a fiduciary duty.
 
 The architecture of agentic PE revolves around four layers.
 
-Layer 1. Signal Ingestion. 
-Market feeds. 
-Registry updates. 
-Operational telemetry. 
+Layer 1. Signal Ingestion.  Market feeds. Registry updates. Operational telemetry. 
 Macro overlays. 
 Regulatory notices. 
 Asset performance crawlers. 
@@ -82,10 +77,7 @@ Tax engines run cross-jurisdictional optimizations.
 Output: ready-for-principal risk geometry.
 
 Layer 4. Execution Readiness. 
-Term-sheet drafting. 
-Valuation deltas. 
-Negotiation branches. 
-Closing checklists. 
+Term-sheet drafting.  Valuation deltas. Negotiation branches. Closing checklists. 
 Compliance scaffolding. 
 All presented as institutional-grade deliverables. 
 No intern needed. 
@@ -105,9 +97,7 @@ Private credit firms benefit similarly. Underwriting becomes a computational rit
 Institutional Liquidity Paths becomes programmable. 
 Cashflow corridors become visible. 
 Covenants become living constraints. 
-Capital efficiency increases. 
-Loss ratios shrink. 
-Speed compounds.
+Capital efficiency increases. Loss ratios shrink. Speed compounds.
 
 Nothing about this removes human authority. It removes human friction. Principals regain strategic bandwidth. They act at the level of institutional intent. Not operational congestion.
 
@@ -151,20 +141,14 @@ Institutionalize the principal’s mind.
 Mandate Three. Weaponize data asymmetry. 
 Obscure acquisition signals. 
 Capture unlisted opportunities. 
-Track distressed cycles. 
-Interrogate counterparties silently.
-
-Mandate Four. Build sovereign systems. 
+Track distressed cycles. Interrogate counterparties silently. Mandate Four. Build sovereign systems. 
 Own the infrastructure. 
 Don’t rent it. 
 Limit external dependencies. 
 Maintain confidentiality. 
 Preserve edge.
 
-Mandate Five. Operate at strategic altitude. 
-Principals decide. 
-Agents execute. 
-Boundaries clear. 
+Mandate Five. Operate at strategic altitude.  Principals decide. Agents execute. Boundaries clear. 
 Authority firm. 
 Outcomes consistent.
 

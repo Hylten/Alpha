@@ -36,10 +36,7 @@ Silent authority is our operating signature.
 
 ## The New Liquidity Standard for GPs
 
-The private markets are drowning in trapped value. 
-Unmodeled value. 
-Unpriced value. 
-Unactivated value.
+The private markets are drowning in trapped value.  Unmodeled value. Unpriced value. Unactivated value.
 
  
 

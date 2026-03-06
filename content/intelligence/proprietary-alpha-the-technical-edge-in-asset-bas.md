@@ -54,10 +54,7 @@ They convert institutional expectations into operational discipline.
 ## Asset Based Finance as a Sovereign Discipline
 
 Asset based finance is the most honest corner of private credit.
-
-No narrative. 
-No speculation. 
-Only collateral. 
+ No narrative. No speculation. Only collateral. 
 Only verifiable transaction logic.
 
 A Christian conservative lens reinforces this. 
@@ -315,10 +312,7 @@ Silence is strategy.
 
 Proprietary alpha inside Roials-Alpha is not accidental. 
 It is engineered through conviction, discipline, and covenant stewardship.
-
-Algorithmic origination. 
-Asset hardening. 
-Execution velocity. 
+ Algorithmic origination. Asset hardening. Execution velocity. 
 Institutional readiness. 
 Spiritual integrity.
 

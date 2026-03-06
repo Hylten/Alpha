@@ -133,10 +133,7 @@ Liquidity anticipates them.
 Risk controls in agentic Asset-Backed Frameworks environments behave differently.
 
 They are not rules. 
-They are agents. 
-Self updating. 
-Self optimizing. 
-Self defending.
+They are agents.  Self updating. Self optimizing. Self defending.
 
 Key functions:
 

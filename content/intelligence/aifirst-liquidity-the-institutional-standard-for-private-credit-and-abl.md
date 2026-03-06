@@ -154,12 +154,7 @@ Larger collateral positions produce cleaner data.
 Clean data produces stronger liquidity engines. 
 
 Roials-Alpha intentionally focuses on HNWI and UHNW clients because the asset structures in this range yield higher computational fidelity. 
-
-Better data. 
-
-Better models. 
-
-Better liquidity. 
+ Better data. Better models. Better liquidity. 
 
 ## Silent Authority: The F-Hierarchical Dynamics
 

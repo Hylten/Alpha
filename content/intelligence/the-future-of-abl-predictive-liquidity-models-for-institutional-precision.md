@@ -144,12 +144,7 @@ Predictive liquidity models become exponentially more powerful when automated by
 Roials-Alpha uses layered agentic infrastructure to interpret collateral behavior as a continuous signal.
 
 The Monetization Architecture facility becomes a living system.
-
-It acts.
-
-It adapts.
-
-It forecasts.
+ It acts. It adapts. It forecasts.
 
 Agentic credit removes human latency from the equation.
 

@@ -115,10 +115,7 @@ When the engine sees degradation, terms widen. When clarity returns, terms narro
 The Human Question  
 Where do humans sit inside this system? Not in underwriting. Not in monitoring. Not in drafting. Those layers move too fast and dislike human latency.
 
-Humans sit at the edges.  
-Direction setting.  
-Exception handling.  
-Strategic judgment.  
+Humans sit at the edges.   Direction setting. Exception handling. Strategic judgment.  
 Relationship stewardship.
 
 But not inside the engine. The engine must remain pure: Data → Truth → Structure → Execution.

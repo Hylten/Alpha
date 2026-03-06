@@ -130,10 +130,7 @@ THE HARD TRUTH
 Family offices lose advantage not because they lack capital, but because their decision pathways are archaic. Slowed by meetings. Slowed by intermediaries. Slowed by unclear intelligence. Every layer of interpretation adds drag. Every layer of human processing adds bias. Every manual task compounds delay.
 
 The institutions already know this. Which is why institutional capital execution is moving toward agentic frameworks and away from fixed human workflows. Family offices must follow-not out of imitation, but out of necessity. And because the opportunity is larger for those who move first.
-
-Use agents.  
-Protect attention.  
-Guard bandwidth.  
+ Use agents. Protect attention. Guard bandwidth.  
 Deploy without hesitation.
 
 A short cadence again.

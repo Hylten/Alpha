@@ -7,10 +7,7 @@ slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
 ---
 
 The intelligence is simple: capital instruments compete, and only an autonomous system can arbitrate competition at the velocity the modern market requires. Human hands cannot keep pace. Human committees certainly cannot. But an AI-first architecture can interpret the global capital stack as a living organism-reactive, fluid, and self-adjusting.
-
-Private credit.  
-Venture debt.  
-Structured notes.  
+ Private credit. Venture debt. Structured notes.  
 Three pillars. One engine.
 
 The arbitration layer decides. Fast. Precise. Ruthless in its efficiency.

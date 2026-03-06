@@ -111,16 +111,7 @@ This is the future.
 
 THE ELIMINATION OF HUMAN FRICTION
 Human friction is the first enemy of liquidity. Humans slow deal flow. Humans negotiate poorly. Humans misjudge. Humans error‑correct too late. Roials-Alpha builds a zero-friction model. Machine gun decisions. Short sentences. Hard edges.
-
-Deal loads. 
-Engine evaluates. 
-Collateral binds. 
-Liquidity fires. 
-Execution finalizes. 
-Capital deployed. 
-No hesitation. 
-No drift. 
-No failure.
+ Deal loads. Engine evaluates. Collateral binds.  Liquidity fires. Execution finalizes. Capital deployed.  No hesitation. No drift. No failure.
 
 This pace creates a velocity advantage that compounds over time. Families running legacy family offices will fall behind. Families operating institutional architectures will advance. Those who deploy AI-first liquidity systems will dominate multigenerational wealth cycles.
 

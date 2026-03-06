@@ -182,11 +182,7 @@ Jurisdiction is not a choice. It is a weapon. Agentic architecture models cross�
 • Energy‑sector carve‑outs 
 
 M&A liquidity flows must avoid regulatory choke points. Agentic systems detect these choke points weeks or months before traditional counsel does. They simulate multi‑jurisdictional execution paths and select the route of least exposure with the highest delta.
-
-Humans analyze. 
-Machines forecast.
-
-Humans react. 
+ Humans analyze. Machines forecast. Humans react. 
 Machines pre‑position.
 
 The advantage compounds.
