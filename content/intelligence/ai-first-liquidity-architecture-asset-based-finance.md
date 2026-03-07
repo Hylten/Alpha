@@ -13,7 +13,8 @@ The structural gap in asset-based finance in 2026 is not a function of capital s
 
 Asset-based finance is entering a regime where algorithmic appraisal, continuous collateral monitoring, and AI-native credit architectures form the new institutional baseline. For HNWI and UHNW allocators, the inflection is not the introduction of new assets. The inflection is the introduction of new intelligence systems that remove friction from origination, underwriting, and enforcement. The result is a redesigned credit ecosystem where capital deployment becomes an engineered workflow rather than a negotiation driven by manual interpretation.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Private credit has expanded faster than the governance systems that support it. Traditional underwriting follows linear processes, batch data reviews, and subjective analyst interpretation. These constraints create the following structural issues.
 
@@ -31,7 +32,8 @@ The macro shift toward AI-first architectures is driven by allocators requiring 
 
 These requirements are not satisfied by incumbent lending systems. The vacuum has created a multi trillion dollar opportunity for AI-first private credit platforms to redefine how collateralized capital flows through the economy.
 
-PHASE 2: TECHNICAL MECHANICS OF AI-FIRST ASSET BASED FINANCE
+
+ TECHNICAL MECHANICS OF AI-FIRST ASSET BASED FINANCE
 
 An AI-first credit architecture restructures the entire lending workflow. It does not automate legacy systems. It replaces them. The mechanics revolve around four domains.
 
@@ -75,7 +77,8 @@ Cash flow management is redesigned to prioritize systemic stability. AI orchestr
 
 This architecture ensures that capital is not only protected but also positioned within a controlled liquidity framework engineered for institutional predictability.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator for HNWI and UHNW allocators requiring clarity within this evolving landscape. The firm aligns allocators with AI-first credit infrastructures that match their institutional archetypes and liquidity mandates. This includes:
 

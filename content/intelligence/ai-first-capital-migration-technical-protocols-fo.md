@@ -142,9 +142,6 @@ Migration becomes continuous rather than episodic.
  
 # 6. Global Wealth Migration Archetypes
 
-Three archetypes dominate the current epoch.
-
- 
 ## 6.1. The Static Holder
 
 This archetype trusts familiarity more than intelligence. Their capital presence is heavy. They move slowly. Their structures are outdated. They are locked inside legacy systems that no longer interface efficiently with modern liquidity.
@@ -230,8 +227,6 @@ Execution velocity is not speed.
 It is synchronized precision.
 
 Agentic systems evaluate, decide, and route capital within compressed time cycles.
-
-Three velocity drivers govern the system.
 
 1. **Automated covenant checks** 
  Continuous validation ensures no transaction enters conflict posture.

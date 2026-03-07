@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The structural dislocation in global capital markets is no longer defined by interest rate regimes or political oscillation. The dominant force is computational asymmetry. The entities that control the velocity, accuracy, and interpretive intelligence of data - not the volume of capital - are shaping the forward yield architecture across private credit, industrial M&A, and North American energy. The capital vacuum widening between traditional discretionary teams and AI accelerated institutional archetypes is not a function of macro risk. It is a function of bandwidth. Human decision cadence cannot match the compound acceleration of sovereign scale AI models operating inside constrained, data rich asset classes.
 
-PHASE 1: THE REGIME SHIFT
 
-A multi decade financial regime built around discretionary analysts, relationship driven deal sourcing, and timeline heavy due diligence is being replaced by computational sovereignty. The shift is structural and irreversible because the friction profile has changed. Three forces drive the transformation.
+ THE REGIME SHIFT
 
-1. Data compression.  
+A multi decade financial regime built around discretionary analysts, relationship driven deal sourcing, and timeline heavy due diligence is being replaced by computational sovereignty. The shift is structural and irreversible because the friction profile has changed. 1. Data compression.  
 Proprietary data from private credit, collateralized energy assets, supply chain cash flows, and operator level financials is no longer stored across disconnected formats. Unified data stacks convert multi year analyst cycles into real time pattern recognition.
 
 2. Decision latency collapse.  
@@ -26,7 +25,8 @@ The most persistent inefficiencies in North America's energy market arise from r
 
 The regime shift is therefore not an incremental improvement to the legacy model. It is a redefinition of institutional workflow. The allocator who operates without computational superiority faces a widening disadvantage because the market no longer rewards slow precision. It rewards algorithmic velocity coupled with structural discipline.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The architecture of Sovereign AI within the capital markets requires three anchor systems: algorithmic deal flow, AI first credit modeling, and computational balance sheet optimization. Each subsystem operates independently yet compounds when fully integrated.
 
@@ -63,7 +63,8 @@ Balance sheets are static only in legacy finance. Sovereign AI implements a dyna
 
 The system identifies the most efficient configuration at any moment. This is liquidity engineering at computational scale. It aligns capital with operational truth rather than sentiment or inertia.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator, not a manager of assets and not a counterparty to the allocator. The objective is to create institutional alignment between sophisticated capital and operational intelligence networks. When the landscape intersects with North American energy, the technical partnership with NAEO provides field depth, reservoir analytic capability, and on the ground operational insight that pairs directly with the computational layer.
 

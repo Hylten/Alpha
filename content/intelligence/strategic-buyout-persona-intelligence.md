@@ -15,7 +15,8 @@ The capital regimes of 2026 prioritize precision over scale. The funds and famil
 
 The following briefing outlines the regime shift, the technical mechanics, the strategic architecture, the stewardship filter, and a formal decision lens for allocators evaluating the operational maturity of buyout platforms.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current buyout market operates within a liquidity environment shaped by three forces. First is the contraction of traditional credit channels. Banks have shortened duration and tightened covenants, creating a bottleneck for mid market and sub institutional buyers. Second is the surge in owner fatigue among operators aged forty five to seventy five. This demographic pressure increases supply but introduces behavioral volatility. Third is the accelerated professionalization of private credit funds, resulting in faster underwriting timelines and a preference for counterparty predictability.
 
@@ -25,7 +26,8 @@ The central inefficiency arises outside of capital itself. It is a navigation pr
 
 Strategic Buyout Persona Intelligence addresses this inefficiency by providing a standardized taxonomy of seller and buyer profiles, enabling predictive alignment of structure, speed, and communication. The allocators who integrate persona level mapping into their acquisition infrastructure experience lower variance, higher opportunity velocity, and significantly reduced operational drag.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Persona Intelligence is a quantitative discipline anchored in data layers, structural modeling, and behavioral pattern extraction. The following mechanics define the architecture.
 
@@ -46,7 +48,8 @@ Persona data integrates into KYC and compliance layers to predict document frict
 
 These mechanics create a behavioral operating system that sits between underwriting and negotiation. It is not persuasion. It is structural alignment.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 ROIALS CAPITAL operates as a structural architect and institutional navigator in this environment. The operational model focuses on integrating persona intelligence with algorithmic deal flow and AI first credit architecture. The objective is to eliminate human friction, stabilize execution, and provide allocators with a consolidated intelligence layer that improves decision quality.
 

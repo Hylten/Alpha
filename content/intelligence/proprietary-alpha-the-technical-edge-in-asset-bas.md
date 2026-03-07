@@ -94,8 +94,6 @@ No third party gatekeepers.
 
 This preserves sovereignty.
 
-Three algorithmic engines carry the load.
-
 1. Origin Engine. 
 Identifies mispriced collateral signals. 
 Captures early liquidity pockets in crypto, public shares, and private inventory. 
@@ -137,8 +135,7 @@ Not attached afterward.
 In a Christian conservative framework, a covenant is not a metaphor. 
 It is a responsibility that binds the principal to a higher standard.
 
-Covenant stewardship inside Roials-Alpha reflects three truths.
-
+Covenant stewardship inside Roials-Alpha reflects 
 1. Capital must be guarded. 
 2. Every borrower relationship is a trust. 
 3. Every institutional mandate is sacred.
@@ -158,8 +155,7 @@ The market rewards those who move before the window collapses.
 Execution velocity is not emotional speed. 
 It is engineered speed.
 
-Latency is removed at four points.
-
+Latency is removed at 
 1. Pre verified collateral logic. 
 2. Automated risk compression. 
 3. Instant covenant calculation. 
@@ -242,8 +238,7 @@ This environment rewards technical intelligence, not sentiment.
 Listed securities offer transparency. 
 They also offer volatility.
 
-Proprietary alpha here emerges through three factors.
-
+Proprietary alpha here emerges through 
 1. Pricing engines. 
 2. Liquidity mapping. 
 3. Execution timing before market participants reposition.

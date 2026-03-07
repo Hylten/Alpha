@@ -13,7 +13,8 @@ The capital vacuum defining the 2026 private credit landscape is not the result 
 
 The transition is accelerating because the traditional private credit architecture was never designed for the current velocity of asset level data. Underwriting cycles of 60 to 120 days, partner committees, and document heavy closings built for the 1990s cannot keep pace with real time telemetry from machinery, production assets, land systems, collateral sensors, and supply chain monitoring tools. The result is a structural wedge between asset performance and capital access. Autonomous asset finance closes that wedge through a rules based ecosystem where capital moves on validated signals rather than on human interpretation.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The macro environment is defined by three converging pressures:
 
@@ -25,7 +26,8 @@ The macro environment is defined by three converging pressures:
 
 These three pressures created a new structural regime: assets capable of producing continuous data are not adequately financed because human mediated underwriting cannot metabolize those data flows at institutional speed. This is the regime shift driving autonomous asset finance.
 
-PHASE 2: TECHNICAL MECHANICS OF AUTONOMOUS ASSET FINANCE
+
+ TECHNICAL MECHANICS OF AUTONOMOUS ASSET FINANCE
 
 Autonomous asset finance is not a marketing category. It is a combination of five technical pillars that together create a closed loop credit system with minimal human friction.
 
@@ -71,7 +73,8 @@ Smart contract logic ensures that cash flows distribute automatically to the cor
 
 Automation eliminates reconciliation risk and shortens reporting cycles. For UHNW and institutional allocators, this provides operational clarity that is normally absent in private credit vehicles.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator connecting allocators to the highest fidelity autonomous finance architectures and ensuring alignment with institutional standards. The role is not to originate, manage, or market credit transactions. The role is to introduce allocators to ecosystems where autonomous underwriting, algorithmic decision engines, and real asset intelligence are already fully operational.
 

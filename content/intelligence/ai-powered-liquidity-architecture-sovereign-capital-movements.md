@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asse
 
 The capital vacuum in global liquidity markets is a direct output of technological asymmetry rather than a shortage of institutional capital. The gap has widened as sovereign allocators and multi jurisdictional family offices face structural delays in transitioning from human driven workflows to AI structured balance sheet mobility. The result is a widening dispersion between assets capable of absorbing sovereign scale capital and intermediaries able to deliver the necessary velocity and compliance precision.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The global financial system in 2026 is defined by three convergent regime shifts.
 
@@ -26,7 +27,8 @@ Systematic allocators have digitized market making, but private credit, infrastr
 
 Sovereign investors seek predictable transmission channels. Most intermediaries still operate on manual timelines incompatible with modern liquidity requirements. This is the institutional gap that AI powered liquidity architecture resolves.
 
-PHASE 2: TECHNICAL MECHANICS OF AI MEDIATED LIQUIDITY ARCHITECTURE
+
+ TECHNICAL MECHANICS OF AI MEDIATED LIQUIDITY ARCHITECTURE
 
 The architecture required to move institutional scale capital across jurisdictions must integrate four mechanical components.
 
@@ -44,7 +46,8 @@ Institutional allocators require structures that reduce drag. AI driven optimiza
 
 The AI architecture serves a singular function. It converts traditionally slow moving institutional processes into a synchronized and auditable liquidity system capable of handling sovereign grade capital movement with reduced operational friction.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator. The mandate is not distribution. The mandate is structural alignment and precision of institutional introduction.
 

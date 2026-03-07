@@ -70,8 +70,6 @@ This is where algorithmic discipline becomes more conservative than any human co
 
 ## Roials-Alpha: The Technical Spine
 
-Three internal systems drive the architecture.
-
 All proprietary.
 
 All created for principal-grade execution.

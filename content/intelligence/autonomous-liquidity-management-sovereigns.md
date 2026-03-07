@@ -13,7 +13,8 @@ The capital vacuum in North America’s energy sector is a regulatory artifact, 
 
 Sovereign institutions seeking autonomous liquidity frameworks are increasingly moving toward self-regulating capital architectures supported by algorithmic credit engines, real asset collateralization, and automated risk stratification. This briefing outlines how these systems are constructed, how they interface with heavy oil and conventional production in Alberta, and how strategic partners such as NAEO provide institutional grade operational clarity for allocators who require predictable decline physics and transparent cash-flow structures.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Sovereigns navigating North America’s capital stack today face three interacting macro forces.
 
@@ -27,7 +28,8 @@ Autonomous liquidity systems are not a theoretical construct. They represent the
 
 The shift resembles a transition from passive reserve management to an active liquidity architecture grounded in resource backed instruments and automated credit issuance. The energy sector, particularly heavy oil in Alberta, provides one of the most stable collateral classes for such systems due to predictable reservoir physics, disciplined production decline behavior, and the presence of operators like NAEO who maintain institutional grade reporting and operational governance.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Autonomous liquidity management requires a fusion of sovereign level credit architecture and hard asset anchoring. The mechanics fall into four primary domains.
 
@@ -61,7 +63,8 @@ Autonomous systems increase the speed at which capital can be mobilized. Traditi
 
 The Alberta basin amplifies this capability because operators like NAEO maintain granular data on steam chamber propagation, reservoir conformance, and long term operational integrity. This level of operational intelligence is ideal for sovereign AI credit architectures that depend on high signal to noise data streams.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator within this ecosystem. The role is not capital deployment. The role is structural interpretation and institutional introduction. Sovereign allocators require clarity on three areas:
 

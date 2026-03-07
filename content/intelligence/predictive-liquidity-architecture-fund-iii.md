@@ -60,7 +60,6 @@ ANCHOR: SYNTHETIC FORWARD COVENANTS
 
 Traditional covenants are blunt instruments. They rely on reporting cycles, human interpretation, and backward‑dated inputs. Synthetic forward covenants remove the lag. They produce event‑driven thresholds that enforce themselves through automated liquidity locks, margin expansions, and dynamic rate resets.
 
-Three categories define the next generation:
 
 • Latency Covenants 
 Triggered when operational throughput deviates from predictive bands. 
@@ -110,7 +109,6 @@ THE EMERGENCE OF LIQUIDITY BANDS
 
 Institutional precision requires a dynamic liquidity model, not a static credit line. Liquidity Bands define the new Asset-Based Lending structure. These are adaptive corridors that expand or contract based on real‑time asset intelligence.
 
-Five bands define Fund-III architecture:
 
 Band 1: Base liquidity floor 
 Band 2: Performance‑driven expansion 

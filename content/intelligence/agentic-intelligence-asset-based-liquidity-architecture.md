@@ -119,7 +119,7 @@ The future of asset-based lending is not digital transformation. It is not cloud
 
 Agentic systems function as institutional extensions of the principal. They embody the mental models of an INTP architect. Pattern first. Structure second. Execution third. They think in networks. They operate in logic bursts. They recode the credit ecosystem in real time. They eliminate friction by design.
 
-Three to five word bursts.  Cold logic. Zero drift. Precision everywhere. 
+Cold logic. Zero drift. Precision everywhere. 
 No wasted motion. 
 
 This is principal-grade intelligence.

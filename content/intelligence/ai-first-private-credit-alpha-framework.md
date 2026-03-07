@@ -44,7 +44,7 @@ Recovery curve check.
 Cashflow realism check.
 Borrower entropy check.
 
-Three to five words per filter. Precision. Action. No filler. No drift. If a deal survives the gauntlet, it becomes actionable collateral. If not, it is expelled without debate. The system does not negotiate.
+Precision. Action. No filler. No drift. If a deal survives the gauntlet, it becomes actionable collateral. If not, it is expelled without debate. The system does not negotiate.
 
 Once validated, the real engineering begins: liquidity routing. Most private credit firms deploy capital linearly. One lender. One borrower. One structure. Inefficient. The Alpha Framework atomizes liquidity. Senior tranche. Sub line. Collateral swap. Over‑collateral buffer. Reserve waterfall. Enforcement covenant grid. Each mechanic is parameterized. AI configures structures according to enforcement probability, asset class behavior, and allocator risk appetite.
 

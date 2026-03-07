@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America's energy sector is a function of regulatory drift rather than resource scarcity. This structural dislocation has created an environment where algorithmic credit engines and AI anchored origination systems materially outperform legacy manual underwriting models. The institutional allocator navigating this landscape is confronted with two overlapping regime shifts: the mechanization of private credit workflows and the recalibration of heavy oil asset valuation in Alberta as operational physics take priority over policy speculation.
 
-PHASE 1: THE REGIME SHIFT
 
-The current institutional environment reflects a departure from traditional capital formation norms. Three converging forces define the regime shift.
+ THE REGIME SHIFT
 
-1. Capital scarcity in operationally derisked real assets.  
+The current institutional environment reflects a departure from traditional capital formation norms. 1. Capital scarcity in operationally derisked real assets.  
 2. The rise of machine mediated decision systems that compress evaluation time and eliminate discretionary drift.  
 3. A supply demand imbalance in North American energy fed by underinvestment, ESG constrained capital pools, and regulatory latency.
 
@@ -23,7 +22,8 @@ Private credit markets are absorbing the overflow created by constrained bank le
 
 In Alberta's heavy oil domain, the market remains fundamentally mispriced. The physics of reservoir behavior, particularly in SAGD and CSS operations, provide predictable decline curves and repeatable recovery profiles. This predictability has been systematically overlooked due to macro narratives that fail to incorporate sub surface mechanical realities. The disconnect between factual reservoir performance and capital allocation trends creates an environment where informed actors with real time operational intelligence gain structural advantage. 
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The institutional allocator requires a clear understanding of the operative mechanics driving value in both energy assets and private credit systems. Technical precision replaces thematic speculation.
 
@@ -53,7 +53,8 @@ Our strategic partner, NAEO, integrates real time field operations with AI based
 
 The result is Asset Hardening. Production predictability increases. Downtime decreases. Reservoir stability improves. The asset transitions from a commodity exposure to a repeatable cash flow organism.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator and institutional introducer. The objective is not to promote a transaction but to align institutional capital with structurally intelligent opportunities where operational physics, credit engineering, and AI based oversight create asymmetry.
 

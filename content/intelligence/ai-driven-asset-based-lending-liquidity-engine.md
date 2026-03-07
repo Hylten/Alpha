@@ -61,7 +61,6 @@ PHASE 3. THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator for this credit category. The mandate is institutional alignment, not balance sheet ownership. The objective is to provide operational intelligence to UHNWIs, family offices, and private credit allocators who require precision entry points into emerging asset classes without speculative exposure.
 
-Three points define the interface:
 
 1. Architecture Mapping 
 Roials Capital evaluates the suitability of AI driven Asset-Based Lending frameworks for each enterprise class. This includes receivable construction, contract structure, data integrity, and operational scalability.

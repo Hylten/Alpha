@@ -20,7 +20,8 @@ A third: Remove the blind zone.
 
 Now the deeper structure.
 
-PHASE 1: THE INTERNAL LOGIC  
+
+ THE INTERNAL LOGIC  
 The internal vault runs a dual-index methodology. Behavioral vectors and semantic vectors. Each index is independently rigorous, but the compound signal is where the true predictive capability lives.
 
 Behavioral indexing maps what humans do.  
@@ -47,7 +48,8 @@ The Identity Continuity Layer analyzes narrative cohesion across long-form commu
 
 This is Key Person Risk divorced from folklore and anchored in machine analysis.
 
-PHASE 2: PRINCIPAL VOICE  
+
+ PRINCIPAL VOICE  
 A Principal states the truth without performance. So I state it plainly.
 
 You cannot run a modern enterprise on hope.  
@@ -65,7 +67,8 @@ The human core either maintains integrity under load or it does not. A failure c
 
 The Protestant ethic of value creation applies even here. Discipline. Duty. Structure. Performance through clarity. Never mysticism.
 
-PHASE 3: INTERNAL BYPASS-THE VARIATION OF SYNTAX  
+
+ INTERNAL BYPASS-THE VARIATION OF SYNTAX  
 Now I shift the pacing.
 
 Sharp line: Leaders leak signal.  

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capi
 
 The capital vacuum across emerging markets is a structural consequence of informational asymmetry, not asset scarcity. The delta between available productive assets and bankable credit profiles has widened to its largest point since post Basel III adjustments. This gap has created an opening for AI driven Asset-Based Lending frameworks to operate as the silent infrastructure layer that allocators increasingly recognize as foundational to future global liquidity systems. 
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 Private credit has entered a phase where balance sheet capacity is no longer the binding constraint. Data scarcity, risk opacity, and verification friction define the new frontier. Traditional underwriting frameworks built on manual diligence cycles cannot scale into frontier environments where collateral verification, operational authenticity, and recovery mapping require real time intelligence rather than static reporting. Emerging markets contain the highest concentration of under leveraged hard assets relative to GDP. These include inventory systems, receivable books, industrial equipment, logistics chains, agricultural storage, and pre export contract flows. Yet more than 60 percent of these assets remain outside institutional lending channels due to documentation fragmentation and evidence risk. 
 
 AI first credit architecture reverses this dynamic. 
@@ -20,7 +21,8 @@ Instead of treating underwriting as a linear process, algorithmic Asset-Based Le
 
 This is the structural regime change. Not the rise of AI as a convenience tool, but the recognition that without AI generated data coherence, frontier Asset-Based Lending would remain permanently sub institutional. The liquidity gap is therefore a data gap. Once data fidelity is engineered, private credit supply accelerates. 
 
-PHASE 2: TECHNICAL MECHANICS OF AI DRIVEN Asset-Based Lending 
+
+ TECHNICAL MECHANICS OF AI DRIVEN Asset-Based Lending 
 Institutional Asset-Based Lending requires three core pillars. 
 - Precision collateral mapping. 
 - Dynamic credit scoring. 
@@ -58,7 +60,8 @@ Instead of assuming recovery, the system models it with probabilistic precision.
 THE EMERGING MARKET COLLATERAL PARADOX 
 The paradox is clear. The regions with the largest concentration of underutilized collateral also contain the highest legacy friction. AI first credit infrastructure resolves the paradox and converts non bankable assets into institutional grade Asset-Based Lending channels. 
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital operates as a strategic navigator connecting allocators with AI driven Asset-Based Lending architectures engineered for scale and institutional clarity. The role is not to assume credit exposure but to align decision makers with the operational intelligence required to evaluate frontier collateral systems. 
 
 The integration model functions on three axes. 

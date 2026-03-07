@@ -13,7 +13,8 @@ The structural gap emerging between human paced capital deployment and algorithm
 
 This briefing outlines the transition toward agentic deal systems designed to operate with institutional precision. The objective is to create clarity for allocators seeking to understand the mechanics, risk profile, and structural advantages of AI first credit infrastructures. Roials Capital approaches this topic as a strategic navigator that provides alignment, not solicitation, and positions the role of institutional partners as essential contributors to the ecosystem of high velocity capital deployment.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 North American private credit is entering a post human cycle. The industrial era of pipelines, intermediaries, and slow cycle loan structuring is giving way to an analytics driven liquidity environment where transaction readiness is defined by compute, not headcount. The regime shift is produced by three interacting forces:
 
@@ -28,7 +29,8 @@ Agentic systems capable of analyzing collateral stacks, borrower covenants, reve
 
 The allocator landscape is adjusting. UHNW and HNW families increasingly require institutional grade underwriting architectures without adopting institutional scale overhead. Agentic liquidity engines provide this alignment by offering real time screening, scenario analysis, and precision sizing of capital tranches.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 High frequency liquidity structuring leverages three principal mechanisms. Each element operates autonomously yet integrates into a unified architecture designed for rapid capital decisioning.
 
@@ -67,7 +69,8 @@ The algorithm applies filters that assess:
 
 What emerges is a continuous pipeline of precision curated opportunities that align with high net worth allocators seeking low friction, high control, and institutionally disciplined risk profiles.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator within this ecosystem. The architecture is built to introduce allocators to institutional grade platforms while preserving neutrality, independence, and alignment. This includes facilitating access to domain specific operators where appropriate.
 

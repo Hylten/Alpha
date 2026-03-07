@@ -37,7 +37,7 @@ The scoring engine deploys four simultaneous inference stacks:
 
 When these four vectors align, probability surges. When they diverge, you can still close-but you close with leverage, not trust.
 
-Three words. Patterns never lie.
+Patterns never lie.
 
 The system learns primarily through anomaly detection rather than trend following. This is critical. Predictive systems designed for mid-market underwriting collapse under UHNW noise profiles. That is why legacy banks fail to understand sovereign-adjacent buyers. They search for stability where they should search for intent. They seek documents where they should seek coherence.
 

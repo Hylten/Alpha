@@ -11,7 +11,8 @@ keywords: "MiFID II, private credit, liquidity engineering, algorithmic deal flo
 
 The liquidity constraints emerging under MiFID II are not a consequence of capital scarcity. They are the predictable output of regulatory fragmentation that has reshaped order routing, market depth formation, and the competitive landscape for mid-tier execution venues. The result is a structural gap that impacts price discovery, increases operational drag for European allocators, and elevates the strategic relevance of AI-led private credit architectures that operate outside exchange-bound liquidity fragmentation.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 MiFID II redirected the European market into a regime defined by transparency mandates, reporting intensification, and order flow dispersion across a wider venue matrix. The intended outcome was protective clarity. The actual output was fragmentation, velocity loss, and the dilution of consolidated liquidity pools. Large allocators adapted with internal crossing networks, systematic internalisers, and selective algorithmic execution. Mid-tier institutions absorbed the costs without access to comparable infrastructure. The regime shift therefore created a bifurcated landscape where:
 
 • Market depth is thinner across venue clusters. 
@@ -24,7 +25,8 @@ These effects are compounded by the standardized reporting templates that treat 
 
 Liquidity fragmentation impacts operational reliability. The European allocator must therefore navigate a regime where traditional exchange liquidity is insufficient for strategic deployment into non-correlated assets. This is why capital is moving toward structures where liquidity is engineered through contractual mechanics rather than exchange depth.
 
-PHASE 2: TECHNICAL MECHANICS OF MIFID II LIQUIDITY CONSTRAINTS 
+
+ TECHNICAL MECHANICS OF MIFID II LIQUIDITY CONSTRAINTS 
 The constraints introduced by MiFID II manifest through a series of technical channels that alter order flow, pricing formation, and capital mobility. Each channel has direct implications for allocators operating across private credit, structured capital, or hybrid instruments.
 
 1. Order Flow Dispersion 
@@ -66,7 +68,8 @@ As banks retreat from balance sheet-intensive activities, allocators turn toward
 5. Price Discovery Distortion 
 Fragmented execution disperses indicative pricing across multiple venues. Price discovery becomes slower and less reliable. Institutional allocators must therefore rely more heavily on proprietary valuation models and independent data infrastructure. This creates competitive advantages for tech-enabled credit platforms and technical introducers that maintain proprietary analytics.
 
-PHASE 3: THE STRATEGIC MODEL: AI-LED CREDIT ARCHITECTURE AS A RESPONSE TO MIFID II 
+
+ THE STRATEGIC MODEL: AI-LED CREDIT ARCHITECTURE AS A RESPONSE TO MIFID II 
 As liquidity becomes fragmented and market execution becomes more operationally burdensome, allocators increasingly reposition toward private credit structures where liquidity is engineered through contract design rather than exchange participation. This shift benefits platforms that operate with algorithmic deal flow, AI-first underwriting, and data-driven selection frameworks.
 
 The strategic architecture is defined by three characteristics:

@@ -277,8 +277,6 @@ They protect the covenant.
 
 Not all operators qualify.
 
-Three disqualifiers remove a counterparty instantly.
-
 - Inability to demonstrate operational faithfulness 
 - Absence of covenant literacy 
 - Non-alignment with stewardship principles

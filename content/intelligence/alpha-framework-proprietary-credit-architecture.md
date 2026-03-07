@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Stra
 
 The structural gap in global private credit is not a function of capital scarcity. It is the result of a legacy underwriting architecture that cannot process deal velocity at the rate required by modern balance sheet dynamics. High grade credit demand is rising faster than traditional lenders can underwrite, review, and deploy, creating an environment where algorithmic origination and proprietary data layers define the next institutional advantage.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The private credit ecosystem has entered a post-relationship era. Historically, lenders differentiated through human origination channels and discretionary committee cycles. This structure produced slow approvals, inconsistent pricing frameworks, and static risk models. In 2026, institutional allocators face a newly aligned reality defined by four convergent forces.
 
@@ -25,7 +26,8 @@ The private credit ecosystem has entered a post-relationship era. Historically, 
 
 These shifts create the environment in which the Alpha Framework operates. It is the structured response to a market where deal flow is abundant but under-writing speed is structurally constrained. The market is not inefficient by accident. It is inefficient by design. Legacy institutions cannot redesign themselves fast enough to capture the new liquidity cycles.
 
-PHASE 2: TECHNICAL MECHANICS OF THE ALPHA FRAMEWORK
+
+ TECHNICAL MECHANICS OF THE ALPHA FRAMEWORK
 
 The Alpha Framework is the engineering methodology used by Roials Capital to create proprietary credit architectures for institutional allocators and UHNW family offices. It is not a fund. It is a structural stack: a sequencing of data, underwriting logic, deal sourcing algorithms, and counterparty filtration systems.
 
@@ -93,7 +95,8 @@ Institutional allocators require predictable exit mechanics. The Alpha Framework
 
 The design eliminates ambiguity. It ensures all credit assets fit within the allocator’s liquidity comfort zone.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer. The firm does not act as a lender, asset owner, or fund manager. Its role is to provide structural clarity, technical intelligence, and alignment engineering between capital allocators and operationally sound counterparties.
 

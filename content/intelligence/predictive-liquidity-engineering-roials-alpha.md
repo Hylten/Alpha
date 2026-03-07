@@ -13,7 +13,7 @@ The institutional requirement is clear: volatility-heavy digital assets demand e
 
 I architect the liquidity rail first. Deal flow runs second. Predictive modeling drives both.
 
-Crypto volatility is asymmetric. Liquidity needs are not. UHNW portfolios require engineered certainty. That means pre‑commit corridors, volatility‑triggered credit lines, oracle‑backed NAV monitors, synthetic floors, and agentic automation that eliminates latency. Three words. Zero drift. No hesitation.
+Crypto volatility is asymmetric. Liquidity needs are not. UHNW portfolios require engineered certainty. That means pre‑commit corridors, volatility‑triggered credit lines, oracle‑backed NAV monitors, synthetic floors, and agentic automation that eliminates latency. Zero drift. No hesitation.
 
 Roials‑Alpha treats every digital asset not as collateral but as a signal emitter. Price distribution. Stress vectors. Correlated force-lines. Hidden decay. Behavioral momentum. Mean reversion thresholds. These signals feed the liquidity model. The model allocates debt capacity. Debt capacity governs the engineering of the facility. The facility embeds a dynamic response system that activates before the market turns. Liquidity must front‑run chaos. Always.
 

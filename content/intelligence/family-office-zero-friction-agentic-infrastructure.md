@@ -152,10 +152,7 @@ Deal flow quality increases because the office becomes known for immediate clari
 Outcome Two  
 Execution improves because the agentic infrastructure flags weaknesses in seconds. Structuring improves. Timing improves. Negotiation improves.
 
-Outcome Three  
-The family office begins to operate at institutional speed without institutional bureaucracy.
-
-You gain the velocity of a fund.  
+Outcome You gain the velocity of a fund.  
 You retain the sovereignty of a family office.  
 That is the unlock.
 

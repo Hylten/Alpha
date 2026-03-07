@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Stra
 
 The misalignment between institutional liquidity cycles and traditional human-gated sourcing channels has created a structural gap across North American private markets. This gap is not caused by a shortage of institutional-grade opportunities. The bottleneck is the absence of an autonomous routing architecture capable of matching capital to assets at the velocity required by modern allocators. High-quality deal flow exists. The impediment is the operating system that governs discovery, filtration, and underwriting pathways.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Across private credit, energy, infrastructure, and real asset markets, endogenous constraints have emerged within conventional capital formation channels. Asset managers continue to rely on outdated sourcing mechanisms that depend heavily on human networks, manual screening, and fragmented regional intelligence. Allocators experience latency, inconsistency, and inconsistent information density. The result is a structural mismatch between capital readiness and deal data availability.
-
-Three central shifts define the new regime.
 
 1. The velocity of allocatable liquidity has accelerated. Large allocators now operate on compressed deployment cycles. They require immediate visibility into opportunity stacks that match mandate parameters, jurisdictional constraints, and targeted exposure archetypes.
 
@@ -25,7 +24,8 @@ Three central shifts define the new regime.
 
 This new regime demands an autonomous architecture where discovery, filtration, evidence gathering, and risk stratification operate without friction. The market is migrating toward a system where the primary value creation is not in the deal itself but in the intelligence infrastructure that connects liquidity to assets.
 
-PHASE 2: TECHNICAL MECHANICS OF AUTONOMOUS DEAL SYSTEMS
+
+ TECHNICAL MECHANICS OF AUTONOMOUS DEAL SYSTEMS
 
 Autonomous deal flow is a technical discipline. It is the engineering of a layered stack that reduces human bottlenecks and increases institutional alignment. It replaces intuition-driven sourcing with a rules-based architecture calibrated for institutional constraints.
 
@@ -53,7 +53,8 @@ Allocators often operate with multi mandate exposures. The routing architecture 
 
 This framework is not predictive. It is structural. It ensures that allocators receive the right information at the right time with the right density to enable disciplined decision-making.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator, not a product distributor. The mandate is to build clarity within complex opportunity ecosystems so that institutional allocators can execute with precision. The model is deliberately neutral. It provides friction-free introductions, technical intelligence, and mandate alignment without participating in fund management or asset sponsorship.
 

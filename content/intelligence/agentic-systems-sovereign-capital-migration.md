@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America is expanding because balance sheet velocity is no longer determined by human decision cycles. It is now constrained by regulatory friction, compliance throughput, and latency inside legacy underwriting infrastructures. The consequence is a structural divergence between capital that can move and capital that has permission to move. Agentic allocation systems resolve this divergence by giving sovereign and ultra high net worth allocators algorithmic mobility that is not dependent on human reaction time. 
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Global allocators are transitioning from discretionary deployment to rule based capital migration. This shift is not ideological. It is a response to three macro pressures.
 
@@ -26,7 +27,8 @@ The modern allocator operates inside a multi custodial architecture with heterog
 
 The regime shift is defined by one principle: the allocator who controls mobility controls access. Agentic systems are becoming the dominant mechanism for maintaining institutional access in an environment of escalating regulatory friction.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Agentic allocation mobility is not artificial intelligence in the consumer sense. It is compliance aware Monetization Architecture built on deterministic triggers and probabilistic modeling. The core architecture integrates four structural components.
 
@@ -44,7 +46,8 @@ Algorithmic architecture does not generate yield. It generates accuracy. The sys
 
 This is the mechanics of algorithmic mobility. It is not automation. It is institutional optimization.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as the strategic navigator inside this architecture. It is not a fund manager. It is the institutional configurator that aligns allocators with operational partners that match their structural requirements.
 

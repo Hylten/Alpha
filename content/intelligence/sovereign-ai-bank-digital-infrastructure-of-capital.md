@@ -17,11 +17,10 @@ The objective of this briefing is to detail the mechanics of this architecture, 
 
 ---
 
-PHASE 1: THE REGIME SHIFT
 
-The global credit system entered a non cyclical transformation beginning in 2023. Three macro drivers produced a durable break in market structure.
+ THE REGIME SHIFT
 
-1. Capital Stratification  
+The global credit system entered a non cyclical transformation beginning in 2023. 1. Capital Stratification  
 Institutional capital is consolidating into fewer hands, but the execution layers that deploy it have fragmented. Mid tier banks, regional lenders, and human centric underwriting desks can no longer analyze, verify, and deploy at the speed required by modern deal flow. The result is a widening spread between capital availability and executable credit opportunities.
 
 2. Regulatory Divergence  
@@ -34,7 +33,8 @@ This regime shift is structural. It is not transitional. Allocators who rely on 
 
 ---
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The digital infrastructure underpinning the Sovereign AI Bank consists of six core systems. Each system replaces a traditional banking function with computational governance.
 
@@ -60,7 +60,8 @@ These systems combine to create a capital architecture that is more precise, fas
 
 ---
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as the strategic navigator, not as the asset owner or the credit issuer. The role is institutional navigation. The objective is alignment between the allocator and the architecture.
 

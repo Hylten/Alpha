@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Inst
 
 The dislocation in North American private credit is not the result of liquidity scarcity. It is the outcome of operational latency inside legacy underwriting systems. Asset Based Lending structures are constrained not by capital availability but by the computational drag created by human-first assessment frameworks. The Liquidity Spider is the emerging architectural pattern that resolves this tension by converting asset data, performance telemetry, and jurisdictional risk signals into instantaneous collateral intelligence. Asset-Based Lending is shifting from a paperwork discipline to an algorithmic discipline.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The strategic environment for institutional Asset-Based Lending changed in 2024 when traditional credit channels began fragmenting across four fault lines:
 - Regulatory recalibration inside US regional banks compressing permissible leverage ratios. 
@@ -25,7 +26,8 @@ The operational consequence is what Roials Capital identifies as the Silent Spre
 
 Asset-Based Lending should be the natural release valve for these inefficiencies. Instead, the legacy model replicates the same constraints that produced the inefficiency. This has created demand for an institutionally credible, data native Asset-Based Lending framework that assigns credit value without manual drag. The Liquidity Spider is the structural response.
 
-PHASE 2: TECHNICAL MECHANICS OF NEXT GENERATION Asset-Based Lending
+
+ TECHNICAL MECHANICS OF NEXT GENERATION Asset-Based Lending
 
 Asset-Based Lending has historically relied on three deterministic anchors:
 - Net Orderly Liquidation Value 
@@ -55,7 +57,8 @@ Instead of scoring the borrower, the Liquidity Spider scores the behavior of the
 
 Once deployed, this architecture behaves as a liquidity engine. It identifies collateral that is creditworthy but under recognized by the traditional system. It aligns capital with performing assets without the drag of slow human-first review cycles. This is Monetization Architecture in operational form.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital does not function as a lender and does not manufacture credit products. The mandate is to act as a strategic navigator for allocators who need clarity inside fragmented private credit environments. The role is to create institutional alignment between capital sources seeking stable risk adjusted exposure and operating partners capable of delivering transparent asset performance.
 

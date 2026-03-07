@@ -227,8 +227,6 @@ Lenders without it will be priced out.
 
 ## Why Agentic Asset-Based Lending Wins
 
-Three macro forces guarantee the shift.
-
 1. Collateral complexity increases every year. 
 2. Human centered underwriting cannot scale. 
 3. Data exhaust becomes monetizable only when autonomously processed. 

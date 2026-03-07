@@ -289,7 +289,7 @@ Roials-Alpha gives clients that environment. No public posturing. No noise. No u
 
  
 
-Three phases. Permanent liquidity. Automated execution. Multi-generational preservation.
+Permanent liquidity. Automated execution. Multi-generational preservation.
 
  
 

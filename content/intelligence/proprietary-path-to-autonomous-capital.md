@@ -13,7 +13,8 @@ The structural gap facing allocators in 2026 is not a shortage of opportunity. I
 
 The proprietary path to autonomous capital is the disciplined construction of a system where capital deployment is driven by verified data, technical underwriting, and pre-engineered execution sequences that remove emotional volatility. It is an architectural upgrade to the allocator's operating system. The objective is not acceleration, but precision. The operating principle is not return maximization, but structural symmetry between risk, verification, and liquidity engineering.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators are confronting a regime shift driven by three macro distortions.
 
@@ -25,7 +26,8 @@ Institutional allocators are confronting a regime shift driven by three macro di
 
 These forces have elevated the importance of algorithmic deal flow governance and autonomous capital systems. The allocator with the ability to synthesize operational intelligence at scale achieves advantage not through financial leverage, but through informational asymmetry.
 
-PHASE 2: TECHNICAL MECHANICS OF AUTONOMOUS CAPITAL
+
+ TECHNICAL MECHANICS OF AUTONOMOUS CAPITAL
 
 Autonomous capital is not artificial intelligence in the consumer sense. It is the systematic elimination of human bottlenecks in credit origination, asset verification, contract structuring, covenant calibration, and cash flow oversight.
 
@@ -69,7 +71,8 @@ Instead of relying on quarterly reports, autonomous systems integrate:
 
 Covenants are enforced not by negotiation, but by pre agreed algorithmic thresholds.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator for allocators requiring institutional grade access without institutional inertia. The firm serves as an introducer and architecture designer, not an asset originator. The differentiator is not product offering, but structural alignment.
 

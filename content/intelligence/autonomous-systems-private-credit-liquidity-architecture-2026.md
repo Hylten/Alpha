@@ -73,7 +73,8 @@ A principal led acquisition vehicle seeks 50M to complete a carve out of an indu
 Objective 
 Use autonomous private credit systems to engineer liquidity support and accelerate capital formation for the buyout.
 
-Phase 1: Data Ingestion 
+
+ Data Ingestion 
 The system pulls: 
 - 72 months of ERP transaction logs 
 - Real time production telemetry from equipment sensors 
@@ -81,7 +82,8 @@ The system pulls:
 - Cross jurisdictional risk signals related to EU MiFID II firm acquisitions 
 - Energy consumption data for NAEOCC energy infrastructure investment alignment 
 
-Phase 2: Collateral Modelling 
+
+ Collateral Modelling 
 The autonomous engine builds a collateral map which identifies three primary liquidity vectors: 
 1. Accounts receivable associated with aerospace contracts valued at 22M with high conversion predictability. 
 2. Machinery assets valued at 18M with strong asset hardening factors based on usage analytics and residual value curves. 
@@ -89,7 +91,8 @@ The autonomous engine builds a collateral map which identifies three primary liq
 
 Total collateral volume: 54M with a weighted liquidity integrity score of 0.86.
 
-Phase 3: Advance Calculation 
+
+ Advance Calculation 
 Advance rates are dynamic, not fixed. 
 - Aerospace receivables: 90 percent advance supported by stable delivery timetables. 
 - Machinery assets: 70 percent due to strong secondary marketability and resilient wear curves. 

@@ -13,7 +13,8 @@ The capital vacuum in North American credit markets is a function of structural 
 
 The evolution of Asset-Based Lending is no longer centered on lender discretion. It is now governed by data resolution. High fidelity collateral visibility alters the institutional perception of risk and recasts Asset-Based Lending from a defensive posture into a capital efficient allocation instrument for operating companies with complex asset ecosystems. Predictive liquidity modeling transforms the underwriting process into a continuous analytical environment, where volatility is anticipated rather than absorbed.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The macro environment defining the trajectory of Asset-Based Lending is shaped by five structural forces that collectively dissolve the legacy model built on episodic audits and collateral reports.
 
@@ -34,7 +35,8 @@ Machine driven data models refine credit parameters without expanding underwriti
 
 These forces redefine the market equilibrium and shift Asset-Based Lending into a new category of institutional relevance. The landscape is no longer shaped by lender capacity but by analytical acuity. Predictive liquidity intelligence forms the backbone of this transition. (See [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters)
 
-PHASE 2: TECHNICAL MECHANICS OF PREDICTIVE Asset-Based Lending ARCHITECTURE
+
+ TECHNICAL MECHANICS OF PREDICTIVE Asset-Based Lending ARCHITECTURE
 
 A predictive Asset-Based Lending model establishes a continuous cycle of collateral assessment, liquidity forecasting, and risk calibration. It is built on four core mechanics:
 
@@ -65,7 +67,8 @@ This transforms risk assessment from a defensive cushion to an anticipatory fram
 Cash Flow Waterfall Modeling 
 The predictive engine simulates cash flow distribution structures across multiple operating paths. It assigns sequential liquidity priority that aligns with senior credit requirements. When combined with real time collateral resolution, this architecture strengthens seniority integrity and reduces uncertainty in recovery mechanics.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator in this environment. The role is defined by institutional introduction, structural alignment, and operational intelligence. As predictive Asset-Based Lending expands into an institutional asset class, allocators require clarity in four domains:
 

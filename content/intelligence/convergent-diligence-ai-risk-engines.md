@@ -68,8 +68,6 @@ Once intelligence compounds, deal flow accelerates organically. The principal ad
 
 Algorithmic deal flow is the opposite of hustle. It is gravity. The deals fall toward you.
 
-Three words: Precision beats volume.
-
 Five more: Friction kills compounding momentum.
 
 So you remove friction.

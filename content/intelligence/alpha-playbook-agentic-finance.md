@@ -13,7 +13,8 @@ The structural gap defining the 2026 capital markets is not volatility. It is th
 
 The Alpha Playbook for Agentic Finance functions as an institutional navigation guide. It outlines how UHNW family offices, private credit allocators, and institutional LPs can redesign internal infrastructures so capital can deploy into predictable structural arbitrage rather than episodic transaction cycles. The thematic anchor is simple: the allocator that compresses friction and expands signal capture outperforms without requiring speculative risk postures. The logic is mechanical, not promotional.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Global private credit has transitioned from a discretionary ecosystem to an engineered liquidity system. There are five identifiable forces that accelerated this transition.
 
@@ -34,7 +35,8 @@ Real assets, particularly North American energy assets, were systematically unde
 
 These five forces created the operational environment that allows agentic finance to dominate the current capital cycle.
 
-PHASE 2: TECHNICAL MECHANICS OF AGENTIC FINANCE
+
+ TECHNICAL MECHANICS OF AGENTIC FINANCE
 
 Agentic finance is the integration of autonomous workflow systems into the credit decision architecture. It uses structured data, continuous risk scoring, and machine executed diligence to eliminate the human latency that traditionally defines private capital markets.
 
@@ -85,11 +87,10 @@ This includes payment flows, enforcement workflows, document automation, lien re
 
 The outcome is not speed for its own sake. The outcome is precision. Capital is deployed, monitored, and protected through architecture rather than heroics.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital acts as a structural navigator inside this new regime. The role is not to manage assets. It is to create clarity within an allocator's existing system and to introduce the institutional partners that operate with the required technical depth.
-
-Three functional pillars define the role.
 
 1. Structural Intelligence 
 Roials Capital analyzes the balance sheet architecture, operational processes, and deal sourcing mechanics of UHNW family offices and institutional LPs. The objective is to identify where intelligence leaks occur.

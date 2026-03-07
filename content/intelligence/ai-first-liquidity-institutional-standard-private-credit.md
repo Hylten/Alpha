@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset 
 
 The capital vacuum in North American private credit originates from structural timing differentials rather than credit deterioration. The velocity at which operational data is produced across middle market enterprises has outpaced the velocity at which traditional underwriting frameworks can metabolize that data. The result is a widening gap between creditworthy assets and the capital structures designed to serve them. In 2026, institutional allocators are recalibrating toward AI first underwriting systems that remove human processing delays, reduce error propagation, and create a continuous credit assessment environment. Private credit is not becoming faster. It is becoming more precise.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 A new liquidity regime is forming across private credit, asset based lending, specialty finance, and structured credit. The dynamics are driven by three convergent pressures.
 
@@ -31,7 +32,8 @@ Human centric underwriting frameworks suffer from:
 
 Allocators are now recognizing that the largest inefficiency in private credit is not credit quality but information processing drag. AI first underwriting is not an enhancement to existing credit models. It is a new institutional standard.
 
-PHASE 2: TECHNICAL MECHANICS OF AI FIRST CREDIT INFRASTRUCTURE
+
+ TECHNICAL MECHANICS OF AI FIRST CREDIT INFRASTRUCTURE
 
 AI driven credit frameworks shift private credit from a transaction based architecture to a continuous assessment architecture. This shift is anchored in five mechanics.
 
@@ -82,7 +84,8 @@ This intelligence supports stronger balance sheet optimization and more resilien
 
 AI first credit is not equivalent to automated lending. It is precision oriented credit evaluation with institutional oversight preserved at every escalation point.
 
-PHASE 3: THE PARTNERSHIP MODEL AND ROIALS CAPITAL POSITIONING
+
+ THE PARTNERSHIP MODEL AND ROIALS CAPITAL POSITIONING
 
 Roials Capital functions as a strategic navigator for allocators evaluating AI driven private credit infrastructure. The focus is alignment and clarity, not product distribution.
 

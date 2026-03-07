@@ -43,8 +43,6 @@ They engage because execution is inevitable.
 
 ## Foundations of the Architecture
 
-Three pillars define the stack.
-
 1. Algorithmic deal origination 
 2. AI structured intelligence for underwriting 
 3. Autonomous execution rails engineered for covenant stewardship
@@ -125,9 +123,7 @@ Machine parsing of financial documents, chain of custody, collateral audit trail
 ### Layer Two 
 Scoring frameworks modeled on historical Institutional Liquidity Paths events, asset price movements, and covenant breach probability.
 
-### Layer Three 
-Scenario projection. 
-Multi vector simulation that estimates structural weak points during liquidity compression. 
+### Layer Multi vector simulation that estimates structural weak points during liquidity compression. 
 
 The machine does not replace discernment. 
 It amplifies it. 

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Mone
 
 The structural gap in institutional capital deployment today originates from operational latency rather than scarcity of opportunities. The constraint is not capital availability. The constraint is conversion velocity from opportunity origination to validated, underwritten, and execution-ready allocation channels. The global capital system still operates with a human-first logic stack, yet the modern energy, credit, and real-asset environments now move at an algorithmic cadence. This mismatch is the core inefficiency that agentic infrastructure resolves.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Allocators across UHNW family offices, sovereign vehicles, and private credit platforms consistently report the same friction variables. 
 - Lead qualification cycles remain delayed by manual assessment. 
@@ -38,7 +39,8 @@ The AI-first regime introduces three forms of strategic advantage.
 
 Institutions that fail to transition into this regime incur an ever-widening latency penalty. They are not disadvantaged because they lack capital. They are disadvantaged because they lack operational speed relative to algorithmic markets.
 
-PHASE 2: TECHNICAL MECHANICS OF AGENTIC INFRASTRUCTURE
+
+ TECHNICAL MECHANICS OF AGENTIC INFRASTRUCTURE
 
 Agentic infrastructure refers to the integrated layer of autonomous systems that perform tasks traditionally handled by analysts, originators, and operational managers. These systems do not simply automate workflows. They perform mission-critical functions with minimal human intervention.
 
@@ -90,7 +92,8 @@ Agentic infrastructure does not eliminate human involvement. It elevates it.
 
 This is the operational architecture used by institutions that seek to eliminate friction without sacrificing compliance integrity.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a structural navigator in this environment. The firm does not function as an asset manager. It functions as an institutional introducer that aligns allocators, energy operators, and credit participants with the correct execution frameworks.
 

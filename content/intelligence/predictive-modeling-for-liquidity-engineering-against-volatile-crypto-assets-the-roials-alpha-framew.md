@@ -53,8 +53,6 @@ It is the only method that respects the true mechanics of modern markets.
 
 ## Roials-Alpha Does Not Follow the Market, It Maps It
 
-Three principles define our advantage. 
-
 Precision over perception. 
 
 Mechanics over emotion. 

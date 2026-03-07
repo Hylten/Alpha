@@ -64,8 +64,6 @@ Inbound lacks pattern recognition.
 Algorithmic origination reverses the polarity. 
 Instead of waiting for deals the Alpha Framework identifies, tracks, and advances targets through algorithmic intelligence. 
 
-Three elements drive the origination engine. 
-
 *Principal Graphing.* 
 *Signal Compression.* 
 *Counterparty Profiling.* 
@@ -252,8 +250,6 @@ Execution velocity emerges when origination, hardening, and stewardship operate 
 Not as departments. 
 Not as services. 
 As an integrated intelligence organism. 
-
-Three components produce velocity. 
 
 *Pre Decision Mapping.* 
 *Agentic Infrastructure.* 

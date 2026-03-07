@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The structural gap in modern capital markets is no longer information asymmetry. It is the latency between data exposure and capital execution. In the current regime, the institution capable of compressing that latency defines the trajectory of private credit, real asset aggregation, and operational alpha for the next decade. AI first capital management emerges not as a technological advantage but as a structural realignment where decision cycles transition from human dependent interpretation to computational governance.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current private capital environment is shaped by two converging distortions. First, the global allocator base faces a rising opportunity velocity exceeding the bandwidth of traditional underwriting frameworks. Second, [Capital Structuring](https://hylten.github.io/ROIALS CAPITAL/) has become a computational discipline where allocators require infrastructure capable of reading, interpreting, and scoring thousands of fragmented private market signals at institutional grade reliability.
 
@@ -21,7 +22,8 @@ The regime shift also emerges from the evolution of private credit and real asse
 
 This is particularly evident in markets with identifiable physical underpinnings such as Alberta's conventional energy basin. These assets are governed by predictable decline curves, reservoir physics, and engineered recovery mechanics. Their data is structured, repeatable, and conducive to real time algorithmic scoring. The result is a macro environment where computational architectures outperform manually curated strategies not by taking incremental risk but by removing noise, delays, and friction inherent in human dependent processes.
 
-PHASE 2: TECHNICAL MECHANICS OF AN AI GOVERNED CAPITAL FRAMEWORK
+
+ TECHNICAL MECHANICS OF AN AI GOVERNED CAPITAL FRAMEWORK
 
 An AI first capital architecture relies on several foundational pillars. Each operates as a subsystem within an integrated institutional stack that reduces friction, amplifies pattern recognition, and creates structural alignment between capital and underlying assets.
 
@@ -43,7 +45,8 @@ Cash flow waterfalls are reconstructed into machine readable logic. The AI engin
 6. AI Driven Portfolio Calibration 
 Once the architecture stabilizes, the system runs calibration cycles that evaluate concentration, sector correlations, cross counterparty risk, and liquidity posture. This evolves into a discipline where rebalancing is not based on market speculation but on structural imbalances detected by the system.
 
-PHASE 3: THE PARTNERSHIP MODEL AND ROLE OF ROIALS CAPITAL
+
+ THE PARTNERSHIP MODEL AND ROLE OF ROIALS CAPITAL
 
 Roials Capital operates as a strategic navigator within this environment. The mandate is not to manage external assets but to architect the introduction pathways, the decision frameworks, and the institutional alignment required for allocators to operate within AI governed capital structures. This is executed through four core channels.
 
