@@ -7,7 +7,8 @@ function parseFrontmatter(raw: string) {
 
     const data: Record<string, string> = {};
     let i = 1;
-    while (i < lines.length && lines[i].trim() !== '---') {
+    // Iterate until we find a line that starts with '---' (allowing for [START BRIEFING] type suffixes)
+    while (i < lines.length && !lines[i].trim().startsWith('---')) {
         const line = lines[i];
         const colonIdx = line.indexOf(':');
         if (colonIdx !== -1) {
