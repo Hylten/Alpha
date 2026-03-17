@@ -216,12 +216,17 @@ Human-led systems cannot compute these vectors fast enough.
 
 Agentic systems can.
 
-They produce institutional credit engines that: 
--  Identify collateral faster 
--  Reassess risk in real time 
--  Generate liquidity channels with minimal slippage 
--  Optimize leverage ratios 
--  Protect downside through autonomous rebalancing This is the new backbone of capital operations. 
+They produce institutional credit engines that:
+
+- Identify collateral faster
+
+- Reassess risk in real time
+
+- Generate liquidity channels with minimal slippage
+
+- Optimize leverage ratios
+
+- Protect downside through autonomous rebalancing This is the new backbone of capital operations. 
 
 ## The Roials-Alpha Advantage: Structural Mechanics for Serious Capital We do not compete in the retail Capital Structuring arena.
 
@@ -299,10 +304,13 @@ Institutional precision with personal control.
 
 ## The New Liquidity Hierarchy In the emerging capital ecosystem, liquidity is stratified.
 
-There are three layers: 
--  Static liquidity: Traditional liquidity facilities and rigid credit structures 
--  Reactive liquidity: Market driven pull mechanisms 
--  Agentic liquidity: Autonomous, proactive, structurally embedded Roials-Alpha operates exclusively in the third layer.
+There are three layers:
+
+- Static liquidity: Traditional liquidity facilities and rigid credit structures
+
+- Reactive liquidity: Market driven pull mechanisms
+
+- Agentic liquidity: Autonomous, proactive, structurally embedded Roials-Alpha operates exclusively in the third layer.
 
 Because serious capital does not wait for liquidity.
 

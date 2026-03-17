@@ -104,8 +104,7 @@ This is what differentiates institutional grade Asset-Based Lending from retail 
 
 ## Crypto Monetization Architecture for Sophisticated Positions Minimum Threshold: 2,000,
 
-00
-0 USD Crypto liquidity is often volatile, inefficient, and poorly underwritten in mainstream Strategic Collateralization channels.
+000 USD Crypto liquidity is often volatile, inefficient, and poorly underwritten in mainstream Strategic Collateralization channels.
 
 Most lenders fear it.
 
@@ -135,8 +134,7 @@ We are the lender for portfolios that matter.
 
 ## Public Share Strategic Collateralization for Controlled Liquidity Extraction Minimum Threshold: 5,000,
 
-00
-0 USD Public share Asset-Backed Frameworks requires precision.
+000 USD Public share Asset-Backed Frameworks requires precision.
 
 A sloppy structure can destroy value.
 
@@ -204,13 +202,13 @@ It is the new default for anyone who has crossed into financial significance.
 
 ## Inside the Roials Alpha Strategic Collateralization Architecture A High Level Look at the Technology Stack Our computation stack operates across four layers.
 
-Layer I: Asset Modeling Engine Transforms collateral into a multidimensional data object.
+### Layer I: Asset Modeling Engine Transforms collateral into a multidimensional data object.
 
-Layer II: Risk Geometry Engine Evaluates stability, drift, and liquidation mechanics.
+### Layer II: Risk Geometry Engine Evaluates stability, drift, and liquidation mechanics.
 
-Layer III: Liquidity Extraction Engine Calculates Monetization Architecture parameters with precision tuned spreads.
+### Layer III: Liquidity Extraction Engine Calculates Monetization Architecture parameters with precision tuned spreads.
 
-Layer IV: Protective Enforcement Engine Ensures asset integrity under all market conditions.
+### Layer IV: Protective Enforcement Engine Ensures asset integrity under all market conditions.
 
 Each layer functions independently, but all are synchronized under a command architecture that eliminates human delay.
 

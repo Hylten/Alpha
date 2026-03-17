@@ -18,7 +18,7 @@ The strategic reality is that private credit alpha in the next decade will not b
 
 It will be a function of computational architecture.
 
-Phase I: .
+### Phase I: .
 
 THE REGIME SHIFT
 
@@ -46,11 +46,7 @@ Large scale platforms deployed generic underwriting templates and compensated fo
 
 Operational insight remained shallow because deal flow outpaced analytical depth.
 
-Stage Three. 20
-
-20 to 20
-
-24 volatility regime.
+Stage Three. 2020 to 2024 volatility regime.
 
 Volatility in commodities, supply chain disruptions, and inconsistent global monetary policy exposed the structural weaknesses of legacy underwriting.
 
@@ -58,9 +54,7 @@ Slow verification cycles and insufficient operational intelligence created valua
 
 Many allocators discovered that their risk assessment frameworks were reactive rather than anticipatory.
 
-Stage Four. 20
-
-25 onward computational credit.
+Stage Four. 2025 onward computational credit.
 
 The convergence of AI-native underwriting, autonomous monitoring, and agentic deal sourcing created the first genuine regime shift in private credit since the GFC.
 
@@ -76,7 +70,7 @@ The market no longer rewards capital.
 
 It rewards computational advantage.
 
-Phase II: .
+### Phase II: .
 
 TECHNICAL MECHANICS
 
@@ -150,7 +144,7 @@ The clarity of risk calibration increases.
 
 Default events become predictable rather than disruptive.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within this regime shift as a strategic navigator.
 
@@ -192,7 +186,7 @@ The objective is clarity.
 
 The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring.
 
-Phase IV: .
+### Phase IV: .
 
  
 
@@ -204,9 +198,12 @@ This creates both opportunity and risk.
 
 Stewardship requires that capital be deployed where it can be monitored, supported, and recovered with discipline.
 
-Agentic systems reduce uncertainty, but they do not replace the principle that capital should be managed with clarity of purpose. 
--  **Proverbs 13:22
-*
+Agentic systems reduce uncertainty, but they do not replace the principle that capital should be managed with clarity of purpose.
+
+- **Proverbs 13:22
+
+* 
+
 * defines the long term orientation that underpins disciplined financial decision making.
 
 Stewardship translates this into operational reality through three filters.
@@ -239,11 +236,9 @@ Stewardship includes designing a portfolio that can withstand rate shifts, liqui
 
 Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis.
 
-Phase V: .
+### Phase V: .
 
-DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 20
-
-26 faces a bifurcated landscape.
+DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 2026 faces a bifurcated landscape.
 
 On one side are legacy underwriting processes that rely on human sequential analysis, delayed reporting, and fragmented operational data.
 

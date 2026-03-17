@@ -348,10 +348,13 @@ Each agent handles a domain; together they govern the capital stack as a unified
 
 This is not the future of capital architecture.
 
-It is the present. 
--  
--  
--  If you want the full agentic infrastructure mapped to your company-or your family office-communicate with me directly, and I will open the corridor for you.
+It is the present.
+
+- 
+
+- 
+
+- If you want the full agentic infrastructure mapped to your company-or your family office-communicate with me directly, and I will open the corridor for you.
 
 Access is restricted to approved mandates.
 

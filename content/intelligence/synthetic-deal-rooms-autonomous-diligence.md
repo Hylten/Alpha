@@ -202,8 +202,7 @@ The latter sees 10‑
 
 The former sees 200‑
 
-30
-0 with total depth.
+300 with total depth.
 
 Volume becomes clarity.
 

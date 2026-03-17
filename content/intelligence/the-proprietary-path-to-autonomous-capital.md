@@ -89,16 +89,18 @@ It becomes strategic autonomy.
 ## What We Lend Against The spectrum is broad, but the discipline is narrow.
 
 Our frameworks specialize in:
+
 • Private credit collateralization
+
 • Institutional grade asset based Institutional Liquidity Paths
+
 • Crypto Monetization Architecture with a minimum threshold of 2,000,
 
-00
-0
+000
+
 • Public share Asset-Backed Frameworks with a minimum threshold of 5,000,
 
-00
-0 These are not retail structures.
+000 These are not retail structures.
 
 They are engineered for individuals whose portfolios operate like micro institutions. 
 
@@ -116,8 +118,7 @@ The thresholds are high because the intent is sophisticated capital extraction, 
 
 Minimum crypto position: 2,000,
 
-00
-0 The architecture dictates the leverage is meaningful.
+000 The architecture dictates the leverage is meaningful.
 
 It ensures the collateral is institution grade.
 
@@ -220,10 +221,15 @@ This is a precision instrument.
 ## The Mechanics Behind Autonomy The proprietary path is defined by mechanics that remain invisible to the market but essential to the client.
 
 These mechanics include:
+
 • Continuous collateral correlation tracking
+
 • Automated risk contouring
+
 • Multi factor asset scoring
+
 • Synthetic liquidity modeling
+
 • Execution rails that bypass legacy financial friction These are trade secrets in motion.
 
 They are the quiet technologies that empower clients to unlock capital on command. 

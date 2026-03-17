@@ -6,9 +6,7 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-ai-bank-digital-infrastructure-of-capital"
 --- 
 
-The structural gap forming across North American and European credit markets in 20
-
-26 is not a product of economic instability.
+The structural gap forming across North American and European credit markets in 2026 is not a product of economic instability.
 
 It is the result of technological divergence.
 
@@ -160,10 +158,13 @@ It identifies whether the allocator is operating from a position of liquidity do
 
 Infrastructure Alignment Based on the institutional archetype, Roials Capital determines which components of the Sovereign AI Bank align with the allocator’s objectives.
 
-For example: 
--  UHNW family offices may require deal flow filtration. 
--  European institutions may require cross border compliance integration. 
--  Private credit funds may require origination velocity and underwriting autonomous infrastructure.
+For example:
+
+- UHNW family offices may require deal flow filtration.
+
+- European institutions may require cross border compliance integration.
+
+- Private credit funds may require origination velocity and underwriting autonomous infrastructure.
 
 Alignment is driven by operational needs, not by product distribution. 
 
@@ -197,9 +198,12 @@ The stewardship filter has three components.
 
 Accuracy as Ethics Capital misallocation is a form of waste.
 
-Precision in underwriting, collateral analysis, and liquidity modeling is a form of ethical responsibility. 
--  **Proverbs 13:22
-*
+Precision in underwriting, collateral analysis, and liquidity modeling is a form of ethical responsibility.
+
+- **Proverbs 13:22
+
+* 
+
 * underscores the principle of multi generational stewardship.
 
 Accuracy ensures preservation across generations. 

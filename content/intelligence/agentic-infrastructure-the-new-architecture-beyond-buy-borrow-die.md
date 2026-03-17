@@ -124,8 +124,7 @@ Retail mechanics pretending to be institutional.
 
 Roials-Alpha enters only above the structural threshold, starting at 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 Below that number, the signal-to-noise ratio breaks.
 
@@ -139,8 +138,7 @@ The result is crypto Asset-Backed Frameworks without the chaos, engineered for s
 
 ## Public Share Monetization Architecture for Strategic Portfolios Public equity positions above 5,000,
 
-00
-0 dollars unlock an entirely different layer of functionality.
+000 dollars unlock an entirely different layer of functionality.
 
 At this scale, public shares behave less like speculative holdings and more like tradable collateral with deep liquidity and high transparency.
 
@@ -245,8 +243,11 @@ principal authority, engineered into every line of logic.
 It is protected by systems.
 
 Agentic infrastructure gives wealthy individuals three unmatched advantages.
+
 • Liquidity without interruption
+
 • Leverage without friction
+
 • Growth without exposure This is the modern interpretation of Buy, Borrow, Die.
 
 Not a strategy.
@@ -265,13 +266,11 @@ We specialize in asset-based Strategic Collateralization.
 
 We specialize in crypto Asset-Backed Frameworks above 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 We specialize in public share Strategic Collateralization above 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 Every service is engineered around HNWI and UHNW individuals who require autonomy, liquidity, and an AI-first infrastructure that anticipates rather than reacts. 
 

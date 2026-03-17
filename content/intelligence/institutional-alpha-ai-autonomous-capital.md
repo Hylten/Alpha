@@ -18,9 +18,7 @@ Alpha generation is increasingly a computational function rather than a discreti
 
 THE REGIME SHIFT
 
- Institutional alpha in 20
-
-26 is no longer centered on origination networks or proprietary access.
+ Institutional alpha in 2026 is no longer centered on origination networks or proprietary access.
 
 The competitive frontier moved toward algorithmic deal flow, cross market signal extraction, and balance sheet optimization executed at sub human latency.
 
@@ -94,11 +92,15 @@ AI First Credit Construction Credit architecture is now increasingly built on mu
 
 Instead of linear underwriting models, AI systems produce probabilistic curves that evolve with incoming data.
 
-Technical advantages include: 
--  Nonlinear LTV diagnostics that adjust to asset behavior. 
--  Dynamic covenants calibrated to real time borrower signals. 
--  Continuous evaluation of cross collateralization strength. 
--  Automated stress testing across hundreds of macro scenarios.
+Technical advantages include:
+
+- Nonlinear LTV diagnostics that adjust to asset behavior.
+
+- Dynamic covenants calibrated to real time borrower signals.
+
+- Continuous evaluation of cross collateralization strength.
+
+- Automated stress testing across hundreds of macro scenarios.
 
 This transforms credit from a static agreement into a living instrument.
 
@@ -144,10 +146,13 @@ The
 
  INTRODUCTION
 
- architecture is defined by: 
--  Technical match making between capital type and operational reality. 
--  Structuring pathways that enhance asset hardening and downside control. 
--  Ensuring allocators receive intelligence based on physics and field data, not marketing narratives.
+ architecture is defined by:
+
+- Technical match making between capital type and operational reality.
+
+- Structuring pathways that enhance asset hardening and downside control.
+
+- Ensuring allocators receive intelligence based on physics and field data, not marketing narratives.
 
 In private credit and real estate, Roials Capital performs a similar function.
 
@@ -169,9 +174,12 @@ Three stewardship pillars guide the institutional framework:
 
 1.
 
-Non wasteful deployment Capital is allocated only into environments where operational intelligence is sufficient to predict asset behavior with precision. 
--  **Proverbs 13:22
-*
+Non wasteful deployment Capital is allocated only into environments where operational intelligence is sufficient to predict asset behavior with precision.
+
+- **Proverbs 13:22
+
+* 
+
 * emphasizes generational resource preservation.
 
 Stewardship aligns with rigorous selection logic that protects capital from misallocation. 
@@ -206,12 +214,17 @@ It is the continuous refinement of balance sheet integrity and operational disci
 
 Either they integrate autonomous intelligence into their capital architecture or they compete against entities that already operate with sub human latency and nonlinear data awareness.
 
-The decision lens includes: 
--  The degree to which portfolio decisions rely on human reaction versus autonomous detection. 
--  Exposure to sectors where data fragmentation creates an inefficiency premium. 
--  Ability to participate in opportunities sourced algorithmically rather than through traditional intermediaries. 
--  Structural alignment with operators who demonstrate technical dominance rather than marketing narratives. 
--  The quality of balance sheet optimization and Capital Structuring within existing structures.
+The decision lens includes:
+
+- The degree to which portfolio decisions rely on human reaction versus autonomous detection.
+
+- Exposure to sectors where data fragmentation creates an inefficiency premium.
+
+- Ability to participate in opportunities sourced algorithmically rather than through traditional intermediaries.
+
+- Structural alignment with operators who demonstrate technical dominance rather than marketing narratives.
+
+- The quality of balance sheet optimization and Capital Structuring within existing structures.
 
 For UHNW families, institutional LPs, and private credit managers, the next decade will reward precision, speed, and operational intelligence.
 

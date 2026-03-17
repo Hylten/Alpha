@@ -131,16 +131,19 @@ Our private credit and Asset-Based Lending solutions are not packaged products.
 They are engineered systems, tailored to portfolios that already operate at scale.
 
 We provide liquidity frameworks for individuals with significant exposure across:
+
 • Private credit assets
+
 • Complex business ownership positions
+
 • Public shares at or above the 5,000,
 
-00
-0 minimum threshold
+000 minimum threshold
+
 • Crypto assets at or above the 2,000,
 
-00
-0 minimum threshold
+000 minimum threshold
+
 • Hybrid alternative holdings These structures cannot be serviced by traditional lenders with manual processes.
 
 They require a mechanized approach.
@@ -160,9 +163,13 @@ Not constrained by the asset class from which it originates.
 Roials-Alpha structures liquidity facilities across multi asset stacks.
 
 This creates liquidity using combinations of:
+
 • Private credit paper
+
 • Institutional scale digital assets
+
 • Public share blocks
+
 • Specialized alternative assets The aggregation of these collateral signals creates a liquidity field.
 
 A new model where the total collateral strength is greater than the sum of its parts.
@@ -213,8 +220,7 @@ Roials-Alpha serves an entirely different profile.
 
 Our minimum threshold of 2,000,
 
-00
-0 is intentional.
+000 is intentional.
 
 Below that number, the asset behavior is too noisy for institutional integration.
 
@@ -236,8 +242,7 @@ For UHNW clients, this is a structural advantage that legacy private banks canno
 
 ## Public Share Strategic Collateralization for Institutional Tier Individuals Public equities behave differently when position size enters the 5,000,
 
-00
-0 threshold.
+000 threshold.
 
 Market impact matters.
 

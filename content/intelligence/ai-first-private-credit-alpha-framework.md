@@ -94,9 +94,12 @@ The sovereign executor is the party that understands the rights lattice.
 
 That lattice becomes computable.
 
-Once computable, it becomes weaponized for alpha. 
--  **Proverbs 13:22
-*
+Once computable, it becomes weaponized for alpha.
+
+- **Proverbs 13:22
+
+* 
+
 * : “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
 
 The Alpha Framework is an institutional harvesting engine.

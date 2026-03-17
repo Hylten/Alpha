@@ -85,9 +85,13 @@ We are not a fintech wrapper.
 We are the structural designers of high frequency liquidity systems for the top one percent of capital holders.
 
 We lend against:
+
 • Private credit
+
 • Asset based positions
+
 • Crypto holdings at the two million threshold
+
 • Public share portfolios at the five million threshold Your capital becomes mobile.
 
 Your liquidity becomes autonomous.

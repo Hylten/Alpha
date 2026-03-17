@@ -444,10 +444,13 @@ The end state: A deal engine that thinks.
 
 A counterparty model that adapts.
 
-A Principal who moves without friction. 
--  
--  
--  If you want a briefing on implementing the agentic layer across your own deal pipeline-or integrating counterparty scoring with your Fund-III strategy-send a message.
+A Principal who moves without friction.
+
+- 
+
+- 
+
+- If you want a briefing on implementing the agentic layer across your own deal pipeline-or integrating counterparty scoring with your Fund-III strategy-send a message.
 
 The exploratory call begins when you initiate it.
 

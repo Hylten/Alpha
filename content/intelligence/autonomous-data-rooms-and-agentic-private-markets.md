@@ -20,8 +20,9 @@ The premise is simple.
 
 The execution is not.
 
-We move directly into the principal brief. 
--  THE ARCHITECTURE OF SELF-VERIFICATION Private.
+We move directly into the principal brief.
+
+- THE ARCHITECTURE OF SELF-VERIFICATION Private.
 
 Vault-level.
 
@@ -67,8 +68,9 @@ A jurisdiction of truth.
 
  
 
-## PRINCIPAL TONE 
--  STATEMENTS, NOT EXPLANATIONS Precision now.
+## PRINCIPAL TONE
+
+- STATEMENTS, NOT EXPLANATIONS Precision now.
 
 Private markets need speed.
 
@@ -96,8 +98,9 @@ The room protects the deal.
 
 Then we reach the critical transition: a self-validating data room becomes a self-governing deal environment.
 
-That is where the private markets divide into pre 
--  and post-autonomy. 
+That is where the private markets divide into pre
+
+- and post-autonomy. 
 
 ## THE STRUCTURAL technical brief We focus on the architecture.
 
@@ -107,20 +110,27 @@ Modular.
 
 Multi-orbit.
 
-SECTION A: THE INPUT LAYER 
--  WHERE HUMAN ERROR IS MARGINALIZED Legacy data rooms have a core flaw: they rely on humans to contribute correct files on time.
+SECTION A: THE INPUT LAYER
+
+- WHERE HUMAN ERROR IS MARGINALIZED Legacy data rooms have a core flaw: they rely on humans to contribute correct files on time.
 
 A self-validating room treats every uploaded document as suspect until proven otherwise.
 
 The room runs multiple parallel agents.
 
-Each agent specializes: 
--  Regulatory registry verification 
--  Corporate registry cross-checking 
--  Financial modeling comparison against historical patterns 
--  Anomaly detection to locate fabricated or manipulated trends 
--  Behavioral mapping of CFO upload patterns to identify non-random inconsistencies 
--  External market data ingest for contextual alignment The room examines the file the way a financial intelligence unit examines a flagged transaction.
+Each agent specializes:
+
+- Regulatory registry verification
+
+- Corporate registry cross-checking
+
+- Financial modeling comparison against historical patterns
+
+- Anomaly detection to locate fabricated or manipulated trends
+
+- Behavioral mapping of CFO upload patterns to identify non-random inconsistencies
+
+- External market data ingest for contextual alignment The room examines the file the way a financial intelligence unit examines a flagged transaction.
 
 Quietly.
 
@@ -134,8 +144,9 @@ It initiates requests, pulls external versions, rebuilds missing sections, or in
 
 By doing so, the room becomes a structural asset rather than a warehouse.
 
-SECTION B: THE CONSISTENCY LAYER 
--  MULTI-AGENT VERDICT FORMATION Here the architecture becomes interesting.
+SECTION B: THE CONSISTENCY LAYER
+
+- MULTI-AGENT VERDICT FORMATION Here the architecture becomes interesting.
 
 One agent cannot validate truth alone.
 
@@ -165,8 +176,9 @@ This is the equivalent of having five analysts and one senior partner review the
 
 Truth emerges from tension.
 
-SECTION C: THE BEHAVIORAL LAYER 
--  PATTERNS THAT HUMAN TEAMS CANNOT DETECT Human deal teams are strong at pattern recognition across long time horizons.
+SECTION C: THE BEHAVIORAL LAYER
+
+- PATTERNS THAT HUMAN TEAMS CANNOT DETECT Human deal teams are strong at pattern recognition across long time horizons.
 
 But machines see patterns humans cannot: too-precise rounding, metadata inconsistencies, timestamp drift, anomalous edit histories, formatting fingerprints that hint at multiple authors claiming to be one.
 
@@ -190,8 +202,9 @@ Capital always moves toward clarity and away from opacity.
 
 Autonomous rooms accelerate that natural sorting mechanism.
 
-SECTION D: THE CONTINUOUS-INGEST LAYER 
--  PERPETUAL DATA REFRESH Traditional data rooms are snapshots in time.
+SECTION D: THE CONTINUOUS-INGEST LAYER
+
+- PERPETUAL DATA REFRESH Traditional data rooms are snapshots in time.
 
 Autonomous rooms operate in a live-stream paradigm.
 
@@ -211,8 +224,9 @@ Every counterparty sees the same synchronized truth-state.
 
 This collapses the negotiation cycle by reducing the number of disputes.
 
-SECTION E: THE EXECUTION LAYER 
--  WHERE THE ROOM BECOMES AN AGENT This is where autonomy transitions from verification to action.
+SECTION E: THE EXECUTION LAYER
+
+- WHERE THE ROOM BECOMES AN AGENT This is where autonomy transitions from verification to action.
 
 When the system reaches a high-confidence state on the data and detects that the buyer and seller are aligned on a valuation corridor, it begins initiating preparatory steps: generating term sheet drafts, running integration risk models, simulating future performance, producing negotiation pathways, and mapping LTV-driven credit architectures.
 
@@ -238,7 +252,7 @@ Agentic infrastructure is not “AI that helps.” It is “AI that acts.” It 
 
 The architecture has three pillars.
 
-Pillar I:: The Sovereign Core The sovereign core is the primary decision engine.
+### Pillar I: The Sovereign Core The sovereign core is the primary decision engine.
 
 It does not rely on any external LLM.
 
@@ -250,7 +264,7 @@ Every other agent reports to it.
 
 It produces the final verdict.
 
-Pillar II:: The Autonomous Perimeter These agents interface with the outside world.
+### Pillar II: The Autonomous Perimeter These agents interface with the outside world.
 
 They retrieve records, validate corporate filings, scan public databases, pull market data, and detect shifts in regulatory or operational conditions.
 
@@ -262,7 +276,7 @@ It extends the room’s reach.
 
 It makes the data room a market participant rather than a passive repository.
 
-Pillar III:: The Execution Swarm This is where real operational leverage is created.
+### Pillar III: The Execution Swarm This is where real operational leverage is created.
 
 These are small, purpose-built agents that run micro-tasks: redline detection, contract versioning, integration modeling, scenario analysis, counterparty mapping, valuation pressure-testing.
 
@@ -356,9 +370,11 @@ We accelerate the deal.
 
 We control the environment.
 
-If you want the next step 
--  the agentic infrastructure blueprint, the sovereign-core architecture, the execution-swarm configuration 
--  Access is restricted to approved mandates.
+If you want the next step
+
+- the agentic infrastructure blueprint, the sovereign-core architecture, the execution-swarm configuration
+
+- Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 

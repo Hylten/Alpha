@@ -24,18 +24,19 @@ Origination, due diligence, risk grading, credit modeling, and operational monit
 
 These filters created structural bottlenecks in opportunity velocity, particularly for private credit and hard asset sectors.
 
-The 20
+The 2024 to 2026 cycle introduced a new operating reality.
 
-24 to 20
+Multi jurisdictional allocators face:
 
-26 cycle introduced a new operating reality.
+- Record high capital seeking yield protected structures.
 
-Multi jurisdictional allocators face: 
--  Record high capital seeking yield protected structures. 
--  A shrinking universe of bank syndicated credit. 
--  Elevated regulatory drag on traditional lenders. 
--  A widening mismatch between asset level cash flow visibility and institutional underwriting bandwidth. 
--  A compression in decision cycles driven by cross border demand for secured yield.
+- A shrinking universe of bank syndicated credit.
+
+- Elevated regulatory drag on traditional lenders.
+
+- A widening mismatch between asset level cash flow visibility and institutional underwriting bandwidth.
+
+- A compression in decision cycles driven by cross border demand for secured yield.
 
 The result is a capital vacuum.
 
@@ -151,13 +152,19 @@ SAGD and CSS cycles behave predictably when modeled correctly.
 
 Agentic underwriting frames thermal recovery as a physics problem rather than a narrative problem.
 
-The Alberta basin is particularly suited to algorithmic evaluation due to: 
--  Known lithology. 
--  High resolution historical field data. 
--  Stable long life production curves. 
--  Operator transparency requirements. 
--  Predictable steam oil ratios. 
--  Strong reservoir continuity.
+The Alberta basin is particularly suited to algorithmic evaluation due to:
+
+- Known lithology.
+
+- High resolution historical field data.
+
+- Stable long life production curves.
+
+- Operator transparency requirements.
+
+- Predictable steam oil ratios.
+
+- Strong reservoir continuity.
 
 This environment allows credit architecture to anchor itself in data rather than projections.
 
@@ -183,12 +190,17 @@ Their field infrastructure, operational consistency, and transparency standards 
 
 They provide the ground truth data required for autonomous systems to operate at institutional precision.
 
-The partnership model consists of: 
--  Structural alignment between allocator mandates and jurisdictional realities. 
--  Technical calibration between the agentic system and the operator data corridors. 
--  Governance integration with the allocator's internal compliance architecture. 
--  Liquidity channel mapping across secured, semi secured, and hybrid structures. 
--  Operational intelligence synchronization to remove blind spots and latency.
+The partnership model consists of:
+
+- Structural alignment between allocator mandates and jurisdictional realities.
+
+- Technical calibration between the agentic system and the operator data corridors.
+
+- Governance integration with the allocator's internal compliance architecture.
+
+- Liquidity channel mapping across secured, semi secured, and hybrid structures.
+
+- Operational intelligence synchronization to remove blind spots and latency.
 
 Roials Capital's role is not to present products or solicit capital.
 
@@ -206,16 +218,24 @@ Stewardship is the avoidance of waste in capital deployment, operational methodo
 
 Agentic environments enhance stewardship because they reduce human error, remove inertia, and allocate capital only where physics and operational data justify deployment.
 
-Stewardship in this context includes: 
--  Avoiding misaligned structures. 
--  Avoiding mispriced collateral. 
--  Avoiding inflated narratives disconnected from field performance. 
--  Avoiding capital inefficiencies that degrade long term portfolio integrity. 
--  Avoiding jurisdictional exposures not grounded in compliance realism.
+Stewardship in this context includes:
 
-The Theology of Capital aligns with 
--  **Proverbs 13:22
-*
+- Avoiding misaligned structures.
+
+- Avoiding mispriced collateral.
+
+- Avoiding inflated narratives disconnected from field performance.
+
+- Avoiding capital inefficiencies that degrade long term portfolio integrity.
+
+- Avoiding jurisdictional exposures not grounded in compliance realism.
+
+The Theology of Capital aligns with
+
+- **Proverbs 13:22
+
+* 
+
 * , which frames capital as a multi generational resource that must be deployed with responsibility.
 
 Agentic systems support this discipline by ensuring that capital is governed by evidence rather than sentiment.
@@ -226,22 +246,25 @@ This applies equally to energy, credit, real assets, and cross border portfolios
 
  
 
-## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 20
+## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 2026 regime must evaluate opportunities through five lenses:
 
-26 regime must evaluate opportunities through five lenses: 
--  Structural positioning.
+- Structural positioning.
 
-Whether the asset sits within a jurisdiction or sector experiencing structural mispricing. 
--  Data accessibility.
+Whether the asset sits within a jurisdiction or sector experiencing structural mispricing.
 
-Whether the operator provides the telemetry necessary for agentic evaluation. 
--  Liquidity architecture.
+- Data accessibility.
 
-Whether the capital structure is senior enough, secured enough, and governed enough to withstand volatility. 
--  Operational discipline.
+Whether the operator provides the telemetry necessary for agentic evaluation.
 
-Whether the operator adheres to predictable systems, transparent reporting, and measurable performance. 
--  Agentic compatibility.
+- Liquidity architecture.
+
+Whether the capital structure is senior enough, secured enough, and governed enough to withstand volatility.
+
+- Operational discipline.
+
+Whether the operator adheres to predictable systems, transparent reporting, and measurable performance.
+
+- Agentic compatibility.
 
 Whether the opportunity can be integrated into algorithmic underwriting for continuous monitoring.
 

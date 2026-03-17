@@ -14,9 +14,7 @@ The result is a widening dispersion between assets capable of absorbing sovereig
 
 THE REGIME SHIFT
 
- The global financial system in 20
-
-26 is defined by three convergent regime shifts. 
+ The global financial system in 2026 is defined by three convergent regime shifts. 
 
 1.
 
@@ -26,8 +24,7 @@ Post Basel III and accelerated AI regulation trends in the EU, the operational c
 
 Legacy intermediaries rely on sequential review processes that limit throughput capacity for capital pools larger than 
 
-50
-0 MM. 
+500 MM. 
 
 2.
 
@@ -151,9 +148,12 @@ It evaluates capital behavior under the lens of responsible deployment.
 
 Capital assigned without precision erodes institutional integrity.
 
-Capital structured with intentionality reinforces sustainability and multi generational continuity. 
--  **Proverbs 13:22
-*
+Capital structured with intentionality reinforces sustainability and multi generational continuity.
+
+- **Proverbs 13:22
+
+* 
+
 * defines stewardship as multi generational allocation.
 
 The integration of AI into Asset-Backed Frameworks ensures that resources are deployed with integrity, clarity, and long term accountability.

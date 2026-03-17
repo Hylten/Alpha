@@ -30,13 +30,17 @@ They can deploy capital at scale.
 
 Autonomy amplifies this advantage.
 
-It gives them: 
--  Faster Access is restricted to approved mandates.
+It gives them:
+
+- Faster Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  More accurate risk data. 
--  Mechanized collateral evaluation. 
--  Predictable liquidity response.
+
+- More accurate risk data.
+
+- Mechanized collateral evaluation.
+
+- Predictable liquidity response.
 
 The combination is a competitive moat.
 

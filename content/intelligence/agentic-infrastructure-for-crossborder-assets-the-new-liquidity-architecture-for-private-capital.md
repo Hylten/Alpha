@@ -53,9 +53,13 @@ It anticipates counterparty behavior.
 It allocates leverage capacity in real time.
 
 This creates a new paradigm for HNWI and UHNW capital deployment, especially for portfolios holding:
+
 • Private credit positions
+
 • Asset based Strategic Collateralization paper
+
 • Crypto assets above institutional thresholds
+
 • Public equities inside global custodial environments Roials‑Alpha provides the structural mechanics behind this activation.
 
 principal authority.
@@ -172,8 +176,7 @@ Roials‑Alpha is not in the noise segment.
 
 We operate at a minimum threshold of 2,000,
 
-00
-0 for crypto Capital Structuring.
+000 for crypto Capital Structuring.
 
 Below that number, the risk‑reward surface is inefficient and does not fit an institutional liquidity profile.
 
@@ -278,18 +281,23 @@ This is a strategic edge.
 This is compounding based on timing rather than risk. 
 
 ## The Architecture Behind the System Roials‑Alpha builds agentic infrastructure through several layers.
+
 • Layer One: Collateral abstraction Transform assets into standardized digital collateral units.
+
 • Layer Two: Autonomous risk modeling Dynamic stress testing.
 
 Predictive exposure modeling.
 
 Volatility pattern recognition.
+
 • Layer Three: Liquidity orchestration Automated leverage routing, multi‑jurisdiction synchronization, execution shaping.
+
 • Layer Four: Cross‑border settlement Timing intelligence.
 
 Compliance harmonization.
 
 Custodial coordination.
+
 • Layer Five: Institutional interface principal authority that aligns with the capital stack of private banks, family offices, and structured credit desks.
 
 Each layer reduces friction.
@@ -299,9 +307,13 @@ Each layer increases precision.
 Each layer compounds liquidity control. 
 
 ## Case Logic: How Cross-Border Liquidity Becomes Instant Consider a UHNW individual with:
+
 • Private credit positions in Luxembourg
+
 • Public equities in Hong Kong
+
 • Crypto assets in a tier‑one custodian
+
 • Asset-Based Lending assets inside a US holding entity Traditionally, this portfolio is a logistical complexity.
 
 For Roials‑Alpha, this is a programmable liquidity ecosystem.

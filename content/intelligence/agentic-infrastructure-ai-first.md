@@ -67,12 +67,19 @@ Not merely execute tasks.
 This is the Roials Alpha blueprint.
 
 It includes:
+
 • Semantic execution environments where agents understand context and intent.
+
 • API and system wrappers that expose your business logic in agent-native form.
+
 • Autonomous task routers that allocate work to the optimal AI or human unit.
+
 • Memory layers that retain state, decisions, failures, and resolutions.
+
 • Observability pipelines that allow agents to self-correct.
+
 • Policy engines that encode constraints, permissions, and compliance.
+
 • Meta agents that evaluate agents for reliability, precision, and drift.
 
 This stack allows decisions to flow.
@@ -133,7 +140,7 @@ Once the business logic becomes machine readable, autonomy becomes inevitable.
 
 ## The New Operational Hierarchy Modern enterprises have three invisible layers.
 
-Layer I:: Human Workflows Cluttered.
+### Layer I: Human Workflows Cluttered.
 
 Slow.
 
@@ -141,7 +148,7 @@ Dependent on tribal knowledge and siloed processes.
 
 Fragile under scale.
 
-Layer II:: Scripted autonomous infrastructure Useful.
+### Layer II: Scripted autonomous infrastructure Useful.
 
 Cheap.
 
@@ -149,7 +156,7 @@ Limited.
 
 Breaks under real-world complexity.
 
-Layer III:: Agentic Infrastructure This is the leap.
+### Layer III: Agentic Infrastructure This is the leap.
 
 Dynamic execution.
 
@@ -256,10 +263,15 @@ It is why agentic infrastructure outperforms any deterministic system at scale.
 Multi agent systems solve business units.
 
 Roials Alpha deploys layered agent clusters:
+
 • Supervisor agents coordinate strategy.
+
 • Operator agents execute tasks.
+
 • Auditor agents validate compliance.
+
 • Research agents gather intelligence.
+
 • Recovery agents handle failures.
 
 The architecture behaves like a digital organization.

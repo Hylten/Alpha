@@ -16,9 +16,7 @@ The result has been a credit vacuum that is a consequence of methodological iner
 
 THE REGIME SHIFT
 
- The healthcare and technology capital markets in 20
-
-26 reflect a convergence of forces that have forced institutional allocators to reevaluate the tools used to supply liquidity.
+ The healthcare and technology capital markets in 2026 reflect a convergence of forces that have forced institutional allocators to reevaluate the tools used to supply liquidity.
 
 Healthcare operators face reimbursement friction, labor shortages, and payor delays that elongate cash conversion cycles.
 
@@ -122,9 +120,12 @@ The AI driven Asset-Based Lending ecosystem supports this discipline by replacin
 
 It increases transparency, reduces waste, and enhances accountability.
 
-The stewardship principle is grounded in the scriptural instruction of 
--  **Proverbs 13:22
-*
+The stewardship principle is grounded in the scriptural instruction of
+
+- **Proverbs 13:22
+
+* 
+
 * .
 
 Wealth must be preserved, allocated, and governed with intentionality.

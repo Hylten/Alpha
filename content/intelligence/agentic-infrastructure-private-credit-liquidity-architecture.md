@@ -26,9 +26,12 @@ The frontier is agentic autonomy: credit systems that move without human drag.
 
 Credit engines that interpret risk faster than counterparties can articulate it.
 
-Liquidity frameworks that harden the wealth stack of HNWI and UHNW families through velocity, not leverage. 
--  **Proverbs 13:22
-*
+Liquidity frameworks that harden the wealth stack of HNWI and UHNW families through velocity, not leverage.
+
+- **Proverbs 13:22
+
+* 
+
 * states: A good man leaves an inheritance to his children's children.
 
 The modern translation for principal-class operators is simple.
@@ -59,10 +62,13 @@ Zero-latency execution.
 
 A Fund-III level posture even before capital formation.
 
-This architecture delivers it. 
--  
--  
--  Agentic infrastructure begins with data supremacy.
+This architecture delivers it.
+
+- 
+
+- 
+
+- Agentic infrastructure begins with data supremacy.
 
 No spreadsheets.
 
@@ -116,10 +122,13 @@ Downside collapses.
 
 HNWI and UHNW investors no longer tolerate slow credit.
 
-They require intelligent credit. 
--  
--  
--  Institutional Liquidity Paths is the new language of private credit.
+They require intelligent credit.
+
+- 
+
+- 
+
+- Institutional Liquidity Paths is the new language of private credit.
 
 Every family office now requires a modular approach: hard assets on one side, rapid liquidity loops on the other.
 
@@ -165,10 +174,13 @@ Capital cycling accelerates.
 
 A single credit engine can outpace entire private credit teams without adding operational headcount.
 
-The efficiency ratio becomes a competitive weapon. 
--  
--  
--  Multi-jurisdictional arbitrage is the crown jewel for sovereign families.
+The efficiency ratio becomes a competitive weapon.
+
+- 
+
+- 
+
+- Multi-jurisdictional arbitrage is the crown jewel for sovereign families.
 
 Agentic infrastructure unlocks it by mapping regulatory regimes, collateral regimes, tax symmetry, and cross-border enforcement layers into one executable architecture.
 
@@ -200,10 +212,13 @@ Not secrecy.
 
 Not evasion.
 
-Architecture. 
--  
--  
--  The most profound shift in private credit is not structural or regulatory.
+Architecture.
+
+- 
+
+- 
+
+- The most profound shift in private credit is not structural or regulatory.
 
 It is competitive.
 
@@ -231,10 +246,13 @@ HNWI and UHNW families who deploy capital through slow legacy structures become 
 
 Families who deploy through agentic infrastructure become liquidity makers.
 
-Fund-III performance emerges before Fund-III exists. 
--  
--  
--  At the top of the wealth pyramid, private credit becomes geopolitical.
+Fund-III performance emerges before Fund-III exists.
+
+- 
+
+- 
+
+- At the top of the wealth pyramid, private credit becomes geopolitical.
 
 Families must adopt a sovereign mindset.
 
@@ -262,10 +280,13 @@ Capital endurance increases.
 
 Strategic autonomy emerges.
 
-Wealth becomes sovereign. 
--  
--  
--  High-net-worth and ultra-high-net-worth families often ask the wrong question: Where is the best yield?
+Wealth becomes sovereign.
+
+- 
+
+- 
+
+- High-net-worth and ultra-high-net-worth families often ask the wrong question: Where is the best yield?
 
 The correct question: What infrastructure sustains yield across cycles?
 
@@ -337,10 +358,13 @@ For families tired of managing complexity, this is liberation.
 
 For families seeking institutional power, this is sovereignty.
 
-Every credit decision becomes a function of logic, not persuasion. 
--  
--  
--  Legacy private credit structures rely on paperwork.
+Every credit decision becomes a function of logic, not persuasion.
+
+- 
+
+- 
+
+- Legacy private credit structures rely on paperwork.
 
 Agentic systems rely on protocols.
 
@@ -392,13 +416,19 @@ Power fuels execution.
 
 Execution fuels legacy.
 
-This is the modern reading of 
--  **Proverbs 13:22
-*
-* : build systems that survive your own generation. 
--  
--  
--  Oil and gas operators, manufacturing groups, logistics firms, real-asset families, and land-heavy enterprises require credit partners who understand their tempo.
+This is the modern reading of
+
+- **Proverbs 13:22
+
+* 
+
+* : build systems that survive your own generation.
+
+- 
+
+- 
+
+- Oil and gas operators, manufacturing groups, logistics firms, real-asset families, and land-heavy enterprises require credit partners who understand their tempo.
 
 Traditional lenders fail because they do not understand operational cycles.
 
@@ -434,10 +464,13 @@ Their infrastructure becomes the information asymmetry advantage for borrowers.
 
 Their wealth stack becomes resilient to macro cycles.
 
-This is the architecture of the next financial decade. 
--  
--  
--  The future of private credit is a triad: Agentic underwriting.
+This is the architecture of the next financial decade.
+
+- 
+
+- 
+
+- The future of private credit is a triad: Agentic underwriting.
 
 Autonomous liquidity.
 

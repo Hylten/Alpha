@@ -8,8 +8,7 @@ slug: "digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring
 
 Digitala tvillingar förflyttar portföljövervakning från reaktiv till autonom.
 
-Genom att mappa mikroskift i realtid—från DSO-fördröjningar till marginalkompression—identifieras covenant-brott 10
-0 dagar innan de realiseras.
+Genom att mappa mikroskift i realtid—från DSO-fördröjningar till marginalkompression—identifieras covenant-brott 100 dagar innan de realiseras.
 
 Vår agentiska infrastruktur stress-testar likviditet dygnet runt utan mänsklig inblandning.
 

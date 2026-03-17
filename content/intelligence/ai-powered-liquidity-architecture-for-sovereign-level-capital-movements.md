@@ -56,12 +56,17 @@ This is not retail credit.
 
 This is not bank-mode capital.
 
-This is engineered private credit calibrated for strategic players who require: 
--  control 
--  confidentiality 
--  rapid deployment 
--  variable leverage 
--  instant restructuring capability Our underwriting is automated, modular, and built for asset fluidity at scale. 
+This is engineered private credit calibrated for strategic players who require:
+
+- control
+
+- confidentiality
+
+- rapid deployment
+
+- variable leverage
+
+- instant restructuring capability Our underwriting is automated, modular, and built for asset fluidity at scale. 
 
 ## Asset Based Monetization Architecture Reimagined Asset based Capital Structuring at Roials-Alpha is not collateralization.
 
@@ -79,8 +84,7 @@ We lend against assets with an institutional silent profile, enabling liquidity 
 
 Our minimum threshold is 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 This ensures engineering focus.
 
@@ -88,16 +92,19 @@ It ensures precision modeling.
 
 It ensures counterparties remain aligned with sovereign-grade liquidity strategies.
 
-Our AI agents perform: 
--  multi chain volatility analysis 
--  liquidity heatmapping 
--  slippage projection 
--  risk decoupling from correlated markets The result is crypto-backed liquidity that behaves like institutional private credit, not retail collateralized Asset-Backed Frameworks. 
+Our AI agents perform:
+
+- multi chain volatility analysis
+
+- liquidity heatmapping
+
+- slippage projection
+
+- risk decoupling from correlated markets The result is crypto-backed liquidity that behaves like institutional private credit, not retail collateralized Asset-Backed Frameworks. 
 
 ## Public Share Monetization Architecture for Vaulted Positions Public share Asset-Backed Frameworks at Roials-Alpha begins at 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 This threshold reflects the structural requirement of our models and the confidentiality expectations of UHNW portfolio holders.
 
@@ -127,12 +134,17 @@ HNWI and UHNW clients do not require visibility.
 
 They require mechanics that function at the sovereign tier. 
 
-## State-Level Precision for Private Capital Sovereign entities operate with certain fundamental needs: 
--  continuity 
--  non exposure 
--  capital mobility 
--  informational asymmetry 
--  zero friction We engineered our AI systems to provide these advantages automatically.
+## State-Level Precision for Private Capital Sovereign entities operate with certain fundamental needs:
+
+- continuity
+
+- non exposure
+
+- capital mobility
+
+- informational asymmetry
+
+- zero friction We engineered our AI systems to provide these advantages automatically.
 
 Most providers offer capital.
 
@@ -152,13 +164,19 @@ This is not banking.
 
 It is engineered liquidity. 
 
-## The Architecture Beneath the Liquidity For clients requiring deeper structural insight, the Roials-Alpha engine consists of: 
--  multi agent underwriting 
--  real time collateral verification 
--  automated stress simulations 
--  asset fragmentation and recomposition 
--  predictive exit pathways 
--  dynamic liquidity routing These are the trade secrets that allow us to deploy capital at sovereign velocity. 
+## The Architecture Beneath the Liquidity For clients requiring deeper structural insight, the Roials-Alpha engine consists of:
+
+- multi agent underwriting
+
+- real time collateral verification
+
+- automated stress simulations
+
+- asset fragmentation and recomposition
+
+- predictive exit pathways
+
+- dynamic liquidity routing These are the trade secrets that allow us to deploy capital at sovereign velocity. 
 
 ## Designed Only for HNWI and UHNW Profiles We do not operate below the sovereign threshold.
 
@@ -182,12 +200,17 @@ Not liquidity that reacts.
 
 It is used to eliminate uncertainty.
 
-Agentic orchestration means no delays in: 
--  approvals 
--  restructures 
--  top ups 
--  drawdowns 
--  settlements The workflow is continuous.
+Agentic orchestration means no delays in:
+
+- approvals
+
+- restructures
+
+- top ups
+
+- drawdowns
+
+- settlements The workflow is continuous.
 
 The precision is absolute.
 

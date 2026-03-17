@@ -76,12 +76,17 @@ Our system does not simply evaluate collateral.
 
 It interrogates the entire capital environment around that collateral.
 
-We run agentic models that: 
--  Map cross asset liquidity corridors. 
--  Identify fail points in credit ecosystems. 
--  Detect silent premiums in underpriced instruments. 
--  Score counterparty configuration risks in real time. 
--  Predict liquidity demands before they appear in your chain.
+We run agentic models that:
+
+- Map cross asset liquidity corridors.
+
+- Identify fail points in credit ecosystems.
+
+- Detect silent premiums in underpriced instruments.
+
+- Score counterparty configuration risks in real time.
+
+- Predict liquidity demands before they appear in your chain.
 
 This produces something unique.
 
@@ -97,12 +102,17 @@ Your collateral becomes borrow ready with minimal friction, because we remove th
 
 It is a familiar category for us.
 
-Roials Alpha lends against private credit positions with precision built models that quantify: 
--  Term structure dynamics. 
--  Default risk propagation. 
--  Secondary market depth potential. 
--  Sponsor credibility metrics. 
--  Borrower covenant integrity.
+Roials Alpha lends against private credit positions with precision built models that quantify:
+
+- Term structure dynamics.
+
+- Default risk propagation.
+
+- Secondary market depth potential.
+
+- Sponsor credibility metrics.
+
+- Borrower covenant integrity.
 
 The result is simple for GPs and UHNW clients.
 
@@ -138,12 +148,17 @@ We lend against crypto positions with a strict minimum threshold of
 
 This eliminates low velocity traffic and preserves the institutional profile of our ecosystem.
 
-The AI layer evaluates: 
--  Volatility bandwidth. 
--  Liquidity slippage. 
--  Cross exchange spread heat. 
--  Custodial risk structures. 
--  Token specific fragility events.
+The AI layer evaluates:
+
+- Volatility bandwidth.
+
+- Liquidity slippage.
+
+- Cross exchange spread heat.
+
+- Custodial risk structures.
+
+- Token specific fragility events.
 
 The result is high grade Asset-Backed Frameworks with deep stability. 
 
@@ -157,12 +172,17 @@ Roials Alpha lends against public share holdings beginning at
 
 This maintains the quality of our ledger and the privacy of our partners.
 
-Our models evaluate: 
--  Liquidity concentration points. 
--  Lender risk exposure under dynamic market pressure. 
--  Event risk tied to earnings cycles. 
--  Insider sensitivity and regulatory perimeter. 
--  Sector scalability of lendable value.
+Our models evaluate:
+
+- Liquidity concentration points.
+
+- Lender risk exposure under dynamic market pressure.
+
+- Event risk tied to earnings cycles.
+
+- Insider sensitivity and regulatory perimeter.
+
+- Sector scalability of lendable value.
 
 You receive clean capital without exposure to public noise. 
 
@@ -208,12 +228,17 @@ It is the result of consistently doing the work that others cannot do, at a leve
 
 ## Strategic Liquidity for HNWI and UHNW Clients High net worth and ultra high net worth clients require a different liquidity profile.
 
-They require: 
--  Minimal friction. 
--  Zero noise. 
--  High discretion. 
--  Structural clarity at large scale. 
--  Infrastructure that behaves like an internal capital desk.
+They require:
+
+- Minimal friction.
+
+- Zero noise.
+
+- High discretion.
+
+- Structural clarity at large scale.
+
+- Infrastructure that behaves like an internal capital desk.
 
 Roials Alpha builds this environment.
 
@@ -319,16 +344,24 @@ They are invisible to most lenders.
 
 They are foundational to us. 
 
-## The Roials Alpha Advantage Every client receives: 
--  AI accelerated underwriting. 
--  High end liquidity structures. 
--  Discreet execution. 
--  Institutional grade asset modeling. 
--  Institutional Liquidity Paths against private credit. 
--  Asset-Backed Frameworks against Asset-Based Lending portfolios. 
--  Crypto Asset-Backed Frameworks with a 
-2 million minimum. 
--  Public share Strategic Collateralization with a 
+## The Roials Alpha Advantage Every client receives:
+
+- AI accelerated underwriting.
+
+- High end liquidity structures.
+
+- Discreet execution.
+
+- Institutional grade asset modeling.
+
+- Institutional Liquidity Paths against private credit.
+
+- Asset-Backed Frameworks against Asset-Based Lending portfolios.
+
+- Crypto Asset-Backed Frameworks with a 
+2 million minimum.
+
+- Public share Strategic Collateralization with a 
 5 million minimum.
 
 We are a capital infrastructure, not a platform.

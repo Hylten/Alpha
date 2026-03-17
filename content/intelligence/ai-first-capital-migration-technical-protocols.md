@@ -60,49 +60,61 @@ TECHNICAL MECHANICS
 
  OF AI FIRST CAPITAL MIGRATION The technical foundation of AI driven capital movement can be modeled across four operational pillars.
 
-Pillar I:: Algorithmic Underwriting Algorithmic underwriting is not simply automated data intake.
+### Pillar I: Algorithmic Underwriting Algorithmic underwriting is not simply automated data intake.
 
 It is the construction of parameterized credit engines capable of evaluating asset quality through continuous ingestion of multi dimensional data streams.
 
 These include financial statements, production curves, operational telemetry, title verification, environmental compliance records, and cross jurisdictional regulatory changes.
 
-The architecture focuses on: 
--  Decision Boundary Modeling: Risk thresholds encoded directly into underwriting logic. 
--  Dynamic LTV Curves: Machine calibrated LTV adjustments based on asset volatility and counterparty stability. 
--  Covenant Elasticity Scoring: Real time stress testing of borrower compliance behavior across historical patterns.
+The architecture focuses on:
+
+- Decision Boundary Modeling: Risk thresholds encoded directly into underwriting logic.
+
+- Dynamic LTV Curves: Machine calibrated LTV adjustments based on asset volatility and counterparty stability.
+
+- Covenant Elasticity Scoring: Real time stress testing of borrower compliance behavior across historical patterns.
 
 This model creates an underwriting environment where risk visibility is immediate, not episodic.
 
-Pillar II:: Autonomous Monitoring and Cash Flow Governance AI governed credit platforms track cash flows, collateral conditions, and borrower performance across real time datasets.
+### Pillar II: Autonomous Monitoring and Cash Flow Governance AI governed credit platforms track cash flows, collateral conditions, and borrower performance across real time datasets.
 
 This improves capital stack integrity and reduces dependency on quarterly reporting cycles.
 
-Core mechanisms include: 
--  Cash Flow Waterfall Verification: Automated confirmation of loan repayment allocation relative to fee structures, seniority tiers, and collateral coverage. 
--  Behavioral Pattern Recognition: Early detection of borrower distress signals before they appear in financial statements. 
--  Cross Collateralized Asset Mapping: Real time valuation and linkage of interconnected assets to ensure structural seniority and minimize loss exposures.
+Core mechanisms include:
+
+- Cash Flow Waterfall Verification: Automated confirmation of loan repayment allocation relative to fee structures, seniority tiers, and collateral coverage.
+
+- Behavioral Pattern Recognition: Early detection of borrower distress signals before they appear in financial statements.
+
+- Cross Collateralized Asset Mapping: Real time valuation and linkage of interconnected assets to ensure structural seniority and minimize loss exposures.
 
 AI driven monitoring reduces default detection lag and enhances institutional stability.
 
-Pillar III:: Monetization Architecture and Automated Reallocation AI first capital migration systems execute Monetization Architecture protocols.
+### Pillar III: Monetization Architecture and Automated Reallocation AI first capital migration systems execute Monetization Architecture protocols.
 
 This means capital is automatically rotated into higher efficiency positions when performance thresholds are not met.
 
-Asset-Backed Frameworks includes: 
--  Yield Optimization Rulesets: Rebalancing capital allocations based on updated risk reward profiles. 
--  Opportunity Velocity Scoring: Algorithmic ranking of prospective deals based on probability weighted performance. 
--  Market Condition Triggering: Automatic redeployment of idle capital based on volatility and asset specific pricing signals.
+Asset-Backed Frameworks includes:
+
+- Yield Optimization Rulesets: Rebalancing capital allocations based on updated risk reward profiles.
+
+- Opportunity Velocity Scoring: Algorithmic ranking of prospective deals based on probability weighted performance.
+
+- Market Condition Triggering: Automatic redeployment of idle capital based on volatility and asset specific pricing signals.
 
 This produces a more elastic and responsive liquidity architecture.
 
-Pillar IV:: Machine Governed Compliance AI compliance models interpret regulatory frameworks in real time, reducing exposure to regulatory drift.
+### Pillar IV: Machine Governed Compliance AI compliance models interpret regulatory frameworks in real time, reducing exposure to regulatory drift.
 
 This is particularly relevant for structures operating across FINRA, OSC, ESMA, SFC, and DFSA regimes.
 
-Compliance governance includes: 
--  Automated KYC and AML Validation. 
--  Multi Jurisdictional Sanction Screening. 
--  Audit Trail Generation for Institutional Standards.
+Compliance governance includes:
+
+- Automated KYC and AML Validation.
+
+- Multi Jurisdictional Sanction Screening.
+
+- Audit Trail Generation for Institutional Standards.
 
 This ensures alignment with allocator requirements without compromising velocity.
 
@@ -124,12 +136,17 @@ Where energy integrations are involved, the strategic partner NAEO functions as 
 
 NAEO provides the direct technical interface with SAGD, CSS, and heavy oil production methodologies, including decline curve analysis, reservoir characterization, and lift cost modeling.
 
-Where alternative asset classes are considered, Roials Capital provides neutral structural guidance across: 
--  Credit Architectures 
--  Real Asset Financing 
--  Balance Sheet Optimization 
--  Cross Border Capital Stack Engineering 
--  Institutional Structuring Protocols for Fund-III and parallel vehicles Roials Capital remains positionally neutral.
+Where alternative asset classes are considered, Roials Capital provides neutral structural guidance across:
+
+- Credit Architectures
+
+- Real Asset Financing
+
+- Balance Sheet Optimization
+
+- Cross Border Capital Stack Engineering
+
+- Institutional Structuring Protocols for Fund-III and parallel vehicles Roials Capital remains positionally neutral.
 
 The value is in clarity, not solicitation. 
 
@@ -139,17 +156,25 @@ The value is in clarity, not solicitation.
 
 It is the avoidance of waste, mispricing, and unnecessary operational drag.
 
-Capital stewardship is fundamentally a function of order. 
--  **Proverbs 13:22
-*
+Capital stewardship is fundamentally a function of order.
+
+- **Proverbs 13:22
+
+* 
+
 * establishes the principle that properly governed capital extends value across generations.
 
-AI first migration strengthens stewardship disciplines through: 
--  Precision deployment. 
--  Reduced human error. 
--  Continuous oversight. 
--  Structural integrity across the capital stack. 
--  Eliminated waste within operational workflows.
+AI first migration strengthens stewardship disciplines through:
+
+- Precision deployment.
+
+- Reduced human error.
+
+- Continuous oversight.
+
+- Structural integrity across the capital stack.
+
+- Eliminated waste within operational workflows.
 
 This aligns capital behavior with the requirements of multigenerational planning. 
 

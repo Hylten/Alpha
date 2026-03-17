@@ -146,12 +146,17 @@ For allocators focusing on private credit, Roials Capital provides
 
  and structuring intelligence.
 
-The structures often include: 
--  Senior secured lending models. 
--  Cross collateralization where multiple energy assets support a unified credit facility. 
--  LTV calibration aligned with production forecasts and reservoir performance. 
--  Multi tranche waterfalls that allocate cash flow to various capital layers. 
--  Liability stacking avoidance to preserve operational solvency at the operator level.
+The structures often include:
+
+- Senior secured lending models.
+
+- Cross collateralization where multiple energy assets support a unified credit facility.
+
+- LTV calibration aligned with production forecasts and reservoir performance.
+
+- Multi tranche waterfalls that allocate cash flow to various capital layers.
+
+- Liability stacking avoidance to preserve operational solvency at the operator level.
 
 The partnership model is not based on product distribution.
 
@@ -173,9 +178,12 @@ It is an operational discipline.
 
 In this framework, capital is treated as a scarce resource that must be deployed with precision and accountability.
 
-Intelligent capital deployment mirrors the principle of non wasteful management referenced in 
--  **Proverbs 13:22
-*
+Intelligent capital deployment mirrors the principle of non wasteful management referenced in
+
+- **Proverbs 13:22
+
+* 
+
 * .
 
 Agentic wealth mobility must operate within this stewardship logic.

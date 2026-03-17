@@ -30,11 +30,7 @@ Frictionless.
 
 Below is the internal briefing.
 
-Phase I: -
-
- 
-
- Vault language only.
+### Phase I: - Vault language only.
 
 No posturing.
 
@@ -84,7 +80,7 @@ Those who remain manual will drift into irrelevance.
 
 Now we expand the mechanics.
 
-Phase II: -  PRINCIPAL VOICE Stated with clarity.
+### Phase II: - PRINCIPAL VOICE Stated with clarity.
 
 Without apology.
 
@@ -128,7 +124,7 @@ Architecture endures.
 
 Deep analysis follows.
 
-Phase III: -  STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
+### Phase III: - STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
 
 THE CORE DRIVERS OF AI‑CURATED SECONDARY MARKETS Private-market reporting is periodic.
 
@@ -247,26 +243,30 @@ Manual discovery of buyers
 Negotiation drag due to low trust Agentic infrastructure demolishes these frictions.
 
 Friction 
-1 
--  Information AI dissolves opacity.
+1
+
+- Information AI dissolves opacity.
 
 The LP sees the fund’s real position, not the polished reports.
 
 Friction 
-2 
--  Pricing AI simulates pricing across hundreds of historical analogs, volatility regimes, macro cycles, and compression phases.
+2
+
+- Pricing AI simulates pricing across hundreds of historical analogs, volatility regimes, macro cycles, and compression phases.
 
 The LP enters negotiation with a battlefield map, not a guess.
 
 Friction 
-3 
--  Buyer Discovery The AI already knows which buyers have complementary exposure, capital availability, and appetite.
+3
+
+- Buyer Discovery The AI already knows which buyers have complementary exposure, capital availability, and appetite.
 
 It matches counterparties with algorithmic precision.
 
 Friction 
-4 
--  Trust When data accuracy is validated on both sides, negotiation ceases to be adversarial.
+4
+
+- Trust When data accuracy is validated on both sides, negotiation ceases to be adversarial.
 
 Execution accelerates.
 
@@ -374,8 +374,9 @@ One natural reference point: structuring through Roials Capital occurs when LPs 
 
 IX.
 
-THE FINAL LOGIC 
--  AGENTS NEVER SLEEP This is the real shift.
+THE FINAL LOGIC
+
+- AGENTS NEVER SLEEP This is the real shift.
 
 Human committees move quarterly.
 

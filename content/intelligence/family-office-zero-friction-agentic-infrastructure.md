@@ -58,11 +58,7 @@ Flow must become autonomous.
 
 Now the architecture.
 
-PHASE I: 
-
- 
-
- (Private vaulted brief) The core problem is not sourcing.
+### Phase I: (Private vaulted brief) The core problem is not sourcing.
 
 The world is drowning in deal flow.
 
@@ -202,7 +198,7 @@ Move.
 
 Or don’t move.
 
-PHASE II: INTERNAL TONE (Principal voice) You are not building a tool.
+### Phase II: INTERNAL TONE (Principal voice) You are not building a tool.
 
 You are constructing a spine.
 
@@ -234,7 +230,7 @@ Precision wins.
 
 Clean execution wins.
 
-PHASE III: THE VARIATION (short cadence for impact) Speed matters.
+### Phase III: THE VARIATION (short cadence for impact) Speed matters.
 
 Latency kills.
 
@@ -250,17 +246,17 @@ Return to depth.
 
 THE AGENTIC STACK FOR FAMILY OFFICES (Technical dominance) The architecture emerges in layers:
 
-Layer I:: Identity of Capital
+### Layer I: Identity of Capital
 
-Layer II:: Intake & Signal Fusion
+### Layer II: Intake & Signal Fusion
 
-Layer III:: Autonomous Underwriting & Risk Logic
+### Layer III: Autonomous Underwriting & Risk Logic
 
-Layer IV:: Multi‑Agent Coordination Mesh
+### Layer IV: Multi‑Agent Coordination Mesh
 
-Layer V:: Execution Interface for Principals
+### Layer V: Execution Interface for Principals
 
-Layer I:: Identity of Capital Family offices are not funds.
+### Layer I: Identity of Capital Family offices are not funds.
 
 They are sovereign capital vehicles with multi-generational horizons.
 
@@ -269,14 +265,23 @@ The machine must understand the identity of the capital before it processes a si
 This is not a mission statement.
 
 It is encoded preference architecture:
+
 • preferred time horizon
+
 • liquidity tolerance
+
 • conviction sectors
+
 • veto sectors
+
 • governance constraints
+
 • acceptable counterparty risk profiles
+
 • cyclicality tolerance
+
 • downside floors
+
 • upside thresholds The agent moves within these lines.
 
 Unbreakable.
@@ -285,7 +290,7 @@ Unbendable.
 
 This is how you create consistency without bureaucracy.
 
-Layer II:: Intake & Signal Fusion The agent ingests everything.
+### Layer II: Intake & Signal Fusion The agent ingests everything.
 
 Deal rooms.
 
@@ -317,7 +322,7 @@ The family office no longer “receives deals”.
 
 It harvests markets.
 
-Layer III:: Autonomous Underwriting The system runs financials.
+### Layer III: Autonomous Underwriting The system runs financials.
 
 Builds models.
 
@@ -339,7 +344,7 @@ Not after.
 
 Now.
 
-Layer IV:: Multi-Agent Coordination Mesh This is the real engine.
+### Layer IV: Multi-Agent Coordination Mesh This is the real engine.
 
 One agent would be linear.
 
@@ -371,7 +376,7 @@ With no friction.
 
 This is where the machine becomes stronger than any internal team.
 
-Layer V:: Principal Interface You do not need dashboards.
+### Layer V: Principal Interface You do not need dashboards.
 
 You need decision clarity.
 
@@ -384,8 +389,11 @@ One actionable path.
 Nothing more.
 
 The system presents three options:
+
 • Move
+
 • Hold
+
 • Reject Every option is backed by underlying architecture the Principal can expand if desired, but rarely needs to.
 
 The machine already did the work.

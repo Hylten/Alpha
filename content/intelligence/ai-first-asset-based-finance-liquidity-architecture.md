@@ -53,8 +53,11 @@ Probability-weighted.
 Bound by computational sovereignty.
 
 The operator is the architect who understands three converging vectors:
+
 • Algorithmic underwriting
+
 • Multi-asset intelligence
+
 • Cross-border liquidity routing Machine-first.
 
 Asset-led.
@@ -96,6 +99,7 @@ Assets power liquidity algorithms.
 Old finance asks: What is the collateral worth today?
 
 AI-first finance asks: What can the collateral *become
+
 * when probability is optimized?
 
 This is the institutional delta.
@@ -119,9 +123,13 @@ Cross-asset correlation is no longer a research issue-it becomes a baseline func
 The core engine: Multi-Layer Asset Intelligence (MLAI).
 
 Resolves four constraints:
+
 • Hidden depreciation vectors
+
 • Synthetic valuation inflation
+
 • Jurisdictional leakage
+
 • Liquidity distortion across private markets HNWI and UHNW family offices controlling multi-asset portfolios traditionally suffer from information asymmetry.
 
 Brokers gate data.
@@ -237,9 +245,12 @@ Suggests alternative domiciles.
 
 Moves credit exposure from high-tax zones to efficient corridors.
 
-Portfolio shifts from reactive to anticipatory. 
--  **Proverbs 13:22
-*
+Portfolio shifts from reactive to anticipatory.
+
+- **Proverbs 13:22
+
+* 
+
 * : wealth inherits across generations when structure precedes opportunity.
 
 The architecture treats wealth as a system.
@@ -278,10 +289,9 @@ The office becomes a computational organism.
 
 The yield shift is quantifiable.
 
-AI-first credit structures routinely outperform traditional private credit by 80-
+AI-first credit structures routinely outperform traditional private credit by 80
 
-18
-0 bps because machine underwriting captures nuance.
+- 180 bps because machine underwriting captures nuance.
 
 Asset risk bands tighten.
 
@@ -414,8 +424,11 @@ Liquidity will be predictive.
 Winners will be principals who architect systems-not outsource decisions.
 
 AI-first asset-based finance shifts principal identity:
+
 • From borrower to issuer
+
 • From participant to architect
+
 • From reactive to sovereign This is the Roials-Alpha posture: no dependency.
 
 No drift.
@@ -494,9 +507,12 @@ Digital assets become collateral overlays.
 
 Jurisdictional arbitrage becomes default posture.
 
-AI-first underwriting becomes the spine of the system. 
--  **Proverbs 13:22
-*
+AI-first underwriting becomes the spine of the system.
+
+- **Proverbs 13:22
+
+* 
+
 * applies: the good father leaves inheritance.
 
 But the sovereign architect leaves infrastructure.

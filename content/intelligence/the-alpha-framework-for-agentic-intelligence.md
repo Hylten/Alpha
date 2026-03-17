@@ -45,8 +45,7 @@ The minimums exist because the system requires scale.
 A 
 2 million dollar crypto liquidity facility behaves differently from a 
 
-20
-0 thousand dollar liquidity facility.
+200 thousand dollar liquidity facility.
 
 A 
 5 million dollar public share Monetization Architecture position behaves differently from a micro portfolio.

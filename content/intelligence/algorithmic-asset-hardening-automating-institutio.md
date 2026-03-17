@@ -56,10 +56,13 @@ Not self-expression.
 
 Not indulgence.
 
-Stewardship requires clarity in three fronts. 
--  Order 
--  Accountability 
--  Predictability When integrated with algorithmic intelligence, these fronts become measurable and enforceable.
+Stewardship requires clarity in three fronts.
+
+- Order
+
+- Accountability
+
+- Predictability When integrated with algorithmic intelligence, these fronts become measurable and enforceable.
 
 Institutional scrutiny is then not performed retroactively.
 
@@ -119,24 +122,35 @@ It is not off-the-shelf software.
 
 It is proprietary stack engineering.
 
-The stack produces three principal outcomes. 
--  Algorithmic deal origination 
--  Automated covenant verification 
--  AI-driven execution velocity The stack converts fragmented markets into mapped territories.
+The stack produces three principal outcomes.
+
+- Algorithmic deal origination
+
+- Automated covenant verification
+
+- AI-driven execution velocity The stack converts fragmented markets into mapped territories.
 
 It converts opaque assets into quantified structures.
 
 It converts informal business behavior into institution-ready patterns. # Algorithmic Asset Hardening Asset hardening is the process of transforming any collateral or operational entity into a structure suitable for institutional verification.
 
-This requires: 
--  Governance mapping 
--  Collateral transparency 
--  Capital segregation 
--  Cashflow purification 
--  Pattern-based risk scoring 
--  Counterparty integrity analysis 
--  Covenant stability modeling 
--  Temporal risk distribution Algorithmic asset hardening does not wait for human expertise.
+This requires:
+
+- Governance mapping
+
+- Collateral transparency
+
+- Capital segregation
+
+- Cashflow purification
+
+- Pattern-based risk scoring
+
+- Counterparty integrity analysis
+
+- Covenant stability modeling
+
+- Temporal risk distribution Algorithmic asset hardening does not wait for human expertise.
 
 It enforces structural alignment automatically.
 
@@ -156,15 +170,23 @@ Its thresholds are definable.
 
 Its pressure points are measurable.
 
-Roials-Alpha codifies these into intelligence modules. 
--  Liquidity strain detection 
--  Governance failure inference 
--  Delta anomalies in cash velocity 
--  Counterparty faithfulness scoring 
--  Balance sheet resilience modeling 
--  Asset exposure triangulation 
--  Timing sensitivity engines 
--  Principal risk displacement forecasting These modules run without emotional distortion.
+Roials-Alpha codifies these into intelligence modules.
+
+- Liquidity strain detection
+
+- Governance failure inference
+
+- Delta anomalies in cash velocity
+
+- Counterparty faithfulness scoring
+
+- Balance sheet resilience modeling
+
+- Asset exposure triangulation
+
+- Timing sensitivity engines
+
+- Principal risk displacement forecasting These modules run without emotional distortion.
 
 They run without founder stories.
 
@@ -182,12 +204,17 @@ The reduction of delay between signal and decision.
 
 Market inefficiencies are temporal gaps.
 
-Roials-Alpha closes these gaps through agentic systems. 
--  Automated documentation synthesis 
--  Real time covenant surveillance 
--  Direct data ingestion from operator systems 
--  Counterparty integrity evaluation 
--  Sovereign decision engines independent of human bandwidth Execution velocity produces advantage.
+Roials-Alpha closes these gaps through agentic systems.
+
+- Automated documentation synthesis
+
+- Real time covenant surveillance
+
+- Direct data ingestion from operator systems
+
+- Counterparty integrity evaluation
+
+- Sovereign decision engines independent of human bandwidth Execution velocity produces advantage.
 
 Advantage compounds.
 
@@ -203,11 +230,15 @@ Roials-Alpha delivers it through intelligence architecture. # The Spiritual Arch
 
 It is operational discipline.
 
-The Spirit of Gnosjö reflects four values. 
--  Work as worship 
--  Community as covenant 
--  Order as testimony 
--  Diligence as vocation These values integrate seamlessly with institutional mandates.
+The Spirit of Gnosjö reflects four values.
+
+- Work as worship
+
+- Community as covenant
+
+- Order as testimony
+
+- Diligence as vocation These values integrate seamlessly with institutional mandates.
 
 Institutional allocators want order.
 
@@ -303,15 +334,23 @@ They protect the integrity of
 
 .
 
-They protect the covenant. # Principal-Grade Counterparty Selection Not all operators qualify. 
--  Inability to demonstrate operational faithfulness 
--  Absence of covenant literacy 
--  Non-alignment with stewardship principles Counterparties must reflect: 
--  Predictability 
--  Maturity 
--  Order 
--  Responsibility 
--  Structural discipline The operator must treat capital as sacred trust.
+They protect the covenant. # Principal-Grade Counterparty Selection Not all operators qualify.
+
+- Inability to demonstrate operational faithfulness
+
+- Absence of covenant literacy
+
+- Non-alignment with stewardship principles Counterparties must reflect:
+
+- Predictability
+
+- Maturity
+
+- Order
+
+- Responsibility
+
+- Structural discipline The operator must treat capital as sacred trust.
 
 Not fuel for improvisation.
 
@@ -325,15 +364,23 @@ It is a gate.
 
 Operators are admitted only when their structure aligns with institutional expectations.
 
-The system evaluates: 
--  Asset stability 
--  Liquidity posture 
--  Covenant reliability 
--  Governance hygiene 
--  Counterparty strength 
--  Failure signatures 
--  Hidden liabilities 
--  Cash timing discipline These evaluation layers operate continuously.
+The system evaluates:
+
+- Asset stability
+
+- Liquidity posture
+
+- Covenant reliability
+
+- Governance hygiene
+
+- Counterparty strength
+
+- Failure signatures
+
+- Hidden liabilities
+
+- Cash timing discipline These evaluation layers operate continuously.
 
 Institutional readiness becomes a maintained state.
 
@@ -343,15 +390,23 @@ Reactive underwriting responds to surface data.
 
 Principal underwriting anticipates.
 
-Roials-Alpha models: 
--  Future covenant breaches 
--  Temporal stress points 
--  Capital deterioration 
--  Counterparty decay 
--  Margin instability 
--  Operational drift 
--  Timeline collisions 
--  Structural misalignments Anticipation is structural advantage.
+Roials-Alpha models:
+
+- Future covenant breaches
+
+- Temporal stress points
+
+- Capital deterioration
+
+- Counterparty decay
+
+- Margin instability
+
+- Operational drift
+
+- Timeline collisions
+
+- Structural misalignments Anticipation is structural advantage.
 
 Advantage becomes alpha.
 

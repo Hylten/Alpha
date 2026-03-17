@@ -10,15 +10,11 @@ The capital vacuum across private markets is not a function of asset deteriorati
 
 Institutional GPs are operating in a regime where traditional capital recycling models no longer align with velocity requirements, underwriting horizons, or the cost of duration risk.
 
-The firms that maintain operational sovereignty through 20
-
-26 are those that transition to AI-first liquidity systems rather than relying on legacy capital formation cycles.
+The firms that maintain operational sovereignty through 2026 are those that transition to AI-first liquidity systems rather than relying on legacy capital formation cycles.
 
 THE REGIME SHIFT
 
- The post‑20
-
-24 capital regime is defined by three converging pressures that are reshaping institutional GP operations.
+ The post‑2024 capital regime is defined by three converging pressures that are reshaping institutional GP operations.
 
 First is the liquidity compression driven by refinance congestion.
 
@@ -156,9 +152,12 @@ GPs must operate with transparency, data integrity, and continuous calibration.
 
 Portfolio oversight requires algorithmic rigor, not static reporting cadences.
 
-This aligns with the principle in 
--  **Proverbs 15:22
-*
+This aligns with the principle in
+
+- **Proverbs 15:22
+
+* 
+
 * : Without counsel purposes fail, but with many advisers they succeed.
 
 The adviser in this context is the system itself.
@@ -173,9 +172,12 @@ Waste, inefficiency, and opacity are forms of misallocation.
 
 The allocator is a steward, not an extractor.
 
-This aligns with 
--  **Proverbs 13:22
-*
+This aligns with
+
+- **Proverbs 13:22
+
+* 
+
 * : A good person leaves an inheritance to their children's children.
 
 In institutional terms, this means building capital structures resilient enough to endure beyond a single cycle.

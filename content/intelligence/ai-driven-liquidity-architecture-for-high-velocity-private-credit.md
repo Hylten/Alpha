@@ -78,8 +78,7 @@ For HNWI and UHNW operators who navigate complexity at scale, this adaptive syst
 
 ## Crypto Institutional Liquidity Paths for Institutional Grade Positions Roials Alpha provides crypto Monetization Architecture with a minimum threshold of 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 Below that, the risk to signal ratio becomes inefficient for institutional grade capital.
 
@@ -99,8 +98,7 @@ This is essential for UHNW participants who operate large tokenized positions an
 
 ## Public Share Strategic Collateralization for Significant Equity Blocks Minimum threshold: 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 At this scale, equity blocks behave differently.
 

@@ -84,12 +84,17 @@ It adjusts exposure, recalculates thresholds, and optimizes liquidity availabili
 
 This transforms Strategic Collateralization from a static service into a living system.
 
-For clients with substantial holdings in private credit or asset-based assets, this means: 
--  Liquidity without long negotiation cycles 
--  Precision asset valuation 
--  Automated compliance 
--  High confidence execution 
--  Zero dependency on institutional timing principal authority at the infrastructure layer.
+For clients with substantial holdings in private credit or asset-based assets, this means:
+
+- Liquidity without long negotiation cycles
+
+- Precision asset valuation
+
+- Automated compliance
+
+- High confidence execution
+
+- Zero dependency on institutional timing principal authority at the infrastructure layer.
 
 That is the principle.
 
@@ -111,11 +116,15 @@ Cash flow patterns, covenant structures, and counterparty risk are parsed by the
 
 The autonomous engine then assigns collateral health scores and allocates liquidity accordingly.
 
-This architecture enables: 
--  Rapid release of capital 
--  Dynamic liquidity facility-to-value calibration 
--  Continuous collateral monitoring 
--  Ultra-low friction refinancing HNWI and UHNW clients gain Access is restricted to approved mandates.
+This architecture enables:
+
+- Rapid release of capital
+
+- Dynamic liquidity facility-to-value calibration
+
+- Continuous collateral monitoring
+
+- Ultra-low friction refinancing HNWI and UHNW clients gain Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
@@ -217,12 +226,17 @@ Liquidity.
 
 These are now alpha factors.
 
-Autonomous finance optimizes all three. 
--  Faster liquidity unlock means capital moves earlier 
--  Automated valuation creates tighter pricing 
--  Reduced friction lowers opportunity cost 
--  Data-driven underwriting reduces behavioral bias 
--  Continuous monitoring prevents adverse events Roials-Alpha does not simply lend.
+Autonomous finance optimizes all three.
+
+- Faster liquidity unlock means capital moves earlier
+
+- Automated valuation creates tighter pricing
+
+- Reduced friction lowers opportunity cost
+
+- Data-driven underwriting reduces behavioral bias
+
+- Continuous monitoring prevents adverse events Roials-Alpha does not simply lend.
 
 We create liquidity architecture that amplifies the effectiveness of client strategy.
 
@@ -264,15 +278,21 @@ They experience the output: frictionless liquidity precision.
 
 These benefits are unavailable through commercial banks or retail-centric digital lenders.
 
-Clients gain: 
--  Faster liquidity against complex assets 
--  Higher reliability and lower friction 
--  Full confidentiality 
--  Direct Access is restricted to approved mandates.
+Clients gain:
+
+- Faster liquidity against complex assets
+
+- Higher reliability and lower friction
+
+- Full confidentiality
+
+- Direct Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
--  A strategic partner that operates without noise 
--  Precision execution without negotiation loops The more complex the asset structure, the more the system becomes.
+
+- A strategic partner that operates without noise
+
+- Precision execution without negotiation loops The more complex the asset structure, the more the system becomes.
 
 For UHNW operators, the liquidity architecture becomes a competitive moat. 
 

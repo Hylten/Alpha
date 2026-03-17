@@ -80,12 +80,17 @@ The information asymmetry is too costly.
 
 Roials-Alpha replaces network drag with computational scanning.
 
-Inputs include: 
--  Sector-specific kinetic indicators. 
--  Liquidity stress signals across privately held companies. 
--  Anomalies in collateral composition. 
--  Director behavior shifts that predict covenant drift. 
--  Time-weighted performance curves.
+Inputs include:
+
+- Sector-specific kinetic indicators.
+
+- Liquidity stress signals across privately held companies.
+
+- Anomalies in collateral composition.
+
+- Director behavior shifts that predict covenant drift.
+
+- Time-weighted performance curves.
 
 The algorithms do not search for borrowers.
 
@@ -161,12 +166,17 @@ Roials-Alpha treats them as moral structures as well.
 
 This dual-anchor produces differentiated outcomes.
 
-AI modules monitor: 
--  Drift in revenue recognition. 
--  Shifts in counterparty behavior. 
--  Silent leverage accumulation. 
--  Delays in regulatory filings. 
--  Time pattern irregularities in payments.
+AI modules monitor:
+
+- Drift in revenue recognition.
+
+- Shifts in counterparty behavior.
+
+- Silent leverage accumulation.
+
+- Delays in regulatory filings.
+
+- Time pattern irregularities in payments.
 
 When a covenant moves out of alignment, intervention is immediate.
 
@@ -218,11 +228,15 @@ Capital arrives at the optimal moment, not the convenient moment. # Technical St
 
 Precision Architecture by Jonas Hyltén Every layer of the Roials-Alpha stack is engineered for Principal grade sovereignty.
 
-Components include: 
--  Automated triage engines that assign viability vectors. 
--  AI based collateral grading that converts raw data into deterministic liquidation matrices. 
--  Cross market sentiment filters to identify opportunistic volatility. 
--  Counterparty stability indexing that blends financial data and behavioral signatures.
+Components include:
+
+- Automated triage engines that assign viability vectors.
+
+- AI based collateral grading that converts raw data into deterministic liquidation matrices.
+
+- Cross market sentiment filters to identify opportunistic volatility.
+
+- Counterparty stability indexing that blends financial data and behavioral signatures.
 
 This is not off shelf software.
 
@@ -236,9 +250,11 @@ Built for discretion.
 
 The stack is silent but absolute. # liquidity engineering Thresholds.
 
-Clarity and Authority Roials-Alpha maintains firm thresholds to ensure portfolio integrity. 
--  Crypto collateral Capital Structuring minimum 2M. 
--  Public share collateral Institutional Liquidity Paths minimum 5M.
+Clarity and Authority Roials-Alpha maintains firm thresholds to ensure portfolio integrity.
+
+- Crypto collateral Capital Structuring minimum 2M.
+
+- Public share collateral Institutional Liquidity Paths minimum 5M.
 
 These thresholds are non negotiable.
 
@@ -288,11 +304,15 @@ Roials-Alpha uses AI to extend the will of the Principal into all layers of the 
 
 Intelligence is deployed as a boundary, a filter, and a weapon against inefficiency.
 
-This creates a self reinforcing system: 
--  Better intelligence produces cleaner deal flow. 
--  Cleaner deal flow produces stronger covenants. 
--  Stronger covenants produce higher continuity. 
--  Higher continuity strengthens capital sovereignty.
+This creates a self reinforcing system:
+
+- Better intelligence produces cleaner deal flow.
+
+- Cleaner deal flow produces stronger covenants.
+
+- Stronger covenants produce higher continuity.
+
+- Higher continuity strengthens capital sovereignty.
 
 This is the loop.
 

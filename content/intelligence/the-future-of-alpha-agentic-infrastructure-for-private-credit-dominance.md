@@ -48,12 +48,17 @@ Structures cannot.
 
 The next generation of HNWI and UHNW wealth creation will rely on structural advantages, not speculative ones.
 
-Agentic infrastructure creates: 
--  Continuous valuation updates. 
--  Collateral routing across asset classes. 
--  Autonomous timing for liquidity extraction. 
--  Risk compression through data‑dense underwriting. 
--  Capital efficiency optimization on the micro and macro horizon.
+Agentic infrastructure creates:
+
+- Continuous valuation updates.
+
+- Collateral routing across asset classes.
+
+- Autonomous timing for liquidity extraction.
+
+- Risk compression through data‑dense underwriting.
+
+- Capital efficiency optimization on the micro and macro horizon.
 
 The investor who operates with agentic infrastructure will consistently outperform the investor who only has strategy decks and advisory models.
 
@@ -89,12 +94,17 @@ But private credit without communication to an automated intelligence layer is u
 
 It is capital that reacts instead of predicts.
 
-Agentic infrastructure transforms private credit into a precision instrument that dynamically adjusts to: 
--  Market volatility. 
--  Collateral behavior. 
--  Sector rotation patterns. 
--  Macro risk drift. 
--  Treasury curve influence.
+Agentic infrastructure transforms private credit into a precision instrument that dynamically adjusts to:
+
+- Market volatility.
+
+- Collateral behavior.
+
+- Sector rotation patterns.
+
+- Macro risk drift.
+
+- Treasury curve influence.
 
 This is not high fantasy autonomous infrastructure.
 
@@ -124,8 +134,7 @@ And capital behaves like an extension of their operating ecosystem, not an admin
 
 ## Crypto Capital Structuring for Mature Operators Only Roials‑Alpha sets a minimum threshold of 2,000,
 
-00
-0 USD for crypto‑backed Asset-Backed Frameworks.
+000 USD for crypto‑backed Asset-Backed Frameworks.
 
 This is intentional.
 
@@ -149,8 +158,7 @@ It is controlled collateral intelligence for serious operators.
 
 ## Public Share Asset-Backed Frameworks With Institutional Precision Minimum threshold: 5,000,
 
-00
-0 USD.
+000 USD.
 
 The public equities domain is fast.
 
@@ -158,12 +166,17 @@ The liquidity is deep.
 
 The volatility profile is analyzable with agentic infrastructure at an institutional standard.
 
-Roials‑Alpha applies an autonomous valuation engine to track: 
--  Intraday correlation changes. 
--  Cross‑sector shocks. 
--  Dividend expectation drift. 
--  Volatility regime transitions. 
--  Liquidity compression.
+Roials‑Alpha applies an autonomous valuation engine to track:
+
+- Intraday correlation changes.
+
+- Cross‑sector shocks.
+
+- Dividend expectation drift.
+
+- Volatility regime transitions.
+
+- Liquidity compression.
 
 For HNWI and UHNW borrowers with large equity blocks, this turns dormant holdings into precision‑grade leverage pathways.
 
@@ -187,12 +200,17 @@ Quiet precision is more than visible complexity.
 
 ## The Future Playbook: Autonomous Liquidity by Design The next decade of wealth mobility will be defined by agentic capital systems that operate continuously.
 
-These systems will: 
--  Reroute collateral to maximize credit efficiency. 
--  Anticipate liquidity needs before they surface. 
--  Model market shifts in real time. 
--  Execute credit decisions with institutional rigor. 
--  Reduce the latency between opportunity and capital deployment.
+These systems will:
+
+- Reroute collateral to maximize credit efficiency.
+
+- Anticipate liquidity needs before they surface.
+
+- Model market shifts in real time.
+
+- Execute credit decisions with institutional rigor.
+
+- Reduce the latency between opportunity and capital deployment.
 
 This creates asymmetry.
 

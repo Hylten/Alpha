@@ -6,9 +6,7 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-deal-flow-architecture-Fund-III"
 --- 
 
-The structural gap defining North American private credit in 20
-
-26 is not a scarcity of opportunities but an excess of unstructured information that cannot be processed by legacy underwriting systems.
+The structural gap defining North American private credit in 2026 is not a scarcity of opportunities but an excess of unstructured information that cannot be processed by legacy underwriting systems.
 
 Capital velocity decays when deal intake depends on human evaluation cycles.
 
@@ -180,9 +178,12 @@ Opportunity Honesty Each opportunity is represented mechanically, without narrat
 
 Data is evaluated on its own merit.
 
-This aligns with the ethics presented in 
--  **Proverbs 13:22
-*
+This aligns with the ethics presented in
+
+- **Proverbs 13:22
+
+* 
+
 * which highlight continuity, responsibility, and long horizon capital logic. 
 
 3.

@@ -35,45 +35,54 @@ In the old model, credit assessment is captured at a point in time.
 In an agentic model, credit assessment is a continuous flow state.
 
 Conventional systems check for:
+
 • Income
+
 • Credit scores
+
 • Static ratios Agentic underwriting checks for:
+
 • Dynamic asset behavior
+
 • Real time liquidity depth
+
 • Historical volatility signatures
+
 • Macro correlation patterns
+
 • Internal borrower risk topology
+
 • High frequency collateral health The difference is not incremental.
 
 The difference is exponential. 
 
 ## The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers.
 
-Layer I:: Collateral Intelligence Engine Evaluates collateral with structured models.
+### Layer I: Collateral Intelligence Engine Evaluates collateral with structured models.
 
 Operates continuously.
 
 Updates LTV parameters dynamically.
 
-Layer II:: Agentic Exposure Manager Monitors volatility bands.
+### Layer II: Agentic Exposure Manager Monitors volatility bands.
 
 Adjusts exposure without human approval.
 
 Enforces capital rules.
 
-Layer III:: Autonomous Liquidity Router Deploys funds with minimal latency.
+### Layer III: Autonomous Liquidity Router Deploys funds with minimal latency.
 
 Optimizes capital pathways.
 
 Reduces slippage across asset channels.
 
-Layer IV:: Privacy Vault Mechanics Isolates client identity from execution layers.
+### Layer IV: Privacy Vault Mechanics Isolates client identity from execution layers.
 
 Maintains zero retail footprint.
 
 Enforces structural confidentiality.
 
-Layer V:: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
+### Layer V: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
 
 No friction.
 
@@ -90,11 +99,17 @@ They are the foundation.
 What has not existed is the ability to transform Asset-Based Lending into a high fidelity, real time capital architecture.
 
 Agentic systems allow Asset-Based Lending to become:
+
 • Faster
+
 • Cleaner
+
 • More predictable
+
 • Less labor dependent
+
 • More accurate
+
 • Less prone to human error When we lend against private credit or hard collateral, the system interprets the asset’s liquidity signature in real time.
 
 It treats collateral as dynamic code instead of a fixed object.
@@ -110,13 +125,19 @@ The advantage is compounding.
 The advantage is longevity.
 
 HNWI and UHNW clients who use agentic infrastructure experience outcomes that traditional lenders cannot match:
+
 • Faster credit Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
 • Lower operational drag
+
 • Higher collateral efficiency
+
 • Real time portfolio leverage
+
 • No manual underwriting delays
+
 • Institutional mechanics without institutional visibility The infrastructure itself generates alpha because it removes friction from every stage of the Strategic Collateralization cycle.
 
 This is the design principle behind Roials Alpha.

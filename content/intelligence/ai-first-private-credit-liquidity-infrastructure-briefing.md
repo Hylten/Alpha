@@ -162,9 +162,12 @@ This allows the allocator to focus on strategic calibration rather than on tacti
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline of non-wasteful resource management.
 
-It aligns with the theological principle articulated in 
--  **Proverbs 13:22
-*
+It aligns with the theological principle articulated in
+
+- **Proverbs 13:22
+
+* 
+
 * , where capital is understood as a multi generational responsibility.
 
 Within private credit, stewardship manifests through disciplined underwriting, responsible capital allocation, and the avoidance of speculative leverage.

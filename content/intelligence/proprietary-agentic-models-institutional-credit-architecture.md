@@ -70,58 +70,83 @@ Key subsystems include:
 
 Opportunity Identification Agents These agents scan operator networks, regulatory filings, lien registries, regional equipment movements, mineral rights transfers, and operational datasets.
 
-Functions include: 
--  Entity normalization 
--  Historical behavior mapping 
--  Operational consistency scoring 
--  Counterparty lineage analysis 
+Functions include:
+
+- Entity normalization
+
+- Historical behavior mapping
+
+- Operational consistency scoring
+
+- Counterparty lineage analysis 
 
 2.
 
-Collateral Verification Agents These agents confirm asset existence and encumbrance status using: 
--  Provincial and state level UCC registry interrogation 
--  Satellite derived asset validation for movable equipment 
--  Historical production datasets in energy and mineral assets 
--  Chain of custody mapping Their objective is not price forecasting but collateral certainty. 
+Collateral Verification Agents These agents confirm asset existence and encumbrance status using:
+
+- Provincial and state level UCC registry interrogation
+
+- Satellite derived asset validation for movable equipment
+
+- Historical production datasets in energy and mineral assets
+
+- Chain of custody mapping Their objective is not price forecasting but collateral certainty. 
 
 3.
 
 Covenant Simulation Agents Traditional covenant models rely on static scenario planning.
 
-Agentic models generate dynamic covenant ranges using: 
--  Stress factor variability 
--  Degradation modeling 
--  Multi scenario liquidity burn projections 
--  Counterparty risk elasticity The simulation output defines realistic thresholds rather than theoretical stress limits. 
+Agentic models generate dynamic covenant ranges using:
+
+- Stress factor variability
+
+- Degradation modeling
+
+- Multi scenario liquidity burn projections
+
+- Counterparty risk elasticity The simulation output defines realistic thresholds rather than theoretical stress limits. 
 
 4.
 
-Credit Waterfall Engineering Agents Institutional allocators benefit from automated structuring agents capable of engineering waterfall models aligned with: 
--  Seniority mapping 
--  Collateral hardening timelines 
--  Cross collateralization benefits 
--  Covenant velocity shifts These agents produce high fidelity cash flow stacks with structural clarity that traditionally required multiple analysts working across disconnected spreadsheets. 
+Credit Waterfall Engineering Agents Institutional allocators benefit from automated structuring agents capable of engineering waterfall models aligned with:
+
+- Seniority mapping
+
+- Collateral hardening timelines
+
+- Cross collateralization benefits
+
+- Covenant velocity shifts These agents produce high fidelity cash flow stacks with structural clarity that traditionally required multiple analysts working across disconnected spreadsheets. 
 
 5.
 
 Behavioral Risk Agents These models are the next frontier of underwriting intelligence.
 
-They evaluate: 
--  Operator tempo 
--  Historical financing relationships 
--  Compliance pattern consistency 
--  Management friction coefficients Behavioral risk modeling is becoming as important as the collateral itself.
+They evaluate:
+
+- Operator tempo
+
+- Historical financing relationships
+
+- Compliance pattern consistency
+
+- Management friction coefficients Behavioral risk modeling is becoming as important as the collateral itself.
 
 It defines the probability that the operator will behave in line with projected deal assumptions. 
 
 6.
 
-Portfolio Calibration Agents At the allocator level, agentic models analyze the entire private credit book through: 
--  LTV drift 
--  Exposure concentration 
--  Counterparty clustering 
--  Opportunity velocity 
--  Redemption sensitivity These systems provide real time portfolio navigation without requiring manual data stitching across platforms.
+Portfolio Calibration Agents At the allocator level, agentic models analyze the entire private credit book through:
+
+- LTV drift
+
+- Exposure concentration
+
+- Counterparty clustering
+
+- Opportunity velocity
+
+- Redemption sensitivity These systems provide real time portfolio navigation without requiring manual data stitching across platforms.
 
 Agentic models are effectively the new balance sheet infrastructure for UHNW families and institutional LPs.
 
@@ -151,9 +176,12 @@ It aligns the allocator with a systemic method to evaluate deal flow using compu
 
 ## THE STEWARDSHIP FILTER Stewardship in capital allocation is the discipline of maintaining order, reducing entropy, and eliminating wasteful friction.
 
-Theologically, capital stewardship aligns with 
--  **Proverbs 13:22
-*
+Theologically, capital stewardship aligns with
+
+- **Proverbs 13:22
+
+* 
+
 * , which positions resource management as a multi generational mandate rather than a transactional objective.
 
 Proprietary agentic models increase the integrity of stewardship by eliminating uncertainty generated by delay, incomplete data, or human error.

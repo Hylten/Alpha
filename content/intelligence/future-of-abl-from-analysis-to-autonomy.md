@@ -40,9 +40,12 @@ The Roials-Alpha thesis is simple: autonomous Asset-Based Lending will become th
 
 The future belongs to Fund-III style entities engineered for computational throughput, jurisdictional arbitrage, and scalable collateral intake across energy, industrials, and real assets.
 
-A good man leaves an inheritance to his children’s children ( 
--  **Proverbs 13:22
-*
+A good man leaves an inheritance to his children’s children (
+
+- **Proverbs 13:22
+
+* 
+
 * ).
 
 That inheritance, in the modern context, is not merely capital.
@@ -102,9 +105,13 @@ Risk coherence is the new alpha.
 ## THE PRINCIPAL ARCHITECTURE The foundation of autonomous Asset-Based Lending is architectural, not analytical.
 
 The architecture consists of four irreversible shifts:
+
 • Collateral-as-Data
+
 • Borrower-as-Node
+
 • Lending-as-Protocol
+
 • Monitoring-as-Telemetry Collateral-as-Data reframes physical or financial assets as dynamic data objects.
 
 Not documents.
@@ -161,7 +168,7 @@ Together, these shifts eliminate the slowest parts of Asset-Based Lending and ex
 
 ## THE ALGORITHMIC CREDIT STACK An autonomous Asset-Based Lending system depends on a stack with three dominant layers:
 
-Layer I:: Perceptual Layer Sensor data.
+### Layer I: Perceptual Layer Sensor data.
 
 API pipes.
 
@@ -175,7 +182,7 @@ Valuation feeds.
 
 This layer gives the system “eyes.” It transforms every asset into a data source, and every borrower into a continuous emitter of credit signals.
 
-Layer II:: Interpretive Layer Models.
+### Layer II: Interpretive Layer Models.
 
 Rules.
 
@@ -197,7 +204,7 @@ It corrects human misreadings.
 
 Legacy underwriting is replaced with autonomous inference.
 
-Layer III:: Execution Layer Funding triggers.
+### Layer III: Execution Layer Funding triggers.
 
 Margin recalcs.
 
@@ -238,10 +245,15 @@ It cannot filter.
 It cannot self-improve.
 
 Algorithmic deal flow flips the process:
+
 • The system hunts signals.
+
 • The system flags candidates.
+
 • The system ranks opportunity vectors.
+
 • The system reverse-engineers borrower needs.
+
 • The system proposes terms based on asset telemetry.
 
 A principal reviewer only approves the final expression.
@@ -267,11 +279,17 @@ Not a vehicle.
 An operating system.
 
 The architecture integrates:
+
 • Autonomous intake
+
 • Capital Structuring rails
+
 • Multi-jurisdictional credit wrappers
+
 • Collateral authentication pipelines
+
 • Sovereign-grade audit trails
+
 • Machine-agent exposure control Fund-III is designed for institutional sovereignty.
 
 It reduces dependency on external validators.
@@ -340,9 +358,12 @@ It also creates a new class of principal: the Principal Architect.
 
 This is the decision-maker who designs, configures, and governs the system-level flows from which compounding returns emerge.
 
-This is the modern interpretation of 
--  **Proverbs 13:22
-*
+This is the modern interpretation of
+
+- **Proverbs 13:22
+
+* 
+
 * .
 
 Infrastructure replaces intention.
@@ -354,11 +375,17 @@ Good stewardship becomes system design.
 ## THE JURISDICTIONAL DIMENSION Autonomous Asset-Based Lending interacts differently with jurisdictions than traditional credit.
 
 When the operating system handles verification, compliance, monitoring, and execution, the institution gains freedom to arbitrage:
+
 • security perfection regimes
+
 • collateral enforcement pathways
+
 • tax friction zones
+
 • trust wrappers
+
 • family office jurisdictions
+
 • sovereign fund alignments Global autonomy is possible when the system abstracts local complexity.
 
 This gives HNW/UHNW families control previously available only to sovereign institutions.
@@ -374,11 +401,17 @@ It transforms them into programmable modules.
 The delta will not be measured in margin spreads or deal volume.
 
 It will be measured in:
+
 • capital velocity
+
 • underwriting latency
+
 • collateral fidelity
+
 • liquidity certainty
+
 • risk coherence
+
 • enforcement optionality Institutions with autonomous systems will grow exponentially.
 
 Those without will stagnate.
