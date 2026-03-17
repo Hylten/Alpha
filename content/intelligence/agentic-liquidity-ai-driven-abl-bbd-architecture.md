@@ -130,9 +130,7 @@ Compounded cycles build dynastic capital.
 
 Agentic Asset-Based Lending provides the architecture in four layers.
 
-### Layer I: 
-
-.
+# Layer I: .
 
 Data Extraction The system scrapes structured and unstructured inputs with autonomous ingestion engines.
 
@@ -154,9 +152,7 @@ Regulatory filings.
 
 All processed into normalized vectors.
 
-### Layer II: 
-
-.
+# Layer II: .
 
 Collateral Modeling AI agents perform collateral triangulation.
 
@@ -168,9 +164,7 @@ High‑coefficient assets serve as primary collateral.
 
 Low‑coefficient assets round out stability layers.
 
-### Layer III: 
-
-.
+# Layer III: .
 
 Dynamic Underwriting No loan packages.
 
@@ -186,9 +180,7 @@ Borrowing capacity shifts instantly.
 
 Credit triggers fire automatically.
 
-### Layer IV: 
-
-.
+# Layer IV: .
 
 Continuous Covenant Enforcement Covenants do not exist as static clauses.
 
@@ -230,9 +222,7 @@ I.
 
 The Buy 
 
-# Phase 
-
-C
+# Phase C
 
 apital allocates into target assets-energy assets, private credit deals, operating companies, real assets-without waiting for liquidity windows.
 

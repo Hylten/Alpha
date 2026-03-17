@@ -58,7 +58,7 @@ Flow must become autonomous.
 
 Now the architecture.
 
-### Phase I: (Private vaulted brief) The core problem is not sourcing
+# Phase I: (Private vaulted brief) The core problem is not sourcing
 
 .
 
@@ -116,9 +116,7 @@ Structural Preparation
 
 Execution Readiness Each 
 
-# Pillar 
-
-I
+# Pillar I
 
 s a machine layer replacing what would otherwise be an analyst team, a legal team, a credit committee, and a fund administrator.
 
@@ -208,7 +206,7 @@ Move.
 
 Or don’t move.
 
-### Phase II: INTERNAL TONE (Principal voice) You are not building a tool
+# Phase II: INTERNAL TONE (Principal voice) You are not building a tool
 
 .
 
@@ -242,7 +240,7 @@ Precision wins.
 
 Clean execution wins.
 
-### Phase III: THE VARIATION (short cadence for impact) Speed matters
+# Phase III: THE VARIATION (short cadence for impact) Speed matters
 
 .
 
@@ -260,27 +258,27 @@ Return to depth.
 
 THE AGENTIC STACK FOR FAMILY OFFICES (Technical dominance) The architecture emerges in layers:
 
-### Layer I: Identity of Capita
+# Layer I: Identity of Capita
 
 l
 
-### Layer II: Intake & Signal Fusio
+# Layer II: Intake & Signal Fusio
 
 n
 
-### Layer III: Autonomous Underwriting & Risk Logi
+# Layer III: Autonomous Underwriting & Risk Logi
 
 c
 
-### Layer IV: Multi‑Agent Coordination Mes
+# Layer IV: Multi‑Agent Coordination Mes
 
 h
 
-### Layer V: Execution Interface for Principal
+# Layer V: Execution Interface for Principal
 
 s
 
-### Layer I: Identity of Capital Family offices are not funds
+# Layer I: Identity of Capital Family offices are not funds
 
 .
 
@@ -316,7 +314,7 @@ Unbendable.
 
 This is how you create consistency without bureaucracy.
 
-### Layer II: Intake & Signal Fusion The agent ingests everything
+# Layer II: Intake & Signal Fusion The agent ingests everything
 
 .
 
@@ -350,7 +348,7 @@ The family office no longer “receives deals”.
 
 It harvests markets.
 
-### Layer III: Autonomous Underwriting The system runs financials
+# Layer III: Autonomous Underwriting The system runs financials
 
 .
 
@@ -374,7 +372,7 @@ Not after.
 
 Now.
 
-### Layer IV: Multi-Agent Coordination Mesh This is the real engine
+# Layer IV: Multi-Agent Coordination Mesh This is the real engine
 
 .
 
@@ -408,7 +406,7 @@ With no friction.
 
 This is where the machine becomes stronger than any internal team.
 
-### Layer V: Principal Interface You do not need dashboards
+# Layer V: Principal Interface You do not need dashboards
 
 .
 

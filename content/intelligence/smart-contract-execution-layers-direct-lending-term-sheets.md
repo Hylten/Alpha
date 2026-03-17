@@ -32,7 +32,7 @@ Precision compounds.
 
 This is the brief.
 
-### Phase I: - ## Vault-secured
+# Phase I: - ## Vault-secured
 
 .
 
@@ -100,21 +100,15 @@ Everything else is noise.
 
 Data Ingestion
 
-### Layer II: 
-
-.
+# Layer II: .
 
 Interpretation
 
-### Layer III: 
-
-.
+# Layer III: .
 
 Execution
 
-### Layer IV: 
-
-.
+# Layer IV: .
 
 Exception Governance Layer Each layer has its own jurisdictional logic.
 
@@ -134,9 +128,7 @@ Machine connectors feed it operational data, financial statements, flows, collat
 
 The ingestion 
 
-# Layer 
-
-I
+# Layer I
 
 s not a single pipe; it is a mesh of controlled data conduits.
 
@@ -268,13 +260,11 @@ Exception governance handles:
 
 - Structural renegotiation This 
 
-# Layer 
-
-I
+# Layer I
 
 s the safety valve, the institutional bracing, the control tower that allows machine logic and human governance to coexist without conflict.
 
-### Phase II: - PRINCIPAL VOICE The Principal states
+# Phase II: - PRINCIPAL VOICE The Principal states
 
 .
 
@@ -326,7 +316,7 @@ Consequence.
 
 The architecture stands.
 
-### Phase III: - INTERNAL BYPASS Sovereign syntax variation
+# Phase III: - INTERNAL BYPASS Sovereign syntax variation
 
 .
 
@@ -392,9 +382,7 @@ The execution layer enforces rules.
 
 The agentic 
 
-# Layer 
-
-I
+# Layer I
 
 nterprets outcomes, proposes adjustments, and optimizes future deals.
 

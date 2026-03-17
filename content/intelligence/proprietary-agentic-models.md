@@ -302,7 +302,7 @@ The pipeline remains stable.
 
 .
 
-### Layer I: Cognitive Core The reasoning engine
+# Layer I: Cognitive Core The reasoning engine
 
 .
 
@@ -310,7 +310,7 @@ The internal loops.
 
 The identity.
 
-### Layer II: Memory Grid Context persistence
+# Layer II: Memory Grid Context persistence
 
 .
 
@@ -318,7 +318,7 @@ Long horizon objectives.
 
 Role stability.
 
-### Layer III: Agency Engine Planner
+# Layer III: Agency Engine Planner
 
 .
 
@@ -326,7 +326,7 @@ Evaluator.
 
 Self correction cycle.
 
-### Layer IV: Action Layer Tool calls
+# Layer IV: Action Layer Tool calls
 
 .
 
@@ -334,7 +334,7 @@ Execution paths.
 
 Operational commands.
 
-### Layer V: Governance Layer Permissions
+# Layer V: Governance Layer Permissions
 
 .
 

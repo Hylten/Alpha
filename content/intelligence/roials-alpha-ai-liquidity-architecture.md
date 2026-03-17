@@ -308,7 +308,7 @@ Roials-Alpha provides deterministic liquidity channels that respond to real stru
 
 The Roials-Alpha engine performs asset hardening across three layers:
 
-### Layer I: Technical Certainty Machine-audited asset data
+# Layer I: Technical Certainty Machine-audited asset data
 
 .
 
@@ -320,7 +320,7 @@ Failure-mode datasets.
 
 Predictive volatility mapping.
 
-### Layer II: Legal Sovereignty Cross-jurisdictional compliance lattice
+# Layer II: Legal Sovereignty Cross-jurisdictional compliance lattice
 
 .
 
@@ -332,7 +332,7 @@ Perimeter reinforcement.
 
 Enforcement visibility indexing.
 
-### Layer III: Liquidity Consequence Forward liquidity curves
+# Layer III: Liquidity Consequence Forward liquidity curves
 
 .
 

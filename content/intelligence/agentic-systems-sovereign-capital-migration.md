@@ -266,9 +266,7 @@ Roials Capital conducts confidential Strategy Audits to evaluate the allocator's
 
 This is the first 
 
-# Step 
-
-I
+# Step I
 
 n creating an institutional framework for cross border capital migration. [END OF BRIEFING]
 

@@ -36,9 +36,7 @@ A directive.
 
  ( 
 
-### Phase 
-
-I
+# Phase I
 
 ) VAULT-BRIEFING: STRUCTURAL DEPTH Institutional sponsor assessment has traditionally been built around four flawed assumptions:
 
@@ -342,9 +340,7 @@ Legacy becomes advantage.
 
  
 
-# Step 
-
-I
+# Step I
 
 f your mandate requires sponsor vetting at scale, zero-friction analysis, or the integration of agentic intelligence across your deal pipeline, you are operating in the correct room.
 

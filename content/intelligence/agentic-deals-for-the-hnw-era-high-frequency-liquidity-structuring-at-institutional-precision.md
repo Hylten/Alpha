@@ -112,9 +112,7 @@ This is the real frontier of private capital engineering.
 
  
 
-# Step 
-
-I
+# Step I
 
 s Infrastructure If you understand the value of agentic liquidity, the next step is simple.
 

@@ -154,7 +154,7 @@ Once the business logic becomes machine readable, autonomy becomes inevitable.
 
 .
 
-### Layer I: Human Workflows Cluttered
+# Layer I: Human Workflows Cluttered
 
 .
 
@@ -164,7 +164,7 @@ Dependent on tribal knowledge and siloed processes.
 
 Fragile under scale.
 
-### Layer II: Scripted autonomous infrastructure Useful
+# Layer II: Scripted autonomous infrastructure Useful
 
 .
 
@@ -174,7 +174,7 @@ Limited.
 
 Breaks under real-world complexity.
 
-### Layer III: Agentic Infrastructure This is the leap
+# Layer III: Agentic Infrastructure This is the leap
 
 .
 

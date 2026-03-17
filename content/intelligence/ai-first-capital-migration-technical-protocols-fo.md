@@ -381,9 +381,7 @@ The Three Layers of Roials-Alpha Intelligence Roials-Alpha operates through laye
 
 Observation 
 
-# Layer 
-
-C
+# Layer C
 
 ontinuous scanning of issuers, institutions, collateral flows, and counterparty signals.
 

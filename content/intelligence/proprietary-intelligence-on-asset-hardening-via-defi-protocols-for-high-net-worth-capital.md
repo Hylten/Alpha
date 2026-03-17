@@ -398,9 +398,7 @@ This ensures predictable outcomes even under non predictable market conditions.
 
  
 
-# Layer 
-
-C
+# Layer C
 
 ollateral reinforcement and credit optimization run continuously.
 
@@ -410,9 +408,7 @@ The system uses real time telemetry to increase resilience every cycle.
 
  
 
-# Layer L
-
-I
+# Layer L: I
 
 quidity extraction and deleveraging remain under principal control.
 

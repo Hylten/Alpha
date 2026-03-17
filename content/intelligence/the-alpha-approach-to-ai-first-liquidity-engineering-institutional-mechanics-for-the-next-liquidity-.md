@@ -221,27 +221,19 @@ It is the new default for anyone who has crossed into financial significance.
 
 .
 
-### Layer 
-
-I
+# Layer I
 
 Asset Modeling Engine Transforms collateral into a multidimensional data object.
 
-### Layer I
-
-I
+# Layer I: I
 
 Risk Geometry Engine Evaluates stability, drift, and liquidation mechanics.
 
-### Layer II
-
-I
+# Layer II: I
 
 Liquidity Extraction Engine Calculates Monetization Architecture parameters with precision tuned spreads.
 
-### Layer I
-
-V
+# Layer I: V
 
 Protective Enforcement Engine Ensures asset integrity under all market conditions.
 

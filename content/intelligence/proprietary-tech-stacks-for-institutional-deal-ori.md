@@ -188,9 +188,7 @@ Machine parsing of financial documents, chain of custody, collateral audit trail
 
 Layer Two Scoring frameworks modeled on historical Institutional Liquidity Paths events, asset price movements, and covenant breach probability.
 
-### Layer 
-
-M
+# Layer M
 
 ulti vector simulation that estimates structural weak points during liquidity compression.
 

@@ -175,9 +175,7 @@ Eyes sharp.
 
 This 
 
-# Layer 
-
-D
+# Layer D
 
 ecides only when models flag anomalies or political conditions shift.
 

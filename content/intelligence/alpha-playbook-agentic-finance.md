@@ -76,9 +76,7 @@ It uses structured data, continuous risk scoring, and machine executed diligence
 
 There are four operational layers.
 
-### Layer 
-
-I
+# Layer I
 
 Algorithmic Deal Flow Architecture The core premise is that deal sourcing is no longer human curated.
 
@@ -102,9 +100,7 @@ Inputs include:
 
 - legal filings and lien actions Structured correctly, these data sets generate pre underwritten deal candidates before a human analyst is even aware the asset is in motion.
 
-### Layer I
-
-I
+# Layer I: I
 
 AI First Credit Underwriting The credit model is built on three core pillars.
 
@@ -128,9 +124,7 @@ Continuous LTV Recalibration Loan to Value becomes dynamic rather than static.
 
 The system recalculates LTV daily, adjusting internal capital allocation rules and early warning signals.
 
-### Layer II
-
-I
+# Layer II: I
 
 Autonomous Monitoring Systems Monitoring is not quarterly reporting.
 
@@ -150,9 +144,7 @@ Operational telemetry includes:
 
 - borrower behavioral patterns The result is a portfolio that is risk managed by system integrity rather than manual oversight.
 
-### Layer I
-
-V
+# Layer I: V
 
 Machine Directed Execution This includes payment flows, enforcement workflows, document autonomous infrastructure, lien registration, and restructuring pathways.
 

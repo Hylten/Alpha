@@ -76,9 +76,7 @@ Each domain contributes to the integrity and velocity of the lending stack.
 
 Data Ingestion The first 
 
-# Pillar 
-
-I
+# Pillar I
 
 s the ingestion of borrower data into structured and unstructured data environments.
 

@@ -48,15 +48,11 @@ TECHNICAL MECHANICS
 
 The Data Capture
 
-### Layer II: 
-
-.
+# Layer II: .
 
 The Liquidity Detection
 
-### Layer III: 
-
-.
+# Layer III: .
 
 The Pre Cognition Execution Layer Each layer functions with different technical primitives. 
 
@@ -64,9 +60,7 @@ The Pre Cognition Execution Layer Each layer functions with different technical 
 
 The Data Capture Layer This 
 
-# Layer 
-
-I
+# Layer I
 
 ngests multi class operational data from target environments.
 

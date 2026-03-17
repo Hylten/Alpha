@@ -64,9 +64,7 @@ The difference is exponential.
 
 .
 
-### Layer 
-
-I
+# Layer I
 
 Collateral Intelligence Engine Evaluates collateral with structured models.
 
@@ -74,7 +72,7 @@ Operates continuously.
 
 Updates LTV parameters dynamically.
 
-### Layer II: Agentic Exposure Manager Monitors volatility bands
+# Layer II: Agentic Exposure Manager Monitors volatility bands
 
 .
 
@@ -82,9 +80,7 @@ Adjusts exposure without human approval.
 
 Enforces capital rules.
 
-### Layer II
-
-I
+# Layer II: I
 
 Autonomous Liquidity Router Deploys funds with minimal latency.
 
@@ -92,9 +88,7 @@ Optimizes capital pathways.
 
 Reduces slippage across asset channels.
 
-### Layer I
-
-V
+# Layer I: V
 
 Privacy Vault Mechanics Isolates client identity from execution layers.
 
@@ -102,9 +96,7 @@ Maintains zero retail footprint.
 
 Enforces structural confidentiality.
 
-### Layer 
-
-V
+# Layer V
 
 Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
 

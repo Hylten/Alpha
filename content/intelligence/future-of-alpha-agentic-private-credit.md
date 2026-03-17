@@ -18,9 +18,7 @@ The strategic reality is that private credit alpha in the next decade will not b
 
 It will be a function of computational architecture.
 
-### Phase I: 
-
-.
+# Phase I: .
 
 THE REGIME SHIFT
 
@@ -28,9 +26,7 @@ THE REGIME SHIFT
 
 Each 
 
-# Phase 
-
-C
+# Phase C
 
 reated a new performance threshold and a new challenge for allocators.
 
@@ -78,9 +74,7 @@ The market no longer rewards capital.
 
 It rewards computational advantage.
 
-### Phase II: 
-
-.
+# Phase II: .
 
 TECHNICAL MECHANICS
 
@@ -88,9 +82,7 @@ TECHNICAL MECHANICS
 
 They are multi 
 
-# Layer 
-
-D
+# Layer D
 
 ecision architectures that replace entropy with structured intelligence across the entire lifecycle of a credit instrument.
 
@@ -160,9 +152,7 @@ The clarity of risk calibration increases.
 
 Default events become predictable rather than disruptive.
 
-### Phase III: 
-
-.
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within this regime shift as a strategic navigator.
 
@@ -204,9 +194,7 @@ The objective is clarity.
 
 The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring.
 
-### Phase IV: 
-
-.
+# Phase IV: .
 
  
 
@@ -258,9 +246,7 @@ Stewardship includes designing a portfolio that can withstand rate shifts, liqui
 
 Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis.
 
-### Phase V: 
-
-.
+# Phase V: .
 
 DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 2026 faces a bifurcated landscape.
 

@@ -57,6 +57,7 @@ This is Roials-Alpha.
 - PHASE ONE: 
 
  
+
 - THE HARD STRUCTURE Private equity diligence is a discipline of disaggregation.
 
 You cut the company into parts.

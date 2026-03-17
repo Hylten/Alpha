@@ -298,9 +298,7 @@ Each
 
 Each 
 
-# Pillar 
-
-I
+# Pillar I
 
 s structured to give clients leverage at institutional scale.
 

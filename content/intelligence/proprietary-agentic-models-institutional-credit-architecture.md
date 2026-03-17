@@ -60,9 +60,7 @@ TECHNICAL MECHANICS
 
 They are multi 
 
-# Layer 
-
-C
+# Layer C
 
 omputational architectures engineered to reconstruct the entire private credit workflow into machine executed subprocesses.
 
@@ -240,9 +238,7 @@ The next step for allocators is not transactional.
 
 The next 
 
-# Step 
-
-I
+# Step I
 
 s a confidential strategy audit to evaluate whether existing analytical systems can sustain the pace and complexity of modern private credit deal flow.
 

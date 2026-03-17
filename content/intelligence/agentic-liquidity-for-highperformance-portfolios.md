@@ -284,9 +284,7 @@ The borrowed capital acts as temporary working liquidity while the underlying st
 
  
 
-# Layer 
-
-L
+# Layer L
 
 everage Events Sophisticated clients use leverage not to increase risk but to increase control.
 

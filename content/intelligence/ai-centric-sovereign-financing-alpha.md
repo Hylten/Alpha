@@ -24,9 +24,7 @@ This briefing outlines
 
  of AI based sovereign financing, the partnership architecture Roials Capital deploys for institutional navigation, and the stewardship philosophy that governs capital deployment in this new epoch.
 
-### Phase I: 
-
-.
+# Phase I: .
 
 THE REGIME SHIFT
 
@@ -73,9 +71,7 @@ For the first time in modern credit history, the highest value asset in sovereig
 
 It is the ability to model sovereign behavior, risk migration patterns, commodity revenue stability, cross border payment flows, and regulatory drift in real time.
 
-### Phase II: 
-
-.
+# Phase II: .
 
 TECHNICAL MECHANICS
 
@@ -157,9 +153,7 @@ This is the core of AI centric sovereign credit.
 
 It delivers a risk architecture that adapts to the behavior of the sovereign in real time rather than relying on backward looking ratings reports.
 
-### Phase III: 
-
-.
+# Phase III: .
 
 THE PARTNERSHIP MODEL: ROIALS CAPITAL AS STRATEGIC NAVIGATOR Roials Capital functions as a strategic navigator and institutional introducer within this new financing paradigm.
 
@@ -191,9 +185,7 @@ When the topic intersects North American energy or heavy oil optimization, the i
 
 In sovereign finance, the partners vary by jurisdiction, regulatory standing, and AI system maturity.
 
-### Phase IV: 
-
-.
+# Phase IV: .
 
  
 
@@ -243,9 +235,7 @@ The sovereign gains Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-### Phase V: 
-
-.
+# Phase V: .
 
 THE
 

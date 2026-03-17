@@ -20,9 +20,7 @@ Roials Alpha bygger infrastruktur för dem som kräver precision.
 
  
 
-# Layer V
-
-I
+# Layer V: I
 
 bygger inte rapporter; vi kodar in säkerhetsmarginaler i din portfölj.
 

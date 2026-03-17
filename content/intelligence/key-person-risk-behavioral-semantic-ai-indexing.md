@@ -82,21 +82,15 @@ The architecture separates the individual into four layers:
 
 Operational Consistency
 
-### Layer II: 
-
-.
+# Layer II: .
 
 Pressure Response
 
-### Layer III: 
-
-.
+# Layer III: .
 
 Decision Horizon
 
-### Layer IV: 
-
-.
+# Layer IV: .
 
 Identity Continuity Layer Each is both observable and mathematically traceable.
 
@@ -108,9 +102,7 @@ They are the operational fingerprints of long-term reliability.
 
 The Pressure Response 
 
-# Layer 
-
-M
+# Layer M
 
 easures the delta between expressed stress and applied decision friction.
 

@@ -326,7 +326,7 @@ An agentic system is not a chatbot.
 
 It is a layered operational organism.  
 
-### Layer I: Data Ingestion Backbon
+# Layer I: Data Ingestion Backbon
 
 e
 
@@ -336,7 +336,7 @@ Documents, emails, CRM notes, contracts, bank feeds, call notices, distribution 
 
 Nothing stays unstructured.  
 
-### Layer II: State Engin
+# Layer II: State Engin
 
 e
 
@@ -348,7 +348,7 @@ Every state triggers logic.
 
 The fund becomes software.  
 
-### Layer III: Action Agent
+# Layer III: Action Agent
 
 s
 
@@ -370,7 +370,7 @@ The agents communicate with each other through message passing.
 
 No human coordination required.  
 
-### Layer IV: Supervisory Intelligenc
+# Layer IV: Supervisory Intelligenc
 
 e
 
@@ -386,7 +386,7 @@ It resolves agent conflicts.
 
 This keeps the system coherent.  
 
-### Layer V: Partner Interfac
+# Layer V: Partner Interfac
 
 e
 

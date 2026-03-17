@@ -174,7 +174,7 @@ Together, these shifts eliminate the slowest parts of Asset-Based Lending and ex
 
 :
 
-### Layer I: Perceptual Layer Sensor data
+# Layer I: Perceptual Layer Sensor data
 
 .
 
@@ -190,7 +190,7 @@ Valuation feeds.
 
 This layer gives the system “eyes.” It transforms every asset into a data source, and every borrower into a continuous emitter of credit signals.
 
-### Layer II: Interpretive Layer Models
+# Layer II: Interpretive Layer Models
 
 .
 
@@ -218,7 +218,7 @@ It corrects human misreadings.
 
 Legacy underwriting is replaced with autonomous inference.
 
-### Layer III: Execution Layer Funding triggers
+# Layer III: Execution Layer Funding triggers
 
 .
 
