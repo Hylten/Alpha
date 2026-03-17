@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Liquidity: The Institutional Standard for Private Credit and Asset-Based Lending"
 description: "A deep dive into AI‑first liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking structural advantage."
-date: "2024-02-10"
+date: "2025-08-26"
 author: "Jonas Hyltén"
 slug: "aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Alpha"

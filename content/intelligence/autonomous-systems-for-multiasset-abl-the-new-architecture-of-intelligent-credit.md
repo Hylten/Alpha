@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Systems for Multi‑Asset Asset-Based Lending: The New Architecture of Intelligent Credit"
 description: "A deep analysis of autonomous systems for multi‑asset Asset-Based Lending, optimized for liquidity engineering and high net worth credit execution."
-date: "2024-06-23"
+date: "2025-07-11"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Alpha"

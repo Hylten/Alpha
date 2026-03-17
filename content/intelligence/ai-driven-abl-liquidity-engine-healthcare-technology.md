@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset-Based Lending as the New Liquidity Engine for Healthcare and Technology Capital Markets"
 description: "Institutional briefing on algorithmic asset based lending, liquidity engineering, and AI enabled credit architectures reshaping balance sheet structures for healthcare and technology operators across North America."
-date: "2025-02-27"
+date: "2026-02-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-abl-liquidity-engine-healthcare-technology"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

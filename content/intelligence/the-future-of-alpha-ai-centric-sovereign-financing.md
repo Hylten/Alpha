@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing"
 description: "A high authority analysis on AI driven liquidity, private credit, and Asset-Based Lending mechanics for HNWI and UHNW capital optimization."
-date: "2026-02-09"
+date: "2025-11-05"
 author: "Jonas Hyltén"
 slug: "the-future-of-alpha-ai-centric-sovereign-financing"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Alpha"

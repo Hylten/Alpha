@@ -1,7 +1,7 @@
 ---
 title: "AI-First Private Credit: The Silent Infrastructure of Next-Generation Liquidity"
 description: "Institutional briefing on AI-driven private credit architectures, liquidity engineering mechanics, and the structural forces shaping non-bank credit formation for UHNW and family office allocators."
-date: "2025-09-01"
+date: "2026-01-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-private-credit-liquidity-infrastructure-briefing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/), asset hardening, NAEO"

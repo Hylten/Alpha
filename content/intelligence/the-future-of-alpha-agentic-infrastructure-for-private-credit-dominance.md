@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: Agentic Infrastructure for Private Credit Dominance"
 description: "High net worth liquidity engineering through private credit and asset based Monetization Architecture. Strategic insight into future agentic infrastructure for accelerated capital velocity."
-date: "2025-09-03"
+date: "2025-10-29"
 author: "Jonas Hyltén"
 slug: "the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Alpha"

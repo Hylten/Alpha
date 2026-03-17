@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Asset Hardening: Architecting Autonomous Institutional Machines for Private Credit and Oil & Gas Finance"
 description: "A high‑density institutional brief on AI‑first credit architecture, algorithmic underwriting, and cross‑jurisdictional asset hardening for UHNW/HNW family offices and Fund‑III structures."
-date: "2023-10-05"
+date: "2026-02-02"
 author: "Roials-Alpha"
 slug: "algorithmic-asset-hardening-autonomous-institutional-machines"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

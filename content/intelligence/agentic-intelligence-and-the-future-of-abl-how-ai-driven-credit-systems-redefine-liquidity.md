@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the Future of Asset-Based Lending: How AI-Driven Credit Systems Redefine Liquidity"
 description: "How autonomous financial agents are transforming asset-based liquidity engineering into a proactive wealth engine."
-date: "2025-02-03"
+date: "2025-10-20"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity"
 keywords: "agentic AI, Asset-Based Lending, private credit, fintech, Roials Alpha"

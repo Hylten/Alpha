@@ -1,7 +1,7 @@
 ---
 title: "Predictive Modeling for Liquidity Engineering Against Volatile Crypto Assets: The Roials Alpha Framework"
 description: "Institutional briefing on predictive risk mechanics, Capital Structuring, and AI driven balance sheet optimization for allocators navigating crypto volatility regimes."
-date: "2025-08-10"
+date: "2026-01-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "predictive-liquidity-engineering-crypto-volatility-roials-alpha"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

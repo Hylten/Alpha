@@ -1,7 +1,7 @@
 ---
 title: "The Future of Asset-Based Lending: From Analysis to Autonomy"
 description: "A high-authority exploration of next‑generation asset based liquidity engineering and liquidity architecture for HNWI and UHNW clients."
-date: "2024-04-09"
+date: "2025-11-29"
 author: "Jonas Hyltén"
 slug: "the-future-of-abl-from-analysis-to-autonomy"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Alpha"

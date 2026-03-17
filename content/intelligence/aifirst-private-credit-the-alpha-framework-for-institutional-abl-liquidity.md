@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending Liquidity"
 description: "Roials‑Alpha delivers AI‑First private credit and institutional‑grade asset based liquidity engineering, engineered for HNWI and UHNW portfolios seeking high‑integrity liquidity."
-date: "2023-02-20"
+date: "2025-06-28"
 author: "Jonas Hyltén"
 slug: "aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Alpha"

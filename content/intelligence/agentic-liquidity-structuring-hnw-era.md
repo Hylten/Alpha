@@ -1,7 +1,7 @@
 ---
 title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
 description: "An institutional briefing on agentic liquidity systems, AI driven credit architecture, and structural efficiencies for UHNW and HNW allocators navigating the new era of autonomous deal flow."
-date: "2025-07-23"
+date: "2025-10-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-liquidity-structuring-hnw-era"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Deals for the HNW Era: High‑Frequency Liquidity Structuring with Institutional Precision"
 description: "A principal‑level brief on AI‑first liquidity engineering, agentic credit systems, and institutional‑grade deal architecture for HNW and UHNW family offices seeking precision capital, high‑frequency liquidity rails, and autonomous credit intelligence."
-date: "2023-11-17"
+date: "2025-11-23"
 author: "Roials-Alpha"
 slug: "agentic-deals-hnw-era-liquidity-structuring"
 keywords: "kapitalanskaffning, private credit, Monetization Architecture, asset hardening"

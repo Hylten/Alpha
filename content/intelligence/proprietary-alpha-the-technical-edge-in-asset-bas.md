@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Alpha: The Technical Edge In Asset Bas"
 description: "Proprietary Alpha: The Technical Edge In Asset Bas"
-date: "2026-01-03"
+date: "2025-11-06"
 author: "Jonas Hyltén"
 slug: "proprietary-alpha-the-technical-edge-in-asset-bas"
 keywords: "private credit, Asset-Based Lending, liquidity"

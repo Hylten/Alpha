@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the Future of Asset Based Lending: How AI Driven Credit Systems Redefine Liquidity"
 description: "Institutional analysis of agentic AI architectures, balance sheet optimization, and algorithmic credit systems transforming the next cycle of private credit and Asset-Based Lending liquidity engineering."
-date: "2024-04-29"
+date: "2026-01-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-intelligence-future-of-asset-based-lending"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEOC"

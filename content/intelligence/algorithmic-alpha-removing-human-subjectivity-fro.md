@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Alpha: Removing Human Subjectivity Fro"
 description: "Algorithmic Alpha: Removing Human Subjectivity Fro"
-date: "2023-03-10"
+date: "2025-12-21"
 author: "Jonas Hyltén"
 slug: "algorithmic-alpha-removing-human-subjectivity-fro"
 keywords: "private credit, Asset-Based Lending, liquidity"

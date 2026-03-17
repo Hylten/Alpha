@@ -1,7 +1,7 @@
 ---
 title: "Agentic Dealflow Architecture for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
 description: "An institutional grade analysis on agentic capital structuring, liquidity engineering, and next generation deal mechanics for UHNW and mid market private equity mandates entering 2026."
-date: "2023-12-01"
+date: "2025-11-06"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-structuring-hnw-era-2026"
 keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Alpha, 2026, Asset-Backed Frameworks"

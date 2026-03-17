@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow: How AI Surfaces Asset-Based Lending Liquidity Before Humans Notice"
 description: "How autonomous systems detect asset based liquidity engineering opportunities, accelerate private credit liquidity, and create silent structural advantage for HNWI and UHNW clients."
-date: "2024-03-03"
+date: "2025-12-16"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Alpha"

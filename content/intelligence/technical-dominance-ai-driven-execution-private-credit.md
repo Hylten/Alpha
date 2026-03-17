@@ -1,7 +1,7 @@
 ---
 title: "Technical Dominance: AI Driven Execution In Private Credit and Institutional Energy Origination"
 description: "A clinical examination of algorithmic deal flow, AI anchored credit architecture, and the institutional realignment shaping North American energy and private credit markets. Designed for UHNW allocators, Family Office CIOs, and Private Credit Directors seeking structural clarity."
-date: "2026-03-04"
+date: "2025-08-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "technical-dominance-ai-driven-execution-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

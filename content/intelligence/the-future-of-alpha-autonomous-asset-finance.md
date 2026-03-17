@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: Autonomous Asset Finance"
 description: "A deep technical look at liquidity engineering and asset based Monetization Architecture for HNWI and UHNW clients seeking structural efficiency in private credit."
-date: "2023-08-30"
+date: "2025-10-11"
 author: "Jonas Hyltén"
 slug: "the-future-of-alpha-autonomous-asset-finance"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Alpha"

@@ -1,7 +1,7 @@
 ---
 title: "The Proprietary Model for Automated Asset Hardening"
 description: "High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/). Automated asset hardening for institutional grade capital efficiency."
-date: "2024-06-01"
+date: "2026-02-21"
 author: "Jonas Hyltén"
 slug: "the-proprietary-model-for-automated-asset-hardening"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Alpha"

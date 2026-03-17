@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset Based Lending in Emerging Markets as the Silent Infrastructure of Future Liquidity"
 description: "Institutional analysis on algorithmic Asset-Based Lending architecture, AI credit engines, and liquidity engineering frameworks establishing the invisible rails of next generation private credit in frontier and emerging economies."
-date: "2025-07-28"
+date: "2025-07-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-abl-emerging-markets-future-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

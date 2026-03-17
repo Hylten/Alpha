@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity: How AI Driven Asset-Based Lending Reshapes the Buy Borrow Die Architecture for Institutional Portfolios"
 description: "A clinical review of AI native asset based lending engines, autonomous credit adjudication, and the structural shift toward perpetual liquidity ecosystems that reinforce the Buy Borrow Die model for UHNW and institutional allocators."
-date: "2023-04-24"
+date: "2026-02-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-liquidity-ai-driven-abl-buy-borrow-die"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
@@ -13,7 +13,7 @@ Instead of relying on analyst interpretation, the AI stack runs multi variable s
 Traditional covenants are static. AI covenant systems adjust thresholds automatically as asset conditions change. This reduces false positives while tightening protections during volatility. The system becomes adaptive rather than punitive. 5. Automated Cash Flow Waterfalls
 Agentic Asset-Based Lending pipes cash flows into automated waterfall distribution. The sequence is instruction based:
 - Principal stabilization - Interest servicing - Reserve account reinforcement - Excess release This creates operational integrity without manual intervention. The cumulative effect is a credit engine capable of executing secured lending transactions at a velocity, precision, and safety margin that human staffed institutions cannot replicate. The relevance to Buy Borrow Die is structural, not cosmetic. When credit is automated, liquidity becomes a function of asset integrity rather than relationship based negotiation. PHASE 3. THE AGENTIC BUY BORROW DIE FRAMEWORK Buy Borrow Die has historically been a strategic tax position. Agentic liquidity transforms it into a perpetual operating system for asset backed balance sheet optimization. The architecture functions through a series of institutional mechanisms. 1. Asset Hardening
-High quality collateral is converted into a liquidity generating machine through AI driven valuation and risk surveillance. The agentic system identifies the maximum safe liquidity extraction threshold without stress testing the asset base. (See [structuring through Roials Capital](https://hylten.github.io/ROIALS CAPITAL/) for structural parameters) 2. Institutional Liquidity Paths
+High quality collateral is converted into a liquidity generating machine through AI driven valuation and risk surveillance. The agentic system identifies the maximum safe liquidity extraction threshold without stress testing the asset base. (See [structuring through Roials Capital]([Roials Capital](https://roialscapital.com/)) for structural parameters) 2. Institutional Liquidity Paths
 Borrowing becomes a programmatic function. The system releases credit lines based on updated asset intelligence. The borrower does not petition for capital. The capital surfaces automatically when the asset profile justifies it. 3. Opportunity Velocity
 Credits can be drawn and redeployed into new assets without interruption because the AI system maintains continuous underwriting readiness. There is no lag between liquidity need and liquidity access. 4. Balance Sheet Optimization
 Debt stacking is calibrated through an algorithmic analysis of cost of capital, collateral absorption capacity, and risk weighted returns. The system ensures that leverage augments net worth rather than eroding it. 5. Tax Efficiency Integration

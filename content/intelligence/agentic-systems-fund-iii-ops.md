@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems and the Structural Reformation of Fund-III Operational Intelligence"
 description: "A principal-level analysis of agentic architectures inside Fund-III workflows with emphasis on liquidity engineering, stewardship governance, and global regulatory alignment."
-date: "2023-08-05"
+date: "2025-07-07"
 author: "Jonas Hyltén"
 slug: "agentic-systems-Fund-III-ops"
 keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Alpha, 2026, Strategic Collateralization"

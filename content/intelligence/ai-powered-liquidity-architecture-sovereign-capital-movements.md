@@ -1,7 +1,7 @@
 ---
 title: "AI Powered Liquidity Architecture for Sovereign Level Capital Movements: Institutional Engineering for Cross Jurisdictional Balance Sheet Mobility"
 description: "A technical briefing on AI mediated liquidity engineering, sovereign scale capital routing, automated credit architecture, cross border structural mechanics, and institutional grade balance sheet optimization frameworks designed for UHNW allocators and private credit strategists."
-date: "2025-03-25"
+date: "2025-08-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-powered-liquidity-architecture-sovereign-capital-movements"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

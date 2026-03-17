@@ -1,7 +1,7 @@
 ---
 title: "The Proprietary Model for Automated Asset Hardening"
 description: "An institutional architecture briefing detailing AI-first asset hardening, automated credit scaffolds, and Roials-Alpha private capital infrastructure engineered for UHNW/HNW family offices."
-date: "2023-01-12"
+date: "2026-01-17"
 author: "Jonas | Roials-Alpha"
 slug: "proprietary-model-automated-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

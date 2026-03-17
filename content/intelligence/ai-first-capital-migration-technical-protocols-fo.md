@@ -1,7 +1,7 @@
 ---
 title: "Ai First Capital Migration: Technical Protocols Fo"
 description: "Ai First Capital Migration: Technical Protocols Fo"
-date: "2025-05-15"
+date: "2026-02-22"
 author: "Jonas Hyltén"
 slug: "ai-first-capital-migration-technical-protocols-fo"
 keywords: "private credit, Asset-Based Lending, liquidity"

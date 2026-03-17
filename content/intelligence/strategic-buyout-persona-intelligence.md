@@ -1,7 +1,7 @@
 ---
 title: "Strategic Buyout Persona Intelligence: Institutional Architecture for Algorithmic Acquisition Environments"
 description: "A deep institutional analysis of buyout persona intelligence, liquidity engineering, and AI-first acquisition architecture designed for UHNWIs, institutional LPs, and private credit operators focusing on operational precision and structural advantage."
-date: "2026-03-04"
+date: "2026-03-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-buyout-persona-intelligence"
 keywords: "kapitalanskaffning, private credit, buyout intelligence, liquidity engineering, asset hardening, acquisition architecture"

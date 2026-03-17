@@ -1,7 +1,7 @@
 ---
 title: "The Systems Mandate: Architecture For Frictionless"
 description: "The Systems Mandate: Architecture For Frictionless"
-date: "2024-09-19"
+date: "2026-01-09"
 author: "Jonas Hyltén"
 slug: "the-systems-mandate-architecture-for-frictionless"
 keywords: "private credit, Asset-Based Lending, liquidity"

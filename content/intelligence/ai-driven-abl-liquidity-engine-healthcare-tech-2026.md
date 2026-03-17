@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset-Based Lending as the New Liquidity Engine for Healthcare and Technology Capital Markets"
 description: "Technical intelligence on AI enhanced asset based liquidity engineering across healthcare and technology ecosystems, with relevance to private equity Fund-III investment opportunities 2026."
-date: "2025-04-03"
+date: "2025-06-25"
 author: "Jonas Hyltén"
 slug: "ai-driven-abl-liquidity-engine-healthcare-tech-2026"
 keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Alpha, 2026, Institutional Liquidity Paths"

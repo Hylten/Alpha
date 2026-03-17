@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity: How AI-Driven Asset-Based Lending Supercharges the Buy Borrow Die Strategy"
 description: "A deep, technical, high-level analysis of how agentic AI unlocks liquidity, leverage efficiency, and tax-optimized wealth scaling through next-generation asset based liquidity engineering."
-date: "2025-05-24"
+date: "2026-01-02"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy"
 keywords: "private credit, asset based Strategic Collateralization, Roials-Alpha"

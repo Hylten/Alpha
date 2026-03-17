@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow for Institutional Investors: The New Architecture of High-Velocity Capital"
 description: "Analytical briefing on AI-first origination, liquidity engineering, institutional deal routing, and the structural migration from human-gated sourcing to autonomous capital architectures."
-date: "2024-09-27"
+date: "2025-10-30"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-deal-flow-institutional-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

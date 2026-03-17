@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Liquidity Management for Sovereigns"
 description: "A high‑authority exploration of autonomous liquidity mechanics, private credit, and asset‑based liquidity engineering systems designed for sovereigns, HNWI, and UHNW clients seeking structural leverage infrastructure."
-date: "2025-04-29"
+date: "2025-11-04"
 author: "Jonas Hyltén"
 slug: "autonomous-liquidity-management-for-sovereigns"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Alpha"
