@@ -4,6 +4,18 @@ description: "High level proprietary mechanics on liquidity optimization, privat
 date: "2025-10-26"
 author: "Jonas Hyltén"
 slug: "proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Alpha"
 ---
-# Proprietary Intelligence on Asset Hardening via DeFi Protocols Roials Alpha operates in a structural layer that most capital holders never access. We focus on silent authority. We provide the mechanics that institutional capital relies on, yet rarely reveals. Our mandate is simple. Transform illiquid or under optimized positions into fortified, yield capable, risk adaptive balance sheet engines. This is not retail DeFi. This is asset intelligence for HNWI and UHNW individuals that require predictable liquidity, engineered security, and clean execution. 
+
+# Proprietary Intelligence on Asset Hardening via DeFi Protocols Roials Alpha operates in a structural layer that most capital holders never access.
+
+We focus on silent authority.
+
+We provide the mechanics that institutional capital relies on, yet rarely reveals.
+
+Our mandate is simple.
+
+Transform illiquid or under optimized positions into fortified, yield capable, risk adaptive balance sheet engines.
+
+This is not retail DeFi.
+
+This is asset intelligence for HNWI and UHNW individuals that require predictable liquidity, engineered security, and clean execution.
