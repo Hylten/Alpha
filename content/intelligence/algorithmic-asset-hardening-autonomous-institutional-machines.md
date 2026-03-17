@@ -129,7 +129,8 @@ Insert a Cayman or Jersey SP for fund governance.
 Add a UCC‑perfected collateral spine in Texas or Oklahoma for oil‑and‑gas assets.
 
 Build a cage around every dollar. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : Wealth flows through structure, not sentiment.
 
 The institution must operate like a fortress.

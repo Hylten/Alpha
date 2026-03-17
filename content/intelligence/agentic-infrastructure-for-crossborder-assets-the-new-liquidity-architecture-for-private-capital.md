@@ -168,7 +168,8 @@ But the noise in the crypto Strategic Collateralization space has made HNWI capi
 
 Roials‑Alpha is not in the noise segment.
 
-We operate at a minimum threshold of 2,000,00
+We operate at a minimum threshold of 2,000,0
+0
 0 for crypto Capital Structuring.
 
 Below that number, the risk‑reward surface is inefficient and does not fit an institutional liquidity profile.

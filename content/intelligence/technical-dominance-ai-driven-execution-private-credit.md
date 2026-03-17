@@ -125,7 +125,8 @@ The institution receives strategic mappings, risk stratification, and operationa
 This ensures compliance integrity while delivering the analytical depth expected by UHNW capital stewards and institutional CIOs. ## ## 
 
 ## THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological discipline of non wasteful resource management. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * identifies the principle of multigenerational provisioning.
 
 The allocator embracing Stewardship as an operational discipline evaluates assets not through short term yield optics but through sustainability of cash flow, resilience of collateral, and long term productivity of the underlying resource.

@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "proprietary-path-to-autonomous-capital"
 --- 
 
-The structural gap facing allocators in 202
+The structural gap facing allocators in 20
+2
 6 is not a shortage of opportunity.
 
 It is the inability of traditional financial architecture to translate fragmented private market signals into coherent, risk-aligned capital pathways.
@@ -130,7 +131,8 @@ It rejects leverage addiction, speculative acceleration, and narrative driven al
 It imposes order on environments prone to volatility.
 
 This aligns with the Theology of Capital, where capital is treated as a resource to be governed rather than exploited. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * articulates the intergenerational mandate that guides disciplined asset selection and operational intelligence deployment.
 
 Stewardship is the filter that converts capital abundance into capital permanence.

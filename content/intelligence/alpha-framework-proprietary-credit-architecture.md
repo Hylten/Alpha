@@ -187,7 +187,8 @@ Stewardship ensures three outcomes.
 3. All counterparties operate pursuant to transparent and measurable structures.
 
 The Biblical principle in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * asserts that responsible resource management transcends the immediate generation.
 
 For institutions and family offices, stewardship produces credit architectures that maintain integrity across cycles rather than pursuing superficial yield.
@@ -198,7 +199,8 @@ It ensures that credit strategies are not driven by opportunism but by structure
 
 ## THE ## ## 
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators operating in 202
+## DECISION MAKING LENS FOR ALLOCATORS Allocators operating in 20
+2
 6 must navigate an environment where the constraints are analytical rather than financial.
 
 The critical questions are centered on structure, transparency, and operational alignment.

@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-deal-flow-architecture-Fund-III"
 --- 
 
-The structural gap defining North American private credit in 202
+The structural gap defining North American private credit in 20
+2
 6 is not a scarcity of opportunities but an excess of unstructured information that cannot be processed by legacy underwriting systems.
 
 Capital velocity decays when deal intake depends on human evaluation cycles.
@@ -162,7 +163,8 @@ The allocator is protected from opportunistic deviations driven by market noise.
 Data is evaluated on its own merit.
 
 This aligns with the ethics presented in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * which highlight continuity, responsibility, and long horizon capital logic. 
 
 3. Ethical Capital Utilization Liquidity is deployed only when structural integrity is verified.

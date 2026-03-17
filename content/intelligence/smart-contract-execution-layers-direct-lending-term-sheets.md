@@ -89,13 +89,13 @@ The market still hasn’t digested what this means.
 
 Everything else is noise. 
 
-1. Data Ingestion Layer 
+1. Data Ingestion
 
-2. Interpretation Layer 
+### Layer II:. Interpretation
 
-3. Execution Layer 
+### Layer III:. Execution
 
-4. Exception Governance Layer Each layer has its own jurisdictional logic.
+### Layer IV:. Exception Governance Layer Each layer has its own jurisdictional logic.
 
 Each layer interfaces with AI-first underwriting.
 

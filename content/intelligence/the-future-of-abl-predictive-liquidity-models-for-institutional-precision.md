@@ -187,7 +187,8 @@ Think of what that means for major borrowers.
 
 Interest rates can be optimized to liquidity profiles. liquidity facility durations can be dynamically recalibrated.
 
-Collateral can be stress tested across 50
+Collateral can be stress tested across 5
+0
 0 simulated futures in seconds.
 
 And lenders can make decisions that are structurally superior to anything a traditional Asset-Based Lending facility can produce.

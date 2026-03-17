@@ -49,31 +49,41 @@ The difference is exponential.
 
 ## The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers. # 
 
-## Layer 1: Collateral Intelligence Engine Evaluates collateral with structured models.
+#
+
+### Layer I:: Collateral Intelligence Engine Evaluates collateral with structured models.
 
 Operates continuously.
 
 Updates LTV parameters dynamically. # 
 
-## Layer 2: Agentic Exposure Manager Monitors volatility bands.
+#
+
+### Layer II:: Agentic Exposure Manager Monitors volatility bands.
 
 Adjusts exposure without human approval.
 
 Enforces capital rules. # 
 
-## Layer 3: Autonomous Liquidity Router Deploys funds with minimal latency.
+#
+
+### Layer III:: Autonomous Liquidity Router Deploys funds with minimal latency.
 
 Optimizes capital pathways.
 
 Reduces slippage across asset channels. # 
 
-## Layer 4: Privacy Vault Mechanics Isolates client identity from execution layers.
+#
+
+### Layer IV:: Privacy Vault Mechanics Isolates client identity from execution layers.
 
 Maintains zero retail footprint.
 
 Enforces structural confidentiality. # 
 
-## Layer 5: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
+#
+
+### Layer V:: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
 
 No friction.
 

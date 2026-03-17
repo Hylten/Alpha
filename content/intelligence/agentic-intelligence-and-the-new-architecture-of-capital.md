@@ -34,7 +34,8 @@ They cannot trigger unnecessary tax events.
 
 This is where agentic public share Monetization Architecture becomes dominant.
 
-Roials Alpha lends against public equities starting at 5,000,00
+Roials Alpha lends against public equities starting at 5,000,0
+0
 0 USD.
 
 Agentic systems evaluate equity positions based on: Historical volatility patterns.

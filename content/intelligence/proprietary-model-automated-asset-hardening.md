@@ -9,7 +9,8 @@ slug: "proprietary-model-automated-asset-hardening"
 The modern capital estate requires insulation, leverage, velocity, and a controlled dissociation between personal wealth and operational risk surfaces.
 
 Asset hardening has shifted from a defensive posture to an offensive architecture-an engineered force multiplier for families that operate across multi-jurisdictional value corridors. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * speaks in clean geometry: a good man leaves an inheritance for his children’s children.
 
 Yet the contemporary environment punishes static inheritance.
@@ -379,7 +380,8 @@ Enforcement.
 XI.
 
 MULTI-GENERATIONAL STRUCTURE: THE INHERITANCE OF CAPACITY 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * is not merely preserved-it’s operationalized.
 
 The inheritance is not cash.
@@ -458,7 +460,8 @@ Engineered.
 
 Unbreakable.
 
-End metric: Systemic Hardening Coefficient target ≥ 0.8
+End metric: Systemic Hardening Coefficient target ≥ 0.
+8
 2 across all capital layers.
 
 Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

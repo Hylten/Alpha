@@ -47,7 +47,8 @@ Build systems that think.
 Build systems that act.
 
 Build systems that compound. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children's children.
 
 Inheritance implies structure.

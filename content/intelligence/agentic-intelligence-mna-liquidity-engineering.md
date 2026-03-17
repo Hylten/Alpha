@@ -31,7 +31,8 @@ Control of information flow, timing flow, and capital flow.
 This is the architecture.
 
 A good man leaves an inheritance to his children's children. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * .
 
 Agentic intelligence reshapes every layer of complex M&A liquidity.
@@ -279,7 +280,8 @@ The system's purpose: maximize multigenerational capital sovereignty while minim
 
 Again 
 -  
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * . 
 -  M&A INTELLIGENCE: TARGET ACQUISITION WITHOUT SIGNAL LEAKAGE In high‑stakes transactions, the target should never know they are being targeted.
 
@@ -463,7 +465,8 @@ The system is quiet.
 The system serves the principal. 
 -  MANDATE For expansion of your agentic infrastructure, submit your operational perimeter.
 
-Latency tolerance target: 3
+Latency tolerance target: 
+3
 7 ms.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

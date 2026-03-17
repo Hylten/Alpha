@@ -10,7 +10,8 @@ The structural gap in modern private markets is not capital scarcity.
 
 The gap is the absence of precision routing systems capable of matching institutional objectives with verified assets at velocity.
 
-The post 202
+The post 20
+2
 3 regulatory recalibration created a market where compliance overhead increased faster than deal volume.
 
 This created a new constraint set where conventional origination teams cannot keep pace with allocators that need multi jurisdictional visibility and technical filtering.
@@ -25,7 +26,8 @@ Agentic systems emerged as the first architecture able to compress sourcing, ver
 
 Institutional allocators operate under accelerated deployment mandates while opportunity sets fragment into smaller micro verticals.
 
-The gap between available capital and validated assets widened because traditional origination pipelines were designed for pre 202
+The gap between available capital and validated assets widened because traditional origination pipelines were designed for pre 20
+2
 2 volume and complexity. 
 
 2. Regulatory drift increased friction across cross border transactions.
@@ -140,7 +142,8 @@ The emphasis is always on allocator alignment and regulatory clarity. ## ##
 It is a theological position on capital that prioritizes clarity, proportionality, and responsible allocation.
 
 The relevant principle is found in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * which frames the concept of generational continuity.
 
 Stewardship is not passive.
@@ -159,7 +162,8 @@ Stewardship also involves the avoidance of excess leverage, the careful calibrat
 
 Balance sheet optimization becomes a stewardship discipline when it prevents unnecessary fragility. ## ## 
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 202
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 20
+2
 6 environment require a decision making lens that incorporates agentic intelligence not as a novelty but as infrastructure.
 
 The strategic question is alignment.

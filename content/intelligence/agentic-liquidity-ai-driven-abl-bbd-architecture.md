@@ -43,7 +43,8 @@ Credit envelopes that flex, shrink, or expand with machine precision.
 The result: a liquidity engine that functions like an internal central bank for the portfolio-discretionary, anticipatory, and structurally insulated from human latency.
 
 A good man leaves an inheritance to his children's children. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * .
 
 The architecture must therefore compound, extend, and shield.
@@ -114,9 +115,7 @@ Compounded cycles build dynastic capital.
 
 Agentic Asset-Based Lending provides the architecture in four layers.
 
-Layer 
-
-1. Data Extraction The system scrapes structured and unstructured inputs with autonomous ingestion engines.
+### Layer I:. Data Extraction The system scrapes structured and unstructured inputs with autonomous ingestion engines.
 
 Title documents.
 
@@ -136,9 +135,7 @@ Regulatory filings.
 
 All processed into normalized vectors.
 
-Layer 
-
-2. Collateral Modeling AI agents perform collateral triangulation.
+### Layer II:. Collateral Modeling AI agents perform collateral triangulation.
 
 Three‑tier assessment: intrinsic value, liquidation velocity, and jurisdictional drag.
 
@@ -148,9 +145,7 @@ High‑coefficient assets serve as primary collateral.
 
 Low‑coefficient assets round out stability layers.
 
-Layer 
-
-3. Dynamic Underwriting No loan packages.
+### Layer III:. Dynamic Underwriting No loan packages.
 
 No time delays.
 
@@ -164,9 +159,7 @@ Borrowing capacity shifts instantly.
 
 Credit triggers fire automatically.
 
-Layer 
-
-4. Continuous Covenant Enforcement Covenants do not exist as static clauses.
+### Layer IV:. Continuous Covenant Enforcement Covenants do not exist as static clauses.
 
 Agentic systems enforce them in motion.
 
@@ -229,7 +222,8 @@ Portfolio continuity is preserved.
 Capital rotation becomes infinite.
 
 Dynasty secured. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * activated. 
 
 ## JURISDICTIONAL ARBITRAGE: WHERE AGENTIC LIQUIDITY WINS Most institutions overlook the structural arbitrage unlocked by AI‑driven Asset-Based Lending.
@@ -365,7 +359,8 @@ The question is how aggressively.
 This is the generational pivot.
 
 The dynasty moment. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * .
 
 Consolidate assets.

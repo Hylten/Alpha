@@ -228,9 +228,11 @@ Ultra high net worth families.
 People who operate at a level where execution speed and capital intelligence directly influence outcomes.
 
 Our minimum thresholds maintain purity:
-• Crypto Institutional Liquidity Paths: 2,000,00
+• Crypto Institutional Liquidity Paths: 2,000,0
+0
 0 minimum
-• Public Share Strategic Collateralization: 5,000,00
+• Public Share Strategic Collateralization: 5,000,0
+0
 0 minimum The architecture dictates our infrastructure remains tuned for sophisticated capital, not diluted by volume noise. 
 
 ## The Advantage of Structural Liquidity The wealthiest families have learned a critical truth.

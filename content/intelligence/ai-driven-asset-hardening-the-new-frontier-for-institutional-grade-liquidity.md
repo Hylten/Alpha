@@ -34,7 +34,8 @@ The difference is that institutions have internal quant systems, autonomous moni
 
 Roials-Alpha brings that caliber of protection to private wealth clients through a new model of AI-driven asset hardening. 
 
-## What Asset Hardening Means in 202
+## What Asset Hardening Means in 20
+2
 6 Asset hardening is more than risk analysis.
 
 It is not "portfolio monitoring".

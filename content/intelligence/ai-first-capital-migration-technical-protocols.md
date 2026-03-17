@@ -52,7 +52,7 @@ Allocators that fail to realign toward data centric capital migration will exper
 
  OF AI FIRST CAPITAL MIGRATION The technical foundation of AI driven capital movement can be modeled across four operational pillars.
 
-Pillar 1: Algorithmic Underwriting Algorithmic underwriting is not simply automated data intake.
+### Pillar I:: Algorithmic Underwriting Algorithmic underwriting is not simply automated data intake.
 
 It is the construction of parameterized credit engines capable of evaluating asset quality through continuous ingestion of multi dimensional data streams.
 
@@ -65,7 +65,7 @@ The architecture focuses on:
 
 This model creates an underwriting environment where risk visibility is immediate, not episodic.
 
-Pillar 2: Autonomous Monitoring and Cash Flow Governance AI governed credit platforms track cash flows, collateral conditions, and borrower performance across real time datasets.
+### Pillar II:: Autonomous Monitoring and Cash Flow Governance AI governed credit platforms track cash flows, collateral conditions, and borrower performance across real time datasets.
 
 This improves capital stack integrity and reduces dependency on quarterly reporting cycles.
 
@@ -76,7 +76,7 @@ Core mechanisms include:
 
 AI driven monitoring reduces default detection lag and enhances institutional stability.
 
-Pillar 3: Monetization Architecture and Automated Reallocation AI first capital migration systems execute Monetization Architecture protocols.
+### Pillar III:: Monetization Architecture and Automated Reallocation AI first capital migration systems execute Monetization Architecture protocols.
 
 This means capital is automatically rotated into higher efficiency positions when performance thresholds are not met.
 
@@ -87,7 +87,7 @@ Asset-Backed Frameworks includes:
 
 This produces a more elastic and responsive liquidity architecture.
 
-Pillar 4: Machine Governed Compliance AI compliance models interpret regulatory frameworks in real time, reducing exposure to regulatory drift.
+### Pillar IV:: Machine Governed Compliance AI compliance models interpret regulatory frameworks in real time, reducing exposure to regulatory drift.
 
 This is particularly relevant for structures operating across FINRA, OSC, ESMA, SFC, and DFSA regimes.
 
@@ -130,7 +130,8 @@ The value is in clarity, not solicitation. ## ##
 It is the avoidance of waste, mispricing, and unnecessary operational drag.
 
 Capital stewardship is fundamentally a function of order. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * establishes the principle that properly governed capital extends value across generations.
 
 AI first migration strengthens stewardship disciplines through: 

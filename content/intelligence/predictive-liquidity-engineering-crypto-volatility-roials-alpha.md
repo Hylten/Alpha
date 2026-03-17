@@ -153,7 +153,8 @@ For allocators with exposure to volatile digital assets, the Roials Alpha Framew
 It ensures that digital asset volatility is contextualized using quantitative analytics aligned with institutional expectations. ## ## 
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * states that a good person leaves an inheritance for future generations.
 
 In capital terms this is the obligation to allocate resources wisely, reduce waste, and ensure continuity across market cycles.

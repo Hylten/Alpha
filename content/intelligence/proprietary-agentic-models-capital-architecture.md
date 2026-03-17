@@ -6,7 +6,8 @@ author: "Roials-Alpha"
 slug: "proprietary-agentic-models-capital-architecture"
 --- 
 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * .
 
 Institutional capital architecture is entering a terminal phase shift.
@@ -154,7 +155,8 @@ Agentic credit architecture eliminates those vulnerabilities.
 Core Mechanisms: 
 -  Auto-drafted covenant frameworks derived from 10,000+ institutional-grade templates.
 • Collateral mapping engine identifying seniority conflicts and lien contamination.
-• Liquidity stress modules modeling 50.20
+• Liquidity stress modules modeling 50.2
+0
 0 volatility scenarios.
 • Automated compliance monitors extracting real-time signals from asset performance.
 • Trigger cascades executing predefined interventions: rate adjustments, sweeps, fallback lock-ins, asset repossession.
@@ -212,7 +214,8 @@ No bottlenecks.
 Execution becomes mechanical force.
 
 Core Mechanisms: 
--  Automated term sheet generation in under 3
+-  Automated term sheet generation in under 
+3
 0 seconds.
 • Multi-signature smart routing ensuring authority locks.
 • Counterparty identity validation via institutional-grade KYC/AML engines.

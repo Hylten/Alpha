@@ -186,10 +186,12 @@ Synthetic Deal Rooms correct that structural weakness.
 
 A family office with autonomous deal ingestion has a permanent advantage over one relying on human preprocessing.
 
-The latter sees 10‑2
+The latter sees 10‑
+2
 0 deals with reasonable depth.
 
-The former sees 200‑30
+The former sees 200‑3
+0
 0 with total depth.
 
 Volume becomes clarity.
@@ -286,7 +288,8 @@ Synthetic Deal Rooms operate on jurisdictional abstraction-reducing the complexi
 
 This is where high-net-worth principals feel the acceleration most sharply.
 
-What once required 1
+What once required 
+1
 2 advisors now requires a single synthetic environment.
 
 The deal room becomes the translator of the world. 

@@ -89,9 +89,11 @@ It becomes strategic autonomy. #
 Our frameworks specialize in:
 • Private credit collateralization
 • Institutional grade asset based Institutional Liquidity Paths
-• Crypto Monetization Architecture with a minimum threshold of 2,000,00
+• Crypto Monetization Architecture with a minimum threshold of 2,000,0
 0
-• Public share Asset-Backed Frameworks with a minimum threshold of 5,000,00
+0
+• Public share Asset-Backed Frameworks with a minimum threshold of 5,000,0
+0
 0 These are not retail structures.
 
 They are engineered for individuals whose portfolios operate like micro institutions. 
@@ -108,7 +110,8 @@ Roials-Alpha provides Capital Structuring against crypto positions, but within s
 
 The thresholds are high because the intent is sophisticated capital extraction, not opportunistic balance sheet optimization.
 
-Minimum crypto position: 2,000,00
+Minimum crypto position: 2,000,0
+0
 0 The architecture dictates the leverage is meaningful.
 
 It ensures the collateral is institution grade.

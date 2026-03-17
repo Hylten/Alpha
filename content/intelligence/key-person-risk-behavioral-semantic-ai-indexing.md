@@ -76,13 +76,13 @@ Pure observation supported by longitudinal patterning across tens of thousands o
 
 The architecture separates the individual into four layers: 
 
-1. Operational Consistency Layer 
+1. Operational Consistency
 
-2. Pressure Response Layer 
+### Layer II:. Pressure Response
 
-3. Decision Horizon Layer 
+### Layer III:. Decision Horizon
 
-4. Identity Continuity Layer Each is both observable and mathematically traceable.
+### Layer IV:. Identity Continuity Layer Each is both observable and mathematically traceable.
 
 The Operational Consistency Layer tracks micro-habits embedded in communication, scheduling, prioritization, delegation patterns, and failure-to-close loops.
 

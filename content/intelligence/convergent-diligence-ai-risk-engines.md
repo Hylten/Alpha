@@ -40,7 +40,8 @@ Direct intent.
 
 No wasted signal.
 
-This is Roials-Alpha. ------------------------------------
+This is Roials-Alpha. -----------------------------------
+-
 -
 -  
 -  
@@ -97,7 +98,8 @@ Machine scope.
 
 Principal interpretation.
 
-A deal moves differently when the intelligence layer is running ahead of the humans. ------------------------------------
+A deal moves differently when the intelligence layer is running ahead of the humans. -----------------------------------
+-
 -
 -  
 -  
@@ -172,7 +174,8 @@ Human judgment at the apex.
 
 Machine execution underneath.
 
-A sovereign hierarchy of intelligence. ------------------------------------
+A sovereign hierarchy of intelligence. -----------------------------------
+-
 -
 -  
 -  
@@ -217,7 +220,8 @@ You eliminate bureaucratic signals.
 
 You move the conversation to a direct line.
 
-This is the signature of Roials-Alpha: the intelligence layer clears the path before the human even enters the room. ------------------------------------
+This is the signature of Roials-Alpha: the intelligence layer clears the path before the human even enters the room. -----------------------------------
+-
 -
 -  
 -  
@@ -260,7 +264,8 @@ It transforms diligence from an event into a continuous, evolving intelligence l
 
 This is why family offices keep moving toward AI-first credit and acquisition architecture: the increased clarity reduces strategic hesitancy.
 
-Confidence follows clarity. ------------------------------------
+Confidence follows clarity. -----------------------------------
+-
 -
 -  
 -  
@@ -334,7 +339,8 @@ No blind spots.
 
 No informational lag.
 
-No hesitation. ------------------------------------
+No hesitation. -----------------------------------
+-
 -
 -  
 -  
@@ -365,7 +371,8 @@ You connect the intelligence layer with operational execution via:
 
 You plug in with existing institutional engines.
 
-Sometimes directly with structures available through Roials Capital via institutional capital execution gateways such as structuring through Roials Capital, but the intelligence layer remains sovereign to Roials-Alpha. ------------------------------------
+Sometimes directly with structures available through Roials Capital via institutional capital execution gateways such as structuring through Roials Capital, but the intelligence layer remains sovereign to Roials-Alpha. -----------------------------------
+-
 -
 -  
 -  

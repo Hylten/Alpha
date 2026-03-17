@@ -167,8 +167,10 @@ Rate curves pegged to live collateral health.
 
 The architecture collapses time.
 
-Deals that once took 6
-0 days compress to 6
+Deals that once took 
+6
+0 days compress to 
+6
 0 minutes.
 
 Machine gun tempo.
@@ -236,7 +238,8 @@ Suggests alternative domiciles.
 Moves credit exposure from high-tax zones to efficient corridors.
 
 Portfolio shifts from reactive to anticipatory. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : wealth inherits across generations when structure precedes opportunity.
 
 The architecture treats wealth as a system.
@@ -275,7 +278,8 @@ The office becomes a computational organism.
 
 The yield shift is quantifiable.
 
-AI-first credit structures routinely outperform traditional private credit by 80-18
+AI-first credit structures routinely outperform traditional private credit by 80-1
+8
 0 bps because machine underwriting captures nuance.
 
 Asset risk bands tighten.
@@ -490,7 +494,8 @@ Digital assets become collateral overlays.
 Jurisdictional arbitrage becomes default posture.
 
 AI-first underwriting becomes the spine of the system. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * applies: the good father leaves inheritance.
 
 But the sovereign architect leaves infrastructure.

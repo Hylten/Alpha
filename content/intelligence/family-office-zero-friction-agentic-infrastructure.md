@@ -234,7 +234,19 @@ The family office becomes inevitable.
 
 Return to depth.
 
-THE AGENTIC STACK FOR FAMILY OFFICES (Technical dominance) The architecture emerges in layers: Layer 1: Identity of Capital Layer 2: Intake & Signal Fusion Layer 3: Autonomous Underwriting & Risk Logic Layer 4: Multi‑Agent Coordination Mesh Layer 5: Execution Interface for Principals Layer 1: Identity of Capital Family offices are not funds.
+THE AGENTIC STACK FOR FAMILY OFFICES (Technical dominance) The architecture emerges in layers:
+
+### Layer I:: Identity of Capital
+
+### Layer II:: Intake & Signal Fusion
+
+### Layer III:: Autonomous Underwriting & Risk Logic
+
+### Layer IV:: Multi‑Agent Coordination Mesh
+
+### Layer V:: Execution Interface for Principals
+
+### Layer I:: Identity of Capital Family offices are not funds.
 
 They are sovereign capital vehicles with multi-generational horizons.
 
@@ -259,7 +271,7 @@ Unbendable.
 
 This is how you create consistency without bureaucracy.
 
-Layer 2: Intake & Signal Fusion The agent ingests everything.
+### Layer II:: Intake & Signal Fusion The agent ingests everything.
 
 Deal rooms.
 
@@ -291,7 +303,7 @@ The family office no longer “receives deals”.
 
 It harvests markets.
 
-Layer 3: Autonomous Underwriting The system runs financials.
+### Layer III:: Autonomous Underwriting The system runs financials.
 
 Builds models.
 
@@ -313,7 +325,7 @@ Not after.
 
 Now.
 
-Layer 4: Multi-Agent Coordination Mesh This is the real engine.
+### Layer IV:: Multi-Agent Coordination Mesh This is the real engine.
 
 One agent would be linear.
 
@@ -345,7 +357,7 @@ With no friction.
 
 This is where the machine becomes stronger than any internal team.
 
-Layer 5: Principal Interface You do not need dashboards.
+### Layer V:: Principal Interface You do not need dashboards.
 
 You need decision clarity.
 

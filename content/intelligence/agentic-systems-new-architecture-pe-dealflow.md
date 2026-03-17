@@ -33,7 +33,8 @@ A new architecture where principal intelligence is embedded, not delegated.
 Where the firm becomes a system, not a hierarchy.
 
 Where dealflow becomes computable. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * speaks: A good man leaves an inheritance to his children’s children.
 
 Capital permanence.
@@ -202,9 +203,7 @@ Because speed is a fiduciary duty.
 
 The architecture of agentic PE revolves around four layers.
 
-Layer 
-
-1. Signal Ingestion.
+### Layer I:. Signal Ingestion.
 
 Market feeds.
 
@@ -232,9 +231,7 @@ All auto-synchronized.
 
 No latency.
 
-Layer 
-
-2. Interpretive Intelligence.
+### Layer II:. Interpretive Intelligence.
 
 Embedding models run cross-vector matches.
 
@@ -252,9 +249,7 @@ Everything is layered.
 
 Everything is retested against fresh data.
 
-Layer 
-
-3. Autonomous Diligence.
+### Layer III:. Autonomous Diligence.
 
 Document intelligence reconstructs underwriting narratives.
 
@@ -274,9 +269,7 @@ Tax engines run cross-jurisdictional optimizations.
 
 Output: ready-for-principal risk geometry.
 
-Layer 
-
-4. Execution Readiness.
+### Layer IV:. Execution Readiness.
 
 Term-sheet drafting.
 
@@ -579,7 +572,8 @@ Over time, the agentic architecture becomes the principal’s institutional lega
 A durable form of inheritance.
 
 As 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * instructs.
 
 The new architecture of PE dealflow hinges on five mandates.

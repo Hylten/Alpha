@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-playbook-agentic-finance"
 --- 
 
-The structural gap defining the 202
+The structural gap defining the 20
+2
 6 capital markets is not volatility.
 
 It is the absence of standardized intelligence workflows.
@@ -67,7 +68,7 @@ It uses structured data, continuous risk scoring, and machine executed diligence
 
 There are four operational layers.
 
-LAYER 1: Algorithmic Deal Flow Architecture The core premise is that deal sourcing is no longer human curated.
+### Layer I:: Algorithmic Deal Flow Architecture The core premise is that deal sourcing is no longer human curated.
 
 It is machine discovered.
 
@@ -81,7 +82,7 @@ Inputs include:
 -  commodity linked cash flow signatures 
 -  legal filings and lien actions Structured correctly, these data sets generate pre underwritten deal candidates before a human analyst is even aware the asset is in motion.
 
-LAYER 2: AI First Credit Underwriting The credit model is built on three core pillars. 
+### Layer II:: AI First Credit Underwriting The credit model is built on three core pillars. 
 
 1. Pattern Coherence Models do not predict outcomes.
 
@@ -97,7 +98,7 @@ This functions as recovery factor modeling for credit.
 
 The system recalculates LTV daily, adjusting internal capital allocation rules and early warning signals.
 
-LAYER 3: Autonomous Monitoring Systems Monitoring is not quarterly reporting.
+### Layer III:: Autonomous Monitoring Systems Monitoring is not quarterly reporting.
 
 It is continuous data ingestion.
 
@@ -109,7 +110,7 @@ Operational telemetry includes:
 -  legal perimeter movements 
 -  borrower behavioral patterns The result is a portfolio that is risk managed by system integrity rather than manual oversight.
 
-LAYER 4: Machine Directed Execution This includes payment flows, enforcement workflows, document autonomous infrastructure, lien registration, and restructuring pathways.
+### Layer IV:: Machine Directed Execution This includes payment flows, enforcement workflows, document autonomous infrastructure, lien registration, and restructuring pathways.
 
 Human intervention occurs only in exception management.
 
@@ -152,7 +153,8 @@ Time is scarcer.
 The allocator that manages both with precision demonstrates stewardship.
 
 This aligns with the principle in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * which establishes the multi generational responsibility of capital custodianship.
 
 The stewardship filter evaluates: 

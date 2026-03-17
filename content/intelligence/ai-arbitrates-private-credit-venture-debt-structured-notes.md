@@ -76,7 +76,8 @@ Re-evaluate.
 
 Human teams work quarterly.
 
-Our AI works every 1
+Our AI works every 
+1
 4 milliseconds.
 
 That is the difference. ## ## 

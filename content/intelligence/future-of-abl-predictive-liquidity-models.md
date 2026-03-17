@@ -126,7 +126,8 @@ It centers on the effective management of resources, risk, and capital required 
 The stewardship filter is composed of three layers: Capital Alignment Discipline Predictive Asset-Based Lending ensures capital flows into operations with measurable value retention.
 
 This aligns with the stewardship principle seen in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : capital is not to be wasted but preserved across generations.
 
 Operational Integrity Stewardship mandates accountability in asset usage and cash flow behavior.

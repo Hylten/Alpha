@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-ai-bank-digital-infrastructure-of-capital"
 --- 
 
-The structural gap forming across North American and European credit markets in 202
+The structural gap forming across North American and European credit markets in 20
+2
 6 is not a product of economic instability.
 
 It is the result of technological divergence.
@@ -171,7 +172,8 @@ The stewardship filter has three components.
 1. Accuracy as Ethics Capital misallocation is a form of waste.
 
 Precision in underwriting, collateral analysis, and liquidity modeling is a form of ethical responsibility. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * underscores the principle of multi generational stewardship.
 
 Accuracy ensures preservation across generations. 

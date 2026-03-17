@@ -174,7 +174,8 @@ The result is institutional grade power delivered through an invisible interface
 
 It is mechanical.
 
-At 2,000,00
+At 2,000,0
+0
 0 and above, crypto transforms into a structural asset.
 
 It becomes predictable enough for autonomous systems to hedge in real time.
@@ -192,7 +193,8 @@ Clients gain liquidity without surrendering upside.
 
 Clients retain exposure without carrying the operational strain. 
 
-## Public Share Strategic Collateralization at Institutional Scale Public equity positions at 5,000,00
+## Public Share Strategic Collateralization at Institutional Scale Public equity positions at 5,000,0
+0
 0 and above create a unique advantage.
 
 They generate enough liquidity density to build stable Asset-Backed Frameworks corridors that do not introduce unnecessary volatility risk.

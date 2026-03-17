@@ -236,7 +236,7 @@ Agentic infrastructure is not “AI that helps.” It is “AI that acts.” It 
 
 The architecture has three pillars.
 
-Pillar 1: The Sovereign Core The sovereign core is the primary decision engine.
+### Pillar I:: The Sovereign Core The sovereign core is the primary decision engine.
 
 It does not rely on any external LLM.
 
@@ -248,7 +248,7 @@ Every other agent reports to it.
 
 It produces the final verdict.
 
-Pillar 2: The Autonomous Perimeter These agents interface with the outside world.
+### Pillar II:: The Autonomous Perimeter These agents interface with the outside world.
 
 They retrieve records, validate corporate filings, scan public databases, pull market data, and detect shifts in regulatory or operational conditions.
 
@@ -260,7 +260,7 @@ It extends the room’s reach.
 
 It makes the data room a market participant rather than a passive repository.
 
-Pillar 3: The Execution Swarm This is where real operational leverage is created.
+### Pillar III:: The Execution Swarm This is where real operational leverage is created.
 
 These are small, purpose-built agents that run micro-tasks: redline detection, contract versioning, integration modeling, scenario analysis, counterparty mapping, valuation pressure-testing.
 

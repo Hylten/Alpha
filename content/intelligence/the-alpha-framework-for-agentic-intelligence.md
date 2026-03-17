@@ -43,7 +43,8 @@ The Alpha Framework is not designed for the mass market.
 The minimums exist because the system requires scale.
 
 A 
-2 million dollar crypto liquidity facility behaves differently from a 20
+2 million dollar crypto liquidity facility behaves differently from a 2
+0
 0 thousand dollar liquidity facility.
 
 A 

@@ -149,7 +149,8 @@ Instead of seeking liquidity through public markets, institutions increasingly f
 Stewardship demands intentional construction, not reactive navigation.
 
 The allocator that understands the post MiFID II environment recognizes that liquidity is now a design choice rather than a market assumption. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * reinforces this through its emphasis on intergenerational provisioning and disciplined management of resources.
 
 The allocator must position capital in structures that transcend regulatory cycles and market noise. ## ## 

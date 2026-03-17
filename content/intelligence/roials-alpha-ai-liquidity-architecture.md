@@ -30,7 +30,8 @@ The threshold where asset-based systems become autonomous liquidity machines.
 
 The post-cycle macro landscape amplifies this shift.
 
-Every market regime since 202
+Every market regime since 20
+2
 0 has pushed capital towards compression, speed, and irreversibility.
 
 Traditional lenders operate with hysteresis.
@@ -52,7 +53,8 @@ Zero-lag deal formation.
 The institution becomes the algorithm; the algorithm becomes the balance sheet.
 
 A good man leaves an inheritance to his children's children: 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * .
 
 Modern interpretation: the architecture you build determines the inheritance you leave.
@@ -243,7 +245,8 @@ Velocity.
 
 Control.
 
-Private credit will displace significant portions of banking by 203
+Private credit will displace significant portions of banking by 20
+3
 2 because the architecture is superior.
 
 Faster underwriting.
@@ -270,7 +273,9 @@ Roials-Alpha provides deterministic liquidity channels that respond to real stru
 
 ## ROIALS-ALPHA COLLATERAL INTELLIGENCE ENGINE Collateral intelligence drives the next generation of credit.
 
-The Roials-Alpha engine performs asset hardening across three layers: Layer 1: Technical Certainty Machine-audited asset data.
+The Roials-Alpha engine performs asset hardening across three layers:
+
+### Layer I:: Technical Certainty Machine-audited asset data.
 
 Sensor-supported valuation.
 
@@ -280,7 +285,7 @@ Failure-mode datasets.
 
 Predictive volatility mapping.
 
-Layer 2: Legal Sovereignty Cross-jurisdictional compliance lattice.
+### Layer II:: Legal Sovereignty Cross-jurisdictional compliance lattice.
 
 Lien precedence mapping.
 
@@ -290,7 +295,7 @@ Perimeter reinforcement.
 
 Enforcement visibility indexing.
 
-Layer 3: Liquidity Consequence Forward liquidity curves.
+### Layer III:: Liquidity Consequence Forward liquidity curves.
 
 Market-state simulations.
 
@@ -377,7 +382,8 @@ It converts passive assets into proactive liquidity machines.
 It converts volatility into capital acceleration.
 
 It converts uncertainty into structural dominance. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * is fulfilled not through passive wealth preservation but through engineered institutional longevity. 
 
 ## THE NEW Fund-III PARADIGM Fund-III structures powered by Roials-Alpha evolve beyond conventional fund mechanics.

@@ -34,11 +34,14 @@ These audits are incompatible with the velocity and fragmentation of modern ente
 
 The result is a persistent liquidity shortfall across companies with high grade collateral but insufficient institutional interfaces.
 
-This regime shift is reinforced by three conditions measurable across 202
+This regime shift is reinforced by three conditions measurable across 20
+2
 4 through 2026: 
 
-1. A 3
-4 to 4
+1. A 
+3
+4 to 
+4
 8 percent reduction in bank participation across early stage and mid tier borrowing bases in healthcare services. 
 
 2. A steady compression of covenant flexibility driven by Basel IV capital treatment, reducing availability for collateral rich but non standard revenue models. 
@@ -152,7 +155,8 @@ It is not a moral overlay but a structural requirement.
 Poorly deployed capital destroys velocity and undermines balance sheet integrity.
 
 Well deployed capital compounds access, resilience, and operational capacity. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * identifies the principle of multi generational resource management.
 
 In capital markets, this translates to disciplined underwriting, transparent collateral governance, and liquidity architectures that do not erode future optionality.

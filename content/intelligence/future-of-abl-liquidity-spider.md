@@ -18,7 +18,8 @@ Asset-Based Lending is shifting from a paperwork discipline to an algorithmic di
 
 ## THE REGIME SHIFT
 
- The strategic environment for institutional Asset-Based Lending changed in 202
+ The strategic environment for institutional Asset-Based Lending changed in 20
+2
 4 when traditional credit channels began fragmenting across four fault lines: 
 -  Regulatory recalibration inside US regional banks compressing permissible leverage ratios. 
 -  Basel III+ capital weighting discouraging on balance sheet lending against operational assets. 
@@ -131,7 +132,8 @@ The emphasis is on structural fit. ## ##
 It is the recognition that capital entrusted must be directed toward productive output rather than speculative expansion.
 
 Theological principles reinforce this posture. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * states that a good person leaves an inheritance for future generations.
 
 In institutional practice this means: 

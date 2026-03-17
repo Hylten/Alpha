@@ -115,7 +115,8 @@ The partnership model therefore focuses on structural clarity, counterparty alig
 ## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an aesthetic virtue.
 
 It is a discipline grounded in the responsible management of informational leverage. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * outlines the principle of intergenerational responsibility.
 
 Within modern credit architecture, this principle translates into non wasteful deployment of liquidity and the preservation of balance sheet integrity.

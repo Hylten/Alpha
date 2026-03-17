@@ -12,7 +12,8 @@ The structural gap is driven by computational asymmetry.
 
 Major allocators are now competing not on capital availability but on the velocity and precision of intelligence formation.
 
-In 202
+In 20
+2
 6 the dominant source of alpha creation is emerging from AI centric credit architectures that compress underwriting timelines, eliminate human friction, and realign risk transfer between sovereign borrowers and institutional private credit structures.
 
 This briefing outlines ## 
@@ -47,11 +48,14 @@ These forces have produced a structural liquidity deficit.
 Sovereign borrowers require capital injections faster than large institutions can mobilize them.
 
 Traditional underwriting cycles operate on 
-9 to 1
+9 to 
+1
 8 month windows.
 
-AI centric sovereign financing systems operate on compressed 1
-4 to 4
+AI centric sovereign financing systems operate on compressed 
+1
+4 to 
+4
 0 day cycles.
 
 This time differential creates a computational arbitrage.
@@ -156,7 +160,8 @@ In sovereign finance, the partners vary by jurisdiction, regulatory standing, an
 ## THE STEWARDSHIP FILTER : ETHICS, CAPITAL, AND THEOLOGY OF NON WASTE The stewardship doctrine sits at the core of the Roials Capital framework.
 
 It is derived from the principle in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * which states that generational capital requires disciplined non waste.
 
 This is not a moral metaphor.

@@ -131,7 +131,9 @@ Once the business logic becomes machine readable, autonomy becomes inevitable.
 
 ## The New Operational Hierarchy Modern enterprises have three invisible layers. # 
 
-## Layer 1: Human Workflows Cluttered.
+#
+
+### Layer I:: Human Workflows Cluttered.
 
 Slow.
 
@@ -139,7 +141,9 @@ Dependent on tribal knowledge and siloed processes.
 
 Fragile under scale. # 
 
-## Layer 2: Scripted autonomous infrastructure Useful.
+#
+
+### Layer II:: Scripted autonomous infrastructure Useful.
 
 Cheap.
 
@@ -147,7 +151,9 @@ Limited.
 
 Breaks under real-world complexity. # 
 
-## Layer 3: Agentic Infrastructure This is the leap.
+#
+
+### Layer III:: Agentic Infrastructure This is the leap.
 
 Dynamic execution.
 
@@ -159,7 +165,8 @@ End to end autonomy.
 
 This layer replaces manual intervention.
 
-It replaces 7
+It replaces 
+7
 0 percent of routine operations.
 
 It eliminates the bottleneck of human interpretation.

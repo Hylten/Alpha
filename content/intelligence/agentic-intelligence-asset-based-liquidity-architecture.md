@@ -35,7 +35,9 @@ The institutional opportunity.
 It is written for principals who control assets, not advisers who react to them.
 
 And it anchors itself in the oldest wealth principle: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just. 
--  **Proverbs 13:22*
+-  **Proverbs 13:2
+2
+*
 * .
 
 Agentic systems transform this principle from moral to mechanical.
@@ -443,7 +445,9 @@ The new inheritance.
 Inheritance becomes engineered liquidity.
 
 Engineered liquidity becomes dynastic power. 
--  **Proverbs 13:22*
+-  **Proverbs 13:2
+2
+*
 * remains the north star.
 
 Agentic systems operationalize it. 

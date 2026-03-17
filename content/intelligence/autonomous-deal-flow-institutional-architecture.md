@@ -139,7 +139,8 @@ Stewardship is the alignment of capital deployment with non wasteful resource ma
 It is the systematic practice of ensuring that capital flows into structures that preserve and enhance productive capacity.
 
 The traditional stewardship framing is reinforced by the scriptural principle in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * which highlights the creation of durable value across generations.
 
 Stewardship within autonomous deal flow operates through four primary filters. 
@@ -168,7 +169,8 @@ Autonomous deal flow increases opportunity velocity without sacrificing prudence
 
 This stewardship filter creates a disciplined operating environment where opportunity evaluation is measured, data anchored, and free of promotional distortion. ## ## 
 
-## DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 202
+## DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 20
+2
 6 face a structural decision.
 
 They can continue relying on human centric sourcing channels that provide inconsistent information density and slow mandate alignment.
