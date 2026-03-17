@@ -44,12 +44,18 @@ const getPosts = () => {
             slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
             title: data.title || 'Untitled',
             description: data.description || '',
-            date: data.date || '',
+            date: data.date || '2026-03-01',
             author: data.author || 'Roials Alpha',
         };
     });
 
-    return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    return posts.sort((a, b) => {
+        const dateA = new Date(a.date).getTime();
+        const dateB = new Date(b.date).getTime();
+        if (isNaN(dateA)) return 1;
+        if (isNaN(dateB)) return -1;
+        return dateB - dateA;
+    });
 };
 
 export const AlphaIntelligenceIndex: React.FC = () => {
