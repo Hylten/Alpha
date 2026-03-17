@@ -9,7 +9,6 @@ function parseFrontmatter(raw: string) {
 
     const data: Record<string, string> = {};
     let i = 1;
-    // Iterate until we find a line starting with '---'
     while (i < lines.length && !lines[i].trim().startsWith('---')) {
         const line = lines[i];
         const colonIdx = line.indexOf(':');
@@ -24,7 +23,15 @@ function parseFrontmatter(raw: string) {
         i++;
     }
 
-    const content = lines.slice(i + 1).join('\n');
+    // Capture the closing line itself to see if it has content
+    const closingLine = lines[i] || '';
+    const remainder = closingLine.trim().slice(3).trim();
+    
+    let content = lines.slice(i + 1).join('\n');
+    if (remainder) {
+        content = remainder + '\n' + content;
+    }
+    
     return { data, content };
 }
 
