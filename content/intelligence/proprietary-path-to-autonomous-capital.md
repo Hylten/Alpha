@@ -144,7 +144,9 @@ The role is not to intermediate capital, but to architect pathways where allocat
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management
+
+.
 
 It is the principle that governs autonomous capital.
 
@@ -170,7 +172,9 @@ Autonomous capital is stewardship encoded into systems.
 
  
 
-## CALIBRATION FRAMEWORK FOR ALLOCATORS A disciplined allocator assessing the autonomous capital pathway evaluates their current architecture across seven dimensions:
+## CALIBRATION FRAMEWORK FOR ALLOCATORS A disciplined allocator assessing the autonomous capital pathway evaluates their current architecture across seven dimensions
+
+:
 
 • Data integrity.
 

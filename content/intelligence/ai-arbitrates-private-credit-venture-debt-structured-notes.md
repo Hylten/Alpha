@@ -22,7 +22,11 @@ Structured notes.
 
 One engine.
 
-The arbitration layer decides.
+The arbitration 
+
+# Layer D: ecides
+
+.
 
 Fast.
 
@@ -96,7 +100,9 @@ That is the difference.
 
  
 
-## PRINCIPAL TONE The principal states.
+## PRINCIPAL TONE The principal states
+
+.
 
 Private credit is the backbone of non-institutional speed financing.
 
@@ -156,7 +162,9 @@ A Principal governs flow.
 
  
 
-## INTERNAL BYPASS Machine-gun sentences and deep paragraphs, alternating.
+## INTERNAL BYPASS Machine-gun sentences and deep paragraphs, alternating
+
+.
 
 Control the stack.
 
@@ -224,7 +232,9 @@ This is the difference between strategy and sovereignty.
 
  
 
-## THE ENGINE: AI-FIRST CAPITAL ARBITRATION The inner mechanics.
+## THE ENGINE: AI-FIRST CAPITAL ARBITRATION The inner mechanics
+
+.
 
 The AI architecture powering this arbitration does four things exceptionally well: 
 
@@ -254,7 +264,9 @@ A system that acts, not advises.
 
  
 
-## WHY AI OUTPERFORMS TRADITIONAL CREDIT TEAMS The truth is blunt: human credit teams rely on retrospective data.
+## WHY AI OUTPERFORMS TRADITIONAL CREDIT TEAMS The truth is blunt: human credit teams rely on retrospective data
+
+.
 
 AI relies on live data.
 
@@ -292,7 +304,9 @@ And when necessary, it coordinates institutional channels through autonomous inf
 
 The true power is in orchestration. 
 
-## THE REAL-TIME ARBITRATION LOOP A deeper structural dive.
+## THE REAL-TIME ARBITRATION LOOP A deeper structural dive
+
+.
 
 The system operates through a sequence: Input ingestion (financials, telemetry, macro signals) Risk fingerprinting Instrument modeling Cross-instrument scoring Arbitration Execution Monitoring Re-arbitration The innovation lies in the re-arbitration stage.
 
@@ -314,7 +328,9 @@ Real-time arbitration is the sovereign advantage.
 
 It is the architecture that outpaces every human desk. 
 
-## THE FAMILY OFFICE DIMENSION For UHNW/HNW operators, the game is different.
+## THE FAMILY OFFICE DIMENSION For UHNW/HNW operators, the game is different
+
+.
 
 It is not about optimizing for survival or maximizing enterprise value at all costs.
 
@@ -332,7 +348,9 @@ Every dataset becomes a self-learning model.
 
 Every model becomes a sovereign capital blueprint. 
 
-## THE AGENTIC INFRASTRUCTURE REQUESTED This is your answer.
+## THE AGENTIC INFRASTRUCTURE REQUESTED This is your answer
+
+.
 
 Agentic infrastructure is not a single model.
 

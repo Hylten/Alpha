@@ -76,7 +76,11 @@ It uses structured data, continuous risk scoring, and machine executed diligence
 
 There are four operational layers.
 
-### Layer I: Algorithmic Deal Flow Architecture The core premise is that deal sourcing is no longer human curated.
+### Layer 
+
+I
+
+Algorithmic Deal Flow Architecture The core premise is that deal sourcing is no longer human curated.
 
 It is machine discovered.
 
@@ -98,7 +102,11 @@ Inputs include:
 
 - legal filings and lien actions Structured correctly, these data sets generate pre underwritten deal candidates before a human analyst is even aware the asset is in motion.
 
-### Layer II: AI First Credit Underwriting The credit model is built on three core pillars.
+### Layer I
+
+I
+
+AI First Credit Underwriting The credit model is built on three core pillars.
 
 1.
 
@@ -120,7 +128,11 @@ Continuous LTV Recalibration Loan to Value becomes dynamic rather than static.
 
 The system recalculates LTV daily, adjusting internal capital allocation rules and early warning signals.
 
-### Layer III: Autonomous Monitoring Systems Monitoring is not quarterly reporting.
+### Layer II
+
+I
+
+Autonomous Monitoring Systems Monitoring is not quarterly reporting.
 
 It is continuous data ingestion.
 
@@ -138,7 +150,11 @@ Operational telemetry includes:
 
 - borrower behavioral patterns The result is a portfolio that is risk managed by system integrity rather than manual oversight.
 
-### Layer IV: Machine Directed Execution This includes payment flows, enforcement workflows, document autonomous infrastructure, lien registration, and restructuring pathways.
+### Layer I
+
+V
+
+Machine Directed Execution This includes payment flows, enforcement workflows, document autonomous infrastructure, lien registration, and restructuring pathways.
 
 Human intervention occurs only in exception management.
 
@@ -180,7 +196,9 @@ The function is strategic alignment.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is treated as a discipline of resource efficiency rather than ideology.
+## THE STEWARDSHIP FILTER Stewardship is treated as a discipline of resource efficiency rather than ideology
+
+.
 
 Capital is a scarce instrument.
 
@@ -216,11 +234,15 @@ It ensures the portfolio reflects the allocator's strategic archetype.
 
  
 
-## THE 
+## THE
 
  
 
-## DECISION MAKING LENS FOR ALLOCATORS Agentic finance is not a trend.
+ 
+
+## DECISION MAKING LENS FOR ALLOCATORS Agentic finance is not a trend
+
+.
 
 It is the dominant operational regime for the next decade.
 

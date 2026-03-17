@@ -86,7 +86,11 @@ The model builds itself through:
 
 • Real-asset volatility clustering
 
-• Machine-learned recovery curves Each layer compounds.
+• Machine-learned recovery curves Each 
+
+# Layer C: ompounds
+
+.
 
 Each layer reduces manual underwriting to near-zero.
 
@@ -96,7 +100,9 @@ Credit becomes an engineering function.
 
 Liquidity becomes programmable. 
 
-## THE THREE-PILLAR STACK: AI, COLLATERAL, JURISDICTION Emerging markets reward structural intelligence.
+## THE THREE-PILLAR STACK: AI, COLLATERAL, JURISDICTION Emerging markets reward structural intelligence
+
+.
 
 Not brute force.
 
@@ -172,7 +178,9 @@ Together these elements form a sovereign-grade lending engine.
 
 The more chaotic the market, the stronger the advantage. 
 
-## THE SILENT INFRASTRUCTURE: INVISIBLE, AUTONOMOUS, INEVITABLE No press releases.
+## THE SILENT INFRASTRUCTURE: INVISIBLE, AUTONOMOUS, INEVITABLE No press releases
+
+.
 
 No roadshows.
 
@@ -206,7 +214,9 @@ In this model, lenders do not chase deals.
 
 Deals seek the system. 
 
-## FAMILY OFFICE ALIGNMENT: THE Fund-III CONFIGURATION UHNW and HNW family offices operate with a different calculus.
+## FAMILY OFFICE ALIGNMENT: THE Fund-III CONFIGURATION UHNW and HNW family offices operate with a different calculus
+
+.
 
 They seek durability, not publicity.
 
@@ -240,7 +250,9 @@ Discipline becomes engineered.
 
 Not requested. 
 
-## DEAL FLOW ENGINEERING: ALGORITHMIC SOURCING Human-led origination is slow.
+## DEAL FLOW ENGINEERING: ALGORITHMIC SOURCING Human-led origination is slow
+
+.
 
 Expensive.
 
@@ -286,7 +298,9 @@ New borrowers enter as signals shift.
 
 The algorithm ensures one outcome: deal flow remains full, weighted, and filtered. 
 
-## THE ENFORCEMENT DELTA: THE ONLY TRUE EDGE Every credit strategy ultimately tests enforcement.
+## THE ENFORCEMENT DELTA: THE ONLY TRUE EDGE Every credit strategy ultimately tests enforcement
+
+.
 
 Not just willingness.
 
@@ -314,7 +328,9 @@ The smaller the delta, the more the capital stack.
 
 Fund-III is engineered to minimize the delta through systemic discipline, not human negotiation. 
 
-## COUNTRY-SPECIFIC DYNAMICS: EMERGING MARKET ADVANTAGE AI-driven Asset-Based Lending thrives in countries with:
+## COUNTRY-SPECIFIC DYNAMICS: EMERGING MARKET ADVANTAGE AI-driven Asset-Based Lending thrives in countries with
+
+:
 
 • High asset density
 
@@ -344,7 +360,9 @@ It is replicable.
 
 The model scales with each dataset expansion. 
 
-## INFRASTRUCTURE-LAYER TECH: THE CORE STACK The silent infrastructure is not a platform.
+## INFRASTRUCTURE-LAYER TECH: THE CORE STACK The silent infrastructure is not a platform
+
+.
 
 Not an app.
 
@@ -388,7 +406,9 @@ Not tactical.
 
 The model consumes data and converts it into enforceable liquidity. 
 
-## THE FUTURE MAP: CROSS-MARKET EXPANSION AI-driven Asset-Based Lending becomes the default credit rail for:
+## THE FUTURE MAP: CROSS-MARKET EXPANSION AI-driven Asset-Based Lending becomes the default credit rail for
+
+:
 
 • Oil and gas service chains
 
@@ -424,7 +444,9 @@ Enforcement forms the moat.
 
 Fund-III becomes the institutional vessel executing at scale. 
 
-## MANDATE Deploy capital into intelligence.
+## MANDATE Deploy capital into intelligence
+
+.
 
 Deploy intelligence into collateral.
 

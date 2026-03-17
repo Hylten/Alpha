@@ -58,7 +58,13 @@ TECHNICAL MECHANICS
 
  OF PROPRIETARY AGENTIC MODELS Proprietary agentic models are not generic agentic infrastructure.
 
-They are multi layer computational architectures engineered to reconstruct the entire private credit workflow into machine executed subprocesses.
+They are multi 
+
+# Layer 
+
+C
+
+omputational architectures engineered to reconstruct the entire private credit workflow into machine executed subprocesses.
 
 Each agent focuses on a discrete analytical domain.
 
@@ -174,7 +180,9 @@ It aligns the allocator with a systemic method to evaluate deal flow using compu
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital allocation is the discipline of maintaining order, reducing entropy, and eliminating wasteful friction.
+## THE STEWARDSHIP FILTER Stewardship in capital allocation is the discipline of maintaining order, reducing entropy, and eliminating wasteful friction
+
+.
 
 Theologically, capital stewardship aligns with
 
@@ -216,7 +224,9 @@ It is a measurable operational discipline strengthened by computational precisio
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating at UHNW or institutional scale faces a structural question.
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating at UHNW or institutional scale faces a structural question
+
+.
 
 Not whether to deploy capital into private credit, real assets, or energy exposures, but whether their current analytical infrastructure can navigate these markets at the required tempo.
 
@@ -228,7 +238,13 @@ Proprietary agentic models directly address this by transforming underwriting fr
 
 The next step for allocators is not transactional.
 
-The next step is a confidential strategy audit to evaluate whether existing analytical systems can sustain the pace and complexity of modern private credit deal flow.
+The next 
+
+# Step 
+
+I
+
+s a confidential strategy audit to evaluate whether existing analytical systems can sustain the pace and complexity of modern private credit deal flow.
 
 This is the point where Roials Capital functions as a strategic partner, providing calibration, architectural mapping, and intelligent introductions to the platforms and operators aligned with institutional standards.
 

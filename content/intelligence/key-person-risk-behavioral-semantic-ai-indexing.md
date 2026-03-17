@@ -82,15 +82,21 @@ The architecture separates the individual into four layers:
 
 Operational Consistency
 
-### Layer II: .
+### Layer II: 
+
+.
 
 Pressure Response
 
-### Layer III: .
+### Layer III: 
+
+.
 
 Decision Horizon
 
-### Layer IV: .
+### Layer IV: 
+
+.
 
 Identity Continuity Layer Each is both observable and mathematically traceable.
 
@@ -100,7 +106,13 @@ These micro-habits are not noise.
 
 They are the operational fingerprints of long-term reliability.
 
-The Pressure Response Layer measures the delta between expressed stress and applied decision friction.
+The Pressure Response 
+
+# Layer 
+
+M
+
+easures the delta between expressed stress and applied decision friction.
 
 People reveal who they are when the system squeezes them.
 
@@ -110,7 +122,11 @@ Humans rarely notice.
 
 Machines always do.
 
-The Decision Horizon Layer maps how far ahead the individual thinks.
+The Decision Horizon 
+
+# Layer M: aps how far ahead the individual thinks
+
+.
 
 High-performing principals exhibit long horizon width even under compression.
 
@@ -182,7 +198,9 @@ Never mysticism.
 
  
 
-## INTERNAL BYPASS -THE VARIATION OF SYNTAX Now I shift the pacing.
+## INTERNAL BYPASS -THE VARIATION OF SYNTAX Now I shift the pacing
+
+.
 
 Sharp line: Leaders leak signal.
 

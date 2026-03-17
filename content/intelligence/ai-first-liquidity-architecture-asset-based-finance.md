@@ -168,7 +168,9 @@ The combination of algorithmic deal selection and technical asset intelligence c
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an ethical posture.
+## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an ethical posture
+
+.
 
 It is a discipline of non wasteful resource management.
 
@@ -198,7 +200,9 @@ It transforms stewardship from intention into executable policy.
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR HNWI and UHNW allocators evaluating their 2026 posture face a bifurcation.
+## DECISION MAKING LENS FOR THE ALLOCATOR HNWI and UHNW allocators evaluating their 2026 posture face a bifurcation
+
+.
 
 Either remain engaged in traditional private credit frameworks with their structural latency, or transition into AI-first architectures that provide mechanical clarity, predictive intelligence, and institutional grade stability.
 

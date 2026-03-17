@@ -170,7 +170,13 @@ The interaction between PEL and COL creates the hardening effect.
 
 The personal estate must remain isolated, insulated, and unexposed to credit operations.
 
-The capital layer must remain aggressive, mobile, and algorithmically optimized.
+The capital 
+
+# Layer 
+
+M
+
+ust remain aggressive, mobile, and algorithmically optimized.
 
 Separation is not optional.
 
@@ -482,7 +488,9 @@ XII.
 
 PRINCIPAL 
 
-## MANDATE: CONTROL EVERY LAYER Estates collapse when families delegate control.
+## MANDATE: CONTROL EVERY LAYER Estates collapse when families delegate control
+
+.
 
 Banks dilute it.
 
@@ -532,7 +540,11 @@ The Proprietary Model for Automated Asset Hardening is not a service.
 
 It is an upgrade to the way a principal family executes power.
 
-To receive the architecture is to step into the long arc of capital continuity.
+To receive the architecture is to 
+
+# Step I: nto the long arc of capital continuity
+
+.
 
 Clean.
 

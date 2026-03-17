@@ -26,7 +26,13 @@ This has produced a bifurcated environment.
 
 On one side are allocators operating through legacy human centric workflows.
 
-These entities experience drag at every operational layer including sourcing, due diligence, cash flow mapping, and covenant surveillance.
+These entities experience drag at every operational 
+
+# Layer 
+
+I
+
+ncluding sourcing, due diligence, cash flow mapping, and covenant surveillance.
 
 On the other side are emerging AI governed architectures that reduce this drag through high frequency pattern extraction, cross asset anomaly detection, and automated compliance calibration.
 
@@ -118,7 +124,9 @@ This evolves into a discipline where rebalancing is not based on market speculat
 
 THE PARTNERSHIP MODEL AND ROLE OF ROIALS CAPITAL Roials Capital operates as a strategic navigator within this environment.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not to manage external assets but to architect the 
 
@@ -158,7 +166,9 @@ This ensures independence, neutrality, and institutional grade alignment between
 
  
 
-## THE STEWARDSHIP FILTER Stewardship defines the moral and operational core of the framework.
+## THE STEWARDSHIP FILTER Stewardship defines the moral and operational core of the framework
+
+.
 
 It is the discipline of non wasteful resource deployment, rational capital formation, and ethical responsibility over assets.
 
@@ -184,7 +194,9 @@ In this regard AI enhances the allocator's ability to adhere to stewardship prin
 
  
 
-## THE DECISION FRAMEWORK FOR ALLOCATORS For UHNW families, private credit funds, and institutional LPs, an AI first approach becomes a necessity when three conditions converge. 
+## THE DECISION FRAMEWORK FOR ALLOCATORS For UHNW families, private credit funds, and institutional LPs, an AI first approach becomes a necessity when three conditions converge.
+
+ 
 
 1.
 
@@ -204,7 +216,13 @@ The allocator must operate with reduced friction.
 
 Human dependent workflows cannot match the execution velocity required for modern markets.
 
-The next institutional step is a confidential Strategy Calibration Audit with Roials Capital.
+The next institutional 
+
+# Step 
+
+I
+
+s a confidential Strategy Calibration Audit with Roials Capital.
 
 This process evaluates the allocator's current operational architecture, identifies structural constraints, and outlines potential alignment pathways into AI first capital frameworks.
 

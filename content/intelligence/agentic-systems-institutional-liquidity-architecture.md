@@ -210,7 +210,9 @@ This model is designed for UHNWIs, multi family offices, private credit desks, a
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not an ethical abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not an ethical abstraction
+
+.
 
 It is a technical discipline.
 
@@ -246,7 +248,9 @@ This applies equally to energy, credit, real assets, and cross border portfolios
 
  
 
-## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 2026 regime must evaluate opportunities through five lenses:
+## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 2026 regime must evaluate opportunities through five lenses
+
+:
 
 - Structural positioning.
 

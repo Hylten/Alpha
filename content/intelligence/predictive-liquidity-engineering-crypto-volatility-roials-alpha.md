@@ -184,7 +184,9 @@ It ensures that digital asset volatility is contextualized using quantitative an
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved.
+## THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved
+
+.
 
 - **Proverbs 13:22
 
@@ -214,7 +216,9 @@ It is risk governance through technical competence.
 
  
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators facing digital asset volatility require a framework that transforms uncertainty into measurable structure.
+## DECISION MAKING LENS FOR ALLOCATORS Allocators facing digital asset volatility require a framework that transforms uncertainty into measurable structure
+
+.
 
 The Roials Alpha Framework offers a decision making lens based on:
 

@@ -220,7 +220,9 @@ This preserves the neutrality of Roials Capital and ensures that operators and a
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is treated as a non negotiable governance principle.
+## THE STEWARDSHIP FILTER Stewardship is treated as a non negotiable governance principle
+
+.
 
 It is rooted in disciplined resource management and capital responsibility.
 
@@ -254,11 +256,15 @@ It ensures that credit strategies are not driven by opportunism but by structure
 
  
 
-## THE 
+## THE
 
  
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators operating in 2026 must navigate an environment where the constraints are analytical rather than financial.
+ 
+
+## DECISION MAKING LENS FOR ALLOCATORS Allocators operating in 2026 must navigate an environment where the constraints are analytical rather than financial
+
+.
 
 The critical questions are centered on structure, transparency, and operational alignment.
 

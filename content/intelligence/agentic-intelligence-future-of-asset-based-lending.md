@@ -114,7 +114,9 @@ The partnership model therefore focuses on structural clarity, counterparty alig
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an aesthetic virtue.
+## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an aesthetic virtue
+
+.
 
 It is a discipline grounded in the responsible management of informational leverage.
 
@@ -146,7 +148,9 @@ The emerging institutional archetype is the allocator who prioritizes informatio
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The transition toward agentic Asset-Based Lending is not a thematic shift.
+## DECISION MAKING LENS FOR THE ALLOCATOR The transition toward agentic Asset-Based Lending is not a thematic shift
+
+.
 
 It is a structural recalibration of the modern credit ecosystem.
 

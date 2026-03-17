@@ -118,7 +118,13 @@ This creates a living credit file rather than a static PDF snapshot.
 
 3.
 
-Data Federation Layer Institutional allocators operate in multi jurisdictional environments.
+Data Federation 
+
+# Layer 
+
+I
+
+nstitutional allocators operate in multi jurisdictional environments.
 
 Data regulation differs between the EU, US, GCC, and APAC.
 
@@ -132,7 +138,11 @@ The federation layer ensures compliant access.
 
 - Encryption anchors for sovereign-grade confidentiality.
 
-This layer is not optional for cross border allocators.
+This 
+
+# Layer I: s not optional for cross border allocators
+
+.
 
 It is a compliance imperative. 
 
@@ -202,7 +212,9 @@ It converts what used to be slow transactional flows into continuous intelligenc
 
  
 
-## THE STEWARDSHIP FILTER Stewardship within institutional capital systems refers to the disciplined management of resources so that waste is minimized and clarity is maximized.
+## THE STEWARDSHIP FILTER Stewardship within institutional capital systems refers to the disciplined management of resources so that waste is minimized and clarity is maximized
+
+.
 
 The principle reflects the broader mandate described in
 
@@ -248,11 +260,15 @@ They lend themselves to algorithmic verification.
 
  
 
-## THE 
+## THE
 
  
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators navigating 2026 must evaluate their operational architecture through four filters.
+ 
+
+## DECISION MAKING LENS FOR ALLOCATORS Allocators navigating 2026 must evaluate their operational architecture through four filters
+
+.
 
 - Velocity: How fast can the institution validate, structure, and deploy capital.
 

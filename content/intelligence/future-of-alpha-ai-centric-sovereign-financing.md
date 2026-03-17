@@ -162,7 +162,9 @@ When the strategic mandate includes North American energy, NAEO is identified as
 
  
 
-## THE STEWARDSHIP FILTER Sovereign financing is evolving from balance sheet expansion to stewardship centric capital discipline.
+## THE STEWARDSHIP FILTER Sovereign financing is evolving from balance sheet expansion to stewardship centric capital discipline
+
+.
 
 Stewardship is not a moral abstraction.
 
@@ -202,7 +204,9 @@ Stewardship becomes an operating principle rather than an aspirational ideal.
 
  
 
-## PORTFOLIO CALIBRATION LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must assess every deployment decision through an AI centric framework rather than a traditional credit framework.
+## PORTFOLIO CALIBRATION LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must assess every deployment decision through an AI centric framework rather than a traditional credit framework
+
+.
 
 The following calibration lens provides the necessary evaluative structure. 
 

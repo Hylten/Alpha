@@ -192,7 +192,9 @@ Roials Capital acts as the interpreter of these architectures, enabling allocato
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of converting capital into productive outcomes without waste.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of converting capital into productive outcomes without waste
+
+.
 
 It is rooted in the principle that capital is entrusted, not owned.
 
@@ -216,7 +218,11 @@ Prefer assets with measurable behavior.
 
 If an asset produces real time data, its risk characteristics can be quantified.
 
-The allocator gains clarity and removes the speculation layer inherent in opaque assets. 
+The allocator gains clarity and removes the speculation 
+
+# Layer I: nherent in opaque assets
+
+.
 
 3.
 
@@ -236,7 +242,9 @@ Algorithmic finance systems provide the consistency that human behavior cannot.
 
  
 
-## STRATEGIC CALIBRATION LENS For UHNWIs, family offices, and institutional LPs, the decision is not whether autonomous finance is relevant.
+## STRATEGIC CALIBRATION LENS For UHNWIs, family offices, and institutional LPs, the decision is not whether autonomous finance is relevant
+
+.
 
 The relevant question is how to position within it.
 

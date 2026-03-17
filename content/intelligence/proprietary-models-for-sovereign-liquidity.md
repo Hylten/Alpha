@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "proprietary-models-for-sovereign-liquidity"
 --- 
 
-# Proprietary Models for Sovereign Liquidity Roials-Alpha operates in a domain where capital behaves less like a balance sheet and more like an engineered infrastructure.
+# Proprietary Models for Sovereign Liquidity Roials-Alpha operates in a domain where capital behaves less like a balance sheet and more like an engineered infrastructure
+
+.
 
 Where liquidity is fabricated, not found.
 

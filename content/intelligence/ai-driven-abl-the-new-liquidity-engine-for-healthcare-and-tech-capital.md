@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "ai-driven-abl-the-new-liquidity-engine-for-healthcare-and-tech-capital"
 --- 
 
-# AI-Driven Asset-Based Lending for Healthcare and Tech The Institutional Mechanics Behind Intelligent Liquidity Roials-Alpha operates inside a narrow spectrum of capital intelligence.
+# AI-Driven Asset-Based Lending for Healthcare and Tech The Institutional Mechanics Behind Intelligent Liquidity Roials-Alpha operates inside a narrow spectrum of capital intelligence
+
+.
 
 We design silent systems.
 
@@ -30,6 +32,8 @@ Not as an Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-## Access is restricted to approved mandates.
+## Access is restricted to approved mandates
+
+.
 
 Minimum mandate depth: $5M+ target size.

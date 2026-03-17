@@ -328,7 +328,9 @@ Principal-class investors do not chase yield.
 
 They control it. 
 
-## HNWI and UHNW families face a problem no one speaks about publicly: administrative drag.
+## HNWI and UHNW families face a problem no one speaks about publicly: administrative drag
+
+.
 
 Too many managers.
 
@@ -390,7 +392,9 @@ The new private credit winner is not the one deploying the most capital.
 
 It is the one deploying the smartest architecture. 
 
-## HNWI and UHNW families demand privacy without sacrificing precision.
+## HNWI and UHNW families demand privacy without sacrificing precision
+
+.
 
 Agentic infrastructure delivers both.
 

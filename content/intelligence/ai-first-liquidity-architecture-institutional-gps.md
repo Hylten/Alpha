@@ -50,7 +50,11 @@ TECHNICAL MECHANICS
 
 Each layer replaces human friction with computational precision.
 
-The first layer is data structuring.
+The first 
+
+# Layer I: s data structuring
+
+.
 
 Institutional portfolios generate heterogeneous cash flow signatures, varying covenant structures, and irregular reporting cadences.
 
@@ -62,7 +66,11 @@ This resolves a historic constraint in private markets: the absence of real-time
 
 With structured data, underwriting becomes dynamic rather than static.
 
-The second layer is collateral intelligence.
+The second 
+
+# Layer I: s collateral intelligence
+
+.
 
 Traditional underwriting relies on debt service coverage, collateral appraisal, and historical comparables.
 
@@ -74,7 +82,11 @@ For GPs operating diversified or multi-jurisdictional strategies, the algorithm 
 
 This creates hard signals for liquidity release and capital allocation sequencing.
 
-The third layer is operating algorithms.
+The third 
+
+# Layer I: s operating algorithms
+
+.
 
 These systems automate the workflows that historically depended on partner-level decision-making.
 
@@ -132,7 +144,9 @@ It provides the informational scaffolding that enables allocators to determine w
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in institutional capital is the discipline of resource alignment.
+## THE STEWARDSHIP FILTER Stewardship in institutional capital is the discipline of resource alignment
+
+.
 
 It is not ideology.
 
@@ -190,7 +204,9 @@ It eliminates waste, maximizes informational precision, and supports the long-te
 
  
 
-## THE DECISION-MAKING LENS Institutional allocators evaluating AI-first liquidity systems require a framework that integrates operational intelligence, balance sheet architecture, and partnership alignment.
+## THE DECISION-MAKING LENS Institutional allocators evaluating AI-first liquidity systems require a framework that integrates operational intelligence, balance sheet architecture, and partnership alignment
+
+.
 
 The first lens is liquidity sovereignty.
 

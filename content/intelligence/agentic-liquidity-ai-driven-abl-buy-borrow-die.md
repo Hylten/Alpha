@@ -16,7 +16,9 @@ The structural delay in human adjudication creates a liquidity gap that AI nativ
 
 The rise of agentic liquidity is transforming the Buy Borrow Die architecture from a tactical tax strategy into a fully automated balance sheet operating system for private families and institutional allocators.
 
-### Phase I: .
+### Phase I: 
+
+.
 
 THE REGIME SHIFT
 
@@ -54,7 +56,9 @@ Agentic liquidity corrects this misalignment by compressing underwriting latency
 
 The result is a new class of perpetual liquidity frameworks that reinforce tax efficient wealth preservation strategies, including the institutional implementation of Buy Borrow Die.
 
-### Phase II: .
+### Phase II: 
+
+.
 
 TECHNICAL MECHANICS
 
@@ -122,7 +126,9 @@ The relevance to Buy Borrow Die is structural, not cosmetic.
 
 When credit is automated, liquidity becomes a function of asset integrity rather than relationship based negotiation.
 
-### Phase III: .
+### Phase III: 
+
+.
 
 THE AGENTIC BUY BORROW DIE FRAMEWORK Buy Borrow Die has historically been a strategic tax position.
 
@@ -170,7 +176,9 @@ The key insight is that AI native Asset-Based Lending transforms borrowed liquid
 
 It is the infrastructure required for the next generation of multi generational wealth strategies.
 
-### Phase IV: .
+### Phase IV: 
+
+.
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a credit issuer.
 
@@ -198,11 +206,15 @@ Each allocator receives a structural mapping of their current asset base, liquid
 
 This positions the allocator to interface with the appropriate agentic credit architecture.
 
-### Phase V: .
+### Phase V: 
+
+.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment
+
+.
 
 It is a systematic commitment to preventing value leakage across operational, financial, and intergenerational domains.
 
@@ -230,7 +242,9 @@ The allocator is not surrendering control to AI.
 
 The allocator is enhancing control by removing operational drag.
 
-### Phase VI: .
+### Phase VI: 
+
+.
 
 PORTFOLIO CALIBRATION FRAMEWORK The allocator evaluating agentic Asset-Based Lending is not selecting a credit product.
 

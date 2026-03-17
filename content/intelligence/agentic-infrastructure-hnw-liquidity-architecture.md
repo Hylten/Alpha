@@ -38,7 +38,9 @@ No emotional drag.
 
 Only throughput.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear.
 

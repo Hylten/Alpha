@@ -152,7 +152,9 @@ This preserves neutrality while maximizing strategic clarity.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive assets without waste, excess, or informational distortions.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive assets without waste, excess, or informational distortions
+
+.
 
 It is a principle rooted in clarity, not speculation.
 
@@ -182,7 +184,9 @@ AI resolves the assurance gap and restores the ethical foundation of lending.
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI driven Asset-Based Lending systems are not assessing a thematic innovation cycle.
+## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI driven Asset-Based Lending systems are not assessing a thematic innovation cycle
+
+.
 
 They are assessing whether the next decade of frontier liquidity will be built on:
 

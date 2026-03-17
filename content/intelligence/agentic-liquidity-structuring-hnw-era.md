@@ -156,7 +156,9 @@ Instead, it provides:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is defined as responsible resource allocation supported by disciplined risk management and respect for capital.
+## THE STEWARDSHIP FILTER Stewardship is defined as responsible resource allocation supported by disciplined risk management and respect for capital
+
+.
 
 The theology of capital recognizes that every allocation carries moral weight.
 
@@ -186,7 +188,9 @@ The agentic architecture enforces governance through automated compliance screen
 
  
 
-## PORTFOLIO CALIBRATION LENS The allocator evaluating agentic liquidity systems must assess three structural factors: 
+## PORTFOLIO CALIBRATION LENS The allocator evaluating agentic liquidity systems must assess three structural factors:
+
+ 
 
 1.
 

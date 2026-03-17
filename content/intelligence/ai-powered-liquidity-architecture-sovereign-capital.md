@@ -106,7 +106,11 @@ For private credit structures the same layer applies:
 
 3.
 
-Credit Decisioning Layer This layer constructs underwriting determinations based on:
+Credit Decisioning Layer This 
+
+# Layer C: onstructs underwriting determinations based on
+
+:
 
 - asset stability
 
@@ -184,7 +188,9 @@ The structure enables:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than sentiment.
+## THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than sentiment
+
+.
 
 The principles align with
 
@@ -232,7 +238,9 @@ It is operational discipline.
 
  
 
-## DECISION MAKING LENS FOR INSTITUTIONAL ALLOCATORS Sovereign level allocators evaluate systems rather than opportunities.
+## DECISION MAKING LENS FOR INSTITUTIONAL ALLOCATORS Sovereign level allocators evaluate systems rather than opportunities
+
+.
 
 The current market rewards allocators who can deploy capital with velocity while maintaining precision and regulatory fidelity.
 

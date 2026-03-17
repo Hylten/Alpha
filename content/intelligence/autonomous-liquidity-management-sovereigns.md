@@ -170,7 +170,9 @@ This model respects allocator independence while delivering the technical substr
 
  
 
-## THE STEWARDSHIP FILTER Autonomous liquidity management is fundamentally an exercise in stewardship.
+## THE STEWARDSHIP FILTER Autonomous liquidity management is fundamentally an exercise in stewardship
+
+.
 
 It is the discipline of aligning capital with assets that preserve national stability and intergenerational continuity.
 
@@ -196,7 +198,9 @@ They operate as stewards in code form, sustaining stability even in volatile mac
 
  
 
-## DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS Sovereign entities analyzing autonomous liquidity frameworks typically assess three dimensions. 
+## DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS Sovereign entities analyzing autonomous liquidity frameworks typically assess three dimensions.
+
+ 
 
 1.
 

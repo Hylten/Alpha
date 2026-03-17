@@ -138,7 +138,9 @@ It reduces human friction to near zero.
 
 It allows allocators to participate in calibrated credit structures without relying on discretionary interpretation. 
 
-## THE PARTNERSHIP MODEL Roials Capital operates as the strategic navigator, not as the asset owner or the credit issuer.
+## THE PARTNERSHIP MODEL Roials Capital operates as the strategic navigator, not as the asset owner or the credit issuer
+
+.
 
 The role is institutional navigation.
 
@@ -232,7 +234,9 @@ The stewardship filter ensures that computational performance is aligned with et
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The current market regime rewards allocators who operate with clarity, precision, and structural alignment.
+## DECISION MAKING LENS FOR THE ALLOCATOR The current market regime rewards allocators who operate with clarity, precision, and structural alignment
+
+.
 
 The Sovereign AI Bank provides a digital infrastructure that eliminates friction and enhances operational intelligence.
 

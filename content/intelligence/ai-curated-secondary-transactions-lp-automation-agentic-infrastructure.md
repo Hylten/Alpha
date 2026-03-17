@@ -30,7 +30,9 @@ Frictionless.
 
 Below is the internal briefing.
 
-### Phase I: - Vault language only.
+### Phase I: - Vault language only
+
+.
 
 No posturing.
 
@@ -80,7 +82,9 @@ Those who remain manual will drift into irrelevance.
 
 Now we expand the mechanics.
 
-### Phase II: - PRINCIPAL VOICE Stated with clarity.
+### Phase II: - PRINCIPAL VOICE Stated with clarity
+
+.
 
 Without apology.
 
@@ -124,7 +128,11 @@ Architecture endures.
 
 Deep analysis follows.
 
-### Phase III: - STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
+### Phase II
+
+I
+
+- STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
 
 THE CORE DRIVERS OF AI‑CURATED SECONDARY MARKETS Private-market reporting is periodic.
 

@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-sovereign-ai-building-the-alpha-future"
 --- 
 
-# The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept.
+# The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept
+
+.
 
 It is an operating class.
 
@@ -24,7 +26,9 @@ The category that does not need noise.
 
 Only execution. 
 
-## principal authority: The F-Hierarchical Dynamics Roials Alpha operates with principal authority.
+## principal authority: The F-Hierarchical Dynamics Roials Alpha operates with principal authority
+
+.
 
 We do not broadcast.
 
@@ -42,7 +46,9 @@ We serve those who understand that visibility is rarely power.
 
 Control is. 
 
-## Liquidity as a Sovereign Asset Class Most investors see liquidity as a resource.
+## Liquidity as a Sovereign Asset Class Most investors see liquidity as a resource
+
+.
 
 We treat it as an asset class.
 
@@ -64,7 +70,9 @@ Not investors.
 
 Controllers of a personal liquidity state. 
 
-## Why Traditional Institutional Liquidity Paths Is Obsolete for Serious Capital Traditional Capital Structuring systems were built for those who need permission.
+## Why Traditional Institutional Liquidity Paths Is Obsolete for Serious Capital Traditional Capital Structuring systems were built for those who need permission
+
+.
 
 Our clients do not.
 
@@ -82,7 +90,9 @@ This is the alpha gap.
 
 This is the future of private credit. 
 
-## The Alpha Future Built on Sovereign AI Alpha is no longer about outperforming a benchmark.
+## The Alpha Future Built on Sovereign AI Alpha is no longer about outperforming a benchmark
+
+.
 
 That concept is retail.
 
@@ -102,7 +112,9 @@ This is the sovereign shift.
 
 This is the alpha future. 
 
-## The Roials Alpha Advantage We serve a very narrow category.
+## The Roials Alpha Advantage We serve a very narrow category
+
+.
 
 Not the wealthy.
 
@@ -124,7 +136,9 @@ Without delay.
 
 Without compromise. 
 
-## The Invitation Roials Alpha does not extend broad invitations.
+## The Invitation Roials Alpha does not extend broad invitations
+
+.
 
 We extend infrastructure.
 

@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "algorithmic-asset-hardening-automating-institutio"
 --- 
 
-# Algorithmic Asset Hardening.
+# Algorithmic Asset Hardening
+
+.
 
 Automating Institutional Scrutiny Institutional allocators do not respond to narratives.
 
@@ -26,7 +28,9 @@ Sacred trust meets quantifiable order.
 
 Roials-Alpha occupies that interface with intent.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  of the Principal A Principal does not chase validation.
 
@@ -162,7 +166,11 @@ This preserves the integrity of allocators.
 
 It protects covenant structures.
 
-It reinforces capital stewardship. # The Intelligence Layer Institutional scrutiny is predictable.
+It reinforces capital stewardship. # The Intelligence 
+
+# Layer I: nstitutional scrutiny is predictable
+
+.
 
 Its component variables are repeatable.
 
@@ -270,27 +278,65 @@ It is architectural consistency. # Structural Readiness for Institutional Scruti
 
 It is process-driven.
 
-Roials-Alpha prepares operators through a clear logic path.### Step I: .
+Roials-Alpha prepares operators through a clear logic path.
+
+### Step I: 
+
+.
 
 Purify cashflows 
 
-### Step II: .
+### Step II: 
 
-Formalize governance Step 3.
+.
 
-Segregate capital pools Step 4.
+Formalize governance 
 
-Standardize reporting Step 5.
+# Step III: 
 
-Establish collateral dependability Step 6.
+.
 
-Harden counterparty agreements Step 7.
+Segregate capital pools 
 
-Synchronize timelines Step 8.
+# Step IV: 
 
-Validate covenant literacy Step 9.
+.
 
-Document operational predictability Step 10.
+Standardize reporting 
+
+# Step V: 
+
+.
+
+Establish collateral dependability 
+
+# Step VI: 
+
+.
+
+Harden counterparty agreements 
+
+# Step VII: 
+
+.
+
+Synchronize timelines 
+
+# Step VIII: 
+
+.
+
+Validate covenant literacy 
+
+# Step IX: 
+
+.
+
+Document operational predictability 
+
+# Step X: 
+
+.
 
 Simulate institutional due diligence cycles Each step produces measurable improvement in structural integrity.
 
@@ -330,7 +376,9 @@ Thresholds protect allocators.
 
 They protect the integrity of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -488,8 +536,7 @@ It requires stewardship.
 
 It requires intelligence.
 
-Roials-Alpha operates as an extension of that mandate. # 
-
+Roials-Alpha operates as an extension of that mandate. 
  CONCLUSION
 
  Algorithmic asset hardening is not a trend.

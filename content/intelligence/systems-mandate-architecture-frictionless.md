@@ -100,7 +100,11 @@ AI first underwriting architecture.
 
 The underwriting framework processes financial statements, operational telemetry, engineering reports, third party valuations, and jurisdictional considerations into standardized states.
 
-The AI layer does not replace human governance.
+The AI 
+
+# Layer D: oes not replace human governance
+
+.
 
 It amplifies it.
 
@@ -164,7 +168,9 @@ The partnership structure is based on information precision rather than promotio
 
 Within private credit and broader alternatives, 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is the same.
 
@@ -194,7 +200,9 @@ This accelerates decision quality without manufacturing urgency.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+
+.
 
 At the institutional level stewardship is not a moral abstraction.
 
@@ -246,7 +254,9 @@ The question is whether the architecture supports long term responsibility.
 
  
 
-## THE ALLOCATOR'S DECISION LENS The systems mandate is now the foundation for institutional execution.
+## THE ALLOCATOR'S DECISION LENS The systems mandate is now the foundation for institutional execution
+
+.
 
 The allocator is faced with a structural divergence: operate with legacy processes and accept systemic drag or transition to architecture that eliminates friction across discovery, verification, underwriting, and monitoring.
 

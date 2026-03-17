@@ -172,7 +172,9 @@ The allocator receives a system capable of cross border optimization without fri
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+
+.
 
 It is an operational discipline.
 
@@ -214,11 +216,15 @@ The reinforcement learning model calibrates the optimal balance point where capi
 
  
 
-## THE 
+## THE
 
  
 
-## DECISION MAKING LENS Allocators operating at the institutional level require a structural lens rather than an asset lens.
+ 
+
+## DECISION MAKING LENS Allocators operating at the institutional level require a structural lens rather than an asset lens
+
+.
 
 The question is not whether private credit, energy, or cross border optimization is attractive.
 

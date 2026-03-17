@@ -150,7 +150,9 @@ Allocators receive pre filtered, structurally aligned opportunities without mark
 
 When 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  intersects with North American energy, Roials Capital coordinates with its strategic partner NAEO.
 
@@ -176,7 +178,9 @@ The emphasis is always on allocator alignment and regulatory clarity.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship within private markets is the discipline of non wasteful resource deployment.
+## THE STEWARDSHIP FILTER Stewardship within private markets is the discipline of non wasteful resource deployment
+
+.
 
 It is a theological position on capital that prioritizes clarity, proportionality, and responsible allocation.
 
@@ -206,13 +210,17 @@ Balance sheet optimization becomes a stewardship discipline when it prevents unn
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 2026 environment require a decision making lens that incorporates agentic intelligence not as a novelty but as infrastructure.
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 2026 environment require a decision making lens that incorporates agentic intelligence not as a novelty but as infrastructure
+
+.
 
 The strategic question is alignment.
 
 Autonomous systems must be tuned to the allocator's Institutional Archetype so the output reflects 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 

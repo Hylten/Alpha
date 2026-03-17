@@ -32,7 +32,9 @@ We are interested in the latent liquidity that sits beneath the operational surf
 
 This liquidity manifests inside receivables, inventory velocity, contract coverage ratios, equipment cycles, embedded energy assets, and regulatory mispricing in MiFID II governed entities.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is therefore to articulate how AI, when correctly structured, surfaces Asset-Based Lending liquidity before humans notice.
 
@@ -46,17 +48,27 @@ TECHNICAL MECHANICS
 
 The Data Capture
 
-### Layer II: .
+### Layer II: 
+
+.
 
 The Liquidity Detection
 
-### Layer III: .
+### Layer III: 
+
+.
 
 The Pre Cognition Execution Layer Each layer functions with different technical primitives. 
 
 1.
 
-The Data Capture Layer This layer ingests multi class operational data from target environments.
+The Data Capture Layer This 
+
+# Layer 
+
+I
+
+ngests multi class operational data from target environments.
 
 The intelligence profile includes:
 
@@ -70,7 +82,11 @@ The intelligence profile includes:
 
 - Cash conversion cycle compression that indicates emerging liquidity stress
 
-- EU MiFID II order flow anomalies inside regulated entities preparing for ownership transition The capture layer does not wait for audited financials or brokered teasers.
+- EU MiFID II order flow anomalies inside regulated entities preparing for ownership transition The capture 
+
+# Layer D: oes not wait for audited financials or brokered teasers
+
+.
 
 It extracts organizational telemetry from public sources, private feeds, supply chain metadata, energy grid reporting, tax filings, emissions logs, tender submissions, and industrial IoT readouts.
 
@@ -98,7 +114,11 @@ These functions include:
 
 30 day window of encountering liquidity friction that could be solved with a structured asset backed package.
 
-The detection layer is where the actual intelligence advantage is created.
+The detection 
+
+# Layer I: s where the actual intelligence advantage is created
+
+.
 
 Most human analysts only identify distressed or strained liquidity after the company presents a problem.
 
@@ -160,7 +180,11 @@ Company Profile:
 
 - Regulatory environment: NAEOCC reporting plus state environmental compliance
 
-- Ownership: Family controlled, in operation since 1992 Initial AI Detection The data capture layer identified three anomalies: 
+- Ownership: Family controlled, in operation since 1992 Initial AI Detection The data capture 
+
+# Layer ID: entified three anomalies
+
+:
 
 1.
 

@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi"
 --- 
 
-# Autonomous Systems for Private Credit Expansion Private credit is shifting.
+# Autonomous Systems for Private Credit Expansion Private credit is shifting
+
+.
 
 Institutional capital has already embraced autonomous infrastructure, agentic execution, and deterministic underwriting.
 
@@ -28,7 +30,9 @@ principal authority.
 
 Precision mechanics. 
 
-## Closing Precision Autonomous systems are not a trend.
+## Closing Precision Autonomous systems are not a trend
+
+.
 
 They are the new credit infrastructure.
 

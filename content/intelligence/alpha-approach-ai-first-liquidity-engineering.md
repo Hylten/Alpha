@@ -200,7 +200,9 @@ The due diligence standard focuses on:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship within capital markets is not sentiment.
+## THE STEWARDSHIP FILTER Stewardship within capital markets is not sentiment
+
+.
 
 It is the discipline of non wasteful resource allocation.
 
@@ -232,7 +234,9 @@ AI first liquidity architecture supports stewardship through:
 
  
 
-## PORTFOLIO CALIBRATION LENS Institutional allocators now face a bifurcated ecosystem.
+## PORTFOLIO CALIBRATION LENS Institutional allocators now face a bifurcated ecosystem
+
+.
 
 Traditional underwriting remains operational but slow.
 

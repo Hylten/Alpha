@@ -146,7 +146,9 @@ This is where operational physics and algorithmic underwriting converge.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline that aligns capital deployment with non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline that aligns capital deployment with non wasteful resource management
+
+.
 
 For sophisticated allocators, stewardship is not an abstract moral principle.
 
@@ -182,7 +184,9 @@ It also mitigates risk by removing discretionary behavior from decision chains.
 
  
 
-## PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR The central question for UHNW and HNW allocators is no longer which private credit exposure is optimal.
+## PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR The central question for UHNW and HNW allocators is no longer which private credit exposure is optimal
+
+.
 
 The core question is which system governs the exposure.
 

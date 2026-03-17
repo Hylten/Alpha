@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice"
 --- 
 
-# Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A Traditional deal flow is slow.
+# Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A Traditional deal flow is slow
+
+.
 
 Human analysts sift through inbound requests.
 
@@ -50,7 +52,9 @@ Everything engineered to secure the highest level of informational asymmetry.
 
 This is how AI identifies Asset-Based Lending opportunities in M&A before anyone knows they exist. 
 
-## The Future: Fully Agentic Asset-Based Lending Origination The next frontier is full agentic orchestration.
+## The Future: Fully Agentic Asset-Based Lending Origination The next frontier is full agentic orchestration
+
+.
 
 The system not only identifies opportunities.
 
@@ -66,7 +70,11 @@ Confirms regulatory alignment.
 
 Generates draft term structures.
 
-Human architects step in only for final structural validation.
+Human architects 
+
+# Step I: n only for final structural validation
+
+.
 
 This is not science fiction.
 
@@ -82,7 +90,9 @@ The firms without it compete for leftovers.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  Autonomous deal flow is not an upgrade.
 

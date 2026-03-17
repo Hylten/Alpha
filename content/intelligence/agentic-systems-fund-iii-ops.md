@@ -18,7 +18,9 @@ As private equity Fund-III investment opportunities 2026 expand across energy, i
 
 Fund-III structures require multi jurisdictional precision, compressed deal cycle timing, cross strata Asset-Backed Frameworks, and synchronized capital efficiency across multiple asset classes.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to build a structural intelligence layer that does not simply support human decision makers but augments them with autonomous operational execution, bounded by strict stewardship rules and measurable governance.
 

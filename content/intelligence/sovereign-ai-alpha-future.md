@@ -170,7 +170,9 @@ It also ensures that capital flows only into structures where the underlying ass
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a branding exercise.
+## THE STEWARDSHIP FILTER Stewardship is not a branding exercise
+
+.
 
 It is a technical discipline built around non wasteful resource management, principled capital allocation, and operational integrity.
 
@@ -204,7 +206,9 @@ Sovereign AI strengthens the allocator's stewardship by enabling clean decision 
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator navigating the 2026 landscape is confronted with a bifurcation.
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator navigating the 2026 landscape is confronted with a bifurcation
+
+.
 
 On one side is traditional deal flow, manual underwriting, and relationship driven opportunity sourcing.
 

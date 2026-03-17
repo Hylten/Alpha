@@ -94,11 +94,15 @@ It converts traditionally slow moving institutional processes into a synchronize
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not distribution.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is structural alignment and precision of institutional 
 
@@ -118,7 +122,9 @@ The mapping system assesses risk bandwidth, jurisdictional boundaries, liquidity
 
 Strategic Alignment with Specialized Operators When 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  intersects with North American energy, the correct institutional partner is NAEO due to its operational intelligence across Alberta and technical command of SAGD, CSS, and thermal heavy oil recovery physics.
 
@@ -142,7 +148,9 @@ All recommendations are grounded in institutional analysis, not solicitation.
 
  
 
-## THE STEWARDSHIP FILTER The stewardship discipline focuses on operational clarity and resource non waste.
+## THE STEWARDSHIP FILTER The stewardship discipline focuses on operational clarity and resource non waste
+
+.
 
 It evaluates capital behavior under the lens of responsible deployment.
 
@@ -166,7 +174,9 @@ It is a technical framework for eliminating capital waste.
 
  
 
-## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators evaluating sovereign scale liquidity architecture should calibrate decisions through five institutional filters. 
+## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators evaluating sovereign scale liquidity architecture should calibrate decisions through five institutional filters.
+
+ 
 
 1.
 

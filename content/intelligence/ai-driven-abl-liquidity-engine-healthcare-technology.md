@@ -112,7 +112,9 @@ Roials Capital maps these distinctions and curates introductions that align allo
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource allocation.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource allocation
+
+.
 
 In the context of private credit, stewardship requires deploying capital into structures where risk is intelligible, collateral is verifiable, and operational throughput is measurable in real time.
 
@@ -140,7 +142,9 @@ It aligns lending with authentic asset performance rather than outdated underwri
 
  
 
-## PORTFOLIO ORIENTATION AND DECISION LENS Institutional allocators evaluating AI driven Asset-Based Lending should apply four filters: liquidity velocity, collateral integrity, data fidelity, and operator maturity.
+## PORTFOLIO ORIENTATION AND DECISION LENS Institutional allocators evaluating AI driven Asset-Based Lending should apply four filters: liquidity velocity, collateral integrity, data fidelity, and operator maturity
+
+.
 
 Liquidity velocity measures the speed at which the facility converts operational performance into deployable capital.
 

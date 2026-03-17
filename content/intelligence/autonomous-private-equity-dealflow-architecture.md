@@ -119,7 +119,9 @@ The architecture sorts opportunities by technical viability, prepares institutio
 
  
 
-## THE STEWARDSHIP FILTER Institutional stewardship is the governance philosophy that capital must not be wasted.
+## THE STEWARDSHIP FILTER Institutional stewardship is the governance philosophy that capital must not be wasted
+
+.
 
 It is a discipline that integrates operational intelligence, prudent resource allocation, and structural oversight.
 
@@ -151,7 +153,9 @@ Autonomous filtration amplifies this responsibility by ensuring that capital is 
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 2026 private markets require clarity, not volume.
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 2026 private markets require clarity, not volume
+
+.
 
 The institutionally aligned strategy involves integrating autonomous dealflow architecture into the evaluation process to reduce noise, accelerate decision cycles, and enhance governance reliability.
 

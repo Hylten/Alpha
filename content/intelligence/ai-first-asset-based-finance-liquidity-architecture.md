@@ -517,7 +517,9 @@ AI-first underwriting becomes the spine of the system.
 
 But the sovereign architect leaves infrastructure.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear: build the engine now.
 

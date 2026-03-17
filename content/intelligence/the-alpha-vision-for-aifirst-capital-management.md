@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-alpha-vision-for-aifirst-capital-management"
 --- 
 
-# The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise.
+# The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise
+
+.
 
 Capital moves fastest when the human bottleneck is removed.
 
@@ -24,7 +26,9 @@ We do not mirror the market.
 
 We architect the layer beneath it. 
 
-## The Alpha Vision Forward The future of capital is agentic.
+## The Alpha Vision Forward The future of capital is agentic
+
+.
 
 The future of [Capital Structuring]([Roials Capital](https://roialscapital.com/)) is real time.
 

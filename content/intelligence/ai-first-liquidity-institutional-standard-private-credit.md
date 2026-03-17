@@ -130,7 +130,11 @@ This preserves human oversight while removing delay driven friction.
 
 5.
 
-Portfolio Layer Intelligence At the portfolio level, AI systems identify:
+Portfolio 
+
+# Layer I: ntelligence At the portfolio level, AI systems identify
+
+:
 
 - correlated risk clusters
 
@@ -220,7 +224,9 @@ Allocators benefit through:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of responsible resource deployment.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of responsible resource deployment
+
+.
 
 It is not a moral abstraction but a practical operating principle.
 
@@ -247,7 +253,9 @@ It is a recalibration toward more disciplined capital governance.
 
  
 
-## DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR Private credit is entering its precision regime.
+## DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR Private credit is entering its precision regime
+
+.
 
 AI first credit architecture is now the institutional standard for allocators who require:
 

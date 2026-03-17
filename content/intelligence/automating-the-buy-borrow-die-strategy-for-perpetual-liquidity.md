@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "automating-the-buy-borrow-die-strategy-for-perpetual-liquidity"
 --- 
 
-# Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is most when it is never sold.
+# Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is most when it is never sold
+
+.
 
 The Buy, Borrow, Die strategy is not a tax trick.
 
@@ -22,11 +24,17 @@ The goal is simple: perpetual control of assets, perpetual Access is restricted 
 
 Minimum mandate depth: $5M+ target size.
 
-The autonomous infrastructure layer is the force multiplier.
+The autonomous infrastructure 
+
+# Layer I: s the force multiplier
+
+.
 
 It is the difference between a strategy and a system. 
 
-## The Silent Architecture Behind Perpetual Leverage Most investors attempt to replicate the Buy, Borrow, Die approach with retail tools.
+## The Silent Architecture Behind Perpetual Leverage Most investors attempt to replicate the Buy, Borrow, Die approach with retail tools
+
+.
 
 They fail because retail infrastructure is not built for scalable leverage loops.
 
@@ -60,7 +68,9 @@ Structures it.
 
 And transforms it into predictable balance sheet optimization power. 
 
-## Why autonomous infrastructure Is the Missing Component Traditional leverage is reactive.
+## Why autonomous infrastructure Is the Missing Component Traditional leverage is reactive
+
+.
 
 You borrow when you need cash.
 
@@ -88,13 +98,23 @@ The asset determines the balance sheet optimization power.
 
 The system executes the balance sheet optimization action. 
 
-## The Three Core Pillars of Automated Buy, Borrow, Die The system depends on three structural pillars.
+## The Three Core Pillars of Automated Buy, Borrow, Die The system depends on three structural pillars
 
-Each pillar corresponds to a different liquidity profile.
+.
+
+Each 
+
+# Pillar C: orresponds to a different liquidity profile
+
+.
 
 Each is engineered for high net worth individuals who need precision, not marketing.
 
-Pillar One: Buy The acquisition phase defines everything.
+Pillar One: Buy The acquisition 
+
+# Phase D: efines everything
+
+.
 
 The quality of assets determines the leverage multiple.
 
@@ -102,7 +122,11 @@ The leverage determines the cash flow.
 
 The cash flow determines the liquidity engine.
 
-For institutional grade optimization, the acquisition phase must follow a strict logic.
+For institutional grade optimization, the acquisition 
+
+# Phase M: ust follow a strict logic
+
+.
 
 Assets must be clean.
 
@@ -166,7 +190,11 @@ Minimum mandate depth: $5M+ target size.
 
 The borrow phase becomes a continuous flow event, not a transaction.
 
-Pillar Three: Die This is the phase most people misunderstand.
+Pillar Three: Die This is the 
+
+# Phase M: ost people misunderstand
+
+.
 
 Death is not an endpoint.
 
@@ -182,7 +210,9 @@ The system produces an inheritance that is structurally prepared, not administra
 
 This is how wealth becomes generational. 
 
-## Liquidity as a System, Not a Request Classic liquidity provisioning is manual.
+## Liquidity as a System, Not a Request Classic liquidity provisioning is manual
+
+.
 
 A client asks for cash.
 
@@ -210,7 +240,9 @@ Every portfolio has a liquidity rhythm. autonomous infrastructure synchronizes w
 
 This turns liquidity from an event into an infrastructure layer. 
 
-## What Makes Roials-Alpha Different Most firms sell leverage.
+## What Makes Roials-Alpha Different Most firms sell leverage
+
+.
 
 We build leverage architecture.
 
@@ -242,7 +274,9 @@ This creates an environment where clients do not seek leverage.
 
 Leverage is integrated into their operating system. 
 
-## The autonomous infrastructure Layer That Powers the System Human-managed leverage is slow.
+## The autonomous infrastructure Layer That Powers the System Human-managed leverage is slow
+
+.
 
 It is biased.
 
@@ -274,7 +308,9 @@ This is the essence of principal authority.
 
 You receive the outcome without the noise. 
 
-## Private Credit as the Strategic Core Private Credit is the foundation because it is predictable.
+## Private Credit as the Strategic Core Private Credit is the foundation because it is predictable
+
+.
 
 It offers stable underwriting environments.
 
@@ -290,7 +326,9 @@ Private Credit creates the stability that autonomous infrastructure needs.
 
 The system builds the leverage loop on top. 
 
-## Asset Based Strategic Collateralization for Structural Liquidity Asset-Based Lending is the silent machinery of institutional capital.
+## Asset Based Strategic Collateralization for Structural Liquidity Asset-Based Lending is the silent machinery of institutional capital
+
+.
 
 It is not marketed.
 
@@ -318,7 +356,9 @@ It maintains clean underwriting integrity.
 
 The result is liquidity that behaves like infrastructure. 
 
-## Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000,
+## Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000
+
+,
 
 000 can function as high velocity collateral.
 
@@ -328,9 +368,15 @@ This transforms a normally unstable collateral class into a usable liquidity eng
 
 Only at scale.
 
-Only when the autonomous infrastructure layer controls the timing. 
+Only when the autonomous infrastructure 
 
-## Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000,
+# Layer C: ontrols the timing
+
+.
+
+## Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000
+
+,
 
 000 enables leverage loops that smaller portfolios cannot sustain.
 
@@ -338,9 +384,15 @@ We engineer automated Capital Structuring against these positions.
 
 The system uses volatility bands, price envelopes, and predictive triggers to manage collateral.
 
-The client experiences liquidity that feels immediate, but behind the scenes the autonomous infrastructure layer is performing thousands of micro-adjustments. 
+The client experiences liquidity that feels immediate, but behind the scenes the autonomous infrastructure 
 
-## The Institutional Logic of Buy, Borrow, Die This strategy only works when executed with institutional precision.
+# Layer I: s performing thousands of micro-adjustments
+
+.
+
+## The Institutional Logic of Buy, Borrow, Die This strategy only works when executed with institutional precision
+
+.
 
 Roials-Alpha gives clients that environment.
 
@@ -364,7 +416,9 @@ Die with structure.
 
 This is how dynasties avoid erosion. 
 
-## The Next Evolution: Agentic Wealth Systems The future of wealth is automated.
+## The Next Evolution: Agentic Wealth Systems The future of wealth is automated
+
+.
 
 Not advisory based.
 

@@ -144,7 +144,9 @@ Navigation means aligning the allocator with operational teams that match their 
 
 NAEO is used in scenarios where energy, mineral rights, and heavy oil recovery are relevant to 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -172,7 +174,9 @@ This partnership model is designed to reduce friction, accelerate clarity, and c
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not charity.
+## THE STEWARDSHIP FILTER Stewardship is not charity
+
+.
 
 It is the discipline of resource non waste.
 
@@ -230,7 +234,9 @@ It is a discipline.
 
  
 
-## DECISION-MAKING LENS FOR THE ALLOCATOR Allocators who operate without algorithmic mobility will face increasing friction, slower deployment cycles, and reduced opportunity access.
+## DECISION-MAKING LENS FOR THE ALLOCATOR Allocators who operate without algorithmic mobility will face increasing friction, slower deployment cycles, and reduced opportunity access
+
+.
 
 The market is shifting toward pre cleared, compliant ready, operationally aligned structures.
 
@@ -258,7 +264,13 @@ Continuous optimization of capital movement through data driven navigation.
 
 Roials Capital conducts confidential Strategy Audits to evaluate the allocator's current architecture, identify structural bottlenecks, and build a calibrated mobility map tailored to their profile.
 
-This is the first step in creating an institutional framework for cross border capital migration. [END OF BRIEFING]
+This is the first 
+
+# Step 
+
+I
+
+n creating an institutional framework for cross border capital migration. [END OF BRIEFING]
 
 Access is restricted to approved mandates.
 

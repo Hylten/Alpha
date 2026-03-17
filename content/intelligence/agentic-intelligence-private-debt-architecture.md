@@ -174,7 +174,9 @@ The objective is to eliminate opacity and ensure allocators operate inside envir
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
+
+.
 
 It is the recognition that capital is not simply a resource but a responsibility.
 
@@ -210,7 +212,9 @@ The agentic architecture strengthens the technical foundations required to fulfi
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator today must calibrate to a market defined by informational arbitrage rather than access arbitrage.
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator today must calibrate to a market defined by informational arbitrage rather than access arbitrage
+
+.
 
 Platforms that depend on manual underwriting will continue to lag.
 

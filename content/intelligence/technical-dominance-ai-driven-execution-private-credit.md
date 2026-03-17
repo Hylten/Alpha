@@ -138,7 +138,9 @@ This ensures compliance integrity while delivering the analytical depth expected
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological discipline of non wasteful resource management
+
+.
 
 - **Proverbs 13:22
 
@@ -184,7 +186,9 @@ Energy assets with known decline curves and private credit systems with real tim
 
  
 
-## CALIBRATION FRAMEWORK FOR THE ALLOCATOR Institutional allocators encountering this dual regime shift benefit from a calibration process aligned with their internal mandate.
+## CALIBRATION FRAMEWORK FOR THE ALLOCATOR Institutional allocators encountering this dual regime shift benefit from a calibration process aligned with their internal mandate
+
+.
 
 The following decision lens supports clarity. 
 

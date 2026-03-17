@@ -118,7 +118,9 @@ This is Monetization Architecture in operational form.
 
 THE PARTNERSHIP MODEL Roials Capital does not function as a lender and does not manufacture credit products.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to act as a strategic navigator for allocators who need clarity inside fragmented private credit environments.
 
@@ -150,7 +152,9 @@ The emphasis is on structural fit.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in private credit is the discipline of non wasteful capital deployment.
+## THE STEWARDSHIP FILTER Stewardship in private credit is the discipline of non wasteful capital deployment
+
+.
 
 It is the recognition that capital entrusted must be directed toward productive output rather than speculative expansion.
 
@@ -182,7 +186,9 @@ The Liquidity Spider reinforces this discipline by stripping away emotive underw
 
  
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating Asset-Based Lending exposure in the current environment benefits from a calibration exercise rather than a capital commitment stance.
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating Asset-Based Lending exposure in the current environment benefits from a calibration exercise rather than a capital commitment stance
+
+.
 
 The critical questions relate to:
 

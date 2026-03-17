@@ -74,7 +74,13 @@ TECHNICAL MECHANICS
 
 Each domain contributes to the integrity and velocity of the lending stack.
 
-Data Ingestion The first pillar is the ingestion of borrower data into structured and unstructured data environments.
+Data Ingestion The first 
+
+# Pillar 
+
+I
+
+s the ingestion of borrower data into structured and unstructured data environments.
 
 Operational telemetry, accounting system exports, bank transaction histories, asset registries, and third-party data feeds are integrated to capture the economic pulse of the underlying enterprise.
 
@@ -160,7 +166,9 @@ This allows the allocator to focus on strategic calibration rather than on tacti
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non-wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non-wasteful resource management
+
+.
 
 It aligns with the theological principle articulated in
 
@@ -192,7 +200,9 @@ They are mutually reinforcing disciplines.
 
  
 
-## DECISION-MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI-first private credit are not evaluating a product.
+## DECISION-MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI-first private credit are not evaluating a product
+
+.
 
 They are evaluating the underlying architecture of liquidity formation.
 

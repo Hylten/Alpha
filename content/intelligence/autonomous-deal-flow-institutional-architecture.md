@@ -126,7 +126,9 @@ It ensures that allocators receive the right information at the right time with 
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not a product distributor.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to build clarity within complex opportunity ecosystems so that institutional allocators can execute with precision.
 
@@ -152,7 +154,9 @@ Deals are introduced only after undergoing Strategic Collateralization analysis 
 
  
 
-## THE STEWARDSHIP FILTER Institutional architecture is incomplete without a stewardship discipline.
+## THE STEWARDSHIP FILTER Institutional architecture is incomplete without a stewardship discipline
+
+.
 
 Stewardship is the alignment of capital deployment with non wasteful resource management.
 
@@ -202,7 +206,9 @@ This stewardship filter creates a disciplined operating environment where opport
 
  
 
-## DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 2026 face a structural decision.
+## DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 2026 face a structural decision
+
+.
 
 They can continue relying on human centric sourcing channels that provide inconsistent information density and slow mandate alignment.
 

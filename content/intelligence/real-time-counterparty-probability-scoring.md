@@ -366,7 +366,9 @@ And a high-authority arbiter that synthesizes the entire field.
 
 These 
 
-## AGENTS OPERATE
+## AGENTS OPERAT
+
+E
 
  continuously.
 

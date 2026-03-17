@@ -156,7 +156,9 @@ This elevates the quality of the pipeline without introducing promotional bias.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital in alignment with long term institutional responsibility.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital in alignment with long term institutional responsibility
+
+.
 
 The doctrine is grounded in non wasteful management of opportunity and balance sheet integrity.
 
@@ -196,7 +198,9 @@ The allocator can engage the real economy confidently, knowing that capital supp
 
  
 
-## DECISION FRAMEWORK FOR THE ALLOCATOR Fund-III operations benefit from autonomous deal flow architecture because it eliminates bottlenecks, reduces analyst workload, and ensures consistent structural calibration.
+## DECISION FRAMEWORK FOR THE ALLOCATOR Fund-III operations benefit from autonomous deal flow architecture because it eliminates bottlenecks, reduces analyst workload, and ensures consistent structural calibration
+
+.
 
 Allocators who operate in environments with high deal volume requirements cannot rely on human bandwidth alone.
 

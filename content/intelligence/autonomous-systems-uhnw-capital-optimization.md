@@ -34,7 +34,9 @@ It outlines the operational doctrine that governs Fund-III scale deployments, wi
 
 * : A good man leaves an inheritance to his children’s children.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear: preserve, expand, and future-proof multi-generational capital through sovereign-grade algorithmic infrastructure.
 
@@ -64,7 +66,9 @@ It is a survival model for families whose capital footprints generate gravitatio
 
 Below is the institutional chassis. 
 
-## AUTONOMOUS CAPITAL OPERATIONS: THE NEW PRINCIPAL STANDARD Conventional wealth systems assume a human bottleneck.
+## AUTONOMOUS CAPITAL OPERATIONS: THE NEW PRINCIPAL STANDARD Conventional wealth systems assume a human bottleneck
+
+.
 
 They assume risk committees.
 
@@ -119,7 +123,9 @@ Sovereign families operate in energy, credit, land, networks, and influence.
 
 Money is downstream. 
 
-## THE SOVEREIGN STACK Fund-III PRINCIPAL ARCHITECTURE Fund-III scale requires a tripartite architecture:
+## THE SOVEREIGN STACK Fund-III PRINCIPAL ARCHITECTURE Fund-III scale requires a tripartite architecture
+
+:
 
 • Autonomous Core
 
@@ -167,7 +173,13 @@ Hands off.
 
 Eyes sharp.
 
-This layer decides only when models flag anomalies or political conditions shift.
+This 
+
+# Layer 
+
+D
+
+ecides only when models flag anomalies or political conditions shift.
 
 Machine handles the rest.
 
@@ -201,7 +213,9 @@ This shell enables cross-jurisdictional arbitrage, optimized tax flows, and rapi
 
 It also ensures regulatory compliance through structured opacity. 
 
-## ALGORITHMIC DEAL FLOW THE ROIALS-ALPHA MODEL Deal flow for UHNW clients is no longer a networking function.
+## ALGORITHMIC DEAL FLOW THE ROIALS-ALPHA MODEL Deal flow for UHNW clients is no longer a networking function
+
+.
 
 It is an algorithmic function.
 
@@ -287,7 +301,9 @@ Velocity wins.
 
 Liquidity obeys. 
 
-## JURISDICTIONAL ENGINEERING STRUCTURE AS WEAPONRY Jurisdictional arbitrage is not tax avoidance.
+## JURISDICTIONAL ENGINEERING STRUCTURE AS WEAPONRY Jurisdictional arbitrage is not tax avoidance
+
+.
 
 It is strategic positioning across multiple legal realities.
 
@@ -325,7 +341,9 @@ Deploy.
 
 Expand. 
 
-## ENTITY-LEVEL OPTIMIZATION THE FAMILY AS A MULTI-FIRM ECOSYSTEM Most UHNW families operate dozens of entities.
+## ENTITY-LEVEL OPTIMIZATION THE FAMILY AS A MULTI-FIRM ECOSYSTEM Most UHNW families operate dozens of entities
+
+.
 
 Some hundreds.
 
@@ -365,7 +383,9 @@ Order expands.
 
 Wealth hardens. 
 
-## ASSET HARDENING THE PRINCIPAL IMPERATIVE Hard assets survive.
+## ASSET HARDENING THE PRINCIPAL IMPERATIVE Hard assets survive
+
+.
 
 Soft assets bleed.
 
@@ -401,7 +421,9 @@ Hard rules.
 
 Hard returns. 
 
-## INTERGENERATIONAL PROTECTIVE SYSTEMS THE LEGACY LAYER Wealth transitions are fragile.
+## INTERGENERATIONAL PROTECTIVE SYSTEMS THE LEGACY LAYER Wealth transitions are fragile
+
+.
 
 Friction emerges.
 
@@ -441,7 +463,9 @@ It ensures that the proverb applies:
 
 Legacy becomes an engineered outcome, not a hope. 
 
-## THE DEAL EXECUTION LOOP FRICTIONLESS DEPLOYMENT The execution loop is the real competitive edge:
+## THE DEAL EXECUTION LOOP FRICTIONLESS DEPLOYMENT The execution loop is the real competitive edge
+
+:
 
 • Opportunity identified
 
@@ -473,7 +497,9 @@ Execution wins markets.
 
 Autonomy eliminates hesitation. 
 
-## ROIALS-ALPHA DOCTRINE THE PRINCIPAL STANDARD Three rules govern the architecture: 
+## ROIALS-ALPHA DOCTRINE THE PRINCIPAL STANDARD Three rules govern the architecture:
+
+ 
 
 1.
 
@@ -503,7 +529,9 @@ Velocity.
 
 Authority. 
 
-## MANDATE Deploy autonomous capital systems across the family enterprise.
+## MANDATE Deploy autonomous capital systems across the family enterprise
+
+.
 
 Establish sovereign-grade liquidity intelligence.
 

@@ -84,7 +84,9 @@ Machines digest the complexity.
 
 Humans set 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -192,7 +194,11 @@ No blindspots.
 
 - 
 
-- Agentic Model Gamma: Proprietary Quant-Structural Layer This layer is the sovereign core.
+- Agentic Model Gamma: Proprietary Quant-Structural Layer This 
+
+# Layer I: s the sovereign core
+
+.
 
 It calculates dominance.
 
@@ -358,7 +364,9 @@ Omega guards the perimeter.
 
 Omega enforces 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 

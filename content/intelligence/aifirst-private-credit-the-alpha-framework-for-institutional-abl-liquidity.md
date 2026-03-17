@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity"
 --- 
 
-# AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending The architecture of private credit is shifting.
+# AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending The architecture of private credit is shifting
+
+.
 
 The capital stack is no longer ruled by human brokers or legacy underwriting heuristics.
 
@@ -20,7 +22,9 @@ The Alpha Framework is our internal operating system.
 
 This article reveals the structural logic behind it, the agentic underwriting mechanics, and why AI‑First Asset Based Capital Structuring is now the only competitive mode for serious capital holders. 
 
-## The Future: Agentic Strategic Collateralization as Capital Infrastructure Agentic models are the next evolution of private credit.
+## The Future: Agentic Strategic Collateralization as Capital Infrastructure Agentic models are the next evolution of private credit
+
+.
 
 Human‑only underwriting cannot compete with multi‑agent computational systems.
 

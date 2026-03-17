@@ -376,7 +376,11 @@ AI thrives on complexity.
 
 The architecture must be vertically integrated.
 
-Every layer must connect:
+Every 
+
+# Layer M: ust connect
+
+:
 
 • Data acquisition stack: Real-time ingestion across financial, operational, environmental, legal, and behavioural domains.
 

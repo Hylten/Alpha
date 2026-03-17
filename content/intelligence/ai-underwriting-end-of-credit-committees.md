@@ -124,7 +124,11 @@ PHASE THREE: AGENTIC INFRASTRUCTURE
 
 * The engine absorbs structured and unstructured data: operational telemetry, sector-specific metrics, corporate lineage, founder behavioral signatures, reputational vectors, supply-chain stability, implicit balance sheet strength.
 
-The ingestion layer is not passive; it is anticipatory.
+The ingestion 
+
+# Layer I: s not passive; it is anticipatory
+
+.
 
 It predicts what data is still missing and seeks it without being told.
 

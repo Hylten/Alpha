@@ -162,7 +162,9 @@ AI is integrated at every stage to eliminate friction, reduce cycle times, and i
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+
+.
 
 It is a structural principle of resource management.
 
@@ -206,11 +208,15 @@ It is the continuous refinement of balance sheet integrity and operational disci
 
  
 
-## THE 
+## THE
 
  
 
-## DECISION MAKING LENS FOR ALLOCATORS As AI reshapes markets, allocators face a bifurcation.
+ 
+
+## DECISION MAKING LENS FOR ALLOCATORS As AI reshapes markets, allocators face a bifurcation
+
+.
 
 Either they integrate autonomous intelligence into their capital architecture or they compete against entities that already operate with sub human latency and nonlinear data awareness.
 

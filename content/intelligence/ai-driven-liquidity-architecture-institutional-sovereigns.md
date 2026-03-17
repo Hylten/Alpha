@@ -84,7 +84,13 @@ AI systems sequence liquidity into layers:
 
 - Tactical reserve liquidity
 
-- Strategic slow cycle liquidity Each layer carries its own clearance rules, risk parameters, and geographic deployment corridors.
+- Strategic slow cycle liquidity Each 
+
+# Layer 
+
+C
+
+arries its own clearance rules, risk parameters, and geographic deployment corridors.
 
 The architecture ensures sovereign policy alignment while removing manual intervention from the release sequence. 
 
@@ -144,7 +150,9 @@ This ensures governance continuity across political cycles.
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this architecture.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not asset management.
 
@@ -184,7 +192,9 @@ The benefit is structural coherence.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline that governs resource allocation.
+## THE STEWARDSHIP FILTER Stewardship is the discipline that governs resource allocation
+
+.
 
 Sovereign entities operate under a mandate that extends beyond returns.
 
@@ -216,7 +226,9 @@ They enforce it.
 
  
 
-## DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS The strategic question is not whether to adopt AI driven liquidity architecture.
+## DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS The strategic question is not whether to adopt AI driven liquidity architecture
+
+.
 
 The environment has already transitioned.
 

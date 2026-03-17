@@ -154,7 +154,9 @@ NAEO's operational ecosystem in the Alberta basin produces asset behavior patter
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a technical discipline.
+## THE STEWARDSHIP FILTER Stewardship is a technical discipline
+
+.
 
 It centers on the effective management of resources, risk, and capital required for sustainable enterprise function.
 
@@ -182,7 +184,9 @@ It is an operational imperative for any enterprise managing capital under instit
 
  
 
-## DECISION FRAMEWORK FOR ALLOCATORS Predictive Asset-Based Lending is not an incremental improvement.
+## DECISION FRAMEWORK FOR ALLOCATORS Predictive Asset-Based Lending is not an incremental improvement
+
+.
 
 It represents a categorical shift in credit structuring.
 

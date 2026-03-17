@@ -80,7 +80,9 @@ Multi Agent Underwriting Credit analysis is decomposed into specialized sub agen
 
 • Covenant alignment agents These 
 
-## AGENTS OPERATE
+## AGENTS OPERAT
+
+E
 
  simultaneously and exchange data in iterative cycles.
 
@@ -180,7 +182,9 @@ It acts as a form of operational intelligence that connects allocators to next g
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital markets is the discipline of aligning resources with long term productive value.
+## THE STEWARDSHIP FILTER Stewardship in capital markets is the discipline of aligning resources with long term productive value
+
+.
 
 Agentic lending supports this through precision, transparency, and responsible capital deployment.
 
@@ -206,11 +210,15 @@ This level of oversight reduces default volatility and protects balance sheet in
 
  
 
-## THE 
+## THE
 
  
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating agentic credit systems require a framework that aligns improvements in operational efficiency with institutional constraints.
+ 
+
+## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating agentic credit systems require a framework that aligns improvements in operational efficiency with institutional constraints
+
+.
 
 This lens includes the following assessment points:
 

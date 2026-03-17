@@ -16,9 +16,15 @@ Vi eliminerar analyst-bias och ersätter kvartalsrapporter med kontinuerlig exek
 
 Roials Alpha bygger infrastruktur för dem som kräver precision. 
 
-## ## THE ALPHA SENTINEL LAYER
+### THE ALPHA SENTINEL
 
-Vi bygger inte rapporter; vi kodar in säkerhetsmarginaler i din portfölj.
+ 
+
+# Layer V
+
+I
+
+bygger inte rapporter; vi kodar in säkerhetsmarginaler i din portfölj.
 
 Autonom övervakning för PE-mandat.
 

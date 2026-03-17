@@ -180,7 +180,9 @@ These features generate a structural advantage for AI-led institutions relative 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of allocating capital with precision, restraint, and structural clarity.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of allocating capital with precision, restraint, and structural clarity
+
+.
 
 MiFID II introduced constraints that emphasize the importance of stewardship-based decision frameworks.
 
@@ -208,7 +210,9 @@ The allocator must position capital in structures that transcend regulatory cycl
 
  
 
-## DECISION-MAKING LENS FOR THE ALLOCATOR The MiFID II regime has created a landscape where liquidity is thinner, execution is costlier, and operational drag is unavoidable for market dependent strategies.
+## DECISION-MAKING LENS FOR THE ALLOCATOR The MiFID II regime has created a landscape where liquidity is thinner, execution is costlier, and operational drag is unavoidable for market dependent strategies
+
+.
 
 The strategic allocator responds by pivoting toward:
 

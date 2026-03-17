@@ -56,8 +56,7 @@ This is Roials-Alpha.
 
 - PHASE ONE: 
 
- ##
-
+ 
 - THE HARD STRUCTURE Private equity diligence is a discipline of disaggregation.
 
 You cut the company into parts.
@@ -106,7 +105,11 @@ Machine scope.
 
 Principal interpretation.
 
-A deal moves differently when the intelligence layer is running ahead of the humans.
+A deal moves differently when the intelligence 
+
+# Layer I: s running ahead of the humans
+
+.
 
 - 
 
@@ -144,7 +147,11 @@ Machine intuition operates in pattern form.
 
 The intersection is where superior capital decisions occur.
 
-The agentic layer is the true multiplier.
+The agentic 
+
+# Layer I: s the true multiplier
+
+.
 
 Short line for impact: Agents move.
 
@@ -242,7 +249,11 @@ You eliminate bureaucratic signals.
 
 You move the conversation to a direct line.
 
-This is the signature of Roials-Alpha: the intelligence layer clears the path before the human even enters the room.
+This is the signature of Roials-Alpha: the intelligence 
+
+# Layer CL: ears the path before the human even enters the room
+
+.
 
 - 
 

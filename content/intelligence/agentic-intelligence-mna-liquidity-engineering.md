@@ -150,7 +150,13 @@ Agentic negotiation relies on inevitability.
 
 Fund-III performance depends on engineering inevitability.
 
-- ALGORITHMIC LIQUIDITY MIGRATION: THE NEW PRINCIPAL LAYER In complex M&A, liquidity rarely sits where the deal needs it.
+- ALGORITHMIC LIQUIDITY MIGRATION: THE NEW PRINCIPAL 
+
+# Layer 
+
+I
+
+n complex M&A, liquidity rarely sits where the deal needs it.
 
 It must migrate.
 
