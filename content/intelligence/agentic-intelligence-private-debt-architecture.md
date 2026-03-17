@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural transition toward agentic
 date: "2025-07-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-intelligence-private-debt-architecture"
----
+--- 
 
 The structural gap in private credit today is a function of operational latency, not a shortage of capital.
 

@@ -4,7 +4,7 @@ description: "A principal-level brief on the next-generation AI liquidity stack,
 date: "2026-02-21"
 author: "Roials-Alpha"
 slug: "roials-alpha-ai-liquidity-architecture"
----
+--- 
 
 Roials-Alpha asserts a simple axiom: liquidity is no longer a market function.
 

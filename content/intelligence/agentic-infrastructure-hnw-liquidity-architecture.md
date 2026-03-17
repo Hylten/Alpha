@@ -4,7 +4,7 @@ description: "A principal‑level briefing on AI‑first liquidity engineering, 
 date: "2026-01-20"
 author: "Roials-Alpha"
 slug: "agentic-infrastructure-hnw-liquidity-architecture"
----
+--- 
 
 The capital environment has shifted from discretionary intuition to computational sovereignty.
 

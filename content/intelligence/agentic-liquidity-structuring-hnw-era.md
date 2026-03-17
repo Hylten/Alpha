@@ -4,7 +4,7 @@ description: "An institutional briefing on agentic liquidity systems, AI driven 
 date: "2025-10-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-liquidity-structuring-hnw-era"
----
+--- 
 
 The structural gap emerging between human paced capital deployment and algorithmic transaction velocity has become the defining characteristic of the modern private credit landscape.
 

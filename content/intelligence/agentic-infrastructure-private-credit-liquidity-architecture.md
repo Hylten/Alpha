@@ -4,7 +4,7 @@ description: "AI‑first private credit infrastructure engineered for HNWI/UHNW 
 date: "2025-11-25"
 author: "Roials-Alpha"
 slug: "agentic-infrastructure-private-credit-liquidity-architecture"
----
+--- 
 
 Private credit is no longer a financial product.
 

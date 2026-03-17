@@ -4,7 +4,7 @@ description: "A high-density analytical briefing on how AI resolves the capital 
 date: "2025-10-07"
 author: "Roials-Alpha"
 slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
----
+--- 
 
 The intelligence is simple: capital instruments compete, and only an autonomous system can arbitrate competition at the velocity the modern market requires.
 

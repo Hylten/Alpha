@@ -4,7 +4,7 @@ description: "A deep technical insight into agentic systems that accelerate liqu
 date: "2025-07-19"
 author: "Jonas Hyltén"
 slug: "agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity"
----
+--- 
 
 # Agentic Systems for Institutional Capital Institutional capital has outgrown conventional infrastructure.
 

@@ -4,7 +4,7 @@ description: "An advanced breakdown of how AI-driven Asset-Based liquidity engin
 date: "2026-01-31"
 author: "Jonas Hyltén"
 slug: "ai-driven-abl-for-emerging-markets-the-silent-infrastructure-of-future-liquidity"
----
+--- 
 
 # AI-Driven Asset-Based Lending for Emerging Markets Emerging markets have entered a structural realignment.
 

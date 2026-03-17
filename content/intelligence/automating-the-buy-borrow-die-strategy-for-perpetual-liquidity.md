@@ -4,7 +4,7 @@ description: "A high-authority breakdown of how autonomous infrastructure, priva
 date: "2025-09-03"
 author: "Jonas Hyltén"
 slug: "automating-the-buy-borrow-die-strategy-for-perpetual-liquidity"
----
+--- 
 
 # Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is most when it is never sold.
 

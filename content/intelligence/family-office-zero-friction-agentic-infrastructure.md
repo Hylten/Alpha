@@ -4,7 +4,7 @@ description: "A deep, technical Principal brief on agentic infrastructure, algor
 date: "2025-12-05"
 author: "Roials-Alpha"
 slug: "family-office-zero-friction-agentic-infrastructure"
----
+--- 
 
 The bottleneck has never been capital.
 

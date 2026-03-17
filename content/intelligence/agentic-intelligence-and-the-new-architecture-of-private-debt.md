@@ -4,7 +4,7 @@ description: "A high authority analysis on liquidity engineering, private credit
 date: "2025-08-12"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-new-architecture-of-private-debt"
----
+--- 
 
 # Agentic Intelligence and the Future of Private Debt The next cycle of private credit will not be shaped by human intuition.
 

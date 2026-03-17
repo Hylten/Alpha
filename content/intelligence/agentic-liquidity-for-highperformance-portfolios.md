@@ -4,7 +4,7 @@ description: "A deep dive into high‑efficiency liquidity engineering, private 
 date: "2025-09-18"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-for-highperformance-portfolios"
----
+--- 
 
 # Agentic Liquidity for High Performance Portfolios Roials Alpha operates where traditional finance slows down.
 

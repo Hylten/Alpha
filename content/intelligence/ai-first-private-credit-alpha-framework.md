@@ -4,7 +4,7 @@ description: "Institutional blueprint for AI‑driven private credit, algorithmi
 date: "2025-12-12"
 author: "Jonas Roials"
 slug: "ai-first-private-credit-alpha-framework"
----
+--- 
 
 The shift is already underway.
 

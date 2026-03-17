@@ -4,7 +4,7 @@ description: "Analytical briefing on AI-first origination, liquidity engineering
 date: "2025-10-30"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-deal-flow-institutional-architecture"
----
+--- 
 
 The misalignment between institutional liquidity cycles and traditional human-gated sourcing channels has created a structural gap across North American private markets.
 

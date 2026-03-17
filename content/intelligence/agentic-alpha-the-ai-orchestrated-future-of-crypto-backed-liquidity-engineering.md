@@ -4,7 +4,7 @@ description: "High-liquidity AI Asset-Backed Frameworks infrastructure built on 
 date: "2025-10-20"
 author: "Jonas Hyltén"
 slug: "agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering"
----
+--- 
 
 # Agentic Alpha: AI-Orchestrated Crypto-Backed Capital Structuring The new liquidity class is not human driven.
 

@@ -4,7 +4,7 @@ description: "A clinical analysis of AI-driven credit mechanics, liquidity engin
 date: "2025-07-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-liquidity-architecture-asset-based-finance"
----
+--- 
 
 The structural gap in asset-based finance in 2026 is not a function of capital scarcity.
 

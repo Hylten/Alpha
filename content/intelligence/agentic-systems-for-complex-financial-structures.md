@@ -4,7 +4,7 @@ description: "High velocity liquidity engineering through private credit and ass
 date: "2025-07-15"
 author: "Jonas Hyltén"
 slug: "agentic-systems-for-complex-financial-structures"
----
+--- 
 
 # Agentic Systems for Complex Financial Structures Roials-Alpha builds liquidity systems that operate where private credit intersects with autonomous intelligence.
 

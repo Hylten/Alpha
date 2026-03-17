@@ -4,7 +4,7 @@ description: "High velocity liquidity engineering for HNWI and UHNW clients thro
 date: "2026-02-21"
 author: "Jonas Hyltén"
 slug: "the-proprietary-model-for-automated-asset-hardening"
----
+--- 
 
 # The Proprietary Model for Automated Asset Hardening Roials-Alpha operates in a space that few understand and even fewer can architect.
 

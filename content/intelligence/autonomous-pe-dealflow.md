@@ -4,7 +4,7 @@ description: "Insights on Autonomous PE Dealflow from Roials Capital and Hyltén
 date: "2025-07-04"
 author: "Jonas Hyltén"
 slug: "autonomous-pe-dealflow"
----
+--- 
 
 # Autonomous PE Dealflow Private equity no longer scales on human sourcing alone.
 

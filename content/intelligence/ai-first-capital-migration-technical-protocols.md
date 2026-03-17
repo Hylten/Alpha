@@ -4,7 +4,7 @@ description: "Institutional analysis on AI driven capital migration architecture
 date: "2025-10-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-capital-migration-technical-protocols"
----
+--- 
 
 The structural gap in global capital markets is no longer geographic or sector based.
 

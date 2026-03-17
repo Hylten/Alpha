@@ -4,7 +4,7 @@ description: "Ai First Capital Migration: Technical Protocols Fo"
 date: "2026-02-22"
 author: "Jonas Hyltén"
 slug: "ai-first-capital-migration-technical-protocols-fo"
----
+--- 
 
 # AI-First Capital Migration 
 

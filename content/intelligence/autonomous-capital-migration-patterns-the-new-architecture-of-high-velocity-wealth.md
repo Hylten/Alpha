@@ -4,7 +4,7 @@ description: "A high authority analysis of liquidity behavior, private credit, a
 date: "2025-12-19"
 author: "Jonas Hyltén"
 slug: "autonomous-capital-migration-patterns-the-new-architecture-of-high-velocity-wealth"
----
+--- 
 
 # Autonomous Capital Migration Patterns Autonomous capital is no longer a theory.
 

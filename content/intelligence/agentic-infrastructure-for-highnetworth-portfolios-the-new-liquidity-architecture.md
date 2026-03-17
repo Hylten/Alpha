@@ -4,7 +4,7 @@ description: "A deep look into agentic infrastructure, private credit liquidity 
 date: "2025-11-19"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-highnetworth-portfolios-the-new-liquidity-architecture"
----
+--- 
 
 # Agentic Infrastructure for High Net Worth Portfolios The wealth environment is shifting.
 

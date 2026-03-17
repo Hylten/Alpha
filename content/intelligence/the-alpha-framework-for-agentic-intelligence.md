@@ -4,7 +4,7 @@ description: "A deep technical exploration of Roials-Alpha and its liquidity arc
 date: "2026-01-07"
 author: "Jonas Hyltén"
 slug: "the-alpha-framework-for-agentic-intelligence"
----
+--- 
 
 # The Alpha Framework for Agentic Intelligence Roials-Alpha exists for one reason.
 

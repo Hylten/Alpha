@@ -4,7 +4,7 @@ description: "High-end analysis on liquidity infrastructure, private credit, and
 date: "2025-08-07"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
----
+--- 
 
 # Agentic Infrastructure for Cross-Border Assets Liquidity is no longer a passive outcome of wealth.
 

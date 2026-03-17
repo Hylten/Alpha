@@ -4,7 +4,7 @@ description: "Institutional briefing on the regime shift toward AI synchronized 
 date: "2026-01-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-asset-based-lending-liquidity-engine"
----
+--- 
 
 The capital vacuum in North American specialty credit is a function of underwriting latency, not asset scarcity.
 

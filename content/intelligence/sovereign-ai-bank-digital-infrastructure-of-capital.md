@@ -4,7 +4,7 @@ description: "A technical briefing on AI-first credit architecture, liquidity en
 date: "2025-10-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-ai-bank-digital-infrastructure-of-capital"
----
+--- 
 
 The structural gap forming across North American and European credit markets in 2026 is not a product of economic instability.
 

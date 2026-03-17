@@ -4,7 +4,7 @@ description: "A clinical analysis of algorithmic credit origination, liquidity e
 date: "2026-02-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-framework-proprietary-credit-architecture"
----
+--- 
 
 The structural gap in global private credit is not a function of capital scarcity.
 

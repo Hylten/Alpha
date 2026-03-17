@@ -4,7 +4,7 @@ description: "A high-authority exploration of Roials-Alpha liquidity structures,
 date: "2025-06-24"
 author: "Jonas Hyltén"
 slug: "the-proprietary-path-to-autonomous-capital"
----
+--- 
 
 # The Proprietary Path to Autonomous Capital Capital is no longer passive.
 

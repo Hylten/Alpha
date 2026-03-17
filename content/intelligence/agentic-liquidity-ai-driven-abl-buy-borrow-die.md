@@ -4,7 +4,7 @@ description: "A clinical review of AI native asset based lending engines, autono
 date: "2026-02-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-liquidity-ai-driven-abl-buy-borrow-die"
----
+--- 
 
 The capital vacuum across North American private markets is increasingly driven by a mismatch between traditional underwriting velocity and the expanding inventory of hard assets that qualify for secured lending.
 

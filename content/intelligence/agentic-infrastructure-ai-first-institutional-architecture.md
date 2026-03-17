@@ -4,7 +4,7 @@ description: "A technical briefing on AI-first infrastructure, agentic execution
 date: "2026-01-19"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-infrastructure-ai-first-institutional-architecture"
----
+--- 
 
 The structural gap in institutional capital deployment today originates from operational latency rather than scarcity of opportunities.
 

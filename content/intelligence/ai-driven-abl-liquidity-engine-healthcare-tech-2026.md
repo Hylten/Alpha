@@ -4,7 +4,7 @@ description: "Technical intelligence on AI enhanced asset based liquidity engine
 date: "2025-06-25"
 author: "Jonas Hyltén"
 slug: "ai-driven-abl-liquidity-engine-healthcare-tech-2026"
----
+--- 
 
 [START INTELLIGENCE REPORT] 
 

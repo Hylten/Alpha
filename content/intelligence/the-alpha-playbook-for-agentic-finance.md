@@ -4,7 +4,7 @@ description: "A high authority blueprint on liquidity engineering, private credi
 date: "2025-08-07"
 author: "Jonas Hyltén"
 slug: "the-alpha-playbook-for-agentic-finance"
----
+--- 
 
 # The Alpha Playbook for Agentic Finance Agentic finance is not a trend.
 

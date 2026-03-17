@@ -4,7 +4,7 @@ description: "A technical dissection of how Roials-Alpha deploys behavioral vect
 date: "2025-10-05"
 author: "Roials-Alpha"
 slug: "key-person-risk-behavioral-semantic-ai-indexing"
----
+--- 
 
 The weak link is never the model.
 

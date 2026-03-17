@@ -4,7 +4,7 @@ description: "Institutional brief on AI-first asset‑backed lending, predictive
 date: "2025-08-21"
 author: "Roials-Alpha"
 slug: "predictive-liquidity-architecture-Fund-III"
----
+--- 
 
 Predictive liquidity is no longer an enhancement to Asset-Based Lending.
 

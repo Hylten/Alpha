@@ -4,7 +4,7 @@ description: "A high‑authority exploration of autonomous liquidity mechanics, 
 date: "2025-11-04"
 author: "Jonas Hyltén"
 slug: "autonomous-liquidity-management-for-sovereigns"
----
+--- 
 
 # Autonomous Liquidity Management for Sovereigns Liquidity is no longer a matter of Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 

@@ -4,7 +4,7 @@ description: "A high density institutional briefing on autonomous PE dealflow, a
 date: "2026-01-30"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-private-equity-dealflow-architecture"
----
+--- 
 
 The structural gap in private markets today is not capital scarcity but the absence of algorithmic filtration capable of transforming fragmented opportunity sets into institutionally coherent pipelines.
 

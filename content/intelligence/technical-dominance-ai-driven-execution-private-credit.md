@@ -4,7 +4,7 @@ description: "A clinical examination of algorithmic deal flow, AI anchored credi
 date: "2025-08-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "technical-dominance-ai-driven-execution-private-credit"
----
+--- 
 
 The capital vacuum in North America's energy sector is a function of regulatory drift rather than resource scarcity.
 

@@ -4,7 +4,7 @@ description: "An institutional briefing on algorithmic liquidity systems, AI str
 date: "2025-06-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-powered-liquidity-architecture-sovereign-capital"
----
+--- 
 
 The capital vacuum in global private markets is not a product of insufficient liquidity.
 

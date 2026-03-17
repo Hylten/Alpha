@@ -4,7 +4,7 @@ description: "A deep dive into autonomous deal flow mechanics, liquidity enginee
 date: "2025-10-03"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-for-institutional-investors-the-new-architecture-of-high-velocity-capital"
----
+--- 
 
 # Autonomous Deal Flow for Institutional Investors Autonomy is the new frontier of capital allocation.
 

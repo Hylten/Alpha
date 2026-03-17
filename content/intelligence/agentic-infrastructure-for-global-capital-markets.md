@@ -4,7 +4,7 @@ description: "Advanced liquidity architecture for private credit and asset based
 date: "2025-09-25"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-global-capital-markets"
----
+--- 
 
 # Agentic Infrastructure for Global Capital Markets Roials-Alpha operates in the territory where liquidity becomes engineering.
 

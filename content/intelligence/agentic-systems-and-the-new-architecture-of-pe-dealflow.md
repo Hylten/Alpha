@@ -4,7 +4,7 @@ description: "A high-authority exploration of agentic systems, liquidity enginee
 date: "2026-02-09"
 author: "Jonas Hyltén"
 slug: "agentic-systems-and-the-new-architecture-of-pe-dealflow"
----
+--- 
 
 Legacy analyst models are obsolete. Roials Alpha replaces manual screening with autonomous agent-architectures to extract off-market dealflow.
 
@@ -19,3 +19,5 @@ We deploy liquidity strategies where the market sees noise. Private credit and A
 We build infrastructure for capital extraction. Agentic execution for PE mandates.
 
 Access is granted only upon approved mandate.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

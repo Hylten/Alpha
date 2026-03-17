@@ -4,7 +4,7 @@ description: "A high-authority breakdown of autonomous deal flow mechanics, liqu
 date: "2025-11-23"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-architecture-for-Fund-III-ops"
----
+--- 
 
 # Autonomous Deal Flow in Fund-III Ops Fund-III demands a different level of operational intelligence.
 

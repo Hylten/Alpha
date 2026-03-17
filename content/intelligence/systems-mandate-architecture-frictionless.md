@@ -4,7 +4,7 @@ description: "A high density institutional briefing on AI first credit architect
 date: "2025-07-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "systems-mandate-architecture-frictionless"
----
+--- 
 
 The capital vacuum in North America is a function of operational drag, legacy processes, and regulatory friction that accumulated faster than institutional systems evolved.
 

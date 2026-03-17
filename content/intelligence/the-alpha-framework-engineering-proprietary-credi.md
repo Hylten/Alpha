@@ -4,7 +4,7 @@ description: "The Alpha Framework: Engineering Proprietary Credi"
 date: "2025-09-03"
 author: "Jonas Hyltén"
 slug: "the-alpha-framework-engineering-proprietary-credi"
----
+--- 
 
 # The Alpha Framework Engineering Proprietary Credit Models Roials-Alpha Principal Doctrine 
 -  

@@ -4,7 +4,7 @@ description: "Algorithmic Alpha: Removing Human Subjectivity Fro"
 date: "2025-12-21"
 author: "Jonas Hyltén"
 slug: "algorithmic-alpha-removing-human-subjectivity-fro"
----
+--- 
 
 # Algorithmic Alpha Removing Human Subjectivity from Credit Institutional credit functions well when human interpretation is minimized.
 

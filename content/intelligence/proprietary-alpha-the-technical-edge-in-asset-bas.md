@@ -4,7 +4,7 @@ description: "Proprietary Alpha: The Technical Edge In Asset Bas"
 date: "2025-11-06"
 author: "Jonas Hyltén"
 slug: "proprietary-alpha-the-technical-edge-in-asset-bas"
----
+--- 
 
 # Proprietary Alpha.
 

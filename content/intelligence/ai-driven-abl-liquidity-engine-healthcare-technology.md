@@ -4,7 +4,7 @@ description: "Institutional briefing on algorithmic asset based lending, liquidi
 date: "2026-02-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-abl-liquidity-engine-healthcare-technology"
----
+--- 
 
 The structural gap in North American private credit is no longer defined by distressed energy assets, but by the absence of precision credit infrastructure for healthcare and technology operators whose balance sheets have outgrown conventional underwriting frameworks.
 

@@ -4,7 +4,7 @@ description: "How autonomous financial agents are transforming asset-based liqui
 date: "2025-10-20"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity"
----
+--- 
 
 # Agentic Intelligence and the Future of Asset-Based Lending: How AI-Driven Credit Systems Redefine Liquidity Asset based Institutional Liquidity Paths is entering a structural rewrite.
 

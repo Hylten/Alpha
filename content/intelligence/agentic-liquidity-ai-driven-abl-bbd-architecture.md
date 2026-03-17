@@ -4,7 +4,7 @@ description: "A principal‑level analysis of agentic liquidity systems, AI‑dr
 date: "2026-02-20"
 author: "Roials-Alpha"
 slug: "agentic-liquidity-ai-driven-abl-bbd-architecture"
----
+--- 
 
 Agentic liquidity is not a feature upgrade.
 

@@ -4,7 +4,7 @@ description: "A principal level intelligence brief on how RL driven agentic syst
 date: "2026-02-03"
 author: "Jonas Hyltén"
 slug: "agentic-wealth-mobility-borderless-capital-optimization"
----
+--- 
 
 [START INTELLIGENCE REPORT] 
 

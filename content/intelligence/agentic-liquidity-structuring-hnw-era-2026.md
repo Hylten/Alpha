@@ -4,7 +4,7 @@ description: "An institutional grade analysis on agentic capital structuring, li
 date: "2025-11-06"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-structuring-hnw-era-2026"
----
+--- 
 
 [START INTELLIGENCE REPORT] 
 

@@ -4,7 +4,7 @@ description: "A high-end strategic analysis of AI structured liquidity, private 
 date: "2025-08-06"
 author: "Jonas Hyltén"
 slug: "sovereign-ai-architecting-the-digital-balance-sheet"
----
+--- 
 
 # Sovereign AI: Architecting the Digital Balance Sheet Sovereign AI is no longer a frontier concept.
 

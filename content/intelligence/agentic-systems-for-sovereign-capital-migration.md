@@ -4,7 +4,7 @@ description: "High‑precision liquidity engineering using private credit and as
 date: "2025-10-02"
 author: "Jonas Hyltén"
 slug: "agentic-systems-for-sovereign-capital-migration"
----
+--- 
 
 # Agentic Systems for Sovereign Capital Migration The architecture of global wealth is shifting.
 

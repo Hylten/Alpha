@@ -4,7 +4,7 @@ description: "High end analysis on liquidity engineering through private credit 
 date: "2025-12-26"
 author: "Jonas Hyltén"
 slug: "agentic-wealth-mobility-how-reinforcement-learning-unlocks-borderless-capital-optimization"
----
+--- 
 
 # Agentic Wealth Mobility: Borderless Capital Optimization via RL Agentic capital systems are no longer a frontier concept.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on agentic private credit systems, AI media
 date: "2025-11-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-private-credit-liquidity-architecture"
----
+--- 
 
 The current transformation in private credit is not driven by market sentiment.
 

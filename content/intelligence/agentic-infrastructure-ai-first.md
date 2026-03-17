@@ -4,7 +4,7 @@ description: "Insights on Agentic Infrastructure AI First from Roials Capital an
 date: "2025-09-12"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-ai-first"
----
+--- 
 
 # Agentic Infrastructure AI First Roials Alpha Edition 
 

@@ -4,7 +4,7 @@ description: "A Principal-level breakdown of AI-first sponsor evaluation archite
 date: "2026-03-06"
 author: "Roials-Alpha"
 slug: "automated-sponsor-vetting-multimodal-pattern-intelligence"
----
+--- 
 
 The signal emerges before the sponsor ever speaks.
 

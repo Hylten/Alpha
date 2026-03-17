@@ -4,7 +4,7 @@ description: "A technical briefing on the regime shift redefining asset based le
 date: "2025-11-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-abl-predictive-liquidity-models"
----
+--- 
 
 The capital vacuum in North American credit markets is a function of structural regulatory drift, not a decline in asset viability.
 

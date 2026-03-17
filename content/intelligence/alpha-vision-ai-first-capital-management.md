@@ -4,7 +4,7 @@ description: "A high density institutional briefing on the emergence of AI gover
 date: "2025-10-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-vision-ai-first-capital-management"
----
+--- 
 
 The structural gap in modern capital markets is no longer information asymmetry.
 

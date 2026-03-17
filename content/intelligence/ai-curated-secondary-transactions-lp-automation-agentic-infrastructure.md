@@ -4,7 +4,7 @@ description: "A high‑density examination of AI‑driven secondary signal detec
 date: "2025-09-17"
 author: "Roials‑Alpha"
 slug: "ai-curated-secondary-transactions-lp-autonomous infrastructure-agentic-infrastructure"
----
+--- 
 
 The inefficiency begins with silence.
 

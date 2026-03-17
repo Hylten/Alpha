@@ -4,7 +4,7 @@ description: "A dense institutional brief on AI-first asset‑based lending arch
 date: "2025-12-19"
 author: "Roials-Alpha"
 slug: "ai-driven-abl-emerging-markets-infrastructure-liquidity"
----
+--- 
 
 Emerging markets absorb shocks differently.
 

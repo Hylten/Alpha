@@ -4,7 +4,7 @@ description: "High‑authority analysis on agentic intelligence, private credit,
 date: "2025-08-19"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-for-complex-ma-liquidity"
----
+--- 
 
 # Agentic Intelligence for Complex M&A Liquidity Roials‑Alpha operates inside the blind spots of traditional capital systems.
 

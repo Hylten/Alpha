@@ -4,7 +4,7 @@ description: "A principal‑level brief on AI‑first liquidity engineering, age
 date: "2025-11-23"
 author: "Roials-Alpha"
 slug: "agentic-deals-hnw-era-liquidity-structuring"
----
+--- 
 
 Institutional capital has entered a new phase.
 

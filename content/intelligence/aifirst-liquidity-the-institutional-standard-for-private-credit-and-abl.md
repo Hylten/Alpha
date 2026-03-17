@@ -4,7 +4,7 @@ description: "A deep dive into AI‑first liquidity architecture, private credit
 date: "2025-08-26"
 author: "Jonas Hyltén"
 slug: "aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl"
----
+--- 
 
 # AI-First Liquidity: The New Standard The market has entered a new operational regime.
 

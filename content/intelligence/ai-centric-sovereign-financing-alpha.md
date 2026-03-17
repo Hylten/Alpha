@@ -4,7 +4,7 @@ description: "A high density institutional briefing on the structural realignmen
 date: "2025-09-13"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-centric-sovereign-financing-alpha"
----
+--- 
 
 The capital vacuum in global sovereign finance is no longer defined by interest rate cycles or geopolitical volatility.
 

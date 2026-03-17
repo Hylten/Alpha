@@ -4,7 +4,7 @@ description: "Institutional brief on algorithmic private‑credit systems, auton
 date: "2025-08-05"
 author: "Roials-Alpha"
 slug: "ai-driven-liquidity-architecture-private-credit"
----
+--- 
 
 Private credit accelerates when noise collapses.
 

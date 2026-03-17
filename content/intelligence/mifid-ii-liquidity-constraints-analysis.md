@@ -4,7 +4,7 @@ description: "Analytical briefing on MiFID II liquidity fragmentation, order flo
 date: "2025-06-30"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mifid-ii-liquidity-constraints-analysis"
----
+--- 
 
 The liquidity constraints emerging under MiFID II are not a consequence of capital scarcity.
 

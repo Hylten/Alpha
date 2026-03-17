@@ -4,7 +4,7 @@ description: "A principal-level analysis of AI-driven underwriting stacks, auton
 date: "2025-10-29"
 author: "Roials-Alpha"
 slug: "ai-underwriting-end-of-credit-committees"
----
+--- 
 
 The fracture line is visible.
 

@@ -4,7 +4,7 @@ description: "A principal-level architecture brief on autonomous data rooms, age
 date: "2026-01-21"
 author: "Roials-Alpha"
 slug: "autonomous-data-rooms-and-agentic-private-markets"
----
+--- 
 
 The structure emerges before the market knows it has shifted.
 

@@ -4,7 +4,7 @@ description: "High-end liquidity architecture built on agentic autonomous infras
 date: "2025-07-09"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-private-credit-the-new-liquidity-architecture-for-hnwi-and-uhnw"
----
+--- 
 
 # Agentic Infrastructure for Private Credit Private credit is expanding at a faster velocity than any other financial domain.
 

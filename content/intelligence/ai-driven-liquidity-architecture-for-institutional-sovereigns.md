@@ -4,7 +4,7 @@ description: "A technically dominant exploration of AI-driven liquidity, private
 date: "2025-10-04"
 author: "Jonas Hyltén"
 slug: "ai-driven-liquidity-architecture-for-institutional-sovereigns"
----
+--- 
 
 # AI-Driven Liquidity for Institutional Sovereigns Institutional capital no longer reacts, it anticipates.
 

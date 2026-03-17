@@ -4,7 +4,7 @@ description: "Explore how Roials-Alpha uses AI-driven asset hardening to deliver
 date: "2025-06-23"
 author: "Jonas Hyltén"
 slug: "ai-driven-asset-hardening-the-new-frontier-for-institutional-grade-liquidity"
----
+--- 
 
 # AI-Driven Asset Hardening: The New Frontier AI is no longer an operational advantage.
 

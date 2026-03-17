@@ -4,7 +4,7 @@ description: "Technical Dominance: Ai Driven Execution In Privat"
 date: "2025-07-17"
 author: "Jonas Hyltén"
 slug: "technical-dominance-ai-driven-execution-in-privat"
----
+--- 
 
 # Technical Dominance.
 

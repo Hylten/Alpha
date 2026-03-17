@@ -4,7 +4,7 @@ description: "High level proprietary mechanics on liquidity optimization, privat
 date: "2025-10-26"
 author: "Jonas Hyltén"
 slug: "proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital"
----
+--- 
 
 # Proprietary Intelligence on Asset Hardening via DeFi Protocols Roials Alpha operates in a structural layer that most capital holders never access.
 

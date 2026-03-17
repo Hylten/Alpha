@@ -4,7 +4,7 @@ description: "Technical briefing on the AI governed sovereign credit landscape, 
 date: "2025-10-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-alpha-ai-centric-sovereign-financing"
----
+--- 
 
 The structural gap in global capital markets is no longer defined by geography or commodity cycles.
 

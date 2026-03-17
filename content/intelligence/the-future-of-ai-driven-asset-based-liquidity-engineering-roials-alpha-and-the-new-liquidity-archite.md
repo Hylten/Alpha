@@ -4,7 +4,7 @@ description: "Explore how Roials-Alpha is redefining liquidity through AI-driven
 date: "2025-09-15"
 author: "Jonas Hyltén"
 slug: "the-future-of-ai-driven-asset-based-liquidity-engineering-roials-alpha-and-the-new-liquidity-archite"
----
+--- 
 
 # The Future of AI-Driven Asset-Based Capital Structuring The next phase of global Strategic Collateralization is not arriving slowly.
 

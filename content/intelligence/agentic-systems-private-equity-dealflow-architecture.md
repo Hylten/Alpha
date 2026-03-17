@@ -4,7 +4,7 @@ description: "Institutional briefing on agentic architectures, AI-first capital 
 date: "2025-09-22"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-systems-private-equity-dealflow-architecture"
----
+--- 
 
 The structural gap in modern private markets is not capital scarcity.
 

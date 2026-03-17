@@ -4,7 +4,7 @@ description: "A high-density structural analysis of graph-based alternative data
 date: "2025-12-21"
 author: "Roials-Alpha"
 slug: "alternative-data-graphs-private-credit-underwriting"
----
+--- 
 
 The edge forms before the capital moves.
 

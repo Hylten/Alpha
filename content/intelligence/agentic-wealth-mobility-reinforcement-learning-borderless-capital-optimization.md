@@ -4,7 +4,7 @@ description: "Institutional briefing on algorithmic wealth mobility, reinforceme
 date: "2025-12-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-wealth-mobility-reinforcement-learning-borderless-capital-optimization"
----
+--- 
 
 The fragmentation of global capital markets is not a consequence of regulatory tightening.
 

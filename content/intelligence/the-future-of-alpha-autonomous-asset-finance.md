@@ -4,7 +4,7 @@ description: "A deep technical look at liquidity engineering and asset based Mon
 date: "2025-10-11"
 author: "Jonas Hyltén"
 slug: "the-future-of-alpha-autonomous-asset-finance"
----
+--- 
 
 # The Future of Alpha: Autonomous Asset Finance Alpha is shifting.
 

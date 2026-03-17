@@ -4,7 +4,7 @@ description: "Institutional briefing on autonomous capital architectures, algori
 date: "2025-11-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "proprietary-path-to-autonomous-capital"
----
+--- 
 
 The structural gap facing allocators in 2026 is not a shortage of opportunity.
 

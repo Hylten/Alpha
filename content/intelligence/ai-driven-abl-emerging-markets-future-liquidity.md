@@ -4,7 +4,7 @@ description: "Institutional analysis on algorithmic Asset-Based Lending architec
 date: "2025-07-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-abl-emerging-markets-future-liquidity"
----
+--- 
 
 The capital vacuum across emerging markets is a structural consequence of informational asymmetry, not asset scarcity.
 

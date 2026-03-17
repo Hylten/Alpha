@@ -4,7 +4,7 @@ description: "A clinical analysis of AI coordinated liquidity systems, instituti
 date: "2026-03-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-driven-liquidity-architecture-institutional-sovereigns"
----
+--- 
 
 The capital vacuum in global sovereign portfolios is no longer defined by asset scarcity but by the latency inherent in human mediated allocation pathways.
 

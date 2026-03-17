@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural shift toward agentic syst
 date: "2025-09-19"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-systems-institutional-liquidity-architecture"
----
+--- 
 
 The structural gap emerging across global private markets is a function of algorithmic inefficiency rather than asset scarcity.
 

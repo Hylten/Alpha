@@ -4,7 +4,7 @@ description: "The Systems Mandate: Architecture For Frictionless"
 date: "2026-01-09"
 author: "Jonas Hyltén"
 slug: "the-systems-mandate-architecture-for-frictionless"
----
+--- 
 
 # The Systems Mandate.
 

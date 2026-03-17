@@ -4,7 +4,7 @@ description: "A high density institutional briefing on AI first credit architect
 date: "2025-08-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-approach-ai-first-liquidity-engineering"
----
+--- 
 
 The capital vacuum in North American energy is a consequence of regulatory drift, not resource depletion.
 

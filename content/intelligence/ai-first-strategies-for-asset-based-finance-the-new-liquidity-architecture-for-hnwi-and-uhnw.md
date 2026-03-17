@@ -4,7 +4,7 @@ description: "Advanced AI-driven approaches to private credit and asset-based li
 date: "2025-11-18"
 author: "Jonas Hyltén"
 slug: "ai-first-strategies-for-asset-based-finance-the-new-liquidity-architecture-for-hnwi-and-uhnw"
----
+--- 
 
 # AI-First Strategies for Asset-Based Finance Asset based finance is no longer a negotiation.
 

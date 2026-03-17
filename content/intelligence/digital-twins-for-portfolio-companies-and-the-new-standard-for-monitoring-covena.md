@@ -4,7 +4,7 @@ description: "Digital Twins For Portfolio Companies And The New Standard For Mon
 date: "2026-03-20"
 author: "Roials Alpha"
 slug: "digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring-covena"
----
+--- 
 
 ---------------------------------
 -  

@@ -4,7 +4,7 @@ description: "A principal-level analysis of agentic architectures inside Fund-II
 date: "2025-07-07"
 author: "Jonas Hyltén"
 slug: "agentic-systems-Fund-III-ops"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## ## 
 

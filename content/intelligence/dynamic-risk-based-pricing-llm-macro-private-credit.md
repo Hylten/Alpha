@@ -4,7 +4,7 @@ description: "A Principal-level deep analysis of AI-first credit architecture, d
 date: "2025-11-26"
 author: "Roials-Alpha"
 slug: "dynamic-risk-based-pricing-llm-macro-private-credit"
----
+--- 
 
 The shift is already underway.
 

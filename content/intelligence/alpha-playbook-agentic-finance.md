@@ -4,7 +4,7 @@ description: "A technical briefing on algorithmic liquidity engineering, agentic
 date: "2026-02-22"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-playbook-agentic-finance"
----
+--- 
 
 The structural gap defining the 2026 capital markets is not volatility.
 

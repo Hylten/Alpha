@@ -4,7 +4,7 @@ description: "Roials‑Alpha delivers AI‑First private credit and institutiona
 date: "2025-06-28"
 author: "Jonas Hyltén"
 slug: "aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity"
----
+--- 
 
 # AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending The architecture of private credit is shifting.
 

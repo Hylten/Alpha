@@ -4,7 +4,7 @@ description: "A high-resolution briefing on the fusion of private equity diligen
 date: "2025-11-02"
 author: "Roials-Alpha"
 slug: "convergent-diligence-ai-risk-engines"
----
+--- 
 
 The convergence began the moment information density exceeded human processing speed.
 

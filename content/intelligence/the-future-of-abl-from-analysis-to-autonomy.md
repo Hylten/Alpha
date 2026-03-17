@@ -4,7 +4,7 @@ description: "A high-authority exploration of next‑generation asset based liqu
 date: "2025-11-29"
 author: "Jonas Hyltén"
 slug: "the-future-of-abl-from-analysis-to-autonomy"
----
+--- 
 
 # The Future of Asset-Based Lending: From Analysis to Autonomy Asset Based Capital Structuring is shifting.
 

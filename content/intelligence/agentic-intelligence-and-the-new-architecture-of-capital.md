@@ -4,7 +4,7 @@ description: "A high‑end technical analysis of liquidity engines, private cred
 date: "2026-02-12"
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-new-architecture-of-capital"
----
+--- 
 
 # Agentic Intelligence and the New Architecture of Capital Agentic Intelligence is not a concept.
 

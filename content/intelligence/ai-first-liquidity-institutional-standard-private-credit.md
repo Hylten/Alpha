@@ -4,7 +4,7 @@ description: "A technical briefing on AI driven credit architecture, balance she
 date: "2025-10-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-liquidity-institutional-standard-private-credit"
----
+--- 
 
 The capital vacuum in North American private credit originates from structural timing differentials rather than credit deterioration.
 

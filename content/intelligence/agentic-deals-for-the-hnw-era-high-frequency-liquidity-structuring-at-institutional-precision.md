@@ -4,7 +4,7 @@ description: "A high-authority deep dive into high frequency liquidity structuri
 date: "2025-08-25"
 author: "Jonas Hyltén"
 slug: "agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision"
----
+--- 
 
 # Agentic Deals: High Frequency Liquidity Structuring Roials-Alpha operates in the space where liquidity is not requested.
 

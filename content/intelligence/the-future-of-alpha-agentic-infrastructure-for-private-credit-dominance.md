@@ -4,7 +4,7 @@ description: "High net worth liquidity engineering through private credit and as
 date: "2025-10-29"
 author: "Jonas Hyltén"
 slug: "the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance"
----
+--- 
 
 # The Future of Alpha: Agentic Infrastructure Alpha is no longer extracted.
 

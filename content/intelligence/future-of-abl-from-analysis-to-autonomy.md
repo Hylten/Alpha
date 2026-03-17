@@ -4,7 +4,7 @@ description: "A principal-grade examination of autonomous asset‑based lending 
 date: "2026-02-12"
 author: "Roials-Alpha"
 slug: "future-of-abl-from-analysis-to-autonomy"
----
+--- 
 
 The next epoch of Asset-Based Lending is no longer analytical.
 

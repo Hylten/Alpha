@@ -4,7 +4,7 @@ description: "A deep, institution‑grade analysis of continuous price discovery
 date: "2026-01-16"
 author: "Roials-Alpha"
 slug: "uhf-private-credit-price-discovery-agentic-infrastructure"
----
+--- 
 
 Near‑continuous markets behave differently when there is no exchange, no lit order book, and no stabilizing reference price.
 

@@ -4,7 +4,7 @@ description: "A technical intelligence report on autonomous liquidity systems, p
 date: "2025-09-10"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-private-credit-liquidity-architecture-2026"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## ## 
 

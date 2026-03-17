@@ -4,7 +4,7 @@ description: "Proprietary Tech Stacks For Institutional Deal Ori"
 date: "2025-09-04"
 author: "Jonas Hyltén"
 slug: "proprietary-tech-stacks-for-institutional-deal-ori"
----
+--- 
 
 # Proprietary Tech Stacks for Institutional Deal Origination The current liquidity environment rewards discipline.
 

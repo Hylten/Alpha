@@ -4,7 +4,7 @@ description: "A high‑density institutional brief on AI‑first credit architec
 date: "2026-02-02"
 author: "Roials-Alpha"
 slug: "algorithmic-asset-hardening-autonomous-institutional-machines"
----
+--- 
 
 Algorithmic asset hardening begins with the premise that capital architecture must behave as software.
 

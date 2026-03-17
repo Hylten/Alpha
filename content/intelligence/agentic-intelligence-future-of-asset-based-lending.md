@@ -4,7 +4,7 @@ description: "Institutional analysis of agentic AI architectures, balance sheet 
 date: "2026-01-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-intelligence-future-of-asset-based-lending"
----
+--- 
 
 The capital vacuum in North American enterprise lending is no longer driven by traditional credit scarcity.
 

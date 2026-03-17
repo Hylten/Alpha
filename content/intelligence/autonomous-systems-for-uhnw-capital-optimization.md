@@ -4,7 +4,7 @@ description: "A deep analysis of autonomous liquidity architecture, private cred
 date: "2026-02-25"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-uhnw-capital-optimization"
----
+--- 
 
 # Autonomous Systems for UHNW Capital Optimization Ultra high net worth capital is no longer optimized through manual decision cycles.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural transition toward agentic
 date: "2025-10-22"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-intelligence-future-asset-based-lending"
----
+--- 
 
 The structural gap in asset based lending is widening because underwriting processes have not kept pace with the velocity of real asset data.
 

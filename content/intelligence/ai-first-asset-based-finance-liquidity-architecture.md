@@ -4,7 +4,7 @@ description: "Institutional brief on AI-driven asset-based finance, algorithmic 
 date: "2025-08-11"
 author: "Roials-Alpha"
 slug: "ai-first-asset-based-finance-liquidity-architecture"
----
+--- 
 
 Capital concentrates when friction dies.
 

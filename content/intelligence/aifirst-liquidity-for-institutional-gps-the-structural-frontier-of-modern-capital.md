@@ -4,7 +4,7 @@ description: "High end analysis of AI‑driven liquidity mechanics for private c
 date: "2025-12-05"
 author: "Jonas Hyltén"
 slug: "aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital"
----
+--- 
 
 # AI First Liquidity for Institutional GPs [Institutional capital]([Roials Capital](https://roialscapital.com/)) is reorganizing itself around a single principle.
 

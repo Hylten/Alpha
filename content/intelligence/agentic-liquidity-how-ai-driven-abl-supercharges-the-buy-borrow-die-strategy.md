@@ -4,7 +4,7 @@ description: "A deep, technical, high-level analysis of how agentic AI unlocks l
 date: "2026-01-02"
 author: "Jonas Hyltén"
 slug: "agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy"
----
+--- 
 
 # Agentic Liquidity: How AI-Driven Asset-Based Lending Optimizes Buy Borrow Die Strategies The next era of wealth engineering is not human first.
 

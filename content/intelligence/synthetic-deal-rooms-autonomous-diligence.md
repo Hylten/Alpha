@@ -4,7 +4,7 @@ description: "How agentic architectures compress diligence cycles from weeks to 
 date: "2025-08-06"
 author: "Roials-Alpha"
 slug: "synthetic-deal-rooms-autonomous-diligence"
----
+--- 
 
 The shift begins the moment the human bottleneck breaks.
 

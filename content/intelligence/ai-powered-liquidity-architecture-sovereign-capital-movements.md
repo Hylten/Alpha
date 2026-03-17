@@ -4,7 +4,7 @@ description: "A technical briefing on AI mediated liquidity engineering, soverei
 date: "2025-08-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-powered-liquidity-architecture-sovereign-capital-movements"
----
+--- 
 
 The capital vacuum in global liquidity markets is a direct output of technological asymmetry rather than a shortage of institutional capital.
 

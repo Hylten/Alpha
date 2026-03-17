@@ -4,7 +4,7 @@ description: "How autonomous systems detect asset based liquidity engineering op
 date: "2025-12-16"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice"
----
+--- 
 
 # Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A Traditional deal flow is slow.
 

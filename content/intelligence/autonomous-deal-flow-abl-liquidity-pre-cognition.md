@@ -4,7 +4,7 @@ description: "Institutional intelligence on how AI identifies asset based liquid
 date: "2025-12-26"
 author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-abl-liquidity-pre-cognition"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## ## 
 

@@ -4,7 +4,7 @@ description: "Agentic Infrastructure: The New Standard For High"
 date: "2026-01-27"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-the-new-standard-for-high"
----
+--- 
 
 # Agentic Infrastructure.
 

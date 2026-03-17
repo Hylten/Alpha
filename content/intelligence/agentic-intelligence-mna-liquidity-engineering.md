@@ -4,7 +4,7 @@ description: "Institutional-grade architectural brief on AI‑driven M&A liquidi
 date: "2025-07-28"
 author: "Roials-Alpha"
 slug: "agentic-intelligence-mna-liquidity-engineering"
----
+--- 
 
 Institutional liquidity has entered its fracture epoch.
 

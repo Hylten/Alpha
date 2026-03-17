@@ -4,7 +4,7 @@ description: "A high‑density institutional briefing on agentic architectures, 
 date: "2025-12-25"
 author: "Roials-Alpha"
 slug: "agentic-systems-complex-financial-structures"
----
+--- 
 
 Institutional capital has entered a new epoch: agentic decision rails, continuous‑time credit scoring, and self-reinforcing liquidity engines.
 

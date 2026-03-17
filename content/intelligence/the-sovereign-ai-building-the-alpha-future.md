@@ -4,7 +4,7 @@ description: "A deep analysis of sovereign-grade AI, private credit, and asset-b
 date: "2025-07-08"
 author: "Jonas Hyltén"
 slug: "the-sovereign-ai-building-the-alpha-future"
----
+--- 
 
 # The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept.
 

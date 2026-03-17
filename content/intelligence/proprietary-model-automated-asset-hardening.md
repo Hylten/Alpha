@@ -4,7 +4,7 @@ description: "An institutional architecture briefing detailing AI-first asset ha
 date: "2026-01-17"
 author: "Jonas | Roials-Alpha"
 slug: "proprietary-model-automated-asset-hardening"
----
+--- 
 
 The modern capital estate requires insulation, leverage, velocity, and a controlled dissociation between personal wealth and operational risk surfaces.
 

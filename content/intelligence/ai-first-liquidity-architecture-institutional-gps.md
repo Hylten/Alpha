@@ -4,7 +4,7 @@ description: "A technical briefing on AI‑driven liquidity engineering, GP bala
 date: "2025-12-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-liquidity-architecture-institutional-gps"
----
+--- 
 
 The capital vacuum across private markets is not a function of asset deterioration but a consequence of structural dislocation in liquidity distribution.
 

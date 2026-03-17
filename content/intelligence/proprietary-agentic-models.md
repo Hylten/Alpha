@@ -4,7 +4,7 @@ description: "Insights on Proprietary Agentic Models from Roials Capital and Hyl
 date: "2025-11-10"
 author: "Jonas Hyltén"
 slug: "proprietary-agentic-models"
----
+--- 
 
 # Proprietary Agentic Models Roials-Alpha Edition Proprietary agentic models define the next era of autonomous computation.
 

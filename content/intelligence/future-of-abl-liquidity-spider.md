@@ -4,7 +4,7 @@ description: "An institutional analysis of next-generation Asset Based Lending a
 date: "2025-09-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-abl-liquidity-spider"
----
+--- 
 
 The dislocation in North American private credit is not the result of liquidity scarcity.
 

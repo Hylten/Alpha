@@ -4,7 +4,7 @@ description: "A high density institutional briefing on algorithmic liquidity eng
 date: "2025-11-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-liquidity-management-sovereigns"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a regulatory artifact, not a resource constraint.
 

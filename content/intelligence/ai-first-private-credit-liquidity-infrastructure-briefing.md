@@ -4,7 +4,7 @@ description: "Institutional briefing on AI-driven private credit architectures, 
 date: "2026-01-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "ai-first-private-credit-liquidity-infrastructure-briefing"
----
+--- 
 
 The capital vacuum in North American private credit is a function of regulatory compression across traditional banking channels, not a deterioration in borrower quality.
 

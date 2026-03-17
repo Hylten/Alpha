@@ -4,7 +4,7 @@ description: "Institutional briefing on algorithmic deal origination, autonomous
 date: "2025-09-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-deal-flow-architecture-Fund-III"
----
+--- 
 
 The structural gap defining North American private credit in 2026 is not a scarcity of opportunities but an excess of unstructured information that cannot be processed by legacy underwriting systems.
 

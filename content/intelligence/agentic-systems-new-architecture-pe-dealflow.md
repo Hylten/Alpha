@@ -4,7 +4,7 @@ description: "A high‑density institutional brief on algorithmic dealflow, agen
 date: "2025-09-12"
 author: "Roials-Alpha"
 slug: "agentic-systems-new-architecture-pe-dealflow"
----
+--- 
 
 Private markets have entered a structural inversion.
 

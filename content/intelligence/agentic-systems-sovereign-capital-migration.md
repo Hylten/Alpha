@@ -4,7 +4,7 @@ description: "A clinical examination of algorithmic capital mobility, sovereign 
 date: "2025-10-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "agentic-systems-sovereign-capital-migration"
----
+--- 
 
 The capital vacuum in North America is expanding because balance sheet velocity is no longer determined by human decision cycles.
 

@@ -4,7 +4,7 @@ description: "An advanced exploration of AI powered liquidity infrastructure for
 date: "2025-08-14"
 author: "Jonas Hyltén"
 slug: "ai-driven-liquidity-architecture-for-high-velocity-private-credit"
----
+--- 
 
 # AI Driven Liquidity for High Velocity Deals Roials Alpha operates in a world where speed is synonymous with advantage.
 

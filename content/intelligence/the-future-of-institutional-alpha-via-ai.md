@@ -4,7 +4,7 @@ description: "A deep analysis of how AI-driven private credit and asset-based li
 date: "2026-02-24"
 author: "Jonas Hyltén"
 slug: "the-future-of-institutional-alpha-via-ai"
----
+--- 
 
 # The Future of Institutional Alpha via AI Institutional alpha is migrating.
 

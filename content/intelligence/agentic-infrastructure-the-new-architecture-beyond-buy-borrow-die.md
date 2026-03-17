@@ -4,7 +4,7 @@ description: "HNWI and UHNW liquidity engineered through private credit and Asse
 date: "2025-07-26"
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die"
----
+--- 
 
 # Agentic Infrastructure: Redefining Buy, Borrow, Die for the AI Era The traditional Buy, Borrow, Die cycle was built for slower markets, manual decision-making, and a world where leverage structures took weeks to architect.
 

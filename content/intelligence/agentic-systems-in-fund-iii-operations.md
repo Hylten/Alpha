@@ -4,7 +4,7 @@ description: "How autonomous digital operators are accelerating the screening an
 date: "2025-11-13"
 author: "Jonas Hyltén"
 slug: "agentic-systems-in-Fund-III-operations"
----
+--- 
 
 # Agentic Systems in Fund-III Operations The operational infrastructure of modern private equity is transitioning from human-first analog processes to architected digital workflows. 
 

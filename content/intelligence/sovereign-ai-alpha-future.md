@@ -4,7 +4,7 @@ description: "A technical intelligence briefing on AI driven credit architecture
 date: "2026-01-13"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-ai-alpha-future"
----
+--- 
 
 The structural dislocation in global capital markets is no longer defined by interest rate regimes or political oscillation.
 

@@ -4,7 +4,7 @@ description: "High authority analysis of Roials-Alpha proprietary liquidity stru
 date: "2025-07-11"
 author: "Jonas Hyltén"
 slug: "proprietary-models-for-sovereign-liquidity"
----
+--- 
 
 # Proprietary Models for Sovereign Liquidity Roials-Alpha operates in a domain where capital behaves less like a balance sheet and more like an engineered infrastructure.
 

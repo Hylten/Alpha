@@ -4,7 +4,7 @@ description: "Algorithmic Asset Hardening: Automating Institutio"
 date: "2026-01-31"
 author: "Jonas Hyltén"
 slug: "algorithmic-asset-hardening-automating-institutio"
----
+--- 
 
 # Algorithmic Asset Hardening.
 

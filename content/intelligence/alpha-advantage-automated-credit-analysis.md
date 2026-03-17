@@ -4,7 +4,7 @@ description: "A principal-grade exposition on AI-first credit architecture, auto
 date: "2025-07-04"
 author: "Jonas Roials"
 slug: "alpha-advantage-automated-credit-analysis"
----
+--- 
 
 Private credit scales when friction dies.
 

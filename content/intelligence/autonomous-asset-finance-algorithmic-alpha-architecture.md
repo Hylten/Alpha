@@ -4,7 +4,7 @@ description: "A technical briefing on the structural transition from human media
 date: "2025-07-06"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-asset-finance-algorithmic-alpha-architecture"
----
+--- 
 
 The capital vacuum defining the 2026 private credit landscape is not the result of a shortage of opportunities.
 

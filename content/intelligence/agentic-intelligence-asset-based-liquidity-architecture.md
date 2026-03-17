@@ -4,7 +4,7 @@ description: "An institutional brief on AI-driven credit systems, agentic underw
 date: "2025-08-15"
 author: "Roials-Alpha"
 slug: "agentic-intelligence-asset-based-liquidity-architecture"
----
+--- 
 
 Liquidity follows structure.
 

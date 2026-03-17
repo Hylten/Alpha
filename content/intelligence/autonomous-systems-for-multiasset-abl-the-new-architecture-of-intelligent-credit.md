@@ -4,7 +4,7 @@ description: "A deep analysis of autonomous systems for multi‑asset Asset-Base
 date: "2025-07-11"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit"
----
+--- 
 
 # Autonomous Systems for Multi Asset Asset-Based Lending The architecture of credit is shifting.
 

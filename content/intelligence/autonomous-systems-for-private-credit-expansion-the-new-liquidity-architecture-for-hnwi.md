@@ -4,7 +4,7 @@ description: "High‑end analysis on autonomous systems, liquidity engineering, 
 date: "2025-10-28"
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi"
----
+--- 
 
 # Autonomous Systems for Private Credit Expansion Private credit is shifting.
 

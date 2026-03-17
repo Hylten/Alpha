@@ -4,7 +4,7 @@ description: "A technical briefing on the structural evolution of institutional 
 date: "2025-08-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alpha-ai-autonomous-capital"
----
+--- 
 
 The capital vacuum emerging across global private markets is not a function of scarce liquidity but of analytical latency.
 

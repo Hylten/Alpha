@@ -4,7 +4,7 @@ description: "A deep, technical briefing on AI‑driven counterparty scoring, al
 date: "2025-10-14"
 author: "Roials-Alpha"
 slug: "real-time-counterparty-probability-scoring"
----
+--- 
 
 The architecture begins with one premise.
 

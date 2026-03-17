@@ -4,7 +4,7 @@ description: "Explore how AI-first private credit and asset based liquidity engi
 date: "2025-11-18"
 author: "Jonas Hyltén"
 slug: "ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity"
----
+--- 
 
 # The Future of AI-First Private Credit The private credit arena is entering a structural rewrite.
 

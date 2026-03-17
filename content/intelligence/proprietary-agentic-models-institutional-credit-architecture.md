@@ -4,7 +4,7 @@ description: "A high-density institutional briefing on autonomous deal originati
 date: "2025-06-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "proprietary-agentic-models-institutional-credit-architecture"
----
+--- 
 
 The structural gap shaping North American private credit is not driven by scarcity of opportunities.
 

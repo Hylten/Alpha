@@ -4,7 +4,7 @@ description: "Roials-Alpha introduces a proprietary intelligence model engineere
 date: "2026-01-03"
 author: "Jonas Hyltén"
 slug: "the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit"
----
+--- 
 
 # The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha Edition Asset Based Asset-Backed Frameworks is no longer a mechanical underwriting play.
 

@@ -4,7 +4,7 @@ description: "Institutional analysis of AI-driven private credit architectures, 
 date: "2025-06-22"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-alpha-agentic-private-credit"
----
+--- 
 
 The structural gap in private credit today is not an issue of deal scarcity but an issue of institutional latency.
 

@@ -4,7 +4,7 @@ description: "A high-authority exploration of AI powered liquidity, private cred
 date: "2025-08-31"
 author: "Jonas Hyltén"
 slug: "the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital"
----
+--- 
 
 # The Sovereign AI Bank: Building the Digital Infrastructure of Capital The future of wealth is not managed, it is computed.
 

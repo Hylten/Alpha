@@ -4,7 +4,7 @@ description: "An AI-first principal briefing on autonomous credit agents, real-t
 date: "2025-06-26"
 author: "Roials-Alpha"
 slug: "predictive-liquidity-modeling-autonomous-credit-agents"
----
+--- 
 
 The architecture begins with a single premise: liquidity is no longer a static measurement.
 

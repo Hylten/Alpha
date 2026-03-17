@@ -4,7 +4,7 @@ description: "A deep structural analysis of smart‑contract execution layers fo
 date: "2025-11-12"
 author: "Roials-Alpha"
 slug: "smart-contract-execution-layers-direct-lending-term-sheets"
----
+--- 
 
 Precision defines the domain.
 

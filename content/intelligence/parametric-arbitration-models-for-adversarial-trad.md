@@ -4,7 +4,7 @@ description: "Parametric Arbitration Models for Adversarial Trade Environments U
 date: "2026-03-20"
 author: "Roials Alpha"
 slug: "parametric-arbitration-models-for-adversarial-trade-environments-using-the-sovereign-protocol"
----
+--- 
 
 # Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol ## ## 
 
