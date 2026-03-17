@@ -52,7 +52,7 @@ It is the foundation.
 
 The AI 
 
-### Layer C
+# Layer C
 
 ontinuously scans collateral velocity, market depth, liquidity fragmentation, borrow capacity, and exposure deltas across crypto, private credit, and Asset-Based Lending.
 

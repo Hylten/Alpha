@@ -373,13 +373,13 @@ The Three Layers of Roials-Alpha Intelligence Roials-Alpha operates through laye
 
 Observation 
 
-### Layer C
+# Layer C
 
 ontinuous scanning of issuers, institutions, collateral flows, and counterparty signals.
 
 This 
 
-### Layer ID: entifies turbulence before it manifests as loss.
+### Layer I: D: entifies turbulence before it manifests as loss.
 
  
 11. 

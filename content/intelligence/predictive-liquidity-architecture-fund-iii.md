@@ -128,7 +128,7 @@ It extracts geometry from noise.
 
 The system no longer asks: “What is the collateral worth today?” It asks: “What is the collateral worth before anything happens?” 
 
-## ANCHOR: SYNTHETIC FORWARD COVENANTS Traditional covenants are blunt instruments
+# ANCHOR: SYNTHETIC FORWARD COVENANTS Traditional covenants are blunt instruments
 
 .
 

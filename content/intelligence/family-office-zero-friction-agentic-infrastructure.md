@@ -58,7 +58,9 @@ Flow must become autonomous.
 
 Now the architecture. 
 
-### Phase I: (Private vaulted brief) The core problem is not sourcing
+### Phase I
+
+(Private vaulted brief) The core problem is not sourcing
 
 .
 
@@ -206,7 +208,9 @@ Move.
 
 Or don’t move. 
 
-### Phase II: INTERNAL TONE (Principal voice) You are not building a tool
+### Phase II
+
+INTERNAL TONE (Principal voice) You are not building a tool
 
 .
 
@@ -258,7 +262,7 @@ Return to depth.
 
 THE AGENTIC STACK FOR FAMILY OFFICES (Technical dominance) The architecture emerges in layers:
 
-# Layer I: Identity of Capita
+### Layer I: Identity of Capita
 
 l 
 

@@ -36,7 +36,7 @@ A directive.
 
  ( 
 
-# Phase I
+### Phase I
 
 ) VAULT-BRIEFING: STRUCTURAL DEPTH Institutional sponsor assessment has traditionally been built around four flawed assumptions:
 

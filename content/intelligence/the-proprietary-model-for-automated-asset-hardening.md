@@ -20,7 +20,7 @@ You retain the advantage.
 
 The Architecture Behind Automated Asset Hardening Automated Asset Hardening is our internal term for a multi 
 
-### Phase C: onversion cycle
+# Phase C: onversion cycle
 
 .
 

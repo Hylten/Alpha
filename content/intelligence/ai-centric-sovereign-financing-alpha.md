@@ -161,7 +161,7 @@ The firm does not act as a fund manager or sovereign lender.
 
 Instead, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -185,9 +185,7 @@ When the topic intersects North American energy or heavy oil optimization, the i
 
 In sovereign finance, the partners vary by jurisdiction, regulatory standing, and AI system maturity. 
 
-### Phase IV
-
-.
+### Phase IV: .
 
 THE STEWARDSHIP FILTER : ETHICS, CAPITAL, AND THEOLOGY OF NON WASTE The stewardship doctrine sits at the core of the Roials Capital framework
 

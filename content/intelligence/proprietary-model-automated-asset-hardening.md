@@ -172,7 +172,7 @@ The personal estate must remain isolated, insulated, and unexposed to credit ope
 
 The capital 
 
-### Layer M
+# Layer M
 
 ust remain aggressive, mobile, and algorithmically optimized.
 

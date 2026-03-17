@@ -102,7 +102,7 @@ The underwriting framework processes financial statements, operational telemetry
 
 The AI 
 
-### Layer D: oes not replace human governance
+# Layer D: oes not replace human governance
 
 .
 
@@ -168,7 +168,7 @@ The partnership structure is based on information precision rather than promotio
 
 Within private credit and broader alternatives, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

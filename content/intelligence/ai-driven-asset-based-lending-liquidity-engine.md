@@ -164,9 +164,7 @@ Roials Capital is not the warehouse lender, originator, or fund manager.
 
 It operates as the institutional introducer ensuring that allocators connect with the appropriate AI first Asset-Based Lending infrastructure. 
 
-### Phase IV
-
-.
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is a discipline of responsible capital allocation grounded in resource efficiency
 

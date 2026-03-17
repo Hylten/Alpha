@@ -42,7 +42,7 @@ Liquidity is a function of precision scoring, not broad human judgment.
 
 Roials Alpha builds Institutional Liquidity Paths decisions through a multi 
 
-### Layer C: omputational process
+# Layer C: omputational process
 
 .
 
@@ -223,7 +223,7 @@ Inside the Roials Alpha Strategic Collateralization Architecture A High Level Lo
 
 Asset Modeling Engine Transforms collateral into a multidimensional data object.
 
-Layer I: I
+### Layer I: I
 
 Risk Geometry Engine Evaluates stability, drift, and liquidation mechanics. 
 

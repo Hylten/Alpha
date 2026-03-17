@@ -42,7 +42,7 @@ It also redefines what is technically possible in capital raising for mid-market
 
 Finally, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

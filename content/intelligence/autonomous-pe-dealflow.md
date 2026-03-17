@@ -22,7 +22,9 @@ This is the front line of autonomous dealflow.
 
 - 
 
-- # The Death of Manual Sourcing Traditional deal sourcing is slow.
+- 
+
+# The Death of Manual Sourcing Traditional deal sourcing is slow.
 
 It is linear.
 
@@ -50,7 +52,9 @@ It is an arms race.
 
 - 
 
-- # Defining Autonomous Dealflow Autonomous dealflow means full cycle autonomous infrastructure.
+- 
+
+# Defining Autonomous Dealflow Autonomous dealflow means full cycle autonomous infrastructure.
 
 Not a CRM plugin.
 
@@ -86,7 +90,9 @@ The hierarchy flips.
 
 - 
 
-- # Why Autonomous Systems Outperform Humans Human analysts think in lists.
+- 
+
+# Why Autonomous Systems Outperform Humans Human analysts think in lists.
 
 Autonomous systems think in graphs.
 
@@ -133,7 +139,9 @@ This is why autonomous infrastructure wins.
 
 - 
 
-- # What Roials Alpha Builds Roials Alpha builds agentic infrastructure for private equity.
+- 
+
+# What Roials Alpha Builds Roials Alpha builds agentic infrastructure for private equity.
 
 Not generic AI.
 
@@ -163,7 +171,7 @@ Hunting across millions of domains, thousands of data streams, and every relevan
 
 Market Mappers This 
 
-### Layer C: onstructs evolving representations of markets
+# Layer C: onstructs evolving representations of markets
 
 .
 
@@ -240,7 +248,9 @@ This is how firms build dealflow that compounds.
 
 - 
 
-- # The Secret Weapon: Behavioral Profiling information asymmetry advantage in sourcing is no longer just about company signals.
+- 
+
+# The Secret Weapon: Behavioral Profiling information asymmetry advantage in sourcing is no longer just about company signals.
 
 It is about founder signals.
 
@@ -276,7 +286,9 @@ This is the kind of intelligence humans cannot scale.
 
 - 
 
-- # Systemic Data Enrichment The system continuously enriches every entity in the pipeline.
+- 
+
+# Systemic Data Enrichment The system continuously enriches every entity in the pipeline.
 
 New signals feed into:
 
@@ -302,7 +314,9 @@ This creates a living, breathing pipeline.
 
 - 
 
-- # The Autonomous Edge: Predictive Acquisition Windows The system learns patterns that precede acquisition openness.
+- 
+
+# The Autonomous Edge: Predictive Acquisition Windows The system learns patterns that precede acquisition openness.
 
 These are not obvious.
 
@@ -330,7 +344,9 @@ This is actionable predictive sourcing.
 
 - 
 
-- # Scaling Across The Entire PE Workflow Autonomous dealflow extends far beyond sourcing.
+- 
+
+# Scaling Across The Entire PE Workflow Autonomous dealflow extends far beyond sourcing.
 
 It touches:
 
@@ -352,7 +368,9 @@ Returns follow.
 
 - 
 
-- # Why This Is Not Replicable Most firms cannot build this infrastructure internally.
+- 
+
+# Why This Is Not Replicable Most firms cannot build this infrastructure internally.
 
 Reasons:
 
@@ -382,7 +400,9 @@ It is systemic infrastructure.
 
 - 
 
-- # The Firms That Move First Capture the Curve Autonomous dealflow is not a trend.
+- 
+
+# The Firms That Move First Capture the Curve Autonomous dealflow is not a trend.
 
 It is an inevitability.
 
@@ -402,7 +422,9 @@ The question is which firms will still matter when the autonomous infrastructure
 
 - 
 
-- # Roials Alpha Advantage Roials Alpha builds custom autonomous systems.
+- 
+
+# Roials Alpha Advantage Roials Alpha builds custom autonomous systems.
 
 Not generic models.
 
@@ -436,7 +458,9 @@ This is what creates competitive moats in a world dominated by autonomous infras
 
 - 
 
-- # The Future of Dealflow Is Machine Native The next generation of private equity firms will not be built around human analysts supported by software.
+- 
+
+# The Future of Dealflow Is Machine Native The next generation of private equity firms will not be built around human analysts supported by software.
 
 They will be built around autonomous systems supervised by humans.
 

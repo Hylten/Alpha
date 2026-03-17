@@ -366,7 +366,7 @@ Because of architecture.
 
 Its intelligence 
 
-### Layer D: efines its competitive edge
+# Layer D: efines its competitive edge
 
 .
 

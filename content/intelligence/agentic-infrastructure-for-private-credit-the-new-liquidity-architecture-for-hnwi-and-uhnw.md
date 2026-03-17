@@ -28,7 +28,7 @@ This is Asset-Based Lending with surgical efficiency.
 
 This is the architecture behind principal authority. (See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
-## The Strategic Edge: Why Agentic Systems Beat Conventional Underwriting Traditional underwriting is linear
+# The Strategic Edge: Why Agentic Systems Beat Conventional Underwriting Traditional underwriting is linear
 
 .
 

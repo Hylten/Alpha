@@ -308,7 +308,7 @@ ROIALS-ALPHA COLLATERAL INTELLIGENCE ENGINE Collateral intelligence drives the n
 
 The Roials-Alpha engine performs asset hardening across three layers:
 
-# Layer I: Technical Certainty Machine-audited asset data
+### Layer I: Technical Certainty Machine-audited asset data
 
 .
 
@@ -320,7 +320,9 @@ Failure-mode datasets.
 
 Predictive volatility mapping. 
 
-### Layer II: Legal Sovereignty Cross-jurisdictional compliance lattice
+### Layer II
+
+Legal Sovereignty Cross-jurisdictional compliance lattice
 
 .
 

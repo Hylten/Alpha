@@ -104,7 +104,7 @@ The Three Core Pillars of Automated Buy, Borrow, Die The system depends on three
 
 Each 
 
-### Pillar C: orresponds to a different liquidity profile
+# Pillar C: orresponds to a different liquidity profile
 
 .
 
@@ -112,7 +112,7 @@ Each is engineered for high net worth individuals who need precision, not market
 
 Pillar One: Buy The acquisition 
 
-### Phase D: efines everything
+# Phase D: efines everything
 
 .
 
@@ -124,7 +124,7 @@ The cash flow determines the liquidity engine.
 
 For institutional grade optimization, the acquisition 
 
-### Phase M: ust follow a strict logic
+# Phase M: ust follow a strict logic
 
 .
 
@@ -192,7 +192,7 @@ The borrow phase becomes a continuous flow event, not a transaction.
 
 Pillar Three: Die This is the 
 
-### Phase M: ost people misunderstand
+# Phase M: ost people misunderstand
 
 .
 
@@ -370,7 +370,7 @@ Only at scale.
 
 Only when the autonomous infrastructure 
 
-### Layer C: ontrols the timing
+# Layer C: ontrols the timing
 
 .
 

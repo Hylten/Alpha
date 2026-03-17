@@ -22,7 +22,7 @@ We build the architecture they copy ten years later.
 
 The New Liquidity Intelligence 
 
-### Layer C: apital optimization has evolved into a technical discipline
+# Layer C: apital optimization has evolved into a technical discipline
 
 .
 

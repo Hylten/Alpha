@@ -30,7 +30,9 @@ This is the architecture.
 
 - 
 
-- ## The Principal Position A principal does not chase flow.
+- 
+
+# The Principal Position A principal does not chase flow.
 
 A principal creates flow through intelligence.
 
@@ -58,7 +60,9 @@ They engage because execution is inevitable.
 
 - 
 
-- ## Foundations of the Architecture 
+- 
+
+# Foundations of the Architecture 
 
 1.
 
@@ -90,7 +94,9 @@ Control is never outsourced.
 
 - 
 
-- ## Algorithmic Deal Origination Origination is not prospecting.
+- 
+
+# Algorithmic Deal Origination Origination is not prospecting.
 
 It is filtration.
 
@@ -136,7 +142,9 @@ This is what differentiates the principal from the broker.
 
 - 
 
-- ## Institutional Scrutiny and Structural Alignment Institutional partners expect engineered order.
+- 
+
+# Institutional Scrutiny and Structural Alignment Institutional partners expect engineered order.
 
 They expect that every component withstands audit, replication, and accelerated scaling.
 
@@ -170,7 +178,9 @@ This is how covenant stewardship manifests in practice.
 
 - 
 
-- ## AI Driven Underwriting Intelligence Conventional underwriting is slow.
+- 
+
+# AI Driven Underwriting Intelligence Conventional underwriting is slow.
 
 It introduces bias.
 
@@ -184,7 +194,7 @@ Machine parsing of financial documents, chain of custody, collateral audit trail
 
 Layer Two Scoring frameworks modeled on historical Institutional Liquidity Paths events, asset price movements, and covenant breach probability. 
 
-### Layer M
+# Layer M
 
 ulti vector simulation that estimates structural weak points during liquidity compression.
 
@@ -206,7 +216,9 @@ Precision requires intelligence.
 
 - 
 
-- ## Proprietary Data Graphs The advantage is not in the algorithm.
+- 
+
+# Proprietary Data Graphs The advantage is not in the algorithm.
 
 It is in the private graph behind the algorithm.
 
@@ -226,7 +238,9 @@ A principal never surrenders authority.
 
 - 
 
-- ## Execution Velocity Velocity is the ultimate differentiator.
+- 
+
+# Execution Velocity Velocity is the ultimate differentiator.
 
 Speed without discipline is recklessness.
 
@@ -254,7 +268,9 @@ Stewardship demands efficiency.
 
 - 
 
-- ## Deal Origination as a Sovereign System The Roials Alpha system does not behave like a marketplace.
+- 
+
+# Deal Origination as a Sovereign System The Roials Alpha system does not behave like a marketplace.
 
 Marketplaces rely on volume.
 
@@ -276,7 +292,9 @@ Institutional partners appreciate this because it removes operational drag.
 
 - 
 
-- ## Covenant Stewardship as Operating Doctrine Covenant stewardship reframes the entire architecture.
+- 
+
+# Covenant Stewardship as Operating Doctrine Covenant stewardship reframes the entire architecture.
 
 The tech stack is engineered to protect capital.
 
@@ -310,7 +328,9 @@ But it is the only structure worthy of institutional capital.
 
 - 
 
-- ## Intelligence Loops for Principals Institutional partners require transparency at a strategic level without exposure of proprietary mechanisms.
+- 
+
+# Intelligence Loops for Principals Institutional partners require transparency at a strategic level without exposure of proprietary mechanisms.
 
 Roials Alpha uses controlled intelligence loops.
 
@@ -336,7 +356,9 @@ When partners understand trajectory, they commit capital with conviction.
 
 - 
 
-- ## The Gnosjö Influence The Spirit of Gnosjö is embedded in the architecture.
+- 
+
+# The Gnosjö Influence The Spirit of Gnosjö is embedded in the architecture.
 
 It reflects discipline.
 
@@ -362,7 +384,9 @@ They respond to structured reliability rooted in covenant stewardship.
 
 - 
 
-- ## Asset Hardening Through Intelligence The core thesis is simple.
+- 
+
+# Asset Hardening Through Intelligence The core thesis is simple.
 
 Harden assets.
 
@@ -400,7 +424,9 @@ It is structural refinement for serious capital.
 
 - 
 
-- ## The Role of Agentic Infrastructure Agentic systems do not wait for instructions.
+- 
+
+# The Role of Agentic Infrastructure Agentic systems do not wait for instructions.
 
 They operate within boundaries set by the principal and pursue outcomes autonomously.
 
@@ -430,7 +456,9 @@ The principal maintains sovereignty over the entire chain.
 
 - 
 
-- ## Strategic Authority Through Technology The stack creates more than efficiency.
+- 
+
+# Strategic Authority Through Technology The stack creates more than efficiency.
 
 It creates authority.
 
@@ -448,7 +476,9 @@ It is executed through the Spirit of Gnosjö.
 
 - 
 
-- ## The Institutional Signal Institutional audiences look for specific signals.
+- 
+
+# The Institutional Signal Institutional audiences look for specific signals.
 
 - Predictable systems.
 
@@ -472,7 +502,9 @@ When institutions detect these patterns, engagement shifts from exploration to a
 
 - 
 
-- ## Liquidity Pathways and Capital Control The tech stack is also designed to manage liquidity pathways with control.
+- 
+
+# Liquidity Pathways and Capital Control The tech stack is also designed to manage liquidity pathways with control.
 
 Capital seeks clarity.
 
@@ -504,7 +536,9 @@ This is the standard delivered.
 
 - 
 
-- ## The Future Position Institutions are migrating toward private credit.
+- 
+
+# The Future Position Institutions are migrating toward private credit.
 
 Borrowers face liquidity constraints.
 
@@ -536,7 +570,9 @@ This is the trajectory.
 
 - 
 
-- ## The Call to Principals If the objective is tactical clarity.
+- 
+
+# The Call to Principals If the objective is tactical clarity.
 
 If the objective is disciplined origination.
 

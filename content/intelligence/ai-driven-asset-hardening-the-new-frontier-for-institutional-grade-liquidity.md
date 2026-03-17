@@ -290,7 +290,7 @@ The Future of Asset Hardening AI-driven asset hardening will become a baseline r
 
 We see the next 
 
-### Phase CL: early
+# Phase CL: early
 
 :
 

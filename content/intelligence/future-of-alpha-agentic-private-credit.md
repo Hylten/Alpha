@@ -26,7 +26,7 @@ THE REGIME SHIFT
 
 Each 
 
-### Phase C
+# Phase C
 
 reated a new performance threshold and a new challenge for allocators.
 
@@ -82,7 +82,7 @@ TECHNICAL MECHANICS
 
 They are multi 
 
-### Layer D
+# Layer D
 
 ecision architectures that replace entropy with structured intelligence across the entire lifecycle of a credit instrument.
 
@@ -194,9 +194,7 @@ The objective is clarity.
 
 The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring. 
 
-### Phase IV
-
-.
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is a discipline of resource management that prioritizes responsible deployment over speculative acceleration
 

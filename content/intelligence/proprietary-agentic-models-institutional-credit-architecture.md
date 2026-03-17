@@ -60,7 +60,7 @@ TECHNICAL MECHANICS
 
 They are multi 
 
-### Layer C
+# Layer C
 
 omputational architectures engineered to reconstruct the entire private credit workflow into machine executed subprocesses.
 

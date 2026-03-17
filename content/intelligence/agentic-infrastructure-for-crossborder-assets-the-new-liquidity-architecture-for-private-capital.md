@@ -328,7 +328,7 @@ Each
 
 Each 
 
-### Layer C: ompounds liquidity control
+# Layer C: ompounds liquidity control
 
 .
 

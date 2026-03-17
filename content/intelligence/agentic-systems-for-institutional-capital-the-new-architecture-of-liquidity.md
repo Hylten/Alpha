@@ -60,7 +60,7 @@ Institutional capital is most when it is collateralized against assets that are 
 
 The agentic 
 
-### Layer C: alculates exposure
+# Layer C: alculates exposure
 
 .
 

@@ -32,7 +32,9 @@ Precision compounds.
 
 This is the brief. 
 
-### Phase I: - ## Vault-secured
+### Phase I: -
+
+# Vault-secured
 
 .
 
@@ -264,7 +266,7 @@ Exception governance handles:
 
 s the safety valve, the institutional bracing, the control tower that allows machine logic and human governance to coexist without conflict.
 
-Phase II: - PRINCIPAL VOICE The Principal states
+### Phase II: - PRINCIPAL VOICE The Principal states
 
 .
 

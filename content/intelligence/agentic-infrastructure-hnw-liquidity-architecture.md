@@ -68,7 +68,9 @@ Below is the principal‑level brief.
 
 - 
 
-- ## THE OPERATING PREMISE We begin with a hard axiom: wealth concentration demands system concentration.
+- 
+
+# THE OPERATING PREMISE We begin with a hard axiom: wealth concentration demands system concentration.
 
 Human advisors fragment.
 
@@ -98,7 +100,9 @@ The architecture must reflect that asymmetry.
 
 - 
 
-- ## I.
+- 
+
+# I.
 
 AGENTIC INFRASTRUCTURE AS CAPITAL SOVEREIGNTY HNW capital traditionally relies on relationship velocity.
 
@@ -138,7 +142,9 @@ This is autonomy.
 
 - 
 
-- ## II.
+- 
+
+# II.
 
 AI-FIRST CREDIT ARCHITECTURE Private credit is no longer a discretionary art.
 
@@ -188,7 +194,9 @@ Liquidity becomes predictable.
 
 - 
 
-- ## III.
+- 
+
+# III.
 
 THE NEW LIQUIDITY ARCHITECTURE Liquidity is no longer a static pool.
 
@@ -224,7 +232,9 @@ Sovereignty supports generational compounding.
 
 - 
 
-- ## IV.
+- 
+
+# IV.
 
 STRUCTURAL ADVANTAGE: AGENTIC DEAL FLOW The advantage is simple: faster Access is restricted to approved mandates.
 
@@ -268,7 +278,9 @@ Every cycle.
 
 - 
 
-- ## V.
+- 
+
+# V.
 
 ARCHITECTING FAMILY OFFICE COMPUTATION A modern UHNW family office requires three computational pillars: Pillar One: Identity Engine The system that binds capital, compliance, governance, and authorization under a unified, encrypted identity structure.
 
@@ -288,7 +300,9 @@ A compounding machine.
 
 - 
 
-- ## VI.
+- 
+
+# VI.
 
 THE Fund-III IMPERATIVE Fund‑III is not a fund.
 
@@ -326,7 +340,9 @@ Those with infrastructure dictate markets.
 
 - 
 
-- ## VII.
+- 
+
+# VII.
 
 ASSET HARDENING: THE NEW DEFENSE DOMAIN Hard assets require hard intelligence.
 
@@ -364,7 +380,9 @@ This transforms hard assets from slow, illiquid positions into dynamic yield eng
 
 - 
 
-- ## VIII.
+- 
+
+# VIII.
 
 CROSS‑BORDER Institutional Liquidity Paths Interjurisdictional capital movement has become a labyrinth of constraints.
 
@@ -400,7 +418,9 @@ The system becomes both strategist and executor.
 
 - 
 
-- ## IX.
+- 
+
+# IX.
 
 REMOVING HUMAN FRICTION Humans slow capital.
 
@@ -450,7 +470,9 @@ Sovereign‑enabled.
 
 - 
 
-- ## X.
+- 
+
+# X.
 
 THE ROIALS‑ALPHA MODEL We build for dominance.
 
@@ -482,7 +504,9 @@ This is Roials‑Alpha: architecture for high‑net‑worth capital operating be
 
 - 
 
-- ## XI.
+- 
+
+# XI.
 
 THE MANDATE
 

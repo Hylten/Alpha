@@ -281,7 +281,7 @@ This transforms co investment from a static agreement into a resilient, adaptive
 
 Multi 
 
-### Layer DILI: gence at Machine Scal
+# Layer DILI: gence at Machine Scal
 
 e
 

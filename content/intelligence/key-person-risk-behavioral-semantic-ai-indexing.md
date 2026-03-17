@@ -102,7 +102,7 @@ They are the operational fingerprints of long-term reliability.
 
 The Pressure Response 
 
-### Layer M
+# Layer M
 
 easures the delta between expressed stress and applied decision friction.
 
@@ -116,7 +116,7 @@ Machines always do.
 
 The Decision Horizon 
 
-### Layer M: aps how far ahead the individual thinks
+# Layer M: aps how far ahead the individual thinks
 
 .
 

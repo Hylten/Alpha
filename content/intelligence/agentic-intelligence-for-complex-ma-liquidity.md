@@ -62,7 +62,11 @@ They want discreet, structurally intelligent capital.
 
 Our infrastructure is built for this.
 
-We use multi‑layer verification, agentic asset intelligence, dynamic collateral modeling, and silent‑signal communication protocols to ensure that transactions remain off‑radar.
+We use multi‑
+
+### Layer V
+
+erification, agentic asset intelligence, dynamic collateral modeling, and silent‑signal communication protocols to ensure that transactions remain off‑radar.
 
 This is not secrecy.
 

@@ -222,7 +222,7 @@ I.
 
 The Buy 
 
-### Phase C
+# Phase C
 
 apital allocates into target assets-energy assets, private credit deals, operating companies, real assets-without waiting for liquidity windows.
 
@@ -460,7 +460,7 @@ Remove friction.
 
 For Fund‑III, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

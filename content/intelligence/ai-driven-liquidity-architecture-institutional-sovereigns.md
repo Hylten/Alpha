@@ -86,7 +86,7 @@ AI systems sequence liquidity into layers:
 
 - Strategic slow cycle liquidity Each 
 
-### Layer C
+# Layer C
 
 arries its own clearance rules, risk parameters, and geographic deployment corridors.
 

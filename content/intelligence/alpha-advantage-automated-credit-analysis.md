@@ -142,7 +142,7 @@ Nothing ignored.
 
 Fusion 
 
-### Layer M: achine-brain consolidation
+# Layer M: achine-brain consolidation
 
 .
 

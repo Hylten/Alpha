@@ -326,7 +326,7 @@ The next decade of alpha will originate here.
 
 - Agentic Infrastructure Inquiry If you intend to build this system-not as a concept but as an operational architecture-you need an agentic 
 
-### Layer C: apable of
+# Layer C: apable of
 
 :
 

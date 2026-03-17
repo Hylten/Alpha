@@ -24,7 +24,7 @@ One engine.
 
 The arbitration 
 
-### Layer D: ecides
+# Layer D: ecides
 
 .
 

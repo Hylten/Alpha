@@ -266,7 +266,7 @@ It is practical.
 
 Here are the most common deployment scenarios:
 
-## Opportunity Capture When a private investment appears suddenly, traditional capital is too slow
+# Opportunity Capture When a private investment appears suddenly, traditional capital is too slow
 
 .
 
@@ -280,7 +280,7 @@ The borrowed capital acts as temporary working liquidity while the underlying st
 
 Multi 
 
-### Layer L
+# Layer L
 
 everage Events Sophisticated clients use leverage not to increase risk but to increase control.
 

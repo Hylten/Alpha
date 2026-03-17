@@ -118,7 +118,7 @@ It restricts the service to clients who treat digital assets as structured compo
 
 The agentic 
 
-### Layer M: onitors collateral in real time
+# Layer M: onitors collateral in real time
 
 .
 

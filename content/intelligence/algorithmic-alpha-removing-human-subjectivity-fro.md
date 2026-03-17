@@ -46,7 +46,9 @@ Below is the architecture.
 
 - 
 
-- ## The Human Problem Every credit cycle is distorted by the same pattern.
+- 
+
+# The Human Problem Every credit cycle is distorted by the same pattern.
 
 Humans misprice risk.
 
@@ -74,7 +76,9 @@ Credit becomes predictable only when it becomes computable.
 
 - 
 
-- ## The Principal Position A principal operates from sovereignty.
+- 
+
+# The Principal Position A principal operates from sovereignty.
 
 Not advisory.
 
@@ -122,7 +126,9 @@ And stewardship produces compounding.
 
 - 
 
-- ## Roials-Alpha: The Technical Spine All proprietary.
+- 
+
+# Roials-Alpha: The Technical Spine All proprietary.
 
 All created for principal-grade execution.
 
@@ -237,7 +243,9 @@ The system enforces fairness by enforcing consistency.
 
 - 
 
-- ## Asset Hardening as a Spiritual Discipline Stewardship is not a metaphor.
+- 
+
+# Asset Hardening as a Spiritual Discipline Stewardship is not a metaphor.
 
 It is doctrine.
 
@@ -271,7 +279,9 @@ Truth.
 
 - 
 
-- ## Institutional Thresholds To maintain structural discipline, thresholds are nonnegotiable.
+- 
+
+# Institutional Thresholds To maintain structural discipline, thresholds are nonnegotiable.
 
 Crypto-backed credit requires 
 2 million minimum.
@@ -293,7 +303,9 @@ Thresholds are structure.
 
 - 
 
-- ## Removing Narrative Bias Narrative is the enemy of covenant clarity.
+- 
+
+# Removing Narrative Bias Narrative is the enemy of covenant clarity.
 
 Most credit memos are stories.
 
@@ -329,7 +341,9 @@ It removes the seduction of charisma and focuses on stewardship alone.
 
 - 
 
-- ## Velocity as Risk Control In traditional credit, speed is treated as a source of risk.
+- 
+
+# Velocity as Risk Control In traditional credit, speed is treated as a source of risk.
 
 In algorithmic credit, speed is a method of risk containment.
 
@@ -357,9 +371,11 @@ Velocity is precision.
 
 - 
 
-- ## The Surveillance 
+- 
 
-### Layer C: hristian stewardship demands vigilant oversight
+# The Surveillance 
+
+# Layer C: hristian stewardship demands vigilant oversight
 
 .
 
@@ -367,7 +383,7 @@ Roials-Alpha uses continuous monitoring to ensure that no asset is assumed stabl
 
 This surveillance 
 
-### Layer C: aptures
+# Layer C: aptures
 
 :
 
@@ -397,7 +413,9 @@ Continuous surveillance creates covenant peace.
 
 - 
 
-- ## Eliminating Human Discretion At this tier of credit, discretion is not a virtue.
+- 
+
+# Eliminating Human Discretion At this tier of credit, discretion is not a virtue.
 
 Discretion introduces inconsistency.
 
@@ -425,7 +443,9 @@ And trust is the basis for scale.
 
 - 
 
-- ## Covenant Stewardship The covenant is central.
+- 
+
+# Covenant Stewardship The covenant is central.
 
 Not the borrower’s potential.
 
@@ -459,7 +479,9 @@ This is why stewardship is strongest when anchored in algorithmic governance.
 
 - 
 
-- ## Eliminating Moral Hazard Moral hazard emerges when human judgment becomes flexible.
+- 
+
+# Eliminating Moral Hazard Moral hazard emerges when human judgment becomes flexible.
 
 Algorithmic underwriting removes this by stripping away the possibility of favoritism or special treatment.
 
@@ -487,7 +509,9 @@ Better borrowers produce better portfolios.
 
 - 
 
-- ## The Intelligence Loop Every cycle of origination improves the next.
+- 
+
+# The Intelligence Loop Every cycle of origination improves the next.
 
 The system learns.
 
@@ -513,7 +537,9 @@ Alpha emerges not from high leverage but from high intelligence.
 
 - 
 
-- ## Why Institutions Gravitate to Algorithmic Credit Institutions pursue stability.
+- 
+
+# Why Institutions Gravitate to Algorithmic Credit Institutions pursue stability.
 
 They reward predictability.
 
@@ -543,7 +569,9 @@ Algorithmic credit is reliability formalized.
 
 - 
 
-- ## The End of Subjective Credit This is the transition.
+- 
+
+# The End of Subjective Credit This is the transition.
 
 From opinion to computation.
 
@@ -573,7 +601,9 @@ And architecture endures.
 
 - 
 
-- ## Principal Summary Roials-Alpha eliminates the distortions of human decision making by embedding algorithmic intelligence at every layer of credit.
+- 
+
+# Principal Summary Roials-Alpha eliminates the distortions of human decision making by embedding algorithmic intelligence at every layer of credit.
 
 It enforces covenant stewardship with precision and maintains structural alignment from origination to repayment.
 

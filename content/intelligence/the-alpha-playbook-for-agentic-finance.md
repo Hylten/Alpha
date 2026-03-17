@@ -120,7 +120,7 @@ We allow you to move without selling.
 
 The Capital Intelligence 
 
-### Layer C
+# Layer C
 
 apital intelligence is the differentiator inside Roials Alpha.
 

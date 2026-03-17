@@ -346,7 +346,7 @@ This is structural dominance.
 
 And for firms that need multi-jurisdictional execution environments, optional structuring through Roials Capital provides another lever of sophistication, with seamless handoff from verification to institutional-grade execution: [Institutional capital execution]([Roials Capital](https://roialscapital.com/)) 
 
-## THE DEAL FLOW CONSEQUENCE Once autonomous verification becomes standard, deal flow accelerates in ways the market has not yet priced in
+# THE DEAL FLOW CONSEQUENCE Once autonomous verification becomes standard, deal flow accelerates in ways the market has not yet priced in
 
 .
 

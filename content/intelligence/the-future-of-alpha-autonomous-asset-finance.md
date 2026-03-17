@@ -76,7 +76,7 @@ We treat every asset class as code, every constraint as a data object, and every
 
 The Autonomous Liquidity 
 
-### Layer M
+# Layer M
 
 ost capital markets still behave like analog infrastructure wrapped in digital interfaces.
 

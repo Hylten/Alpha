@@ -50,7 +50,9 @@ A good man leaves an inheritance to his children's children: but the wealth of t
 
 * 
 
-* ## FOUNDATIONAL SHIFT: COLLATERAL AS SIGNAL Traditional Asset-Based Lending treats collateral as a static object.
+* 
+
+# FOUNDATIONAL SHIFT: COLLATERAL AS SIGNAL Traditional Asset-Based Lending treats collateral as a static object.
 
 AI-first Asset-Based Lending treats collateral as a live stream.
 
@@ -88,7 +90,7 @@ The model builds itself through:
 
 • Machine-learned recovery curves Each 
 
-### Layer C: ompounds
+# Layer C: ompounds
 
 .
 

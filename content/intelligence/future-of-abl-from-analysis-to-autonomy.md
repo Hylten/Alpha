@@ -174,7 +174,7 @@ THE ALGORITHMIC CREDIT STACK An autonomous Asset-Based Lending system depends on
 
 :
 
-# Layer I: Perceptual Layer Sensor data
+### Layer I: Perceptual Layer Sensor data
 
 .
 
@@ -204,7 +204,7 @@ Stress propagation.
 
 The interpretive 
 
-### Layer D: ecides
+# Layer D: ecides
 
 .
 

@@ -90,7 +90,7 @@ Once an asset becomes a risk object, it becomes actionable.
 
 Liquidity Extraction Layer This 
 
-### Layer D
+# Layer D
 
 etermines how much liquidity can be safely unlocked without degrading asset integrity.
 

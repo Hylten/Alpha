@@ -78,7 +78,7 @@ The intelligence profile includes:
 
 - EU MiFID II order flow anomalies inside regulated entities preparing for ownership transition The capture 
 
-### Layer D: oes not wait for audited financials or brokered teasers
+# Layer D: oes not wait for audited financials or brokered teasers
 
 .
 
@@ -176,7 +176,7 @@ Company Profile:
 
 - Ownership: Family controlled, in operation since 1992 Initial AI Detection The data capture 
 
-### Layer ID: entified three anomalies
+### Layer I: D: entified three anomalies
 
 :
 

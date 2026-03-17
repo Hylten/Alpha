@@ -14,7 +14,9 @@ e
 
 - 
 
-- ## Orientation The Alpha Framework is not a theory set.
+- 
+
+# Orientation The Alpha Framework is not a theory set.
 
 It is a structural discipline for principals who treat credit as infrastructure rather than product.
 
@@ -52,7 +54,9 @@ Velocity oriented.
 
 - 
 
-- ## Core Principle The Alpha Framework operates on three doctrines. *Algorithmic Origination.
+- 
+
+# Core Principle The Alpha Framework operates on three doctrines. *Algorithmic Origination.
 
 * *Asset Hardening.
 
@@ -74,7 +78,9 @@ It is the posture of stewardship applied to credit flow.
 
 - 
 
-- ## Algorithmic Origination Traditional private credit relies on inbound deal flow.
+- 
+
+# Algorithmic Origination Traditional private credit relies on inbound deal flow.
 
 Inbound is inefficient.
 
@@ -90,7 +96,9 @@ Instead of waiting for deals the Alpha Framework identifies, tracks, and advance
 
 * *Counterparty Profiling.
 
-* ## Principal Graphing All industries contain underlying power structures.
+* 
+
+# Principal Graphing All industries contain underlying power structures.
 
 These are not visible in public filings.
 
@@ -168,7 +176,9 @@ Because counterparty behavior under pressure determines credit outcome.
 
 - 
 
-- ## Asset Hardening Asset Hardening is the process of engineering credit structures that withstand institutional scrutiny before capital deployment.
+- 
+
+# Asset Hardening Asset Hardening is the process of engineering credit structures that withstand institutional scrutiny before capital deployment.
 
 Most credit failures occur before the liquidity facility is issued.
 
@@ -182,7 +192,9 @@ Asset Hardening operates in four arcs. *Structural Readiness.
 
 * *Institutional Grade Controls.
 
-* ## Structural Readiness Borrowers often present structures that cannot support scaled credit.
+* 
+
+# Structural Readiness Borrowers often present structures that cannot support scaled credit.
 
 Not due to performance.
 
@@ -268,7 +280,9 @@ The lender gains predictability.
 
 - 
 
-- ## Covenant Stewardship Covenants are not restrictions.
+- 
+
+# Covenant Stewardship Covenants are not restrictions.
 
 They are instruments of order.
 
@@ -290,7 +304,9 @@ Covenant Stewardship rests on three directives. *Clear Purpose.
 
 * *Aligned Mandate.
 
-* ## Clear Purpose A covenant without purpose becomes bureaucratic.
+* 
+
+# Clear Purpose A covenant without purpose becomes bureaucratic.
 
 A covenant with purpose becomes stabilizing.
 
@@ -346,7 +362,9 @@ It is structured alignment of responsibilities under covenant discipline.
 
 - 
 
-- ## Execution Velocity Velocity is the primary information asymmetry advantage in modern private credit.
+- 
+
+# Execution Velocity Velocity is the primary information asymmetry advantage in modern private credit.
 
 Not speed for its own sake.
 
@@ -368,7 +386,9 @@ As an integrated intelligence organism. *Pre Decision Mapping.
 
 * *Automated Covenant Enforcement.
 
-* ## Pre Decision Mapping Decisions must be architected before opportunities appear.
+* 
+
+# Pre Decision Mapping Decisions must be architected before opportunities appear.
 
 Pre decision mapping establishes:
 
@@ -430,7 +450,9 @@ The lender experiences protection.
 
 - 
 
-- ## Specialized Domains The Alpha Framework adapts to specific structures.
+- 
+
+# Specialized Domains The Alpha Framework adapts to specific structures.
 
 Crypto Secured Monetization Architecture Minimum threshold 2M
 
@@ -478,7 +500,9 @@ This creates stability for both principal and lender.
 
 - 
 
-- ## Institutional Alignment Fund-III+ allocators require hard data, repeatability, control, and moral clarity.
+- 
+
+# Institutional Alignment Fund-III+ allocators require hard data, repeatability, control, and moral clarity.
 
 They reject noise.
 
@@ -508,7 +532,9 @@ The result is a private credit organism capable of absorbing large allocations w
 
 - 
 
-- ## Dominion Model Private credit is dominion oriented.
+- 
+
+# Dominion Model Private credit is dominion oriented.
 
 Dominion is not aggression.
 
@@ -534,7 +560,9 @@ Relentless execution.
 
 - 
 
-- ## Summary Architecture The Alpha Framework stands on five structural pillars. *Algorithmic origination.
+- 
+
+# Summary Architecture The Alpha Framework stands on five structural pillars. *Algorithmic origination.
 
 * *Asset hardening.
 
@@ -546,7 +574,7 @@ Relentless execution.
 
 * Each 
 
-### Pillar C: ompounds the others
+# Pillar C: ompounds the others
 
 .
 
@@ -574,6 +602,8 @@ As principals.
 
 - 
 
-- ## Inquiry Access is restricted to approved mandates.
+- 
+
+# Inquiry Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

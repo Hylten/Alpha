@@ -198,9 +198,7 @@ Each allocator receives a structural mapping of their current asset base, liquid
 
 This positions the allocator to interface with the appropriate agentic credit architecture. 
 
-### Phase V
-
-.
+### Phase V: .
 
 THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment
 

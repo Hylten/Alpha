@@ -108,7 +108,7 @@ For private credit structures the same layer applies:
 
 Credit Decisioning Layer This 
 
-### Layer C: onstructs underwriting determinations based on
+# Layer C: onstructs underwriting determinations based on
 
 :
 

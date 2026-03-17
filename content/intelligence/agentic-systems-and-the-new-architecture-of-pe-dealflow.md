@@ -92,7 +92,7 @@ It then produces contextual summaries that are deal ready.
 
 The manual 
 
-### Layer C: ollapses into a single action: evaluation
+# Layer C: ollapses into a single action: evaluation
 
 .
 

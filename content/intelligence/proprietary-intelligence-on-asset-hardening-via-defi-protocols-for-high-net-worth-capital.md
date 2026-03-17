@@ -76,7 +76,7 @@ The architecture depends on three components.
 
 Component One: Multi 
 
-### Layer C: ollateralizatio
+# Layer C: ollateralizatio
 
 n
 
@@ -394,7 +394,7 @@ This ensures predictable outcomes even under non predictable market conditions.
 
 Reinforcement 
 
-### Layer C
+# Layer C
 
 ollateral reinforcement and credit optimization run continuously.
 
@@ -402,7 +402,7 @@ The system uses real time telemetry to increase resilience every cycle.
 
 Exit 
 
-### Layer L: I
+# Layer L: I
 
 quidity extraction and deleveraging remain under principal control.
 
