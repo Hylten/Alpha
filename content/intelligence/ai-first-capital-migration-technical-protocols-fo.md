@@ -141,23 +141,27 @@ AI constructs these lanes through pattern detection and predictive modeling.
 
 There are four primary lane types. 
 
-1. **Collateral-backed liquidity** Hard assets.
+1. **Collateral-backed liquidity*
+* Hard assets.
 
 Strong governance.
 
 Predictable enforcement pathways. 
 
-2. **Operating cash flow lanes** Verified efficiency.
+2. **Operating cash flow lanes*
+* Verified efficiency.
 
 Clean financials.
 
 Low behavioral drift. 
 
-3. **Digital collateral lanes** Crypto liquidity engineering with a two million minimum.
+3. **Digital collateral lanes*
+* Crypto liquidity engineering with a two million minimum.
 
 Requires algorithmic monitoring for volatility and liquidation thresholds. 
 
-4. **Public shares liquidity lanes** Equity-backed Capital Structuring with a five million minimum.
+4. **Public shares liquidity lanes*
+* Equity-backed Capital Structuring with a five million minimum.
 
 Institutions demand transparency.
 
@@ -261,11 +265,14 @@ It is synchronized precision.
 
 Agentic systems evaluate, decide, and route capital within compressed time cycles. 
 
-1. **Automated covenant checks** Continuous validation ensures no transaction enters conflict posture. 
+1. **Automated covenant checks*
+* Continuous validation ensures no transaction enters conflict posture. 
 
-2. **Predictive counterparty mapping** AI ranks counterparties by trust score and performance consistency. 
+2. **Predictive counterparty mapping*
+* AI ranks counterparties by trust score and performance consistency. 
 
-3. **Real-time collateral assessment** Collateral quality is monitored at every interval to maintain institutional-grade credibility.
+3. **Real-time collateral assessment*
+* Collateral quality is monitored at every interval to maintain institutional-grade credibility.
 
 Execution velocity is a structural advantage.
 

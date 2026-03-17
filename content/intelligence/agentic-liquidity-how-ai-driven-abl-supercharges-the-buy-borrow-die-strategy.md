@@ -36,7 +36,9 @@ Outdated risk models that require weeks to recalibrate.
 
 Intermediary bottlenecks that kill velocity.
 
-This is where most wealth structures silently leak between 80 and 250 basis points per year.
+This is where most wealth structures silently leak between 8
+0 and 25
+0 basis points per year.
 
 Agentic liquidity eliminates these weaknesses by deleting the human dependency loop.
 
@@ -97,7 +99,9 @@ Major shifts include:
 -  anomaly detection to prevent over collateralization 
 -  machine priced credit spreads, not human approximations When balance sheet optimization power adjusts dynamically, the system can surface hidden liquidity trapped inside the balance sheet.
 
-This can expand real usable leverage capacity by 18 to 42 percent depending on the asset class stack.
+This can expand real usable leverage capacity by 1
+8 to 4
+2 percent depending on the asset class stack.
 
 In a Buy Borrow Die strategy, that is equivalent to compressing decades of equity harvesting into a predictable pipeline of agent orchestrated draw events.
 

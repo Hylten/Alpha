@@ -27,7 +27,8 @@ Only autonomous systems that compute exposure, allocate liquidity, and govern tr
 This briefing defines a Principal-level framework for autonomous capital systems engineered for UHNW/HNW families, sovereign-adjacent operators, and private credit dominants.
 
 It outlines the operational doctrine that governs Fund-III scale deployments, with a mandate aligned to 
--  **Proverbs 13:22** : A good man leaves an inheritance to his children’s children.
+-  **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children.
 
 ## THE MANDATE
 
@@ -93,7 +94,8 @@ With them, order compounds.
 
 The architecture requires:
 • Real-time data absorption across all entities
-• Exposure heat maps refreshed every 4 seconds
+• Exposure heat maps refreshed every 
+4 seconds
 • Cross-border compliance autonomous infrastructure
 • Embedded credit engine with instant underwriting logic
 • Algorithmic deal screening and ranking
@@ -369,7 +371,8 @@ Mechanisms:
 It protects the capital from erosion.
 
 It ensures that the proverb applies: 
--  **Proverbs 13:22** applies as mandate, not metaphor.
+-  **Proverbs 13:22*
+* applies as mandate, not metaphor.
 
 Legacy becomes an engineered outcome, not a hope. 
 
@@ -434,6 +437,7 @@ Accelerate deal flow.
 
 Remove human drag.
 
-Completion metric: 0.14 seconds latency across all capital nodes.
+Completion metric: 0.1
+4 seconds latency across all capital nodes.
 
 If you require additional construction, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

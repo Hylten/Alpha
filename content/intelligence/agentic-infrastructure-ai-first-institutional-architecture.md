@@ -155,7 +155,8 @@ It converts what used to be slow transactional flows into continuous intelligenc
 ## THE STEWARDSHIP FILTER Stewardship within institutional capital systems refers to the disciplined management of resources so that waste is minimized and clarity is maximized.
 
 The principle reflects the broader mandate described in 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 Capital that is governed properly endures across generations.
 
@@ -190,7 +191,8 @@ They lend themselves to algorithmic verification. ## ##
 
 ## THE ## ## 
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators navigating 2026 must evaluate their operational architecture through four filters. 
+## DECISION MAKING LENS FOR ALLOCATORS Allocators navigating 202
+6 must evaluate their operational architecture through four filters. 
 -  Velocity: How fast can the institution validate, structure, and deploy capital. 
 -  Precision: How accurate are the underlying models that govern decision making. 
 -  Integrity: How traceable and auditable are the workflows. 

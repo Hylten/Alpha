@@ -30,7 +30,8 @@ Frictionless.
 
 Below is the internal briefing. 
 
-## PHASE 1 
+## PHASE 
+1 
 -  ## ## ## 
 
 ## Vault language only.
@@ -83,7 +84,8 @@ Those who remain manual will drift into irrelevance.
 
 Now we expand the mechanics. 
 
-## PHASE 2 
+## PHASE 
+2 
 -  PRINCIPAL VOICE Stated with clarity.
 
 Without apology.
@@ -128,7 +130,8 @@ Architecture endures.
 
 Deep analysis follows. 
 
-## PHASE 3 
+## PHASE 
+3 
 -  STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
 
 THE CORE DRIVERS OF AI‑CURATED SECONDARY MARKETS Private-market reporting is periodic.
@@ -239,22 +242,26 @@ HOW AI ELIMINATES HUMAN FRICTION IN SECONDARY EXECUTION The historical secondari
 
 4. Negotiation drag due to low trust Agentic infrastructure demolishes these frictions.
 
-Friction 1 
+Friction 
+1 
 -  Information AI dissolves opacity.
 
 The LP sees the fund’s real position, not the polished reports.
 
-Friction 2 
+Friction 
+2 
 -  Pricing AI simulates pricing across hundreds of historical analogs, volatility regimes, macro cycles, and compression phases.
 
 The LP enters negotiation with a battlefield map, not a guess.
 
-Friction 3 
+Friction 
+3 
 -  Buyer Discovery The AI already knows which buyers have complementary exposure, capital availability, and appetite.
 
 It matches counterparties with algorithmic precision.
 
-Friction 4 
+Friction 
+4 
 -  Trust When data accuracy is validated on both sides, negotiation ceases to be adversarial.
 
 Execution accelerates.

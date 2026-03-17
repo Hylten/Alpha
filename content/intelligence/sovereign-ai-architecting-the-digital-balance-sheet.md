@@ -30,7 +30,8 @@ This article outlines the trade architecture behind Sovereign AI, and why digita
 
 ## Crypto Capital Structuring for Institutional-Grade Digital Holders Crypto as collateral is now a legitimate asset class for structured Institutional Liquidity Paths, but it requires precision.
 
-Our threshold for engagement is a minimum of 2,000,000 dollars in digital assets.
+Our threshold for engagement is a minimum of 2,000,00
+0 dollars in digital assets.
 
 This is intentional.
 
@@ -51,7 +52,8 @@ This is critical in markets that punish emotional exits.
 
 ## Public Share Asset-Backed Frameworks for Large, Concentrated Positions For clients with significant public equity positions, liquidity extraction is an art.
 
-Our minimum threshold is 5,000,000 dollars in public shares.
+Our minimum threshold is 5,000,00
+0 dollars in public shares.
 
 Large concentrated positions often come with psychological and regulatory friction.
 
@@ -174,9 +176,11 @@ Roials-Alpha is building the infrastructure that sits under this future.
 
 We lend against private credit and Asset-Based Lending.
 
-We support crypto positions over 2,000,000 dollars.
+We support crypto positions over 2,000,00
+0 dollars.
 
-We support public share positions over 5,000,000 dollars.
+We support public share positions over 5,000,00
+0 dollars.
 
 Our clients do not chase liquidity.
 

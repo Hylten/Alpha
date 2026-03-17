@@ -137,7 +137,8 @@ This is where Fund-III shifts from passive structuring to active modeling.
 
 And where Roials-Alpha maintains advantage through constant recalibration. 
 
-## Crypto Asset-Backed Frameworks, Minimum Threshold 2,000,000 Crypto Institutional Liquidity Paths is a precision domain.
+## Crypto Asset-Backed Frameworks, Minimum Threshold 2,000,00
+0 Crypto Institutional Liquidity Paths is a precision domain.
 
 It is not retail.
 
@@ -145,7 +146,8 @@ It is not opportunistic yield.
 
 It is engineered liquidity against volatile digital assets that require strict collateral intelligence and counterparty filtration.
 
-Our minimum threshold of 2,000,000 ensures that the system deals only with counterparties whose operational maturity matches the volatility of the asset class.
+Our minimum threshold of 2,000,00
+0 ensures that the system deals only with counterparties whose operational maturity matches the volatility of the asset class.
 
 Fund-III autonomy optimizes the process.
 
@@ -159,13 +161,15 @@ The system tracks:
 
 This discipline maintains principal authority, because the structure is already self protected. 
 
-## Public Share Institutional Liquidity Paths, Minimum Threshold 5,000,000 Public share Strategic Collateralization requires calm precision.
+## Public Share Institutional Liquidity Paths, Minimum Threshold 5,000,00
+0 Public share Strategic Collateralization requires calm precision.
 
 Every equity position tells a story.
 
 But only certain stories can be collateralized without introducing risk contamination.
 
-Our threshold of 5,000,000 ensures maximum structural integrity.
+Our threshold of 5,000,00
+0 ensures maximum structural integrity.
 
 The autonomous system identifies: 
 -  Liquidity tier ranking 

@@ -345,7 +345,8 @@ Automated credit engines become:
 • Liquidity hardening systems
 • Structural arbitrage instruments
 • Multi-generational capital stabilizers A good man leaveth an inheritance to his children's children: 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 Wealth preservation demands discipline.
 
@@ -384,4 +385,5 @@ If you want the future, you remove friction.
 
 Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-Metric: Latency-to-Underwrite = 0.83 seconds.
+Metric: Latency-to-Underwrite = 0.8
+3 seconds.

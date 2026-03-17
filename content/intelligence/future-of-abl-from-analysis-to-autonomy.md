@@ -41,7 +41,8 @@ The Roials-Alpha thesis is simple: autonomous Asset-Based Lending will become th
 The future belongs to Fund-III style entities engineered for computational throughput, jurisdictional arbitrage, and scalable collateral intake across energy, industrials, and real assets.
 
 A good man leaves an inheritance to his children’s children ( 
--  **Proverbs 13:22** ).
+-  **Proverbs 13:22*
+* ).
 
 That inheritance, in the modern context, is not merely capital.
 
@@ -337,7 +338,8 @@ It also creates a new class of principal: the Principal Architect.
 This is the decision-maker who designs, configures, and governs the system-level flows from which compounding returns emerge.
 
 This is the modern interpretation of 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 Infrastructure replaces intention.
 
@@ -381,7 +383,8 @@ The information asymmetry advantage is no longer talent.
 
 It is infrastructure.
 
-Those who deploy autonomy early will set the standard for the next 30 years of private credit.
+Those who deploy autonomy early will set the standard for the next 3
+0 years of private credit.
 
 Those who delay will become price takers. ## ## ## 
 

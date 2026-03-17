@@ -82,7 +82,9 @@ Models perform:
 -  Borrower identity resolution 
 -  Sector classification 
 -  Predictive risk mapping 
--  Preliminary LTV band assignment This produces a standardized pre underwriting dossier that reduces human load by 60 to 90 percent depending on asset class.
+-  Preliminary LTV band assignment This produces a standardized pre underwriting dossier that reduces human load by 6
+0 to 9
+0 percent depending on asset class.
 
 Human underwriters retain authority.
 
@@ -166,7 +168,8 @@ It is the discipline of non wasteful resource allocation.
 Institutional capital that operates without stewardship generates systemic volatility.
 
 Stewardship applies to both resource based assets and capital based architectures. 
--  **Proverbs 13:22** defines stewardship as multi generational preparation.
+-  **Proverbs 13:22*
+* defines stewardship as multi generational preparation.
 
 In Asset-Backed Frameworks, this manifests as multi horizon calibration.
 

@@ -133,8 +133,10 @@ They are engineered systems, tailored to portfolios that already operate at scal
 We provide liquidity frameworks for individuals with significant exposure across:
 • Private credit assets
 • Complex business ownership positions
-• Public shares at or above the 5,000,000 minimum threshold
-• Crypto assets at or above the 2,000,000 minimum threshold
+• Public shares at or above the 5,000,00
+0 minimum threshold
+• Crypto assets at or above the 2,000,00
+0 minimum threshold
 • Hybrid alternative holdings These structures cannot be serviced by traditional lenders with manual processes.
 
 They require a mechanized approach.
@@ -205,7 +207,8 @@ This is the value layer Roials-Alpha quietly installs into their capital environ
 
 Roials-Alpha serves an entirely different profile.
 
-Our minimum threshold of 2,000,000 is intentional.
+Our minimum threshold of 2,000,00
+0 is intentional.
 
 Below that number, the asset behavior is too noisy for institutional integration.
 
@@ -225,7 +228,8 @@ It is treated as a computational signal source.
 
 For UHNW clients, this is a structural advantage that legacy private banks cannot replicate. 
 
-## Public Share Strategic Collateralization for Institutional Tier Individuals Public equities behave differently when position size enters the 5,000,000 threshold.
+## Public Share Strategic Collateralization for Institutional Tier Individuals Public equities behave differently when position size enters the 5,000,00
+0 threshold.
 
 Market impact matters.
 

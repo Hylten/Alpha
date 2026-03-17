@@ -111,7 +111,8 @@ AI-underwritten liquidity facilities continuously re-evaluate the asset’s path
 
 This allows for both stronger protection and more aggressive liquidity release. 
 
-## Crypto Asset-Backed Frameworks: Threshold 2,000,000 and Up The crypto markets are data dense.
+## Crypto Asset-Backed Frameworks: Threshold 2,000,00
+0 and Up The crypto markets are data dense.
 
 They produce far more signal input than any human team can absorb.
 
@@ -131,7 +132,8 @@ The system decides based on logic, not on market fear.
 
 That is the advantage of automated credit. 
 
-## Public Share Institutional Liquidity Paths: Threshold 5,000,000 Public equity Capital Structuring requires precision.
+## Public Share Institutional Liquidity Paths: Threshold 5,000,00
+0 Public equity Capital Structuring requires precision.
 
 Liquidity, volume, float, historical volatility, earnings cycles, sector rotations, synthetic short pressure.
 

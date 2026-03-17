@@ -147,9 +147,11 @@ The system handles the rest.
 
 Our minimum thresholds are clear.
 
-Crypto Institutional Liquidity Paths: Minimum threshold is 2 million dollars.
+Crypto Institutional Liquidity Paths: Minimum threshold is 
+2 million dollars.
 
-Public Share Monetization Architecture: Minimum threshold is 5 million dollars.
+Public Share Monetization Architecture: Minimum threshold is 
+5 million dollars.
 
 We are engineered for significant positions.
 
@@ -185,7 +187,8 @@ Think of what that means for major borrowers.
 
 Interest rates can be optimized to liquidity profiles. liquidity facility durations can be dynamically recalibrated.
 
-Collateral can be stress tested across 500 simulated futures in seconds.
+Collateral can be stress tested across 50
+0 simulated futures in seconds.
 
 And lenders can make decisions that are structurally superior to anything a traditional Asset-Based Lending facility can produce.
 

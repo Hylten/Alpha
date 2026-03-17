@@ -128,7 +128,9 @@ Teams do not scale.
 
 Graph engines do.
 
-Whether underwriting 10 or 10,000 SMEs, the marginal cost of intelligence remains flat.
+Whether underwriting 1
+0 or 10,00
+0 SMEs, the marginal cost of intelligence remains flat.
 
 This is the liberation point.
 
@@ -194,15 +196,18 @@ Phase Four: The AI-First Credit Engine The ultimate state is full agentic underw
 
 This requires three structural pillars: 
 
-1. **The ingestion spine.** The engine absorbs diverse data streams-internal and external-without forcing schema conformity.
+1. **The ingestion spine.*
+* The engine absorbs diverse data streams-internal and external-without forcing schema conformity.
 
 Elastic ingestion preserves nuance. 
 
-2. **The feature lattice.** The graph expands into thousands of micro-features that evolve continuously.
+2. **The feature lattice.*
+* The graph expands into thousands of micro-features that evolve continuously.
 
 New signal clusters form automatically when the system detects statistically meaningful correlations. 
 
-3. **The decision core.** A multi-model ensemble-graph neural nets, behavioral anomaly detectors, probabilistic risk engines-delivers verdicts that update continuously, not quarterly.
+3. **The decision core.*
+* A multi-model ensemble-graph neural nets, behavioral anomaly detectors, probabilistic risk engines-delivers verdicts that update continuously, not quarterly.
 
 This is underwriting that breathes.
 

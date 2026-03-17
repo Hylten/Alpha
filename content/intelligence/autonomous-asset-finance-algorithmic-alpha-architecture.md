@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "autonomous-asset-finance-algorithmic-alpha-architecture"
 --- 
 
-The capital vacuum defining the 2026 private credit landscape is not the result of a shortage of opportunities.
+The capital vacuum defining the 202
+6 private credit landscape is not the result of a shortage of opportunities.
 
 It is the consequence of a structural lag in human mediated underwriting relative to the speed of modern asset data flows.
 
@@ -18,7 +19,9 @@ It is sourced through repeatable computational regimes that map asset behavior w
 
 The transition is accelerating because the traditional private credit architecture was never designed for the current velocity of asset level data.
 
-Underwriting cycles of 60 to 120 days, partner committees, and document heavy closings built for the 1990s cannot keep pace with real time telemetry from machinery, production assets, land systems, collateral sensors, and supply chain monitoring tools.
+Underwriting cycles of 6
+0 to 12
+0 days, partner committees, and document heavy closings built for the 1990s cannot keep pace with real time telemetry from machinery, production assets, land systems, collateral sensors, and supply chain monitoring tools.
 
 The result is a structural wedge between asset performance and capital access.
 
@@ -178,7 +181,8 @@ The allocator gains clarity and removes the speculation layer inherent in opaque
 3. Align with partners who operate with institutional discipline.
 
 Roials Capital applies 
--  **Proverbs 13:22** as a governance principle.
+-  **Proverbs 13:22*
+* as a governance principle.
 
 A well designed capital system should preserve and extend value across generations.
 

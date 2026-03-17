@@ -21,7 +21,8 @@ Cold.
 Precise.
 
 Sovereign by design. 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 The strategic frontier is not autonomous infrastructure.
 
@@ -345,7 +346,8 @@ Strategic Doctrine: The institution must:
 -  Convert latency into arbitrage. 
 -  Convert chaos into flow.
 
-This is the sovereign doctrine. **Proverbs 13:22** .
+This is the sovereign doctrine. **Proverbs 13:22*
+* .
 
 Deal Flow autonomous infrastructure: Manual sourcing collapses under competitive load.
 

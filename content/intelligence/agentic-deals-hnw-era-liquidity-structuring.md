@@ -19,7 +19,8 @@ Autonomous.
 Frictionless.
 
 The firms that master high‑frequency liquidity structuring will govern the next chapter of private capital flow. 
--  **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children.
+-  **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children.
 
 In modern capital architecture, inheritance is not wealth.
 
@@ -264,7 +265,8 @@ This sovereignty is the new inheritance.
 Families that fail to build it will become liquidity takers.
 
 Families that build it will become liquidity generators. 
--  **Proverbs 13:22** echoes again: long-term inheritance is infrastructure.
+-  **Proverbs 13:22*
+* echoes again: long-term inheritance is infrastructure.
 
 Systems.
 

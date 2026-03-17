@@ -122,7 +122,8 @@ Opportunities remain actionable.
 
 And capital behaves like an extension of their operating ecosystem, not an administrative obstacle. 
 
-## Crypto Capital Structuring for Mature Operators Only Roials‑Alpha sets a minimum threshold of 2,000,000 USD for crypto‑backed Asset-Backed Frameworks.
+## Crypto Capital Structuring for Mature Operators Only Roials‑Alpha sets a minimum threshold of 2,000,00
+0 USD for crypto‑backed Asset-Backed Frameworks.
 
 This is intentional.
 
@@ -144,7 +145,8 @@ This is not algorithmic speculation.
 
 It is controlled collateral intelligence for serious operators. 
 
-## Public Share Asset-Backed Frameworks With Institutional Precision Minimum threshold: 5,000,000 USD.
+## Public Share Asset-Backed Frameworks With Institutional Precision Minimum threshold: 5,000,00
+0 USD.
 
 The public equities domain is fast.
 

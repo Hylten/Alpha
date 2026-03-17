@@ -24,7 +24,9 @@ Origination, due diligence, risk grading, credit modeling, and operational monit
 
 These filters created structural bottlenecks in opportunity velocity, particularly for private credit and hard asset sectors.
 
-The 2024 to 2026 cycle introduced a new operating reality.
+The 202
+4 to 202
+6 cycle introduced a new operating reality.
 
 Multi jurisdictional allocators face: 
 -  Record high capital seeking yield protected structures. 
@@ -55,7 +57,9 @@ Capital is no longer constrained by the bandwidth of mid level analysts.
 
 It is constrained only by the quality of data pipelines and the precision of algorithmic frameworks.
 
-The result is a regime where allocators with agentic intelligence stacks can process 10 to 30 times more deal flow, with superior risk filtration and materially faster execution cycles.
+The result is a regime where allocators with agentic intelligence stacks can process 1
+0 to 3
+0 times more deal flow, with superior risk filtration and materially faster execution cycles.
 
 Private credit, infrastructure, energy, and real asset categories all show similar patterns.
 
@@ -194,7 +198,8 @@ Stewardship in this context includes:
 -  Avoiding jurisdictional exposures not grounded in compliance realism.
 
 The Theology of Capital aligns with 
--  **Proverbs 13:22** , which frames capital as a multi generational resource that must be deployed with responsibility.
+-  **Proverbs 13:22*
+* , which frames capital as a multi generational resource that must be deployed with responsibility.
 
 Agentic systems support this discipline by ensuring that capital is governed by evidence rather than sentiment.
 
@@ -202,7 +207,8 @@ When allocators apply the stewardship filter, they remove noise, increase resili
 
 This applies equally to energy, credit, real assets, and cross border portfolios. ## ## 
 
-## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 2026 regime must evaluate opportunities through five lenses: 
+## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 202
+6 regime must evaluate opportunities through five lenses: 
 -  Structural positioning.
 
 Whether the asset sits within a jurisdiction or sector experiencing structural mispricing. 

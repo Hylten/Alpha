@@ -22,9 +22,11 @@ We engineer the structural mechanics that institutions later replicate.
 
 ## The Asset-Based Lending Universe We Operate In Our model is built specifically for high value collateral categories.
 
-Crypto Strategic Collateralization begins at 2 million.
+Crypto Strategic Collateralization begins at 
+2 million.
 
-Public Share Strategic Collateralization begins at 5 million.
+Public Share Strategic Collateralization begins at 
+5 million.
 
 These tiers are intentional.
 

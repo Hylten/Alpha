@@ -79,7 +79,8 @@ The advantage is structural. # ##
 
 1. Continuous intelligence The system never turns off.
 
-If a founder updates a job post at 3 AM, the system logs it, tags it, and enriches it.
+If a founder updates a job post at 
+3 AM, the system logs it, tags it, and enriches it.
 
 If a company opens a new data center, the signal is processed instantly.
 

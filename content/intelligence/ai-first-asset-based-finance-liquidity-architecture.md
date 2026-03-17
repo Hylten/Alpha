@@ -95,7 +95,8 @@ Assets power liquidity algorithms.
 
 Old finance asks: What is the collateral worth today?
 
-AI-first finance asks: What can the collateral *become* when probability is optimized?
+AI-first finance asks: What can the collateral *become
+* when probability is optimized?
 
 This is the institutional delta.
 
@@ -139,7 +140,8 @@ Institutions shift from takers of structure to creators of structure.
 
 This is the sovereign posture.
 
-Private credit markets have inflated to over $2.4 trillion globally.
+Private credit markets have inflated to over $2.
+4 trillion globally.
 
 Yet underwriting remains fundamentally analog.
 
@@ -165,7 +167,9 @@ Rate curves pegged to live collateral health.
 
 The architecture collapses time.
 
-Deals that once took 60 days compress to 60 minutes.
+Deals that once took 6
+0 days compress to 6
+0 minutes.
 
 Machine gun tempo.
 
@@ -232,7 +236,8 @@ Suggests alternative domiciles.
 Moves credit exposure from high-tax zones to efficient corridors.
 
 Portfolio shifts from reactive to anticipatory. 
--  **Proverbs 13:22** : wealth inherits across generations when structure precedes opportunity.
+-  **Proverbs 13:22*
+* : wealth inherits across generations when structure precedes opportunity.
 
 The architecture treats wealth as a system.
 
@@ -270,7 +275,8 @@ The office becomes a computational organism.
 
 The yield shift is quantifiable.
 
-AI-first credit structures routinely outperform traditional private credit by 80-180 bps because machine underwriting captures nuance.
+AI-first credit structures routinely outperform traditional private credit by 80-18
+0 bps because machine underwriting captures nuance.
 
 Asset risk bands tighten.
 
@@ -484,7 +490,8 @@ Digital assets become collateral overlays.
 Jurisdictional arbitrage becomes default posture.
 
 AI-first underwriting becomes the spine of the system. 
--  **Proverbs 13:22** applies: the good father leaves inheritance.
+-  **Proverbs 13:22*
+* applies: the good father leaves inheritance.
 
 But the sovereign architect leaves infrastructure.
 

@@ -155,7 +155,8 @@ It includes:
 -  Eliminating discretionary drift 
 -  Reinforcing asset resilience 
 -  Replacing sentiment with evidence Theological references describe this as the duty to preserve and multiply resources with integrity. 
--  **Proverbs 13:22** outlines the long horizon view of capital continuity.
+-  **Proverbs 13:22*
+* outlines the long horizon view of capital continuity.
 
 The agentic architecture strengthens the technical foundations required to fulfill this mandate at institutional scale. ## ## 
 

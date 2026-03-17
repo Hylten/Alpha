@@ -32,7 +32,8 @@ Precision compounds.
 
 This is the brief. ## 
 
-## PHASE 1 
+## PHASE 
+1 
 -  ## ## 
 
 ## Vault-secured.
@@ -215,7 +216,8 @@ Exception governance handles:
 -  Macroeconomic shocks 
 -  Structural renegotiation This layer is the safety valve, the institutional bracing, the control tower that allows machine logic and human governance to coexist without conflict. ## 
 
-## PHASE 2 
+## PHASE 
+2 
 -  PRINCIPAL VOICE The Principal states.
 
 The Principal does not justify.
@@ -260,7 +262,8 @@ Consequence.
 
 The architecture stands. ## 
 
-## PHASE 3 
+## PHASE 
+3 
 -  ## 
 
 ## INTERNAL BYPASS Sovereign syntax variation.

@@ -146,7 +146,8 @@ Excess leverage is excluded because it violates the principle of responsible cap
 -  Resource efficiency Capital is deployed only where operational efficiency is demonstrable.
 
 This aligns with the principle from 
--  **Proverbs 13:22** which emphasizes generational sustainability over short term extraction. 
+-  **Proverbs 13:22*
+* which emphasizes generational sustainability over short term extraction. 
 -  Governance transparency Agentic credit systems generate immutable decision trails.
 
 Allocators can audit every assumption embedded in the underwriting logic.

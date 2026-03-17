@@ -160,13 +160,15 @@ Not only operational waste in energy fields, but analytical waste in capital mar
 -  Alignment with long horizon decision structures.
 
 AI becomes a tool for sustaining intergenerational capital architecture rather than accelerating short term extraction. 
--  **Proverbs 13:22** articulates this ethos: A good man leaves an inheritance to his children's children.
+-  **Proverbs 13:22*
+* articulates this ethos: A good man leaves an inheritance to his children's children.
 
 The allocator's responsibility extends beyond the capital deployed to the structure through which capital is deployed.
 
 Sovereign AI strengthens the allocator's stewardship by enabling clean decision architecture. ## ## 
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator navigating the 2026 landscape is confronted with a bifurcation.
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator navigating the 202
+6 landscape is confronted with a bifurcation.
 
 On one side is traditional deal flow, manual underwriting, and relationship driven opportunity sourcing.
 

@@ -247,9 +247,11 @@ Truth.
 
 ## Institutional Thresholds To maintain structural discipline, thresholds are nonnegotiable.
 
-Crypto-backed credit requires 2 million minimum.
+Crypto-backed credit requires 
+2 million minimum.
 
-Publicly traded shares require 5 million minimum.
+Publicly traded shares require 
+5 million minimum.
 
 These floors ensure that intelligence density remains high and volatility remains manageable.
 

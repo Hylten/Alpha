@@ -43,7 +43,8 @@ Credit envelopes that flex, shrink, or expand with machine precision.
 The result: a liquidity engine that functions like an internal central bank for the portfolio-discretionary, anticipatory, and structurally insulated from human latency.
 
 A good man leaves an inheritance to his children's children. 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 The architecture must therefore compound, extend, and shield.
 
@@ -228,7 +229,8 @@ Portfolio continuity is preserved.
 Capital rotation becomes infinite.
 
 Dynasty secured. 
--  **Proverbs 13:22** activated. 
+-  **Proverbs 13:22*
+* activated. 
 
 ## JURISDICTIONAL ARBITRAGE: WHERE AGENTIC LIQUIDITY WINS Most institutions overlook the structural arbitrage unlocked by AI‑driven Asset-Based Lending.
 
@@ -363,7 +365,8 @@ The question is how aggressively.
 This is the generational pivot.
 
 The dynasty moment. 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 Consolidate assets.
 

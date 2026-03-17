@@ -128,11 +128,13 @@ Everything is executed under principal authority.
 
 If you operate in Asset-Based Lending and require Strategic Collateralization that reacts faster than your acquisition pipeline, our system is built for you. 
 
-## Crypto Institutional Liquidity Paths with a 2 Million Minimum Crypto is not a speculative event for us.
+## Crypto Institutional Liquidity Paths with a 
+2 Million Minimum Crypto is not a speculative event for us.
 
 It is a balance sheet instrument.
 
-We lend against crypto positions with a strict minimum threshold of 2 million.
+We lend against crypto positions with a strict minimum threshold of 
+2 million.
 
 This eliminates low velocity traffic and preserves the institutional profile of our ecosystem.
 
@@ -145,11 +147,13 @@ The AI layer evaluates:
 
 The result is high grade Asset-Backed Frameworks with deep stability. 
 
-## Public Share Capital Structuring with a 5 Million Minimum Large public equity blocks require silent handling.
+## Public Share Capital Structuring with a 
+5 Million Minimum Large public equity blocks require silent handling.
 
 The wrong lender creates unnecessary market optics.
 
-Roials Alpha lends against public share holdings beginning at 5 million.
+Roials Alpha lends against public share holdings beginning at 
+5 million.
 
 This maintains the quality of our ledger and the privacy of our partners.
 
@@ -316,8 +320,10 @@ They are foundational to us.
 -  Institutional grade asset modeling. 
 -  Institutional Liquidity Paths against private credit. 
 -  Asset-Backed Frameworks against Asset-Based Lending portfolios. 
--  Crypto Asset-Backed Frameworks with a 2 million minimum. 
--  Public share Strategic Collateralization with a 5 million minimum.
+-  Crypto Asset-Backed Frameworks with a 
+2 million minimum. 
+-  Public share Strategic Collateralization with a 
+5 million minimum.
 
 We are a capital infrastructure, not a platform.
 

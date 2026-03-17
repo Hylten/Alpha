@@ -33,7 +33,8 @@ Underwriting becomes pattern‑weighted.
 Collateralization becomes perpetual.
 
 Default risk becomes a time-series, not an event. 
--  **Proverbs 13:22** : Good man.
+-  **Proverbs 13:22*
+* : Good man.
 
 Inheritance.
 

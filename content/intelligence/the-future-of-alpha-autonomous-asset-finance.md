@@ -149,7 +149,8 @@ Where liquidity becomes a strategic accelerant.
 
 Our approach is engineered for UHNW-grade collateral, not market speculation.
 
-Minimum threshold: 2 million dollars.
+Minimum threshold: 
+2 million dollars.
 
 This is intentional.
 
@@ -181,7 +182,8 @@ Not because the assets lack value, but because traditional lenders lack velocity
 
 Roials-Alpha corrects this.
 
-Minimum threshold: 5 million dollars.
+Minimum threshold: 
+5 million dollars.
 
 At this level, the liquidity conversation changes.
 

@@ -18,7 +18,8 @@ Alpha generation is increasingly a computational function rather than a discreti
 
 ## THE REGIME SHIFT
 
- Institutional alpha in 2026 is no longer centered on origination networks or proprietary access.
+ Institutional alpha in 202
+6 is no longer centered on origination networks or proprietary access.
 
 The competitive frontier moved toward algorithmic deal flow, cross market signal extraction, and balance sheet optimization executed at sub human latency.
 
@@ -150,7 +151,8 @@ Capital with high stewardship discipline becomes multiplicative.
 Three stewardship pillars guide the institutional framework: 
 
 1. Non wasteful deployment Capital is allocated only into environments where operational intelligence is sufficient to predict asset behavior with precision. 
--  **Proverbs 13:22** emphasizes generational resource preservation.
+-  **Proverbs 13:22*
+* emphasizes generational resource preservation.
 
 Stewardship aligns with rigorous selection logic that protects capital from misallocation. 
 

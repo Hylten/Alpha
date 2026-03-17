@@ -303,7 +303,8 @@ It maintains clean underwriting integrity.
 
 The result is liquidity that behaves like infrastructure. 
 
-## Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000,000 can function as high velocity collateral.
+## Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000,00
+0 can function as high velocity collateral.
 
 They are volatile, which means manual Strategic Collateralization is inefficient. autonomous infrastructure solves this by monitoring real time volatility and adjusting collateral balance dynamically.
 
@@ -313,7 +314,8 @@ Only at scale.
 
 Only when the autonomous infrastructure layer controls the timing. 
 
-## Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000,000 enables leverage loops that smaller portfolios cannot sustain.
+## Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000,00
+0 enables leverage loops that smaller portfolios cannot sustain.
 
 We engineer automated Capital Structuring against these positions.
 

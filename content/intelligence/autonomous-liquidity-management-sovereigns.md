@@ -8,7 +8,8 @@ slug: "autonomous-liquidity-management-sovereigns"
 
 The capital vacuum in North America’s energy sector is a regulatory artifact, not a resource constraint.
 
-Sovereign allocators evaluating liquidity independence in 2026 are operating within a structural bifurcation.
+Sovereign allocators evaluating liquidity independence in 202
+6 are operating within a structural bifurcation.
 
 On one side is an oversupplied global capital system weighted toward low conviction ESG mandates.
 
@@ -51,7 +52,9 @@ The mechanics fall into four primary domains.
 
 1. Algorithmic Underwriting Cores Advanced AI underwriting engines operate on structured data sets that include seismic profiles, historical production, injection ratios, water cut progression, and thermal performance indicators for SAGD and CSS systems.
 
-The engines evaluate real time reservoir behavior and map deliverability curves across 12 to 60 month horizons.
+The engines evaluate real time reservoir behavior and map deliverability curves across 1
+2 to 6
+0 month horizons.
 
 These models generate a live Loan to Value (LTV) curve with automated adjustments based on:
 • pressure sustainment
@@ -60,7 +63,9 @@ These models generate a live Loan to Value (LTV) curve with automated adjustment
 • decline smoothness
 • reservoir conformance trends In Alberta’s heavy oil fields, SAGD and CSS systems produce some of the most predictable long term profiles in global upstream markets.
 
-Thermal wells have a recovery factor profile that can extend 20 to 30 years depending on reservoir thickness and thermal efficiency.
+Thermal wells have a recovery factor profile that can extend 2
+0 to 3
+0 years depending on reservoir thickness and thermal efficiency.
 
 Institutional allocators value this because it minimizes stochastic variance.
 
@@ -139,7 +144,8 @@ It is the discipline of aligning capital with assets that preserve national stab
 Sovereigns adopt these architectures not for yield maximization but for liquidity sovereignty and resilience.
 
 The operational core is grounded in principles articulated across theological traditions including the resource management ethic of 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 This filter ensures that capital allocation avoids waste, supports productive real assets, and maintains transparent alignment between resource flows and societal obligations.
 

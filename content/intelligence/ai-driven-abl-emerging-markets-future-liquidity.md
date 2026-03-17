@@ -24,7 +24,8 @@ Emerging markets contain the highest concentration of under leveraged hard asset
 
 These include inventory systems, receivable books, industrial equipment, logistics chains, agricultural storage, and pre export contract flows.
 
-Yet more than 60 percent of these assets remain outside institutional lending channels due to documentation fragmentation and evidence risk.
+Yet more than 6
+0 percent of these assets remain outside institutional lending channels due to documentation fragmentation and evidence risk.
 
 AI first credit architecture reverses this dynamic.
 
@@ -129,7 +130,8 @@ This preserves neutrality while maximizing strategic clarity. ## ##
 It is a principle rooted in clarity, not speculation.
 
 The Theology of Capital frames stewardship as the intelligent and responsible allocation of resources, consistent with 
--  **Proverbs 13:22** which highlights generational responsibility.
+-  **Proverbs 13:22*
+* which highlights generational responsibility.
 
 AI driven Asset-Based Lending enhances stewardship by eliminating the opacity that historically impaired responsible lending.
 

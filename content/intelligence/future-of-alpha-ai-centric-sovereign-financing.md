@@ -8,7 +8,8 @@ slug: "future-of-alpha-ai-centric-sovereign-financing"
 
 The structural gap in global capital markets is no longer defined by geography or commodity cycles.
 
-The defining asymmetry in 2026 is the widening divide between machine governed allocation architecture and human governed allocation heuristics.
+The defining asymmetry in 202
+6 is the widening divide between machine governed allocation architecture and human governed allocation heuristics.
 
 Sovereign entities, family offices, and institutional LPs are repositioning away from discretionary decision paths and toward deterministic, rules based credit architectures where algorithmic validation replaces human interpretation.
 
@@ -128,7 +129,8 @@ Stewardship is not a moral abstraction.
 It is the management of resources without waste.
 
 It requires clarity, order, and measured deployment. 
--  **Proverbs 13:22** establishes stewardship as multi generational capital architecture, and AI centric systems reinforce this discipline by eliminating emotional drift from capital allocation.
+-  **Proverbs 13:22*
+* establishes stewardship as multi generational capital architecture, and AI centric systems reinforce this discipline by eliminating emotional drift from capital allocation.
 
 The stewardship filter consists of three evaluative dimensions. 
 
@@ -148,7 +150,8 @@ They rely on alignment, calibration, and deterministic execution.
 
 Stewardship becomes an operating principle rather than an aspirational ideal. ## ## 
 
-## PORTFOLIO CALIBRATION LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must assess every deployment decision through an AI centric framework rather than a traditional credit framework.
+## PORTFOLIO CALIBRATION LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 202
+6 must assess every deployment decision through an AI centric framework rather than a traditional credit framework.
 
 The following calibration lens provides the necessary evaluative structure. 
 

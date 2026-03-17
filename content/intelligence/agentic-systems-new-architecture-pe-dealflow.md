@@ -33,7 +33,8 @@ A new architecture where principal intelligence is embedded, not delegated.
 Where the firm becomes a system, not a hierarchy.
 
 Where dealflow becomes computable. 
--  **Proverbs 13:22** speaks: A good man leaves an inheritance to his children’s children.
+-  **Proverbs 13:22*
+* speaks: A good man leaves an inheritance to his children’s children.
 
 Capital permanence.
 
@@ -578,7 +579,8 @@ Over time, the agentic architecture becomes the principal’s institutional lega
 A durable form of inheritance.
 
 As 
--  **Proverbs 13:22** instructs.
+-  **Proverbs 13:22*
+* instructs.
 
 The new architecture of PE dealflow hinges on five mandates.
 

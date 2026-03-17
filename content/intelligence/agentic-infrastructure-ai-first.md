@@ -159,7 +159,8 @@ End to end autonomy.
 
 This layer replaces manual intervention.
 
-It replaces 70 percent of routine operations.
+It replaces 7
+0 percent of routine operations.
 
 It eliminates the bottleneck of human interpretation.
 

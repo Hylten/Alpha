@@ -12,7 +12,8 @@ The market did not become inefficient because capital withdrew.
 
 It became inefficient because the operating architecture responsible for deploying capital failed to maintain velocity.
 
-In 2026 the highest performing allocators are not faster.
+In 202
+6 the highest performing allocators are not faster.
 
 They are architecturally cleaner.
 
@@ -36,7 +37,8 @@ It is structural. ##
 
 1. Structural dislocation in private credit.
 
-Regulatory adjustments since 2020 created compression in bank level balance sheet deployment.
+Regulatory adjustments since 202
+0 created compression in bank level balance sheet deployment.
 
 This generated a multi trillion dollar vacuum in mid market, asset backed, and infrastructure oriented credit objects.
 
@@ -183,7 +185,8 @@ The allocator evaluates whether the systems architecture protects capital from a
 Efficient architecture reduces slippage.
 
 Slippage is waste. 
--  **Proverbs 13:22** establishes the generational logic of capital management.
+-  **Proverbs 13:22*
+* establishes the generational logic of capital management.
 
 Systems reduce generational drift. 
 
@@ -229,7 +232,8 @@ It is system calibration.
 
 A frictionless system is not a luxury.
 
-It is a requirement for allocators navigating the complexity of 2026 capital markets.
+It is a requirement for allocators navigating the complexity of 202
+6 capital markets.
 
 The institutional archetype is shifting.
 

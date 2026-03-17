@@ -48,7 +48,9 @@ Large scale platforms deployed generic underwriting templates and compensated fo
 
 Operational insight remained shallow because deal flow outpaced analytical depth.
 
-Stage Three. 2020 to 2024 volatility regime.
+Stage Three. 202
+0 to 202
+4 volatility regime.
 
 Volatility in commodities, supply chain disruptions, and inconsistent global monetary policy exposed the structural weaknesses of legacy underwriting.
 
@@ -56,7 +58,8 @@ Slow verification cycles and insufficient operational intelligence created valua
 
 Many allocators discovered that their risk assessment frameworks were reactive rather than anticipatory.
 
-Stage Four. 2025 onward computational credit.
+Stage Four. 202
+5 onward computational credit.
 
 The convergence of AI-native underwriting, autonomous monitoring, and agentic deal sourcing created the first genuine regime shift in private credit since the GFC.
 
@@ -203,7 +206,8 @@ This creates both opportunity and risk.
 Stewardship requires that capital be deployed where it can be monitored, supported, and recovered with discipline.
 
 Agentic systems reduce uncertainty, but they do not replace the principle that capital should be managed with clarity of purpose. 
--  **Proverbs 13:22** defines the long term orientation that underpins disciplined financial decision making.
+-  **Proverbs 13:22*
+* defines the long term orientation that underpins disciplined financial decision making.
 
 Stewardship translates this into operational reality through three filters.
 
@@ -237,7 +241,8 @@ Agentic surveillance systems reinforce this resilience by providing anticipatory
 
 ## PHASE 
 
-5. DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 2026 faces a bifurcated landscape.
+5. DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 202
+6 faces a bifurcated landscape.
 
 On one side are legacy underwriting processes that rely on human sequential analysis, delayed reporting, and fragmented operational data.
 

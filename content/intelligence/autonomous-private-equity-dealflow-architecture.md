@@ -17,7 +17,8 @@ This shift defines the current environment for UHNWIs, family offices, and insti
  The private market landscape is transitioning from relationship driven sourcing to machine assisted structural mapping.
 
 The traditional advantage of sponsor visibility has been diluted by three macro level forces: 
--  Capital displacement from regional banking due to post 2020 regulatory recalibration. 
+-  Capital displacement from regional banking due to post 202
+0 regulatory recalibration. 
 -  The migration of high quality operators into non bank financing ecosystems. 
 -  Increased fragmentation of asset holders who lack structured introductions to [institutional capital]([Roials Capital](https://roialscapital.com/)).
 
@@ -29,7 +30,8 @@ What has diminished is the reliability of human mediated discovery.
 
 Family offices report rising costs per actionable opportunity and an escalation of diligence burden.
 
-Institutional allocators indicate that less than 4 percent of inbound dealflow meets threshold viability.
+Institutional allocators indicate that less than 
+4 percent of inbound dealflow meets threshold viability.
 
 The landscape rewards systems capable of reducing noise density, identifying pattern anomalies, and classifying operator quality through probabilistic scoring instead of narrative driven representation.
 
@@ -122,11 +124,13 @@ The stewardship filter follows four principles:
 -  Recognition that opportunity cost is a material liability.
 
 This aligns with the theology of capital exemplified in 
--  **Proverbs 13:22** which defines wealth not as accumulation but as intergenerational responsibility.
+-  **Proverbs 13:22*
+* which defines wealth not as accumulation but as intergenerational responsibility.
 
 Autonomous filtration amplifies this responsibility by ensuring that capital is allocated to structurally coherent opportunities rather than narrative driven speculation. ## ## 
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 2026 private markets require clarity, not volume.
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 202
+6 private markets require clarity, not volume.
 
 The institutionally aligned strategy involves integrating autonomous dealflow architecture into the evaluation process to reduce noise, accelerate decision cycles, and enhance governance reliability.
 

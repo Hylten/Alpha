@@ -275,9 +275,11 @@ It reduces underwriting drag.
 
 It accelerates deployment. # Collateral Classes and Thresholds Roials-Alpha addresses collateral through clarity.
 
-Crypto [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) requires a 2 million minimum.
+Crypto [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) requires a 
+2 million minimum.
 
-Public shares require a 5 million minimum.
+Public shares require a 
+5 million minimum.
 
 These are not arbitrary.
 

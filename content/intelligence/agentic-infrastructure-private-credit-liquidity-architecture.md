@@ -27,7 +27,8 @@ The frontier is agentic autonomy: credit systems that move without human drag.
 Credit engines that interpret risk faster than counterparties can articulate it.
 
 Liquidity frameworks that harden the wealth stack of HNWI and UHNW families through velocity, not leverage. 
--  **Proverbs 13:22** states: A good man leaves an inheritance to his children's children.
+-  **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children's children.
 
 The modern translation for principal-class operators is simple.
 
@@ -383,7 +384,8 @@ Power fuels execution.
 Execution fuels legacy.
 
 This is the modern reading of 
--  **Proverbs 13:22** : build systems that survive your own generation. 
+-  **Proverbs 13:22*
+* : build systems that survive your own generation. 
 -  
 -  
 -  Oil and gas operators, manufacturing groups, logistics firms, real-asset families, and land-heavy enterprises require credit partners who understand their tempo.
@@ -451,6 +453,7 @@ Agentic credit infrastructure does not enhance private credit.
 
 It replaces it.
 
-End Metric: 0.87 Portfolio Risk Compression Ratio.
+End Metric: 0.8
+7 Portfolio Risk Compression Ratio.
 
 To advance the architecture, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

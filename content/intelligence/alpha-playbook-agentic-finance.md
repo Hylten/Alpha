@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "alpha-playbook-agentic-finance"
 --- 
 
-The structural gap defining the 2026 capital markets is not volatility.
+The structural gap defining the 202
+6 capital markets is not volatility.
 
 It is the absence of standardized intelligence workflows.
 
@@ -151,7 +152,8 @@ Time is scarcer.
 The allocator that manages both with precision demonstrates stewardship.
 
 This aligns with the principle in 
--  **Proverbs 13:22** which establishes the multi generational responsibility of capital custodianship.
+-  **Proverbs 13:22*
+* which establishes the multi generational responsibility of capital custodianship.
 
 The stewardship filter evaluates: 
 -  waste in operational workflows 

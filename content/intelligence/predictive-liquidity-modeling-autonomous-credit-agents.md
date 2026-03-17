@@ -76,7 +76,8 @@ They filter out the noise.
 
 They learn.
 
-They run 24 hours without fatigue or cognitive drift.
+They run 2
+4 hours without fatigue or cognitive drift.
 
 They maintain the integrity of the signal.
 
@@ -193,7 +194,9 @@ Predictive modeling is structural inference.
 
 The model does not guess; it identifies causal signals that precede liquidity displacement.
 
-Example: Payables stretch from 37 days to 42 days.
+Example: Payables stretch from 3
+7 days to 4
+2 days.
 
 Legacy analysts shrug.
 

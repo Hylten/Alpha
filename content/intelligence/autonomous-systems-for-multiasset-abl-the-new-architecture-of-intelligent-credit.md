@@ -85,7 +85,8 @@ This is alpha extraction through computational discipline.
 
 It also provides complexity.
 
-The minimum threshold of 2,000,000 ensures that the system operates at institutional depth rather than retail noise.
+The minimum threshold of 2,000,00
+0 ensures that the system operates at institutional depth rather than retail noise.
 
 The autonomous engine handles the variables:
 • On chain liquidity conditions
@@ -98,7 +99,8 @@ The autonomous engine handles the variables:
 
 Their tempo is slower but their drift is more structurally correlated.
 
-Thresholds above 5,000,000 allow the system to operate at the scale where noise is filtered and real signals emerge.
+Thresholds above 5,000,00
+0 allow the system to operate at the scale where noise is filtered and real signals emerge.
 
 The autonomous layer monitors:
 • Order book depth

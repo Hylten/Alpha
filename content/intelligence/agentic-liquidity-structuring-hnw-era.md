@@ -134,7 +134,8 @@ Principles include:
 -  Covenant aligned structuring 
 -  Accurate representation of risk 
 -  Long horizon decision frameworks Stewardship aligns with 
--  **Proverbs 13:22** and establishes the ethical baseline for sophisticated capital engagement.
+-  **Proverbs 13:22*
+* and establishes the ethical baseline for sophisticated capital engagement.
 
 High velocity systems require greater discipline, not less.
 

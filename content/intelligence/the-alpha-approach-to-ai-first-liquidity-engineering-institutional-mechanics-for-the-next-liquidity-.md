@@ -96,7 +96,8 @@ We build bespoke credit mechanics that match the geometry of the asset.
 
 This is what differentiates institutional grade Asset-Based Lending from retail grade Strategic Collateralization. 
 
-## Crypto Monetization Architecture for Sophisticated Positions Minimum Threshold: 2,000,000 USD Crypto liquidity is often volatile, inefficient, and poorly underwritten in mainstream Strategic Collateralization channels.
+## Crypto Monetization Architecture for Sophisticated Positions Minimum Threshold: 2,000,00
+0 USD Crypto liquidity is often volatile, inefficient, and poorly underwritten in mainstream Strategic Collateralization channels.
 
 Most lenders fear it.
 
@@ -124,7 +125,8 @@ We are not the lender for everyone.
 
 We are the lender for portfolios that matter. 
 
-## Public Share Strategic Collateralization for Controlled Liquidity Extraction Minimum Threshold: 5,000,000 USD Public share Asset-Backed Frameworks requires precision.
+## Public Share Strategic Collateralization for Controlled Liquidity Extraction Minimum Threshold: 5,000,00
+0 USD Public share Asset-Backed Frameworks requires precision.
 
 A sloppy structure can destroy value.
 
@@ -186,13 +188,17 @@ It is the new default for anyone who has crossed into financial significance.
 
 ## Inside the Roials Alpha Strategic Collateralization Architecture A High Level Look at the Technology Stack Our computation stack operates across four layers. # 
 
-## Layer 1 Asset Modeling Engine Transforms collateral into a multidimensional data object. # 
+## Layer 
+1 Asset Modeling Engine Transforms collateral into a multidimensional data object. # 
 
-## Layer 2 Risk Geometry Engine Evaluates stability, drift, and liquidation mechanics. # 
+## Layer 
+2 Risk Geometry Engine Evaluates stability, drift, and liquidation mechanics. # 
 
-## Layer 3 Liquidity Extraction Engine Calculates Monetization Architecture parameters with precision tuned spreads. # 
+## Layer 
+3 Liquidity Extraction Engine Calculates Monetization Architecture parameters with precision tuned spreads. # 
 
-## Layer 4 Protective Enforcement Engine Ensures asset integrity under all market conditions.
+## Layer 
+4 Protective Enforcement Engine Ensures asset integrity under all market conditions.
 
 Each layer functions independently, but all are synchronized under a command architecture that eliminates human delay.
 
