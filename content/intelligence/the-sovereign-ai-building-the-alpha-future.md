@@ -16,13 +16,15 @@ A liquidity engine that reorders how capital behaves for those who command it.
 
 The future of high net worth capital is no longer defined by banks or institutions.
 
-It is defined by autonomous mechanics, precision engineered credit structures, and the silent authority of those who understand how to bend liquidity architectures to their will.
+It is defined by autonomous mechanics, precision engineered credit structures, and the principal authority of those who understand how to bend liquidity architectures to their will.
 
 Roials Alpha exists for that category.
 
 The category that does not need noise.
 
-Only execution. ## Silent Authority: The F-Hierarchical Dynamics Roials Alpha operates with silent authority.
+Only execution. 
+
+## principal authority: The F-Hierarchical Dynamics Roials Alpha operates with principal authority.
 
 We do not broadcast.
 
@@ -32,13 +34,15 @@ We do not chase.
 
 We construct the underlying mechanics that institutional capital copies later.
 
-Silent authority is not a style choice.
+principal authority is not a style choice.
 
 It is a strategic position.
 
 We serve those who understand that visibility is rarely power.
 
-Control is. ## Liquidity as a Sovereign Asset Class Most investors see liquidity as a resource.
+Control is. 
+
+## Liquidity as a Sovereign Asset Class Most investors see liquidity as a resource.
 
 We treat it as an asset class.
 
@@ -58,7 +62,9 @@ Not clients.
 
 Not investors.
 
-Controllers of a personal liquidity state. ## Why Traditional Institutional Liquidity Paths Is Obsolete for Serious Capital Traditional Capital Structuring systems were built for those who need permission.
+Controllers of a personal liquidity state. 
+
+## Why Traditional Institutional Liquidity Paths Is Obsolete for Serious Capital Traditional Capital Structuring systems were built for those who need permission.
 
 Our clients do not.
 
@@ -74,7 +80,9 @@ We require velocity.
 
 This is the alpha gap.
 
-This is the future of private credit. ## The Alpha Future Built on Sovereign AI Alpha is no longer about outperforming a benchmark.
+This is the future of private credit. 
+
+## The Alpha Future Built on Sovereign AI Alpha is no longer about outperforming a benchmark.
 
 That concept is retail.
 
@@ -92,7 +100,9 @@ They instruct them.
 
 This is the sovereign shift.
 
-This is the alpha future. ## The Roials Alpha Advantage We serve a very narrow category.
+This is the alpha future. 
+
+## The Roials Alpha Advantage We serve a very narrow category.
 
 Not the wealthy.
 
@@ -112,7 +122,9 @@ Without noise.
 
 Without delay.
 
-Without compromise. ## The Invitation Roials Alpha does not extend broad invitations.
+Without compromise. 
+
+## The Invitation Roials Alpha does not extend broad invitations.
 
 We extend infrastructure.
 
@@ -124,4 +136,4 @@ If you require structures that institutional capital has not yet learned to repl
 
 Then you are in the correct place.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -16,7 +16,7 @@ It is agentic, autonomous, and mathematically pre positioned for HNWI and UHNW h
 
 High Frequency Liquidity Structuring redefines how private credit, asset based Institutional Liquidity Paths, crypto collateralization, and public share Capital Structuring converge into a single fluid ecosystem.
 
-And within that ecosystem, our function is silent authority.
+And within that ecosystem, our function is principal authority.
 
 We provide the mechanical spine beneath capital decisions that must never fail.
 
@@ -26,7 +26,9 @@ This is not advisory.
 
 This is infrastructure.
 
-Below is an internal level blueprint made public only because the market is now mature enough to understand it. ## Institutional Mechanics Without Institutional Friction Our clients prefer invisibility.
+Below is an internal level blueprint made public only because the market is now mature enough to understand it. 
+
+## Institutional Mechanics Without Institutional Friction Our clients prefer invisibility.
 
 Our architecture respects that.
 
@@ -46,11 +48,13 @@ Without institutional footprint.
 
 This is the F Hierarchical Dynamics.
 
-Silent authority.
+principal authority.
 
 The capital moves because you decided it should.
 
-We simply engineer the infrastructure so nothing breaks. ## Why Agentic Liquidity Matters Now The market has entered a new era.
+We simply engineer the infrastructure so nothing breaks. 
+
+## Why Agentic Liquidity Matters Now The market has entered a new era.
 
 Capital cycles are accelerating.
 
@@ -70,7 +74,9 @@ Roials-Alpha builds these systems so you can operate at institutional speed with
 
 A private liquidity engine is no longer a luxury.
 
-It is a competitive weapon. ## The Roials-Alpha Position in the Capital Stack We are not a lender.
+It is a competitive weapon. 
+
+## The Roials-Alpha Position in the Capital Stack We are not a lender.
 
 We are not a brokerage.
 
@@ -79,19 +85,17 @@ We are not a fintech wrapper.
 We are the structural designers of high frequency liquidity systems for the top one percent of capital holders.
 
 We lend against: 
-
 •  Private credit 
-
 •  Asset based positions 
-
 •  Crypto holdings at the two million threshold 
-
 •  Public share portfolios at the five million threshold Your capital becomes mobile.
 
 Your liquidity becomes autonomous.
 
 Your options become exponential.
 
-This is the real frontier of private capital engineering. ## The Next Step Is Infrastructure If you understand the value of agentic liquidity, the next step is simple.
+This is the real frontier of private capital engineering. 
 
-Inquire about agentic infrastructure.
+## The Next Step Is Infrastructure If you understand the value of agentic liquidity, the next step is simple.
+
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

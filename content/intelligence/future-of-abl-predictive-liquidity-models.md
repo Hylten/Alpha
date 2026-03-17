@@ -65,17 +65,11 @@ Higher resolution collateral views increase the precision of loan-to-value curve
 Liquidity Forecasting Engine The heart of predictive Asset-Based Lending.
 
 This engine analyzes: 
-
 -  Revenue velocity 
-
 -  Payment behavior clusters 
-
 -  Seasonal or cyclical operational patterns 
-
 -  Equipment lifecycle stress data 
-
 -  Supply chain latency 
-
 -  Market based pricing compression The model constructs a liquidity distribution curve to estimate future borrowing base adequacy and credit availability.
 
 Risk Weighting Algorithms Risk weighting no longer centers on the collateral in isolation.
@@ -83,15 +77,10 @@ Risk Weighting Algorithms Risk weighting no longer centers on the collateral in 
 It includes macro and micro operational variables.
 
 These integrate: 
-
 -  Counterparty payment stability 
-
 -  Volatility channels 
-
 -  Default clustering probabilities 
-
 -  Operational choke point identification 
-
 -  Asset hardening potential This transforms risk assessment from a defensive cushion to an anticipatory framework.
 
 Cash Flow Waterfall Modeling The predictive engine simulates cash flow distribution structures across multiple operating paths.
@@ -128,14 +117,15 @@ Roials Capital evaluates the governance integrity of algorithmic decision pathwa
 
 When aligned with energy assets, Roials Capital leverages strategic partner NAEO to integrate physical asset intelligence with credit modeling.
 
-NAEO's operational ecosystem in the Alberta basin produces asset behavior patterns that can be mapped directly into predictive Asset-Based Lending frameworks, allowing allocators to calibrate credit exposure with elevated accuracy. ## ## ## THE STEWARDSHIP FILTER Stewardship is a technical discipline.
+NAEO's operational ecosystem in the Alberta basin produces asset behavior patterns that can be mapped directly into predictive Asset-Based Lending frameworks, allowing allocators to calibrate credit exposure with elevated accuracy. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a technical discipline.
 
 It centers on the effective management of resources, risk, and capital required for sustainable enterprise function.
 
 The stewardship filter is composed of three layers: Capital Alignment Discipline Predictive Asset-Based Lending ensures capital flows into operations with measurable value retention.
 
 This aligns with the stewardship principle seen in 
-
 -  **Proverbs 13:22** : capital is not to be wasted but preserved across generations.
 
 Operational Integrity Stewardship mandates accountability in asset usage and cash flow behavior.
@@ -148,7 +138,9 @@ This aligns with responsible resource deployment, where credit supports producti
 
 Stewardship is not a moral abstraction.
 
-It is an operational imperative for any enterprise managing capital under institutional visibility. ## ## ## DECISION FRAMEWORK FOR ALLOCATORS Predictive Asset-Based Lending is not an incremental improvement.
+It is an operational imperative for any enterprise managing capital under institutional visibility. ## ## 
+
+## DECISION FRAMEWORK FOR ALLOCATORS Predictive Asset-Based Lending is not an incremental improvement.
 
 It represents a categorical shift in credit structuring.
 
@@ -167,3 +159,5 @@ Allocators evaluating entry into this domain can apply the following decision fr
 Roials Capital offers confidential strategic consultations to institutions seeking alignment in this evolving landscape.
 
 Predictive Asset-Based Lending is reshaping the mechanics of credit deployment, and allocators equipped with the correct analytical frameworks will navigate this shift with structural advantage. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -165,17 +165,11 @@ The tax filings are inconsistent.
 A legacy lender sees only risk.
 
 The graph sees: 
-
 •  A surge in cross-border freight API calls 
-
 •  Increased warehouse throughput verified via IoT telemetry 
-
 •  Strong supplier concentration ratios indicating stability 
-
 •  A growing network radius among regional distributors 
-
 •  Stable driver retention patterns extracted from employment metadata 
-
 •  Declining cargo-return variance, signaling operational discipline What appears uncertain becomes decisive.
 
 Another example: A B2B merchant aggregator in Kenya experiences inconsistent settlement flows due to seasonal variance.
@@ -259,21 +253,13 @@ Here is the core: Agentic underwriting will not simply assist analysts.
 It will replace the operational layers that slow capital deployment.
 
 The agent becomes the orchestrator of the entire credit lifecycle: 
-
 •  Source 
-
 •  Verify 
-
 •  Analyze 
-
 •  Score 
-
 •  Monitor 
-
 •  Predict 
-
 •  Re-price 
-
 •  Intervene Humans will supervise.
 
 The agent will execute.
@@ -304,6 +290,6 @@ An agentic infrastructure that never sleeps.
 
 The only question now is simple: Do you want to build this architecture into your family office, or do you want to compete against the institutions that already have?
 
-If you want an exploratory briefing on constructing an agentic underwriting infrastructure tailored to your mandate, reach out directly.
+If you want an exploratory briefing on constructing an agentic underwriting infrastructure tailored to your mandate, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 The window for early advantage remains open, but it will not remain open for long.

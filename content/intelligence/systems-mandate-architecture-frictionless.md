@@ -168,7 +168,9 @@ This model eliminates three historic frictions:
 
 By operating strictly as a strategic navigator the architecture maintains institutional neutrality while delivering high resolution clarity.
 
-This accelerates decision quality without manufacturing urgency. ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+This accelerates decision quality without manufacturing urgency. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 At the institutional level stewardship is not a moral abstraction.
 
@@ -181,7 +183,6 @@ The allocator evaluates whether the systems architecture protects capital from a
 Efficient architecture reduces slippage.
 
 Slippage is waste. 
-
 -  **Proverbs 13:22** establishes the generational logic of capital management.
 
 Systems reduce generational drift. 
@@ -206,7 +207,9 @@ This filter becomes the allocator's lens for evaluating alignment.
 
 The question is not whether the opportunity is attractive.
 
-The question is whether the architecture supports long term responsibility. ## ## ## THE ALLOCATOR'S DECISION LENS The systems mandate is now the foundation for institutional execution.
+The question is whether the architecture supports long term responsibility. ## ## 
+
+## THE ALLOCATOR'S DECISION LENS The systems mandate is now the foundation for institutional execution.
 
 The allocator is faced with a structural divergence: operate with legacy processes and accept systemic drag or transition to architecture that eliminates friction across discovery, verification, underwriting, and monitoring.
 
@@ -231,3 +234,5 @@ It is a requirement for allocators navigating the complexity of 2026 capital mar
 The institutional archetype is shifting.
 
 Those who align with the new architecture will operate with increased precision, reduced friction, and elevated opportunity velocity. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

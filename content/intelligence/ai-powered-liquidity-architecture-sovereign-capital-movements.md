@@ -116,14 +116,15 @@ The function is calibration, structure mapping, and ##
 
  to operators with validated execution capabilities.
 
-All recommendations are grounded in institutional analysis, not solicitation. ## ## ## THE STEWARDSHIP FILTER The stewardship discipline focuses on operational clarity and resource non waste.
+All recommendations are grounded in institutional analysis, not solicitation. ## ## 
+
+## THE STEWARDSHIP FILTER The stewardship discipline focuses on operational clarity and resource non waste.
 
 It evaluates capital behavior under the lens of responsible deployment.
 
 Capital assigned without precision erodes institutional integrity.
 
 Capital structured with intentionality reinforces sustainability and multi generational continuity. 
-
 -  **Proverbs 13:22** defines stewardship as multi generational allocation.
 
 The integration of AI into Asset-Backed Frameworks ensures that resources are deployed with integrity, clarity, and long term accountability.
@@ -132,7 +133,9 @@ It replaces arbitrary decision cycles with data anchored sequencing.
 
 Stewardship is not a moral abstraction.
 
-It is a technical framework for eliminating capital waste. ## ## ## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators evaluating sovereign scale liquidity architecture should calibrate decisions through five institutional filters. 
+It is a technical framework for eliminating capital waste. ## ## 
+
+## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators evaluating sovereign scale liquidity architecture should calibrate decisions through five institutional filters. 
 
 1. Friction Reduction Threshold Assess whether your capital is being constrained by human driven workflows. 
 
@@ -147,3 +150,5 @@ It is a technical framework for eliminating capital waste. ## ## ## DECISION FRA
 The allocator benefits from clarity, precision, and strategic neutrality.
 
 The AI framework provides a consistent platform for cross border capital movement, private credit calibration, and balance sheet optimization without introducing solicitation dynamics. [END OF INSTITUTIONAL BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -155,12 +155,12 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
                 .article-content p { margin-bottom: 4.5rem; }
                 .article-content h2 { font-family: 'Cormorant Garamond', serif; font-size: 2.6rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.2; font-weight: 300; }
                 .article-content h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; font-weight: 400; }
-                .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
-                .article-content li { margin-bottom: 1.5rem; }
+                .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 1.2rem; list-style-position: outside; }
+                .article-content li { margin-bottom: 1.8rem; }
                 .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 6rem 0; }
                 .article-content strong { color: #fff; font-weight: 500; }
                 .article-content a { color: #c5a059; text-decoration: underline; text-underline-offset: 4px; }
-                .article-content blockquote { border-left: 1px solid #c5a059; padding-left: 1.5rem; margin: 4rem 0; font-style: italic; color: rgba(229, 231, 235, 0.5); }
+                .article-content blockquote { border-left: 2px solid #c5a059; padding-left: 2rem; margin: 5rem 0; font-style: italic; color: rgba(229, 231, 235, 0.5); }
             `}</style>
 
             <footer className="mt-16 text-center">

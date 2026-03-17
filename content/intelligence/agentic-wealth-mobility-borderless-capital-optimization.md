@@ -207,7 +207,6 @@ It is a control system that governs liquidity with a precision that human operat
 Reinforcement Learning must not be allowed to amplify volatility or pursue hyper optimization without ethical boundaries.
 
 A steward oriented model requires that RL engines incorporate constraints rooted in scriptural principles such as 
-
 -  **Proverbs 13:22** which emphasizes generational responsibility.
 
 In practical terms, the stewardship filter mandates four things.
@@ -257,3 +256,5 @@ The future of capital formation is not simply faster systems.
 It is autonomous reinforcement systems operating under principled stewardship.
 
 The combination of technical edge, cross cultural trust, and multi objective RL optimization defines the new frontier of borderless capital. [END OF REPORT]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

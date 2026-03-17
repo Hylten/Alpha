@@ -14,7 +14,7 @@ It becomes the operating system that allocates liquidity, reassigns collateral p
 
 And for HNWI and UHNW capital holders, this shift is not theoretical.
 
-It is already affecting liquidity access, asset velocity, and credit structuring.
+It is already affecting liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Roials Alpha sits inside this shift.
 
@@ -22,7 +22,9 @@ Quietly.
 
 Deliberately.
 
-Providing the mechanical underlayer that moves institutional capital. ## Public Share Institutional Liquidity Paths for the Upper Tier HNWI and UHNW clients with significant equity positions require non disruptive liquidity extraction.
+Providing the mechanical underlayer that moves institutional capital. 
+
+## Public Share Institutional Liquidity Paths for the Upper Tier HNWI and UHNW clients with significant equity positions require non disruptive liquidity extraction.
 
 They cannot sell shares at the wrong moment.
 
@@ -46,11 +48,13 @@ Earnings rhythm and sector correlation.
 
 These models allow liquidity release without destabilizing the client’s core equity strategy.
 
-This is Silent Authority liquidity.
+This is principal authority liquidity.
 
 This is capital that moves without being seen.
 
-This is what Silent Authority means. ## The Structural Mechanics Behind Roials Alpha Roials Alpha does not compete with platforms.
+This is what principal authority means. 
+
+## The Structural Mechanics Behind Roials Alpha Roials Alpha does not compete with platforms.
 
 We do not compete with funds.
 
@@ -72,7 +76,9 @@ They require reliability.
 
 They require relentless execution.
 
-Roials Alpha delivers all three, not by volume, but by architecture. ## The Rise of Agentic Liquidity Markets move faster than human interpretation.
+Roials Alpha delivers all three, not by volume, but by architecture. 
+
+## The Rise of Agentic Liquidity Markets move faster than human interpretation.
 
 Agentic liquidity is the only liquidity that can keep pace.
 
@@ -100,7 +106,9 @@ Liquidity becomes programmable.
 
 Liquidity becomes modular.
 
-Liquidity becomes an extension of intent. ## The Capital Hierarchy Is Shifting There are now two types of capital owners.
+Liquidity becomes an extension of intent. 
+
+## The Capital Hierarchy Is Shifting There are now two types of capital owners.
 
 Those who rely on human governed liquidity.
 
@@ -124,7 +132,9 @@ This is the new hierarchy.
 
 Those who have agentic liquidity will dominate opportunity velocity.
 
-Those who do not will lose ground silently. ## The Quiet Power of Institutional Mechanics Roials Alpha does not operate loudly.
+Those who do not will lose ground silently. 
+
+## The Quiet Power of Institutional Mechanics Roials Alpha does not operate loudly.
 
 We do not market aggressively.
 
@@ -138,7 +148,7 @@ They need reliability.
 
 They need structural power.
 
-This is why we maintain Silent Authority.
+This is why we maintain principal authority.
 
 We are present in the system.
 
@@ -150,7 +160,9 @@ Our position is intentional.
 
 Our discretion is structural.
 
-Our strength is infrastructural. ## The Future of Capital Is Agentic The shift is permanent.
+Our strength is infrastructural. 
+
+## The Future of Capital Is Agentic The shift is permanent.
 
 The technology is inevitable.
 
@@ -174,4 +186,6 @@ We design liquidity engines that match the intelligence of the modern market.
 
 This is not the future.
 
-This is the infrastructure of now. ## Inquire About Agentic Infrastructure
+This is the infrastructure of now. 
+
+## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

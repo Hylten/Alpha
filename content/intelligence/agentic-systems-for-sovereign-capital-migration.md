@@ -12,7 +12,9 @@ The velocity of capital is no longer controlled by traditional intermediaries.
 
 HNWI and UHNW operators are demanding direct control, autonomous execution, and precision liquidity without institutional drag.
 
-Roials-Alpha is the response. ## Why High Net Worth Operators Are Migrating to Agentic Systems We are entering a post advisory era.
+Roials-Alpha is the response. 
+
+## Why High Net Worth Operators Are Migrating to Agentic Systems We are entering a post advisory era.
 
 Human-driven wealth management cannot scale to the complexity of modern assets.
 
@@ -24,7 +26,9 @@ Silent execution.
 
 Autonomous protection.
 
-Agentic systems enable all three. # ## Precision Over Opinion Traditional advisors cannot compute cross-asset interdependencies in real time.
+Agentic systems enable all three. # 
+
+## Precision Over Opinion Traditional advisors cannot compute cross-asset interdependencies in real time.
 
 Agentic systems do it continuously.
 
@@ -32,7 +36,9 @@ Every variable is evaluated.
 
 Every risk is quantified.
 
-Nothing is based on sentiment or theory. # ## Liquidity as a Sovereign Right The affluent historically relied on institutions to unlock liquidity.
+Nothing is based on sentiment or theory. # 
+
+## Liquidity as a Sovereign Right The affluent historically relied on institutions to unlock liquidity.
 
 This introduced vulnerability.
 
@@ -40,13 +46,17 @@ Rules change.
 
 Jurisdictions shift.
 
-Access can be restricted.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
-Agentic systems restore mobility by creating direct pathways from asset to liquidity without institutional bottleneck. # ## Confidentiality Reinforced by autonomous infrastructure The less human involvement, the lower the leak vector.
+Agentic systems restore mobility by creating direct pathways from asset to liquidity without institutional bottleneck. # 
+
+## Confidentiality Reinforced by autonomous infrastructure The less human involvement, the lower the leak vector.
 
 Autonomous systems execute without emotional bias or reputational fragility.
 
-Roials-Alpha maintains Silent Authority by keeping operational mechanics invisible and outcomes visible. ## The Mechanics of Sovereign Capital Migration Sovereign migration is not geographic.
+Roials-Alpha maintains principal authority by keeping operational mechanics invisible and outcomes visible. 
+
+## The Mechanics of Sovereign Capital Migration Sovereign migration is not geographic.
 
 It is structural.
 
@@ -78,7 +88,9 @@ These may include venture deployment, real estate acquisition, digital assets, o
 
 Agentic systems maintain continuous monitoring so capital never becomes dormant.
 
-The result is perpetual capital migration. ## Roials-Alpha as a Structural Engine Roials-Alpha is not a fund.
+The result is perpetual capital migration. 
+
+## Roials-Alpha as a Structural Engine Roials-Alpha is not a fund.
 
 It is not a brokerage.
 
@@ -92,7 +104,9 @@ Every process is engineered for discretion.
 
 Every execution is automated.
 
-Every outcome is quantifiable. ## The Hidden Advantage of Silent Authority Silent Authority means power without spectacle.
+Every outcome is quantifiable. 
+
+## The Hidden Advantage of principal authority principal authority means power without spectacle.
 
 Our clients do not need to posture.
 
@@ -104,7 +118,9 @@ The market does not see the mechanics.
 
 It only sees the result.
 
-This is the Roials-Alpha advantage. ## Why Thresholds Matter Our [Capital Structuring]([Roials Capital](https://roialscapital.com/)) minimums are deliberate.
+This is the Roials-Alpha advantage. 
+
+## Why Thresholds Matter Our [Capital Structuring]([Roials Capital](https://roialscapital.com/)) minimums are deliberate.
 
 Crypto Asset-Backed Frameworks starts at 2,000, 
 
@@ -116,7 +132,9 @@ It preserves system integrity.
 
 It protects client velocity.
 
-It allows the infrastructure to remain optimized for sovereign scale users. ## The Future of Wealth is Agentic Within the next decade, all significant capital will be routed through autonomous systems.
+It allows the infrastructure to remain optimized for sovereign scale users. 
+
+## The Future of Wealth is Agentic Within the next decade, all significant capital will be routed through autonomous systems.
 
 The individuals who adopt early will gain an unmatchable advantage.
 
@@ -128,4 +146,6 @@ They will have mobility at a sovereign level.
 
 Roials-Alpha is already operating in that future.
 
-We invite only those who understand the value of structural sovereignty. ## Inquire about agentic infrastructure
+We invite only those who understand the value of structural sovereignty. 
+
+## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

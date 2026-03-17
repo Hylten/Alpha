@@ -8,7 +8,7 @@ slug: "proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-n
 
 # Proprietary Intelligence on Asset Hardening via DeFi Protocols Roials Alpha operates in a structural layer that most capital holders never access.
 
-We focus on silent authority.
+We focus on principal authority.
 
 We provide the mechanics that institutional capital relies on, yet rarely reveals.
 
@@ -19,3 +19,5 @@ Transform illiquid or under optimized positions into fortified, yield capable, r
 This is not retail DeFi.
 
 This is asset intelligence for HNWI and UHNW individuals that require predictable liquidity, engineered security, and clean execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -53,11 +53,8 @@ Probability-weighted.
 Bound by computational sovereignty.
 
 The operator is the architect who understands three converging vectors: 
-
 •  Algorithmic underwriting 
-
 •  Multi-asset intelligence 
-
 •  Cross-border liquidity routing Machine-first.
 
 Asset-led.
@@ -121,13 +118,9 @@ Cross-asset correlation is no longer a research issue-it becomes a baseline func
 The core engine: Multi-Layer Asset Intelligence (MLAI).
 
 Resolves four constraints: 
-
 •  Hidden depreciation vectors 
-
 •  Synthetic valuation inflation 
-
 •  Jurisdictional leakage 
-
 •  Liquidity distortion across private markets HNWI and UHNW family offices controlling multi-asset portfolios traditionally suffer from information asymmetry.
 
 Brokers gate data.
@@ -239,7 +232,6 @@ Suggests alternative domiciles.
 Moves credit exposure from high-tax zones to efficient corridors.
 
 Portfolio shifts from reactive to anticipatory. 
-
 -  **Proverbs 13:22** : wealth inherits across generations when structure precedes opportunity.
 
 The architecture treats wealth as a system.
@@ -411,11 +403,8 @@ Liquidity will be predictive.
 Winners will be principals who architect systems-not outsource decisions.
 
 AI-first asset-based finance shifts principal identity: 
-
 •  From borrower to issuer 
-
 •  From participant to architect 
-
 •  From reactive to sovereign This is the Roials-Alpha posture: no dependency.
 
 No drift.
@@ -495,7 +484,6 @@ Digital assets become collateral overlays.
 Jurisdictional arbitrage becomes default posture.
 
 AI-first underwriting becomes the spine of the system. 
-
 -  **Proverbs 13:22** applies: the good father leaves inheritance.
 
 But the sovereign architect leaves infrastructure.
@@ -516,4 +504,4 @@ Precision wins.
 
 Architecture wins.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

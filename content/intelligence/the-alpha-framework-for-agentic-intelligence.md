@@ -32,7 +32,9 @@ Roials-Alpha is engineered only for the top decile of wealth.
 
 The Alpha Framework for Agentic Intelligence is the internal philosophy that drives the system.
 
-It is the behind-the-curtain layer that transforms capital into computation and computation into directional advantage. ## Why High Net Worth Capital Works Differently Inside the Alpha Framework We state this openly.
+It is the behind-the-curtain layer that transforms capital into computation and computation into directional advantage. 
+
+## Why High Net Worth Capital Works Differently Inside the Alpha Framework We state this openly.
 
 The Alpha Framework is not designed for the mass market.
 
@@ -64,7 +66,9 @@ They discover that the Alpha Framework turns collateral into a programmable asse
 
 This is the shift.
 
-This is the silent technical advantage. ## The Agentic Core: Turning Collateral Into Computation The Alpha Framework uses the concept of capital as code.
+This is the silent technical advantage. 
+
+## The Agentic Core: Turning Collateral Into Computation The Alpha Framework uses the concept of capital as code.
 
 This is not metaphor.
 
@@ -96,7 +100,9 @@ This is why our thresholds exist.
 
 The Alpha Framework does not operate on noise.
 
-It operates on structural capital behaviour. ## Private Credit Inside the Alpha Framework Private credit is the most stable domain for agentic intelligence.
+It operates on structural capital behaviour. 
+
+## Private Credit Inside the Alpha Framework Private credit is the most stable domain for agentic intelligence.
 
 The data is clean.
 
@@ -124,7 +130,9 @@ Dynamic.
 
 Self-regulating.
 
-Always ready for deployment. ## Asset Based Monetization Architecture Inside the Alpha Framework Asset based Strategic Collateralization is the structural backbone of the framework.
+Always ready for deployment. 
+
+## Asset Based Monetization Architecture Inside the Alpha Framework Asset based Strategic Collateralization is the structural backbone of the framework.
 
 Collateral here is diverse.
 
@@ -154,7 +162,9 @@ Leverage stacking.
 
 Credit rotation.
 
-All without the drag that traditional lenders impose. ## Crypto Capital Structuring at Institutional Scale Crypto Monetization Architecture begins at 2 million USD for a reason.
+All without the drag that traditional lenders impose. 
+
+## Crypto Capital Structuring at Institutional Scale Crypto Monetization Architecture begins at 2 million USD for a reason.
 
 Below that threshold the volatility signal is too chaotic.
 
@@ -174,7 +184,9 @@ This is rare.
 
 This is quiet.
 
-This is structural. ## Public Share Institutional Liquidity Paths at 5 Million Minimum Equity portfolios above 5 million USD behave differently from retail portfolios.
+This is structural. 
+
+## Public Share Institutional Liquidity Paths at 5 Million Minimum Equity portfolios above 5 million USD behave differently from retail portfolios.
 
 They move with market depth rather than market noise.
 
@@ -192,9 +204,11 @@ The collateral becomes predictable.
 
 The liquidity becomes agile.
 
-This is where silent authority becomes visible.
+This is where principal authority becomes visible.
 
-The system understands the behaviour of the asset class at the scale where institutions operate. ## The Alpha Effect: Turning Liquidity Into Silent Power When agentic intelligence is combined with private credit and asset based Institutional Liquidity Paths the outcome is transformative.
+The system understands the behaviour of the asset class at the scale where institutions operate. 
+
+## The Alpha Effect: Turning Liquidity Into Silent Power When agentic intelligence is combined with private credit and asset based Institutional Liquidity Paths the outcome is transformative.
 
 Liquidity stops being a resource.
 
@@ -210,7 +224,9 @@ The ability to turn collateral into action.
 
 This is the essence of the Alpha Framework.
 
-Agentic intelligence with structural capital authority. ## The Roials Position We do not market aggressively.
+Agentic intelligence with structural capital authority. 
+
+## The Roials Position We do not market aggressively.
 
 We do not broadcast.
 
@@ -224,11 +240,13 @@ The liquidity dynamics that drive autonomous capital.
 
 This is the F Hierarchical Dynamics.
 
-Silent authority.
+principal authority.
 
 No noise.
 
-Only structure. ## The Next Evolution: Multi Agent Capital Systems The Alpha Framework is only the first layer.
+Only structure. 
+
+## The Next Evolution: Multi Agent Capital Systems The Alpha Framework is only the first layer.
 
 Future iterations expand toward multi agent capital coordination.
 
@@ -260,8 +278,8 @@ We turn asset based Capital Structuring into programmable liquidity.
 
 We turn collateral into strategy.
 
-We turn liquidity into silent authority.
+We turn liquidity into principal authority.
 
 This is Roials-Alpha.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

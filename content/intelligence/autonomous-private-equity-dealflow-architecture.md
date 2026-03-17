@@ -17,11 +17,8 @@ This shift defines the current environment for UHNWIs, family offices, and insti
  The private market landscape is transitioning from relationship driven sourcing to machine assisted structural mapping.
 
 The traditional advantage of sponsor visibility has been diluted by three macro level forces: 
-
 -  Capital displacement from regional banking due to post 2020 regulatory recalibration. 
-
 -  The migration of high quality operators into non bank financing ecosystems. 
-
 -  Increased fragmentation of asset holders who lack structured introductions to [institutional capital]([Roials Capital](https://roialscapital.com/)).
 
 The outcome is a capital vacuum in the lower middle market where information is abundant but institutionally usable intelligence is scarce.
@@ -106,7 +103,9 @@ In other private credit or private equity verticals, Roials Capital maintains in
 
 The objective is structural alignment rather than promotion.
 
-The architecture sorts opportunities by technical viability, prepares institutional grade briefs, and facilitates a clean interface between allocator and operator without narrative inflation. ## ## ## THE STEWARDSHIP FILTER Institutional stewardship is the governance philosophy that capital must not be wasted.
+The architecture sorts opportunities by technical viability, prepares institutional grade briefs, and facilitates a clean interface between allocator and operator without narrative inflation. ## ## 
+
+## THE STEWARDSHIP FILTER Institutional stewardship is the governance philosophy that capital must not be wasted.
 
 It is a discipline that integrates operational intelligence, prudent resource allocation, and structural oversight.
 
@@ -117,20 +116,17 @@ Autonomous dealflow strengthens stewardship by preventing misallocation at the i
 It removes the emotional distortions and relationship biases that often lead to poor capital deployment.
 
 The stewardship filter follows four principles: 
-
 -  Prioritization of transparency over momentum. 
-
 -  Preservation of capital through structural discipline. 
-
 -  Evaluation of operator integrity before return profiles. 
-
 -  Recognition that opportunity cost is a material liability.
 
 This aligns with the theology of capital exemplified in 
-
 -  **Proverbs 13:22** which defines wealth not as accumulation but as intergenerational responsibility.
 
-Autonomous filtration amplifies this responsibility by ensuring that capital is allocated to structurally coherent opportunities rather than narrative driven speculation. ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 2026 private markets require clarity, not volume.
+Autonomous filtration amplifies this responsibility by ensuring that capital is allocated to structurally coherent opportunities rather than narrative driven speculation. ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 2026 private markets require clarity, not volume.
 
 The institutionally aligned strategy involves integrating autonomous dealflow architecture into the evaluation process to reduce noise, accelerate decision cycles, and enhance governance reliability.
 
@@ -143,3 +139,5 @@ Roials Capital provides a strategic interface for UHNWIs, family offices, and in
 The objective is calibration, not solicitation.
 
 Allocators who require deeper alignment can request a confidential strategy audit to assess whether their portfolio structures, mandate constraints, and capital velocity requirements align with the autonomous framework now defining modern private markets. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

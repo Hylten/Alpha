@@ -130,14 +130,15 @@ Opportunities are structured into evidence units that highlight exposure concent
 
 In real assets, the architecture emphasizes replacement cost anchoring, entitlement timelines, and capital stack optimization.
 
-Deals are introduced only after undergoing Strategic Collateralization analysis to determine structural integrity and operational viability. ## ## ## THE STEWARDSHIP FILTER Institutional architecture is incomplete without a stewardship discipline.
+Deals are introduced only after undergoing Strategic Collateralization analysis to determine structural integrity and operational viability. ## ## 
+
+## THE STEWARDSHIP FILTER Institutional architecture is incomplete without a stewardship discipline.
 
 Stewardship is the alignment of capital deployment with non wasteful resource management.
 
 It is the systematic practice of ensuring that capital flows into structures that preserve and enhance productive capacity.
 
 The traditional stewardship framing is reinforced by the scriptural principle in 
-
 -  **Proverbs 13:22** which highlights the creation of durable value across generations.
 
 Stewardship within autonomous deal flow operates through four primary filters. 
@@ -164,7 +165,9 @@ It requires timely decision pathways supported by high quality intelligence.
 
 Autonomous deal flow increases opportunity velocity without sacrificing prudence.
 
-This stewardship filter creates a disciplined operating environment where opportunity evaluation is measured, data anchored, and free of promotional distortion. ## ## ## DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 2026 face a structural decision.
+This stewardship filter creates a disciplined operating environment where opportunity evaluation is measured, data anchored, and free of promotional distortion. ## ## 
+
+## DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 2026 face a structural decision.
 
 They can continue relying on human centric sourcing channels that provide inconsistent information density and slow mandate alignment.
 
@@ -175,3 +178,5 @@ The latter enables more effective portfolio calibration, clearer mandate executi
 Roials Capital maintains a neutral introducer position and functions as the architect of this environment.
 
 Stakeholders seeking to analyze the compatibility of this architecture with their capital program can request a confidential strategy audit focused on mandate mapping, balance sheet optimization, and opportunity pathway calibration.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

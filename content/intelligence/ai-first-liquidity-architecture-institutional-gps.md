@@ -128,7 +128,9 @@ The partnership model centers on institutional introductions, capital stack inte
 
 The firm does not promote transactions.
 
-It provides the informational scaffolding that enables allocators to determine where structural alignment exists and where it does not. ## ## ## THE STEWARDSHIP FILTER Stewardship in institutional capital is the discipline of resource alignment.
+It provides the informational scaffolding that enables allocators to determine where structural alignment exists and where it does not. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in institutional capital is the discipline of resource alignment.
 
 It is not ideology.
 
@@ -149,7 +151,6 @@ GPs must operate with transparency, data integrity, and continuous calibration.
 Portfolio oversight requires algorithmic rigor, not static reporting cadences.
 
 This aligns with the principle in 
-
 -  **Proverbs 15:22** : Without counsel purposes fail, but with many advisers they succeed.
 
 The adviser in this context is the system itself.
@@ -165,7 +166,6 @@ Waste, inefficiency, and opacity are forms of misallocation.
 The allocator is a steward, not an extractor.
 
 This aligns with 
-
 -  **Proverbs 13:22** : A good person leaves an inheritance to their children's children.
 
 In institutional terms, this means building capital structures resilient enough to endure beyond a single cycle.
@@ -174,7 +174,9 @@ AI-first liquidity architecture is therefore not a technological preference.
 
 It is a stewardship mandate.
 
-It eliminates waste, maximizes informational precision, and supports the long-term health of the capital ecosystem. ## ## ## THE DECISION-MAKING LENS Institutional allocators evaluating AI-first liquidity systems require a framework that integrates operational intelligence, balance sheet architecture, and partnership alignment.
+It eliminates waste, maximizes informational precision, and supports the long-term health of the capital ecosystem. ## ## 
+
+## THE DECISION-MAKING LENS Institutional allocators evaluating AI-first liquidity systems require a framework that integrates operational intelligence, balance sheet architecture, and partnership alignment.
 
 The first lens is liquidity sovereignty.
 
@@ -207,3 +209,5 @@ Roials Capital supports these assessments through confidential strategy audits a
 The objective is to provide institutional clarity, not promotion.
 
 The output is a neutral map of the allocator’s structural position within the current capital regime and the pathways available for advancing liquidity sovereignty. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

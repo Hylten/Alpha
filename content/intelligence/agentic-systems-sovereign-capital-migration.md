@@ -148,7 +148,9 @@ No projections or return promises are made.
 
 The focus is structural alignment, operational intelligence, and institutional fit.
 
-This partnership model is designed to reduce friction, accelerate clarity, and create transparency for allocators operating at scale. ## ## ## THE STEWARDSHIP FILTER Stewardship is not charity.
+This partnership model is designed to reduce friction, accelerate clarity, and create transparency for allocators operating at scale. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not charity.
 
 It is the discipline of resource non waste.
 
@@ -167,7 +169,6 @@ Institutions allocate according to fiduciary commitments.
 Agentic systems protect identity by ensuring all allocations reflect the governing mission. (See [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
 2. Efficiency as Moral Behavior Inefficiency is a form of waste. 
-
 -  **Proverbs 13:22** states that a good person leaves an inheritance for their children.
 
 Stewardship is therefore the elimination of avoidable waste inside the capital deployment process.
@@ -190,7 +191,9 @@ Agentic systems preserve continuity by maintaining the allocation architecture i
 
 Stewardship is not a narrative.
 
-It is a discipline. ## ## ## DECISION-MAKING LENS FOR THE ALLOCATOR Allocators who operate without algorithmic mobility will face increasing friction, slower deployment cycles, and reduced opportunity access.
+It is a discipline. ## ## 
+
+## DECISION-MAKING LENS FOR THE ALLOCATOR Allocators who operate without algorithmic mobility will face increasing friction, slower deployment cycles, and reduced opportunity access.
 
 The market is shifting toward pre cleared, compliant ready, operationally aligned structures.
 
@@ -209,3 +212,5 @@ The decision is whether to upgrade the allocator's deployment architecture to an
 Roials Capital conducts confidential Strategy Audits to evaluate the allocator's current architecture, identify structural bottlenecks, and build a calibrated mobility map tailored to their profile.
 
 This is the first step in creating an institutional framework for cross border capital migration. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

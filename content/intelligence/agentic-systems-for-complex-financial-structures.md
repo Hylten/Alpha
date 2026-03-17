@@ -15,3 +15,5 @@ They operate faster, cleaner, and with a structural certainty that institutional
 We do not market to the general public.
 
 We are an engineering layer for capital owners who operate above retail friction.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

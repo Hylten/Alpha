@@ -83,13 +83,9 @@ The result is higher match rate between capital and assets and significantly low
 Instead of linear underwriting models, AI systems produce probabilistic curves that evolve with incoming data.
 
 Technical advantages include: 
-
 -  Nonlinear LTV diagnostics that adjust to asset behavior. 
-
 -  Dynamic covenants calibrated to real time borrower signals. 
-
 -  Continuous evaluation of cross collateralization strength. 
-
 -  Automated stress testing across hundreds of macro scenarios.
 
 This transforms credit from a static agreement into a living instrument.
@@ -133,18 +129,17 @@ The ##
 ## INTRODUCTION
 
  architecture is defined by: 
-
 -  Technical match making between capital type and operational reality. 
-
 -  Structuring pathways that enhance asset hardening and downside control. 
-
 -  Ensuring allocators receive intelligence based on physics and field data, not marketing narratives.
 
 In private credit and real estate, Roials Capital performs a similar function.
 
 The emphasis is on underwriting integrity, structural seniority, collateral efficiency, and precision in credit stack design.
 
-AI is integrated at every stage to eliminate friction, reduce cycle times, and increase the probability of alignment between asset behavior and capital requirements. ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+AI is integrated at every stage to eliminate friction, reduce cycle times, and increase the probability of alignment between asset behavior and capital requirements. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is a structural principle of resource management.
 
@@ -155,7 +150,6 @@ Capital with high stewardship discipline becomes multiplicative.
 Three stewardship pillars guide the institutional framework: 
 
 1. Non wasteful deployment Capital is allocated only into environments where operational intelligence is sufficient to predict asset behavior with precision. 
-
 -  **Proverbs 13:22** emphasizes generational resource preservation.
 
 Stewardship aligns with rigorous selection logic that protects capital from misallocation. 
@@ -174,20 +168,19 @@ This sequencing aligns with the theology of capital where preservation enables l
 
 Stewardship is not passive.
 
-It is the continuous refinement of balance sheet integrity and operational discipline. ## ## ## THE ## ## ## DECISION MAKING LENS FOR ALLOCATORS As AI reshapes markets, allocators face a bifurcation.
+It is the continuous refinement of balance sheet integrity and operational discipline. ## ## 
+
+## THE ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS As AI reshapes markets, allocators face a bifurcation.
 
 Either they integrate autonomous intelligence into their capital architecture or they compete against entities that already operate with sub human latency and nonlinear data awareness.
 
 The decision lens includes: 
-
 -  The degree to which portfolio decisions rely on human reaction versus autonomous detection. 
-
 -  Exposure to sectors where data fragmentation creates an inefficiency premium. 
-
 -  Ability to participate in opportunities sourced algorithmically rather than through traditional intermediaries. 
-
 -  Structural alignment with operators who demonstrate technical dominance rather than marketing narratives. 
-
 -  The quality of balance sheet optimization and Capital Structuring within existing structures.
 
 For UHNW families, institutional LPs, and private credit managers, the next decade will reward precision, speed, and operational intelligence.
@@ -195,3 +188,5 @@ For UHNW families, institutional LPs, and private credit managers, the next deca
 Roials Capital provides the strategic framework to navigate this transition.
 
 Through confidential strategy audits and portfolio calibration processes, allocators gain visibility into how AI driven structures can refine their approach, strengthen capital positioning, and increase alignment between opportunity and balance sheet behavior.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

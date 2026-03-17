@@ -60,7 +60,9 @@ Machine runs.
 
 Principal decides.
 
-That is the covenant. ## ## PHASE ONE A secured briefing on architecture and jurisdictional dynamics.
+That is the covenant. ## 
+
+## PHASE ONE A secured briefing on architecture and jurisdictional dynamics.
 
 True counterparty probability scoring emerges from multi-vector inference.
 
@@ -160,7 +162,9 @@ Different mission.
 
 Different architecture.
 
-Different purpose. ## ## PHASE TWO Principal Tone The internal voice of operational clarity.
+Different purpose. ## 
+
+## PHASE TWO Principal Tone The internal voice of operational clarity.
 
 The transaction landscape is crowded.
 
@@ -210,7 +214,9 @@ The Roials‑Alpha architecture exists to guard that sanctity.
 
 Deal rooms collapse because someone "sounds credible." We do not operate through sound.
 
-We operate through structure. ## ## PHASE THREE Deep Structural Analysis The backbone of the architecture. 1500+ words.
+We operate through structure. ## 
+
+## PHASE THREE Deep Structural Analysis The backbone of the architecture. 1500+ words.
 
 Real mechanisms.
 
@@ -431,11 +437,10 @@ The end state: A deal engine that thinks.
 A counterparty model that adapts.
 
 A Principal who moves without friction. 
-
 -  
-
 -  
-
 -  If you want a briefing on implementing the agentic layer across your own deal pipeline-or integrating counterparty scoring with your Fund-III strategy-send a message.
 
 The exploratory call begins when you initiate it.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

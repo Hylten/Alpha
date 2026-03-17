@@ -14,31 +14,31 @@ They want silent systems that process, screen, structure, underwrite, collateral
 
 Roials-Alpha builds the infrastructure for this shift.
 
-We engineer the mechanical backbone that transforms private credit and asset based Strategic Collateralization into autonomous financial architecture, calibrated for HNWI and UHNW operators who do not trade time for access.
+We engineer the mechanical backbone that transforms private credit and asset based Strategic Collateralization into autonomous financial architecture, calibrated for HNWI and UHNW operators who do not trade time for Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 They command liquidity on arrival.
 
 They require precision.
 
-They expect invisibility. ## Autonomous Deal Flow as a Competitive Moat for HNWI and UHNW Investors HNWI and UHNW profiles share a specific advantage.
+They expect invisibility. 
+
+## Autonomous Deal Flow as a Competitive Moat for HNWI and UHNW Investors HNWI and UHNW profiles share a specific advantage.
 
 They can deploy capital at scale.
 
 Autonomy amplifies this advantage.
 
 It gives them: 
-
--  Faster access to deals. 
-
+-  Faster Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 -  More accurate risk data. 
-
 -  Mechanized collateral evaluation. 
-
 -  Predictable liquidity response.
 
 The combination is a competitive moat.
 
-It transforms capital from passive to active without increasing cognitive load. ## Roials-Alpha as the Institutional Mechanic Our brand exists to engineer structure, not marketing campaigns.
+It transforms capital from passive to active without increasing cognitive load. 
+
+## Roials-Alpha as the Institutional Mechanic Our brand exists to engineer structure, not marketing campaigns.
 
 We build capital infrastructure that operates with cold precision.
 
@@ -48,7 +48,9 @@ HNWI and UHNW investors plug into the ecosystem and gain immediate structural le
 
 Borrowers enter and gain clarity.
 
-The system remains quiet, efficient, and optimized. ## The Evolution of Private Markets Will Be Autonomous Global capital flows are increasing.
+The system remains quiet, efficient, and optimized. 
+
+## The Evolution of Private Markets Will Be Autonomous Global capital flows are increasing.
 
 Private credit demand is rising.
 
@@ -74,4 +76,4 @@ Borrowers gain an optimized path.
 
 Capital gains velocity without friction.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

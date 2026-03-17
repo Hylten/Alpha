@@ -140,7 +140,9 @@ The result is a closed loop environment that minimizes data risk, accelerates de
 
 The strategic benefit for allocators is that every opportunity entering the system has already passed through operational, geological, and financial alignment filters.
 
-This elevates the quality of the pipeline without introducing promotional bias. ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital in alignment with long term institutional responsibility.
+This elevates the quality of the pipeline without introducing promotional bias. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital in alignment with long term institutional responsibility.
 
 The doctrine is grounded in non wasteful management of opportunity and balance sheet integrity.
 
@@ -159,14 +161,15 @@ The allocator is protected from opportunistic deviations driven by market noise.
 Data is evaluated on its own merit.
 
 This aligns with the ethics presented in 
-
 -  **Proverbs 13:22** which highlight continuity, responsibility, and long horizon capital logic. 
 
 3. Ethical Capital Utilization Liquidity is deployed only when structural integrity is verified.
 
 The system prioritizes stewardship over speed, even as it accelerates qualified deal flow.
 
-The allocator can engage the real economy confidently, knowing that capital supports validated operators and disciplined structures. ## ## ## DECISION FRAMEWORK FOR THE ALLOCATOR Fund-III operations benefit from autonomous deal flow architecture because it eliminates bottlenecks, reduces analyst workload, and ensures consistent structural calibration.
+The allocator can engage the real economy confidently, knowing that capital supports validated operators and disciplined structures. ## ## 
+
+## DECISION FRAMEWORK FOR THE ALLOCATOR Fund-III operations benefit from autonomous deal flow architecture because it eliminates bottlenecks, reduces analyst workload, and ensures consistent structural calibration.
 
 Allocators who operate in environments with high deal volume requirements cannot rely on human bandwidth alone.
 
@@ -187,3 +190,5 @@ Identify where data inconsistency creates resource drag.
 Roials Capital functions as the strategic architect and introducer for allocators who require a deeper understanding of the autonomous landscape.
 
 Those seeking to evaluate the system in detail may request a Confidential Strategy Audit focused on calibration, risk architecture, and structural alignment with institutional mandates.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -34,7 +34,9 @@ The result is a streamlined, institutional-grade path to liquidity across Privat
 
 This is the Alpha Advantage.
 
-Engineered for those who move capital at scale, and who demand frictionless execution. ## Closing Position The elite borrower class does not need another lender.
+Engineered for those who move capital at scale, and who demand frictionless execution. 
+
+## Closing Position The elite borrower class does not need another lender.
 
 They need infrastructure.
 
@@ -46,4 +48,4 @@ This is the Alpha Advantage.
 
 This is Roials-Alpha.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

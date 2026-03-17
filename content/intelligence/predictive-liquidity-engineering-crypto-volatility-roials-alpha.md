@@ -73,13 +73,9 @@ The Roials Alpha Framework uses a multi tier analytic stack focused on four mech
 Order books thin faster than traditional markets because liquidity is not anchored by market makers with robust balance sheets.
 
 Roials Alpha models microstructure stress by ingesting: 
-
 -  Latency footprints across centralized and decentralized venues 
-
 -  Real time slippage distributions 
-
 -  Bid ask slope degradation 
-
 -  Cross exchange spread elasticity This allows the model to forecast liquidity strain before price dislocations occur.
 
 Most liquidations occur not because of price discovery but because of depth collapse.
@@ -91,13 +87,9 @@ This is measurable.
 Therefore the primary risk is not borrower creditworthiness but collateral quality fluctuations.
 
 Roials Alpha generates a collateral impairment curve that incorporates: 
-
 -  Reflexive volatility clusters 
-
 -  Funding rate drift across derivatives markets 
-
 -  Implied stability coefficients 
-
 -  Stress zone thresholds triggered by cross asset correlations The model can determine when a position is approaching impairment well before the market registers it. 
 
 3. Cross Asset Risk Propagation Volatility in digital assets usually originates from non crypto catalysts.
@@ -111,13 +103,9 @@ This prevents allocators from misjudging idiosyncratic risk as systemic risk.
 4. Liquidity Regeneration Protocols Capital Structuring requires creating alternative liquidity channels that are not dependent on exchange depth.
 
 Roials Alpha builds synthetic liquidity reserves by optimizing: 
-
 -  Stablecoin treasuries 
-
 -  Tokenized credit instruments 
-
 -  Collateral transformation pathways 
-
 -  Programmable asset hardening The goal is to ensure that capital is never forced to liquidate into thin markets.
 
 Liquidity is engineered upstream before market stress manifests.
@@ -143,17 +131,11 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator for alloc
 The firm does not function as an asset manager.
 
 Instead, it acts as a structural partner facilitating: 
-
 -  Strategic Alignment 
-
 -  Institutional ## 
 
 ## INTRODUCTION
-
- 
-
 -  Market Navigation 
-
 -  Operational Intelligence The Roials Alpha Framework is an analytical infrastructure designed to serve as an external intelligence layer.
 
 UHNW families, private credit groups, and multi jurisdiction allocators use Roials Capital to understand the structural mechanics behind crypto volatility, not for transaction execution.
@@ -168,8 +150,9 @@ The analytical model is built to match operator realities with allocator require
 
 For allocators with exposure to volatile digital assets, the Roials Alpha Framework functions as a liquidity governance system.
 
-It ensures that digital asset volatility is contextualized using quantitative analytics aligned with institutional expectations. ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved. 
+It ensures that digital asset volatility is contextualized using quantitative analytics aligned with institutional expectations. ## ## 
 
+## THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved. 
 -  **Proverbs 13:22** states that a good person leaves an inheritance for future generations.
 
 In capital terms this is the obligation to allocate resources wisely, reduce waste, and ensure continuity across market cycles.
@@ -179,29 +162,22 @@ Digital asset markets generate extreme opportunity velocity but also extreme fra
 The absence of structured liquidity creates unnecessary capital leakage.
 
 Roials Alpha is designed to minimize this leakage by establishing: 
-
 -  Non speculative balance sheet architecture 
-
 -  Resource efficient liquidity reserves 
-
 -  Controlled exposure windows 
-
 -  Collateral transformation pathways that avoid unnecessary drawdown The objective is disciplined capital preservation through predictive modeling.
 
 Stewardship is not risk avoidance.
 
-It is risk governance through technical competence. ## ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators facing digital asset volatility require a framework that transforms uncertainty into measurable structure.
+It is risk governance through technical competence. ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Allocators facing digital asset volatility require a framework that transforms uncertainty into measurable structure.
 
 The Roials Alpha Framework offers a decision making lens based on: 
-
 -  Predictive liquidity stress mapping 
-
 -  Collateral impairment modeling 
-
 -  Cross asset volatility propagation 
-
 -  Synthetic Strategic Collateralization 
-
 -  Algorithmic balance sheet optimization The environment demands technical intelligence rather than sentiment driven decision making.
 
 Allocators with exposure to volatile assets need a neutral analytical partner capable of interpreting the complexity of crypto markets through institutional standards.
@@ -213,3 +189,5 @@ The next logical step for allocators is a Confidential Strategy Audit designed t
 The audit is not transactional.
 
 It is a structural review intended to strengthen balance sheet resilience and enhance overall capital stewardship.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -28,7 +28,9 @@ We build unseen architecture that converts assets into accelerated liquidity at 
 
 This is AI-driven Asset-Based Institutional Liquidity Paths for emerging markets.
 
-This is the new liquidity stack. ## The Strategic Role of AI in Risk Compression Emerging markets contain multi vector risk.
+This is the new liquidity stack. 
+
+## The Strategic Role of AI in Risk Compression Emerging markets contain multi vector risk.
 
 Currency risk, political risk, counterparty risk, liquidity risk, and regulatory risk operate simultaneously.
 
@@ -52,7 +54,9 @@ Compression.
 
 AI reduces the volatility bandwidth inside which Capital Structuring must operate.
 
-This creates more predictable credit behavior and higher structural confidence. ## Roials-Alpha as the Liquidity Core for Global Wealth HNWI and UHNW clients require a fundamentally different type of lender.
+This creates more predictable credit behavior and higher structural confidence. 
+
+## Roials-Alpha as the Liquidity Core for Global Wealth HNWI and UHNW clients require a fundamentally different type of lender.
 
 They do not need consumer banking products.
 
@@ -68,7 +72,9 @@ We are the mechanics.
 
 We are the architecture.
 
-We operate behind the curtain. ## The Future of Emerging Market Asset-Based Lending AI-driven Asset-Based Lending will define the next decade of wealth mobility.
+We operate behind the curtain. 
+
+## The Future of Emerging Market Asset-Based Lending AI-driven Asset-Based Lending will define the next decade of wealth mobility.
 
 Emerging markets possess the highest return profiles but the lowest structural liquidity.
 
@@ -92,10 +98,10 @@ It compresses risk.
 
 It expands opportunity.
 
-It builds structural leverage for HNWI and UHNW clients who require speed, intelligence, and silent authority.
+It builds structural leverage for HNWI and UHNW clients who require speed, intelligence, and principal authority.
 
 Our systems provide the foundation.
 
 Clients gain the advantage.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

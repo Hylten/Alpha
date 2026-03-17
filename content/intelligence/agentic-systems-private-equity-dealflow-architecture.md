@@ -55,17 +55,11 @@ The correct framework is to treat them as [Capital Structuring]([Roials Capital]
 Core mechanical components: 
 
 1. Signal Acquisition Layer Agentic architectures absorb raw market telemetry across: 
-
 -  public registries 
-
 -  corporate structures 
-
 -  asset level performance data 
-
 -  transactional history 
-
 -  regulatory flags 
-
 -  operational integrity signals This layer performs the equivalent of first pass triage, removing any asset that fails baseline technical criteria.
 
 For energy transactions this includes reservoir continuity, production decline curve stability, lift cost variance, steam oil ratios, and environmental liability profiles.
@@ -75,41 +69,27 @@ For private credit this includes structural seniority analysis, LTV curvature, c
 2. Institutional Fitness Scoring Each allocator operates under a unique Institutional Archetype.
 
 Agentic systems translate this archetype into operational constraints. 
-
 -  risk envelope 
-
 -  jurisdictional tolerance 
-
 -  time to liquidity 
-
 -  collateral preference 
-
 -  balance sheet optimization priorities The system evaluates assets not in isolation but in relation to allocator alignment.
 
 This replaces the traditional manual fit assessment which historically consumed significant analyst time. 
 
 3. Autonomous Due Diligence Expansion Once an asset clears the fitness threshold, the agentic cluster expands the diligence package using recursive verification. 
-
 -  cross referencing public, private, and proprietary datasets 
-
 -  flagging structural inconsistencies 
-
 -  simulating balance sheet conditions 
-
 -  validating capital stack integrity For energy assets the system models recovery mechanics under varied steam oil ratios, pressure regimes, water cut forecasts, and transportation constraints.
 
 For corporate transactions it models cash flow waterfall durability under stress scenarios. 
 
 4. Structural Assembly Engine Agentic systems generate optimized structures aligned with allocator profile. 
-
 -  jurisdictional routing 
-
 -  tax efficient pathways 
-
 -  seniority calibration 
-
 -  collateral stacking 
-
 -  liquidity release sequencing This is where the system expresses its differentiating capability.
 
 Where a human team might model three structure variants, an agentic architecture models thousands.
@@ -141,27 +121,23 @@ When
 NAEO provides basin specific intelligence, operational validation, and field level verification inside Alberta and Saskatchewan.
 
 This includes: 
-
 -  decline curve audits 
-
 -  reservoir modeling integrity checks 
-
 -  infrastructure constraint assessments 
-
 -  thermal recovery feasibility for SAGD and CSS assets 
-
 -  ESG compliance alignment with provincial requirements Roials Capital does not act as the fund manager.
 
 The firm operates as an introducer and alignment architect ensuring that institutional capital engages with assets through the correct structures and counterparties.
 
 When mandates involve private credit, secondary transactions, or M&A, the partnership model shifts toward structural analysis and capital stack optimization.
 
-The emphasis is always on allocator alignment and regulatory clarity. ## ## ## THE STEWARDSHIP FILTER Stewardship within private markets is the discipline of non wasteful resource deployment.
+The emphasis is always on allocator alignment and regulatory clarity. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship within private markets is the discipline of non wasteful resource deployment.
 
 It is a theological position on capital that prioritizes clarity, proportionality, and responsible allocation.
 
 The relevant principle is found in 
-
 -  **Proverbs 13:22** which frames the concept of generational continuity.
 
 Stewardship is not passive.
@@ -178,7 +154,9 @@ When agentic systems reduce this misalignment, they fortify the allocator's deci
 
 Stewardship also involves the avoidance of excess leverage, the careful calibration of liquidity, and the structural hardening of assets so they remain resilient under variable conditions.
 
-Balance sheet optimization becomes a stewardship discipline when it prevents unnecessary fragility. ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 2026 environment require a decision making lens that incorporates agentic intelligence not as a novelty but as infrastructure.
+Balance sheet optimization becomes a stewardship discipline when it prevents unnecessary fragility. ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 2026 environment require a decision making lens that incorporates agentic intelligence not as a novelty but as infrastructure.
 
 The strategic question is alignment.
 
@@ -191,3 +169,5 @@ Autonomous systems must be tuned to the allocator's Institutional Archetype so t
 This briefing provides the framework for understanding how the new architecture of private equity dealflow operates.
 
 For allocators seeking clarity on integration, structural calibration, or jurisdiction specific applications, Roials Capital conducts a confidential Strategy Calibration session that examines the allocator's current deployment environment, alignment profile, and optimization priorities. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

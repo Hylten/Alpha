@@ -26,7 +26,9 @@ And asset based Institutional Liquidity Paths becomes the collateral architectur
 
 This is the new field of Agentic Wealth Mobility.
 
-And Roials-Alpha built the mechanics for it. ## Strategic Advantages Created by RL Based Mobility The mobility is not the goal.
+And Roials-Alpha built the mechanics for it. 
+
+## Strategic Advantages Created by RL Based Mobility The mobility is not the goal.
 
 The mobility is the competitive edge.
 
@@ -42,11 +44,13 @@ Better leverage cycles due to dynamic collateral management.
 
 These are not incremental benefits.
 
-They are step function shifts in how private wealth interacts with the global financial environment. ## Silent Authority: The Roials-Alpha Signature We do not signal.
+They are step function shifts in how private wealth interacts with the global financial environment. 
+
+## principal authority: The Roials-Alpha Signature We do not signal.
 
 We architect.
 
-Silent authority is not branding.
+principal authority is not branding.
 
 It is an operating philosophy.
 
@@ -60,7 +64,9 @@ Private credit and Asset-Based Lending are the structural backbone.
 
 Cross border mobility is the lived experience.
 
-This is private wealth that moves with institutional precision and agentic autonomy. ## The Future of Agentic Wealth Mobility The next stage of wealth architecture is already taking shape.
+This is private wealth that moves with institutional precision and agentic autonomy. 
+
+## The Future of Agentic Wealth Mobility The next stage of wealth architecture is already taking shape.
 
 Capital systems will become self organizing.
 
@@ -76,8 +82,8 @@ Not the world that still relies on static credit systems and human speed constra
 
 Agentic mobility is the future.
 
-Silent authority is the method.
+principal authority is the method.
 
 Borderless optimization is the outcome.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

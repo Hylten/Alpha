@@ -131,15 +131,10 @@ For allocators focusing on private credit, Roials Capital provides ##
  and structuring intelligence.
 
 The structures often include: 
-
 -  Senior secured lending models. 
-
 -  Cross collateralization where multiple energy assets support a unified credit facility. 
-
 -  LTV calibration aligned with production forecasts and reservoir performance. 
-
 -  Multi tranche waterfalls that allocate cash flow to various capital layers. 
-
 -  Liability stacking avoidance to preserve operational solvency at the operator level.
 
 The partnership model is not based on product distribution.
@@ -152,14 +147,15 @@ NAEO provides technical energy domain accuracy.
 
 Roials Capital provides institutional structuring accuracy.
 
-The allocator receives a system capable of cross border optimization without friction. ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+The allocator receives a system capable of cross border optimization without friction. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is an operational discipline.
 
 In this framework, capital is treated as a scarce resource that must be deployed with precision and accountability.
 
 Intelligent capital deployment mirrors the principle of non wasteful management referenced in 
-
 -  **Proverbs 13:22** .
 
 Agentic wealth mobility must operate within this stewardship logic.
@@ -186,7 +182,11 @@ A credit facility that is oversized relative to borrower capacity is wasteful.
 
 A facility that is undersized creates operational strain.
 
-The reinforcement learning model calibrates the optimal balance point where capital supports performance without generating excess liability load. ## ## ## THE ## ## ## DECISION MAKING LENS Allocators operating at the institutional level require a structural lens rather than an asset lens.
+The reinforcement learning model calibrates the optimal balance point where capital supports performance without generating excess liability load. ## ## 
+
+## THE ## ## 
+
+## DECISION MAKING LENS Allocators operating at the institutional level require a structural lens rather than an asset lens.
 
 The question is not whether private credit, energy, or cross border optimization is attractive.
 
@@ -205,3 +205,5 @@ Allocators who do not meet these markers benefit from a structured portfolio cal
 Roials Capital facilitates confidential strategy audits for allocators seeking to navigate this shift.
 
 The audit evaluates cross border flows, credit structuring, energy allocation pathways, and reinforcement learning integration readiness.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

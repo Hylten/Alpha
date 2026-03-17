@@ -24,9 +24,11 @@ This article explains how autonomous systems expand private credit pathways, how
 
 Everything here is the architecture behind the curtain.
 
-Silent authority.
+principal authority.
 
-Precision mechanics. ## Closing Precision Autonomous systems are not a trend.
+Precision mechanics. 
+
+## Closing Precision Autonomous systems are not a trend.
 
 They are the new credit infrastructure.
 
@@ -38,4 +40,4 @@ High‑threshold crypto and public share Monetization Architecture belong to tho
 
 Roials‑Alpha exists for exactly that profile.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -16,7 +16,9 @@ This gap is now measurable in cycle times, recovery precision, default anticipat
 
 The strategic reality is that private credit alpha in the next decade will not be a function of price negotiation or capital access.
 
-It will be a function of computational architecture. ## PHASE 
+It will be a function of computational architecture. 
+
+## PHASE 
 
 1. ## ## ## ## ## 
 
@@ -68,7 +70,9 @@ Allocators without agentic infrastructure cannot maintain competitive cycle time
 
 The market no longer rewards capital.
 
-It rewards computational advantage. ## PHASE 
+It rewards computational advantage. 
+
+## PHASE 
 
 2. ## ## ## ## ## 
 
@@ -142,7 +146,9 @@ The cycle time from discovery to deployment compresses.
 
 The clarity of risk calibration increases.
 
-Default events become predictable rather than disruptive. ## PHASE 
+Default events become predictable rather than disruptive. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates within this regime shift as a strategic navigator.
 
@@ -182,9 +188,13 @@ This includes decisions regarding portfolio structure, credit architecture upgra
 
 The objective is clarity.
 
-The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring. ## PHASE 
+The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring. 
 
-4. ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of resource management that prioritizes responsible deployment over speculative acceleration.
+## PHASE 
+
+4. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline of resource management that prioritizes responsible deployment over speculative acceleration.
 
 The current computational transition in private credit amplifies the importance of stewardship because systems can accelerate capital movement at a pace that exceeds human oversight.
 
@@ -193,7 +203,6 @@ This creates both opportunity and risk.
 Stewardship requires that capital be deployed where it can be monitored, supported, and recovered with discipline.
 
 Agentic systems reduce uncertainty, but they do not replace the principle that capital should be managed with clarity of purpose. 
-
 -  **Proverbs 13:22** defines the long term orientation that underpins disciplined financial decision making.
 
 Stewardship translates this into operational reality through three filters.
@@ -224,7 +233,9 @@ Institutional resilience.
 
 Stewardship includes designing a portfolio that can withstand rate shifts, liquidity stress, and macroeconomic turbulence without reactive repositioning.
 
-Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis. ## PHASE 
+Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis. 
+
+## PHASE 
 
 5. DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 2026 faces a bifurcated landscape.
 
@@ -253,3 +264,5 @@ The future of private credit alpha is computational.
 The institutions that understand this early will control the opportunity landscape.
 
 The institutions that wait will operate in a structurally inferior environment.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

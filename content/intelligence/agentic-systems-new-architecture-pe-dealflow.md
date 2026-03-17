@@ -33,7 +33,6 @@ A new architecture where principal intelligence is embedded, not delegated.
 Where the firm becomes a system, not a hierarchy.
 
 Where dealflow becomes computable. 
-
 -  **Proverbs 13:22** speaks: A good man leaves an inheritance to his children’s children.
 
 Capital permanence.
@@ -579,7 +578,6 @@ Over time, the agentic architecture becomes the principal’s institutional lega
 A durable form of inheritance.
 
 As 
-
 -  **Proverbs 13:22** instructs.
 
 The new architecture of PE dealflow hinges on five mandates.
@@ -703,3 +701,5 @@ This is the new institution.
 This is the new private equity.
 
 Inquiry: Request specifications for your agentic infrastructure.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

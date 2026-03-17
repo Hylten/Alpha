@@ -71,21 +71,13 @@ LAYER 1: Algorithmic Deal Flow Architecture The core premise is that deal sourci
 It is machine discovered.
 
 Inputs include: 
-
 -  sector specific financial telemetry 
-
 -  lien registry data 
-
 -  reservoir engineering data 
-
 -  land title systems 
-
 -  corporate registry changes 
-
 -  drilling license movements 
-
 -  commodity linked cash flow signatures 
-
 -  legal filings and lien actions Structured correctly, these data sets generate pre underwritten deal candidates before a human analyst is even aware the asset is in motion.
 
 LAYER 2: AI First Credit Underwriting The credit model is built on three core pillars. 
@@ -109,17 +101,11 @@ LAYER 3: Autonomous Monitoring Systems Monitoring is not quarterly reporting.
 It is continuous data ingestion.
 
 Operational telemetry includes: 
-
 -  real time revenue capture 
-
 -  variance curves 
-
 -  covenant pressure indicators 
-
 -  asset degradation velocity 
-
 -  legal perimeter movements 
-
 -  borrower behavioral patterns The result is a portfolio that is risk managed by system integrity rather than manual oversight.
 
 LAYER 4: Machine Directed Execution This includes payment flows, enforcement workflows, document autonomous infrastructure, lien registration, and restructuring pathways.
@@ -154,7 +140,9 @@ In the North American energy domain, NAEO functions as the institutional grade c
 
 There is no product distribution.
 
-The function is strategic alignment. ## ## ## THE STEWARDSHIP FILTER Stewardship is treated as a discipline of resource efficiency rather than ideology.
+The function is strategic alignment. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is treated as a discipline of resource efficiency rather than ideology.
 
 Capital is a scarce instrument.
 
@@ -163,26 +151,24 @@ Time is scarcer.
 The allocator that manages both with precision demonstrates stewardship.
 
 This aligns with the principle in 
-
 -  **Proverbs 13:22** which establishes the multi generational responsibility of capital custodianship.
 
 The stewardship filter evaluates: 
-
 -  waste in operational workflows 
-
 -  redundancy in data interpretation 
-
 -  friction in execution cycles 
-
 -  unnecessary exposure to complex strategies 
-
 -  drift from foundational mandates Stewardship is not austerity.
 
 It is the elimination of misalignment.
 
 It prevents allocators from participating in complexity masquerading as sophistication.
 
-It ensures the portfolio reflects the allocator's strategic archetype. ## ## ## THE ## ## ## DECISION MAKING LENS FOR ALLOCATORS Agentic finance is not a trend.
+It ensures the portfolio reflects the allocator's strategic archetype. ## ## 
+
+## THE ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Agentic finance is not a trend.
 
 It is the dominant operational regime for the next decade.
 
@@ -205,3 +191,5 @@ Roials Capital provides the navigation framework and the institutional introduct
 The process is delivered through a confidential strategy audit or portfolio calibration session, where operational inefficiencies, opportunity gaps, and structural misalignments are mapped and corrected.
 
 The objective is to position the allocator to operate at institutional velocity without expanding internal complexity.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

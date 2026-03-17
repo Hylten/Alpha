@@ -44,7 +44,9 @@ Minimum entry 5,000,
 
 Everything engineered to secure the highest level of informational asymmetry.
 
-This is how AI identifies Asset-Based Lending opportunities in M&A before anyone knows they exist. ## The Future: Fully Agentic Asset-Based Lending Origination The next frontier is full agentic orchestration.
+This is how AI identifies Asset-Based Lending opportunities in M&A before anyone knows they exist. 
+
+## The Future: Fully Agentic Asset-Based Lending Origination The next frontier is full agentic orchestration.
 
 The system not only identifies opportunities.
 
@@ -98,8 +100,8 @@ Crypto collateral above 2,000,
 
 000. Engineered precision.
 
-Silent authority.
+principal authority.
 
 Institutional mechanics.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

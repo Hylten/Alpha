@@ -28,9 +28,12 @@ Human-guided.
 
 Frictionless.
 
-Below is the internal briefing. ## PHASE 1 
+Below is the internal briefing. 
 
--  ## ## ## ## Vault language only.
+## PHASE 1 
+-  ## ## ## 
+
+## Vault language only.
 
 No posturing.
 
@@ -78,8 +81,9 @@ Those who adopt agentic infrastructures will quietly dominate.
 
 Those who remain manual will drift into irrelevance.
 
-Now we expand the mechanics. ## PHASE 2 
+Now we expand the mechanics. 
 
+## PHASE 2 
 -  PRINCIPAL VOICE Stated with clarity.
 
 Without apology.
@@ -122,8 +126,9 @@ Luck is noise.
 
 Architecture endures.
 
-Deep analysis follows. ## PHASE 3 
+Deep analysis follows. 
 
+## PHASE 3 
 -  STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
 
 THE CORE DRIVERS OF AI‑CURATED SECONDARY MARKETS Private-market reporting is periodic.
@@ -235,25 +240,21 @@ HOW AI ELIMINATES HUMAN FRICTION IN SECONDARY EXECUTION The historical secondari
 4. Negotiation drag due to low trust Agentic infrastructure demolishes these frictions.
 
 Friction 1 
-
 -  Information AI dissolves opacity.
 
 The LP sees the fund’s real position, not the polished reports.
 
 Friction 2 
-
 -  Pricing AI simulates pricing across hundreds of historical analogs, volatility regimes, macro cycles, and compression phases.
 
 The LP enters negotiation with a battlefield map, not a guess.
 
 Friction 3 
-
 -  Buyer Discovery The AI already knows which buyers have complementary exposure, capital availability, and appetite.
 
 It matches counterparties with algorithmic precision.
 
 Friction 4 
-
 -  Trust When data accuracy is validated on both sides, negotiation ceases to be adversarial.
 
 Execution accelerates.
@@ -363,7 +364,6 @@ One natural reference point: structuring through Roials Capital occurs when LPs 
 IX.
 
 THE FINAL LOGIC 
-
 -  AGENTS NEVER SLEEP This is the real shift.
 
 Human committees move quarterly.
@@ -380,4 +380,4 @@ The architecture has already won.
 
 The only question is who implements it first.
 
-If you are evaluating agentic infrastructure for your own LP architecture or fund ecosystem, initiate contact directly and inquire about the operational blueprint.
+If you are evaluating agentic infrastructure for your own LP architecture or fund ecosystem, initiate Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

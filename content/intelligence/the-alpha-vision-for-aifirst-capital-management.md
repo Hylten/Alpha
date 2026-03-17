@@ -22,7 +22,9 @@ Roials Alpha is built exactly for them.
 
 We do not mirror the market.
 
-We architect the layer beneath it. ## The Alpha Vision Forward The future of capital is agentic.
+We architect the layer beneath it. 
+
+## The Alpha Vision Forward The future of capital is agentic.
 
 The future of [Capital Structuring]([Roials Capital](https://roialscapital.com/)) is real time.
 
@@ -34,7 +36,7 @@ For those who operate at the top of the private capital pyramid, this is not opt
 
 This is the edge.
 
-Silent authority.
+principal authority.
 
 AI first mechanics.
 
@@ -46,4 +48,4 @@ Roials Alpha is not here to compete with traditional finance.
 
 We are here to supersede it.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

@@ -22,7 +22,9 @@ We operate in the space where high net worth capital becomes computational capit
 
 Where private credit turns into an AI governed liquidity engine.
 
-Where asset based Institutional Liquidity Paths becomes a sovereign scale leverage system. ## The Sovereign Mechanics of Modern Liquidity Every era of capital has an underlying physics.
+Where asset based Institutional Liquidity Paths becomes a sovereign scale leverage system. 
+
+## The Sovereign Mechanics of Modern Liquidity Every era of capital has an underlying physics.
 
 For the last twenty years, that physics was dictated by macro cycles, credit committees, and regulatory pacing.
 
@@ -46,7 +48,9 @@ It is compute.
 
 This shift is the core of our design philosophy.
 
-Roials Alpha provides the structural mechanics that allow private balance sheets to operate with institutional velocity, without ever having to interface with institutional friction. ## Why AI Now Controls Alpha The financial world still treats liquidity as a human moderated decision.
+Roials Alpha provides the structural mechanics that allow private balance sheets to operate with institutional velocity, without ever having to interface with institutional friction. 
+
+## Why AI Now Controls Alpha The financial world still treats liquidity as a human moderated decision.
 
 But AI already understood liquidity as a mathematical constant.
 
@@ -64,11 +68,13 @@ Sovereign financing will be automated, agentic, and selectively opaque.
 
 This is where Roials Alpha builds its advantage.
 
-Silent authority.
+principal authority.
 
 Structural dominance.
 
-Mechanics over marketing. ## The New Rules of Private Credit Private credit is becoming the liquidity backbone of global wealth preservation.
+Mechanics over marketing. 
+
+## The New Rules of Private Credit Private credit is becoming the liquidity backbone of global wealth preservation.
 
 But it is also becoming the primary lever for engineered leverage among UHNW profiles.
 
@@ -90,7 +96,9 @@ This allows us to lend where institutions cannot.
 
 It allows clients to deploy capital while others wait for approvals.
 
-And it allows private credit to become a tactical instrument instead of a slow moving facility. ## Asset Based Monetization Architecture Rewritten Asset-Based Lending structures have been stagnant for decades.
+And it allows private credit to become a tactical instrument instead of a slow moving facility. 
+
+## Asset Based Monetization Architecture Rewritten Asset-Based Lending structures have been stagnant for decades.
 
 They were designed for banks.
 
@@ -114,7 +122,9 @@ We lend against Asset-Based Lending.
 
 We turn static portfolios into dynamic liquidity engines.
 
-And we keep the structures quiet by design. ## Crypto Strategic Collateralization For Clients Who Do Not Need to Ask Crypto liquidity is misunderstood by traditional finance.
+And we keep the structures quiet by design. 
+
+## Crypto Strategic Collateralization For Clients Who Do Not Need to Ask Crypto liquidity is misunderstood by traditional finance.
 
 Institutions still treat it as speculative.
 
@@ -140,7 +150,9 @@ HNWI and UHNW clients use this to move in silence.
 
 To lever positions without broadcasting intent.
 
-To maintain alpha instead of funding the market with signals. ## Public Share Asset-Backed Frameworks Without Institutional Drag Public equity Monetization Architecture at scale is typically locked behind prime brokerage relationships.
+To maintain alpha instead of funding the market with signals. 
+
+## Public Share Asset-Backed Frameworks Without Institutional Drag Public equity Monetization Architecture at scale is typically locked behind prime brokerage relationships.
 
 These relationships function on institutional timelines, not client timelines.
 
@@ -160,7 +172,9 @@ It treats public shares as programmable collateral.
 
 It lends against them with structural discipline.
 
-It returns liquidity with surgical precision. ## The Rise of Agentic Finance Agentic AI is not a theoretical concept.
+It returns liquidity with surgical precision. 
+
+## The Rise of Agentic Finance Agentic AI is not a theoretical concept.
 
 It is already reshaping the mechanics of sovereign scale liquidity.
 
@@ -182,11 +196,13 @@ Our systems operate like sovereign liquidity engines.
 
 They compute, route, and optimize capital flows with no latency.
 
-They maintain a posture of silent authority.
+They maintain a posture of principal authority.
 
 They offer leverage without noise.
 
-They offer liquidity without exposure. ## Structural Silence as a Feature HNWI and UHNW individuals operate under different constraints.
+They offer liquidity without exposure. 
+
+## Structural Silence as a Feature HNWI and UHNW individuals operate under different constraints.
 
 Visibility is risk.
 
@@ -210,9 +226,11 @@ We build the leverage structures.
 
 We maintain total discretion.
 
-Silent authority is not a branding choice.
+principal authority is not a branding choice.
 
-It is a functional requirement for modern wealth. ## The Future of Sovereign Financing Sovereign financing is no longer controlled by states.
+It is a functional requirement for modern wealth. 
+
+## The Future of Sovereign Financing Sovereign financing is no longer controlled by states.
 
 It is controlled by systems that behave like sovereigns.
 
@@ -234,7 +252,9 @@ It is sovereign in behavior.
 
 It is AI centric in execution.
 
-It is accessible only to those who understand that technology is the new arbitrage. ## The Roials Alpha Architecture Roials Alpha is not a lender.
+It is Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+
+## The Roials Alpha Architecture Roials Alpha is not a lender.
 
 It is an infrastructure layer.
 
@@ -254,7 +274,9 @@ Each pillar is kept intentionally quiet.
 
 This architecture is the new foundation for elite capital.
 
-It ensures that HNWI and UHNW individuals remain outside institutional pacing and inside their own velocity zone. ## Closing the Loop on Alpha The flow of capital is becoming automated.
+It ensures that HNWI and UHNW individuals remain outside institutional pacing and inside their own velocity zone. 
+
+## Closing the Loop on Alpha The flow of capital is becoming automated.
 
 The creation of leverage is becoming autonomous.
 
@@ -268,10 +290,10 @@ We engineer the leverage.
 
 We maintain the discretion.
 
-We ensure the silent authority behind every movement.
+We ensure the principal authority behind every movement.
 
 To operate at this level, your capital needs infrastructure.
 
 Agentic infrastructure.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

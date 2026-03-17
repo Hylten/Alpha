@@ -14,7 +14,9 @@ Our framework uses agentic intelligence to convert fragmented assets, asymmetric
 
 This is structural mechanics for M&A operators who do not ask for permission, they ask for precision.
 
-And precision is the only language we speak. ## M&A Liquidity as a Multi‑Vector Problem Complex M&A is never linear.
+And precision is the only language we speak. 
+
+## M&A Liquidity as a Multi‑Vector Problem Complex M&A is never linear.
 
 There are always layers.
 
@@ -42,7 +44,9 @@ It respects the volatility of negotiation cycles.
 
 It respects the hidden variables that determine whether a transaction stabilizes or collapses.
 
-This is where structural intelligence eclipses traditional Strategic Collateralization logic. ## The Mechanics Behind Silent Execution Our clients demand liquidity without visibility.
+This is where structural intelligence eclipses traditional Strategic Collateralization logic. 
+
+## The Mechanics Behind Silent Execution Our clients demand liquidity without visibility.
 
 They do not want announcements.
 
@@ -56,7 +60,9 @@ We use multi‑layer verification, agentic asset intelligence, dynamic collatera
 
 This is not secrecy.
 
-This is structural discipline. ## Why Roials‑Alpha Attracts Principals Who Operate Above the Noise Because we do not operate in the same sector as retail banks or standard private credit firms.
+This is structural discipline. 
+
+## Why Roials‑Alpha Attracts Principals Who Operate Above the Noise Because we do not operate in the same sector as retail banks or standard private credit firms.
 
 We built a capital architecture for people who operate in a different altitude.
 
@@ -78,7 +84,9 @@ They do not wait for approvals.
 
 They do not wait for committees.
 
-They only need infrastructure. ## The Future: Autonomous Liquidity for Autonomous Principals Agentic intelligence is not the future of Monetization Architecture.
+They only need infrastructure. 
+
+## The Future: Autonomous Liquidity for Autonomous Principals Agentic intelligence is not the future of Monetization Architecture.
 
 It is the present.
 
@@ -96,7 +104,9 @@ Roials‑Alpha is building the architecture that lets capital move with the same
 
 This is the next frontier.
 
-And it is already live. ## Inquiry for Those Who Operate at Scale Roials‑Alpha is not for everyone.
+And it is already live. 
+
+## Inquiry for Those Who Operate at Scale Roials‑Alpha is not for everyone.
 
 It is for the principals who understand the value of agentic infrastructure before it becomes standard.
 
@@ -104,4 +114,4 @@ For those who understand that liquidity is not a product, it is a structural adv
 
 For those who treat M&A not as a transaction, but as a system.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

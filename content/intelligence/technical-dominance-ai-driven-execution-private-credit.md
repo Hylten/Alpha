@@ -122,8 +122,9 @@ Roials Capital positions itself as a technical interface.
 
 The institution receives strategic mappings, risk stratification, and operational intelligence that supports internal decision frameworks without promotional bias.
 
-This ensures compliance integrity while delivering the analytical depth expected by UHNW capital stewards and institutional CIOs. ## ## ## THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological discipline of non wasteful resource management. 
+This ensures compliance integrity while delivering the analytical depth expected by UHNW capital stewards and institutional CIOs. ## ## 
 
+## THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological discipline of non wasteful resource management. 
 -  **Proverbs 13:22** identifies the principle of multigenerational provisioning.
 
 The allocator embracing Stewardship as an operational discipline evaluates assets not through short term yield optics but through sustainability of cash flow, resilience of collateral, and long term productivity of the underlying resource.
@@ -152,7 +153,9 @@ AI driven monitoring ensures no hidden risks or time delayed disclosures.
 
 The architecture must reinforce responsible deployment rather than opportunistic extraction.
 
-Energy assets with known decline curves and private credit systems with real time risk surveillance satisfy the Stewardship mandate more effectively than volatile equity narratives or opaque yield instruments. ## ## ## CALIBRATION FRAMEWORK FOR THE ALLOCATOR Institutional allocators encountering this dual regime shift benefit from a calibration process aligned with their internal mandate.
+Energy assets with known decline curves and private credit systems with real time risk surveillance satisfy the Stewardship mandate more effectively than volatile equity narratives or opaque yield instruments. ## ## 
+
+## CALIBRATION FRAMEWORK FOR THE ALLOCATOR Institutional allocators encountering this dual regime shift benefit from a calibration process aligned with their internal mandate.
 
 The following decision lens supports clarity. 
 
@@ -173,3 +176,5 @@ AI driven execution is transitioning from a information asymmetry advantage to a
 Heavy oil assets in Alberta continue to represent one of the most misunderstood but structurally resilient components of the North American real asset ecosystem.
 
 The allocator who integrates these insights strengthens both tactical precision and long horizon Stewardship. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

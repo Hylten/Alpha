@@ -118,7 +118,9 @@ These systems combine to create a capital architecture that is more precise, fas
 
 It reduces human friction to near zero.
 
-It allows allocators to participate in calibrated credit structures without relying on discretionary interpretation. ## THE PARTNERSHIP MODEL Roials Capital operates as the strategic navigator, not as the asset owner or the credit issuer.
+It allows allocators to participate in calibrated credit structures without relying on discretionary interpretation. 
+
+## THE PARTNERSHIP MODEL Roials Capital operates as the strategic navigator, not as the asset owner or the credit issuer.
 
 The role is institutional navigation.
 
@@ -135,11 +137,8 @@ It identifies whether the allocator is operating from a position of liquidity do
 2. Infrastructure Alignment Based on the institutional archetype, Roials Capital determines which components of the Sovereign AI Bank align with the allocator’s objectives.
 
 For example: 
-
 -  UHNW family offices may require deal flow filtration. 
-
 -  European institutions may require cross border compliance integration. 
-
 -  Private credit funds may require origination velocity and underwriting autonomous infrastructure.
 
 Alignment is driven by operational needs, not by product distribution. 
@@ -156,7 +155,9 @@ This partnership structure preserves neutrality.
 
 It maintains distance from asset ownership.
 
-It ensures the allocator receives unconflicted intelligence and access. ## ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of responsible capital management.
+It ensures the allocator receives unconflicted intelligence and access. ## ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of responsible capital management.
 
 It is not a moral abstraction.
 
@@ -169,7 +170,6 @@ The stewardship filter has three components.
 1. Accuracy as Ethics Capital misallocation is a form of waste.
 
 Precision in underwriting, collateral analysis, and liquidity modeling is a form of ethical responsibility. 
-
 -  **Proverbs 13:22** underscores the principle of multi generational stewardship.
 
 Accuracy ensures preservation across generations. 
@@ -188,10 +188,14 @@ Structural resilience is not a preference.
 
 It is a duty for allocators responsible for generational capital or institutional balance sheets.
 
-The stewardship filter ensures that computational performance is aligned with ethical responsibility. ## ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The current market regime rewards allocators who operate with clarity, precision, and structural alignment.
+The stewardship filter ensures that computational performance is aligned with ethical responsibility. ## ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR The current market regime rewards allocators who operate with clarity, precision, and structural alignment.
 
 The Sovereign AI Bank provides a digital infrastructure that eliminates friction and enhances operational intelligence.
 
 Allocators evaluating strategic recalibration can request a confidential strategy audit with Roials Capital.
 
 This audit maps the allocator’s current positioning, identifies structural gaps, and clarifies which components of the AI architecture can enhance balance sheet optimization and institutional durability. [END OF INSTITUTIONAL BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -24,7 +24,9 @@ This is private credit without the noise.
 
 This is Asset-Based Lending with surgical efficiency.
 
-This is the architecture behind silent authority. (See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) ## The Strategic Edge: Why Agentic Systems Beat Conventional Underwriting Traditional underwriting is linear.
+This is the architecture behind principal authority. (See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
+
+## The Strategic Edge: Why Agentic Systems Beat Conventional Underwriting Traditional underwriting is linear.
 
 Agentic underwriting is multidimensional.
 
@@ -33,42 +35,45 @@ In the old model, credit assessment is captured at a point in time.
 In an agentic model, credit assessment is a continuous flow state.
 
 Conventional systems check for: 
-
 •  Income 
-
 •  Credit scores 
-
 •  Static ratios Agentic underwriting checks for: 
-
 •  Dynamic asset behavior 
-
 •  Real time liquidity depth 
-
 •  Historical volatility signatures 
-
 •  Macro correlation patterns 
-
 •  Internal borrower risk topology 
-
 •  High frequency collateral health The difference is not incremental.
 
-The difference is exponential. ## The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers. # ## Layer 1: Collateral Intelligence Engine Evaluates collateral with structured models.
+The difference is exponential. 
+
+## The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers. # 
+
+## Layer 1: Collateral Intelligence Engine Evaluates collateral with structured models.
 
 Operates continuously.
 
-Updates LTV parameters dynamically. # ## Layer 2: Agentic Exposure Manager Monitors volatility bands.
+Updates LTV parameters dynamically. # 
+
+## Layer 2: Agentic Exposure Manager Monitors volatility bands.
 
 Adjusts exposure without human approval.
 
-Enforces capital rules. # ## Layer 3: Autonomous Liquidity Router Deploys funds with minimal latency.
+Enforces capital rules. # 
+
+## Layer 3: Autonomous Liquidity Router Deploys funds with minimal latency.
 
 Optimizes capital pathways.
 
-Reduces slippage across asset channels. # ## Layer 4: Privacy Vault Mechanics Isolates client identity from execution layers.
+Reduces slippage across asset channels. # 
+
+## Layer 4: Privacy Vault Mechanics Isolates client identity from execution layers.
 
 Maintains zero retail footprint.
 
-Enforces structural confidentiality. # ## Layer 5: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
+Enforces structural confidentiality. # 
+
+## Layer 5: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
 
 No friction.
 
@@ -78,46 +83,38 @@ No uncertainty.
 
 These layers are not optional modules.
 
-They are the foundation. ## Asset-Based Lending in the Agentic Era: High Fidelity Institutional Liquidity Paths Asset based Institutional Liquidity Paths has existed for decades.
+They are the foundation. 
+
+## Asset-Based Lending in the Agentic Era: High Fidelity Institutional Liquidity Paths Asset based Institutional Liquidity Paths has existed for decades.
 
 What has not existed is the ability to transform Asset-Based Lending into a high fidelity, real time capital architecture.
 
 Agentic systems allow Asset-Based Lending to become: 
-
 •  Faster 
-
 •  Cleaner 
-
 •  More predictable 
-
 •  Less labor dependent 
-
 •  More accurate 
-
 •  Less prone to human error When we lend against private credit or hard collateral, the system interprets the asset’s liquidity signature in real time.
 
 It treats collateral as dynamic code instead of a fixed object.
 
 This is the future state of private credit.
 
-And it is already operational inside Roials Alpha. ## Why This Matters: The Liquidity Advantage The real advantage is structural.
+And it is already operational inside Roials Alpha. 
+
+## Why This Matters: The Liquidity Advantage The real advantage is structural.
 
 The advantage is compounding.
 
 The advantage is longevity.
 
 HNWI and UHNW clients who use agentic infrastructure experience outcomes that traditional lenders cannot match: 
-
-•  Faster credit access 
-
+•  Faster credit Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 •  Lower operational drag 
-
 •  Higher collateral efficiency 
-
 •  Real time portfolio leverage 
-
 •  No manual underwriting delays 
-
 •  Institutional mechanics without institutional visibility The infrastructure itself generates alpha because it removes friction from every stage of the Strategic Collateralization cycle.
 
 This is the design principle behind Roials Alpha.
@@ -126,7 +123,9 @@ Remove friction.
 
 Increase velocity.
 
-Enhance control. ## The Future: Agentic Infrastructure as the Standard for Private Credit Within the next decade, agentic systems will not be optional.
+Enhance control. 
+
+## The Future: Agentic Infrastructure as the Standard for Private Credit Within the next decade, agentic systems will not be optional.
 
 They will be mandatory.
 
@@ -146,6 +145,8 @@ Agentic private credit is not a product.
 
 It is an operating system.
 
-And Roials Alpha is the architecture behind it. ## Inquire About Agentic Infrastructure If you operate in the HNWI or UHNW strata and require private credit, Asset-Based Lending, or high value collateral Strategic Collateralization that functions with institutional precision and zero retail friction, Roials Alpha provides the infrastructure.
+And Roials Alpha is the architecture behind it. 
 
-Inquire about agentic infrastructure.
+## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

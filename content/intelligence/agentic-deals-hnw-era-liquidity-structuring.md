@@ -19,7 +19,6 @@ Autonomous.
 Frictionless.
 
 The firms that master high‑frequency liquidity structuring will govern the next chapter of private capital flow. 
-
 -  **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children.
 
 In modern capital architecture, inheritance is not wealth.
@@ -84,7 +83,7 @@ The architecture begins with identity of capital.
 
 Every family office carries a delta between its nominal wealth and its usable liquidity.
 
-The delta widens when credit access is episodic.
+The delta widens when credit Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 When underwriting is manual.
 
@@ -265,7 +264,6 @@ This sovereignty is the new inheritance.
 Families that fail to build it will become liquidity takers.
 
 Families that build it will become liquidity generators. 
-
 -  **Proverbs 13:22** echoes again: long-term inheritance is infrastructure.
 
 Systems.
@@ -402,6 +400,6 @@ The next step is infrastructural.
 
 Not speculative.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Mandate: 4.6bps latency ceiling.

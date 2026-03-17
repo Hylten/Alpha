@@ -108,7 +108,9 @@ The landscape includes operators focusing on healthcare receivables, platforms s
 
 There are differences in data infrastructure, collateral mapping protocols, and risk modeling algorithms.
 
-Roials Capital maps these distinctions and curates introductions that align allocator mandates with operator capabilities. ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource allocation.
+Roials Capital maps these distinctions and curates introductions that align allocator mandates with operator capabilities. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource allocation.
 
 In the context of private credit, stewardship requires deploying capital into structures where risk is intelligible, collateral is verifiable, and operational throughput is measurable in real time.
 
@@ -117,7 +119,6 @@ The AI driven Asset-Based Lending ecosystem supports this discipline by replacin
 It increases transparency, reduces waste, and enhances accountability.
 
 The stewardship principle is grounded in the scriptural instruction of 
-
 -  **Proverbs 13:22** .
 
 Wealth must be preserved, allocated, and governed with intentionality.
@@ -128,7 +129,9 @@ Precision lending preserves it.
 
 AI driven Asset-Based Lending creates the informational environment required for responsible stewardship.
 
-It aligns lending with authentic asset performance rather than outdated underwriting heuristics. ## ## ## PORTFOLIO ORIENTATION AND DECISION LENS Institutional allocators evaluating AI driven Asset-Based Lending should apply four filters: liquidity velocity, collateral integrity, data fidelity, and operator maturity.
+It aligns lending with authentic asset performance rather than outdated underwriting heuristics. ## ## 
+
+## PORTFOLIO ORIENTATION AND DECISION LENS Institutional allocators evaluating AI driven Asset-Based Lending should apply four filters: liquidity velocity, collateral integrity, data fidelity, and operator maturity.
 
 Liquidity velocity measures the speed at which the facility converts operational performance into deployable capital.
 
@@ -151,3 +154,5 @@ Roials Capital provides strategic alignment, market navigation, and institutiona
  into this rapidly evolving landscape.
 
 A confidential strategy audit can clarify where AI driven Asset-Based Lending intersects with existing mandates and how these structures can enhance portfolio durability, opportunity velocity, and long term stewardship. [END OF INSTITUTIONAL BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

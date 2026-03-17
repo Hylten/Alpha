@@ -56,7 +56,9 @@ Oversight remains sacrosanct.
 
 Flow must become autonomous.
 
-Now the architecture. ## PHASE I: ## ## ## ## (Private vaulted brief) The core problem is not sourcing.
+Now the architecture. 
+
+## PHASE I: ## ## ## ## (Private vaulted brief) The core problem is not sourcing.
 
 The world is drowning in deal flow.
 
@@ -184,7 +186,9 @@ It presents final‑stage structures that require a simple binary choice.
 
 Move.
 
-Or don’t move. ## PHASE II: INTERNAL TONE (Principal voice) You are not building a tool.
+Or don’t move. 
+
+## PHASE II: INTERNAL TONE (Principal voice) You are not building a tool.
 
 You are constructing a spine.
 
@@ -214,7 +218,9 @@ Clarity wins.
 
 Precision wins.
 
-Clean execution wins. ## PHASE III: THE VARIATION (short cadence for impact) Speed matters.
+Clean execution wins. 
+
+## PHASE III: THE VARIATION (short cadence for impact) Speed matters.
 
 Latency kills.
 
@@ -237,23 +243,14 @@ The machine must understand the identity of the capital before it processes a si
 This is not a mission statement.
 
 It is encoded preference architecture: 
-
 •  preferred time horizon 
-
 •  liquidity tolerance 
-
 •  conviction sectors 
-
 •  veto sectors 
-
 •  governance constraints 
-
 •  acceptable counterparty risk profiles 
-
 •  cyclicality tolerance 
-
 •  downside floors 
-
 •  upside thresholds The agent moves within these lines.
 
 Unbreakable.
@@ -361,11 +358,8 @@ One actionable path.
 Nothing more.
 
 The system presents three options: 
-
 •  Move 
-
 •  Hold 
-
 •  Reject Every option is backed by underlying architecture the Principal can expand if desired, but rarely needs to.
 
 The machine already did the work.
@@ -489,3 +483,5 @@ The machine can run.
 And once it runs, it does not slow.
 
 What level of agentic infrastructure are you prepared to deploy?
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

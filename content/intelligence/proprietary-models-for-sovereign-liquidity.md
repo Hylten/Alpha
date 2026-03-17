@@ -22,6 +22,8 @@ We support institutional grade Crypto Monetization Architecture with a minimum o
 
 000. We support Public Share Capital Structuring with a minimum of 5,000, 
 
-000. Every function of our ecosystem is built for principals who require silent authority, clean execution, and engineered liquidity that does not advertise itself.
+000. Every function of our ecosystem is built for principals who require principal authority, clean execution, and engineered liquidity that does not advertise itself.
 
-Below is a structural deep dive into the proprietary frameworks that enable sovereign scale capital mobility inside the Roials-Alpha infrastructure.
+Below is a structural technical brief into the proprietary frameworks that enable sovereign scale capital mobility inside the Roials-Alpha infrastructure.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

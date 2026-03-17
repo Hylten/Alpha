@@ -95,7 +95,6 @@ The sovereign executor is the party that understands the rights lattice.
 That lattice becomes computable.
 
 Once computable, it becomes weaponized for alpha. 
-
 -  **Proverbs 13:22** : “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
 
 The Alpha Framework is an institutional harvesting engine.
@@ -370,7 +369,7 @@ Capital cycles faster.
 
 Asset-Based Lending becomes renewable liquidity.
 
-Family offices gain access to institutional-grade circulation without the overhead of a bank.
+Family offices gain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 Flexibility without fragility.
 
@@ -550,4 +549,4 @@ We build that architecture.
 
 Metric: Enforcement yield compression ratio 0.87 across cross‑border Asset-Based Lending portfolios.
 
-Inquire about agentic infrastructure.
+Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

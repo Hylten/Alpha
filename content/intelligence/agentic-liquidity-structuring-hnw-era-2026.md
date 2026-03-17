@@ -110,7 +110,9 @@ It is not a tool.
 
 It is a liquidity organism. 
 
-3. CASE ## ANALYSIS: SIMULATION OF A 160M AGENTIC BUYOUT IN ENERGY AND INDUSTRIAL SERVICES Scenario: A UHNW governed family office and a mid market private equity group are pursuing a 160 million acquisition of an energy and industrial services platform in the Texas corridor.
+3. CASE 
+
+## ANALYSIS: SIMULATION OF A 160M AGENTIC BUYOUT IN ENERGY AND INDUSTRIAL SERVICES Scenario: A UHNW governed family office and a mid market private equity group are pursuing a 160 million acquisition of an energy and industrial services platform in the Texas corridor.
 
 The asset serves midstream and downstream clients and includes both fixed asset infrastructure and recurring service contracts.
 
@@ -193,7 +195,6 @@ They create capital environments where speed, precision, sovereignty, and resili
 It is a structural principle.
 
 It is the application of principled capital behaviour to technical environments where speed and complexity create opportunities for misalignment. 
-
 -  **Proverbs 13:22** states that a good man leaves an inheritance to his children's children.
 
 The modern interpretation for high performance capital is that capital must be deployed in a manner that preserves generational stability.
@@ -233,3 +234,5 @@ The future of capital is agentic.
 The future of liquidity is engineered.
 
 And the future of principal to principal deal execution will be defined by the synthesis of sovereign control, technical precision, and disciplined stewardship. [END INTELLIGENCE REPORT]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

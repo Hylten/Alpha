@@ -134,14 +134,15 @@ The objective is not adoption for its own sake but informed integration.
 
 The role is strategic orientation, structural clarity, and responsible introductions.
 
-This ensures independence, neutrality, and institutional grade alignment between the allocator and the operating environment. ## ## ## THE STEWARDSHIP FILTER Stewardship defines the moral and operational core of the framework.
+This ensures independence, neutrality, and institutional grade alignment between the allocator and the operating environment. ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship defines the moral and operational core of the framework.
 
 It is the discipline of non wasteful resource deployment, rational capital formation, and ethical responsibility over assets.
 
 In this context AI first capital management enhances stewardship by removing emotional bias and human error from capital decisions.
 
 It converts resource governance from subjective interpretation into objective rule bound oversight. 
-
 -  **Proverbs 13:22** establishes a foundational principle regarding intergenerational responsibility.
 
 Applied to institutional capital, this principle affirms that the allocator's role is not opportunistic extraction but disciplined preservation and responsible deployment of capital.
@@ -152,7 +153,9 @@ Stewardship also means allocating capital with precision.
 
 It avoids speculative volatility and prioritizes assets that demonstrate structured physics, measurable decline curves, engineered recovery profiles, or predictable cash flow architectures.
 
-In this regard AI enhances the allocator's ability to adhere to stewardship principles by providing clarity, speed, and discipline. ## ## ## THE DECISION FRAMEWORK FOR ALLOCATORS For UHNW families, private credit funds, and institutional LPs, an AI first approach becomes a necessity when three conditions converge. 
+In this regard AI enhances the allocator's ability to adhere to stewardship principles by providing clarity, speed, and discipline. ## ## 
+
+## THE DECISION FRAMEWORK FOR ALLOCATORS For UHNW families, private credit funds, and institutional LPs, an AI first approach becomes a necessity when three conditions converge. 
 
 1. Information load exceeds human processing capacity.
 
@@ -173,3 +176,5 @@ This process evaluates the allocator's current operational architecture, identif
 It is not transactional.
 
 It is strategic orientation with a focus on stewardship, operational intelligence, and long horizon asset integrity. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.
