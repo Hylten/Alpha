@@ -134,12 +134,12 @@ The ownership line stays stable.
 
 Roials-Alpha provides three specific balance sheet optimization channels, engineered for individuals who operate above the standard wealth brackets.
 
-The three Strategic Collateralization categories include: 
-•  Private Credit Monetization Architecture and Asset-Based Lending Asset-Backed Frameworks, optimized for predictable underwriting. 
-•  Crypto Asset-Backed Frameworks with a minimum threshold of 2,000, 
+The three Strategic Collateralization categories include:
+• Private Credit Monetization Architecture and Asset-Based Lending Asset-Backed Frameworks, optimized for predictable underwriting.
+• Crypto Asset-Backed Frameworks with a minimum threshold of 2,000, 
 
-000. 
-•  Public Share Capital Structuring with a minimum threshold of 5,000, 
+000.
+• Public Share Capital Structuring with a minimum threshold of 5,000, 
 
 000. These thresholds exist because sub-scale capital distorts leverage cycles.
 
@@ -211,17 +211,17 @@ Elegantly.
 
 With structural fundamentals that do not need marketing language.
 
-Our differentiators are functional, not promotional. 
-•  We lend against Private Credit, which creates stability across cycles. 
-•  We operate within Asset Based Strategic Collateralization frameworks, giving assets a predictable liquidity signature. 
-•  We provide Crypto Strategic Collateralization beginning at 2,000, 
+Our differentiators are functional, not promotional.
+• We lend against Private Credit, which creates stability across cycles.
+• We operate within Asset Based Strategic Collateralization frameworks, giving assets a predictable liquidity signature.
+• We provide Crypto Strategic Collateralization beginning at 2,000, 
 
-000. 
-•  We offer Public Share Institutional Liquidity Paths beginning at 5,000, 
+000.
+• We offer Public Share Institutional Liquidity Paths beginning at 5,000, 
 
-000. 
-•  We work exclusively with HNWI and UHNW individuals who require silent infrastructure. 
-•  We maintain institutional discipline through F-Hierarchical Dynamics, enabling quiet authority without public footprint.
+000.
+• We work exclusively with HNWI and UHNW individuals who require silent infrastructure.
+• We maintain institutional discipline through F-Hierarchical Dynamics, enabling quiet authority without public footprint.
 
 This creates an environment where clients do not seek leverage.
 

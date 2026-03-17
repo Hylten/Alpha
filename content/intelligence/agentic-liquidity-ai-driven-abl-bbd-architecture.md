@@ -77,15 +77,15 @@ The envelope is not underwritten once.
 
 It is recalculated continuously.
 
-Data pulls occur across: 
-•  Production curves 
-•  Commodity price bands 
-•  Offtake contract behavior 
-•  Counterparty stability 
-•  Legal encumbrance tiers 
-•  Jurisdictional tax exposure 
-•  FX frictions 
-•  Sovereign risk indices The envelope breathes.
+Data pulls occur across:
+• Production curves
+• Commodity price bands
+• Offtake contract behavior
+• Counterparty stability
+• Legal encumbrance tiers
+• Jurisdictional tax exposure
+• FX frictions
+• Sovereign risk indices The envelope breathes.
 
 The line expands.
 
@@ -294,13 +294,13 @@ Institutions that delay are replaced by their own inefficiencies.
 
 AI agents scout, qualify, and model incoming opportunities at scale.
 
-Models filter deals by: 
-•  Encumbrance friction 
-•  Jurisdictional constraints 
-•  Yield profile 
-•  Collateral liquidity coefficient 
-•  Cycle timing 
-•  Counterparty reliability The system builds a ranked deal‑flow ledger.
+Models filter deals by:
+• Encumbrance friction
+• Jurisdictional constraints
+• Yield profile
+• Collateral liquidity coefficient
+• Cycle timing
+• Counterparty reliability The system builds a ranked deal‑flow ledger.
 
 Not based on pitch.
 
@@ -332,13 +332,13 @@ This is the Roials‑Alpha doctrine: dominance through architecture, not negotia
 
 ## THE HARD PROBLEM: HUMAN FRICTION REMOVAL Every institution claims to be efficient.
 
-Yet most workflows still rely on humans for tasks machines outperform: 
-•  Data validation 
-•  Collateral evaluation 
-•  Covenant monitoring 
-•  Risk scoring 
-•  Contract analysis 
-•  Compliance checks Humans introduce latency.
+Yet most workflows still rely on humans for tasks machines outperform:
+• Data validation
+• Collateral evaluation
+• Covenant monitoring
+• Risk scoring
+• Contract analysis
+• Compliance checks Humans introduce latency.
 
 Machines introduce precision.
 

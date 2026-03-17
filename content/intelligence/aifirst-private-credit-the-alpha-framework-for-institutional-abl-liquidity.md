@@ -24,11 +24,11 @@ This article reveals the structural logic behind it, the agentic underwriting me
 
 Human‑only underwriting cannot compete with multi‑agent computational systems.
 
-The capital markets of the next decade will be governed by: 
-•  Autonomous risk governance 
-•  Predictive collateral intelligence 
-•  Zero‑latency underwriting 
-•  Non‑linear liquidity mapping 
-•  AI‑native Asset-Based Lending structures The Alpha Framework already operates in this regime.
+The capital markets of the next decade will be governed by:
+• Autonomous risk governance
+• Predictive collateral intelligence
+• Zero‑latency underwriting
+• Non‑linear liquidity mapping
+• AI‑native Asset-Based Lending structures The Alpha Framework already operates in this regime.
 
 This positions Roials‑Alpha not as a competitor within the private credit field, but as the underlying infrastructure that makes the field functional. # Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

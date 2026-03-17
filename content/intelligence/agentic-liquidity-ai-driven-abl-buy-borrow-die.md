@@ -22,21 +22,21 @@ The rise of agentic liquidity is transforming the Buy Borrow Die architecture fr
 
 ## THE REGIME SHIFT
 
- The macro environment is defined by four interacting dynamics that reshape asset backed credit availability: 
-•  Regulatory compression.
+ The macro environment is defined by four interacting dynamics that reshape asset backed credit availability:
+• Regulatory compression.
 
 Higher tier banks continue to apply heavier risk weights on non conforming collateral classes.
 
-This restricts credit expansion even when asset level visibility is clear. 
-•  Supply Demand imbalance in private credit.
+This restricts credit expansion even when asset level visibility is clear.
+• Supply Demand imbalance in private credit.
 
 Capital is present, but underwriting throughput is not.
 
-Managers cannot adjudicate collateral at the speed required by modern asset cycles. 
-•  Deleveraging across legacy institutions.
+Managers cannot adjudicate collateral at the speed required by modern asset cycles.
+• Deleveraging across legacy institutions.
 
-The retreat of commercial banks from Asset-Based Lending centric operations leaves an unserved market segment that is collateral rich but liquidity starved. 
-•  The AI underwriting step function.
+The retreat of commercial banks from Asset-Based Lending centric operations leaves an unserved market segment that is collateral rich but liquidity starved.
+• The AI underwriting step function.
 
 Machine adjudication of collateralized credit is no longer a theoretical construct.
 
@@ -147,11 +147,11 @@ It is the infrastructure required for the next generation of multi generational 
 
 The objective is to align high integrity allocators with the appropriate AI native Asset-Based Lending ecosystems that fit their balance sheet profile.
 
-The agentic frameworks employed are built around several institutional imperatives: 
-•  Neutral credit routing 
-•  Structural compatibility with UHNW and institutional mandates 
-•  Algorithmic governance rather than relationship based underwriting 
-•  Full data visibility for compliance and risk committees Where relevant, specialized partners are introduced for domain specific collateral classes.
+The agentic frameworks employed are built around several institutional imperatives:
+• Neutral credit routing
+• Structural compatibility with UHNW and institutional mandates
+• Algorithmic governance rather than relationship based underwriting
+• Full data visibility for compliance and risk committees Where relevant, specialized partners are introduced for domain specific collateral classes.
 
 In the North American energy sector, NAEOCC functions as the institutional grade operator for conventional assets due to its technical recovery expertise, asset level transparency, and operational discipline.
 
@@ -176,12 +176,12 @@ It is a systematic commitment to preventing value leakage across operational, fi
 
 A steward is responsible for maintaining the integrity of resources across generations.
 
-Agentic liquidity strengthens stewardship by: 
-•  Eliminating friction costs from delayed credit adjudication 
-•  Reducing tax friction through borrow based liquidity 
-•  Enhancing intergenerational transfer efficiency 
-•  Reinforcing asset longevity through real time risk monitoring 
-•  Minimizing exposure to emotional or relationship driven lending decisions The elimination of human error, personal bias, and institutional delay aligns directly with a stewardship mandate.
+Agentic liquidity strengthens stewardship by:
+• Eliminating friction costs from delayed credit adjudication
+• Reducing tax friction through borrow based liquidity
+• Enhancing intergenerational transfer efficiency
+• Reinforcing asset longevity through real time risk monitoring
+• Minimizing exposure to emotional or relationship driven lending decisions The elimination of human error, personal bias, and institutional delay aligns directly with a stewardship mandate.
 
 The allocator is not surrendering control to AI.
 
@@ -217,11 +217,11 @@ Expected pace of acquisitions or capital redeployment.
 
 This calibration determines whether an agentic liquidity ecosystem can enhance the allocator's balance sheet performance without compromising risk governance.
 
-Roials Capital facilitates a confidential Strategy Audit for allocators seeking clarity on: 
-•  Where agentic Asset-Based Lending fits within their existing balance sheet. 
-•  How much liquidity can be safely engineered through assets they already own. 
-•  Whether their asset profile qualifies for algorithmic underwriting. 
-•  Which partner ecosystem is structurally aligned with their objectives.
+Roials Capital facilitates a confidential Strategy Audit for allocators seeking clarity on:
+• Where agentic Asset-Based Lending fits within their existing balance sheet.
+• How much liquidity can be safely engineered through assets they already own.
+• Whether their asset profile qualifies for algorithmic underwriting.
+• Which partner ecosystem is structurally aligned with their objectives.
 
 This is not a solicitation.
 

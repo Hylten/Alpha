@@ -72,16 +72,16 @@ No intuition.
 
 Only data-weighted certainty.
 
-The core stack integrates: 
-•  Asset intelligence engines 
-•  Probabilistic underwriting modules 
-•  Jurisdictional arbitrage solvers 
-•  Time‑delta valuation models 
-•  Institutional identity containers 
-•  Collateral hardening protocols 
-•  Multi-chain settlement bridges 
-•  Deal flow synthesizers 
-•  Private credit pacing autonomous infrastructure Each module is independent.
+The core stack integrates:
+• Asset intelligence engines
+• Probabilistic underwriting modules
+• Jurisdictional arbitrage solvers
+• Time‑delta valuation models
+• Institutional identity containers
+• Collateral hardening protocols
+• Multi-chain settlement bridges
+• Deal flow synthesizers
+• Private credit pacing autonomous infrastructure Each module is independent.
 
 Each module is recursive.
 
@@ -133,13 +133,13 @@ Not abstractly.
 
 Mechanically.
 
-Step by step: 
-•  Asset digitization 
-•  Lien optimization 
-•  Rehypothecation constraints 
-•  Credit envelope calibration 
-•  Forward curve scenario mapping 
-•  Liquidity visibility indexing This produces a new category: structured liquidity primitives.
+Step by step:
+• Asset digitization
+• Lien optimization
+• Rehypothecation constraints
+• Credit envelope calibration
+• Forward curve scenario mapping
+• Liquidity visibility indexing This produces a new category: structured liquidity primitives.
 
 Assets become programmable capital vessels.
 
@@ -251,15 +251,15 @@ Higher certainty of execution.
 
 Zero human bottlenecks.
 
-The institutions with AI-first credit ecosystems will dominate every asset-heavy sector: 
-•  Oil and gas 
-•  Commercial real estate 
-•  Aviation 
-•  Maritime 
-•  Infrastructure 
-•  Energy transition 
-•  Industrial manufacturing 
-•  High-value corporate assets These sectors require precision.
+The institutions with AI-first credit ecosystems will dominate every asset-heavy sector:
+• Oil and gas
+• Commercial real estate
+• Aviation
+• Maritime
+• Infrastructure
+• Energy transition
+• Industrial manufacturing
+• High-value corporate assets These sectors require precision.
 
 Legacy lenders cannot provide it.
 
@@ -384,13 +384,13 @@ Instead of allocations, it creates cycles.
 
 Instead of exposure management, it creates liquidity choreography.
 
-The result is a fund architecture that behaves like a sovereign liquidity organism: 
-•  Self-rebalancing 
-•  Self-optimizing 
-•  Multi-asset adaptive 
-•  Jurisdictionally agile 
-•  Execution-first 
-•  Zero-latency deployment This is how Fund-III transcends typical AUM constraints.
+The result is a fund architecture that behaves like a sovereign liquidity organism:
+• Self-rebalancing
+• Self-optimizing
+• Multi-asset adaptive
+• Jurisdictionally agile
+• Execution-first
+• Zero-latency deployment This is how Fund-III transcends typical AUM constraints.
 
 Not by raising more capital but by engineering higher turnover, higher certainty, and higher structural leverage without increasing risk load.
 
@@ -424,12 +424,12 @@ Regulatory constraint?
 
 Perimeter realignment.
 
-Oil and gas portfolios become liquidity engines with: 
-•  Real-time production data ingestion 
-•  Automated reserve valuation 
-•  Forward curve mapping 
-•  Midstream contract optimization 
-•  Collateral hardening for extraction assets What traditional lenders classify as risk, Roials-Alpha classifies as multi-factor certainty.
+Oil and gas portfolios become liquidity engines with:
+• Real-time production data ingestion
+• Automated reserve valuation
+• Forward curve mapping
+• Midstream contract optimization
+• Collateral hardening for extraction assets What traditional lenders classify as risk, Roials-Alpha classifies as multi-factor certainty.
 
 Oil and gas becomes the prime liquidity sector of the post-energy transition decade because the assets are tangible, durable, and predictable under correct modeling.
 

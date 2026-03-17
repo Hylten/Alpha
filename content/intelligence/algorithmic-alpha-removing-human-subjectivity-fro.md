@@ -167,12 +167,12 @@ Not misdescribed.
 
 Misunderstood.
 
-Roials-Alpha addresses this with a layered collateral model. 
-•  Lineage verification. 
-•  Transactional purity. 
-•  Market depth mapping. 
-•  Real-time drift modeling. 
-•  Counterparty reliability scoring.
+Roials-Alpha addresses this with a layered collateral model.
+• Lineage verification.
+• Transactional purity.
+• Market depth mapping.
+• Real-time drift modeling.
+• Counterparty reliability scoring.
 
 The aim is to eliminate blind spots.
 
@@ -330,12 +330,12 @@ Velocity is precision.
 
 Roials-Alpha uses continuous monitoring to ensure that no asset is assumed stable unless proven stable.
 
-This surveillance layer captures: 
-•  Price integrity fluctuations. 
-•  Collateral market depth erosion. 
-•  Counterparty behavioral shifts. 
-•  Drift anomalies. 
-•  Early indicators of covenant breach.
+This surveillance layer captures:
+• Price integrity fluctuations.
+• Collateral market depth erosion.
+• Counterparty behavioral shifts.
+• Drift anomalies.
+• Early indicators of covenant breach.
 
 Monitoring is nonintrusive because it is automated.
 

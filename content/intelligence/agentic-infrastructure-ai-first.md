@@ -64,14 +64,14 @@ Not merely execute tasks.
 
 This is the Roials Alpha blueprint.
 
-It includes: 
-•  Semantic execution environments where agents understand context and intent. 
-•  API and system wrappers that expose your business logic in agent-native form. 
-•  Autonomous task routers that allocate work to the optimal AI or human unit. 
-•  Memory layers that retain state, decisions, failures, and resolutions. 
-•  Observability pipelines that allow agents to self-correct. 
-•  Policy engines that encode constraints, permissions, and compliance. 
-•  Meta agents that evaluate agents for reliability, precision, and drift.
+It includes:
+• Semantic execution environments where agents understand context and intent.
+• API and system wrappers that expose your business logic in agent-native form.
+• Autonomous task routers that allocate work to the optimal AI or human unit.
+• Memory layers that retain state, decisions, failures, and resolutions.
+• Observability pipelines that allow agents to self-correct.
+• Policy engines that encode constraints, permissions, and compliance.
+• Meta agents that evaluate agents for reliability, precision, and drift.
 
 This stack allows decisions to flow.
 
@@ -251,12 +251,12 @@ It is why agentic infrastructure outperforms any deterministic system at scale.
 
 Multi agent systems solve business units.
 
-Roials Alpha deploys layered agent clusters: 
-•  Supervisor agents coordinate strategy. 
-•  Operator agents execute tasks. 
-•  Auditor agents validate compliance. 
-•  Research agents gather intelligence. 
-•  Recovery agents handle failures.
+Roials Alpha deploys layered agent clusters:
+• Supervisor agents coordinate strategy.
+• Operator agents execute tasks.
+• Auditor agents validate compliance.
+• Research agents gather intelligence.
+• Recovery agents handle failures.
 
 The architecture behaves like a digital organization.
 

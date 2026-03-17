@@ -238,10 +238,10 @@ principal authority, engineered into every line of logic.
 
 It is protected by systems.
 
-Agentic infrastructure gives wealthy individuals three unmatched advantages. 
-•  Liquidity without interruption 
-•  Leverage without friction 
-•  Growth without exposure This is the modern interpretation of Buy, Borrow, Die.
+Agentic infrastructure gives wealthy individuals three unmatched advantages.
+• Liquidity without interruption
+• Leverage without friction
+• Growth without exposure This is the modern interpretation of Buy, Borrow, Die.
 
 Not a strategy.
 

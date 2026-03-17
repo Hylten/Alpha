@@ -20,16 +20,16 @@ This briefing outlines how these systems are constructed, how they interface wit
 
 ## THE REGIME SHIFT
 
- Sovereigns navigating North America’s capital stack today face three interacting macro forces. 
-•  Regulatory Drift: Capital market policy has bifurcated financing channels.
+ Sovereigns navigating North America’s capital stack today face three interacting macro forces.
+• Regulatory Drift: Capital market policy has bifurcated financing channels.
 
 Commercial lenders are increasingly constrained in lending to conventional hydrocarbons despite strong asset level visibility.
 
-This has created a structural gap between risk and cost of capital. 
-•  Supply Constraint: While global narratives emphasize transition, physical oil demand remains resilient.
+This has created a structural gap between risk and cost of capital.
+• Supply Constraint: While global narratives emphasize transition, physical oil demand remains resilient.
 
-Long cycle heavy oil assets with well mapped decline curves continue to function as reliable cash generators within national reserve strategies. 
-•  Institutional Reconfiguration: Sovereigns are increasingly internalizing liquidity engines.
+Long cycle heavy oil assets with well mapped decline curves continue to function as reliable cash generators within national reserve strategies.
+• Institutional Reconfiguration: Sovereigns are increasingly internalizing liquidity engines.
 
 Instead of depending on external banks, more entities are adopting algorithmic credit architectures capable of underwriting, collateral monitoring, and balance sheet optimization without human bottlenecks.
 
@@ -53,12 +53,12 @@ The mechanics fall into four primary domains.
 
 The engines evaluate real time reservoir behavior and map deliverability curves across 12 to 60 month horizons.
 
-These models generate a live Loan to Value (LTV) curve with automated adjustments based on: 
-•  pressure sustainment 
-•  steam oil ratio stability 
-•  pump efficiency 
-•  decline smoothness 
-•  reservoir conformance trends In Alberta’s heavy oil fields, SAGD and CSS systems produce some of the most predictable long term profiles in global upstream markets.
+These models generate a live Loan to Value (LTV) curve with automated adjustments based on:
+• pressure sustainment
+• steam oil ratio stability
+• pump efficiency
+• decline smoothness
+• reservoir conformance trends In Alberta’s heavy oil fields, SAGD and CSS systems produce some of the most predictable long term profiles in global upstream markets.
 
 Thermal wells have a recovery factor profile that can extend 20 to 30 years depending on reservoir thickness and thermal efficiency.
 
@@ -70,12 +70,12 @@ AI systems quantify this predictability and assign confidence bands that directl
 
 Hydrocarbon assets in Alberta offer clarity because royalties, operating expenditures, steam costs, and lift costs can be defined with precision.
 
-Automated waterfalls allocate cash flow in a sequence: 
-•  operations 
-•  maintenance 
-•  collateral buffer 
-•  liquidity pool replenishment 
-•  distribution or reinvestment This model eliminates discretionary leakage.
+Automated waterfalls allocate cash flow in a sequence:
+• operations
+• maintenance
+• collateral buffer
+• liquidity pool replenishment
+• distribution or reinvestment This model eliminates discretionary leakage.
 
 It also establishes transparent sequencing that aligns with sovereign risk frameworks. 
 
@@ -111,24 +111,24 @@ The role is structural interpretation and institutional ##
 
  .
 
-Sovereign allocators require clarity on three areas: 
-•  operational transparency 
-•  collateral resilience 
-•  portfolio integration architecture Roials Capital evaluates both the technological requirements and the real asset substrates that support autonomous liquidity.
+Sovereign allocators require clarity on three areas:
+• operational transparency
+• collateral resilience
+• portfolio integration architecture Roials Capital evaluates both the technological requirements and the real asset substrates that support autonomous liquidity.
 
 In energy focused structures, NAEO functions as a high discipline operator with institutional grade data hygiene, operational controls, and predictable decline physics.
 
 This combination is increasingly rare in private credit linked hydrocarbon portfolios.
 
-The partnership model operates on four principles: 
-•  Strategic Alignment: Identifying where sovereign mandates intersect with resilient resource backed assets. 
-•  Market Navigation: Translating regulatory, operational, and structural complexities into actionable frameworks. 
-•  Institutional ## 
+The partnership model operates on four principles:
+• Strategic Alignment: Identifying where sovereign mandates intersect with resilient resource backed assets.
+• Market Navigation: Translating regulatory, operational, and structural complexities into actionable frameworks.
+• Institutional ## 
 
 ## INTRODUCTION
 
- : Coordinating direct access to operators, technologists, and engineering teams who maintain the underlying assets. 
-•  Operational Intelligence: Providing dynamic analysis of basin behavior, production physics, and capital stack viability.
+ : Coordinating direct access to operators, technologists, and engineering teams who maintain the underlying assets.
+• Operational Intelligence: Providing dynamic analysis of basin behavior, production physics, and capital stack viability.
 
 This model respects allocator independence while delivering the technical substrate required for informed calibration. ## ## 
 

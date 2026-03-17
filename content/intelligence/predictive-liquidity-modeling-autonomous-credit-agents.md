@@ -90,12 +90,12 @@ Risk becomes a timeline, not a snapshot.
 
 The Principal value lies here. 
 -  
--  Predictive liquidity modeling begins by decomposing liquidity into five components: 
-•  Operational liquidity: cash generation and consumption tied to the core business cycle. 
-•  Structural liquidity: asset convertibility, working capital cadence, and internal buffers. 
-•  Behavioral liquidity: executive decision patterns, expense timing, seasonal distortions. 
-•  Counterparty liquidity: upstream and downstream fragility across suppliers and buyers. 
-•  Exogenous liquidity: jurisdictional threats, compliance shocks, regulatory throttles.
+-  Predictive liquidity modeling begins by decomposing liquidity into five components:
+• Operational liquidity: cash generation and consumption tied to the core business cycle.
+• Structural liquidity: asset convertibility, working capital cadence, and internal buffers.
+• Behavioral liquidity: executive decision patterns, expense timing, seasonal distortions.
+• Counterparty liquidity: upstream and downstream fragility across suppliers and buyers.
+• Exogenous liquidity: jurisdictional threats, compliance shocks, regulatory throttles.
 
 Each category demands independent surveillance.
 
@@ -251,11 +251,11 @@ Family offices seek protection, transparency, and precision.
 
 Predictive liquidity modeling establishes a new standard for that precision.
 
-Four core advantages emerge: 
-•  Asymmetric information advantage: autonomous agents see what others cannot. 
-•  Continuous risk scoring: live monitoring, dynamic thresholds, adaptive updates. 
-•  Faster decisions: deal packets constructed in minutes, not weeks. 
-•  Frictionless scaling: each new deal adds to the intelligence network without adding human overhead.
+Four core advantages emerge:
+• Asymmetric information advantage: autonomous agents see what others cannot.
+• Continuous risk scoring: live monitoring, dynamic thresholds, adaptive updates.
+• Faster decisions: deal packets constructed in minutes, not weeks.
+• Frictionless scaling: each new deal adds to the intelligence network without adding human overhead.
 
 This is not efficiency for its own sake.
 
@@ -281,17 +281,17 @@ No hesitation.
 -  
 -  The liquidity model itself.
 
-The predictive engine evaluates: 
-•  Cash velocity. 
-•  Margin durability. 
-•  Unit economics under shock. 
-•  Order book stability. 
-•  Supplier retention probability. 
-•  Customer churn risk. 
-•  Jurisdictional compression events. 
-•  Regulatory latency impact. 
-•  Capital discipline cycles. 
-•  Hidden seasonality locked inside micro-patterns.
+The predictive engine evaluates:
+• Cash velocity.
+• Margin durability.
+• Unit economics under shock.
+• Order book stability.
+• Supplier retention probability.
+• Customer churn risk.
+• Jurisdictional compression events.
+• Regulatory latency impact.
+• Capital discipline cycles.
+• Hidden seasonality locked inside micro-patterns.
 
 These signals converge into a single output: liquidity trajectory.
 

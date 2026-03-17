@@ -54,12 +54,12 @@ They were not designed for the fractal liquidity flows that define modern privat
 
 Agentic infrastructure introduces an immediate upgrade: capital becomes programmatic.
 
-That means: 
-•  Automated risk interpretation 
-•  Automated collateral eligibility mapping 
-•  Automated liquidity path selection 
-•  Automated execution triggers 
-•  Automated protection logic High net worth portfolios benefit because this replaces the cadence of bankers, lawyers, and custodians with a clean computational layer that does not wait for office hours.
+That means:
+• Automated risk interpretation
+• Automated collateral eligibility mapping
+• Automated liquidity path selection
+• Automated execution triggers
+• Automated protection logic High net worth portfolios benefit because this replaces the cadence of bankers, lawyers, and custodians with a clean computational layer that does not wait for office hours.
 
 This is not theory.
 
@@ -109,12 +109,12 @@ Roials‑Alpha provides crypto-backed Strategic Collateralization with a strict 
 
 000. This maintains our environment as an institutional-grade sphere.
 
-The infrastructure evaluates: 
-•  Intraday liquidity models 
-•  Counterparty risk overlays 
-•  Collateral health under volatility shock events 
-•  Micro‑timed liquidation buffers 
-•  Stability‑weighted LTV logic The result: predictable liquidity from a volatile class, without exposing the client to the chaotic liquidation mechanics common in retail crypto Capital Structuring. 
+The infrastructure evaluates:
+• Intraday liquidity models
+• Counterparty risk overlays
+• Collateral health under volatility shock events
+• Micro‑timed liquidation buffers
+• Stability‑weighted LTV logic The result: predictable liquidity from a volatile class, without exposing the client to the chaotic liquidation mechanics common in retail crypto Capital Structuring. 
 
 ## Public Share Monetization Architecture for Large Balance Sheets Public equity positions are often the heaviest weights in HNWI portfolios.
 
@@ -124,12 +124,12 @@ Roials‑Alpha unlocks that value through public share Strategic Collateralizati
 
 000. Our agentic models map the liquidity horizon of each position.
 
-They analyze: 
-•  Trading depth 
-•  Slippage risk 
-•  Volatility frame 
-•  Historical drawdown surfaces 
-•  Beta load and market correlation This allows us to extend liquidity without forcing the client into unfavorable sale conditions.
+They analyze:
+• Trading depth
+• Slippage risk
+• Volatility frame
+• Historical drawdown surfaces
+• Beta load and market correlation This allows us to extend liquidity without forcing the client into unfavorable sale conditions.
 
 It is the difference between liquidating and leveraging.
 
@@ -163,13 +163,13 @@ Optionality is.
 
 Agentic infrastructure gives high net worth portfolios the ability to behave like capital deployment machines, not static stores of wealth.
 
-This allows clients to: 
-•  Move into private deals quickly 
-•  Execute acquisitions without pre‑sale 
-•  Rebalance without cashing out 
-•  Maintain directional exposure while tapping liquidity 
-•  Hedge dynamically, not manually 
-•  Fund new ventures without liquidating core assets Optionality is the strongest position a portfolio can hold.
+This allows clients to:
+• Move into private deals quickly
+• Execute acquisitions without pre‑sale
+• Rebalance without cashing out
+• Maintain directional exposure while tapping liquidity
+• Hedge dynamically, not manually
+• Fund new ventures without liquidating core assets Optionality is the strongest position a portfolio can hold.
 
 Roials‑Alpha builds the system that makes it possible. 
 
@@ -227,9 +227,9 @@ Ultra high net worth families.
 
 People who operate at a level where execution speed and capital intelligence directly influence outcomes.
 
-Our minimum thresholds maintain purity: 
-•  Crypto Institutional Liquidity Paths: 2,000,000 minimum 
-•  Public Share Strategic Collateralization: 5,000,000 minimum The architecture dictates our infrastructure remains tuned for sophisticated capital, not diluted by volume noise. 
+Our minimum thresholds maintain purity:
+• Crypto Institutional Liquidity Paths: 2,000,000 minimum
+• Public Share Strategic Collateralization: 5,000,000 minimum The architecture dictates our infrastructure remains tuned for sophisticated capital, not diluted by volume noise. 
 
 ## The Advantage of Structural Liquidity The wealthiest families have learned a critical truth.
 

@@ -130,12 +130,12 @@ Our private credit and Asset-Based Lending solutions are not packaged products.
 
 They are engineered systems, tailored to portfolios that already operate at scale.
 
-We provide liquidity frameworks for individuals with significant exposure across: 
-•  Private credit assets 
-•  Complex business ownership positions 
-•  Public shares at or above the 5,000,000 minimum threshold 
-•  Crypto assets at or above the 2,000,000 minimum threshold 
-•  Hybrid alternative holdings These structures cannot be serviced by traditional lenders with manual processes.
+We provide liquidity frameworks for individuals with significant exposure across:
+• Private credit assets
+• Complex business ownership positions
+• Public shares at or above the 5,000,000 minimum threshold
+• Crypto assets at or above the 2,000,000 minimum threshold
+• Hybrid alternative holdings These structures cannot be serviced by traditional lenders with manual processes.
 
 They require a mechanized approach.
 
@@ -153,11 +153,11 @@ Not constrained by the asset class from which it originates.
 
 Roials-Alpha structures liquidity facilities across multi asset stacks.
 
-This creates liquidity using combinations of: 
-•  Private credit paper 
-•  Institutional scale digital assets 
-•  Public share blocks 
-•  Specialized alternative assets The aggregation of these collateral signals creates a liquidity field.
+This creates liquidity using combinations of:
+• Private credit paper
+• Institutional scale digital assets
+• Public share blocks
+• Specialized alternative assets The aggregation of these collateral signals creates a liquidity field.
 
 A new model where the total collateral strength is greater than the sum of its parts.
 

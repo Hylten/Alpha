@@ -99,11 +99,11 @@ Risk coherence is the new alpha.
 
 ## THE PRINCIPAL ARCHITECTURE The foundation of autonomous Asset-Based Lending is architectural, not analytical.
 
-The architecture consists of four irreversible shifts: 
-•  Collateral-as-Data 
-•  Borrower-as-Node 
-•  Lending-as-Protocol 
-•  Monitoring-as-Telemetry Collateral-as-Data reframes physical or financial assets as dynamic data objects.
+The architecture consists of four irreversible shifts:
+• Collateral-as-Data
+• Borrower-as-Node
+• Lending-as-Protocol
+• Monitoring-as-Telemetry Collateral-as-Data reframes physical or financial assets as dynamic data objects.
 
 Not documents.
 
@@ -233,12 +233,12 @@ It cannot filter.
 
 It cannot self-improve.
 
-Algorithmic deal flow flips the process: 
-•  The system hunts signals. 
-•  The system flags candidates. 
-•  The system ranks opportunity vectors. 
-•  The system reverse-engineers borrower needs. 
-•  The system proposes terms based on asset telemetry.
+Algorithmic deal flow flips the process:
+• The system hunts signals.
+• The system flags candidates.
+• The system ranks opportunity vectors.
+• The system reverse-engineers borrower needs.
+• The system proposes terms based on asset telemetry.
 
 A principal reviewer only approves the final expression.
 
@@ -262,13 +262,13 @@ Not a vehicle.
 
 An operating system.
 
-The architecture integrates: 
-•  Autonomous intake 
-•  Capital Structuring rails 
-•  Multi-jurisdictional credit wrappers 
-•  Collateral authentication pipelines 
-•  Sovereign-grade audit trails 
-•  Machine-agent exposure control Fund-III is designed for institutional sovereignty.
+The architecture integrates:
+• Autonomous intake
+• Capital Structuring rails
+• Multi-jurisdictional credit wrappers
+• Collateral authentication pipelines
+• Sovereign-grade audit trails
+• Machine-agent exposure control Fund-III is designed for institutional sovereignty.
 
 It reduces dependency on external validators.
 
@@ -347,13 +347,13 @@ Good stewardship becomes system design.
 
 ## THE JURISDICTIONAL DIMENSION Autonomous Asset-Based Lending interacts differently with jurisdictions than traditional credit.
 
-When the operating system handles verification, compliance, monitoring, and execution, the institution gains freedom to arbitrage: 
-•  security perfection regimes 
-•  collateral enforcement pathways 
-•  tax friction zones 
-•  trust wrappers 
-•  family office jurisdictions 
-•  sovereign fund alignments Global autonomy is possible when the system abstracts local complexity.
+When the operating system handles verification, compliance, monitoring, and execution, the institution gains freedom to arbitrage:
+• security perfection regimes
+• collateral enforcement pathways
+• tax friction zones
+• trust wrappers
+• family office jurisdictions
+• sovereign fund alignments Global autonomy is possible when the system abstracts local complexity.
 
 This gives HNW/UHNW families control previously available only to sovereign institutions.
 
@@ -367,13 +367,13 @@ It transforms them into programmable modules.
 
 The delta will not be measured in margin spreads or deal volume.
 
-It will be measured in: 
-•  capital velocity 
-•  underwriting latency 
-•  collateral fidelity 
-•  liquidity certainty 
-•  risk coherence 
-•  enforcement optionality Institutions with autonomous systems will grow exponentially.
+It will be measured in:
+• capital velocity
+• underwriting latency
+• collateral fidelity
+• liquidity certainty
+• risk coherence
+• enforcement optionality Institutions with autonomous systems will grow exponentially.
 
 Those without will stagnate.
 

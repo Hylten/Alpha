@@ -164,13 +164,13 @@ The tax filings are inconsistent.
 
 A legacy lender sees only risk.
 
-The graph sees: 
-•  A surge in cross-border freight API calls 
-•  Increased warehouse throughput verified via IoT telemetry 
-•  Strong supplier concentration ratios indicating stability 
-•  A growing network radius among regional distributors 
-•  Stable driver retention patterns extracted from employment metadata 
-•  Declining cargo-return variance, signaling operational discipline What appears uncertain becomes decisive.
+The graph sees:
+• A surge in cross-border freight API calls
+• Increased warehouse throughput verified via IoT telemetry
+• Strong supplier concentration ratios indicating stability
+• A growing network radius among regional distributors
+• Stable driver retention patterns extracted from employment metadata
+• Declining cargo-return variance, signaling operational discipline What appears uncertain becomes decisive.
 
 Another example: A B2B merchant aggregator in Kenya experiences inconsistent settlement flows due to seasonal variance.
 
@@ -252,15 +252,15 @@ Here is the core: Agentic underwriting will not simply assist analysts.
 
 It will replace the operational layers that slow capital deployment.
 
-The agent becomes the orchestrator of the entire credit lifecycle: 
-•  Source 
-•  Verify 
-•  Analyze 
-•  Score 
-•  Monitor 
-•  Predict 
-•  Re-price 
-•  Intervene Humans will supervise.
+The agent becomes the orchestrator of the entire credit lifecycle:
+• Source
+• Verify
+• Analyze
+• Score
+• Monitor
+• Predict
+• Re-price
+• Intervene Humans will supervise.
 
 The agent will execute.
 

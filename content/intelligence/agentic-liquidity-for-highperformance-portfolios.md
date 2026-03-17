@@ -80,12 +80,12 @@ It is not last resort financing.
 
 It is first tier engineering when executed correctly.
 
-When deployed for HNWI and UHNW portfolios, Asset-Based Lending becomes a tool for: 
-•  Balance sheet compression 
-•  Opportunistic capital events 
-•  Tax optimized movements 
-•  Rapid acquisitions 
-•  Strategic cross collateralization We design Asset-Based Lending lines that behave more like capital conduits than revolving facilities.
+When deployed for HNWI and UHNW portfolios, Asset-Based Lending becomes a tool for:
+• Balance sheet compression
+• Opportunistic capital events
+• Tax optimized movements
+• Rapid acquisitions
+• Strategic cross collateralization We design Asset-Based Lending lines that behave more like capital conduits than revolving facilities.
 
 Your assets become programmable liquidity objects.
 
@@ -109,12 +109,12 @@ Below that threshold the structural costs do not justify the velocity.
 
 We cater to investors who treat digital assets as components of a trans domain liquidity stack, not speculative inventory.
 
-Our crypto Strategic Collateralization infrastructure provides: 
-•  High capacity liquidity triggers 
-•  Institutional grade collateral frameworks 
-•  Rapid execution 
-•  Programmatic release events 
-•  Multi asset hedging layers The objective is not yield.
+Our crypto Strategic Collateralization infrastructure provides:
+• High capacity liquidity triggers
+• Institutional grade collateral frameworks
+• Rapid execution
+• Programmatic release events
+• Multi asset hedging layers The objective is not yield.
 
 The objective is control.
 
@@ -214,13 +214,13 @@ Most wealth platforms operate horizontally.
 
 Roials Alpha operates vertically.
 
-We integrate: 
-•  Credit 
-•  Collateral 
-•  Liquidity 
-•  Yield 
-•  Execution speed 
-•  Cross domain analytics This verticalization produces a liquidity profile that behaves more like an institutional trading desk than a personal portfolio. 
+We integrate:
+• Credit
+• Collateral
+• Liquidity
+• Yield
+• Execution speed
+• Cross domain analytics This verticalization produces a liquidity profile that behaves more like an institutional trading desk than a personal portfolio. 
 
 ## Strategic Use Cases for Agentic Liquidity Agentic liquidity is not theoretical.
 

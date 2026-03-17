@@ -56,21 +56,21 @@ Now it is a model.
 
 Soon it will be a standard.
 
-Predictive liquidity models analyze: 
-•  Volatility vectors 
-•  Cross‑collateral influence 
-•  Forward yield behavior 
-•  Embedded liquidity probability 
-•  Synthetic liquidation curves 
-•  And multi‑asset contagion risk These models no longer ask what an asset is worth today.
+Predictive liquidity models analyze:
+• Volatility vectors
+• Cross‑collateral influence
+• Forward yield behavior
+• Embedded liquidity probability
+• Synthetic liquidation curves
+• And multi‑asset contagion risk These models no longer ask what an asset is worth today.
 
 They ask what liquidity is worth under forty simultaneous market paths tomorrow.
 
-And the result is a Asset-Backed Frameworks environment where asset based credit becomes: 
-•  Faster 
-•  Safer 
-•  Structurally more scalable 
-•  And significantly more intelligent This is where institutional capital operates.
+And the result is a Asset-Backed Frameworks environment where asset based credit becomes:
+• Faster
+• Safer
+• Structurally more scalable
+• And significantly more intelligent This is where institutional capital operates.
 
 This is where Roials-Alpha operates. 
 
@@ -98,12 +98,12 @@ Where every asset class is treated as a data manifold, not a static entry in a I
 
 ## Asset Based Institutional Liquidity Paths in a Predictive Framework Asset-Based Lending used to rely on margining, audits, and cycles.
 
-Predictive Asset-Based Lending uses: 
-•  Machine‑graded collateral liquidity 
-•  Dynamic margining 
-•  Realtime forward stress windows 
-•  Automated liquidation feasibility 
-•  And capital flow simulations under multiple volatility surfaces Asset-Based Lending becomes an anticipatory system.
+Predictive Asset-Based Lending uses:
+• Machine‑graded collateral liquidity
+• Dynamic margining
+• Realtime forward stress windows
+• Automated liquidation feasibility
+• And capital flow simulations under multiple volatility surfaces Asset-Based Lending becomes an anticipatory system.
 
 Credit lines flex before collateral stress becomes visible.
 
@@ -131,11 +131,11 @@ It forecasts.
 
 Agentic credit removes human latency from the equation.
 
-The result is a Asset-Backed Frameworks framework where: 
-•  Credit lines expand while an asset volatility signature compresses 
-•  liquidity facility to value ratios self correct in real time 
-•  Risk exposure is updated at machine speed 
-•  And liquidity confidence sharpens every hour This is not augmentation.
+The result is a Asset-Backed Frameworks framework where:
+• Credit lines expand while an asset volatility signature compresses
+• liquidity facility to value ratios self correct in real time
+• Risk exposure is updated at machine speed
+• And liquidity confidence sharpens every hour This is not augmentation.
 
 This is replacement.
 
@@ -231,13 +231,13 @@ It is not.
 
 A collateral event used to occur on a schedule.
 
-Now it occurs the moment the system detects an anomaly in: 
-•  Price action 
-•  Liquidity depth 
-•  Counterparty load 
-•  Synthetic borrow pressure 
-•  Realized vs implied volatility divergence 
-•  Or cross asset rotation patterns This continuous intelligence creates a Capital Structuring environment where surprises no longer exist.
+Now it occurs the moment the system detects an anomaly in:
+• Price action
+• Liquidity depth
+• Counterparty load
+• Synthetic borrow pressure
+• Realized vs implied volatility divergence
+• Or cross asset rotation patterns This continuous intelligence creates a Capital Structuring environment where surprises no longer exist.
 
 Every event has a precursor.
 
@@ -263,12 +263,12 @@ It is the structural baseline.
 
 It is what enables predictive credit to exist at all.
 
-Roials-Alpha uses multi agent frameworks that specialize in: 
-•  Liquidity mapping 
-•  Pattern detection 
-•  Portfolio stress bending 
-•  Volatility curvature analysis 
-•  And liquidation probability scoring These agents do not produce recommendations.
+Roials-Alpha uses multi agent frameworks that specialize in:
+• Liquidity mapping
+• Pattern detection
+• Portfolio stress bending
+• Volatility curvature analysis
+• And liquidation probability scoring These agents do not produce recommendations.
 
 They produce certainty envelopes.
 

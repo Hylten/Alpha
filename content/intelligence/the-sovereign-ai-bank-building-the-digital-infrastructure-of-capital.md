@@ -110,12 +110,12 @@ The Sovereign AI Bank operates as an autonomous layer that scans, simulates, and
 
 It acts as a silent partner that absorbs complexity and exposes only the outcome.
 
-The core functions include: 
-•  Autonomous collateral optimization 
-•  Predictive liquidity routing 
-•  Multi asset risk compression 
-•  Automated credit capacity expansion 
-•  Synthetic balance sheet generation The system constantly rebases the client’s capital architecture.
+The core functions include:
+• Autonomous collateral optimization
+• Predictive liquidity routing
+• Multi asset risk compression
+• Automated credit capacity expansion
+• Synthetic balance sheet generation The system constantly rebases the client’s capital architecture.
 
 The objective is dominance through foresight.
 
@@ -173,14 +173,14 @@ Roials Alpha is one of those systems.
 
 Not institutions.
 
-The Sovereign AI Bank provides: 
-•  A computation first liquidity framework 
-•  A private credit and Asset-Based Lending core engine 
-•  Multi asset Institutional Liquidity Paths capability 
-•  On chain and off chain collateral fusion 
-•  Silent underwriting 
-•  AI driven credit orchestration 
-•  Autonomous risk management The infrastructure is the differentiator.
+The Sovereign AI Bank provides:
+• A computation first liquidity framework
+• A private credit and Asset-Based Lending core engine
+• Multi asset Institutional Liquidity Paths capability
+• On chain and off chain collateral fusion
+• Silent underwriting
+• AI driven credit orchestration
+• Autonomous risk management The infrastructure is the differentiator.
 
 Not the rate.
 
@@ -198,12 +198,12 @@ Not reckless.
 
 Aggressive with precision.
 
-The system evaluates: 
-•  Distressed private credit openings 
-•  Temporary dislocations in crypto 
-•  Equity drawdown opportunities 
-•  Short term spread inefficiencies 
-•  Collateral pivot moments The client gains a liquid, balance sheet optimization enabled engine capable of capturing these windows at scale with risk frameworks that adjust in milliseconds.
+The system evaluates:
+• Distressed private credit openings
+• Temporary dislocations in crypto
+• Equity drawdown opportunities
+• Short term spread inefficiencies
+• Collateral pivot moments The client gains a liquid, balance sheet optimization enabled engine capable of capturing these windows at scale with risk frameworks that adjust in milliseconds.
 
 Human decision making becomes guidance.
 

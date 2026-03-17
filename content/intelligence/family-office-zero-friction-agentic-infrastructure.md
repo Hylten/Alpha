@@ -242,16 +242,16 @@ The machine must understand the identity of the capital before it processes a si
 
 This is not a mission statement.
 
-It is encoded preference architecture: 
-•  preferred time horizon 
-•  liquidity tolerance 
-•  conviction sectors 
-•  veto sectors 
-•  governance constraints 
-•  acceptable counterparty risk profiles 
-•  cyclicality tolerance 
-•  downside floors 
-•  upside thresholds The agent moves within these lines.
+It is encoded preference architecture:
+• preferred time horizon
+• liquidity tolerance
+• conviction sectors
+• veto sectors
+• governance constraints
+• acceptable counterparty risk profiles
+• cyclicality tolerance
+• downside floors
+• upside thresholds The agent moves within these lines.
 
 Unbreakable.
 
@@ -357,10 +357,10 @@ One actionable path.
 
 Nothing more.
 
-The system presents three options: 
-•  Move 
-•  Hold 
-•  Reject Every option is backed by underlying architecture the Principal can expand if desired, but rarely needs to.
+The system presents three options:
+• Move
+• Hold
+• Reject Every option is backed by underlying architecture the Principal can expand if desired, but rarely needs to.
 
 The machine already did the work.
 

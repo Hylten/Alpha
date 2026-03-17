@@ -48,12 +48,12 @@ Each liquidity facility, each collateral pool, each exposure lane is monitored f
 
 The system reacts before risk manifests.
 
-This yields benefits such as: 
-•  Reduced forced liquidation risk 
-•  Smooth drawdown curves 
-•  Predictive volatility gating 
-•  Precision margining 
-•  Risk controlled leverage models The architecture acts as a firewall around Family Office strategies.
+This yields benefits such as:
+• Reduced forced liquidation risk
+• Smooth drawdown curves
+• Predictive volatility gating
+• Precision margining
+• Risk controlled leverage models The architecture acts as a firewall around Family Office strategies.
 
 It protects liquidity integrity and opportunity bandwidth. 
 
@@ -71,12 +71,12 @@ They operate at scale, yet remain private.
 
 Their liquidity needs are dynamic, diverse, and often silent.
 
-Roials-Alpha delivers asymmetric structuring that aligns with UHNW expectations: 
-•  Deep liquidity reserves 
-•  Multi-layer collateral routing 
-•  Agentic liquidity facility expansion 
-•  Real time LTV recalibration 
-•  Multi-vector asset analysis Every component reinforces the principal authority posture. 
+Roials-Alpha delivers asymmetric structuring that aligns with UHNW expectations:
+• Deep liquidity reserves
+• Multi-layer collateral routing
+• Agentic liquidity facility expansion
+• Real time LTV recalibration
+• Multi-vector asset analysis Every component reinforces the principal authority posture. 
 
 ## From Manual Control to Autonomous Capital Most Family Offices still manage liquidity manually.
 
@@ -100,12 +100,12 @@ This is the new paradigm of high-frequency wealth engineering.
 
 The Family Office keeps its internal structure small while gaining the capacity of an institution.
 
-Strategic edges include: 
-•  Reduced balance sheet optimization costs through continuous optimization 
-•  Expanded Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
-•  Compression of capital idle time 
-•  Removal of emotional timing errors 
-•  Infinite scalability across velocity-driven strategies The Family Office moves from static wealth preservation into perpetual asymmetry engineering. 
+Strategic edges include:
+• Reduced balance sheet optimization costs through continuous optimization
+• Expanded Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+• Compression of capital idle time
+• Removal of emotional timing errors
+• Infinite scalability across velocity-driven strategies The Family Office moves from static wealth preservation into perpetual asymmetry engineering. 
 
 ## Private Credit, Asset-Based Lending, and the Future of Automated Institutional Liquidity Paths Private Credit and Asset Based Asset-Backed Frameworks are undergoing a transformation.
 

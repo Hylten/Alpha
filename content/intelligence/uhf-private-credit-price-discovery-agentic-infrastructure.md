@@ -438,15 +438,15 @@ Not deal sourcing.
 Architecture.
 
 If you wish to engage further, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
-•  The multi‑agent orchestration layer for solvency‑momentum modeling 
-•  Timestamp‑level contract intelligence ingestion 
-•  Cross‑venue counterpart telemetry normalization 
-•  Synthetic boundary pricing in bilateral credit environments 
-•  Systems for removing human latency from execution cycles 
-•  API‑native integrations for continuous counterparty monitoring 
-•  Architecture for Fund‑III deployment using algorithmic flows 
-•  Private credit workflows that compress negotiation cycles using agentic intermediaries 
-•  Frameworks for institutional capital execution through the algorithmic layer These are the real questions.
+• The multi‑agent orchestration layer for solvency‑momentum modeling
+• Timestamp‑level contract intelligence ingestion
+• Cross‑venue counterpart telemetry normalization
+• Synthetic boundary pricing in bilateral credit environments
+• Systems for removing human latency from execution cycles
+• API‑native integrations for continuous counterparty monitoring
+• Architecture for Fund‑III deployment using algorithmic flows
+• Private credit workflows that compress negotiation cycles using agentic intermediaries
+• Frameworks for institutional capital execution through the algorithmic layer These are the real questions.
 
 Ask them, and you signal sophistication.
 

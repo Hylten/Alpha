@@ -30,12 +30,12 @@ Modern collateral ecosystems are dynamic.
 
 They generate telemetry-level data, operational metadata, and supply chain signals that advance or deteriorate in real time.
 
-The 2026 environment is characterized by the following institutional drivers: 
-•  A regulatory environment that reinforces slow credit decisioning from conventional lenders. 
-•  A supply demand imbalance in liquidity for asset centric borrowers requiring speed, precision, and transparency. 
-•  An explosion of machine readable asset data that legacy institutions cannot ingest efficiently. 
-•  A widening arbitrage for lenders who can compress cycle times while maintaining institutional grade risk controls. 
-•  The emergence of agentic intelligence architectures that operate as autonomous credit analysts with continuous feedback loops.
+The 2026 environment is characterized by the following institutional drivers:
+• A regulatory environment that reinforces slow credit decisioning from conventional lenders.
+• A supply demand imbalance in liquidity for asset centric borrowers requiring speed, precision, and transparency.
+• An explosion of machine readable asset data that legacy institutions cannot ingest efficiently.
+• A widening arbitrage for lenders who can compress cycle times while maintaining institutional grade risk controls.
+• The emergence of agentic intelligence architectures that operate as autonomous credit analysts with continuous feedback loops.
 
 The credit cycle has entered an operational regime where decision latency becomes a form of risk.
 
@@ -59,12 +59,12 @@ They classify and normalize this data into collateral readiness models.
 
 These models produce dynamic LTV curves that continuously adjust based on depreciation velocity, utilization rates, technical condition, and macro stress factors. 
 
-2. Multi Agent Underwriting Credit analysis is decomposed into specialized sub agents: 
-•  Valuation agents 
-•  Risk propagation agents 
-•  Title and encumbrance audit agents 
-•  Liquidity pathway agents 
-•  Covenant alignment agents These 
+2. Multi Agent Underwriting Credit analysis is decomposed into specialized sub agents:
+• Valuation agents
+• Risk propagation agents
+• Title and encumbrance audit agents
+• Liquidity pathway agents
+• Covenant alignment agents These 
 
 ## AGENTS OPERATE
 
@@ -86,12 +86,12 @@ This removes the latency created by legal intermediaries.
 
 5. Monetization Architecture The core value of agentic lending is its ability to convert collateral into structured liquidity with minimal friction.
 
-The system evaluates multiple pathways including: 
-•  Direct lending 
-•  Syndicated participation 
-•  Asset backed credit lines 
-•  Portfolio cross collateralization 
-•  Secondary trading channels Agentic algorithms compute optimal liquidity routes based on cost of capital, maturity profile, and risk weighted efficiency. 
+The system evaluates multiple pathways including:
+• Direct lending
+• Syndicated participation
+• Asset backed credit lines
+• Portfolio cross collateralization
+• Secondary trading channels Agentic algorithms compute optimal liquidity routes based on cost of capital, maturity profile, and risk weighted efficiency. 
 
 6. Continuous Surveillance Traditional credit monitoring is periodic.
 
@@ -166,14 +166,14 @@ This level of oversight reduces default volatility and protects balance sheet in
 
 ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating agentic credit systems require a framework that aligns improvements in operational efficiency with institutional constraints.
 
-This lens includes the following assessment points: 
-•  Cycle time compression and its impact on deployment capability. 
-•  Accuracy gains in LTV calibration through multi agent modeling. 
-•  Transparency upgrades through continuous asset surveillance. 
-•  Downside protection through dynamic risk propagation mapping. 
-•  Scalability of deal flow through automated opportunity screening. 
-•  Balance sheet optimization through [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) pathways. 
-•  Governance compatibility with existing investment committees.
+This lens includes the following assessment points:
+• Cycle time compression and its impact on deployment capability.
+• Accuracy gains in LTV calibration through multi agent modeling.
+• Transparency upgrades through continuous asset surveillance.
+• Downside protection through dynamic risk propagation mapping.
+• Scalability of deal flow through automated opportunity screening.
+• Balance sheet optimization through [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) pathways.
+• Governance compatibility with existing investment committees.
 
 Agentic intelligence is not a future concept.
 

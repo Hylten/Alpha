@@ -67,10 +67,10 @@ Speed wins.
 
 A modern family office needs an integrated liquidity spine-an AI-first underwriting engine that processes velocity, not paperwork.
 
-Three principles define the architecture: 
-•  Real-time ingestion. 
-•  Autonomous triage. 
-•  Execution-grade certainty.
+Three principles define the architecture:
+• Real-time ingestion.
+• Autonomous triage.
+• Execution-grade certainty.
 
 Everything else is ornamental.
 
@@ -162,10 +162,10 @@ No guessing.
 
 Just computation.
 
-An AI-first private credit stack demands three engines: 
-•  Underwriting Core: Pattern-weighted scoring, multi-domain collateral mapping, real-time borrower vector analysis. 
-•  Liquidity Core: Execution sequencing, regulatory constraint modeling, jurisdictional arbitrage mapping. 
-•  Protection Core: Stress forecasting, counterparty integrity scoring, anomaly detection.
+An AI-first private credit stack demands three engines:
+• Underwriting Core: Pattern-weighted scoring, multi-domain collateral mapping, real-time borrower vector analysis.
+• Liquidity Core: Execution sequencing, regulatory constraint modeling, jurisdictional arbitrage mapping.
+• Protection Core: Stress forecasting, counterparty integrity scoring, anomaly detection.
 
 Together they form a closed-credit loop.
 
@@ -337,10 +337,10 @@ Borrowers don't seek credit.
 
 Credit anticipates borrowers.
 
-Three‑step chain: 
-•  Detect demand before articulation. 
-•  Form structure before negotiation. 
-•  Deploy liquidity before competition.
+Three‑step chain:
+• Detect demand before articulation.
+• Form structure before negotiation.
+• Deploy liquidity before competition.
 
 That is dominance.
 
@@ -362,12 +362,12 @@ AI thrives on complexity.
 
 The architecture must be vertically integrated.
 
-Every layer must connect: 
-•  Data acquisition stack: Real-time ingestion across financial, operational, environmental, legal, and behavioural domains. 
-•  Model orchestration stack: Reinforcement models, risk attribution engines, collateral veracity mapping. 
-•  Execution stack: Automated facility generation, contract synthesis, compliance pathing. 
-•  Monitoring stack: Autonomous anomaly detection, counterparty stress scoring, rate‑sensitive trigger systems. 
-•  Recovery intelligence: Predictive restructuring maps, automated workout sequencing, collateral liquidation modeling.
+Every layer must connect:
+• Data acquisition stack: Real-time ingestion across financial, operational, environmental, legal, and behavioural domains.
+• Model orchestration stack: Reinforcement models, risk attribution engines, collateral veracity mapping.
+• Execution stack: Automated facility generation, contract synthesis, compliance pathing.
+• Monitoring stack: Autonomous anomaly detection, counterparty stress scoring, rate‑sensitive trigger systems.
+• Recovery intelligence: Predictive restructuring maps, automated workout sequencing, collateral liquidation modeling.
 
 No breaks.
 

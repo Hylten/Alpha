@@ -141,12 +141,12 @@ The emerging institutional archetype is the allocator who prioritizes informatio
 
 It is a structural recalibration of the modern credit ecosystem.
 
-Allocators who understand this recalibration will prioritize: 
-•  Systems that eliminate data latency 
-•  Lenders with autonomous collateral assessment capability 
-•  Platforms with cross collateralization intelligence 
-•  Credit structures that integrate predictive recovery modeling 
-•  Partners who operate as navigators rather than product distributors Roials Capital functions within this framework by conducting confidential strategy audits and portfolio calibration assessments.
+Allocators who understand this recalibration will prioritize:
+• Systems that eliminate data latency
+• Lenders with autonomous collateral assessment capability
+• Platforms with cross collateralization intelligence
+• Credit structures that integrate predictive recovery modeling
+• Partners who operate as navigators rather than product distributors Roials Capital functions within this framework by conducting confidential strategy audits and portfolio calibration assessments.
 
 These sessions evaluate whether an allocator's existing credit exposure aligns with the new agentic architecture and whether balance sheet optimization can be achieved through recalibrated liquidity instruments.
 
