@@ -48,4 +48,6 @@ This is the Alpha Advantage.
 
 This is Roials-Alpha.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

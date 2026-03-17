@@ -10,9 +10,9 @@ The capital vacuum across emerging markets is a structural consequence of inform
 
 The delta between available productive assets and bankable credit profiles has widened to its largest point since post Basel III adjustments.
 
-This gap has created an opening for AI driven Asset-Based Lending frameworks to operate as the silent infrastructure layer that allocators increasingly recognize as foundational to future global liquidity systems. ## ## ## ## ## 
+This gap has created an opening for AI driven Asset-Based Lending frameworks to operate as the silent infrastructure layer that allocators increasingly recognize as foundational to future global liquidity systems.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  Private credit has entered a phase where balance sheet capacity is no longer the binding constraint.
 
@@ -25,8 +25,8 @@ Emerging markets contain the highest concentration of under leveraged hard asset
 These include inventory systems, receivable books, industrial equipment, logistics chains, agricultural storage, and pre export contract flows.
 
 Yet more than 
-6
-0 percent of these assets remain outside institutional lending channels due to documentation fragmentation and evidence risk.
+
+60 percent of these assets remain outside institutional lending channels due to documentation fragmentation and evidence risk.
 
 AI first credit architecture reverses this dynamic.
 
@@ -48,9 +48,9 @@ Not the rise of AI as a convenience tool, but the recognition that without AI ge
 
 The liquidity gap is therefore a data gap.
 
-Once data fidelity is engineered, private credit supply accelerates. ## ## ## ## ## 
+Once data fidelity is engineered, private credit supply accelerates.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  OF AI DRIVEN Asset-Based Lending Institutional Asset-Based Lending requires three core pillars. 
 -  Precision collateral mapping. 
@@ -61,7 +61,9 @@ In emerging markets, each pillar historically collapses under verification frict
 
 AI first infrastructures restore structural integrity. 
 
-1. Precision collateral mapping Algorithmic Asset-Based Lending platforms ingest heterogeneous data streams that historically could not be standardized. 
+1.
+
+Precision collateral mapping Algorithmic Asset-Based Lending platforms ingest heterogeneous data streams that historically could not be standardized. 
 -  Satellite based asset location confirmation. 
 -  Edge device telemetry for equipment usage and degradation. 
 -  Invoice authenticity scoring through fraud pattern classifiers. 
@@ -75,7 +77,9 @@ Traditional lenders rely on periodic reports.
 
 AI driven systems operate on a timeline that approaches real time. 
 
-2. Dynamic credit scoring Emerging markets produce volatile operating conditions where historical financials often lose predictive value.
+2.
+
+Dynamic credit scoring Emerging markets produce volatile operating conditions where historical financials often lose predictive value.
 
 Algorithmic credit systems integrate: 
 -  Counterparty behavioral histories. 
@@ -87,7 +91,9 @@ The result is a probability driven credit classification that updates with each 
 
 This transforms the credit underwriting function from a snapshot to a living model. 
 
-3. Recovery architecture and enforcement modeling Collateral enforceability drives Asset-Based Lending viability.
+3.
+
+Recovery architecture and enforcement modeling Collateral enforceability drives Asset-Based Lending viability.
 
 AI first systems map enforcement pathways in advance through: 
 -  Legal environment datasets. 
@@ -113,9 +119,9 @@ The role is not to assume credit exposure but to align decision makers with the 
 
 The integration model functions on three axes. 
 -  Market Navigation: Mapping country specific collateral laws, enforcement timelines, operational risks, and data integrity baselines. 
--  Institutional ## 
+-  Institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  : Aligning allocators with AI first Asset-Based Lending platforms that demonstrate audited data pipelines, validated algorithms, and recoverability structures. 
 -  Structural Alignment: Ensuring that allocators engage environments where risk is not minimized through narrative but quantified through structured data.
@@ -124,7 +130,9 @@ Just as NAEO represents an institutional archetype in North American energy oper
 
 Roials Capital positions the allocator in proximity to best in class operators rather than assuming operational responsibility.
 
-This preserves neutrality while maximizing strategic clarity. ## ## 
+This preserves neutrality while maximizing strategic clarity. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive assets without waste, excess, or informational distortions.
 
@@ -149,7 +157,9 @@ By anchoring loans to verified and continuously monitored collateral, capital is
 
 Frontier markets historically suffered from weak collateral assurance.
 
-AI resolves the assurance gap and restores the ethical foundation of lending. ## ## 
+AI resolves the assurance gap and restores the ethical foundation of lending. 
+
+ 
 
 ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI driven Asset-Based Lending systems are not assessing a thematic innovation cycle.
 
@@ -175,4 +185,6 @@ This framework provides the allocator with a calibrated view of where AI first c
 
 The objective is not directional persuasion but structural clarity.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -98,7 +98,9 @@ A living process, continuously recalculated.
 
 The advantage is obvious.
 
-The Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Roials-Alpha changes the entry point.
 
@@ -126,7 +128,9 @@ Our position is different.
 
 We lend against crypto with a minimum threshold of 2,000, 
 
-000. This threshold allows the AI to work at institutional scale.
+000.
+
+This threshold allows the AI to work at institutional scale.
 
 Deep liquidity mapping.
 
@@ -156,7 +160,9 @@ Roials-Alpha uses an AI-weighted collateral model that evaluates your share port
 
 We lend against public equities with a minimum of 5,000, 
 
-000. The scale allows the AI to detect behavioral patterns in market pressure, bid-ask depth, news flows, and liquidity pockets.
+000.
+
+The scale allows the AI to detect behavioral patterns in market pressure, bid-ask depth, news flows, and liquidity pockets.
 
 Shares are not treated as static holdings.
 
@@ -392,4 +398,6 @@ You need an intelligent liquidity architecture.
 
 Roials-Alpha delivers that architecture.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

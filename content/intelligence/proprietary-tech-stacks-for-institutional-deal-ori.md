@@ -33,7 +33,9 @@ A principal creates flow through intelligence.
 
 Roials Alpha operates on this premise.
 
-Proprietary tech stacks are not Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Proprietary tech stacks are not Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 They are the infrastructure that reinforces authority in negotiations, precision in underwriting, and structural readiness for institutional inspection.
 
@@ -54,11 +56,17 @@ They engage because execution is inevitable.
 
 ## Foundations of the Architecture 
 
-1. Algorithmic deal origination 
+1.
 
-2. AI structured intelligence for underwriting 
+Algorithmic deal origination 
 
-3. Autonomous execution rails engineered for covenant stewardship Each pillar is independent yet interlocking.
+2.
+
+AI structured intelligence for underwriting 
+
+3.
+
+Autonomous execution rails engineered for covenant stewardship Each pillar is independent yet interlocking.
 
 Each advances 
 
@@ -93,7 +101,7 @@ The principal sets
 
 .
 
-The system executes. # 
+The system executes.
 
 ## Core functions of the origination engine 
 -  Pattern extraction from unstructured data. 
@@ -147,15 +155,15 @@ It introduces bias.
 
 It introduces human fragility.
 
-The Roials Alpha architecture restructures this process into a layered intelligence stack. # 
+The Roials Alpha architecture restructures this process into a layered intelligence stack.
 
-## Layer One Signal intake.
+Layer One Signal intake.
 
-Machine parsing of financial documents, chain of custody, collateral audit trails, director behavior, and jurisdictional risk. # 
+Machine parsing of financial documents, chain of custody, collateral audit trails, director behavior, and jurisdictional risk.
 
-## Layer Two Scoring frameworks modeled on historical Institutional Liquidity Paths events, asset price movements, and covenant breach probability. # 
+Layer Two Scoring frameworks modeled on historical Institutional Liquidity Paths events, asset price movements, and covenant breach probability.
 
-## Layer Multi vector simulation that estimates structural weak points during liquidity compression.
+Layer Multi vector simulation that estimates structural weak points during liquidity compression.
 
 The machine does not replace discernment.
 
@@ -476,4 +484,6 @@ If the objective is covenant stewardship built on Christian conservative foundat
 
 Then the next step is straightforward.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

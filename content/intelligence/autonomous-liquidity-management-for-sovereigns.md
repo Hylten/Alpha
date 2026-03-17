@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "autonomous-liquidity-management-for-sovereigns"
 --- 
 
-# Autonomous Liquidity Management for Sovereigns Liquidity is no longer a matter of Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+# Autonomous Liquidity Management for Sovereigns Liquidity is no longer a matter of Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It is a matter of autonomous infrastructure.
 
@@ -348,7 +350,9 @@ Discrete.
 
 Precise.
 
-Autonomous. ## ## 
+Autonomous. 
+
+ 
 
 ## CONCLUSION
 
@@ -364,4 +368,6 @@ Sovereigns must operate with principal authority supported by invisible infrastr
 
 Roials-Alpha builds that infrastructure.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

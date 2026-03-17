@@ -12,13 +12,13 @@ The legacy Asset-Based Lending ecosystem was designed for inventory, receivables
 
 The current operational reality in healthcare and technology is non linear, data intensive, and subject to real time performance volatility that traditional lenders cannot model without unacceptable error bands.
 
-The result has been a credit vacuum that is a consequence of methodological inertia, not borrower risk. ## ## ## ## ## 
+The result has been a credit vacuum that is a consequence of methodological inertia, not borrower risk.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  The healthcare and technology capital markets in 20
-2
-6 reflect a convergence of forces that have forced institutional allocators to reevaluate the tools used to supply liquidity.
+
+26 reflect a convergence of forces that have forced institutional allocators to reevaluate the tools used to supply liquidity.
 
 Healthcare operators face reimbursement friction, labor shortages, and payor delays that elongate cash conversion cycles.
 
@@ -34,9 +34,9 @@ Lenders relying on static underwriting methods cannot adjust LTV curves with suf
 
 Debt funds relying on manual diligence cannot process the velocity of operational data produced by healthcare EMR systems or enterprise software telemetry.
 
-The outcome is a structural mismatch between asset performance and capital availability, which reduces liquidity velocity and forces operators into suboptimal financings. ## 
+The outcome is a structural mismatch between asset performance and capital availability, which reduces liquidity velocity and forces operators into suboptimal financings.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  is not a matter of risk but of model fidelity.
 
@@ -44,9 +44,9 @@ Institutions that continue using manual underwriting tools effectively operate w
 
 Those using real time AI credit architectures can construct precision lending frameworks calibrated to actual operational throughput.
 
-The arbitrage lies in the discrepancy between outdated underwriting heuristics and the real performance patterns of the assets. ## ## ## ## ## 
+The arbitrage lies in the discrepancy between outdated underwriting heuristics and the real performance patterns of the assets.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  OF AI DRIVEN Asset-Based Lending AI driven Asset-Based Lending is not a marketing term.
 
@@ -110,7 +110,9 @@ The landscape includes operators focusing on healthcare receivables, platforms s
 
 There are differences in data infrastructure, collateral mapping protocols, and risk modeling algorithms.
 
-Roials Capital maps these distinctions and curates introductions that align allocator mandates with operator capabilities. ## ## 
+Roials Capital maps these distinctions and curates introductions that align allocator mandates with operator capabilities. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource allocation.
 
@@ -133,7 +135,9 @@ Precision lending preserves it.
 
 AI driven Asset-Based Lending creates the informational environment required for responsible stewardship.
 
-It aligns lending with authentic asset performance rather than outdated underwriting heuristics. ## ## 
+It aligns lending with authentic asset performance rather than outdated underwriting heuristics. 
+
+ 
 
 ## PORTFOLIO ORIENTATION AND DECISION LENS Institutional allocators evaluating AI driven Asset-Based Lending should apply four filters: liquidity velocity, collateral integrity, data fidelity, and operator maturity.
 
@@ -151,12 +155,14 @@ Static credit structures cannot manage the operational complexity of modern heal
 
 AI driven Asset-Based Lending represents a structural recalibration of private credit, allowing institutions to engage asset classes previously considered difficult to underwrite with precision.
 
-Roials Capital provides strategic alignment, market navigation, and institutional ## 
+Roials Capital provides strategic alignment, market navigation, and institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  into this rapidly evolving landscape.
 
 A confidential strategy audit can clarify where AI driven Asset-Based Lending intersects with existing mandates and how these structures can enhance portfolio durability, opportunity velocity, and long term stewardship. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

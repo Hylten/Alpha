@@ -24,7 +24,7 @@ It is the interface where Christian stewardship principles meet high-velocity ex
 
 Sacred trust meets quantifiable order.
 
-Roials-Alpha occupies that interface with intent. # 
+Roials-Alpha occupies that interface with intent.
 
 ## THE MANDATE
 
@@ -239,29 +239,29 @@ It is architectural consistency. # Structural Readiness for Institutional Scruti
 
 It is process-driven.
 
-Roials-Alpha prepares operators through a clear logic path.
+Roials-Alpha prepares operators through a clear logic path.### Step I: .
 
-Step 
+Purify cashflows 
 
-1. Purify cashflows Step 
+### Step II: .
 
-2. Formalize governance Step 
+Formalize governance Step 3.
 
-3. Segregate capital pools Step 
+Segregate capital pools Step 4.
 
-4. Standardize reporting Step 
+Standardize reporting Step 5.
 
-5. Establish collateral dependability Step 
+Establish collateral dependability Step 6.
 
-6. Harden counterparty agreements Step 
+Harden counterparty agreements Step 7.
 
-7. Synchronize timelines Step 
+Synchronize timelines Step 8.
 
-8. Validate covenant literacy Step 
+Validate covenant literacy Step 9.
 
-9. Document operational predictability Step 
+Document operational predictability Step 10.
 
-10. Simulate institutional due diligence cycles Each step produces measurable improvement in structural integrity.
+Simulate institutional due diligence cycles Each step produces measurable improvement in structural integrity.
 
 The result is an operator that no longer signals chaos.
 
@@ -433,9 +433,9 @@ It requires stewardship.
 
 It requires intelligence.
 
-Roials-Alpha operates as an extension of that mandate. # ## 
+Roials-Alpha operates as an extension of that mandate. # 
 
-## CONCLUSION
+ CONCLUSION
 
  Algorithmic asset hardening is not a trend.
 
@@ -457,4 +457,6 @@ For Principals seeking structural authority.
 
 For UHNW and institutional mandates seeking disciplined credit frameworks.
 
-Roials-Alpha is the architecture. # Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Roials-Alpha is the architecture. # Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

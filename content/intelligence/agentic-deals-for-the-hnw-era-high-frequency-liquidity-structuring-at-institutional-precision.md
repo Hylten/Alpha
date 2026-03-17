@@ -98,4 +98,6 @@ This is the real frontier of private capital engineering.
 
 ## The Next Step Is Infrastructure If you understand the value of agentic liquidity, the next step is simple.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

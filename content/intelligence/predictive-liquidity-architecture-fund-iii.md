@@ -342,4 +342,6 @@ This is the future of Asset-Based Lending.
 
 This is the architecture that hardens capital across generations.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

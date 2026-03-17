@@ -267,13 +267,17 @@ It is not a narrative.
 
 Our value is embedded in three pillars. 
 
-1. Structural AI.
+1.
+
+Structural AI.
 
 Built first.
 
 Not retrofitted. 
 
-2. Institutional Collateral Intelligence.
+2.
+
+Institutional Collateral Intelligence.
 
 Private credit.
 
@@ -283,7 +287,9 @@ Crypto Strategic Collateralization at scale.
 
 Public share Monetization Architecture for multi million blocks. 
 
-3. Silent Execution.
+3.
+
+Silent Execution.
 
 No noise.
 
@@ -329,7 +335,9 @@ We are a capital infrastructure, not a platform.
 
 We supply mechanics that shape the liquidity environment around you.
 
-This is where modern wealth architecture lives. ## ## 
+This is where modern wealth architecture lives. 
+
+ 
 
 ## CONCLUSION
 
@@ -345,4 +353,6 @@ We create Capital Structuring pathways that transform balance sheets into mobili
 
 If you operate at the high end of capital, you know exactly why this matters.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

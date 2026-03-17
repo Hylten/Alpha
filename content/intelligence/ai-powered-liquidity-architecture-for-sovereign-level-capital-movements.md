@@ -77,8 +77,9 @@ We lend against assets with an institutional silent profile, enabling liquidity 
 
 ## Crypto Capital Structuring for Institutional-Level Holders Crypto Monetization Architecture is available only to high conviction portfolios at scale.
 
-Our minimum threshold is 2,000,0
-0
+Our minimum threshold is 2,000,
+
+00
 0 dollars.
 
 This ensures engineering focus.
@@ -93,8 +94,9 @@ Our AI agents perform:
 -  slippage projection 
 -  risk decoupling from correlated markets The result is crypto-backed liquidity that behaves like institutional private credit, not retail collateralized Asset-Backed Frameworks. 
 
-## Public Share Monetization Architecture for Vaulted Positions Public share Asset-Backed Frameworks at Roials-Alpha begins at 5,000,0
-0
+## Public Share Monetization Architecture for Vaulted Positions Public share Asset-Backed Frameworks at Roials-Alpha begins at 5,000,
+
+00
 0 dollars.
 
 This threshold reflects the structural requirement of our models and the confidentiality expectations of UHNW portfolio holders.
@@ -160,7 +162,9 @@ It is engineered liquidity.
 
 ## Designed Only for HNWI and UHNW Profiles We do not operate below the sovereign threshold.
 
-Our systems are calibrated exclusively for HNWI and UHNW clients who require structural liquidity, not transactional Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Our systems are calibrated exclusively for HNWI and UHNW clients who require structural liquidity, not transactional Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This ensures engineering bandwidth is never diluted.
 
@@ -249,4 +253,6 @@ This is the Roials-Alpha standard.
 
 This is the future of sovereign Monetization Architecture.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

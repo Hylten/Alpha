@@ -156,7 +156,9 @@ Asset-Based Lending becomes responsive.
 
 This is not about higher leverage.
 
-This is about liquidity optionality that was previously inAccess is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+This is about liquidity optionality that was previously inAccess is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## Crypto Institutional Liquidity Paths at Institutional Floors Crypto wealth is no longer fringe.
 
@@ -168,8 +170,9 @@ But the noise in the crypto Strategic Collateralization space has made HNWI capi
 
 Roials‑Alpha is not in the noise segment.
 
-We operate at a minimum threshold of 2,000,0
-0
+We operate at a minimum threshold of 2,000,
+
+00
 0 for crypto Capital Structuring.
 
 Below that number, the risk‑reward surface is inefficient and does not fit an institutional liquidity profile.
@@ -192,7 +195,9 @@ But using them for liquidity, especially cross‑border, is still a high frictio
 
 Our minimum threshold for public share Monetization Architecture is 5,000, 
 
-000. The scale creates stability.
+000.
+
+The scale creates stability.
 
 The scale reduces noise.
 
@@ -347,4 +352,6 @@ Liquidity is an intelligence layer.
 
 Roials‑Alpha builds that layer.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

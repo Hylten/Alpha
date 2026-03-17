@@ -18,7 +18,9 @@ It is the quiet blueprint behind how dynasties avoid erosion.
 
 Roials-Alpha takes this classical structure and upgrades it into an automated liquidity engine.
 
-The goal is simple: perpetual control of assets, perpetual Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The goal is simple: perpetual control of assets, perpetual Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The autonomous infrastructure layer is the force multiplier.
 
@@ -90,9 +92,9 @@ The system executes the balance sheet optimization action.
 
 Each pillar corresponds to a different liquidity profile.
 
-Each is engineered for high net worth individuals who need precision, not marketing. # 
+Each is engineered for high net worth individuals who need precision, not marketing.
 
-## Pillar One: Buy The acquisition phase defines everything.
+Pillar One: Buy The acquisition phase defines everything.
 
 The quality of assets determines the leverage multiple.
 
@@ -122,9 +124,9 @@ They provide durable signals.
 
 They allow high quality underwriting logic, which translates into stable balance sheet optimization power for decades.
 
-When assets are selected properly, the rest of the system becomes automatic. # 
+When assets are selected properly, the rest of the system becomes automatic.
 
-## Pillar Two: Borrow This is the lever that makes the Buy, Borrow, Die strategy actually function.
+Pillar Two: Borrow This is the lever that makes the Buy, Borrow, Die strategy actually function.
 
 Liquidity is extracted, but the asset remains untouched.
 
@@ -141,7 +143,9 @@ The three Strategic Collateralization categories include:
 000.
 • Public Share Capital Structuring with a minimum threshold of 5,000, 
 
-000. These thresholds exist because sub-scale capital distorts leverage cycles.
+000.
+
+These thresholds exist because sub-scale capital distorts leverage cycles.
 
 We work only with capital profiles that can sustain institutional velocity. balance sheet optimization through us is frictionless.
 
@@ -153,11 +157,13 @@ It automates adjustments.
 
 It pulls liquidity when signals confirm alignment.
 
-The client experiences Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The client experiences Access is restricted to approved mandates.
 
-The borrow phase becomes a continuous flow event, not a transaction. # 
+Minimum mandate depth: $5M+ target size.
 
-## Pillar Three: Die This is the phase most people misunderstand.
+The borrow phase becomes a continuous flow event, not a transaction.
+
+Pillar Three: Die This is the phase most people misunderstand.
 
 Death is not an endpoint.
 
@@ -303,8 +309,9 @@ It maintains clean underwriting integrity.
 
 The result is liquidity that behaves like infrastructure. 
 
-## Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000,0
-0
+## Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000,
+
+00
 0 can function as high velocity collateral.
 
 They are volatile, which means manual Strategic Collateralization is inefficient. autonomous infrastructure solves this by monitoring real time volatility and adjusting collateral balance dynamically.
@@ -315,8 +322,9 @@ Only at scale.
 
 Only when the autonomous infrastructure layer controls the timing. 
 
-## Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000,0
-0
+## Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000,
+
+00
 0 enables leverage loops that smaller portfolios cannot sustain.
 
 We engineer automated Capital Structuring against these positions.
@@ -371,4 +379,6 @@ The question is not whether autonomous infrastructure will dominate wealth strat
 
 It is only a question of who adopts it early.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

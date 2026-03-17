@@ -14,7 +14,9 @@ They want silent systems that process, screen, structure, underwrite, collateral
 
 Roials-Alpha builds the infrastructure for this shift.
 
-We engineer the mechanical backbone that transforms private credit and asset based Strategic Collateralization into autonomous financial architecture, calibrated for HNWI and UHNW operators who do not trade time for Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+We engineer the mechanical backbone that transforms private credit and asset based Strategic Collateralization into autonomous financial architecture, calibrated for HNWI and UHNW operators who do not trade time for Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 They command liquidity on arrival.
 
@@ -29,7 +31,9 @@ They can deploy capital at scale.
 Autonomy amplifies this advantage.
 
 It gives them: 
--  Faster Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  Faster Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  More accurate risk data. 
 -  Mechanized collateral evaluation. 
 -  Predictable liquidity response.
@@ -62,7 +66,9 @@ Autonomy is not a convenience.
 
 It is the future operating system of institutional finance.
 
-Roials-Alpha designs that system. ## ## 
+Roials-Alpha designs that system. 
+
+ 
 
 ## CONCLUSION
 
@@ -76,4 +82,6 @@ Borrowers gain an optimized path.
 
 Capital gains velocity without friction.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

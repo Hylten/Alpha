@@ -62,7 +62,9 @@ It monitors downside thresholds.
 
 It designs and executes the credit stack.
 
-The outcome is a continuous liquidity band that can be Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The outcome is a continuous liquidity band that can be Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## High Net Worth.
 
@@ -122,7 +124,9 @@ Roials-Alpha applies agentic analysis to digital asset collateral, ensuring clar
 
 Our minimum threshold for crypto Capital Structuring is 2,000, 
 
-000. We do not cater to speculative flows.
+000.
+
+We do not cater to speculative flows.
 
 We serve clients whose digital asset holdings are treated as structured collateral, not trading chips.
 
@@ -138,7 +142,9 @@ Roials-Alpha uses agentic frameworks to evaluate public share blocks with instit
 
 Our minimum threshold for public share Strategic Collateralization is 5,000, 
 
-000. The agentic layer runs continuous valuation sweeps.
+000.
+
+The agentic layer runs continuous valuation sweeps.
 
 It anticipates market microstructure shifts.
 
@@ -356,4 +362,6 @@ They are continuously mapped.
 
 Roials-Alpha builds this architecture for high net worth and ultra high net worth individuals who operate with institutional discipline and require institutional scale. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

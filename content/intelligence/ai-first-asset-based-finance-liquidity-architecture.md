@@ -168,10 +168,10 @@ Rate curves pegged to live collateral health.
 The architecture collapses time.
 
 Deals that once took 
-6
-0 days compress to 
-6
-0 minutes.
+
+60 days compress to 
+
+60 minutes.
 
 Machine gun tempo.
 
@@ -278,8 +278,9 @@ The office becomes a computational organism.
 
 The yield shift is quantifiable.
 
-AI-first credit structures routinely outperform traditional private credit by 80-1
-8
+AI-first credit structures routinely outperform traditional private credit by 80-
+
+18
 0 bps because machine underwriting captures nuance.
 
 Asset risk bands tighten.
@@ -516,4 +517,6 @@ Precision wins.
 
 Architecture wins.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

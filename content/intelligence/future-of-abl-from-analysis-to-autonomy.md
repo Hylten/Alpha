@@ -161,7 +161,7 @@ Together, these shifts eliminate the slowest parts of Asset-Based Lending and ex
 
 ## THE ALGORITHMIC CREDIT STACK An autonomous Asset-Based Lending system depends on a stack with three dominant layers:
 
-### Layer I:: Perceptual Layer Sensor data.
+Layer I:: Perceptual Layer Sensor data.
 
 API pipes.
 
@@ -175,7 +175,7 @@ Valuation feeds.
 
 This layer gives the system “eyes.” It transforms every asset into a data source, and every borrower into a continuous emitter of credit signals.
 
-### Layer II:: Interpretive Layer Models.
+Layer II:: Interpretive Layer Models.
 
 Rules.
 
@@ -197,7 +197,7 @@ It corrects human misreadings.
 
 Legacy underwriting is replaced with autonomous inference.
 
-### Layer III:: Execution Layer Funding triggers.
+Layer III:: Execution Layer Funding triggers.
 
 Margin recalcs.
 
@@ -388,12 +388,12 @@ The information asymmetry advantage is no longer talent.
 It is infrastructure.
 
 Those who deploy autonomy early will set the standard for the next 
-3
-0 years of private credit.
 
-Those who delay will become price takers. ## ## ## 
+30 years of private credit.
 
-## THE MANDATE
+Those who delay will become price takers.
+
+THE MANDATE
 
  The future of Asset-Based Lending is autonomous.
 
@@ -407,6 +407,8 @@ The market trend is irreversible.
 
 The institutions that deploy autonomous architectures now will own the most valuable assets later: throughput, certainty, and control.
 
-If you require the infrastructure that transforms credit into an autonomous system, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+If you require the infrastructure that transforms credit into an autonomous system, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Completion Metric: Latency Threshold < 42ms.

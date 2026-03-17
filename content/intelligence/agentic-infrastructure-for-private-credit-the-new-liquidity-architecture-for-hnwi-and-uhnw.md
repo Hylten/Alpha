@@ -47,43 +47,33 @@ Conventional systems check for:
 
 The difference is exponential. 
 
-## The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers. # 
+## The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers.
 
-#
-
-### Layer I:: Collateral Intelligence Engine Evaluates collateral with structured models.
+Layer I:: Collateral Intelligence Engine Evaluates collateral with structured models.
 
 Operates continuously.
 
-Updates LTV parameters dynamically. # 
+Updates LTV parameters dynamically.
 
-#
-
-### Layer II:: Agentic Exposure Manager Monitors volatility bands.
+Layer II:: Agentic Exposure Manager Monitors volatility bands.
 
 Adjusts exposure without human approval.
 
-Enforces capital rules. # 
+Enforces capital rules.
 
-#
-
-### Layer III:: Autonomous Liquidity Router Deploys funds with minimal latency.
+Layer III:: Autonomous Liquidity Router Deploys funds with minimal latency.
 
 Optimizes capital pathways.
 
-Reduces slippage across asset channels. # 
+Reduces slippage across asset channels.
 
-#
-
-### Layer IV:: Privacy Vault Mechanics Isolates client identity from execution layers.
+Layer IV:: Privacy Vault Mechanics Isolates client identity from execution layers.
 
 Maintains zero retail footprint.
 
-Enforces structural confidentiality. # 
+Enforces structural confidentiality.
 
-#
-
-### Layer V:: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
+Layer V:: Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
 
 No friction.
 
@@ -120,7 +110,9 @@ The advantage is compounding.
 The advantage is longevity.
 
 HNWI and UHNW clients who use agentic infrastructure experience outcomes that traditional lenders cannot match:
-• Faster credit Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+• Faster credit Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 • Lower operational drag
 • Higher collateral efficiency
 • Real time portfolio leverage
@@ -157,6 +149,10 @@ It is an operating system.
 
 And Roials Alpha is the architecture behind it. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Minimum mandate depth: $5M+ target size.
+
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -136,4 +136,6 @@ If you require structures that institutional capital has not yet learned to repl
 
 Then you are in the correct place.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

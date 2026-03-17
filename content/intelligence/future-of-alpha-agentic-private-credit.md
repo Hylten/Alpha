@@ -16,13 +16,11 @@ This gap is now measurable in cycle times, recovery precision, default anticipat
 
 The strategic reality is that private credit alpha in the next decade will not be a function of price negotiation or capital access.
 
-It will be a function of computational architecture. 
+It will be a function of computational architecture.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## ## 
-
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  Private credit underwent a four stage evolution during the last fifteen years.
 
@@ -49,10 +47,10 @@ Large scale platforms deployed generic underwriting templates and compensated fo
 Operational insight remained shallow because deal flow outpaced analytical depth.
 
 Stage Three. 20
-2
-0 to 20
-2
-4 volatility regime.
+
+20 to 20
+
+24 volatility regime.
 
 Volatility in commodities, supply chain disruptions, and inconsistent global monetary policy exposed the structural weaknesses of legacy underwriting.
 
@@ -61,8 +59,8 @@ Slow verification cycles and insufficient operational intelligence created valua
 Many allocators discovered that their risk assessment frameworks were reactive rather than anticipatory.
 
 Stage Four. 20
-2
-5 onward computational credit.
+
+25 onward computational credit.
 
 The convergence of AI-native underwriting, autonomous monitoring, and agentic deal sourcing created the first genuine regime shift in private credit since the GFC.
 
@@ -76,13 +74,11 @@ Allocators without agentic infrastructure cannot maintain competitive cycle time
 
 The market no longer rewards capital.
 
-It rewards computational advantage. 
+It rewards computational advantage.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## ## 
-
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  OF AGENTIC PRIVATE CREDIT INFRASTRUCTURE Agentic credit systems are not autonomous infrastructure tools.
 
@@ -152,11 +148,11 @@ The cycle time from discovery to deployment compresses.
 
 The clarity of risk calibration increases.
 
-Default events become predictable rather than disruptive. 
+Default events become predictable rather than disruptive.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital operates within this regime shift as a strategic navigator.
+THE PARTNERSHIP MODEL Roials Capital operates within this regime shift as a strategic navigator.
 
 The role is not to manage capital but to provide institutional partners with a neutral intelligence layer that clarifies the viability of agentic infrastructure and identifies where structural alignment is achievable.
 
@@ -194,11 +190,11 @@ This includes decisions regarding portfolio structure, credit architecture upgra
 
 The objective is clarity.
 
-The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring. 
+The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring.
 
-## PHASE 
+Phase IV: .
 
-4. ## ## 
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline of resource management that prioritizes responsible deployment over speculative acceleration.
 
@@ -241,13 +237,13 @@ Institutional resilience.
 
 Stewardship includes designing a portfolio that can withstand rate shifts, liquidity stress, and macroeconomic turbulence without reactive repositioning.
 
-Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis. 
+Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis.
 
-## PHASE 
+Phase V: .
 
-5. DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 20
-2
-6 faces a bifurcated landscape.
+DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 20
+
+26 faces a bifurcated landscape.
 
 On one side are legacy underwriting processes that rely on human sequential analysis, delayed reporting, and fragmented operational data.
 
@@ -275,4 +271,6 @@ The institutions that understand this early will control the opportunity landsca
 
 The institutions that wait will operate in a structurally inferior environment.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

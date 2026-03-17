@@ -79,7 +79,7 @@ Algorithmic origination reverses the polarity.
 Instead of waiting for deals the Alpha Framework identifies, tracks, and advances targets through algorithmic intelligence. *Principal Graphing.
 * *Signal Compression.
 * *Counterparty Profiling.
-* # 
+*
 
 ## Principal Graphing All industries contain underlying power structures.
 
@@ -101,7 +101,7 @@ This produces an x ray of the market.
 
 Not by industry but by decision maker.
 
-Not by company but by control vector. # 
+Not by company but by control vector.
 
 ## Signal Compression Deal discovery fails when data is unrefined.
 
@@ -119,7 +119,7 @@ Signal compression eliminates noise such as:
 * broker induced distortion. 
 * false scarcity cycles.
 
-What remains is actionable intelligence tied to covenant aligned opportunities. # 
+What remains is actionable intelligence tied to covenant aligned opportunities.
 
 ## Counterparty Profiling Traditional underwriting focuses on borrower risk.
 
@@ -149,7 +149,7 @@ Asset Hardening operates in four arcs. *Structural Readiness.
 * *Collateral Precision.
 * *Information Integrity.
 * *Institutional Grade Controls.
-* # 
+*
 
 ## Structural Readiness Borrowers often present structures that cannot support scaled credit.
 
@@ -165,7 +165,7 @@ Structural readiness aligns:
 
 A borrower prepared through asset hardening becomes bankable even outside bank constraints.
 
-This increases durability and reduces cost of capital. # 
+This increases durability and reduces cost of capital.
 
 ## Collateral Precision Collateral must be definable, isolatable, and enforceable.
 
@@ -179,7 +179,7 @@ Precision is achieved through:
 
 The goal is not maximum coverage.
 
-The goal is maximum certainty. # 
+The goal is maximum certainty.
 
 ## Information Integrity High velocity liquidity engineering collapses when data is unreliable.
 
@@ -191,7 +191,7 @@ Information integrity demands:
 
 Information integrity is a covenant before the covenant.
 
-It is the predicate for execution velocity. # 
+It is the predicate for execution velocity.
 
 ## Institutional Grade Controls Institutions deploy capital based on control.
 
@@ -201,7 +201,9 @@ Control requires:
 * perfected security interests. 
 * rapid enforcement rights. 
 * transparent intercreditor relationships. 
-* direct Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+* direct Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 These controls transform the Institutional Liquidity Paths dynamic.
 
@@ -231,7 +233,7 @@ They create guardrails that elevate execution.
 Covenant Stewardship rests on three directives. *Clear Purpose.
 * *Predictable Accountability.
 * *Aligned Mandate.
-* # 
+*
 
 ## Clear Purpose A covenant without purpose becomes bureaucratic.
 
@@ -243,7 +245,7 @@ Purpose aligned covenants include:
 * reporting cadence mandates. 
 * margin protection structures.
 
-Each covenant exists to protect the joint mandate between lender and operator. # 
+Each covenant exists to protect the joint mandate between lender and operator.
 
 ## Predictable Accountability Predictability is more valuable than flexibility.
 
@@ -256,7 +258,7 @@ This creates peace for both sides.
 
 The operator knows expectations.
 
-The lender knows behavior. # 
+The lender knows behavior.
 
 ## Aligned Mandate Stewardship requires alignment.
 
@@ -293,7 +295,7 @@ Not as services.
 As an integrated intelligence organism. *Pre Decision Mapping.
 * *Agentic Infrastructure.
 * *Automated Covenant Enforcement.
-* # 
+*
 
 ## Pre Decision Mapping Decisions must be architected before opportunities appear.
 
@@ -306,7 +308,7 @@ Pre decision mapping establishes:
 
 This eliminates friction.
 
-Capital moves with certainty. # 
+Capital moves with certainty.
 
 ## Agentic Infrastructure This is the domain of Roials-Alpha.
 
@@ -318,7 +320,7 @@ Agentic infrastructure performs:
 * automated enforcement signals. 
 * live probability scoring.
 
-This creates a structural advantage that cannot be replicated through manpower. # 
+This creates a structural advantage that cannot be replicated through manpower.
 
 ## Automated Covenant Enforcement autonomous infrastructure reduces default risk.
 
@@ -339,7 +341,7 @@ The lender experiences protection.
 -  
 -  
 
-## Specialized Domains The Alpha Framework adapts to specific structures. # 
+## Specialized Domains The Alpha Framework adapts to specific structures.
 
 ## Crypto Secured Monetization Architecture Minimum threshold 2M.
 
@@ -353,7 +355,7 @@ The advantage is velocity.
 
 The risk is counterparty opacity.
 
-Asset hardening resolves this by isolating collateral within enforceable pathways. # 
+Asset hardening resolves this by isolating collateral within enforceable pathways.
 
 ## Public Share Secured Monetization Architecture Minimum threshold 5M.
 
@@ -455,4 +457,6 @@ As principals.
 -  
 -  
 
-## Inquiry Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Inquiry Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -34,9 +34,9 @@ It absorbs data, forms conviction, establishes risk boundaries, and allocates ca
 
 Human friction is the last inefficiency.
 
-It is being eliminated. 
+It is being eliminated.
 
-## PHASE ONE: ## ## ## ## 
+PHASE ONE: 
 -  PRIVATE BRIEFING The future of credit is neither decentralized nor democratic.
 
 It consolidates into the hands of those who architect the pipelines.
@@ -75,9 +75,9 @@ The firms who operate Principal AI stacks are not scaling people.
 
 They are scaling precision.
 
-This is the new Sovereign Edge. 
+This is the new Sovereign Edge.
 
-## PHASE TWO: PRINCIPAL VOICE 
+PHASE TWO: PRINCIPAL VOICE 
 -  THE FIRMER TONE A Principal makes the call.
 
 A Principal owns the call.
@@ -108,9 +108,9 @@ Conviction produces capital flow.
 
 Committees negotiate.
 
-Stacks decide. 
+Stacks decide.
 
-## PHASE THREE: AGENTIC INFRASTRUCTURE 
+PHASE THREE: AGENTIC INFRASTRUCTURE 
 -  THE DEEP STRUCTURE I. **THE FOUR-LAYER AI UNDERWRITING ARCHITECTURE
 *
 * Layer One: **Data Ingestion Without Friction
@@ -143,8 +143,9 @@ Agentic underwriting sculpts futures.
 
 Scenario generation becomes generative, not static: multivariate, path-dependent, adaptive on each iteration.
 
-This architecture does not ask “What if X collapses?” It asks, “What future trajectories remain structurally viable across 4,0
-0
+This architecture does not ask “What if X collapses?” It asks, “What future trajectories remain structurally viable across 4,
+
+00
 0 correlated perturbations?” The stack maps survivability.
 
 Not possibility.
@@ -243,15 +244,25 @@ Continuous.
 
 Autonomous. 
 
-1. Ingest. 
+1.
 
-2. Interpret. 
+Ingest. 
 
-3. Stress. 
+2.
 
-4. Conclude. 
+Interpret. 
 
-5. Execute.
+3.
+
+Stress. 
+
+4.
+
+Conclude. 
+
+5.
+
+Execute.
 
 The loop grows sharper each cycle.
 
@@ -349,7 +360,9 @@ For context on the institutional capital side, certain UHNW offices also referen
 
 But the Roials-Alpha mandate remains pure: eliminate friction, accelerate intelligence, and place the Principal in the only seat that matters-command.
 
-When you are ready to architect an agentic underwriting environment around your own mandate, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+When you are ready to architect an agentic underwriting environment around your own mandate, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The transition is not cosmetic.
 

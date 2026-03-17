@@ -10,9 +10,9 @@ The structural gap in global private credit is not a function of capital scarcit
 
 It is the result of a legacy underwriting architecture that cannot process deal velocity at the rate required by modern balance sheet dynamics.
 
-High grade credit demand is rising faster than traditional lenders can underwrite, review, and deploy, creating an environment where algorithmic origination and proprietary data layers define the next institutional advantage. ## ## ## ## ## 
+High grade credit demand is rising faster than traditional lenders can underwrite, review, and deploy, creating an environment where algorithmic origination and proprietary data layers define the next institutional advantage.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  The private credit ecosystem has entered a post-relationship era.
 
@@ -22,7 +22,9 @@ This structure produced slow approvals, inconsistent pricing frameworks, and sta
 
 In 2026, institutional allocators face a newly aligned reality defined by four convergent forces. 
 
-1. Regulatory Latency.
+1.
+
+Regulatory Latency.
 
 Cross jurisdictional capital adequacy frameworks have increased the regulatory burden on banks.
 
@@ -30,7 +32,9 @@ This has created an under-writing vacuum in the middle market.
 
 The absence of fast adjudication cycles opens a lane for non-bank credit groups with technology first architectures. 
 
-2. Asymmetric Capital Migration.
+2.
+
+Asymmetric Capital Migration.
 
 UHNW family offices and sovereign allocators continue to rotate out of long duration equities into yield centric strategies.
 
@@ -40,13 +44,17 @@ The constraint is deal curation and under-writing throughput.
 
 Institutions are forced to deploy through intermediaries with slower cycles. 
 
-3. Mismatch Between Borrower Needs and Originator Capabilities.
+3.
+
+Mismatch Between Borrower Needs and Originator Capabilities.
 
 Operators, especially in asset backed sectors such as equipment, energy, logistics, and industrial services, require near real time capital decisions.
 
 Traditional underwriting cannot respond within operational timelines. 
 
-4. Rise of Single Asset and Micro Portfolio Credit.
+4.
+
+Rise of Single Asset and Micro Portfolio Credit.
 
 Allocators no longer require only fund structures.
 
@@ -62,9 +70,9 @@ The market is not inefficient by accident.
 
 It is inefficient by design.
 
-Legacy institutions cannot redesign themselves fast enough to capture the new liquidity cycles. ## ## ## ## ## 
+Legacy institutions cannot redesign themselves fast enough to capture the new liquidity cycles.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  OF THE ALPHA FRAMEWORK The Alpha Framework is the engineering methodology used by Roials Capital to create proprietary credit architectures for institutional allocators and UHNW family offices.
 
@@ -161,9 +169,9 @@ This includes:
 -  Connectivity to validated operators.
 
 Configuration 2: Partner Operator Integration For operating companies, the firm provides: 
--  Institutional ## 
+-  Institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  pathways. 
 -  Structuring intelligence. 
@@ -172,7 +180,9 @@ Configuration 2: Partner Operator Integration For operating companies, the firm 
 
 In the North American energy sector, our strategic partner NAEO represents an institutional grade operator with established operating history, technical discipline, and the capacity to integrate with the Alpha Framework’s data architecture.
 
-This preserves the neutrality of Roials Capital and ensures that operators and allocators engage through aligned frameworks. ## ## 
+This preserves the neutrality of Roials Capital and ensures that operators and allocators engage through aligned frameworks. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is treated as a non negotiable governance principle.
 
@@ -180,11 +190,17 @@ It is rooted in disciplined resource management and capital responsibility.
 
 Stewardship ensures three outcomes. 
 
-1. Capital is deployed where operational integrity is verifiable. 
+1.
 
-2. Resources are allocated in ways that minimize waste and maximize accountability. 
+Capital is deployed where operational integrity is verifiable. 
 
-3. All counterparties operate pursuant to transparent and measurable structures.
+2.
+
+Resources are allocated in ways that minimize waste and maximize accountability. 
+
+3.
+
+All counterparties operate pursuant to transparent and measurable structures.
 
 The Biblical principle in 
 -  **Proverbs 13:22
@@ -195,13 +211,17 @@ For institutions and family offices, stewardship produces credit architectures t
 
 Stewardship converts capital into a generational resource.
 
-It ensures that credit strategies are not driven by opportunism but by structured alignment between asset performance, operator capacity, and long term allocator objectives. ## ## 
+It ensures that credit strategies are not driven by opportunism but by structured alignment between asset performance, operator capacity, and long term allocator objectives. 
 
-## THE ## ## 
+ 
+
+## THE 
+
+ 
 
 ## DECISION MAKING LENS FOR ALLOCATORS Allocators operating in 20
-2
-6 must navigate an environment where the constraints are analytical rather than financial.
+
+26 must navigate an environment where the constraints are analytical rather than financial.
 
 The critical questions are centered on structure, transparency, and operational alignment.
 
@@ -220,4 +240,6 @@ Roials Capital functions as a strategic partner in this process.
 
 Its role is to guide allocators through the structural landscape, introduce institutionally validated operators, and calibrate credit frameworks to match long term mandates. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

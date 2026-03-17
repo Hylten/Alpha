@@ -252,7 +252,9 @@ It is sovereign in behavior.
 
 It is AI centric in execution.
 
-It is Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It is Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## The Roials Alpha Architecture Roials Alpha is not a lender.
 
@@ -296,4 +298,6 @@ To operate at this level, your capital needs infrastructure.
 
 Agentic infrastructure.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

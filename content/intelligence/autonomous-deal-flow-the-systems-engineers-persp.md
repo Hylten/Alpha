@@ -38,7 +38,9 @@ Data hardened to withstand institutional scrutiny.
 
 The aim is singular.
 
-To engineer liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+To engineer liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## The Structural Premise Autonomous deal flow depends on structural alignment.
 
@@ -100,7 +102,9 @@ Autonomous origination removes the human bottleneck entirely.
 
 The architecture operates through four layers: # ## 
 
-1. Signal Harvesting Raw inputs from multiple ecosystems.
+1.
+
+Signal Harvesting Raw inputs from multiple ecosystems.
 
 Public domains.
 
@@ -114,7 +118,9 @@ Each signal normalized.
 
 Each signal scored against covenant stewardship frameworks. # ## 
 
-2. Counterparty Verification Identity synthesis.
+2.
+
+Counterparty Verification Identity synthesis.
 
 Historical integrity scoring.
 
@@ -122,7 +128,9 @@ Trajectory analysis.
 
 Operators either align with stewardship or they exit the pipeline. # ## 
 
-3. Collateral Intelligence Automated appraisal.
+3.
+
+Collateral Intelligence Automated appraisal.
 
 Volatility mapping.
 
@@ -136,7 +144,9 @@ Minimum thresholds:
 -  Crypto backed liquidity engineering: 2M 
 -  Public shares Capital Structuring: 5M Anything below is noise. # ## 
 
-4. Mandate Routing Matched to liquidity corridors.
+4.
+
+Mandate Routing Matched to liquidity corridors.
 
 Matched to risk tranches.
 
@@ -371,4 +381,6 @@ In this architecture, randomness disappears.
 
 Only mandate remains.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

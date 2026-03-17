@@ -76,11 +76,17 @@ It requires mechanical precision.
 
 Roials-Alpha’s systems mandate follows three immutable laws: 
 
-1. No opacity. 
+1.
 
-2. No reliance on personality. 
+No opacity. 
 
-3. No vulnerability to human drift.
+2.
+
+No reliance on personality. 
+
+3.
+
+No vulnerability to human drift.
 
 Agentic infrastructure is the response.
 
@@ -148,7 +154,9 @@ This is the principal’s discipline.
 
 Each is engineered for intelligence density and execution reliability. # ## 
 
-1. Signal Verification Every claim is validated by independent signal chains.
+1.
+
+Signal Verification Every claim is validated by independent signal chains.
 
 No representation stands alone.
 
@@ -158,15 +166,21 @@ The system refuses unsupported optimism.
 
 It accepts only validated reality. # ## 
 
-2. Algorithmic Origination Deal flow is not pursued.
+2.
+
+Algorithmic Origination Deal flow is not pursued.
 
 It is computed.
 
 Pattern recognition and constraints-based selection remove founders from the guesswork loop.
 
-This produces originations that meet institutional criteria before first Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+This produces originations that meet institutional criteria before first Access is restricted to approved mandates.
 
-3. Agentic Control Layers Human action introduces variance.
+Minimum mandate depth: $5M+ target size.
+
+3.
+
+Agentic Control Layers Human action introduces variance.
 
 Agentic systems eliminate it.
 
@@ -182,7 +196,9 @@ No lapse is tolerated.
 
 If a deviation emerges, the system enforces correction. # ## 
 
-4. Process Compression Every unnecessary step is a liability.
+4.
+
+Process Compression Every unnecessary step is a liability.
 
 Every manual interface is a breach point.
 
@@ -194,7 +210,9 @@ The architecture compresses:
 
 Compression creates liquidity velocity. # ## 
 
-5. Institutional Proofing Before capital enters, we prepare the structure for forensic-level scrutiny.
+5.
+
+Institutional Proofing Before capital enters, we prepare the structure for forensic-level scrutiny.
 
 This includes: 
 -  Hard asset mapping. 
@@ -205,7 +223,9 @@ This includes:
 
 The result is frictionless compatibility with institutional thresholds. # ## 
 
-6. Liquidity Execution Only after the first five layers are hardened do we execute.
+6.
+
+Liquidity Execution Only after the first five layers are hardened do we execute.
 
 The architecture supports: 
 -  Crypto liquidity engineering starting at 2M. 
@@ -227,7 +247,9 @@ This is why the Roials-Alpha doctrine mandates intelligence first, structure sec
 
 Inverting this sequencing is reckless.
 
-Following it creates unstoppable liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Following it creates unstoppable liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## The Gnosjö Framework Swedish industrialists built generational wealth through: 
 -  Covenant stewardship. 
@@ -257,7 +279,9 @@ Liquidity produces permanence.
 
 Roials-Alpha ensures each of these is engineered into the business before capital is sought.
 
-This is the difference between Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+This is the difference between Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 ## THE MANDATE
 
@@ -280,18 +304,24 @@ When the architecture is sovereign, capital aligns automatically.
 -  High velocity approvals. 
 -  Predictable covenant execution. 
 -  Durable lender confidence. 
--  High leverage Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  High leverage Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  Reduction in operational entropy. 
 -  Strengthened stewardship posture. 
 -  Increased long-range liquidity optionality.
 
 Friction is eliminated.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Capital becomes obedient to structure. 
 
-## Closing Intelligence Operators who submit to engineering gain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Closing Intelligence Operators who submit to engineering gain Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The agentic architecture is not optional.
 
@@ -303,4 +333,6 @@ The steward embraces it.
 
 The marketplace acknowledges it. 
 
-## CTA Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## CTA Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

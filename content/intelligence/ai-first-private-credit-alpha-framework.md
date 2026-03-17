@@ -371,7 +371,9 @@ Capital cycles faster.
 
 Asset-Based Lending becomes renewable liquidity.
 
-Family offices gain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Family offices gain Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Flexibility without fragility.
 
@@ -550,7 +552,9 @@ Private credit becomes governed not by strategy but by architecture.
 We build that architecture.
 
 Metric: Enforcement yield compression ratio 0.
-8
-7 across cross‑border Asset-Based Lending portfolios.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+87 across cross‑border Asset-Based Lending portfolios.
+
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -110,19 +110,19 @@ Capital needs infrastructure.
 
 Roials-Alpha provides this through an AI-driven framework that handles risk the way institutional sovereigns expect: quietly, precisely, and at scale. 
 
-## The Mechanics of AI-Orchestrated Liquidity Our liquidity engine functions through three core pillars. # 
+## The Mechanics of AI-Orchestrated Liquidity Our liquidity engine functions through three core pillars.
 
 ## Predictive Collateral Intelligence Collateral is evaluated continuously, not at origination.
 
 The system understands future collateral behavior instead of relying on historical proxies.
 
-This creates a Capital Structuring environment that adapts before markets move. # 
+This creates a Capital Structuring environment that adapts before markets move.
 
 ## Autonomic Risk Compression AI models adjust risk parameters in real time.
 
 Exposure is modulated, not capped.
 
-The system maintains equilibrium even during volatility spirals. # 
+The system maintains equilibrium even during volatility spirals.
 
 ## Multi-Asset Convergence Public, private, and digital assets can be harmonized into composite capital structures.
 
@@ -236,4 +236,6 @@ This is how modern sovereigns maintain dominance.
 
 This is how liquidity becomes power.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -60,9 +60,9 @@ Machine runs.
 
 Principal decides.
 
-That is the covenant. ## 
+That is the covenant.
 
-## PHASE ONE A secured briefing on architecture and jurisdictional dynamics.
+PHASE ONE A secured briefing on architecture and jurisdictional dynamics.
 
 True counterparty probability scoring emerges from multi-vector inference.
 
@@ -80,7 +80,9 @@ The system must identify behavioral signatures, not surface identifiers.
 
 The scoring engine deploys four simultaneous inference stacks: 
 
-1. Identity Coherence Vector Not legal identity.
+1.
+
+Identity Coherence Vector Not legal identity.
 
 Pattern identity.
 
@@ -92,7 +94,9 @@ Misalignment does not equal fraud; it indicates opacity.
 
 Opacity reduces probability of execution. 
 
-2. Intent Integrity Vector The true metric.
+2.
+
+Intent Integrity Vector The true metric.
 
 Intent fractures are the primary failure point in UHNW transactions.
 
@@ -104,7 +108,9 @@ They reveal themselves through patterns.
 
 Machines read patterns. 
 
-3. Capability Realization Vector Capability is not wealth.
+3.
+
+Capability Realization Vector Capability is not wealth.
 
 Capability is the demonstrable pattern of execution under uncertainty.
 
@@ -112,7 +118,9 @@ The engine integrates cross-dataset verification of liquidity events, historical
 
 It weights the ability to close, not the ability to speak. 
 
-4. Jurisdictional Arbitrage Vector Every counterparty leverages jurisdictional structures to optimize velocity, secrecy, taxation, or strategic advantage.
+4.
+
+Jurisdictional Arbitrage Vector Every counterparty leverages jurisdictional structures to optimize velocity, secrecy, taxation, or strategic advantage.
 
 These patterns form predictable, classifiable signatures.
 
@@ -162,9 +170,9 @@ Different mission.
 
 Different architecture.
 
-Different purpose. ## 
+Different purpose.
 
-## PHASE TWO Principal Tone The internal voice of operational clarity.
+PHASE TWO Principal Tone The internal voice of operational clarity.
 
 The transaction landscape is crowded.
 
@@ -214,9 +222,9 @@ The Roials‑Alpha architecture exists to guard that sanctity.
 
 Deal rooms collapse because someone "sounds credible." We do not operate through sound.
 
-We operate through structure. ## 
+We operate through structure.
 
-## PHASE THREE Deep Structural Analysis The backbone of the architecture. 1500+ words.
+PHASE THREE Deep Structural Analysis The backbone of the architecture. 1500+ words.
 
 Real mechanisms.
 
@@ -443,4 +451,6 @@ A Principal who moves without friction.
 
 The exploratory call begins when you initiate it.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

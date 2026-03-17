@@ -85,7 +85,9 @@ The architecture begins with identity of capital.
 
 Every family office carries a delta between its nominal wealth and its usable liquidity.
 
-The delta widens when credit Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The delta widens when credit Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 When underwriting is manual.
 
@@ -404,6 +406,8 @@ The next step is infrastructural.
 
 Not speculative.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Mandate: 4.6bps latency ceiling.

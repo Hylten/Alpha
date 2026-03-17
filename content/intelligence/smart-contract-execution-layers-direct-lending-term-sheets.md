@@ -30,11 +30,11 @@ Speed wins.
 
 Precision compounds.
 
-This is the brief. ## 
+This is the brief.
 
-## PHASE 
-1 
--  ## ## 
+Phase I: -
+
+ 
 
 ## Vault-secured.
 
@@ -56,11 +56,17 @@ And drag accumulates.
 
 An execution layer removes drag through three levers: 
 
-1. Automated constraint enforcement. 
+1.
 
-2. Autonomous event monitoring. 
+Automated constraint enforcement. 
 
-3. Clause‑level trigger architecture.
+2.
+
+Autonomous event monitoring. 
+
+3.
+
+Clause‑level trigger architecture.
 
 Nothing exotic.
 
@@ -89,13 +95,21 @@ The market still hasn’t digested what this means.
 
 Everything else is noise. 
 
-1. Data Ingestion
+1.
 
-### Layer II:. Interpretation
+Data Ingestion
 
-### Layer III:. Execution
+Layer II:.
 
-### Layer IV:. Exception Governance Layer Each layer has its own jurisdictional logic.
+Interpretation
+
+Layer III:.
+
+Execution
+
+Layer IV:.
+
+Exception Governance Layer Each layer has its own jurisdictional logic.
 
 Each layer interfaces with AI-first underwriting.
 
@@ -214,11 +228,9 @@ Exception governance handles:
 -  Extraordinary events 
 -  Counterparty risk shifts 
 -  Macroeconomic shocks 
--  Structural renegotiation This layer is the safety valve, the institutional bracing, the control tower that allows machine logic and human governance to coexist without conflict. ## 
+-  Structural renegotiation This layer is the safety valve, the institutional bracing, the control tower that allows machine logic and human governance to coexist without conflict.
 
-## PHASE 
-2 
--  PRINCIPAL VOICE The Principal states.
+Phase II: -  PRINCIPAL VOICE The Principal states.
 
 The Principal does not justify.
 
@@ -240,11 +252,17 @@ Modern capital requires light.
 
 Smart‑contract execution layers accomplish three strategic outcomes: 
 
-1. They compress deal friction. 
+1.
 
-2. They eliminate enforcement ambiguity. 
+They compress deal friction. 
 
-3. They produce predictable outcomes at institutional velocity.
+2.
+
+They eliminate enforcement ambiguity. 
+
+3.
+
+They produce predictable outcomes at institutional velocity.
 
 This is how UHNW capital protects itself in an era defined by noise and operational decay.
 
@@ -260,13 +278,11 @@ Code.
 
 Consequence.
 
-The architecture stands. ## 
+The architecture stands.
 
-## PHASE 
-3 
--  ## 
+Phase III: -
 
-## INTERNAL BYPASS Sovereign syntax variation.
+ INTERNAL BYPASS Sovereign syntax variation.
 
 This section deepens the structural brief.
 
@@ -355,7 +371,9 @@ If you want this architecture built around your family’s capital engine, initi
 
 The bridge is direct.
 
-The Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 State your objectives.
 

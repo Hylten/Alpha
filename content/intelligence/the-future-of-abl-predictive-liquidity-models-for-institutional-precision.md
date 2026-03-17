@@ -187,8 +187,9 @@ Think of what that means for major borrowers.
 
 Interest rates can be optimized to liquidity profiles. liquidity facility durations can be dynamically recalibrated.
 
-Collateral can be stress tested across 5
-0
+Collateral can be stress tested across 
+
+50
 0 simulated futures in seconds.
 
 And lenders can make decisions that are structurally superior to anything a traditional Asset-Based Lending facility can produce.
@@ -342,10 +343,14 @@ It is active.
 
 It is shaping the next evolution of private credit and asset based Asset-Backed Frameworks.
 
-Those with Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Those with Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Those without will follow.
 
 Roials-Alpha exists for those who intend to lead.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

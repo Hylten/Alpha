@@ -85,8 +85,9 @@ This is alpha extraction through computational discipline.
 
 It also provides complexity.
 
-The minimum threshold of 2,000,0
-0
+The minimum threshold of 2,000,
+
+00
 0 ensures that the system operates at institutional depth rather than retail noise.
 
 The autonomous engine handles the variables:
@@ -100,8 +101,9 @@ The autonomous engine handles the variables:
 
 Their tempo is slower but their drift is more structurally correlated.
 
-Thresholds above 5,000,0
-0
+Thresholds above 5,000,
+
+00
 0 allow the system to operate at the scale where noise is filtered and real signals emerge.
 
 The autonomous layer monitors:
@@ -179,4 +181,6 @@ The authority remains implicit.
 
 The outcomes stay predictable. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

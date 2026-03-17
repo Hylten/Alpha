@@ -230,31 +230,31 @@ The pipeline remains stable.
 
 ## The Agentic Stack: Roials-Alpha Structure Roials-Alpha architecture is built as a stack, not a patchwork.
 
-### Layer I:: Cognitive Core The reasoning engine.
+Layer I:: Cognitive Core The reasoning engine.
 
 The internal loops.
 
 The identity.
 
-### Layer II:: Memory Grid Context persistence.
+Layer II:: Memory Grid Context persistence.
 
 Long horizon objectives.
 
 Role stability.
 
-### Layer III:: Agency Engine Planner.
+Layer III:: Agency Engine Planner.
 
 Evaluator.
 
 Self correction cycle.
 
-### Layer IV:: Action Layer Tool calls.
+Layer IV:: Action Layer Tool calls.
 
 Execution paths.
 
 Operational commands.
 
-### Layer V:: Governance Layer Permissions.
+Layer V:: Governance Layer Permissions.
 
 Boundaries.
 
@@ -367,7 +367,9 @@ Not hypothetical.
 
 Not conceptual.
 
-Operating entities with internal structure and external impact. ## ## 
+Operating entities with internal structure and external impact. 
+
+ 
 
 ## CONCLUSION
 
@@ -387,4 +389,6 @@ They create economic dominance for teams that deploy them early.
 
 Roials-Alpha builds them with precision, stability, and strategic depth.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

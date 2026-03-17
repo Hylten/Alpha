@@ -193,4 +193,6 @@ Our purpose is to provide the structural mechanics behind institutional grade li
 
 If you operate at that level, and you require liquidity infrastructure that performs at institutional scale, Roials Alpha exists for you.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

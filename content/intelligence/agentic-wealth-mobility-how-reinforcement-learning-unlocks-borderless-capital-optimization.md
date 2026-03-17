@@ -86,4 +86,6 @@ principal authority is the method.
 
 Borderless optimization is the outcome.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -102,7 +102,9 @@ The Family Office keeps its internal structure small while gaining the capacity 
 
 Strategic edges include:
 • Reduced balance sheet optimization costs through continuous optimization
-• Expanded Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+• Expanded Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 • Compression of capital idle time
 • Removal of emotional timing errors
 • Infinite scalability across velocity-driven strategies The Family Office moves from static wealth preservation into perpetual asymmetry engineering. 
@@ -139,7 +141,9 @@ Legacy becomes mechanical.
 
 Predictable.
 
-Dominant. ## ## 
+Dominant. 
+
+ 
 
 ## CONCLUSION
 
@@ -153,4 +157,6 @@ Structural dominance.
 
 Infinite scalability.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

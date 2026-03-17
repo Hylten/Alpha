@@ -50,11 +50,17 @@ It is engineered.
 
 ## The Function of Proprietary Intelligence Proprietary alpha emerges from three pillars. 
 
-1. Algorithmic surveillance of liquidity pockets. 
+1.
 
-2. Structural alignment between collateral class and risk velocity. 
+Algorithmic surveillance of liquidity pockets. 
 
-3. Execution sequencing with minimal human latency.
+2.
+
+Structural alignment between collateral class and risk velocity. 
+
+3.
+
+Execution sequencing with minimal human latency.
 
 These principles convert information into usable intelligence.
 
@@ -92,15 +98,25 @@ Few create structural conditions that nullify market volatility.
 
 Structural alignment means the following. 
 
-1. The asset carries more weight than the borrower. 
+1.
 
-2. The liquidity engineering threshold sets the tone for seriousness. 
+The asset carries more weight than the borrower. 
 
-3. Institutional scrutiny is assumed from day one. 
+2.
 
-4. Execution velocity replaces marketing narrative. 
+The liquidity engineering threshold sets the tone for seriousness. 
 
-5. Repayment logic is engineered before issuance.
+3.
+
+Institutional scrutiny is assumed from day one. 
+
+4.
+
+Execution velocity replaces marketing narrative. 
+
+5.
+
+Repayment logic is engineered before issuance.
 
 If the structure is sound, the market is secondary.
 
@@ -118,7 +134,9 @@ No third party gatekeepers.
 
 This preserves sovereignty. 
 
-1. Origin Engine.
+1.
+
+Origin Engine.
 
 Identifies mispriced collateral signals.
 
@@ -130,7 +148,9 @@ Crypto Institutional Liquidity Paths begins at 2M.
 
 Public share Monetization Architecture begins at 5M. 
 
-2. Covenant Engine.
+2.
+
+Covenant Engine.
 
 Stresses collateral.
 
@@ -140,7 +160,9 @@ Runs liquidation logic with conservative discounting.
 
 Ensures covenant stability before exposure. 
 
-3. Execution Engine.
+3.
+
+Execution Engine.
 
 Compresses time.
 
@@ -178,11 +200,17 @@ It is a responsibility that binds the principal to a higher standard.
 
 Covenant stewardship inside Roials-Alpha reflects 
 
-1. Capital must be guarded. 
+1.
 
-2. Every borrower relationship is a trust. 
+Capital must be guarded. 
 
-3. Every institutional mandate is sacred.
+2.
+
+Every borrower relationship is a trust. 
+
+3.
+
+Every institutional mandate is sacred.
 
 This is why Roials-Alpha presses for structural alignment.
 
@@ -204,13 +232,21 @@ It is engineered speed.
 
 Latency is removed at 
 
-1. Pre verified collateral logic. 
+1.
 
-2. Automated risk compression. 
+Pre verified collateral logic. 
 
-3. Instant covenant calculation. 
+2.
 
-4. Direct settlement rails.
+Automated risk compression. 
+
+3.
+
+Instant covenant calculation. 
+
+4.
+
+Direct settlement rails.
 
 Many competitors delay.
 
@@ -268,15 +304,25 @@ It becomes guardianship.
 
 It endures when it is reinforced by the following: 
 
-1. Private intelligence loops. 
+1.
 
-2. Sovereign infrastructure. 
+Private intelligence loops. 
 
-3. Mandate integrity. 
+2.
 
-4. Restrained communication. 
+Sovereign infrastructure. 
 
-5. Disciplined personnel.
+3.
+
+Mandate integrity. 
+
+4.
+
+Restrained communication. 
+
+5.
+
+Disciplined personnel.
 
 Jonas Hyltén’s influence ensures the environment remains controlled.
 
@@ -288,7 +334,7 @@ He builds only what serves long term conviction.
 
 This posture keeps Roials-Alpha ahead of competitors who chase aesthetics instead of structure. 
 
-## Asset Classes and Structural Logic # 
+## Asset Classes and Structural Logic
 
 ## Crypto Monetization Architecture (2M minimum) Digital collateral behaves with high tempo.
 
@@ -302,7 +348,7 @@ Duration must be short.
 
 Covenant testing must be constant.
 
-This environment rewards technical intelligence, not sentiment. # 
+This environment rewards technical intelligence, not sentiment.
 
 ## Public Shares Monetization Architecture (5M minimum) Listed securities offer transparency.
 
@@ -310,17 +356,23 @@ They also offer volatility.
 
 Proprietary alpha here emerges through 
 
-1. Pricing engines. 
+1.
 
-2. Liquidity mapping. 
+Pricing engines. 
 
-3. Execution timing before market participants reposition.
+2.
+
+Liquidity mapping. 
+
+3.
+
+Execution timing before market participants reposition.
 
 Institutional clients appreciate the discipline.
 
 It aligns with their mandates.
 
-It reflects their expectations. # 
+It reflects their expectations.
 
 ## Private Collateral Private assets require covenant sophistication.
 
@@ -336,15 +388,25 @@ This is where covenant stewardship becomes visible.
 
 This includes 
 
-1. Autonomous risk engines. 
+1.
 
-2. Automated collateral auditing. 
+Autonomous risk engines. 
 
-3. Multilayer verification cycles. 
+2.
 
-4. Internal settlement clearance. 
+Automated collateral auditing. 
 
-5. Adaptive intelligence loops that learn from counterparties.
+3.
+
+Multilayer verification cycles. 
+
+4.
+
+Internal settlement clearance. 
+
+5.
+
+Adaptive intelligence loops that learn from counterparties.
 
 This is not technology for presentation.
 
@@ -356,11 +418,17 @@ It is technology for dominance.
 
 This means 
 
-1. The team holds responsibility. 
+1.
 
-2. The team carries conviction. 
+The team holds responsibility. 
 
-3. The team does not outsource judgment.
+2.
+
+The team carries conviction. 
+
+3.
+
+The team does not outsource judgment.
 
 This principal posture separates Roials-Alpha from advisory models.
 
@@ -406,4 +474,6 @@ This is the principal posture.
 
 This is the architecture that attracts NAEOCC clients who understand weight, responsibility, and the sacred nature of capital.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

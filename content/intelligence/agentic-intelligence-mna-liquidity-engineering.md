@@ -166,21 +166,37 @@ No single points of institutional failure.
 
 Agentic intelligence performs precision routing by: 
 
-1. Predicting solvency cliffs. 
+1.
 
-2. Stress‑testing counterparty liquidity. 
+Predicting solvency cliffs. 
 
-3. Mapping regulatory heat zones. 
+2.
 
-4. Pre‑structuring credit waterfalls. 
+Stress‑testing counterparty liquidity. 
 
-5. Embedding dynamic debt‑service autopilots. 
+3.
 
-6. Hardening asset portfolios against jurisdictional shocks. 
+Mapping regulatory heat zones. 
 
-7. Monitoring principal exposure 24/ 
+4.
 
-7. These systems compress liquidity execution time from months to days, sometimes hours.
+Pre‑structuring credit waterfalls. 
+
+5.
+
+Embedding dynamic debt‑service autopilots. 
+
+6.
+
+Hardening asset portfolios against jurisdictional shocks. 
+
+7.
+
+Monitoring principal exposure 24/ 
+
+7.
+
+These systems compress liquidity execution time from months to days, sometimes hours.
 
 In volatile markets, this compression becomes an existential edge.
 
@@ -466,7 +482,9 @@ The system serves the principal.
 -  MANDATE For expansion of your agentic infrastructure, submit your operational perimeter.
 
 Latency tolerance target: 
-3
-7 ms.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+37 ms.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

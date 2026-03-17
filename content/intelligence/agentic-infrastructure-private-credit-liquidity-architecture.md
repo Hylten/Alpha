@@ -271,11 +271,17 @@ The correct question: What infrastructure sustains yield across cycles?
 
 Private credit depends on three pillars. 
 
-1. Origination dominance. 
+1.
 
-2. Underwriting supremacy. 
+Origination dominance. 
 
-3. Recovery inevitability.
+2.
+
+Underwriting supremacy. 
+
+3.
+
+Recovery inevitability.
 
 Agentic infrastructure maximizes all three.
 
@@ -366,7 +372,9 @@ Agentic infrastructure delivers both.
 
 It isolates sensitive data.
 
-It controls Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It controls Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It eliminates human intermediaries who leak information.
 
@@ -456,7 +464,9 @@ Agentic credit infrastructure does not enhance private credit.
 It replaces it.
 
 End Metric: 0.
-8
-7 Portfolio Risk Compression Ratio.
 
-To advance the architecture, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+87 Portfolio Risk Compression Ratio.
+
+To advance the architecture, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

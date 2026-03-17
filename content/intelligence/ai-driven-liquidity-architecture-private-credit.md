@@ -413,4 +413,6 @@ Final Metric: Sub-30ms Underwriting Latency Threshold.
 
 To proceed, specify whether you require agentic infrastructure design.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

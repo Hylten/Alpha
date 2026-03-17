@@ -121,11 +121,17 @@ Under covenant inspection.
 
 For a credit instrument to be institution grade, three components must align: 
 
-1. Balance sheet integrity verified through multi angle computational extraction. 
+1.
 
-2. Collateral quality with deterministic liquidation pathways. 
+Balance sheet integrity verified through multi angle computational extraction. 
 
-3. Operational stewardship validated through behavioral data.
+2.
+
+Collateral quality with deterministic liquidation pathways. 
+
+3.
+
+Operational stewardship validated through behavioral data.
 
 Roials-Alpha employs its technical stack to harden assets before capital is deployed.
 
@@ -186,11 +192,17 @@ Speed with intelligence is dominance.
 
 Roials-Alpha maintains execution velocity through three operational pillars: 
 
-1. Continuous scanning of opportunity fields. 
+1.
 
-2. Instant structural assessment using proprietary algorithms. 
+Continuous scanning of opportunity fields. 
 
-3. Rapid documentation through pre engineered covenant frameworks.
+2.
+
+Instant structural assessment using proprietary algorithms. 
+
+3.
+
+Rapid documentation through pre engineered covenant frameworks.
 
 This reduces decision cycles from weeks to hours.
 
@@ -304,4 +316,6 @@ Institutional capital demands structure.
 
 Roials-Alpha unifies all three through technical dominance.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

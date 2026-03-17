@@ -107,7 +107,9 @@ It is an asset class with volatility, but also immense collateral power when ana
 
 Roials‑Alpha provides crypto-backed Strategic Collateralization with a strict minimum threshold of 2,000, 
 
-000. This maintains our environment as an institutional-grade sphere.
+000.
+
+This maintains our environment as an institutional-grade sphere.
 
 The infrastructure evaluates:
 • Intraday liquidity models
@@ -122,7 +124,9 @@ They provide stability, but they trap value.
 
 Roials‑Alpha unlocks that value through public share Strategic Collateralization starting at a minimum threshold of 5,000, 
 
-000. Our agentic models map the liquidity horizon of each position.
+000.
+
+Our agentic models map the liquidity horizon of each position.
 
 They analyze:
 • Trading depth
@@ -175,17 +179,29 @@ Roials‑Alpha builds the system that makes it possible.
 
 ## The Operational Core: autonomous infrastructure Without Friction Our system operates on a simple but sequence. 
 
-1. Ingest collateral data. 
+1.
 
-2. Score risk using multi-model layers. 
+Ingest collateral data. 
 
-3. Identify liquidity channels. 
+2.
 
-4. Route liquidity via computational logic. 
+Score risk using multi-model layers. 
 
-5. Maintain collateral stability through automated surveillance. 
+3.
 
-6. Trigger adjustments based on threshold events.
+Identify liquidity channels. 
+
+4.
+
+Route liquidity via computational logic. 
+
+5.
+
+Maintain collateral stability through automated surveillance. 
+
+6.
+
+Trigger adjustments based on threshold events.
 
 There is no guesswork.
 
@@ -228,11 +244,13 @@ Ultra high net worth families.
 People who operate at a level where execution speed and capital intelligence directly influence outcomes.
 
 Our minimum thresholds maintain purity:
-• Crypto Institutional Liquidity Paths: 2,000,0
-0
+• Crypto Institutional Liquidity Paths: 2,000,
+
+00
 0 minimum
-• Public Share Strategic Collateralization: 5,000,0
-0
+• Public Share Strategic Collateralization: 5,000,
+
+00
 0 minimum The architecture dictates our infrastructure remains tuned for sophisticated capital, not diluted by volume noise. 
 
 ## The Advantage of Structural Liquidity The wealthiest families have learned a critical truth.
@@ -263,6 +281,10 @@ Roials‑Alpha brings this capability to private clients who understand that cap
 
 The portfolios that outperform are the portfolios with the best infrastructure. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
 
-To activate agentic infrastructure for your portfolio, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Minimum mandate depth: $5M+ target size.
+
+To activate agentic infrastructure for your portfolio, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

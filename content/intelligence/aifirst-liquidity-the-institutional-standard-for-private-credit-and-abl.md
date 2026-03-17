@@ -118,7 +118,9 @@ Roials-Alpha provides crypto-backed Strategic Collateralization only at an insti
 
 The minimum for crypto Monetization Architecture is 2,000, 
 
-000. The reason is simple.
+000.
+
+The reason is simple.
 
 Below that level, the structural complexity of crypto assets does not justify the AI stack required to evaluate them.
 
@@ -140,7 +142,9 @@ Volatility is measurable, but liquidity depth shifts minute by minute.
 
 Roials-Alpha only engages in Public Share Capital Structuring at a minimum of 5,000, 
 
-000. This threshold allows our AI engines to construct liquidity envelopes dense enough to anticipate market stress without human intervention.
+000.
+
+This threshold allows our AI engines to construct liquidity envelopes dense enough to anticipate market stress without human intervention.
 
 High net worth capital needs predictable liquidity even when the market is unpredictable.
 
@@ -288,9 +292,13 @@ For asset-based Asset-Backed Frameworks.
 
 For crypto positions above 2,000, 
 
-000. For public share portfolios above 5,000, 
+000.
 
-000. Quiet.
+For public share portfolios above 5,000, 
+
+000.
+
+Quiet.
 
 Precise.
 
@@ -298,4 +306,6 @@ Institutional.
 
 The standard is here.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

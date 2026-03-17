@@ -237,11 +237,17 @@ Lenders without it will be priced out.
 
 ## Why Agentic Asset-Based Lending Wins 
 
-1. Collateral complexity increases every year. 
+1.
 
-2. Human centered underwriting cannot scale. 
+Collateral complexity increases every year. 
 
-3. Data exhaust becomes monetizable only when autonomously processed.
+2.
+
+Human centered underwriting cannot scale. 
+
+3.
+
+Data exhaust becomes monetizable only when autonomously processed.
 
 Agentic systems do not simply automate tasks.
 
@@ -315,4 +321,6 @@ It is the operating system of next generation credit.
 
 The lenders who deploy agentic Asset-Based Lending infrastructure today will own the liquidity markets of tomorrow.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

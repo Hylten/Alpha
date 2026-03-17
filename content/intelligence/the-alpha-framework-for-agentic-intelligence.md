@@ -43,8 +43,9 @@ The Alpha Framework is not designed for the mass market.
 The minimums exist because the system requires scale.
 
 A 
-2 million dollar crypto liquidity facility behaves differently from a 2
-0
+2 million dollar crypto liquidity facility behaves differently from a 
+
+20
 0 thousand dollar liquidity facility.
 
 A 
@@ -273,7 +274,9 @@ All orchestrated by a master capital agent.
 
 This is where the industry is heading.
 
-Roials-Alpha is building the infrastructure early. ## ## 
+Roials-Alpha is building the infrastructure early. 
+
+ 
 
 ## CONCLUSION
 
@@ -291,4 +294,6 @@ We turn liquidity into principal authority.
 
 This is Roials-Alpha.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

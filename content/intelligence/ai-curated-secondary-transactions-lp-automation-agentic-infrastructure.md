@@ -28,13 +28,13 @@ Human-guided.
 
 Frictionless.
 
-Below is the internal briefing. 
+Below is the internal briefing.
 
-## PHASE 
-1 
--  ## ## ## 
+Phase I: -
 
-## Vault language only.
+ 
+
+ Vault language only.
 
 No posturing.
 
@@ -82,11 +82,9 @@ Those who adopt agentic infrastructures will quietly dominate.
 
 Those who remain manual will drift into irrelevance.
 
-Now we expand the mechanics. 
+Now we expand the mechanics.
 
-## PHASE 
-2 
--  PRINCIPAL VOICE Stated with clarity.
+Phase II: -  PRINCIPAL VOICE Stated with clarity.
 
 Without apology.
 
@@ -128,11 +126,9 @@ Luck is noise.
 
 Architecture endures.
 
-Deep analysis follows. 
+Deep analysis follows.
 
-## PHASE 
-3 
--  STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
+Phase III: -  STRUCTURAL DEPTH (1500+ words, no filler, only operational truth) I.
 
 THE CORE DRIVERS OF AI‑CURATED SECONDARY MARKETS Private-market reporting is periodic.
 
@@ -234,13 +230,21 @@ III.
 
 HOW AI ELIMINATES HUMAN FRICTION IN SECONDARY EXECUTION The historical secondaries market suffers from four frictions: 
 
-1. Asymmetric information 
+1.
 
-2. Slow pricing cycles 
+Asymmetric information 
 
-3. Manual discovery of buyers 
+2.
 
-4. Negotiation drag due to low trust Agentic infrastructure demolishes these frictions.
+Slow pricing cycles 
+
+3.
+
+Manual discovery of buyers 
+
+4.
+
+Negotiation drag due to low trust Agentic infrastructure demolishes these frictions.
 
 Friction 
 1 
@@ -387,4 +391,6 @@ The architecture has already won.
 
 The only question is who implements it first.
 
-If you are evaluating agentic infrastructure for your own LP architecture or fund ecosystem, initiate Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+If you are evaluating agentic infrastructure for your own LP architecture or fund ecosystem, initiate Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

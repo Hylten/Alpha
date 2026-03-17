@@ -20,10 +20,16 @@ We lend against Private Credit and Asset Based [Capital Structuring]([Roials Cap
 
 We support institutional grade Crypto Monetization Architecture with a minimum of 2,000, 
 
-000. We support Public Share Capital Structuring with a minimum of 5,000, 
+000.
 
-000. Every function of our ecosystem is built for principals who require principal authority, clean execution, and engineered liquidity that does not advertise itself.
+We support Public Share Capital Structuring with a minimum of 5,000, 
+
+000.
+
+Every function of our ecosystem is built for principals who require principal authority, clean execution, and engineered liquidity that does not advertise itself.
 
 Below is a structural technical brief into the proprietary frameworks that enable sovereign scale capital mobility inside the Roials-Alpha infrastructure.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

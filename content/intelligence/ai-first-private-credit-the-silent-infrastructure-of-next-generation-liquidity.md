@@ -310,7 +310,9 @@ Not as a service.
 
 As part of the design.
 
-HNWI and UHNW individuals gain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+HNWI and UHNW individuals gain Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The advantage is asymmetric.
 
@@ -342,7 +344,9 @@ Liquidity becomes ambient.
 
 Capital becomes flexible, intelligent, and always available.
 
-This is the design language of next-generation wealth architecture. ## ## 
+This is the design language of next-generation wealth architecture. 
+
+ 
 
 ## CONCLUSION
 
@@ -356,4 +360,6 @@ Liquidity is becoming a programmable asset.
 
 Roials-Alpha provides the silent structural authority that makes this future operational for HNWI and UHNW portfolios.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -35,8 +35,9 @@ The institutional opportunity.
 It is written for principals who control assets, not advisers who react to them.
 
 And it anchors itself in the oldest wealth principle: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just. 
--  **Proverbs 13:2
-2
+-  **Proverbs 13:
+
+22
 *
 * .
 
@@ -445,17 +446,18 @@ The new inheritance.
 Inheritance becomes engineered liquidity.
 
 Engineered liquidity becomes dynastic power. 
--  **Proverbs 13:2
-2
+-  **Proverbs 13:
+
+22
 *
 * remains the north star.
 
 Agentic systems operationalize it. 
 -  
 -  
--  In ## 
+-  In 
 
-## CONCLUSION
+ CONCLUSION
 
  , the architecture is clear: agentic intelligence will rewrite asset-based lending.
 
@@ -477,6 +479,8 @@ They will control the temporal dimension of credit-past, present, and predictive
 
 And in markets defined by velocity, intelligence becomes the ultimate hard asset.
 
-If you require structuring, deployment, or integration of agentic infrastructure into your existing credit arm or Fund-III ecosystem, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+If you require structuring, deployment, or integration of agentic infrastructure into your existing credit arm or Fund-III ecosystem, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Terminal metric: 1.7-second collateral recalibration cycle.

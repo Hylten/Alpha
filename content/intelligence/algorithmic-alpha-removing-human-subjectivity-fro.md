@@ -126,7 +126,9 @@ Short paragraphs below describe the operational logic.
 -  
 -  # ## 
 
-1. Algorithmic Deal Origination Most deal flow enters credit pipelines through personal networks, emotional narratives, and subjective screening.
+1.
+
+Algorithmic Deal Origination Most deal flow enters credit pipelines through personal networks, emotional narratives, and subjective screening.
 
 This is the bottleneck.
 
@@ -161,7 +163,9 @@ But because it is consistent.
 -  
 -  # ## 
 
-2. Proprietary Stack for Collateral Intelligence Credit collapses when collateral is misunderstood.
+2.
+
+Proprietary Stack for Collateral Intelligence Credit collapses when collateral is misunderstood.
 
 Not misdescribed.
 
@@ -191,7 +195,9 @@ This is asset hardening.
 -  
 -  # ## 
 
-3. AI-Driven Execution Execution is not about speed.
+3.
+
+AI-Driven Execution Execution is not about speed.
 
 It is about decisiveness.
 
@@ -547,4 +553,6 @@ Capital without drift.
 Covenants without compromise. 
 -  
 -  
--  Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

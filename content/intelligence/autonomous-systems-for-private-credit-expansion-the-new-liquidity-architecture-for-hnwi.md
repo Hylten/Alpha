@@ -40,4 +40,6 @@ High‑threshold crypto and public share Monetization Architecture belong to tho
 
 Roials‑Alpha exists for exactly that profile.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

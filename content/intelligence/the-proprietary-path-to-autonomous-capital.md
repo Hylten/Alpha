@@ -50,9 +50,11 @@ It offers speed, confidentiality, and autonomy that traditional credit facilitie
 
 The institutional class has used it for decades.
 
-Roials-Alpha deploys it for individuals who operate at institutional scale. # 
+Roials-Alpha deploys it for individuals who operate at institutional scale.
 
-## The Power of the Unseen The advantage of private credit is not simply Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## The Power of the Unseen The advantage of private credit is not simply Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The advantage is discretion.
 
@@ -82,18 +84,20 @@ Our collateral models are optimized through multi dimensional assessment that in
 
 Asset-Based Lending becomes not just balance sheet optimization.
 
-It becomes strategic autonomy. # 
+It becomes strategic autonomy.
 
 ## What We Lend Against The spectrum is broad, but the discipline is narrow.
 
 Our frameworks specialize in:
 • Private credit collateralization
 • Institutional grade asset based Institutional Liquidity Paths
-• Crypto Monetization Architecture with a minimum threshold of 2,000,0
+• Crypto Monetization Architecture with a minimum threshold of 2,000,
+
+00
 0
-0
-• Public share Asset-Backed Frameworks with a minimum threshold of 5,000,0
-0
+• Public share Asset-Backed Frameworks with a minimum threshold of 5,000,
+
+00
 0 These are not retail structures.
 
 They are engineered for individuals whose portfolios operate like micro institutions. 
@@ -110,13 +114,14 @@ Roials-Alpha provides Capital Structuring against crypto positions, but within s
 
 The thresholds are high because the intent is sophisticated capital extraction, not opportunistic balance sheet optimization.
 
-Minimum crypto position: 2,000,0
-0
+Minimum crypto position: 2,000,
+
+00
 0 The architecture dictates the leverage is meaningful.
 
 It ensures the collateral is institution grade.
 
-It ensures the capital flow remains stable, predictable, and scalable. # 
+It ensures the capital flow remains stable, predictable, and scalable.
 
 ## Structural Benefits for Crypto Holders The benefit is not simply liquidity.
 
@@ -138,13 +143,15 @@ Selling is rarely the strategic move.
 
 Roials-Alpha structures Capital Structuring against public share positions with a minimum threshold of 5,000, 
 
-000. This allows our infrastructure to optimize the capital extraction without creating destabilizing signals.
+000.
+
+This allows our infrastructure to optimize the capital extraction without creating destabilizing signals.
 
 You keep your position.
 
 You keep your upside.
 
-You unlock capital. # 
+You unlock capital.
 
 ## Quiet Leverage Public equity Capital Structuring requires principal authority.
 
@@ -162,25 +169,25 @@ The liquidity becomes autonomous.
 
 It flows on infrastructure that you control rather than infrastructure that controls you.
 
-Roials-Alpha builds this through three pillars. # 
+Roials-Alpha builds this through three pillars.
 
-## Pillar One: Proprietary Underwriting Intelligence Our underwriting system does not wait for assets to behave.
+Pillar One: Proprietary Underwriting Intelligence Our underwriting system does not wait for assets to behave.
 
 It predicts behavior, shapes risk parameters, and adjusts Strategic Collateralization ratios automatically.
 
 This creates a dynamic financial environment where leverage is not static.
 
-It is optimized. # 
+It is optimized.
 
-## Pillar Two: Asset Performance Modeling Every asset has a velocity, a decay curve, and a predictive liquidity output.
+Pillar Two: Asset Performance Modeling Every asset has a velocity, a decay curve, and a predictive liquidity output.
 
 We model these in real time.
 
 The advantage is simple.
 
-Better predictive capacity leads to higher Monetization Architecture efficiency. # 
+Better predictive capacity leads to higher Monetization Architecture efficiency.
 
-## Pillar Three: Institutional Capital Structures Our structures mimic what institutions use, but we deliver them to the private individual operating at institutional scale.
+Pillar Three: Institutional Capital Structures Our structures mimic what institutions use, but we deliver them to the private individual operating at institutional scale.
 
 This is the F Hierarchical Dynamics.
 
@@ -269,7 +276,9 @@ Roials-Alpha eliminates the latter and weaponizes the former.
 
 It is moving away from manual underwriting and into algorithmic capital engineering.
 
-Our clients gain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Our clients gain Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This is the evolution from capital ownership to capital autonomy. 
 
@@ -321,4 +330,6 @@ Roials-Alpha creates that environment.
 
 ## The Quiet Invitation If you operate at the level where liquidity is strategy, where capital is an instrument, and where leverage is a tool of precision, then the path is open.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

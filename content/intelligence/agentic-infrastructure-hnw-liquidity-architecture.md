@@ -60,7 +60,7 @@ Sovereignty implies infrastructure.
 Below is the principal‑level brief. 
 -  
 -  
--  # 
+-
 
 ## THE OPERATING PREMISE We begin with a hard axiom: wealth concentration demands system concentration.
 
@@ -89,7 +89,7 @@ Always wins.
 The architecture must reflect that asymmetry. 
 -  
 -  
--  # 
+-
 
 ## I.
 
@@ -122,7 +122,7 @@ This is not autonomous infrastructure.
 This is autonomy. 
 -  
 -  
--  # 
+-
 
 ## II.
 
@@ -165,7 +165,7 @@ The portfolio becomes adaptive.
 Liquidity becomes predictable. 
 -  
 -  
--  # 
+-
 
 ## III.
 
@@ -177,11 +177,17 @@ Capital must be free to shift surfaces, reweight exposures, and convert illiquid
 
 This requires three layers: 
 
-1. Liquidity Origination Layer Autonomous agents surfacing private credit, mineral royalty interests, energy‑backed notes, digital collateral pools, and distressed assets in real time. 
+1.
 
-2. Liquidity Conversion Layer AI‑directed transformation of static holdings into fractional liquidity units through swaps, secondary sales, risk‑tiered tranching, or collateralized credit creation. 
+Liquidity Origination Layer Autonomous agents surfacing private credit, mineral royalty interests, energy‑backed notes, digital collateral pools, and distressed assets in real time. 
 
-3. Liquidity Defense Layer Systems that harden ownership, shield jurisdictional exposure, enforce compliance ex‑ante, and run continuous risk‑off simulations to preempt capital decay.
+2.
+
+Liquidity Conversion Layer AI‑directed transformation of static holdings into fractional liquidity units through swaps, secondary sales, risk‑tiered tranching, or collateralized credit creation. 
+
+3.
+
+Liquidity Defense Layer Systems that harden ownership, shield jurisdictional exposure, enforce compliance ex‑ante, and run continuous risk‑off simulations to preempt capital decay.
 
 When correctly constructed, liquidity becomes an infrastructure 
 -  not an event.
@@ -193,11 +199,13 @@ Capital supports sovereignty.
 Sovereignty supports generational compounding. 
 -  
 -  
--  # 
+-
 
 ## IV.
 
-STRUCTURAL ADVANTAGE: AGENTIC DEAL FLOW The advantage is simple: faster Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+STRUCTURAL ADVANTAGE: AGENTIC DEAL FLOW The advantage is simple: faster Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Agents scan:
 • Off‑market private credit
@@ -226,7 +234,7 @@ Every day.
 Every cycle. 
 -  
 -  
--  # 
+-
 
 ## V.
 
@@ -245,7 +253,7 @@ A sovereign machine.
 A compounding machine. 
 -  
 -  
--  # 
+-
 
 ## VI.
 
@@ -276,7 +284,7 @@ Those without infrastructure lose asymmetry.
 Those with infrastructure dictate markets. 
 -  
 -  
--  # 
+-
 
 ## VII.
 
@@ -307,7 +315,7 @@ Fragility is eliminated.
 This transforms hard assets from slow, illiquid positions into dynamic yield engines integrated directly into the portfolio’s computational core. 
 -  
 -  
--  # 
+-
 
 ## VIII.
 
@@ -335,7 +343,7 @@ This creates synthetic liquidity corridors
 The system becomes both strategist and executor. 
 -  
 -  
--  # 
+-
 
 ## IX.
 
@@ -376,7 +384,7 @@ Human‑supervised.
 Sovereign‑enabled. 
 -  
 -  
--  # 
+-
 
 ## X.
 
@@ -401,11 +409,11 @@ Everything compounds.
 This is Roials‑Alpha: architecture for high‑net‑worth capital operating beyond human constraints. 
 -  
 -  
--  # 
+-
 
-## XI. ## ## ## 
+## XI.
 
-## THE MANDATE
+THE MANDATE
 
  UHNW families are no longer competing against other families.
 
@@ -431,4 +439,6 @@ The question is simple: Will your infrastructure keep pace?
 -  
 -  Technical Mandate: Deploy agentic liquidity engines with sub‑10ms decision latency across all major asset classes.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

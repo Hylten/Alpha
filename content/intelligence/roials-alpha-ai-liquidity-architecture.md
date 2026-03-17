@@ -31,8 +31,8 @@ The threshold where asset-based systems become autonomous liquidity machines.
 The post-cycle macro landscape amplifies this shift.
 
 Every market regime since 20
-2
-0 has pushed capital towards compression, speed, and irreversibility.
+
+20 has pushed capital towards compression, speed, and irreversibility.
 
 Traditional lenders operate with hysteresis.
 
@@ -246,8 +246,8 @@ Velocity.
 Control.
 
 Private credit will displace significant portions of banking by 20
-3
-2 because the architecture is superior.
+
+32 because the architecture is superior.
 
 Faster underwriting.
 
@@ -275,7 +275,7 @@ Roials-Alpha provides deterministic liquidity channels that respond to real stru
 
 The Roials-Alpha engine performs asset hardening across three layers:
 
-### Layer I:: Technical Certainty Machine-audited asset data.
+Layer I:: Technical Certainty Machine-audited asset data.
 
 Sensor-supported valuation.
 
@@ -285,7 +285,7 @@ Failure-mode datasets.
 
 Predictive volatility mapping.
 
-### Layer II:: Legal Sovereignty Cross-jurisdictional compliance lattice.
+Layer II:: Legal Sovereignty Cross-jurisdictional compliance lattice.
 
 Lien precedence mapping.
 
@@ -295,7 +295,7 @@ Perimeter reinforcement.
 
 Enforcement visibility indexing.
 
-### Layer III:: Liquidity Consequence Forward liquidity curves.
+Layer III:: Liquidity Consequence Forward liquidity curves.
 
 Market-state simulations.
 
@@ -466,4 +466,6 @@ Families that refuse will fade under structural pressure.
 The future belongs to the engineered. 
 
 ## MANDATE METRIC: Liquidity Acceleration Factor (LAF): 11.
-7 Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+7 Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -33,7 +33,9 @@ The goal is dominance through clarity.
 It shifts the moment a structural pressure gradient appears.
 
 These gradients are shaped by:
-• Liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+• Liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 • Collateral standards
 • Regulatory noise levels
 • Debt market elasticity
@@ -178,7 +180,9 @@ HNWI and UHNW individuals who integrate with these pools gain several advantages
 • Unlimited liquidity recycling
 • Minimal slippage
 • Risk displacement rather than risk absorption
-• Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+• Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 • Reduced exposure to market liquidity droughts Traditional liquidity is episodic.
 
 Structural liquidity is continuous.
@@ -317,4 +321,6 @@ Structural dominance.
 
 Agentic Capital Structuring.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

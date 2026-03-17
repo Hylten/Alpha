@@ -77,8 +77,8 @@ They filter out the noise.
 They learn.
 
 They run 
-2
-4 hours without fatigue or cognitive drift.
+
+24 hours without fatigue or cognitive drift.
 
 They maintain the integrity of the signal.
 
@@ -196,10 +196,10 @@ Predictive modeling is structural inference.
 The model does not guess; it identifies causal signals that precede liquidity displacement.
 
 Example: Payables stretch from 
-3
-7 days to 
-4
-2 days.
+
+37 days to 
+
+42 days.
 
 Legacy analysts shrug.
 
@@ -545,4 +545,6 @@ Not more committees.
 
 Agentic infrastructure is the new standard.
 
-If you want the Principal-level blueprint for deploying autonomous agents inside your existing credit or investment structure, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+If you want the Principal-level blueprint for deploying autonomous agents inside your existing credit or investment structure, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

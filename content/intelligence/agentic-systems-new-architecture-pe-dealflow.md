@@ -203,7 +203,9 @@ Because speed is a fiduciary duty.
 
 The architecture of agentic PE revolves around four layers.
 
-### Layer I:. Signal Ingestion.
+Layer I:.
+
+Signal Ingestion.
 
 Market feeds.
 
@@ -231,7 +233,9 @@ All auto-synchronized.
 
 No latency.
 
-### Layer II:. Interpretive Intelligence.
+Layer II:.
+
+Interpretive Intelligence.
 
 Embedding models run cross-vector matches.
 
@@ -249,7 +253,9 @@ Everything is layered.
 
 Everything is retested against fresh data.
 
-### Layer III:. Autonomous Diligence.
+Layer III:.
+
+Autonomous Diligence.
 
 Document intelligence reconstructs underwriting narratives.
 
@@ -269,7 +275,9 @@ Tax engines run cross-jurisdictional optimizations.
 
 Output: ready-for-principal risk geometry.
 
-### Layer IV:. Execution Readiness.
+Layer IV:.
+
+Execution Readiness.
 
 Term-sheet drafting.
 
@@ -698,4 +706,6 @@ This is the new private equity.
 
 Inquiry: Request specifications for your agentic infrastructure.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

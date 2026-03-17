@@ -129,9 +129,10 @@ Teams do not scale.
 Graph engines do.
 
 Whether underwriting 
-1
-0 or 10,0
-0
+
+10 or 10,
+
+00
 0 SMEs, the marginal cost of intelligence remains flat.
 
 This is the liberation point.
@@ -300,6 +301,8 @@ An agentic infrastructure that never sleeps.
 
 The only question now is simple: Do you want to build this architecture into your family office, or do you want to compete against the institutions that already have?
 
-If you want an exploratory briefing on constructing an agentic underwriting infrastructure tailored to your mandate, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+If you want an exploratory briefing on constructing an agentic underwriting infrastructure tailored to your mandate, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The window for early advantage remains open, but it will not remain open for long.

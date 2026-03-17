@@ -77,7 +77,9 @@ Systems look for patterns inside markets, inside behaviors, inside incentives, i
 
 The advantage is structural. # ## 
 
-1. Continuous intelligence The system never turns off.
+1.
+
+Continuous intelligence The system never turns off.
 
 If a founder updates a job post at 
 3 AM, the system logs it, tags it, and enriches it.
@@ -86,11 +88,15 @@ If a company opens a new data center, the signal is processed instantly.
 
 If a microtrend starts in a corner of an overlooked subsegment, the system sees it before there is even a name for it. # ## 
 
-2. Exponential surface area Human teams work from known ecosystems.
+2.
+
+Exponential surface area Human teams work from known ecosystems.
 
 Autonomous agents expand the ecosystem every hour, identifying adjacencies, proxies, and obscure operators that would never make it into human-compiled lists. # ## 
 
-3. Zero political drag No internal debate.
+3.
+
+Zero political drag No internal debate.
 
 No slow alignment.
 
@@ -98,7 +104,9 @@ No knowledge loss caused by turnover.
 
 Only executing, updating, ranking, and compounding. # ## 
 
-4. Perfect memory Every interaction, every pattern, every market nuance stays inside the system.
+4.
+
+Perfect memory Every interaction, every pattern, every market nuance stays inside the system.
 
 Retention is total.
 
@@ -115,7 +123,9 @@ Purpose-built autonomous systems optimized for sourcing, qualification, and expa
 
 These systems operate as independent layers: ## 
 
-1. Signal Harvesters Distributed agents crawl structured and unstructured sources continuously.
+1.
+
+Signal Harvesters Distributed agents crawl structured and unstructured sources continuously.
 
 They extract:
 • Operational signals
@@ -127,7 +137,9 @@ They extract:
 
 Hunting across millions of domains, thousands of data streams, and every relevant footprint. ## 
 
-2. Market Mappers This layer constructs evolving representations of markets.
+2.
+
+Market Mappers This layer constructs evolving representations of markets.
 
 It does not rely on static taxonomies.
 
@@ -141,7 +153,9 @@ These maps produce:
 • Acquisition timing predictions
 • Fragmentation analysis This creates preemptive awareness. ## 
 
-3. Thesis Interpreters Your investment criteria become machine-readable.
+3.
+
+Thesis Interpreters Your investment criteria become machine-readable.
 
 The system learns what a perfect target looks like.
 
@@ -157,7 +171,9 @@ Filters turn into prioritized heatmaps.
 
 This is thesis-to-target autonomous infrastructure. ## 
 
-4. Outreach Executors When a target reaches a threshold, engagement begins.
+4.
+
+Outreach Executors When a target reaches a threshold, engagement begins.
 
 Agents write messages that reflect full context:
 • Founder background
@@ -175,7 +191,9 @@ If the founder does not, the system adapts tone, timing, and reasoning.
 
 No generic templates. ## 
 
-5. Pipeline Orchestrators Dealflow moves through a structured autonomous pipeline.
+5.
+
+Pipeline Orchestrators Dealflow moves through a structured autonomous pipeline.
 
 Qualification, enrichment, scoring, and preparation happen without manual touches.
 
@@ -347,4 +365,6 @@ Autonomous dealflow is the new frontier.
 
 Roials Alpha builds the infrastructure.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

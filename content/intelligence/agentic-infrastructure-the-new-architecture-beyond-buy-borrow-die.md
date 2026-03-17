@@ -122,8 +122,9 @@ High-risk.
 
 Retail mechanics pretending to be institutional.
 
-Roials-Alpha enters only above the structural threshold, starting at 2,000,0
-0
+Roials-Alpha enters only above the structural threshold, starting at 2,000,
+
+00
 0 dollars.
 
 Below that number, the signal-to-noise ratio breaks.
@@ -136,8 +137,9 @@ It integrates on-chain market signals, volatility curves, counterparty data, and
 
 The result is crypto Asset-Backed Frameworks without the chaos, engineered for serious capital and serious strategy. 
 
-## Public Share Monetization Architecture for Strategic Portfolios Public equity positions above 5,000,0
-0
+## Public Share Monetization Architecture for Strategic Portfolios Public equity positions above 5,000,
+
+00
 0 dollars unlock an entirely different layer of functionality.
 
 At this scale, public shares behave less like speculative holdings and more like tradable collateral with deep liquidity and high transparency.
@@ -261,12 +263,14 @@ We specialize in private credit.
 
 We specialize in asset-based Strategic Collateralization.
 
-We specialize in crypto Asset-Backed Frameworks above 2,000,0
-0
+We specialize in crypto Asset-Backed Frameworks above 2,000,
+
+00
 0 dollars.
 
-We specialize in public share Strategic Collateralization above 5,000,0
-0
+We specialize in public share Strategic Collateralization above 5,000,
+
+00
 0 dollars.
 
 Every service is engineered around HNWI and UHNW individuals who require autonomy, liquidity, and an AI-first infrastructure that anticipates rather than reacts. 
@@ -275,7 +279,9 @@ Every service is engineered around HNWI and UHNW individuals who require autonom
 
 The next era of leverage is autonomous.
 
-The next era of elite finance belongs to those who build infrastructure, not those who buy Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The next era of elite finance belongs to those who build infrastructure, not those who buy Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Roials-Alpha builds for those who understand this shift.
 
@@ -283,4 +289,6 @@ For those who operate quietly.
 
 For those who require structural power, not performative noise.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

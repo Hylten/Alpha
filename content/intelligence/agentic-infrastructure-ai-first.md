@@ -46,7 +46,9 @@ They integrate LLMs into workflows that were never built for autonomy.
 
 AI first means the infrastructure itself is designed for agents.
 
-Every subsystem becomes Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Every subsystem becomes Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Every interface becomes interpretable.
 
@@ -129,31 +131,25 @@ They translate their infrastructure into a domain the agents can reason about.
 
 Once the business logic becomes machine readable, autonomy becomes inevitable. 
 
-## The New Operational Hierarchy Modern enterprises have three invisible layers. # 
+## The New Operational Hierarchy Modern enterprises have three invisible layers.
 
-#
-
-### Layer I:: Human Workflows Cluttered.
+Layer I:: Human Workflows Cluttered.
 
 Slow.
 
 Dependent on tribal knowledge and siloed processes.
 
-Fragile under scale. # 
+Fragile under scale.
 
-#
-
-### Layer II:: Scripted autonomous infrastructure Useful.
+Layer II:: Scripted autonomous infrastructure Useful.
 
 Cheap.
 
 Limited.
 
-Breaks under real-world complexity. # 
+Breaks under real-world complexity.
 
-#
-
-### Layer III:: Agentic Infrastructure This is the leap.
+Layer III:: Agentic Infrastructure This is the leap.
 
 Dynamic execution.
 
@@ -166,8 +162,8 @@ End to end autonomy.
 This layer replaces manual intervention.
 
 It replaces 
-7
-0 percent of routine operations.
+
+70 percent of routine operations.
 
 It eliminates the bottleneck of human interpretation.
 
@@ -189,7 +185,7 @@ Every execution improves the next one.
 
 The flywheel begins. 
 
-## The Architecture of AI-Native Execution AI first infrastructure requires a technical backbone engineered for reasoning. # 
+## The Architecture of AI-Native Execution AI first infrastructure requires a technical backbone engineered for reasoning.
 
 ## The Semantic Layer All unstructured data is converted into structured meaning.
 
@@ -197,7 +193,7 @@ Agents can read.
 
 Agents can interpret.
 
-Agents can align context across sources. # 
+Agents can align context across sources.
 
 ## The Execution Layer Every business function becomes callable.
 
@@ -209,7 +205,7 @@ Tools.
 
 Internal systems.
 
-Agents use these as instruments, not static scripts. # 
+Agents use these as instruments, not static scripts.
 
 ## The Memory Layer Short term memory for task context.
 
@@ -217,7 +213,7 @@ Long term memory for strategy, patterns, and knowledge.
 
 Episodic memory for exceptions.
 
-A complete operational cognition model. # 
+A complete operational cognition model.
 
 ## The Governance Layer Agents follow rules.
 
@@ -225,7 +221,7 @@ Agents respect compliance.
 
 Agents make decisions within defined constraints.
 
-This protects businesses from the chaos of unrestricted autonomy. # 
+This protects businesses from the chaos of unrestricted autonomy.
 
 ## The Oversight Layer Meta agents evaluate the work of other agents.
 
@@ -306,7 +302,7 @@ To connect tools that were never meant to interact.
 
 It becomes the operational brain of the company. 
 
-## Why Enterprises Transition to Agentic Infrastructure The strategic reasons are consistent across industries. # 
+## Why Enterprises Transition to Agentic Infrastructure The strategic reasons are consistent across industries.
 
 ## Cost Autonomous operations reduce labor.
 
@@ -316,7 +312,7 @@ They reduce churn.
 
 They reduce rework.
 
-They reduce delays. # 
+They reduce delays.
 
 ## Speed 
 
@@ -326,13 +322,13 @@ They reduce delays. #
 
 Tasks move in parallel.
 
-Bottlenecks disappear. # 
+Bottlenecks disappear.
 
 ## Precision Agents evaluate every step.
 
 They self correct.
 
-They maintain operational consistency. # 
+They maintain operational consistency.
 
 ## Adaptation If the environment changes, agents adjust.
 
@@ -342,7 +338,7 @@ If the strategy changes, agents evolve.
 
 This gives companies the ability to move at machine speed. 
 
-## Use Cases That Prove the Model Agentic infrastructure is already replacing entire departments. # 
+## Use Cases That Prove the Model Agentic infrastructure is already replacing entire departments.
 
 ## Customer Operations Agents triage.
 
@@ -350,7 +346,7 @@ Agents answer.
 
 Agents escalate.
 
-Agents resolve. # 
+Agents resolve.
 
 ## Finance Agents reconcile transactions.
 
@@ -358,7 +354,7 @@ Agents audit anomalies.
 
 Agents generate reports.
 
-Agents execute approvals. # 
+Agents execute approvals.
 
 ## Logistics Agents route shipments.
 
@@ -366,13 +362,13 @@ Agents optimize fulfillment.
 
 Agents handle carrier issues.
 
-Agents forecast inventory. # 
+Agents forecast inventory.
 
 ## HR Agents manage onboarding.
 
 Agents track compliance.
 
-Agents coordinate with internal systems. # 
+Agents coordinate with internal systems.
 
 ## Engineering Agents test.
 
@@ -454,4 +450,6 @@ This is the strategic advantage.
 
 This is the infrastructure layer that defines the next decade.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

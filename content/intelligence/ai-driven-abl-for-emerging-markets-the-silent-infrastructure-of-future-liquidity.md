@@ -88,7 +88,9 @@ Cross-border capital will move through algorithmic corridors.
 
 Jurisdictional complexity will be abstracted behind invisible AI layers.
 
-Roials-Alpha will continue to build that infrastructure. ## ## 
+Roials-Alpha will continue to build that infrastructure. 
+
+ 
 
 ## CONCLUSION
 
@@ -104,4 +106,6 @@ Our systems provide the foundation.
 
 Clients gain the advantage.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

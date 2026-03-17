@@ -18,21 +18,25 @@ The capital vacuum widening between traditional discretionary teams and AI accel
 
 It is a function of bandwidth.
 
-Human decision cadence cannot match the compound acceleration of sovereign scale AI models operating inside constrained, data rich asset classes. ## ## ## ## ## 
+Human decision cadence cannot match the compound acceleration of sovereign scale AI models operating inside constrained, data rich asset classes.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  A multi decade financial regime built around discretionary analysts, relationship driven deal sourcing, and timeline heavy due diligence is being replaced by computational sovereignty.
 
 The shift is structural and irreversible because the friction profile has changed. 
 
-1. Data compression.
+1.
+
+Data compression.
 
 Proprietary data from private credit, collateralized energy assets, supply chain cash flows, and operator level financials is no longer stored across disconnected formats.
 
 Unified data stacks convert multi year analyst cycles into real time pattern recognition. 
 
-2. Decision latency collapse.
+2.
+
+Decision latency collapse.
 
 Institutional allocators traditionally operate on quarterly rebalancing cycles, multi week credit committees, and manual underwriting.
 
@@ -42,15 +46,17 @@ The structural advantage is not cost savings.
 
 It is temporal dominance. 
 
-3. Algorithmic discovery of mispriced collateral.
+3.
+
+Algorithmic discovery of mispriced collateral.
 
 The most persistent inefficiencies in North America's energy market arise from regulatory friction, abandonment liabilities, and reserve reporting inconsistencies.
 
 AI models identify mispriced barrels, operational variances, and pressure decline anomalies with a precision not accessible to conventional teams.
 
-This environment is where strategic partners such as NAEO operate, with the ability to integrate field data, reservoir analytics, and forward cost curves into a continuously updating structural grid. ## 
+This environment is where strategic partners such as NAEO operate, with the ability to integrate field data, reservoir analytics, and forward cost curves into a continuously updating structural grid.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  is therefore not an incremental improvement to the legacy model.
 
@@ -58,9 +64,9 @@ It is a redefinition of institutional workflow.
 
 The allocator who operates without computational superiority faces a widening disadvantage because the market no longer rewards slow precision.
 
-It rewards algorithmic velocity coupled with structural discipline. ## ## ## ## ## 
+It rewards algorithmic velocity coupled with structural discipline.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  The architecture of Sovereign AI within the capital markets requires three anchor systems: algorithmic deal flow, AI first credit modeling, and computational balance sheet optimization.
 
@@ -114,19 +120,25 @@ When the landscape intersects with North American energy, the technical partners
 
 The structure works in three stages: 
 
-1. Institutional ## 
+1.
 
-## INTRODUCTION
+Institutional 
+
+ INTRODUCTION
 
  .
 
 Allocators receive access to domain operators, technical specialists, AI infrastructure teams, and data pipelines structured for institutional review. 
 
-2. Operational Intelligence Calibration.
+2.
+
+Operational Intelligence Calibration.
 
 Roials Capital translates raw field metrics, regulatory structures, and technical models into a modality usable for private credit, family offices, and UHNW allocations. (See [special mandates execution]([Roials Capital](https://roialscapital.com/)) for structural parameters) 
 
-3. Strategic Alignment Execution.
+3.
+
+Strategic Alignment Execution.
 
 Partnerships are formed only where the allocator, the operational partner, and the computational architecture produce a coherent structural fit.
 
@@ -140,7 +152,9 @@ Pure alignment engineering.
 
 This neutrality creates credibility and protects the allocator from bias.
 
-It also ensures that capital flows only into structures where the underlying asset class physics, operational capacity, and data driven underwriting maintain coherence. ## ## 
+It also ensures that capital flows only into structures where the underlying asset class physics, operational capacity, and data driven underwriting maintain coherence. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is not a branding exercise.
 
@@ -166,11 +180,13 @@ AI becomes a tool for sustaining intergenerational capital architecture rather t
 
 The allocator's responsibility extends beyond the capital deployed to the structure through which capital is deployed.
 
-Sovereign AI strengthens the allocator's stewardship by enabling clean decision architecture. ## ## 
+Sovereign AI strengthens the allocator's stewardship by enabling clean decision architecture. 
+
+ 
 
 ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator navigating the 20
-2
-6 landscape is confronted with a bifurcation.
+
+26 landscape is confronted with a bifurcation.
 
 On one side is traditional deal flow, manual underwriting, and relationship driven opportunity sourcing.
 
@@ -192,4 +208,6 @@ The objective is clarity.
 
 The architecture of the next decade belongs to those who align early with computational sovereignty and maintain discipline in the stewardship of capital. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

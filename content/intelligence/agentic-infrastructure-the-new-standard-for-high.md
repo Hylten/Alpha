@@ -141,7 +141,9 @@ A hardened asset demonstrates the following characteristics.
 
 Hardened assets command superior credit terms.
 
-Superior liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Superior liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Superior optionality.
 
@@ -153,7 +155,9 @@ Agentic infrastructure enforces this discipline automatically.
 
 ## The Three Pillars of Agentic Infrastructure The architecture that Roials-Alpha deploys rests on three pillars. # ## 
 
-1. Intelligence Extraction The system isolates actionable signals from noisy domains.
+1.
+
+Intelligence Extraction The system isolates actionable signals from noisy domains.
 
 The majority of financial data is irrelevant to principal-level decisions.
 
@@ -161,7 +165,9 @@ Agentic infrastructure filters for structural events.
 
 Not narratives. # ## 
 
-2. Liquidity Routing Once intelligence is extracted, the system evaluates optimal liquidity paths.
+2.
+
+Liquidity Routing Once intelligence is extracted, the system evaluates optimal liquidity paths.
 
 This includes cross asset collateralization and private credit routing.
 
@@ -173,7 +179,9 @@ Liquidity routing is execution focused.
 
 Not exploratory. # ## 
 
-3. Covenant Aligned Execution Execution is stripped of unnecessary intermediaries.
+3.
+
+Covenant Aligned Execution Execution is stripped of unnecessary intermediaries.
 
 This reduces cost.
 
@@ -187,9 +195,13 @@ Not dilute it.
 
 ## High Velocity Finance and the Collapse of Legacy Timing Velocity defines information asymmetry advantage.
 
-Not Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Not Access is restricted to approved mandates.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Minimum mandate depth: $5M+ target size.
+
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Velocity is scarce.
 
@@ -386,7 +398,9 @@ This includes.
 
 The outcome is a stable liquidity envelope that strengthens the principal’s operating perimeter. 
 
-## The Future: Principals With Infrastructure vs Principals Without The next decade will not be defined by Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## The Future: Principals With Infrastructure vs Principals Without The next decade will not be defined by Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It will be defined by structure.
 
@@ -414,4 +428,6 @@ The principal who acts now will operate from strength.
 
 The principal who delays will operate from constraint.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

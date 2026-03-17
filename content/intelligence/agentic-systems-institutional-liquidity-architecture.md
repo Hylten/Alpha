@@ -12,9 +12,9 @@ The most underpriced element in institutional capital today is not risk, duratio
 
 It is latency.
 
-The allocators who eliminate latency through agentic systems are the ones who control the next decade of Asset-Backed Frameworks. ## ## ## ## ## 
+The allocators who eliminate latency through agentic systems are the ones who control the next decade of Asset-Backed Frameworks.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  A regime shift is underway across North America, Europe, and the Middle East in how capital is sourced, evaluated, deployed, and recovered.
 
@@ -25,10 +25,10 @@ Origination, due diligence, risk grading, credit modeling, and operational monit
 These filters created structural bottlenecks in opportunity velocity, particularly for private credit and hard asset sectors.
 
 The 20
-2
-4 to 20
-2
-6 cycle introduced a new operating reality.
+
+24 to 20
+
+26 cycle introduced a new operating reality.
 
 Multi jurisdictional allocators face: 
 -  Record high capital seeking yield protected structures. 
@@ -60,18 +60,18 @@ Capital is no longer constrained by the bandwidth of mid level analysts.
 It is constrained only by the quality of data pipelines and the precision of algorithmic frameworks.
 
 The result is a regime where allocators with agentic intelligence stacks can process 
-1
-0 to 
-3
-0 times more deal flow, with superior risk filtration and materially faster execution cycles.
+
+10 to 
+
+30 times more deal flow, with superior risk filtration and materially faster execution cycles.
 
 Private credit, infrastructure, energy, and real asset categories all show similar patterns.
 
 The governance burden rises, while the opportunity set remains structurally mispriced.
 
-Agentic systems provide the alignment layer that reconciles the mismatch. ## ## ## ## ## 
+Agentic systems provide the alignment layer that reconciles the mismatch.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  OF AGENTIC LIQUIDITY ARCHITECTURE The performance differential in agentic systems comes from architectural design rather than raw compute.
 
@@ -81,13 +81,17 @@ It is to eliminate human friction in the layers where judgment is not required.
 
 The architecture can be divided into five technical domains. 
 
-1. Autonomous Origination Intelligence These systems maintain continuous scanning of legally accessible data corridors.
+1.
+
+Autonomous Origination Intelligence These systems maintain continuous scanning of legally accessible data corridors.
 
 Instead of human sourced deal flow, the system identifies mispriced collateral, regulatory transitions, operator inefficiencies, and jurisdictional anomalies.
 
 Origination is reframed as a real time probability model rather than a network driven activity. 
 
-2. Algorithmic Credit Architecture Traditional underwriting uses linear scoring and static LTV curves.
+2.
+
+Algorithmic Credit Architecture Traditional underwriting uses linear scoring and static LTV curves.
 
 Agentic underwriting uses multi axis scoring across operational telemetry, historical decline rates, maintenance cycles, commodity sensitivities, and real time market depth.
 
@@ -97,7 +101,9 @@ Every factor feeds into a dynamic risk weighted curve rather than a fixed thresh
 
 The outcome is a more precise mapping between collateral performance and credit seniority. 
 
-3. Cash Flow Waterfall Simulation Most allocators assess waterfall structures manually.
+3.
+
+Cash Flow Waterfall Simulation Most allocators assess waterfall structures manually.
 
 Agentic systems run thousands of micro simulations per asset.
 
@@ -107,7 +113,9 @@ Cash flow predictability becomes quantifiable at scale.
 
 This converts hard assets into computable assets. 
 
-4. Operational Intelligence Monitoring In conventional environments, asset monitoring is quarterly.
+4.
+
+Operational Intelligence Monitoring In conventional environments, asset monitoring is quarterly.
 
 In agentic environments, asset monitoring is continuous.
 
@@ -117,7 +125,9 @@ Deviations trigger automated case assessments.
 
 Instead of learning about risk after the fact, the system predicts risk before capital is impaired. 
 
-5. Institutional Decision Layer Human decision makers are integrated only at four points: threshold crossing, anomaly detection, portfolio concentration review, and final authorization.
+5.
+
+Institutional Decision Layer Human decision makers are integrated only at four points: threshold crossing, anomaly detection, portfolio concentration review, and final authorization.
 
 Judgment remains central.
 
@@ -184,7 +194,9 @@ Roials Capital's role is not to present products or solicit capital.
 
 The role is to provide the macro intelligence, structural clarity, and jurisdictional mapping required for allocators to navigate complex sectors without friction.
 
-This model is designed for UHNWIs, multi family offices, private credit desks, and institutional LPs who require distilled clarity across difficult asset classes. ## ## 
+This model is designed for UHNWIs, multi family offices, private credit desks, and institutional LPs who require distilled clarity across difficult asset classes. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is not an ethical abstraction.
 
@@ -210,11 +222,13 @@ Agentic systems support this discipline by ensuring that capital is governed by 
 
 When allocators apply the stewardship filter, they remove noise, increase resilience, and maintain alignment with institutional mandates.
 
-This applies equally to energy, credit, real assets, and cross border portfolios. ## ## 
+This applies equally to energy, credit, real assets, and cross border portfolios. 
+
+ 
 
 ## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 20
-2
-6 regime must evaluate opportunities through five lenses: 
+
+26 regime must evaluate opportunities through five lenses: 
 -  Structural positioning.
 
 Whether the asset sits within a jurisdiction or sector experiencing structural mispricing. 
@@ -247,4 +261,6 @@ The outcome is calibration.
 
 The result is an institutional decision pathway that matches the realities of the new liquidity regime. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

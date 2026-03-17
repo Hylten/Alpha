@@ -114,4 +114,6 @@ For those who understand that liquidity is not a product, it is a structural adv
 
 For those who treat M&A not as a transaction, but as a system.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -97,11 +97,17 @@ Not capital volume.
 
 The only true path to defensible yield is triangulation across three domains: 
 
-1. Asset Certainty 
+1.
 
-2. Cash Flow Dominance 
+Asset Certainty 
 
-3. Legal Containment AI merges the three.
+2.
+
+Cash Flow Dominance 
+
+3.
+
+Legal Containment AI merges the three.
 
 Orchestrates.
 
@@ -386,4 +392,6 @@ It is governance.
 
 Institutional readiness requires one question: What agentic infrastructure do you require provisioned for deployment?
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -70,13 +70,21 @@ Soft assets include passive equity, illiquid holdings, unsecured obligations, an
 
 Hard assets-within this system-carry four traits: 
 
-1. Autonomous yield production. 
+1.
 
-2. Enforcement-ready collateralization. 
+Autonomous yield production. 
 
-3. Multi-jurisdictional optionality. 
+2.
 
-4. Real-time monitoring and algorithmic repricing.
+Enforcement-ready collateralization. 
+
+3.
+
+Multi-jurisdictional optionality. 
+
+4.
+
+Real-time monitoring and algorithmic repricing.
 
 The model transforms asset classes through programmable constraints.
 
@@ -186,11 +194,17 @@ Venue selection must be governed by a systemic risk model evaluating:
 
 The proprietary model uses a three-ring structure: 
 
-1. Inner Ring: domestic anchors for operational legitimacy. 
+1.
 
-2. Mid Ring: strong asset protection states with favorable trust and foundation frameworks. 
+Inner Ring: domestic anchors for operational legitimacy. 
 
-3. Outer Ring: high-secrecy, low-friction capital corridors for mobile liquidity engines.
+2.
+
+Mid Ring: strong asset protection states with favorable trust and foundation frameworks. 
+
+3.
+
+Outer Ring: high-secrecy, low-friction capital corridors for mobile liquidity engines.
 
 All rings work together.
 
@@ -461,7 +475,9 @@ Engineered.
 Unbreakable.
 
 End metric: Systemic Hardening Coefficient target ≥ 0.
-8
-2 across all capital layers.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+82 across all capital layers.
+
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

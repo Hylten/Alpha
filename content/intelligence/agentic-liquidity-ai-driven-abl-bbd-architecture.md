@@ -115,7 +115,9 @@ Compounded cycles build dynastic capital.
 
 Agentic Asset-Based Lending provides the architecture in four layers.
 
-### Layer I:. Data Extraction The system scrapes structured and unstructured inputs with autonomous ingestion engines.
+Layer I:.
+
+Data Extraction The system scrapes structured and unstructured inputs with autonomous ingestion engines.
 
 Title documents.
 
@@ -135,7 +137,9 @@ Regulatory filings.
 
 All processed into normalized vectors.
 
-### Layer II:. Collateral Modeling AI agents perform collateral triangulation.
+Layer II:.
+
+Collateral Modeling AI agents perform collateral triangulation.
 
 Three‑tier assessment: intrinsic value, liquidation velocity, and jurisdictional drag.
 
@@ -145,7 +149,9 @@ High‑coefficient assets serve as primary collateral.
 
 Low‑coefficient assets round out stability layers.
 
-### Layer III:. Dynamic Underwriting No loan packages.
+Layer III:.
+
+Dynamic Underwriting No loan packages.
 
 No time delays.
 
@@ -159,7 +165,9 @@ Borrowing capacity shifts instantly.
 
 Credit triggers fire automatically.
 
-### Layer IV:. Continuous Covenant Enforcement Covenants do not exist as static clauses.
+Layer IV:.
+
+Continuous Covenant Enforcement Covenants do not exist as static clauses.
 
 Agentic systems enforce them in motion.
 
@@ -179,11 +187,17 @@ Risk becomes a real‑time function, not a lagging artifact.
 
 ## THE BUY‑BORROW‑DIE FRAMEWORK UNDER AI Institutional BBD cycles suffer from three structural issues: 
 
-1. Illiquid assets produce timing risk. 
+1.
 
-2. Lending markets impose arbitrary cycles. 
+Illiquid assets produce timing risk. 
 
-3. Human intermediaries erode compounding capacity.
+2.
+
+Lending markets impose arbitrary cycles. 
+
+3.
+
+Human intermediaries erode compounding capacity.
 
 Agentic liquidity resolves all three by converting the BBD architecture into a perpetual motion machine.
 
@@ -230,19 +244,25 @@ Dynasty secured.
 
 Arbitrage 
 
-1. Regulatory Asymmetry Different jurisdictions treat collateral, encumbrance, and debt service differently.
+1.
+
+Regulatory Asymmetry Different jurisdictions treat collateral, encumbrance, and debt service differently.
 
 Agentic systems monitor regulatory deltas and shift collateral assignments accordingly.
 
 Arbitrage 
 
-2. Tax Exposure Assets are reorganized based on net‑after‑tax liquidity yield.
+2.
+
+Tax Exposure Assets are reorganized based on net‑after‑tax liquidity yield.
 
 AI models identify which jurisdictions allow debt expansion without triggering taxable events.
 
 Arbitrage 
 
-3. Enforcement Time Collateral in slow‑enforcement jurisdictions reduces borrowing bases.
+3.
+
+Enforcement Time Collateral in slow‑enforcement jurisdictions reduces borrowing bases.
 
 Fast jurisdictions increase it.
 
@@ -250,11 +270,15 @@ AI models rebalance collateral clusters constantly, ensuring maximum liquidity.
 
 Arbitrage 
 
-4. FX and Monetary Regimes Agentic systems translate collateral into synthetic liquidity across currencies, minimizing drag.
+4.
+
+FX and Monetary Regimes Agentic systems translate collateral into synthetic liquidity across currencies, minimizing drag.
 
 Arbitrage 
 
-5. Sovereign Stability When a country risk index spikes, the system automatically shifts to protected collateral.
+5.
+
+Sovereign Stability When a country risk index spikes, the system automatically shifts to protected collateral.
 
 Fund‑III becomes sovereign‑neutral.
 
@@ -266,19 +290,25 @@ Arbitrage‑driven.
 
 Delta 
 
-1. Speed Traditional underwriting: weeks or months.
+1.
+
+Speed Traditional underwriting: weeks or months.
 
 Agentic underwriting: minutes.
 
 Delta 
 
-2. Cost Legacy teams: analysts, associates, managers, reviewers.
+2.
+
+Cost Legacy teams: analysts, associates, managers, reviewers.
 
 Agentic systems: autonomous pipelines with minimal human oversight.
 
 Delta 
 
-3. Convexity Human‑driven credit is linear.
+3.
+
+Convexity Human‑driven credit is linear.
 
 Machine‑driven credit is exponential.
 
@@ -312,13 +342,19 @@ Better sequencing.
 
 ## TECHNICAL DOMINANCE: WHY THIS MODEL WINS The institution that masters agentic liquidity achieves three forms of dominance. 
 
-1. Temporal Dominance Speed becomes a moat.
+1.
+
+Temporal Dominance Speed becomes a moat.
 
 Velocity becomes a weapon. 
 
-2. Informational Dominance AI agents process operational reality before competitors even notice. 
+2.
 
-3. Capital Dominance Liquidity is created internally.
+Informational Dominance AI agents process operational reality before competitors even notice. 
+
+3.
+
+Capital Dominance Liquidity is created internally.
 
 Independence from external gatekeepers.
 
@@ -380,4 +416,6 @@ For Fund‑III,
 -  
 -  To proceed, specify the agentic infrastructure you require.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

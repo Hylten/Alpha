@@ -16,13 +16,15 @@ Digital assets behave chaotically at the surface level, yet their volatility cyc
 
 Volatility is not random.
 
-It is the direct output of structural liquidity gaps. ## ## ## ## ## 
+It is the direct output of structural liquidity gaps.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  Institutional allocators are witnessing a capital regime defined by three simultaneous transitions. 
 
-1. Regulatory recalibration across US, EU, and Gulf jurisdictions.
+1.
+
+Regulatory recalibration across US, EU, and Gulf jurisdictions.
 
 Regulators are clarifying custody requirements, stablecoin thresholds, and exchange obligations.
 
@@ -34,7 +36,9 @@ Participants cannot route capital efficiently across jurisdictions.
 
 The result is a capital vacuum similar to the early energy deregulation period in Alberta, where resource abundance coexisted with constrained capital formation. 
 
-2. Declining balance sheet resilience within most crypto intermediaries.
+2.
+
+Declining balance sheet resilience within most crypto intermediaries.
 
 Crypto lending desks operate with insufficient collateral haircuts and short duration financing structures.
 
@@ -44,7 +48,9 @@ This has created a predictable liquidity compression cycle that repeats every si
 
 The cycle is mechanical, not behavioral. 
 
-3. Institutional entry without institutional structure.
+3.
+
+Institutional entry without institutional structure.
 
 Asset managers with traditional mandates require predictable cash flow profiles.
 
@@ -58,9 +64,9 @@ The market does not offer liquidity.
 
 It must be manufactured.
 
-Roials Capital addresses this through the Roials Alpha Framework, which applies predictive modeling to digital asset volatility in order to produce structured liquidity architectures suitable for UHNW and institutional allocators. ## ## ## ## ## 
+Roials Capital addresses this through the Roials Alpha Framework, which applies predictive modeling to digital asset volatility in order to produce structured liquidity architectures suitable for UHNW and institutional allocators.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  Predictive Asset-Backed Frameworks is not speculative market timing.
 
@@ -68,7 +74,9 @@ It is the systematic extraction of volatility signals that inform balance sheet 
 
 The Roials Alpha Framework uses a multi tier analytic stack focused on four mechanical domains. 
 
-1. Volatility Microstructure Mapping Crypto volatility originates from depth instability.
+1.
+
+Volatility Microstructure Mapping Crypto volatility originates from depth instability.
 
 Order books thin faster than traditional markets because liquidity is not anchored by market makers with robust balance sheets.
 
@@ -82,7 +90,9 @@ Most liquidations occur not because of price discovery but because of depth coll
 
 This is measurable. 
 
-2. Collateral Impairment Algorithms Crypto collateral behaves closer to an unstable reserve currency than an equity.
+2.
+
+Collateral Impairment Algorithms Crypto collateral behaves closer to an unstable reserve currency than an equity.
 
 Therefore the primary risk is not borrower creditworthiness but collateral quality fluctuations.
 
@@ -92,7 +102,9 @@ Roials Alpha generates a collateral impairment curve that incorporates:
 -  Implied stability coefficients 
 -  Stress zone thresholds triggered by cross asset correlations The model can determine when a position is approaching impairment well before the market registers it. 
 
-3. Cross Asset Risk Propagation Volatility in digital assets usually originates from non crypto catalysts.
+3.
+
+Cross Asset Risk Propagation Volatility in digital assets usually originates from non crypto catalysts.
 
 FX movements, US treasury liquidity, and commodities volatility all feed into crypto market depth.
 
@@ -100,7 +112,9 @@ Roials Alpha tracks these cross asset vectors and integrates them into an instit
 
 This prevents allocators from misjudging idiosyncratic risk as systemic risk. 
 
-4. Liquidity Regeneration Protocols Capital Structuring requires creating alternative liquidity channels that are not dependent on exchange depth.
+4.
+
+Liquidity Regeneration Protocols Capital Structuring requires creating alternative liquidity channels that are not dependent on exchange depth.
 
 Roials Alpha builds synthetic liquidity reserves by optimizing: 
 -  Stablecoin treasuries 
@@ -132,9 +146,9 @@ The firm does not function as an asset manager.
 
 Instead, it acts as a structural partner facilitating: 
 -  Strategic Alignment 
--  Institutional ## 
+-  Institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 -  Market Navigation 
 -  Operational Intelligence The Roials Alpha Framework is an analytical infrastructure designed to serve as an external intelligence layer.
 
@@ -150,7 +164,9 @@ The analytical model is built to match operator realities with allocator require
 
 For allocators with exposure to volatile digital assets, the Roials Alpha Framework functions as a liquidity governance system.
 
-It ensures that digital asset volatility is contextualized using quantitative analytics aligned with institutional expectations. ## ## 
+It ensures that digital asset volatility is contextualized using quantitative analytics aligned with institutional expectations. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved. 
 -  **Proverbs 13:22
@@ -171,7 +187,9 @@ Roials Alpha is designed to minimize this leakage by establishing:
 
 Stewardship is not risk avoidance.
 
-It is risk governance through technical competence. ## ## 
+It is risk governance through technical competence. 
+
+ 
 
 ## DECISION MAKING LENS FOR ALLOCATORS Allocators facing digital asset volatility require a framework that transforms uncertainty into measurable structure.
 
@@ -192,4 +210,6 @@ The audit is not transactional.
 
 It is a structural review intended to strengthen balance sheet resilience and enhance overall capital stewardship.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

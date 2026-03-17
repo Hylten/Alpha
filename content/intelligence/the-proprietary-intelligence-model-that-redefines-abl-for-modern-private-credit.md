@@ -76,7 +76,9 @@ It shapes the liquidity envelope around the client.
 
 It calibrates availability, exposure, risk compression, and liquidation windows in real time.
 
-It calculates frictionless Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It calculates frictionless Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This restores control to the client.
 
@@ -148,7 +150,9 @@ The future of Asset-Based Lending is computational, adaptive, and agentic.
 
 Roials-Alpha is already operating in that future. 
 
-## The Endgame: Intelligence Driven Capital Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## The Endgame: Intelligence Driven Capital Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Asset-Based Lending becomes dynamic.
 
@@ -162,4 +166,6 @@ We do not provide liquidity facilities.
 
 We provide computational liquidity infrastructure for the modern wealth class.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

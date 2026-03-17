@@ -20,7 +20,7 @@ The premise is simple.
 
 The execution is not.
 
-We move directly into the principal brief. ## ## ## ## 
+We move directly into the principal brief. 
 -  THE ARCHITECTURE OF SELF-VERIFICATION Private.
 
 Vault-level.
@@ -63,7 +63,9 @@ Not a portal.
 
 Not a vault.
 
-A jurisdiction of truth. ## ## 
+A jurisdiction of truth. 
+
+ 
 
 ## PRINCIPAL TONE 
 -  STATEMENTS, NOT EXPLANATIONS Precision now.
@@ -145,9 +147,9 @@ No shared memory.
 
 No shared parameters.
 
-Each reaches its own ## 
+Each reaches its own 
 
-## CONCLUSION
+ CONCLUSION
 
  .
 
@@ -236,7 +238,7 @@ Agentic infrastructure is not “AI that helps.” It is “AI that acts.” It 
 
 The architecture has three pillars.
 
-### Pillar I:: The Sovereign Core The sovereign core is the primary decision engine.
+Pillar I:: The Sovereign Core The sovereign core is the primary decision engine.
 
 It does not rely on any external LLM.
 
@@ -248,7 +250,7 @@ Every other agent reports to it.
 
 It produces the final verdict.
 
-### Pillar II:: The Autonomous Perimeter These agents interface with the outside world.
+Pillar II:: The Autonomous Perimeter These agents interface with the outside world.
 
 They retrieve records, validate corporate filings, scan public databases, pull market data, and detect shifts in regulatory or operational conditions.
 
@@ -260,7 +262,7 @@ It extends the room’s reach.
 
 It makes the data room a market participant rather than a passive repository.
 
-### Pillar III:: The Execution Swarm This is where real operational leverage is created.
+Pillar III:: The Execution Swarm This is where real operational leverage is created.
 
 These are small, purpose-built agents that run micro-tasks: redline detection, contract versioning, integration modeling, scenario analysis, counterparty mapping, valuation pressure-testing.
 
@@ -356,7 +358,9 @@ We control the environment.
 
 If you want the next step 
 -  the agentic infrastructure blueprint, the sovereign-core architecture, the execution-swarm configuration 
--  Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 The call will restructure how you operate.
 

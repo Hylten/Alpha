@@ -26,7 +26,7 @@ Silent execution.
 
 Autonomous protection.
 
-Agentic systems enable all three. # 
+Agentic systems enable all three.
 
 ## Precision Over Opinion Traditional advisors cannot compute cross-asset interdependencies in real time.
 
@@ -36,7 +36,7 @@ Every variable is evaluated.
 
 Every risk is quantified.
 
-Nothing is based on sentiment or theory. # 
+Nothing is based on sentiment or theory.
 
 ## Liquidity as a Sovereign Right The affluent historically relied on institutions to unlock liquidity.
 
@@ -46,9 +46,11 @@ Rules change.
 
 Jurisdictions shift.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
 
-Agentic systems restore mobility by creating direct pathways from asset to liquidity without institutional bottleneck. # 
+Minimum mandate depth: $5M+ target size.
+
+Agentic systems restore mobility by creating direct pathways from asset to liquidity without institutional bottleneck.
 
 ## Confidentiality Reinforced by autonomous infrastructure The less human involvement, the lower the leak vector.
 
@@ -64,7 +66,9 @@ It is the movement of wealth into systems that cannot be frozen, manipulated, or
 
 Agentic systems accomplish this through three mechanical processes. # ## 
 
-1. Asset Interpretation Layer This layer reads every asset for what it is, not what a market calls it.
+1.
+
+Asset Interpretation Layer This layer reads every asset for what it is, not what a market calls it.
 
 It interprets yield potential, off-book exposure, liquidity depth, and volatility signatures.
 
@@ -72,7 +76,9 @@ Assets are converted into machine readable risk objects.
 
 Once an asset becomes a risk object, it becomes actionable. # ## 
 
-2. Liquidity Extraction Layer This layer determines how much liquidity can be safely unlocked without degrading asset integrity.
+2.
+
+Liquidity Extraction Layer This layer determines how much liquidity can be safely unlocked without degrading asset integrity.
 
 It uses multi vector assessments that include collateral stress, market conditions, price velocity, and liquidation thresholds.
 
@@ -82,7 +88,9 @@ The system does not negotiate.
 
 It calculates. # ## 
 
-3. Migration and Deployment Layer The extracted liquidity is then routed into targeted use cases.
+3.
+
+Migration and Deployment Layer The extracted liquidity is then routed into targeted use cases.
 
 These may include venture deployment, real estate acquisition, digital assets, or structured multi jurisdictional strategies.
 
@@ -124,9 +132,13 @@ This is the Roials-Alpha advantage.
 
 Crypto Asset-Backed Frameworks starts at 2,000, 
 
-000. Public Share Monetization Architecture begins at 5,000, 
+000.
 
-000. These thresholds ensure that the system engages only with capital profiles capable of absorbing high grade financial operations.
+Public Share Monetization Architecture begins at 5,000, 
+
+000.
+
+These thresholds ensure that the system engages only with capital profiles capable of absorbing high grade financial operations.
 
 It preserves system integrity.
 
@@ -148,4 +160,6 @@ Roials-Alpha is already operating in that future.
 
 We invite only those who understand the value of structural sovereignty. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

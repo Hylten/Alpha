@@ -98,9 +98,9 @@ It produces an environment where liquidity is an always available function.
 
 ## The Multi Layer Hardening Cycle Automated Asset Hardening operates in multiple layers.
 
-Each layer reinforces the next until the asset becomes a high integrity liquidity instrument. # 
+Each layer reinforces the next until the asset becomes a high integrity liquidity instrument.
 
-## Layer One: Structural Diagnostics The system ingests each asset class and classifies it based on stability, stress performance, and acceptable Strategic Collateralization profiles.
+Layer One: Structural Diagnostics The system ingests each asset class and classifies it based on stability, stress performance, and acceptable Strategic Collateralization profiles.
 
 This is not a manual audit.
 
@@ -110,9 +110,9 @@ It scans and computes scenarios rapidly.
 
 Assets are tiered by hardness potential.
 
-Only the strongest move into Layer Two. # 
+Only the strongest move into Layer Two.
 
-## Layer Two: Friction Reduction Liquidity friction exists anywhere that the asset is difficult to price, difficult to value, or difficult to collateralize.
+Layer Two: Friction Reduction Liquidity friction exists anywhere that the asset is difficult to price, difficult to value, or difficult to collateralize.
 
 The model evaluates those frictions and removes them through structural adjustments.
 
@@ -122,9 +122,9 @@ Exposure buffering.
 
 Cross collateral alignment.
 
-Once friction is removed, the asset becomes a candidate for high integrity Institutional Liquidity Paths. # 
+Once friction is removed, the asset becomes a candidate for high integrity Institutional Liquidity Paths.
 
-## Layer Three: Collateral Optimization This is where the asset becomes leverage ready.
+Layer Three: Collateral Optimization This is where the asset becomes leverage ready.
 
 Collateral optimization is the operational heart of the model.
 
@@ -136,9 +136,9 @@ When the market shifts, the system updates the collateral profile with no delay.
 
 This is one of the reasons HNWI and UHNW clients operate seamlessly with us.
 
-Asset values change, but the Strategic Collateralization posture remains stable because it is constantly recalculated. # 
+Asset values change, but the Strategic Collateralization posture remains stable because it is constantly recalculated.
 
-## Layer Four: Liquidity Activation At this point the hardened asset transitions into a Institutional Liquidity Paths instrument.
+Layer Four: Liquidity Activation At this point the hardened asset transitions into a Institutional Liquidity Paths instrument.
 
 Private credit activation becomes instant.
 
@@ -146,7 +146,9 @@ Asset-Based Lending lines become modular.
 
 Collateral values become predictable even under volatility.
 
-Clients are granted immediate Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Clients are granted immediate Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 This is the Roials-Alpha advantage.
 
@@ -160,7 +162,9 @@ Dominant.
 
 Minimum threshold is 2,000, 
 
-000. This eliminates noise.
+000.
+
+This eliminates noise.
 
 It filters out low value velocity.
 
@@ -180,7 +184,9 @@ They are algorithmically transparent but operationally unstable in volatile mark
 
 Our minimum threshold here is 5,000, 
 
-000. At this scale, the hardening model can fully reconfigure the equity position into a high durability Institutional Liquidity Paths asset.
+000.
+
+At this scale, the hardening model can fully reconfigure the equity position into a high durability Institutional Liquidity Paths asset.
 
 The system reads liquidity depth, market micro structure, and volatility compression.
 
@@ -270,7 +276,9 @@ We focus on durable liquidity.
 
 Our structure ensures that your assets remain leverage ready across market cycles.
 
-The hardening model continues to optimize even when you are not Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+The hardening model continues to optimize even when you are not Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 It is a continuous conditioning process.
 
@@ -336,4 +344,6 @@ Operators who need liquidity in the right moment, not after a review cycle.
 
 The Automated Asset Hardening model is the foundation for this. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -6,13 +6,23 @@ author: "Roials Alpha"
 slug: "digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring-covena"
 --- 
 
-Digitala tvillingar förflyttar portföljövervakning från reaktiv till autonom. Genom att mappa mikroskift i realtid—från DSO-fördröjningar till marginalkompression—identifieras covenant-brott 10
-0 dagar innan de realiseras. 
+Digitala tvillingar förflyttar portföljövervakning från reaktiv till autonom.
 
-Vår agentiska infrastruktur stress-testar likviditet dygnet runt utan mänsklig inblandning. Vi eliminerar analyst-bias och ersätter kvartalsrapporter med kontinuerlig exekvering. Roials Alpha bygger infrastruktur för dem som kräver precision. 
+Genom att mappa mikroskift i realtid—från DSO-fördröjningar till marginalkompression—identifieras covenant-brott 10
+0 dagar innan de realiseras.
 
-## THE ALPHA SENTINEL LAYER
+Vår agentiska infrastruktur stress-testar likviditet dygnet runt utan mänsklig inblandning.
 
-Vi bygger inte rapporter; vi kodar in säkerhetsmarginaler i din portfölj. Autonom övervakning för PE-mandat.
+Vi eliminerar analyst-bias och ersätter kvartalsrapporter med kontinuerlig exekvering.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Roials Alpha bygger infrastruktur för dem som kräver precision. 
+
+## ## THE ALPHA SENTINEL LAYER
+
+Vi bygger inte rapporter; vi kodar in säkerhetsmarginaler i din portfölj.
+
+Autonom övervakning för PE-mandat.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

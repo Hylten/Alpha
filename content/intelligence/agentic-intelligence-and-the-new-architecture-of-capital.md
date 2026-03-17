@@ -14,7 +14,9 @@ It becomes the operating system that allocates liquidity, reassigns collateral p
 
 And for HNWI and UHNW capital holders, this shift is not theoretical.
 
-It is already affecting liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+It is already affecting liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Roials Alpha sits inside this shift.
 
@@ -34,8 +36,9 @@ They cannot trigger unnecessary tax events.
 
 This is where agentic public share Monetization Architecture becomes dominant.
 
-Roials Alpha lends against public equities starting at 5,000,0
-0
+Roials Alpha lends against public equities starting at 5,000,
+
+00
 0 USD.
 
 Agentic systems evaluate equity positions based on: Historical volatility patterns.
@@ -190,4 +193,6 @@ This is not the future.
 
 This is the infrastructure of now. 
 
-## Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+## Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

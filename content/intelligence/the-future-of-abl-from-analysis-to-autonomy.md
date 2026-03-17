@@ -130,8 +130,9 @@ Poor risk mapping.
 
 Roials-Alpha treats crypto as an institutional-grade collateral class, but only when the exposure is meaningful enough to justify autonomous underwriting.
 
-This is why our minimum threshold is 2,000,0
-0
+This is why our minimum threshold is 2,000,
+
+00
 0 USD.
 
 Below that level, the economics are inefficient.
@@ -162,8 +163,9 @@ Most lenders ignore this complexity.
 
 Roials-Alpha does not.
 
-Our minimum threshold for public share Strategic Collateralization is 5,000,0
-0
+Our minimum threshold for public share Strategic Collateralization is 5,000,
+
+00
 0 USD because, below this level, the structural mechanics we deploy are simply unnecessary.
 
 At the UHNW tier, equity-backed Monetization Architecture becomes a strategic instrument, not a cash advance.
@@ -287,11 +289,13 @@ And Roials-Alpha builds it.
 Roials-Alpha provides:
 • Private credit Capital Structuring with autonomous underwriting
 • Asset-based liquidity with machine-grade valuation
-• Crypto-backed Institutional Liquidity Paths starting at 2,000,0
-0
+• Crypto-backed Institutional Liquidity Paths starting at 2,000,
+
+00
 0 USD
-• Public share Monetization Architecture starting at 5,000,0
-0
+• Public share Monetization Architecture starting at 5,000,
+
+00
 0 USD
 • Structural mechanics for institutional capital
 • principal authority in execution
@@ -299,4 +303,6 @@ Roials-Alpha provides:
 
 The future of Asset-Based Lending is autonomy.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

@@ -12,21 +12,29 @@ It is the direct result of a structural mismatch between the velocity of digital
 
 This mismatch has created the largest opportunity for algorithmically governed wealth mobility since the deregulation cycles of the early 1990s.
 
-Reinforcement learning systems are now functioning as the dominant catalyst for cross-border capital optimization, enabling capital to operate with precision while remaining within the bounds of prevailing regulatory structures. ## ## ## ## ## 
+Reinforcement learning systems are now functioning as the dominant catalyst for cross-border capital optimization, enabling capital to operate with precision while remaining within the bounds of prevailing regulatory structures.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  Institutional allocators are operating within a regime where capital asymmetries have widened across borders.
 
 The divergence is observable across four primary vectors: 
 
-1. Regulatory drift between North America, the European Union, and the GCC. 
+1.
 
-2. Disparate liquidity structures between traditional banking ecosystems and private credit systems. 
+Regulatory drift between North America, the European Union, and the GCC. 
 
-3. Jurisdictional tax compression that is outpaced by digital asset velocity. 
+2.
 
-4. A shift from relationship-driven allocation to algorithmically executed selection processes.
+Disparate liquidity structures between traditional banking ecosystems and private credit systems. 
+
+3.
+
+Jurisdictional tax compression that is outpaced by digital asset velocity. 
+
+4.
+
+A shift from relationship-driven allocation to algorithmically executed selection processes.
 
 The acceleration of private credit is not speculative.
 
@@ -48,9 +56,9 @@ The agentic allocator does not rely on manual intervention.
 
 The allocator reinforces decisions through continuous loop execution where each capital deployment becomes a learning vector.
 
-This shift transforms wealth from a passive store of value into an active computational asset. ## ## ## ## ## 
+This shift transforms wealth from a passive store of value into an active computational asset.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  Reinforcement learning as deployed within private capital ecosystems is not prediction based.
 
@@ -66,7 +74,9 @@ Each parameter is encoded within a decision environment.
 
 Four core architectures are now forming the backbone of borderless capital optimization: 
 
-1. Policy Gradient Capital Allocation The system learns the optimal policy for moving capital across borders and asset classes by directly improving probability weighted decisions.
+1.
+
+Policy Gradient Capital Allocation The system learns the optimal policy for moving capital across borders and asset classes by directly improving probability weighted decisions.
 
 When integrated with private credit analysis, the model evaluates structural seniority, LTV curves, amortization velocity, and counterparty resilience.
 
@@ -74,19 +84,25 @@ The decision environment is not a market price.
 
 It is a credit waterfall. 
 
-2. Constraint Encoding Layer All jurisdictional constraints are codified into a regulatory graph.
+2.
+
+Constraint Encoding Layer All jurisdictional constraints are codified into a regulatory graph.
 
 This includes capital controls, withholding tax regimes, CRS and FATCA reporting layers, thin capitalization rules, and beneficial ownership standards.
 
 The reinforcement learning agent computes optimal paths through this graph without crossing compliance boundaries. 
 
-3. Multimodal Underwriting Aggregation Private credit, energy infrastructure, and real asset opportunities produce heterogeneous data.
+3.
+
+Multimodal Underwriting Aggregation Private credit, energy infrastructure, and real asset opportunities produce heterogeneous data.
 
 Reinforcement learning systems synthesize geospatial data, production curves, borrower balance sheets, and legal structuring documents into an underwriting synthesis layer.
 
 When assessing North American energy opportunities through our strategic partner NAEO, this architecture integrates SAGD technical recovery factors, CSS cycle effectiveness, reservoir pressure dynamics, and historical steam oil ratio data. 
 
-4. Adaptive Liquidity Sequencing Capital is not deployed uniformly.
+4.
+
+Adaptive Liquidity Sequencing Capital is not deployed uniformly.
 
 Reinforcement learning systems optimize sequencing.
 
@@ -124,9 +140,9 @@ NAEO maintains operational intelligence on Alberta heavy oil assets, permit land
 
 This intelligence allows reinforcement learning systems to operate on accurate physical and legal data, not assumptions.
 
-For allocators focusing on private credit, Roials Capital provides ## 
+For allocators focusing on private credit, Roials Capital provides 
 
-## INTRODUCTION
+ INTRODUCTION
 
  and structuring intelligence.
 
@@ -147,7 +163,9 @@ NAEO provides technical energy domain accuracy.
 
 Roials Capital provides institutional structuring accuracy.
 
-The allocator receives a system capable of cross border optimization without friction. ## ## 
+The allocator receives a system capable of cross border optimization without friction. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
@@ -184,9 +202,13 @@ A credit facility that is oversized relative to borrower capacity is wasteful.
 
 A facility that is undersized creates operational strain.
 
-The reinforcement learning model calibrates the optimal balance point where capital supports performance without generating excess liability load. ## ## 
+The reinforcement learning model calibrates the optimal balance point where capital supports performance without generating excess liability load. 
 
-## THE ## ## 
+ 
+
+## THE 
+
+ 
 
 ## DECISION MAKING LENS Allocators operating at the institutional level require a structural lens rather than an asset lens.
 
@@ -194,11 +216,17 @@ The question is not whether private credit, energy, or cross border optimization
 
 The central evaluation point is whether the allocator has the architecture to navigate complexity at institutional scale. 
 
-1. Portfolio Mobility The ability for capital to move across borders without triggering regulatory friction or inefficient tax structures. 
+1.
 
-2. Structural Intelligence The ability to deploy capital using constraint optimized logic that integrates operational data, jurisdictional rules, and risk weighted performance pathways. 
+Portfolio Mobility The ability for capital to move across borders without triggering regulatory friction or inefficient tax structures. 
 
-3. Strategic Alignment Alignment with partners who maintain domain mastery, whether within heavy oil operations through NAEO or within multi jurisdictional structuring through Roials Capital.
+2.
+
+Structural Intelligence The ability to deploy capital using constraint optimized logic that integrates operational data, jurisdictional rules, and risk weighted performance pathways. 
+
+3.
+
+Strategic Alignment Alignment with partners who maintain domain mastery, whether within heavy oil operations through NAEO or within multi jurisdictional structuring through Roials Capital.
 
 Allocators who meet these markers are positioned to integrate agentic reinforcement learning systems into their capital architecture.
 
@@ -208,4 +236,6 @@ Roials Capital facilitates confidential strategy audits for allocators seeking t
 
 The audit evaluates cross border flows, credit structuring, energy allocation pathways, and reinforcement learning integration readiness.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

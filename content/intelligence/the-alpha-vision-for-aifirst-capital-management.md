@@ -48,4 +48,6 @@ Roials Alpha is not here to compete with traditional finance.
 
 We are here to supersede it.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

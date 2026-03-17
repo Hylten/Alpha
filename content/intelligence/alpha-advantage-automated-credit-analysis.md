@@ -99,7 +99,9 @@ It rewrites the rules of underwriting.
 
 ## THE STACK The architecture that delivers sovereign advantage works across four layers: 
 
-1. Intake Layer Where structured and unstructured data flow through raw ingestion grids.
+1.
+
+Intake Layer Where structured and unstructured data flow through raw ingestion grids.
 
 Bank statements.
 
@@ -125,7 +127,9 @@ Everything enters.
 
 Nothing ignored. 
 
-2. Fusion Layer Machine-brain consolidation.
+2.
+
+Fusion Layer Machine-brain consolidation.
 
 Cross-correlation.
 
@@ -137,7 +141,9 @@ Shadow-exposure uncovering.
 
 Anomaly detection at micro-lag intervals. 
 
-3. Adjudication Layer Autonomous credit scoring.
+3.
+
+Adjudication Layer Autonomous credit scoring.
 
 Borrower survivability mapping.
 
@@ -147,7 +153,9 @@ Collateral integrity scoring.
 
 Jurisdictional enforceability modeling. 
 
-4. Execution Layer Risk-adjusted pricing.
+4.
+
+Execution Layer Risk-adjusted pricing.
 
 Covenant embedding.
 
@@ -384,8 +392,10 @@ If you want the edge, you trust the architecture.
 
 If you want the future, you remove friction.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 
 Metric: Latency-to-Underwrite = 0.
-8
-3 seconds.
+
+83 seconds.

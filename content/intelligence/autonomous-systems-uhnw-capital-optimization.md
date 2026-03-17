@@ -364,7 +364,9 @@ Mechanisms:
 • Generational vaults
 • Spend-threshold governors
 • Automatic diversification enforcement
-• Entity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+• Entity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 • Governance rotation schedules
 • Dynastic capital bands
 • Value drift suppression The system protects heirs from misallocation.
@@ -403,11 +405,17 @@ Autonomy eliminates hesitation.
 
 ## ROIALS-ALPHA DOCTRINE THE PRINCIPAL STANDARD Three rules govern the architecture: 
 
-1. Reduce friction to zero. 
+1.
 
-2. Reduce delay to zero. 
+Reduce friction to zero. 
 
-3. Reduce dependency to zero.
+2.
+
+Reduce delay to zero. 
+
+3.
+
+Reduce dependency to zero.
 
 Autonomous systems create leverage.
 
@@ -440,7 +448,9 @@ Accelerate deal flow.
 Remove human drag.
 
 Completion metric: 0.
-1
-4 seconds latency across all capital nodes.
 
-If you require additional construction, Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+14 seconds latency across all capital nodes.
+
+If you require additional construction, Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

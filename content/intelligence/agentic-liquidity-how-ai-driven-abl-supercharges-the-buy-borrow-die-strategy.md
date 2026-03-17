@@ -37,9 +37,10 @@ Outdated risk models that require weeks to recalibrate.
 Intermediary bottlenecks that kill velocity.
 
 This is where most wealth structures silently leak between 
-8
-0 and 2
-5
+
+80 and 
+
+25
 0 basis points per year.
 
 Agentic liquidity eliminates these weaknesses by deleting the human dependency loop.
@@ -102,10 +103,10 @@ Major shifts include:
 -  machine priced credit spreads, not human approximations When balance sheet optimization power adjusts dynamically, the system can surface hidden liquidity trapped inside the balance sheet.
 
 This can expand real usable leverage capacity by 
-1
-8 to 
-4
-2 percent depending on the asset class stack.
+
+18 to 
+
+42 percent depending on the asset class stack.
 
 In a Buy Borrow Die strategy, that is equivalent to compressing decades of equity harvesting into a predictable pipeline of agent orchestrated draw events.
 
@@ -199,19 +200,31 @@ In a Buy Borrow Die system, this means your leverage envelope is always safe and
 
 ## The Liquidity Flywheel Created by Agentic Systems Once agentic liquidity is in place, the structure becomes a flywheel. 
 
-1. Assets generate value. 
+1.
 
-2. AI updates collateral capacity. 
+Assets generate value. 
+
+2.
+
+AI updates collateral capacity. 
 
 3. balance sheet optimization power increases. 
 
-4. Tax optimized leverage is drawn. 
+4.
 
-5. New capital is allocated into opportunity assets. 
+Tax optimized leverage is drawn. 
 
-6. Agents reevaluate the entire system. 
+5.
 
-7. The cycle repeats autonomously.
+New capital is allocated into opportunity assets. 
+
+6.
+
+Agents reevaluate the entire system. 
+
+7.
+
+The cycle repeats autonomously.
 
 The flywheel compounds without needing human intervention.
 
@@ -257,7 +270,9 @@ The rest will operate in slow motion.
 ## What This Means for Capital Builders, Principals, and Family Offices Agentic Asset-Based Lending creates: 
 -  higher balance sheet optimization capacity 
 -  lower risk exposure 
--  faster liquidity Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+-  faster liquidity Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.
 -  precision tax optimization 
 -  automated compliance 
 -  predictable leverage cycles But the bigger insight is this.
@@ -268,7 +283,9 @@ This is not financial advice.
 
 This is infrastructure.
 
-The Buy Borrow Die strategy becomes executable at a level that human teams simply cannot match. ## ## 
+The Buy Borrow Die strategy becomes executable at a level that human teams simply cannot match. 
+
+ 
 
 ## CONCLUSION
 
@@ -292,4 +309,6 @@ This is the new infrastructure.
 
 This is how modern capital compounds at scale.
 
-Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

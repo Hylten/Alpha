@@ -11,14 +11,14 @@ The capital vacuum across private markets is not a function of asset deteriorati
 Institutional GPs are operating in a regime where traditional capital recycling models no longer align with velocity requirements, underwriting horizons, or the cost of duration risk.
 
 The firms that maintain operational sovereignty through 20
-2
-6 are those that transition to AI-first liquidity systems rather than relying on legacy capital formation cycles. ## ## ## ## ## 
 
-## THE REGIME SHIFT
+26 are those that transition to AI-first liquidity systems rather than relying on legacy capital formation cycles.
+
+THE REGIME SHIFT
 
  The post‑20
-2
-4 capital regime is defined by three converging pressures that are reshaping institutional GP operations.
+
+24 capital regime is defined by three converging pressures that are reshaping institutional GP operations.
 
 First is the liquidity compression driven by refinance congestion.
 
@@ -46,9 +46,9 @@ This transforms liquidity from a downstream output to a programmable input.
 
 The firms that internalize this shift establish structural advantage.
 
-The firms that do not face compounded liquidity decay. ## ## ## ## ## 
+The firms that do not face compounded liquidity decay.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  The technical architecture of AI-first liquidity is defined by three layers: data structuring, collateral intelligence, and operating algorithms.
 
@@ -132,7 +132,9 @@ The partnership model centers on institutional introductions, capital stack inte
 
 The firm does not promote transactions.
 
-It provides the informational scaffolding that enables allocators to determine where structural alignment exists and where it does not. ## ## 
+It provides the informational scaffolding that enables allocators to determine where structural alignment exists and where it does not. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship in institutional capital is the discipline of resource alignment.
 
@@ -182,7 +184,9 @@ AI-first liquidity architecture is therefore not a technological preference.
 
 It is a stewardship mandate.
 
-It eliminates waste, maximizes informational precision, and supports the long-term health of the capital ecosystem. ## ## 
+It eliminates waste, maximizes informational precision, and supports the long-term health of the capital ecosystem. 
+
+ 
 
 ## THE DECISION-MAKING LENS Institutional allocators evaluating AI-first liquidity systems require a framework that integrates operational intelligence, balance sheet architecture, and partnership alignment.
 
@@ -218,4 +222,6 @@ The objective is to provide institutional clarity, not promotion.
 
 The output is a neutral map of the allocator’s structural position within the current capital regime and the pathways available for advancing liquidity sovereignty. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

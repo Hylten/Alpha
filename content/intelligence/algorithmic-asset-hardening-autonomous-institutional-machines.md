@@ -355,4 +355,6 @@ But the machine extends the principal’s reach.
 
 The institution becomes a living asset.
 
-Mandatory directive: Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Mandatory directive: Access is restricted to approved mandates.
+
+Minimum mandate depth: $5M+ target size.

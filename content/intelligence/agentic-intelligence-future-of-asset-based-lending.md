@@ -14,9 +14,9 @@ Agentic intelligence changes this regime.
 
 The next generation of asset based lending is defined by autonomous systems that interpret collateral performance in real time, restructure availability curves, and eliminate human delay within credit decision cycles.
 
-The allocator landscape is entering a structural recalibration phase where liquidity is no longer a function of bank appetite but of computational capability. ## ## ## ## ## 
+The allocator landscape is entering a structural recalibration phase where liquidity is no longer a function of bank appetite but of computational capability.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  The institutional lending ecosystem has entered a post consensus environment.
 
@@ -42,9 +42,9 @@ The lender operating system is slower than the borrower operating environment.
 
 This gap produces a persistent liquidity deficit that compounds across sectors.
 
-As allocators observe this divergence, a new category emerges: AI defined Asset-Based Lending systems. ## ## ## ## ## 
+As allocators observe this divergence, a new category emerges: AI defined Asset-Based Lending systems.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  OF AI DRIVEN Asset-Based Lending Agentic intelligence reframes asset based lending from a rules based underwriting activity into a dynamic Capital Structuring discipline.
 
@@ -96,9 +96,9 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within th
 
 The role is institutional alignment rather than credit origination.
 
-The firm evaluates operator needs, collateral structures, and time sensitive liquidity challenges, then identifies the most suitable AI oriented credit partners and platforms. ## 
+The firm evaluates operator needs, collateral structures, and time sensitive liquidity challenges, then identifies the most suitable AI oriented credit partners and platforms.
 
-## INTRODUCTION
+INTRODUCTION
 
  is based on operational intelligence and institutional fit.
 
@@ -110,7 +110,9 @@ The company utilizes continuous field telemetry, decline curve recalibration, an
 
 When allocators understand the NAEOCC execution framework, they often recognize similar principles at work in advanced private credit systems.
 
-The partnership model therefore focuses on structural clarity, counterparty alignment, and ensuring that allocators receive transparent access to the operational mechanics of any AI driven lending environment. ## ## 
+The partnership model therefore focuses on structural clarity, counterparty alignment, and ensuring that allocators receive transparent access to the operational mechanics of any AI driven lending environment. 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an aesthetic virtue.
 
@@ -137,7 +139,9 @@ This stewardship filter becomes a information asymmetry advantage in an environm
 
 Asset-Backed Frameworks grounded in continuous visibility is inherently more sustainable than structures reliant on episodic reporting.
 
-The emerging institutional archetype is the allocator who prioritizes informational stewardship over yield hunting. ## ## 
+The emerging institutional archetype is the allocator who prioritizes informational stewardship over yield hunting. 
+
+ 
 
 ## DECISION MAKING LENS FOR THE ALLOCATOR The transition toward agentic Asset-Based Lending is not a thematic shift.
 
@@ -160,4 +164,6 @@ The next generation of asset based lending belongs to those who understand that 
 
 It is an algorithmic outcome. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
