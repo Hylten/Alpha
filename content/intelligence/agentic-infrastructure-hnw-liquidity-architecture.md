@@ -38,7 +38,7 @@ No emotional drag.
 
 Only throughput.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

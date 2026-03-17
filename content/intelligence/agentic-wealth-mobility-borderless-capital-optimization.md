@@ -20,7 +20,7 @@ Reinforcement Learning now acts as the architectural equalizer.
 
 It replaces static models with adaptive mobility engines capable of optimizing capital exposure continuously.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -30,9 +30,7 @@ These engines challenge the legacy division between onshore and offshore structu
 
 The second structural component is the emergence of Institutional Liquidity Paths as a core function in both private equity and UHNW balance sheet strategy.
 
-Reinforcement Learning 
-
-## AGENTS OPERAT
+Reinforcement Learning AGENTS OPERAT
 
 E
 
@@ -206,9 +204,7 @@ Fifth phase.
 
 Exit timing.
 
-Reinforcement 
-
-## AGENTS OPERAT
+Reinforcement AGENTS OPERAT
 
 E
 

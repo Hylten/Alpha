@@ -60,9 +60,9 @@ A dynasty protocol.
 
 For this protocol to hold, liquidity must become autonomous.
 
-Below is the principal‑level design. 
+Below is the principal‑level design.
 
-## FOUNDATION: SHIFT FROM BALANCE‑SHEET LENDING TO AGENTIC CREDIT FORMATION The first principle is simple: liquidity should originate inside the portfolio, not outside it
+FOUNDATION: SHIFT FROM BALANCE‑SHEET LENDING TO AGENTIC CREDIT FORMATION The first principle is simple: liquidity should originate inside the portfolio, not outside it
 
 .
 
@@ -122,15 +122,15 @@ Liquidity becomes predictable.
 
 Predictability compounds return cycles.
 
-Compounded cycles build dynastic capital. 
+Compounded cycles build dynastic capital.
 
-## THE CREDIT ENGINE: FUND‑III’S AGENTIC Asset-Based Lending STACK Fund‑III requires a sovereign‑grade liquidity chassis
+THE CREDIT ENGINE: FUND‑III’S AGENTIC Asset-Based Lending STACK Fund‑III requires a sovereign‑grade liquidity chassis
 
 .
 
-Agentic Asset-Based Lending provides the architecture in four layers.
+Agentic Asset-Based Lending provides the architecture in four layers. 
 
-# Layer I: .
+### Layer I: .
 
 Data Extraction The system scrapes structured and unstructured inputs with autonomous ingestion engines.
 
@@ -150,9 +150,9 @@ Vendor histories.
 
 Regulatory filings.
 
-All processed into normalized vectors.
+All processed into normalized vectors. 
 
-# Layer II: .
+### Layer II: .
 
 Collateral Modeling AI agents perform collateral triangulation.
 
@@ -162,9 +162,9 @@ The model tags each asset with a liquidity coefficient.
 
 High‑coefficient assets serve as primary collateral.
 
-Low‑coefficient assets round out stability layers.
+Low‑coefficient assets round out stability layers. 
 
-# Layer III: .
+### Layer III: .
 
 Dynamic Underwriting No loan packages.
 
@@ -178,9 +178,9 @@ The shell recalculates risk scores at minute‑scale intervals.
 
 Borrowing capacity shifts instantly.
 
-Credit triggers fire automatically.
+Credit triggers fire automatically. 
 
-# Layer IV: .
+### Layer IV: .
 
 Continuous Covenant Enforcement Covenants do not exist as static clauses.
 
@@ -198,9 +198,9 @@ The system adjusts borrowing power or collateral demands in seconds.
 
 This eliminates the catastrophic risk associated with periodic reviews.
 
-Risk becomes a real‑time function, not a lagging artifact. 
+Risk becomes a real‑time function, not a lagging artifact.
 
-## THE BUY‑BORROW‑DIE FRAMEWORK UNDER AI Institutional BBD cycles suffer from three structural issues:
+THE BUY‑BORROW‑DIE FRAMEWORK UNDER AI Institutional BBD cycles suffer from three structural issues:
 
  
 
@@ -222,7 +222,7 @@ I.
 
 The Buy 
 
-# Phase C
+### Phase C
 
 apital allocates into target assets-energy assets, private credit deals, operating companies, real assets-without waiting for liquidity windows.
 
@@ -262,9 +262,9 @@ Dynasty secured.
 
 * 
 
-* activated. 
+* activated.
 
-## JURISDICTIONAL ARBITRAGE: WHERE AGENTIC LIQUIDITY WINS Most institutions overlook the structural arbitrage unlocked by AI‑driven Asset-Based Lending
+JURISDICTIONAL ARBITRAGE: WHERE AGENTIC LIQUIDITY WINS Most institutions overlook the structural arbitrage unlocked by AI‑driven Asset-Based Lending
 
 .
 
@@ -310,9 +310,9 @@ Fund‑III becomes sovereign‑neutral.
 
 Crisis‑resistant.
 
-Arbitrage‑driven. 
+Arbitrage‑driven.
 
-## INSTITUTIONAL Hierarchical Dynamics: WINNERS VS OBSOLETE STRUCTURES Agentic Asset-Based Lending creates institutional separation in three dimensions
+INSTITUTIONAL Hierarchical Dynamics: WINNERS VS OBSOLETE STRUCTURES Agentic Asset-Based Lending creates institutional separation in three dimensions
 
 .
 
@@ -342,9 +342,9 @@ Machine‑driven credit is exponential.
 
 Institutions that adopt agentic liquidity outcompete by pure velocity.
 
-Institutions that delay are replaced by their own inefficiencies. 
+Institutions that delay are replaced by their own inefficiencies.
 
-## ALGORITHMIC DEAL FLOW: THE NEW EDGE Deal flow becomes predictable when liquidity is callable on demand
+ALGORITHMIC DEAL FLOW: THE NEW EDGE Deal flow becomes predictable when liquidity is callable on demand
 
 .
 
@@ -374,9 +374,9 @@ Better sourcing.
 
 Better pricing.
 
-Better sequencing. 
+Better sequencing.
 
-## TECHNICAL DOMINANCE: WHY THIS MODEL WINS The institution that masters agentic liquidity achieves three forms of dominance.
+TECHNICAL DOMINANCE: WHY THIS MODEL WINS The institution that masters agentic liquidity achieves three forms of dominance.
 
  
 
@@ -398,9 +398,9 @@ Independence from external gatekeepers.
 
 Leverage on command.
 
-This is the Roials‑Alpha doctrine: dominance through architecture, not negotiation. 
+This is the Roials‑Alpha doctrine: dominance through architecture, not negotiation.
 
-## THE HARD PROBLEM: HUMAN FRICTION REMOVAL Every institution claims to be efficient
+THE HARD PROBLEM: HUMAN FRICTION REMOVAL Every institution claims to be efficient
 
 .
 
@@ -424,9 +424,9 @@ The principal mandate is simple: strip human friction.
 
 Preserve human judgment only for governance and black‑swan adjudication.
 
-Everything else flows through the agentic layer. 
+Everything else flows through the agentic layer.
 
-## THE FUND‑III IMPERATIVE Fund‑III is positioned to become the first large‑scale deployment of fully autonomous Asset-Based Lending inside a private institutional structure
+THE FUND‑III IMPERATIVE Fund‑III is positioned to become the first large‑scale deployment of fully autonomous Asset-Based Lending inside a private institutional structure
 
 .
 

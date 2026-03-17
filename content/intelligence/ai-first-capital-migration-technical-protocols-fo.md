@@ -6,11 +6,7 @@ author: "Jonas Hyltén"
 slug: "ai-first-capital-migration-technical-protocols-fo"
 --- 
 
-# AI-First Capital Migration
-
- 
-
-## Technical Protocols for Global Wealth The current capital landscape is no longer a market
+# AI-First Capital Migration Technical Protocols for Global Wealth The current capital landscape is no longer a market
 
 .
 
@@ -29,9 +25,7 @@ It is written for those who control capital.
 Not for those who service it.
 1.
 
-The Epoch Shift 
-
-## AI as the New Clearing Layer AI has become the silent clearing layer beneath every capital transfer
+The Epoch Shift AI as the New Clearing Layer AI has become the silent clearing layer beneath every capital transfer
 
 .
 
@@ -130,9 +124,7 @@ Aligned structures produce:
 - Greater inter-jurisdictional portability When structure is right, capital moves without turbulence.
 4.
 
-Algorithmic Deal Origination 
-
-## The Jonas Hyltén Protocols Jonas Hyltén’s contribution is not mere technology
+Algorithmic Deal Origination The Jonas Hyltén Protocols Jonas Hyltén’s contribution is not mere technology
 
 .
 
@@ -381,13 +373,13 @@ The Three Layers of Roials-Alpha Intelligence Roials-Alpha operates through laye
 
 Observation 
 
-# Layer C
+### Layer C
 
 ontinuous scanning of issuers, institutions, collateral flows, and counterparty signals.
 
 This 
 
-# Layer ID: entifies turbulence before it manifests as loss.
+### Layer ID: entifies turbulence before it manifests as loss.
 
  
 11. 
@@ -502,20 +494,14 @@ Cross-border adaptability upgrades The protocol is living.
 
 It evolves.
 
-It aligns with 
-
-## THE MANDAT
+It aligns with THE MANDAT
 
 E
 
  of long-term stewardship.
 15.
 
-CONCLUSION
-
- 
-
-## The Principal’s Future Capital is no longer static wealth
+CONCLUSION The Principal’s Future Capital is no longer static wealth
 
 .
 

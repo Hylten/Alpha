@@ -152,11 +152,9 @@ Instead, it provides:
 
 - Deal flow filtration
 
-- Operational intelligence This partnership model is designed to reduce misalignment, eliminate information asymmetry, and provide high net worth allocators with the same analytical precision traditionally reserved for institutional desks. 
+- Operational intelligence This partnership model is designed to reduce misalignment, eliminate information asymmetry, and provide high net worth allocators with the same analytical precision traditionally reserved for institutional desks.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is defined as responsible resource allocation supported by disciplined risk management and respect for capital
+THE STEWARDSHIP FILTER Stewardship is defined as responsible resource allocation supported by disciplined risk management and respect for capital
 
 .
 
@@ -184,11 +182,9 @@ Principles include:
 
 High velocity systems require greater discipline, not less.
 
-The agentic architecture enforces governance through automated compliance screens, transaction logging, and scenario testing that prevents misallocation. 
+The agentic architecture enforces governance through automated compliance screens, transaction logging, and scenario testing that prevents misallocation.
 
- 
-
-## PORTFOLIO CALIBRATION LENS The allocator evaluating agentic liquidity systems must assess three structural factors:
+PORTFOLIO CALIBRATION LENS The allocator evaluating agentic liquidity systems must assess three structural factors:
 
  
 

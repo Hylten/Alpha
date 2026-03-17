@@ -88,7 +88,7 @@ The model builds itself through:
 
 • Machine-learned recovery curves Each 
 
-# Layer C: ompounds
+### Layer C: ompounds
 
 .
 
@@ -98,9 +98,9 @@ Asset-Based Lending becomes a computational exercise.
 
 Credit becomes an engineering function.
 
-Liquidity becomes programmable. 
+Liquidity becomes programmable.
 
-## THE THREE-PILLAR STACK: AI, COLLATERAL, JURISDICTION Emerging markets reward structural intelligence
+THE THREE-PILLAR STACK: AI, COLLATERAL, JURISDICTION Emerging markets reward structural intelligence
 
 .
 
@@ -176,9 +176,9 @@ That corridor becomes the lending perimeter.
 
 Together these elements form a sovereign-grade lending engine.
 
-The more chaotic the market, the stronger the advantage. 
+The more chaotic the market, the stronger the advantage.
 
-## THE SILENT INFRASTRUCTURE: INVISIBLE, AUTONOMOUS, INEVITABLE No press releases
+THE SILENT INFRASTRUCTURE: INVISIBLE, AUTONOMOUS, INEVITABLE No press releases
 
 .
 
@@ -212,9 +212,9 @@ The return profile exceeds private credit benchmarks because the engine is adapt
 
 In this model, lenders do not chase deals.
 
-Deals seek the system. 
+Deals seek the system.
 
-## FAMILY OFFICE ALIGNMENT: THE Fund-III CONFIGURATION UHNW and HNW family offices operate with a different calculus
+FAMILY OFFICE ALIGNMENT: THE Fund-III CONFIGURATION UHNW and HNW family offices operate with a different calculus
 
 .
 
@@ -248,9 +248,9 @@ Converts emerging-market disorder into predictable monthly distributions.
 
 Discipline becomes engineered.
 
-Not requested. 
+Not requested.
 
-## DEAL FLOW ENGINEERING: ALGORITHMIC SOURCING Human-led origination is slow
+DEAL FLOW ENGINEERING: ALGORITHMIC SOURCING Human-led origination is slow
 
 .
 
@@ -296,9 +296,9 @@ The model constantly refreshes.
 
 New borrowers enter as signals shift.
 
-The algorithm ensures one outcome: deal flow remains full, weighted, and filtered. 
+The algorithm ensures one outcome: deal flow remains full, weighted, and filtered.
 
-## THE ENFORCEMENT DELTA: THE ONLY TRUE EDGE Every credit strategy ultimately tests enforcement
+THE ENFORCEMENT DELTA: THE ONLY TRUE EDGE Every credit strategy ultimately tests enforcement
 
 .
 
@@ -326,9 +326,9 @@ The smaller the delta, the more scalable the strategy.
 
 The smaller the delta, the more the capital stack.
 
-Fund-III is engineered to minimize the delta through systemic discipline, not human negotiation. 
+Fund-III is engineered to minimize the delta through systemic discipline, not human negotiation.
 
-## COUNTRY-SPECIFIC DYNAMICS: EMERGING MARKET ADVANTAGE AI-driven Asset-Based Lending thrives in countries with
+COUNTRY-SPECIFIC DYNAMICS: EMERGING MARKET ADVANTAGE AI-driven Asset-Based Lending thrives in countries with
 
 :
 
@@ -358,9 +358,9 @@ This is not theoretical.
 
 It is replicable.
 
-The model scales with each dataset expansion. 
+The model scales with each dataset expansion.
 
-## INFRASTRUCTURE-LAYER TECH: THE CORE STACK The silent infrastructure is not a platform
+INFRASTRUCTURE-LAYER TECH: THE CORE STACK The silent infrastructure is not a platform
 
 .
 
@@ -404,9 +404,9 @@ Not operational.
 
 Not tactical.
 
-The model consumes data and converts it into enforceable liquidity. 
+The model consumes data and converts it into enforceable liquidity.
 
-## THE FUTURE MAP: CROSS-MARKET EXPANSION AI-driven Asset-Based Lending becomes the default credit rail for
+THE FUTURE MAP: CROSS-MARKET EXPANSION AI-driven Asset-Based Lending becomes the default credit rail for
 
 :
 
@@ -442,9 +442,9 @@ Collateral forms the trust layer.
 
 Enforcement forms the moat.
 
-Fund-III becomes the institutional vessel executing at scale. 
+Fund-III becomes the institutional vessel executing at scale.
 
-## MANDATE Deploy capital into intelligence
+MANDATE Deploy capital into intelligence
 
 .
 

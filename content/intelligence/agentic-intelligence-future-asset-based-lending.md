@@ -78,9 +78,7 @@ Multi Agent Underwriting Credit analysis is decomposed into specialized sub agen
 
 • Liquidity pathway agents
 
-• Covenant alignment agents These 
-
-## AGENTS OPERAT
+• Covenant alignment agents These AGENTS OPERAT
 
 E
 
@@ -178,11 +176,9 @@ These stacks can incorporate senior secured positions, portfolio level diversifi
 
 The partnership model is a mechanism for navigating complexity rather than distributing product.
 
-It acts as a form of operational intelligence that connects allocators to next generation credit infrastructure. 
+It acts as a form of operational intelligence that connects allocators to next generation credit infrastructure.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital markets is the discipline of aligning resources with long term productive value
+THE STEWARDSHIP FILTER Stewardship in capital markets is the discipline of aligning resources with long term productive value
 
 .
 
@@ -206,17 +202,9 @@ Stewardship also includes institutional risk management.
 
 Agentic architectures provide this by creating continuous visibility into collateral performance.
 
-This level of oversight reduces default volatility and protects balance sheet integrity. 
+This level of oversight reduces default volatility and protects balance sheet integrity.
 
- 
-
-## THE
-
- 
-
- 
-
-## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating agentic credit systems require a framework that aligns improvements in operational efficiency with institutional constraints
+THE DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating agentic credit systems require a framework that aligns improvements in operational efficiency with institutional constraints
 
 .
 

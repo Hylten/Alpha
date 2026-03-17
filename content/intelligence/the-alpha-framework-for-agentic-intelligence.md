@@ -36,9 +36,9 @@ Roials-Alpha is engineered only for the top decile of wealth.
 
 The Alpha Framework for Agentic Intelligence is the internal philosophy that drives the system.
 
-It is the behind-the-curtain layer that transforms capital into computation and computation into directional advantage. 
+It is the behind-the-curtain layer that transforms capital into computation and computation into directional advantage.
 
-## Why High Net Worth Capital Works Differently Inside the Alpha Framework We state this openly
+Why High Net Worth Capital Works Differently Inside the Alpha Framework We state this openly
 
 .
 
@@ -76,9 +76,9 @@ They discover that the Alpha Framework turns collateral into a programmable asse
 
 This is the shift.
 
-This is the silent technical advantage. 
+This is the silent technical advantage.
 
-## The Agentic Core: Turning Collateral Into Computation The Alpha Framework uses the concept of capital as code
+The Agentic Core: Turning Collateral Into Computation The Alpha Framework uses the concept of capital as code
 
 .
 
@@ -112,9 +112,9 @@ This is why our thresholds exist.
 
 The Alpha Framework does not operate on noise.
 
-It operates on structural capital behaviour. 
+It operates on structural capital behaviour.
 
-## Private Credit Inside the Alpha Framework Private credit is the most stable domain for agentic intelligence
+Private Credit Inside the Alpha Framework Private credit is the most stable domain for agentic intelligence
 
 .
 
@@ -144,9 +144,9 @@ Dynamic.
 
 Self-regulating.
 
-Always ready for deployment. 
+Always ready for deployment.
 
-## Asset Based Monetization Architecture Inside the Alpha Framework Asset based Strategic Collateralization is the structural backbone of the framework
+Asset Based Monetization Architecture Inside the Alpha Framework Asset based Strategic Collateralization is the structural backbone of the framework
 
 .
 
@@ -178,9 +178,9 @@ Leverage stacking.
 
 Credit rotation.
 
-All without the drag that traditional lenders impose. 
+All without the drag that traditional lenders impose.
 
-## Crypto Capital Structuring at Institutional Scale Crypto Monetization Architecture begins at
+Crypto Capital Structuring at Institutional Scale Crypto Monetization Architecture begins at
 
  
 2 million USD for a reason.
@@ -203,9 +203,9 @@ This is rare.
 
 This is quiet.
 
-This is structural. 
+This is structural.
 
-## Public Share Institutional Liquidity Paths at
+Public Share Institutional Liquidity Paths at
 
  
 5 Million Minimum Equity portfolios above 
@@ -229,9 +229,9 @@ The liquidity becomes agile.
 
 This is where principal authority becomes visible.
 
-The system understands the behaviour of the asset class at the scale where institutions operate. 
+The system understands the behaviour of the asset class at the scale where institutions operate.
 
-## The Alpha Effect: Turning Liquidity Into Silent Power When agentic intelligence is combined with private credit and asset based Institutional Liquidity Paths the outcome is transformative
+The Alpha Effect: Turning Liquidity Into Silent Power When agentic intelligence is combined with private credit and asset based Institutional Liquidity Paths the outcome is transformative
 
 .
 
@@ -249,9 +249,9 @@ The ability to turn collateral into action.
 
 This is the essence of the Alpha Framework.
 
-Agentic intelligence with structural capital authority. 
+Agentic intelligence with structural capital authority.
 
-## The Roials Position We do not market aggressively
+The Roials Position We do not market aggressively
 
 .
 
@@ -271,9 +271,9 @@ principal authority.
 
 No noise.
 
-Only structure. 
+Only structure.
 
-## The Next Evolution: Multi Agent Capital Systems The Alpha Framework is only the first layer
+The Next Evolution: Multi Agent Capital Systems The Alpha Framework is only the first layer
 
 .
 
@@ -293,11 +293,9 @@ All orchestrated by a master capital agent.
 
 This is where the industry is heading.
 
-Roials-Alpha is building the infrastructure early. 
+Roials-Alpha is building the infrastructure early.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

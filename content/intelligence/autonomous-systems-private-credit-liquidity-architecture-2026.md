@@ -18,7 +18,7 @@ They represent the most significant inflection point for capital markets since t
 
 What differentiates the current cycle is the convergence between algorithmic policy execution, machine mediated underwriting, and architected liquidity pathways designed for HNWI and UHNW capital.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -184,9 +184,9 @@ Advance Calculation Advance rates are dynamic, not fixed.
 
 60 percent given moderate volatility.
 
-This yields an initial liquidity allocation of 40.2M.
+This yields an initial liquidity allocation of 40.2M. 
 
-# Phase I: V
+### Phase I: V
 
 Capital Expansion Through Recursive Liquidity The system identifies an opportunity to enhance capital efficiency through secondary collateralization.
 
@@ -194,9 +194,9 @@ By integrating energy telemetry signals tied to the facility's power management 
 
 This classification increases stability coefficients and allows an additional 6M of liquidity.
 
-Total engineered liquidity: 46.2M.
+Total engineered liquidity: 46.2M. 
 
-# Phase V
+### Phase V
 
 Investor Yield Mapping Investors are segmented into three categories based on UHNW liquidity planning vectors:
 
@@ -212,9 +212,9 @@ For Category B investors, yield is optimized through a 14.
 3 percent risk adjusted curve derived from transaction velocity.
 
 For Category A investors, stability coefficients generate a 10.
-1 percent curve.
+1 percent curve. 
 
-# Phase V: I
+### Phase V: I
 
 Execution The autonomous system finalizes the liquidity architecture in under
 

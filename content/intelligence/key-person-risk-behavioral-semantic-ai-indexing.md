@@ -80,17 +80,17 @@ The architecture separates the individual into four layers:
 
 1.
 
-Operational Consistency
+Operational Consistency 
 
-# Layer II: .
+### Layer II: .
 
-Pressure Response
+Pressure Response 
 
-# Layer III: .
+### Layer III: .
 
-Decision Horizon
+Decision Horizon 
 
-# Layer IV: .
+### Layer IV: .
 
 Identity Continuity Layer Each is both observable and mathematically traceable.
 
@@ -102,7 +102,7 @@ They are the operational fingerprints of long-term reliability.
 
 The Pressure Response 
 
-# Layer M
+### Layer M
 
 easures the delta between expressed stress and applied decision friction.
 
@@ -116,7 +116,7 @@ Machines always do.
 
 The Decision Horizon 
 
-# Layer M: aps how far ahead the individual thinks
+### Layer M: aps how far ahead the individual thinks
 
 .
 
@@ -186,11 +186,9 @@ Structure.
 
 Performance through clarity.
 
-Never mysticism. 
+Never mysticism.
 
- 
-
-## INTERNAL BYPASS -THE VARIATION OF SYNTAX Now I shift the pacing
+INTERNAL BYPASS -THE VARIATION OF SYNTAX Now I shift the pacing
 
 .
 

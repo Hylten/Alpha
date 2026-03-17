@@ -164,11 +164,9 @@ Where the asset class intersects with North American energy, Roials Capital dire
 
 NAEO operates within Alberta’s geology, regulatory structures, and technical recovery frameworks with precision discipline.
 
-The combination of algorithmic deal selection and technical asset intelligence creates a uniquely stable environment for asset backed lending within the sector. 
+The combination of algorithmic deal selection and technical asset intelligence creates a uniquely stable environment for asset backed lending within the sector.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an ethical posture
+THE STEWARDSHIP FILTER Stewardship in capital allocation is not an ethical posture
 
 .
 
@@ -196,11 +194,9 @@ Stewardship in this context is measured through:
 
 The AI-native asset based finance environment is the first ecosystem capable of operationalizing these principles at scale.
 
-It transforms stewardship from intention into executable policy. 
+It transforms stewardship from intention into executable policy.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR HNWI and UHNW allocators evaluating their 2026 posture face a bifurcation
+DECISION MAKING LENS FOR THE ALLOCATOR HNWI and UHNW allocators evaluating their 2026 posture face a bifurcation
 
 .
 

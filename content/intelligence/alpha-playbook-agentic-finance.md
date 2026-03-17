@@ -74,9 +74,9 @@ TECHNICAL MECHANICS
 
 It uses structured data, continuous risk scoring, and machine executed diligence to eliminate the human latency that traditionally defines private capital markets.
 
-There are four operational layers.
+There are four operational layers. 
 
-# Layer I
+### Layer I
 
 Algorithmic Deal Flow Architecture The core premise is that deal sourcing is no longer human curated.
 
@@ -98,9 +98,9 @@ Inputs include:
 
 - commodity linked cash flow signatures
 
-- legal filings and lien actions Structured correctly, these data sets generate pre underwritten deal candidates before a human analyst is even aware the asset is in motion.
+- legal filings and lien actions Structured correctly, these data sets generate pre underwritten deal candidates before a human analyst is even aware the asset is in motion. 
 
-# Layer I: I
+### Layer I: I
 
 AI First Credit Underwriting The credit model is built on three core pillars.
 
@@ -122,9 +122,9 @@ This functions as recovery factor modeling for credit.
 
 Continuous LTV Recalibration Loan to Value becomes dynamic rather than static.
 
-The system recalculates LTV daily, adjusting internal capital allocation rules and early warning signals.
+The system recalculates LTV daily, adjusting internal capital allocation rules and early warning signals. 
 
-# Layer II: I
+### Layer II: I
 
 Autonomous Monitoring Systems Monitoring is not quarterly reporting.
 
@@ -142,9 +142,9 @@ Operational telemetry includes:
 
 - legal perimeter movements
 
-- borrower behavioral patterns The result is a portfolio that is risk managed by system integrity rather than manual oversight.
+- borrower behavioral patterns The result is a portfolio that is risk managed by system integrity rather than manual oversight. 
 
-# Layer I: V
+### Layer I: V
 
 Machine Directed Execution This includes payment flows, enforcement workflows, document autonomous infrastructure, lien registration, and restructuring pathways.
 
@@ -184,11 +184,9 @@ Alignment Engineering The allocator receives clarity on structure, partner selec
 
 There is no product distribution.
 
-The function is strategic alignment. 
+The function is strategic alignment.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is treated as a discipline of resource efficiency rather than ideology
+THE STEWARDSHIP FILTER Stewardship is treated as a discipline of resource efficiency rather than ideology
 
 .
 
@@ -222,17 +220,9 @@ It is the elimination of misalignment.
 
 It prevents allocators from participating in complexity masquerading as sophistication.
 
-It ensures the portfolio reflects the allocator's strategic archetype. 
+It ensures the portfolio reflects the allocator's strategic archetype.
 
- 
-
-## THE
-
- 
-
- 
-
-## DECISION MAKING LENS FOR ALLOCATORS Agentic finance is not a trend
+THE DECISION MAKING LENS FOR ALLOCATORS Agentic finance is not a trend
 
 .
 

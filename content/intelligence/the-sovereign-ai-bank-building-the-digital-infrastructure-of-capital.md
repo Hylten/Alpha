@@ -20,9 +20,9 @@ This is the new sovereign layer.
 
 A fully agentic capital stack.
 
-A governance free liquidity engine. 
+A governance free liquidity engine.
 
-## The New Topology of Wealth Engineering HNWI and UHNW clients are no longer consumers of financial services
+The New Topology of Wealth Engineering HNWI and UHNW clients are no longer consumers of financial services
 
 .
 
@@ -38,9 +38,9 @@ The modern wealth class requires a computational approach to capital, one capabl
 
 The Sovereign AI Bank is not a metaphor.
 
-It is the structural reality created when capital is automated. 
+It is the structural reality created when capital is automated.
 
-## Private Credit and Asset-Based Lending as the Core Liquidity Engine Liquidity begins with collateral
+Private Credit and Asset-Based Lending as the Core Liquidity Engine Liquidity begins with collateral
 
 .
 
@@ -60,9 +60,9 @@ The result is engineered liquidity, constructed from a collateral model rather t
 
 This framework transforms the individual into their own financing vehicle, similar to the internal structures of institutional funds but tailored to personal sovereignty.
 
-The Sovereign AI Bank replaces dependence with infrastructure. 
+The Sovereign AI Bank replaces dependence with infrastructure.
 
-## The Crypto Monetization Architecture Threshold of Agency Crypto Institutional Liquidity Paths begins at two million dollars
+The Crypto Monetization Architecture Threshold of Agency Crypto Institutional Liquidity Paths begins at two million dollars
 
 .
 
@@ -88,9 +88,9 @@ The client enters a position of capital independence.
 
 The collateral becomes subordinated to the intelligence of the system.
 
-This is where digital assets become part of a sovereign capital infrastructure instead of merely an investment class. 
+This is where digital assets become part of a sovereign capital infrastructure instead of merely an investment class.
 
-## Public Share Strategic Collateralization for Strategic Actors Public share Capital Structuring initiates at five million dollars
+Public Share Strategic Collateralization for Strategic Actors Public share Capital Structuring initiates at five million dollars
 
 .
 
@@ -110,9 +110,9 @@ Or to expand an asset based Capital Structuring stack that then amplifies credit
 
 Public equities become a living collateral layer.
 
-The individual gains the ability to restructure their own wealth stack in real time, with the computational power of an institutional treasury desk. 
+The individual gains the ability to restructure their own wealth stack in real time, with the computational power of an institutional treasury desk.
 
-## AI Dominance: The Agentic Mechanics of Capital AI is not an add on to the financial system
+AI Dominance: The Agentic Mechanics of Capital AI is not an add on to the financial system
 
 .
 
@@ -140,9 +140,7 @@ The result is capital that behaves like intelligence rather than like currency.
 
 In this environment, wealth is no longer static.
 
-It becomes computationally alive. 
-
-## principal authority: The Structural Mechanics for Institutional Capital Roials Alpha does not operate as a brand of noise
+It becomes computationally alive. principal authority: The Structural Mechanics for Institutional Capital Roials Alpha does not operate as a brand of noise
 
 .
 
@@ -166,9 +164,9 @@ This is a redistribution of financial capabilities.
 
 Not through disruption.
 
-Through superior design. 
+Through superior design.
 
-## High Net Worth and Ultra High Net Worth: The New Autonomy Class The distinction between HNWI and UHNW is not monetary
+High Net Worth and Ultra High Net Worth: The New Autonomy Class The distinction between HNWI and UHNW is not monetary
 
 .
 
@@ -190,9 +188,9 @@ The new autonomy class does not manage complexity.
 
 It owns the systems that manage complexity for them.
 
-Roials Alpha is one of those systems. 
+Roials Alpha is one of those systems.
 
-## The Digital Infrastructure of Capital Capital now lives inside infrastructure
+The Digital Infrastructure of Capital Capital now lives inside infrastructure
 
 .
 
@@ -222,9 +220,9 @@ Not the speed.
 
 The infrastructure defines who controls liquidity and who requests it.
 
-Roials Alpha ensures the client is on the control side of that equation. 
+Roials Alpha ensures the client is on the control side of that equation.
 
-## The Strategic Expansion of Capital When AI controls liquidity routing, capital becomes aggressive
+The Strategic Expansion of Capital When AI controls liquidity routing, capital becomes aggressive
 
 .
 
@@ -254,9 +252,9 @@ This is what individuals never had Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-Until now. 
+Until now.
 
-## The Sovereign Thesis The Sovereign AI Bank is a thesis
+The Sovereign Thesis The Sovereign AI Bank is a thesis
 
 .
 
@@ -278,11 +276,9 @@ The sovereign thesis replaces intermediaries with computation.
 
 It replaces negotiation with architecture.
 
-It replaces dependence with principal authority. 
+It replaces dependence with principal authority.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

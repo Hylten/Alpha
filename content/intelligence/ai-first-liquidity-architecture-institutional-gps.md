@@ -52,7 +52,7 @@ Each layer replaces human friction with computational precision.
 
 The first 
 
-# Layer I: s data structuring
+### Layer I: s data structuring
 
 .
 
@@ -68,7 +68,7 @@ With structured data, underwriting becomes dynamic rather than static.
 
 The second 
 
-# Layer I: s collateral intelligence
+### Layer I: s collateral intelligence
 
 .
 
@@ -84,7 +84,7 @@ This creates hard signals for liquidity release and capital allocation sequencin
 
 The third 
 
-# Layer I: s operating algorithms
+### Layer I: s operating algorithms
 
 .
 
@@ -140,11 +140,9 @@ The partnership model centers on institutional introductions, capital stack inte
 
 The firm does not promote transactions.
 
-It provides the informational scaffolding that enables allocators to determine where structural alignment exists and where it does not. 
+It provides the informational scaffolding that enables allocators to determine where structural alignment exists and where it does not.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship in institutional capital is the discipline of resource alignment
+THE STEWARDSHIP FILTER Stewardship in institutional capital is the discipline of resource alignment
 
 .
 
@@ -200,11 +198,9 @@ AI-first liquidity architecture is therefore not a technological preference.
 
 It is a stewardship mandate.
 
-It eliminates waste, maximizes informational precision, and supports the long-term health of the capital ecosystem. 
+It eliminates waste, maximizes informational precision, and supports the long-term health of the capital ecosystem.
 
- 
-
-## THE DECISION-MAKING LENS Institutional allocators evaluating AI-first liquidity systems require a framework that integrates operational intelligence, balance sheet architecture, and partnership alignment
+THE DECISION-MAKING LENS Institutional allocators evaluating AI-first liquidity systems require a framework that integrates operational intelligence, balance sheet architecture, and partnership alignment
 
 .
 

@@ -166,11 +166,9 @@ Pure alignment engineering.
 
 This neutrality creates credibility and protects the allocator from bias.
 
-It also ensures that capital flows only into structures where the underlying asset class physics, operational capacity, and data driven underwriting maintain coherence. 
+It also ensures that capital flows only into structures where the underlying asset class physics, operational capacity, and data driven underwriting maintain coherence.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a branding exercise
+THE STEWARDSHIP FILTER Stewardship is not a branding exercise
 
 .
 
@@ -202,11 +200,9 @@ AI becomes a tool for sustaining intergenerational capital architecture rather t
 
 The allocator's responsibility extends beyond the capital deployed to the structure through which capital is deployed.
 
-Sovereign AI strengthens the allocator's stewardship by enabling clean decision architecture. 
+Sovereign AI strengthens the allocator's stewardship by enabling clean decision architecture.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator navigating the 2026 landscape is confronted with a bifurcation
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator navigating the 2026 landscape is confronted with a bifurcation
 
 .
 

@@ -34,9 +34,9 @@ It converts collateral into a live, continuously verifiable, machine rated asset
 
 It transforms underwriting from historical review into autonomous forward looking Asset-Backed Frameworks.
 
-Roials Alpha operates at this frontier. 
+Roials Alpha operates at this frontier.
 
-## The Shift From Human Underwriting to Agentic Underwriting Asset-Based Lending has historically been built on static snapshots
+The Shift From Human Underwriting to Agentic Underwriting Asset-Based Lending has historically been built on static snapshots
 
 .
 
@@ -66,9 +66,9 @@ Responsive.
 
 Self optimizing.
 
-Self correcting. 
+Self correcting.
 
-## The Core Principle: Liquidity Without Permission Lag In legacy Asset-Based Lending, lenders wait for borrowers to submit information
+The Core Principle: Liquidity Without Permission Lag In legacy Asset-Based Lending, lenders wait for borrowers to submit information
 
 .
 
@@ -90,13 +90,11 @@ Key friction points eliminated:
 
 Not because trust increases, but because verification becomes continuous.
 
-The gap between collateral existence and liquidity availability compresses to near zero. 
+The gap between collateral existence and liquidity availability compresses to near zero.
 
-## Machine Level Verification: The Foundation of AI Driven Credit Agentic systems deploy multi
+Machine Level Verification: The Foundation of AI Driven Credit Agentic systems deploy multi 
 
- 
-
-# Layer V: erification stacks
+### Layer V: erification stacks
 
 .
 
@@ -120,9 +118,9 @@ Not audit cycles.
 
 Audit streaming.
 
-Asset-Based Lending facilities transition from static credit products into adaptive credit utilities. 
+Asset-Based Lending facilities transition from static credit products into adaptive credit utilities.
 
-## Continuous balance sheet optimization Base Reconstruction Traditional balance sheet optimization bases are manually assembled
+Continuous balance sheet optimization Base Reconstruction Traditional balance sheet optimization bases are manually assembled
 
 .
 
@@ -146,9 +144,9 @@ Dilution risk is recalculated at ingestion.
 
 Concentration risk is adjusted without human oversight. balance sheet optimization capacity becomes fluid.
 
-The line becomes alive. 
+The line becomes alive.
 
-## The Rise of Predictive Liquidity Once every asset in the collateral pool is machine monitored, the next evolution emerges
+The Rise of Predictive Liquidity Once every asset in the collateral pool is machine monitored, the next evolution emerges
 
 .
 
@@ -172,9 +170,7 @@ It becomes a proactive liquidity generator.
 
 Borrowers no longer request liquidity.
 
-Liquidity anticipates them. 
-
-## autonomous infrastructure First Risk Architecture Risk controls in agentic Asset-Backed Frameworks environments behave differently
+Liquidity anticipates them. autonomous infrastructure First Risk Architecture Risk controls in agentic Asset-Backed Frameworks environments behave differently
 
 .
 
@@ -202,9 +198,9 @@ Key functions:
 
 The lender does not touch the anomaly queue.
 
-The system resolves most anomalies before they become exceptions. 
+The system resolves most anomalies before they become exceptions.
 
-## Supply Chain Intelligence as Collateral Intelligence Where legacy Asset-Based Lending looked at books, agentic Asset-Based Lending looks at entire supply chains
+Supply Chain Intelligence as Collateral Intelligence Where legacy Asset-Based Lending looked at books, agentic Asset-Based Lending looks at entire supply chains
 
 .
 
@@ -228,9 +224,9 @@ Collateral is no longer viewed as isolated line items.
 
 Collateral becomes a dynamic ecosystem.
 
-Asset-Based Lending transforms into supply chain Monetization Architecture. 
+Asset-Based Lending transforms into supply chain Monetization Architecture.
 
-## Real Time Eligibility Classification Eligibility rules are traditionally hard coded
+Real Time Eligibility Classification Eligibility rules are traditionally hard coded
 
 .
 
@@ -256,9 +252,9 @@ Always verified.
 
 This removes friction for both lenders and borrowers.
 
-Liquidity becomes predictable and instantaneous. 
+Liquidity becomes predictable and instantaneous.
 
-## Credit That Learns, Adjusts, and Negotiates The most disruptive component of agentic Asset-Based Lending is negotiation
+Credit That Learns, Adjusts, and Negotiates The most disruptive component of agentic Asset-Based Lending is negotiation
 
 .
 
@@ -280,9 +276,9 @@ Examples:
 
 Borrowers get elasticity.
 
-Lenders get precision. 
+Lenders get precision.
 
-## The Alpha Curve: information asymmetry advantage Defined by Autonomy Roials Alpha positions agentic intelligence not as technology, but as capital advantage
+The Alpha Curve: information asymmetry advantage Defined by Autonomy Roials Alpha positions agentic intelligence not as technology, but as capital advantage
 
 .
 
@@ -298,9 +294,9 @@ Advantages scale in three dimensions.
 
 Lenders with agentic infrastructure will command superior collateral visibility, lower loss ratios, and higher facility velocity.
 
-Lenders without it will be priced out. 
+Lenders without it will be priced out.
 
-## Why Agentic Asset-Based Lending Wins
+Why Agentic Asset-Based Lending Wins
 
  
 
@@ -334,9 +330,9 @@ Fraud detection.
 
 Facility optimization.
 
-When these layers collapse into autonomous agents, Asset-Based Lending becomes frictionless liquidity infrastructure. 
+When these layers collapse into autonomous agents, Asset-Based Lending becomes frictionless liquidity infrastructure.
 
-## The Strategic Edge: Liquidity Decoupled From Human Bottlenecks The highest value outcome is structural
+The Strategic Edge: Liquidity Decoupled From Human Bottlenecks The highest value outcome is structural
 
 .
 
@@ -372,9 +368,9 @@ Autonomous.
 
 Relentless.
 
-Roials Alpha builds the infrastructure that makes it possible. 
+Roials Alpha builds the infrastructure that makes it possible.
 
-## The Closing Reality The market will not wait for lenders to adapt
+The Closing Reality The market will not wait for lenders to adapt
 
 .
 

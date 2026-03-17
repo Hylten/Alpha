@@ -26,9 +26,9 @@ Quietly.
 
 Deliberately.
 
-Providing the mechanical underlayer that moves institutional capital. 
+Providing the mechanical underlayer that moves institutional capital.
 
-## Public Share Institutional Liquidity Paths for the Upper Tier HNWI and UHNW clients with significant equity positions require non disruptive liquidity extraction
+Public Share Institutional Liquidity Paths for the Upper Tier HNWI and UHNW clients with significant equity positions require non disruptive liquidity extraction
 
 .
 
@@ -60,9 +60,9 @@ This is principal authority liquidity.
 
 This is capital that moves without being seen.
 
-This is what principal authority means. 
+This is what principal authority means.
 
-## The Structural Mechanics Behind Roials Alpha Roials Alpha does not compete with platforms
+The Structural Mechanics Behind Roials Alpha Roials Alpha does not compete with platforms
 
 .
 
@@ -86,9 +86,9 @@ They require reliability.
 
 They require relentless execution.
 
-Roials Alpha delivers all three, not by volume, but by architecture. 
+Roials Alpha delivers all three, not by volume, but by architecture.
 
-## The Rise of Agentic Liquidity Markets move faster than human interpretation
+The Rise of Agentic Liquidity Markets move faster than human interpretation
 
 .
 
@@ -118,9 +118,9 @@ Liquidity becomes programmable.
 
 Liquidity becomes modular.
 
-Liquidity becomes an extension of intent. 
+Liquidity becomes an extension of intent.
 
-## The Capital Hierarchy Is Shifting There are now two types of capital owners
+The Capital Hierarchy Is Shifting There are now two types of capital owners
 
 .
 
@@ -146,9 +146,9 @@ This is the new hierarchy.
 
 Those who have agentic liquidity will dominate opportunity velocity.
 
-Those who do not will lose ground silently. 
+Those who do not will lose ground silently.
 
-## The Quiet Power of Institutional Mechanics Roials Alpha does not operate loudly
+The Quiet Power of Institutional Mechanics Roials Alpha does not operate loudly
 
 .
 
@@ -176,9 +176,9 @@ Our position is intentional.
 
 Our discretion is structural.
 
-Our strength is infrastructural. 
+Our strength is infrastructural.
 
-## The Future of Capital Is Agentic The shift is permanent
+The Future of Capital Is Agentic The shift is permanent
 
 .
 
@@ -204,9 +204,9 @@ We design liquidity engines that match the intelligence of the modern market.
 
 This is not the future.
 
-This is the infrastructure of now. 
+This is the infrastructure of now.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

@@ -52,7 +52,7 @@ The sovereignty is maintained without sacrificing auditability.
 
 This increases the viability of international expansion for funds seeking global LP bases.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -126,9 +126,7 @@ It is a liquidity organism.
 
 3.
 
-CASE 
-
-## ANALYSIS: SIMULATION OF A 160M AGENTIC BUYOUT IN ENERGY AND INDUSTRIAL SERVICES Scenario: A UHNW governed family office and a mid market private equity group are pursuing a
+CASE ANALYSIS: SIMULATION OF A 160M AGENTIC BUYOUT IN ENERGY AND INDUSTRIAL SERVICES Scenario: A UHNW governed family office and a mid market private equity group are pursuing a
 
  
 

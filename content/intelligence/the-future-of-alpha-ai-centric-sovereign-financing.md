@@ -24,9 +24,9 @@ We operate in the space where high net worth capital becomes computational capit
 
 Where private credit turns into an AI governed liquidity engine.
 
-Where asset based Institutional Liquidity Paths becomes a sovereign scale leverage system. 
+Where asset based Institutional Liquidity Paths becomes a sovereign scale leverage system.
 
-## The Sovereign Mechanics of Modern Liquidity Every era of capital has an underlying physics
+The Sovereign Mechanics of Modern Liquidity Every era of capital has an underlying physics
 
 .
 
@@ -52,9 +52,9 @@ It is compute.
 
 This shift is the core of our design philosophy.
 
-Roials Alpha provides the structural mechanics that allow private balance sheets to operate with institutional velocity, without ever having to interface with institutional friction. 
+Roials Alpha provides the structural mechanics that allow private balance sheets to operate with institutional velocity, without ever having to interface with institutional friction.
 
-## Why AI Now Controls Alpha The financial world still treats liquidity as a human moderated decision
+Why AI Now Controls Alpha The financial world still treats liquidity as a human moderated decision
 
 .
 
@@ -78,9 +78,9 @@ principal authority.
 
 Structural dominance.
 
-Mechanics over marketing. 
+Mechanics over marketing.
 
-## The New Rules of Private Credit Private credit is becoming the liquidity backbone of global wealth preservation
+The New Rules of Private Credit Private credit is becoming the liquidity backbone of global wealth preservation
 
 .
 
@@ -104,9 +104,9 @@ This allows us to lend where institutions cannot.
 
 It allows clients to deploy capital while others wait for approvals.
 
-And it allows private credit to become a tactical instrument instead of a slow moving facility. 
+And it allows private credit to become a tactical instrument instead of a slow moving facility.
 
-## Asset Based Monetization Architecture Rewritten Asset-Based Lending structures have been stagnant for decades
+Asset Based Monetization Architecture Rewritten Asset-Based Lending structures have been stagnant for decades
 
 .
 
@@ -132,9 +132,9 @@ We lend against Asset-Based Lending.
 
 We turn static portfolios into dynamic liquidity engines.
 
-And we keep the structures quiet by design. 
+And we keep the structures quiet by design.
 
-## Crypto Strategic Collateralization For Clients Who Do Not Need to Ask Crypto liquidity is misunderstood by traditional finance
+Crypto Strategic Collateralization For Clients Who Do Not Need to Ask Crypto liquidity is misunderstood by traditional finance
 
 .
 
@@ -162,9 +162,9 @@ HNWI and UHNW clients use this to move in silence.
 
 To lever positions without broadcasting intent.
 
-To maintain alpha instead of funding the market with signals. 
+To maintain alpha instead of funding the market with signals.
 
-## Public Share Asset-Backed Frameworks Without Institutional Drag Public equity Monetization Architecture at scale is typically locked behind prime brokerage relationships
+Public Share Asset-Backed Frameworks Without Institutional Drag Public equity Monetization Architecture at scale is typically locked behind prime brokerage relationships
 
 .
 
@@ -186,9 +186,9 @@ It treats public shares as programmable collateral.
 
 It lends against them with structural discipline.
 
-It returns liquidity with surgical precision. 
+It returns liquidity with surgical precision.
 
-## The Rise of Agentic Finance Agentic AI is not a theoretical concept
+The Rise of Agentic Finance Agentic AI is not a theoretical concept
 
 .
 
@@ -216,9 +216,9 @@ They maintain a posture of principal authority.
 
 They offer leverage without noise.
 
-They offer liquidity without exposure. 
+They offer liquidity without exposure.
 
-## Structural Silence as a Feature HNWI and UHNW individuals operate under different constraints
+Structural Silence as a Feature HNWI and UHNW individuals operate under different constraints
 
 .
 
@@ -246,9 +246,9 @@ We maintain total discretion.
 
 principal authority is not a branding choice.
 
-It is a functional requirement for modern wealth. 
+It is a functional requirement for modern wealth.
 
-## The Future of Sovereign Financing Sovereign financing is no longer controlled by states
+The Future of Sovereign Financing Sovereign financing is no longer controlled by states
 
 .
 
@@ -276,7 +276,7 @@ It is Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-## The Roials Alpha Architecture Roials Alpha is not a lender
+The Roials Alpha Architecture Roials Alpha is not a lender
 
 .
 
@@ -292,27 +292,27 @@ High threshold crypto and public share Capital Structuring.
 
 Each 
 
-# Pillar I: s governed by AI
+### Pillar I: s governed by AI
 
 .
 
 Each 
 
-# Pillar I
+### Pillar I
 
 s structured to give clients leverage at institutional scale.
 
 Each 
 
-# Pillar I: s kept intentionally quiet
+### Pillar I: s kept intentionally quiet
 
 .
 
 This architecture is the new foundation for elite capital.
 
-It ensures that HNWI and UHNW individuals remain outside institutional pacing and inside their own velocity zone. 
+It ensures that HNWI and UHNW individuals remain outside institutional pacing and inside their own velocity zone.
 
-## Closing the Loop on Alpha The flow of capital is becoming automated
+Closing the Loop on Alpha The flow of capital is becoming automated
 
 .
 

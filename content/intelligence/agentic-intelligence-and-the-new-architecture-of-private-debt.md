@@ -20,9 +20,9 @@ Silent.
 
 Structural.
 
-A liquidity engine for serious capital. 
+A liquidity engine for serious capital.
 
-## The Shift: From Manual Underwriting to Autonomous Liquidity Logic Traditional private credit relies on human underwriters
+The Shift: From Manual Underwriting to Autonomous Liquidity Logic Traditional private credit relies on human underwriters
 
 .
 
@@ -34,7 +34,7 @@ Dependent on subjective interpretation.
 
 The next 
 
-# Phase I: s not an evolution
+### Phase I: s not an evolution
 
 .
 
@@ -52,9 +52,9 @@ Fast-moving.
 
 Precision-weighted.
 
-Mechanically consistent across every tier of collateral. 
+Mechanically consistent across every tier of collateral.
 
-## Private Debt as an Autonomous System When private debt becomes agentic, the model changes from credit evaluation into Strategic Collateralization
+Private Debt as an Autonomous System When private debt becomes agentic, the model changes from credit evaluation into Strategic Collateralization
 
 .
 
@@ -70,9 +70,9 @@ The system identifies:
 
 We do not lend based on sentiment or market fashion.
 
-We lend based on structural truth detected by systems that run continuously. 
+We lend based on structural truth detected by systems that run continuously.
 
-## Asset-Backed Frameworks for HNWI and UHNW Investors HNWI and UHNW clients require more than Access is restricted to approved mandates
+Asset-Backed Frameworks for HNWI and UHNW Investors HNWI and UHNW clients require more than Access is restricted to approved mandates
 
 .
 
@@ -90,9 +90,9 @@ The structure determines the outcome.
 
 The system determines the structure.
 
-Roials-Alpha integrates agentic intelligence into every stage of the Asset-Backed Frameworks architecture, creating liquidity channels that are difficult to replicate and impossible to manually compute. 
+Roials-Alpha integrates agentic intelligence into every stage of the Asset-Backed Frameworks architecture, creating liquidity channels that are difficult to replicate and impossible to manually compute.
 
-## Asset Based Institutional Liquidity Paths at Institutional Precision Asset Based Capital Structuring is the natural domain of agentic intelligence
+Asset Based Institutional Liquidity Paths at Institutional Precision Asset Based Capital Structuring is the natural domain of agentic intelligence
 
 .
 
@@ -122,9 +122,9 @@ More accurate.
 
 More predictive.
 
-More actionable. 
+More actionable.
 
-## Monetization Architecture Against Private Credit Roials-Alpha lends against private credit positions
+Monetization Architecture Against Private Credit Roials-Alpha lends against private credit positions
 
 .
 
@@ -142,9 +142,9 @@ Agentic systems evaluate:
 
 - Hidden correlation patterns that are invisible to human review Private credit is only as strong as the structure behind it.
 
-Agentic intelligence reveals that structure with surgical accuracy. 
+Agentic intelligence reveals that structure with surgical accuracy.
 
-## Crypto Monetization Architecture with an Institutional Frame Roials-Alpha lends against crypto positions with a minimum threshold of 2,000,
+Crypto Monetization Architecture with an Institutional Frame Roials-Alpha lends against crypto positions with a minimum threshold of 2,000,
 
  
 
@@ -168,9 +168,9 @@ The system analyzes:
 
 The client sees simplicity.
 
-Under the surface the system is running thousands of micro evaluations per second. 
+Under the surface the system is running thousands of micro evaluations per second.
 
-## Public Share Monetization Architecture for Serious Capital Public share Strategic Collateralization begins at 5,000,
+Public Share Monetization Architecture for Serious Capital Public share Strategic Collateralization begins at 5,000,
 
  
 
@@ -196,9 +196,7 @@ It analyzes:
 
 - Liquidity pocket shifts
 
-- Historical behaviour clusters nested across time This creates a Capital Structuring structure that anticipates turbulence rather than responding to it. 
-
-## principal authority Through Infrastructure Roials-Alpha maintains principal authority
+- Historical behaviour clusters nested across time This creates a Capital Structuring structure that anticipates turbulence rather than responding to it. principal authority Through Infrastructure Roials-Alpha maintains principal authority
 
 .
 
@@ -214,9 +212,9 @@ Agentic systems allow us to remain quiet while remaining in full control of stru
 
 This is the advantage.
 
-This is the separation. 
+This is the separation.
 
-## Why Agentic Intelligence Is the New Standard Private credit is becoming too fast for human cognition
+Why Agentic Intelligence Is the New Standard Private credit is becoming too fast for human cognition
 
 .
 
@@ -240,9 +238,9 @@ They produce:
 
 - Reduced ambiguity
 
-- Perfect internal consistency This is the environment in which elite capital thrives. 
+- Perfect internal consistency This is the environment in which elite capital thrives.
 
-## The End of Manual Bottlenecks Manual processes create drag
+The End of Manual Bottlenecks Manual processes create drag
 
 .
 
@@ -260,9 +258,9 @@ It does not wait for approvals.
 
 It runs continuously, scanning for threats or new opportunities in the collateral field.
 
-For UHNW and HNWI clients, this is the only model that makes sense. 
+For UHNW and HNWI clients, this is the only model that makes sense.
 
-## Structural Mechanics, Not Marketing Roials-Alpha does not operate on brand theatrics
+Structural Mechanics, Not Marketing Roials-Alpha does not operate on brand theatrics
 
 .
 
@@ -278,9 +276,9 @@ Fast liquidity.
 
 Stable structures.
 
-Institutional-grade protection. 
+Institutional-grade protection.
 
-## The Future of Private Debt Belongs to Autonomous Systems Private debt is moving toward full autonomous infrastructure
+The Future of Private Debt Belongs to Autonomous Systems Private debt is moving toward full autonomous infrastructure
 
 .
 
@@ -302,9 +300,9 @@ Quietly.
 
 Deliberately.
 
-At scale. 
+At scale.
 
-## A New Liquidity Order for Serious Capital UHNW and HNWI clients do not need another lender
+A New Liquidity Order for Serious Capital UHNW and HNWI clients do not need another lender
 
 .
 
@@ -312,11 +310,9 @@ They need a structural partner capable of navigating the next decade of volatili
 
 Agentic intelligence provides that path.
 
-Roials-Alpha provides the implementation. 
+Roials-Alpha provides the implementation.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

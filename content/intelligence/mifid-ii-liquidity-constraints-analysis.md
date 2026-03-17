@@ -176,11 +176,9 @@ AI-first platforms can leverage:
 
 • Dynamic LTV management based on asset-level telemetry.
 
-These features generate a structural advantage for AI-led institutions relative to traditional credit origination frameworks. 
+These features generate a structural advantage for AI-led institutions relative to traditional credit origination frameworks.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of allocating capital with precision, restraint, and structural clarity
+THE STEWARDSHIP FILTER Stewardship is the discipline of allocating capital with precision, restraint, and structural clarity
 
 .
 
@@ -206,11 +204,9 @@ The allocator that understands the post MiFID II environment recognizes that liq
 
 * reinforces this through its emphasis on intergenerational provisioning and disciplined management of resources.
 
-The allocator must position capital in structures that transcend regulatory cycles and market noise. 
+The allocator must position capital in structures that transcend regulatory cycles and market noise.
 
- 
-
-## DECISION-MAKING LENS FOR THE ALLOCATOR The MiFID II regime has created a landscape where liquidity is thinner, execution is costlier, and operational drag is unavoidable for market dependent strategies
+DECISION-MAKING LENS FOR THE ALLOCATOR The MiFID II regime has created a landscape where liquidity is thinner, execution is costlier, and operational drag is unavoidable for market dependent strategies
 
 .
 

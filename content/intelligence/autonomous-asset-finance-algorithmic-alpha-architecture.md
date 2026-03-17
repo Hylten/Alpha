@@ -188,11 +188,9 @@ It is a process of alignment between institutional capital archetypes and the op
 
 This includes structure design, risk channel identification, and balance sheet optimization.
 
-Roials Capital acts as the interpreter of these architectures, enabling allocators to navigate them without exposure to execution risk. 
+Roials Capital acts as the interpreter of these architectures, enabling allocators to navigate them without exposure to execution risk.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of converting capital into productive outcomes without waste
+THE STEWARDSHIP FILTER Stewardship is the discipline of converting capital into productive outcomes without waste
 
 .
 
@@ -220,7 +218,7 @@ If an asset produces real time data, its risk characteristics can be quantified.
 
 The allocator gains clarity and removes the speculation 
 
-# Layer I: nherent in opaque assets
+### Layer I: nherent in opaque assets
 
 .
 
@@ -238,11 +236,9 @@ Roials Capital applies
 
 A well designed capital system should preserve and extend value across generations.
 
-Algorithmic finance systems provide the consistency that human behavior cannot. 
+Algorithmic finance systems provide the consistency that human behavior cannot.
 
- 
-
-## STRATEGIC CALIBRATION LENS For UHNWIs, family offices, and institutional LPs, the decision is not whether autonomous finance is relevant
+STRATEGIC CALIBRATION LENS For UHNWIs, family offices, and institutional LPs, the decision is not whether autonomous finance is relevant
 
 .
 

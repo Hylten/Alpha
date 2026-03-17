@@ -26,13 +26,13 @@ Minimum mandate depth: $5M+ target size.
 
 The autonomous infrastructure 
 
-# Layer I: s the force multiplier
+### Layer I: s the force multiplier
 
 .
 
-It is the difference between a strategy and a system. 
+It is the difference between a strategy and a system.
 
-## The Silent Architecture Behind Perpetual Leverage Most investors attempt to replicate the Buy, Borrow, Die approach with retail tools
+The Silent Architecture Behind Perpetual Leverage Most investors attempt to replicate the Buy, Borrow, Die approach with retail tools
 
 .
 
@@ -66,9 +66,9 @@ Our autonomous infrastructure reads it.
 
 Structures it.
 
-And transforms it into predictable balance sheet optimization power. 
+And transforms it into predictable balance sheet optimization power.
 
-## Why autonomous infrastructure Is the Missing Component Traditional leverage is reactive
+Why autonomous infrastructure Is the Missing Component Traditional leverage is reactive
 
 .
 
@@ -96,15 +96,15 @@ It is structural.
 
 The asset determines the balance sheet optimization power.
 
-The system executes the balance sheet optimization action. 
+The system executes the balance sheet optimization action.
 
-## The Three Core Pillars of Automated Buy, Borrow, Die The system depends on three structural pillars
+The Three Core Pillars of Automated Buy, Borrow, Die The system depends on three structural pillars
 
 .
 
 Each 
 
-# Pillar C: orresponds to a different liquidity profile
+### Pillar C: orresponds to a different liquidity profile
 
 .
 
@@ -112,7 +112,7 @@ Each is engineered for high net worth individuals who need precision, not market
 
 Pillar One: Buy The acquisition 
 
-# Phase D: efines everything
+### Phase D: efines everything
 
 .
 
@@ -124,7 +124,7 @@ The cash flow determines the liquidity engine.
 
 For institutional grade optimization, the acquisition 
 
-# Phase M: ust follow a strict logic
+### Phase M: ust follow a strict logic
 
 .
 
@@ -192,7 +192,7 @@ The borrow phase becomes a continuous flow event, not a transaction.
 
 Pillar Three: Die This is the 
 
-# Phase M: ost people misunderstand
+### Phase M: ost people misunderstand
 
 .
 
@@ -208,9 +208,9 @@ Assets remain intact. autonomous infrastructure ensures that leverage levels are
 
 The system produces an inheritance that is structurally prepared, not administratively chaotic.
 
-This is how wealth becomes generational. 
+This is how wealth becomes generational.
 
-## Liquidity as a System, Not a Request Classic liquidity provisioning is manual
+Liquidity as a System, Not a Request Classic liquidity provisioning is manual
 
 .
 
@@ -238,9 +238,9 @@ They architect it.
 
 Every portfolio has a liquidity rhythm. autonomous infrastructure synchronizes with that rhythm.
 
-This turns liquidity from an event into an infrastructure layer. 
+This turns liquidity from an event into an infrastructure layer.
 
-## What Makes Roials-Alpha Different Most firms sell leverage
+What Makes Roials-Alpha Different Most firms sell leverage
 
 .
 
@@ -272,9 +272,9 @@ Our differentiators are functional, not promotional.
 
 This creates an environment where clients do not seek leverage.
 
-Leverage is integrated into their operating system. 
+Leverage is integrated into their operating system.
 
-## The autonomous infrastructure Layer That Powers the System Human-managed leverage is slow
+The autonomous infrastructure Layer That Powers the System Human-managed leverage is slow
 
 .
 
@@ -306,9 +306,9 @@ It provides clean, quiet execution.
 
 This is the essence of principal authority.
 
-You receive the outcome without the noise. 
+You receive the outcome without the noise.
 
-## Private Credit as the Strategic Core Private Credit is the foundation because it is predictable
+Private Credit as the Strategic Core Private Credit is the foundation because it is predictable
 
 .
 
@@ -324,9 +324,9 @@ This allows clients to use Private Credit positions as programmable collateral, 
 
 Private Credit creates the stability that autonomous infrastructure needs.
 
-The system builds the leverage loop on top. 
+The system builds the leverage loop on top.
 
-## Asset Based Strategic Collateralization for Structural Liquidity Asset-Based Lending is the silent machinery of institutional capital
+Asset Based Strategic Collateralization for Structural Liquidity Asset-Based Lending is the silent machinery of institutional capital
 
 .
 
@@ -354,9 +354,9 @@ It deploys automated adjustments.
 
 It maintains clean underwriting integrity.
 
-The result is liquidity that behaves like infrastructure. 
+The result is liquidity that behaves like infrastructure.
 
-## Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000
+Crypto Institutional Liquidity Paths for High Velocity Portfolios Crypto portfolios above 2,000
 
 ,
 
@@ -370,11 +370,11 @@ Only at scale.
 
 Only when the autonomous infrastructure 
 
-# Layer C: ontrols the timing
+### Layer C: ontrols the timing
 
 .
 
-## Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000
+Public Share Capital Structuring for Strategic Portfolios Public equity above 5,000
 
 ,
 
@@ -386,11 +386,11 @@ The system uses volatility bands, price envelopes, and predictive triggers to ma
 
 The client experiences liquidity that feels immediate, but behind the scenes the autonomous infrastructure 
 
-# Layer I: s performing thousands of micro-adjustments
+### Layer I: s performing thousands of micro-adjustments
 
 .
 
-## The Institutional Logic of Buy, Borrow, Die This strategy only works when executed with institutional precision
+The Institutional Logic of Buy, Borrow, Die This strategy only works when executed with institutional precision
 
 .
 
@@ -414,9 +414,9 @@ Borrow with autonomous infrastructure.
 
 Die with structure.
 
-This is how dynasties avoid erosion. 
+This is how dynasties avoid erosion.
 
-## The Next Evolution: Agentic Wealth Systems The future of wealth is automated
+The Next Evolution: Agentic Wealth Systems The future of wealth is automated
 
 .
 

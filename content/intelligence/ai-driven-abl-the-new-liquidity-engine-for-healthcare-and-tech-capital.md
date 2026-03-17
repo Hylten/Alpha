@@ -32,7 +32,7 @@ Not as an Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

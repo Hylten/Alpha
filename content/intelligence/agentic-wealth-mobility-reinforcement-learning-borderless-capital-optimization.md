@@ -168,11 +168,9 @@ NAEO provides technical energy domain accuracy.
 
 Roials Capital provides institutional structuring accuracy.
 
-The allocator receives a system capable of cross border optimization without friction. 
+The allocator receives a system capable of cross border optimization without friction.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
 
 .
 
@@ -212,17 +210,9 @@ A credit facility that is oversized relative to borrower capacity is wasteful.
 
 A facility that is undersized creates operational strain.
 
-The reinforcement learning model calibrates the optimal balance point where capital supports performance without generating excess liability load. 
+The reinforcement learning model calibrates the optimal balance point where capital supports performance without generating excess liability load.
 
- 
-
-## THE
-
- 
-
- 
-
-## DECISION MAKING LENS Allocators operating at the institutional level require a structural lens rather than an asset lens
+THE DECISION MAKING LENS Allocators operating at the institutional level require a structural lens rather than an asset lens
 
 .
 

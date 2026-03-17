@@ -20,9 +20,9 @@ Roials-Alpha operates in this layer.
 
 We do not imitate institutional capital.
 
-We engineer the structural mechanics that institutions later replicate. 
+We engineer the structural mechanics that institutions later replicate.
 
-## The Asset-Based Lending Universe We Operate In Our model is built specifically for high value collateral categories
+The Asset-Based Lending Universe We Operate In Our model is built specifically for high value collateral categories
 
 .
 
@@ -36,9 +36,9 @@ These tiers are intentional.
 
 Below these thresholds, liquidity behavior becomes erratic and the intelligence model focuses on noise rather than signal.
 
-Above these levels, the model achieves full precision and the client receives what they expect, silent, , instantly deployable liquidity mechanics. 
+Above these levels, the model achieves full precision and the client receives what they expect, silent, , instantly deployable liquidity mechanics.
 
-## The Private Credit Dimension Private credit for HNWI and UHNW clients is fundamentally different from mass market Institutional Liquidity Paths
+The Private Credit Dimension Private credit for HNWI and UHNW clients is fundamentally different from mass market Institutional Liquidity Paths
 
 .
 
@@ -52,9 +52,9 @@ Roials-Alpha uses its intelligence model to unpack these layers automatically, s
 
 Where traditional lenders hesitate, we compute.
 
-Where others delay, we execute. 
+Where others delay, we execute.
 
-## The Mechanics of principal authority Roials-Alpha maintains F Hierarchical Dynamics
+The Mechanics of principal authority Roials-Alpha maintains F Hierarchical Dynamics
 
 .
 
@@ -76,9 +76,9 @@ Delivered precisely.
 
 Quietly.
 
-Without institutional drag. 
+Without institutional drag.
 
-## Liquidity as a Precision Instrument The proprietary model does not just underwrite collateral
+Liquidity as a Precision Instrument The proprietary model does not just underwrite collateral
 
 .
 
@@ -96,9 +96,9 @@ Control over timing.
 
 Control over leverage.
 
-Control over opportunity selection. 
+Control over opportunity selection.
 
-## The autonomous infrastructure Layer The true engine behind the system autonomous infrastructure is the only viable pathway for modern Asset-Based Lending at scale
+The autonomous infrastructure Layer The true engine behind the system autonomous infrastructure is the only viable pathway for modern Asset-Based Lending at scale
 
 .
 
@@ -116,9 +116,9 @@ Silently.
 
 With zero fatigue and zero inconsistency.
 
-This is the difference between legacy private credit and AI first private credit. 
+This is the difference between legacy private credit and AI first private credit.
 
-## The UHNW Use Case Strategic Liquidity Mobility An UHNW client might hold a blend of public equity, private credit positions, and high value digital assets
+The UHNW Use Case Strategic Liquidity Mobility An UHNW client might hold a blend of public equity, private credit positions, and high value digital assets
 
 .
 
@@ -138,9 +138,9 @@ This preserves exposure.
 
 This enhances opportunity capture.
 
-This prevents forced selling. 
+This prevents forced selling.
 
-## Why the Model Cannot Be Replicated by Traditional Lenders Banks and slow moving private credit desks cannot adopt AI first underwriting without redesigning their operational architecture from the ground up
+Why the Model Cannot Be Replicated by Traditional Lenders Banks and slow moving private credit desks cannot adopt AI first underwriting without redesigning their operational architecture from the ground up
 
 .
 
@@ -152,9 +152,9 @@ This allows us to compute where others debate.
 
 To execute where others analyze.
 
-To deliver liquidity in seconds where others require committees, meetings, and review cycles. 
+To deliver liquidity in seconds where others require committees, meetings, and review cycles.
 
-## Future Proofing Asset-Based Lending The Roials-Alpha Standard The proprietary intelligence model is not a temporary advantage
+Future Proofing Asset-Based Lending The Roials-Alpha Standard The proprietary intelligence model is not a temporary advantage
 
 .
 
@@ -166,9 +166,9 @@ Not the speed of human paperwork.
 
 The future of Asset-Based Lending is computational, adaptive, and agentic.
 
-Roials-Alpha is already operating in that future. 
+Roials-Alpha is already operating in that future.
 
-## The Endgame: Intelligence Driven Capital Access is restricted to approved mandates
+The Endgame: Intelligence Driven Capital Access is restricted to approved mandates
 
 .
 

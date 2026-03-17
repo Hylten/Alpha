@@ -32,9 +32,9 @@ Unlock silent capital.
 
 Automate liquidity.
 
-Engineer asymmetric advantage for HNWI and UHNW individuals who operate beyond the capabilities of traditional lenders. 
+Engineer asymmetric advantage for HNWI and UHNW individuals who operate beyond the capabilities of traditional lenders.
 
-## Autonomous Finance as Structural Advantage Old finance uses processes
+Autonomous Finance as Structural Advantage Old finance uses processes
 
 .
 
@@ -72,13 +72,11 @@ Roials-Alpha operates here.
 
 We deploy autonomous underwriting engines across private credit and asset based Strategic Collateralization.
 
-We treat every asset class as code, every constraint as a data object, and every Capital Structuring path as a programmable event sequence. 
+We treat every asset class as code, every constraint as a data object, and every Capital Structuring path as a programmable event sequence.
 
-## The Autonomous Liquidity
+The Autonomous Liquidity 
 
- 
-
-# Layer M
+### Layer M
 
 ost capital markets still behave like analog infrastructure wrapped in digital interfaces.
 
@@ -108,9 +106,9 @@ For clients with substantial holdings in private credit or asset-based assets, t
 
 That is the principle.
 
-That is the advantage. 
+That is the advantage.
 
-## Private Credit as a Programmable Liquidity Engine Private credit is becoming the most strategic asset class for sophisticated lenders and investors
+Private Credit as a Programmable Liquidity Engine Private credit is becoming the most strategic asset class for sophisticated lenders and investors
 
 .
 
@@ -144,9 +142,9 @@ The asset works for the client.
 
 The system optimizes the asset.
 
-The client maintains strategic continuity. 
+The client maintains strategic continuity.
 
-## Asset Based Asset-Backed Frameworks Rebuilt for Institutional Precision Traditional Asset-Based Lending is slow
+Asset Based Asset-Backed Frameworks Rebuilt for Institutional Precision Traditional Asset-Based Lending is slow
 
 .
 
@@ -170,9 +168,9 @@ This is asset based Institutional Liquidity Paths rebuilt for scale and speed.
 
 Where assets become liquidity keys.
 
-Where liquidity becomes a strategic accelerant. 
+Where liquidity becomes a strategic accelerant.
 
-## Crypto Strategic Collateralization for Professional-Grade Collateral Holders Crypto Capital Structuring is often associated with retail platforms or unstable protocols
+Crypto Strategic Collateralization for Professional-Grade Collateral Holders Crypto Capital Structuring is often associated with retail platforms or unstable protocols
 
 .
 
@@ -203,9 +201,9 @@ Everything becomes a data stream.
 
 The result is crypto Institutional Liquidity Paths without fragility.
 
-A structural liquidity channel that behaves with institutional consistency. 
+A structural liquidity channel that behaves with institutional consistency.
 
-## Public Share Capital Structuring for Ultra-Large Equity Holders Public shares represent one of the most underutilized forms of collateral among sophisticated investors
+Public Share Capital Structuring for Ultra-Large Equity Holders Public shares represent one of the most underutilized forms of collateral among sophisticated investors
 
 .
 
@@ -228,9 +226,9 @@ No legacy brokerage friction.
 
 No delays.
 
-This is equity as a precision instrument for liquidity expansion. 
+This is equity as a precision instrument for liquidity expansion.
 
-## Why Autonomous Finance Produces Superior Alpha Alpha is no longer generated only through investment return
+Why Autonomous Finance Produces Superior Alpha Alpha is no longer generated only through investment return
 
 .
 
@@ -262,9 +260,9 @@ We create liquidity architecture that amplifies the effectiveness of client stra
 
 The system does not chase alpha.
 
-It enables alpha. 
+It enables alpha.
 
-## The Rise of Agentic Capital Infrastructure Agentic systems are not assistants
+The Rise of Agentic Capital Infrastructure Agentic systems are not assistants
 
 .
 
@@ -294,9 +292,9 @@ This is the principal authority layer.
 
 Clients do not need to interact with the complexity.
 
-They experience the output: frictionless liquidity precision. 
+They experience the output: frictionless liquidity precision.
 
-## What HNWI and UHNW Clients Gain When autonomous finance meets asset based Strategic Collateralization and private credit, a specific level of client benefits emerges
+What HNWI and UHNW Clients Gain When autonomous finance meets asset based Strategic Collateralization and private credit, a specific level of client benefits emerges
 
 .
 
@@ -318,9 +316,9 @@ Minimum mandate depth: $5M+ target size.
 
 - Precision execution without negotiation loops The more complex the asset structure, the more the system becomes.
 
-For UHNW operators, the liquidity architecture becomes a competitive moat. 
+For UHNW operators, the liquidity architecture becomes a competitive moat.
 
-## The Future Landscape of High-End Capital Structuring The next decade will not be defined by new liquidity facility products
+The Future Landscape of High-End Capital Structuring The next decade will not be defined by new liquidity facility products
 
 .
 
@@ -350,9 +348,9 @@ Liquidity as intelligence.
 
 Assets as programmable systems.
 
-Alpha as structural dominance. 
+Alpha as structural dominance.
 
-## The Autonomous Future Is Now HNWI and UHNW clients already understand this principle
+The Autonomous Future Is Now HNWI and UHNW clients already understand this principle
 
 .
 

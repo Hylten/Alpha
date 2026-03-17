@@ -134,11 +134,9 @@ Roials Capital positions itself as a technical interface.
 
 The institution receives strategic mappings, risk stratification, and operational intelligence that supports internal decision frameworks without promotional bias.
 
-This ensures compliance integrity while delivering the analytical depth expected by UHNW capital stewards and institutional CIOs. 
+This ensures compliance integrity while delivering the analytical depth expected by UHNW capital stewards and institutional CIOs.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological discipline of non wasteful resource management
 
 .
 
@@ -182,11 +180,9 @@ Integrity.
 
 The architecture must reinforce responsible deployment rather than opportunistic extraction.
 
-Energy assets with known decline curves and private credit systems with real time risk surveillance satisfy the Stewardship mandate more effectively than volatile equity narratives or opaque yield instruments. 
+Energy assets with known decline curves and private credit systems with real time risk surveillance satisfy the Stewardship mandate more effectively than volatile equity narratives or opaque yield instruments.
 
- 
-
-## CALIBRATION FRAMEWORK FOR THE ALLOCATOR Institutional allocators encountering this dual regime shift benefit from a calibration process aligned with their internal mandate
+CALIBRATION FRAMEWORK FOR THE ALLOCATOR Institutional allocators encountering this dual regime shift benefit from a calibration process aligned with their internal mandate
 
 .
 

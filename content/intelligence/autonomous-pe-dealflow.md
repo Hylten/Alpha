@@ -163,7 +163,7 @@ Hunting across millions of domains, thousands of data streams, and every relevan
 
 Market Mappers This 
 
-# Layer C: onstructs evolving representations of markets
+### Layer C: onstructs evolving representations of markets
 
 .
 

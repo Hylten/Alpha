@@ -102,7 +102,7 @@ The underwriting framework processes financial statements, operational telemetry
 
 The AI 
 
-# Layer D: oes not replace human governance
+### Layer D: oes not replace human governance
 
 .
 
@@ -196,11 +196,9 @@ Operational opacity during evaluation and monitoring.
 
 By operating strictly as a strategic navigator the architecture maintains institutional neutrality while delivering high resolution clarity.
 
-This accelerates decision quality without manufacturing urgency. 
+This accelerates decision quality without manufacturing urgency.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
 
 .
 
@@ -250,11 +248,9 @@ This filter becomes the allocator's lens for evaluating alignment.
 
 The question is not whether the opportunity is attractive.
 
-The question is whether the architecture supports long term responsibility. 
+The question is whether the architecture supports long term responsibility.
 
- 
-
-## THE ALLOCATOR'S DECISION LENS The systems mandate is now the foundation for institutional execution
+THE ALLOCATOR'S DECISION LENS The systems mandate is now the foundation for institutional execution
 
 .
 

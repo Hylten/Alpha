@@ -24,7 +24,7 @@ One engine.
 
 The arbitration 
 
-# Layer D: ecides
+### Layer D: ecides
 
 .
 
@@ -96,11 +96,9 @@ Our AI works every
 
 14 milliseconds.
 
-That is the difference. 
+That is the difference.
 
- 
-
-## PRINCIPAL TONE The principal states
+PRINCIPAL TONE The principal states
 
 .
 
@@ -158,11 +156,9 @@ AI executes the timing.
 
 A Principal does not chase markets.
 
-A Principal governs flow. 
+A Principal governs flow.
 
- 
-
-## INTERNAL BYPASS Machine-gun sentences and deep paragraphs, alternating
+INTERNAL BYPASS Machine-gun sentences and deep paragraphs, alternating
 
 .
 
@@ -228,11 +224,9 @@ Humans choose instruments.
 
 AI chooses architectures.
 
-This is the difference between strategy and sovereignty. 
+This is the difference between strategy and sovereignty.
 
- 
-
-## THE ENGINE: AI-FIRST CAPITAL ARBITRATION The inner mechanics
+THE ENGINE: AI-FIRST CAPITAL ARBITRATION The inner mechanics
 
 .
 
@@ -260,11 +254,9 @@ It is agency.
 
 Pure agentic infrastructure.
 
-A system that acts, not advises. 
+A system that acts, not advises.
 
- 
-
-## WHY AI OUTPERFORMS TRADITIONAL CREDIT TEAMS The truth is blunt: human credit teams rely on retrospective data
+WHY AI OUTPERFORMS TRADITIONAL CREDIT TEAMS The truth is blunt: human credit teams rely on retrospective data
 
 .
 
@@ -302,9 +294,9 @@ Our architecture doesn’t imitate institutional processes; it replaces them.
 
 And when necessary, it coordinates institutional channels through autonomous infrastructure. (One of these channels, where appropriate, can involve institutional capital execution through Roials Capital: [Roials Capital](https://roialscapital.com/)) The true power is not in autonomous infrastructure.
 
-The true power is in orchestration. 
+The true power is in orchestration.
 
-## THE REAL-TIME ARBITRATION LOOP A deeper structural dive
+THE REAL-TIME ARBITRATION LOOP A deeper structural dive
 
 .
 
@@ -326,9 +318,9 @@ If structured notes offer superior asymmetry due to a volatility spike, AI shift
 
 Real-time arbitration is the sovereign advantage.
 
-It is the architecture that outpaces every human desk. 
+It is the architecture that outpaces every human desk.
 
-## THE FAMILY OFFICE DIMENSION For UHNW/HNW operators, the game is different
+THE FAMILY OFFICE DIMENSION For UHNW/HNW operators, the game is different
 
 .
 
@@ -346,9 +338,9 @@ Every family office becomes its own dataset.
 
 Every dataset becomes a self-learning model.
 
-Every model becomes a sovereign capital blueprint. 
+Every model becomes a sovereign capital blueprint.
 
-## THE AGENTIC INFRASTRUCTURE REQUESTED This is your answer
+THE AGENTIC INFRASTRUCTURE REQUESTED This is your answer
 
 .
 

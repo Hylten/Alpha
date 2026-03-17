@@ -86,7 +86,7 @@ AI systems sequence liquidity into layers:
 
 - Strategic slow cycle liquidity Each 
 
-# Layer C
+### Layer C
 
 arries its own clearance rules, risk parameters, and geographic deployment corridors.
 
@@ -148,7 +148,7 @@ This ensures governance continuity across political cycles.
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this architecture.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -186,11 +186,9 @@ Strategic Alignment The firm ensures that sovereign objectives, policy constrain
 
 The benefit is not immediacy.
 
-The benefit is structural coherence. 
+The benefit is structural coherence.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline that governs resource allocation
+THE STEWARDSHIP FILTER Stewardship is the discipline that governs resource allocation
 
 .
 
@@ -220,11 +218,9 @@ Waste is defined as:
 
 - Human signaling errors AI systems do not replace stewardship.
 
-They enforce it. 
+They enforce it.
 
- 
-
-## DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS The strategic question is not whether to adopt AI driven liquidity architecture
+DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS The strategic question is not whether to adopt AI driven liquidity architecture
 
 .
 

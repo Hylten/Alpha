@@ -142,11 +142,9 @@ NAEOCC represents an institutional grade operator whose technical recovery frame
 
 The Alberta basin's decline curve predictability and stable cash flow geometry create an ideal environment for machine constrained credit evaluation.
 
-This is where operational physics and algorithmic underwriting converge. 
+This is where operational physics and algorithmic underwriting converge.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline that aligns capital deployment with non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline that aligns capital deployment with non wasteful resource management
 
 .
 
@@ -180,11 +178,9 @@ Allocators can audit every assumption embedded in the underwriting logic.
 
 This framework aligns capital with purpose.
 
-It also mitigates risk by removing discretionary behavior from decision chains. 
+It also mitigates risk by removing discretionary behavior from decision chains.
 
- 
-
-## PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR The central question for UHNW and HNW allocators is no longer which private credit exposure is optimal
+PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR The central question for UHNW and HNW allocators is no longer which private credit exposure is optimal
 
 .
 

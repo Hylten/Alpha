@@ -20,9 +20,9 @@ We engineer AI‑First private credit structures optimized for High Net Worth an
 
 The Alpha Framework is our internal operating system.
 
-This article reveals the structural logic behind it, the agentic underwriting mechanics, and why AI‑First Asset Based Capital Structuring is now the only competitive mode for serious capital holders. 
+This article reveals the structural logic behind it, the agentic underwriting mechanics, and why AI‑First Asset Based Capital Structuring is now the only competitive mode for serious capital holders.
 
-## The Future: Agentic Strategic Collateralization as Capital Infrastructure Agentic models are the next evolution of private credit
+The Future: Agentic Strategic Collateralization as Capital Infrastructure Agentic models are the next evolution of private credit
 
 .
 
@@ -40,6 +40,8 @@ The capital markets of the next decade will be governed by:
 
 • AI‑native Asset-Based Lending structures The Alpha Framework already operates in this regime.
 
-This positions Roials‑Alpha not as a competitor within the private credit field, but as the underlying infrastructure that makes the field functional. # Access is restricted to approved mandates.
+This positions Roials‑Alpha not as a competitor within the private credit field, but as the underlying infrastructure that makes the field functional.
+
+Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

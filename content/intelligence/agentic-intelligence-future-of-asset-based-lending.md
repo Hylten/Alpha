@@ -110,11 +110,9 @@ The company utilizes continuous field telemetry, decline curve recalibration, an
 
 When allocators understand the NAEOCC execution framework, they often recognize similar principles at work in advanced private credit systems.
 
-The partnership model therefore focuses on structural clarity, counterparty alignment, and ensuring that allocators receive transparent access to the operational mechanics of any AI driven lending environment. 
+The partnership model therefore focuses on structural clarity, counterparty alignment, and ensuring that allocators receive transparent access to the operational mechanics of any AI driven lending environment.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital allocation is not an aesthetic virtue
+THE STEWARDSHIP FILTER Stewardship in capital allocation is not an aesthetic virtue
 
 .
 
@@ -144,11 +142,9 @@ This stewardship filter becomes a information asymmetry advantage in an environm
 
 Asset-Backed Frameworks grounded in continuous visibility is inherently more sustainable than structures reliant on episodic reporting.
 
-The emerging institutional archetype is the allocator who prioritizes informational stewardship over yield hunting. 
+The emerging institutional archetype is the allocator who prioritizes informational stewardship over yield hunting.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR The transition toward agentic Asset-Based Lending is not a thematic shift
+DECISION MAKING LENS FOR THE ALLOCATOR The transition toward agentic Asset-Based Lending is not a thematic shift
 
 .
 

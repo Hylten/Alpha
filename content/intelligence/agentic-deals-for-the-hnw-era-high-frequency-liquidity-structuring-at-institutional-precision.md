@@ -28,9 +28,9 @@ This is not advisory.
 
 This is infrastructure.
 
-Below is an internal level blueprint made public only because the market is now mature enough to understand it. 
+Below is an internal level blueprint made public only because the market is now mature enough to understand it.
 
-## Institutional Mechanics Without Institutional Friction Our clients prefer invisibility
+Institutional Mechanics Without Institutional Friction Our clients prefer invisibility
 
 .
 
@@ -56,9 +56,9 @@ principal authority.
 
 The capital moves because you decided it should.
 
-We simply engineer the infrastructure so nothing breaks. 
+We simply engineer the infrastructure so nothing breaks.
 
-## Why Agentic Liquidity Matters Now The market has entered a new era
+Why Agentic Liquidity Matters Now The market has entered a new era
 
 .
 
@@ -80,9 +80,9 @@ Roials-Alpha builds these systems so you can operate at institutional speed with
 
 A private liquidity engine is no longer a luxury.
 
-It is a competitive weapon. 
+It is a competitive weapon.
 
-## The Roials-Alpha Position in the Capital Stack We are not a lender
+The Roials-Alpha Position in the Capital Stack We are not a lender
 
 .
 
@@ -106,13 +106,11 @@ Your liquidity becomes autonomous.
 
 Your options become exponential.
 
-This is the real frontier of private capital engineering. 
+This is the real frontier of private capital engineering.
 
-## The Next
+The Next 
 
- 
-
-# Step I
+### Step I
 
 s Infrastructure If you understand the value of agentic liquidity, the next step is simple.
 

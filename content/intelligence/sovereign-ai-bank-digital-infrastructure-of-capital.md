@@ -136,9 +136,9 @@ These systems combine to create a capital architecture that is more precise, fas
 
 It reduces human friction to near zero.
 
-It allows allocators to participate in calibrated credit structures without relying on discretionary interpretation. 
+It allows allocators to participate in calibrated credit structures without relying on discretionary interpretation.
 
-## THE PARTNERSHIP MODEL Roials Capital operates as the strategic navigator, not as the asset owner or the credit issuer
+THE PARTNERSHIP MODEL Roials Capital operates as the strategic navigator, not as the asset owner or the credit issuer
 
 .
 
@@ -228,13 +228,9 @@ Structural resilience is not a preference.
 
 It is a duty for allocators responsible for generational capital or institutional balance sheets.
 
-The stewardship filter ensures that computational performance is aligned with ethical responsibility. 
+The stewardship filter ensures that computational performance is aligned with ethical responsibility.
 
- 
-
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR The current market regime rewards allocators who operate with clarity, precision, and structural alignment
+DECISION MAKING LENS FOR THE ALLOCATOR The current market regime rewards allocators who operate with clarity, precision, and structural alignment
 
 .
 

@@ -204,9 +204,9 @@ Unfiltered.
 
 Because speed is a fiduciary duty.
 
-The architecture of agentic PE revolves around four layers.
+The architecture of agentic PE revolves around four layers. 
 
-# Layer I: .
+### Layer I: .
 
 Signal Ingestion.
 
@@ -234,9 +234,9 @@ Litigation emergence scans.
 
 All auto-synchronized.
 
-No latency.
+No latency. 
 
-# Layer II: .
+### Layer II: .
 
 Interpretive Intelligence.
 
@@ -254,9 +254,9 @@ Everything is explainable.
 
 Everything is layered.
 
-Everything is retested against fresh data.
+Everything is retested against fresh data. 
 
-# Layer III: .
+### Layer III: .
 
 Autonomous Diligence.
 
@@ -276,9 +276,9 @@ Regtech modules validate compliance posture.
 
 Tax engines run cross-jurisdictional optimizations.
 
-Output: ready-for-principal risk geometry.
+Output: ready-for-principal risk geometry. 
 
-# Layer IV: .
+### Layer IV: .
 
 Execution Readiness.
 
@@ -306,7 +306,7 @@ A computational entity with durable processes.
 
 Principals merely steer direction.
 
-## AGENTS OPERAT
+AGENTS OPERAT
 
 E
 
@@ -434,9 +434,7 @@ Only high-alignment deals reach human review.
 
 This transforms the principal’s calendar.
 
-It shifts 
-
-## THE MANDAT
+It shifts THE MANDAT
 
 E
 

@@ -36,9 +36,9 @@ We make global liquidity programmable.
 
 This is not traditional Strategic Collateralization.
 
-This is agentic infrastructure. 
+This is agentic infrastructure.
 
-## The Shift: From Static Collateral to Autonomous Capital Private wealth used to treat collateral like stored value
+The Shift: From Static Collateral to Autonomous Capital Private wealth used to treat collateral like stored value
 
 .
 
@@ -70,9 +70,9 @@ principal authority.
 
 Institutional discipline.
 
-Multi‑layered autonomous infrastructure. 
+Multi‑layered autonomous infrastructure.
 
-## Cross-Border Capital Is Friction by Default We remove the frictions
+Cross-Border Capital Is Friction by Default We remove the frictions
 
 .
 
@@ -108,9 +108,9 @@ Autonomous exposure reduction.
 
 Synthetic netting across asset classes when applicable.
 
-This is how cross‑border collateral becomes an integrated liquidity reservoir rather than a fragmented portfolio. 
+This is how cross‑border collateral becomes an integrated liquidity reservoir rather than a fragmented portfolio.
 
-## Private Credit as a Leverage Signal HNWI and UHNW clients increasingly hold private credit positions that are non‑homogeneous
+Private Credit as a Leverage Signal HNWI and UHNW clients increasingly hold private credit positions that are non‑homogeneous
 
 .
 
@@ -140,9 +140,9 @@ Not a back‑office document.
 
 Not a locked drawer asset.
 
-Liquidity emerges where traditional lenders see opacity. 
+Liquidity emerges where traditional lenders see opacity.
 
-## Asset Based Strategic Collateralization Reinvented Through Autonomous Mechanics Asset Based Institutional Liquidity Paths is predictable when standardized
+Asset Based Strategic Collateralization Reinvented Through Autonomous Mechanics Asset Based Institutional Liquidity Paths is predictable when standardized
 
 .
 
@@ -174,7 +174,7 @@ This is about liquidity optionality that was previously inAccess is restricted t
 
 Minimum mandate depth: $5M+ target size.
 
-## Crypto Institutional Liquidity Paths at Institutional Floors Crypto wealth is no longer fringe
+Crypto Institutional Liquidity Paths at Institutional Floors Crypto wealth is no longer fringe
 
 .
 
@@ -202,9 +202,9 @@ They map out liquidation distance.
 
 They determine the optimal leverage footprint without compromising stability.
 
-Crypto becomes another cross‑border collateral instrument, not an outlier. 
+Crypto becomes another cross‑border collateral instrument, not an outlier.
 
-## Public Share Monetization Architecture for the Ultra Capital Holder Public equities are the most internationally distributed assets in today’s wealth space
+Public Share Monetization Architecture for the Ultra Capital Holder Public equities are the most internationally distributed assets in today’s wealth space
 
 .
 
@@ -236,9 +236,7 @@ Derivative overlays.
 
 Instead of waiting for liquidity windows, Roials‑Alpha builds them.
 
-Public shares become part of a synchronized global collateral engine. 
-
-## principal authority: The Core Philosophy Roials‑Alpha maintains a posture of principal authority
+Public shares become part of a synchronized global collateral engine. principal authority: The Core Philosophy Roials‑Alpha maintains a posture of principal authority
 
 .
 
@@ -262,9 +260,9 @@ They need optionality.
 
 They need institutional discipline without institutional drag.
 
-This is why agentic infrastructure matters. 
+This is why agentic infrastructure matters.
 
-## Why Agentic Infrastructure Is the Next Competitive Edge HNWI and UHNW individuals who operate internationally know a simple truth
+Why Agentic Infrastructure Is the Next Competitive Edge HNWI and UHNW individuals who operate internationally know a simple truth
 
 .
 
@@ -296,9 +294,9 @@ They allow you to structure leverage pathways that traditional finance cannot ex
 
 This is a strategic edge.
 
-This is compounding based on timing rather than risk. 
+This is compounding based on timing rather than risk.
 
-## The Architecture Behind the System Roials‑Alpha builds agentic infrastructure through several layers
+The Architecture Behind the System Roials‑Alpha builds agentic infrastructure through several layers
 
 .
 
@@ -324,17 +322,17 @@ Each layer reduces friction.
 
 Each 
 
-# Layer I: ncreases precision
+### Layer I: ncreases precision
 
 .
 
 Each 
 
-# Layer C: ompounds liquidity control
+### Layer C: ompounds liquidity control
 
 .
 
-## Case Logic: How Cross-Border Liquidity Becomes Instant Consider a UHNW individual with
+Case Logic: How Cross-Border Liquidity Becomes Instant Consider a UHNW individual with
 
 :
 
@@ -364,9 +362,9 @@ It achieves liquidity with minimal disruption.
 
 This is engineered simplicity.
 
-This is applied intelligence. 
+This is applied intelligence.
 
-## The Future of Global Wealth Is Agentic Global portfolios will only become more distributed
+The Future of Global Wealth Is Agentic Global portfolios will only become more distributed
 
 .
 
@@ -388,9 +386,9 @@ The autonomous infrastructure.
 
 The discipline.
 
-principal authority powering global liquidity. 
+principal authority powering global liquidity.
 
-## Final Thought Liquidity is not a service
+Final Thought Liquidity is not a service
 
 .
 

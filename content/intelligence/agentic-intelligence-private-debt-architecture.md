@@ -170,11 +170,9 @@ Outside the energy domain, the focus remains on accessing platforms that can dem
 
 - Balance sheet optimization Roials Capital functions as the institutional guide that evaluates whether a platform qualifies under these criteria.
 
-The objective is to eliminate opacity and ensure allocators operate inside environments engineered for structural clarity. 
+The objective is to eliminate opacity and ensure allocators operate inside environments engineered for structural clarity.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
 
 .
 
@@ -208,11 +206,9 @@ It includes:
 
 * outlines the long horizon view of capital continuity.
 
-The agentic architecture strengthens the technical foundations required to fulfill this mandate at institutional scale. 
+The agentic architecture strengthens the technical foundations required to fulfill this mandate at institutional scale.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator today must calibrate to a market defined by informational arbitrage rather than access arbitrage
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator today must calibrate to a market defined by informational arbitrage rather than access arbitrage
 
 .
 

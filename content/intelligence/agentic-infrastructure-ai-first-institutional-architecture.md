@@ -120,7 +120,7 @@ This creates a living credit file rather than a static PDF snapshot.
 
 Data Federation 
 
-# Layer I
+### Layer I
 
 nstitutional allocators operate in multi jurisdictional environments.
 
@@ -138,7 +138,7 @@ The federation layer ensures compliant access.
 
 This 
 
-# Layer I: s not optional for cross border allocators
+### Layer I: s not optional for cross border allocators
 
 .
 
@@ -206,11 +206,9 @@ It is operational clarity.
 
 Agentic infrastructure becomes the medium through which the partnership operates.
 
-It converts what used to be slow transactional flows into continuous intelligence flows. 
+It converts what used to be slow transactional flows into continuous intelligence flows.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship within institutional capital systems refers to the disciplined management of resources so that waste is minimized and clarity is maximized
+THE STEWARDSHIP FILTER Stewardship within institutional capital systems refers to the disciplined management of resources so that waste is minimized and clarity is maximized
 
 .
 
@@ -254,17 +252,9 @@ This is why AI infrastructure is structurally compatible with resource anchored 
 
 These sectors operate on physics based or contract based predictability.
 
-They lend themselves to algorithmic verification. 
+They lend themselves to algorithmic verification.
 
- 
-
-## THE
-
- 
-
- 
-
-## DECISION MAKING LENS FOR ALLOCATORS Allocators navigating 2026 must evaluate their operational architecture through four filters
+THE DECISION MAKING LENS FOR ALLOCATORS Allocators navigating 2026 must evaluate their operational architecture through four filters
 
 .
 

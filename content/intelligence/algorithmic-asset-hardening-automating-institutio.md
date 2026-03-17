@@ -28,7 +28,7 @@ Sacred trust meets quantifiable order.
 
 Roials-Alpha occupies that interface with intent.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -50,7 +50,9 @@ Algorithmic asset hardening replaces intuition with systemized evaluation.
 
 It automates trustworthiness.
 
-It codifies order. # The Governance Thesis Covenant stewardship is not a slogan.
+It codifies order.
+
+The Governance Thesis Covenant stewardship is not a slogan.
 
 It is a behavioral architecture.
 
@@ -70,7 +72,9 @@ Stewardship requires clarity in three fronts.
 
 Institutional scrutiny is then not performed retroactively.
 
-It is pre-engineered. # From Operator Chaos to Institutional Signal The middle market is saturated with operational noise.
+It is pre-engineered.
+
+From Operator Chaos to Institutional Signal The middle market is saturated with operational noise.
 
 Disorganized financials.
 
@@ -104,7 +108,9 @@ Algorithmic asset hardening converts these environments into readable balance sh
 
 It synchronizes the operator with the allocator’s expectations.
 
-This is the core of Roials-Alpha. # Technical Dominance as a Doctrine Jonas Hyltén’s technology doctrine is not about autonomous infrastructure for comfort.
+This is the core of Roials-Alpha.
+
+Technical Dominance as a Doctrine Jonas Hyltén’s technology doctrine is not about autonomous infrastructure for comfort.
 
 It is about autonomous infrastructure for authority.
 
@@ -136,7 +142,9 @@ The stack produces three principal outcomes.
 
 It converts opaque assets into quantified structures.
 
-It converts informal business behavior into institution-ready patterns. # Algorithmic Asset Hardening Asset hardening is the process of transforming any collateral or operational entity into a structure suitable for institutional verification.
+It converts informal business behavior into institution-ready patterns.
+
+Algorithmic Asset Hardening Asset hardening is the process of transforming any collateral or operational entity into a structure suitable for institutional verification.
 
 This requires:
 
@@ -166,9 +174,11 @@ This preserves the integrity of allocators.
 
 It protects covenant structures.
 
-It reinforces capital stewardship. # The Intelligence 
+It reinforces capital stewardship.
 
-# Layer I: nstitutional scrutiny is predictable
+The Intelligence 
+
+### Layer I: nstitutional scrutiny is predictable
 
 .
 
@@ -204,7 +214,9 @@ They produce credit decisions that reflect mathematical order.
 
 This preserves capital.
 
-This strengthens allocation authority. # Execution Velocity Execution velocity is not speed.
+This strengthens allocation authority.
+
+Execution Velocity Execution velocity is not speed.
 
 It is compression.
 
@@ -234,7 +246,9 @@ Institutional allocators require asymmetry that does not depend on volatility or
 
 They require structural asymmetry.
 
-Roials-Alpha delivers it through intelligence architecture. # The Spiritual Architecture Stewardship is not sentiment.
+Roials-Alpha delivers it through intelligence architecture.
+
+The Spiritual Architecture Stewardship is not sentiment.
 
 It is operational discipline.
 
@@ -274,49 +288,51 @@ It structures covenant enforcement.
 
 This is not ideology.
 
-It is architectural consistency. # Structural Readiness for Institutional Scrutiny Institutional scrutiny is not mysterious.
+It is architectural consistency.
+
+Structural Readiness for Institutional Scrutiny Institutional scrutiny is not mysterious.
 
 It is process-driven.
 
-Roials-Alpha prepares operators through a clear logic path.
+Roials-Alpha prepares operators through a clear logic path. 
 
-# Step I: .
+### Step I: .
 
 Purify cashflows 
 
-# Step II: .
+### Step II: .
 
 Formalize governance 
 
-# Step III: .
+### Step III: .
 
 Segregate capital pools 
 
-# Step IV: .
+### Step IV: .
 
 Standardize reporting 
 
-# Step V: .
+### Step V: .
 
 Establish collateral dependability 
 
-# Step VI: .
+### Step VI: .
 
 Harden counterparty agreements 
 
-# Step VII: .
+### Step VII: .
 
 Synchronize timelines 
 
-# Step VIII: .
+### Step VIII: .
 
 Validate covenant literacy 
 
-# Step IX: .
+### Step IX: .
 
 Document operational predictability 
 
-# Step X: .
+### Step X: .
 
 Simulate institutional due diligence cycles Each step produces measurable improvement in structural integrity.
 
@@ -330,7 +346,9 @@ It reduces information gaps.
 
 It reduces underwriting drag.
 
-It accelerates deployment. # Collateral Classes and Thresholds Roials-Alpha addresses collateral through clarity.
+It accelerates deployment.
+
+Collateral Classes and Thresholds Roials-Alpha addresses collateral through clarity.
 
 Crypto [Asset-Backed Frameworks]([Roials Capital](https://roialscapital.com/)) requires a 
 2 million minimum.
@@ -354,15 +372,15 @@ Too much operational entropy.
 
 Thresholds protect allocators.
 
-They protect the integrity of 
-
-## THE MANDAT
+They protect the integrity of THE MANDAT
 
 E
 
 .
 
-They protect the covenant. # Principal-Grade Counterparty Selection Not all operators qualify.
+They protect the covenant.
+
+Principal-Grade Counterparty Selection Not all operators qualify.
 
 - Inability to demonstrate operational faithfulness
 
@@ -386,7 +404,7 @@ Allocators will not tolerate disorder.
 
 Christian principled stewardship will not authorize it.
 
-Roials-Alpha enforces this alignment. # autonomous infrastructure as Gatekeeper Agentic infrastructure is not a tool.
+Roials-Alpha enforces this alignment. autonomous infrastructure as Gatekeeper Agentic infrastructure is not a tool.
 
 It is a gate.
 
@@ -412,7 +430,9 @@ The system evaluates:
 
 Institutional readiness becomes a maintained state.
 
-Not a temporary façade. # Algorithmic Anticipation The difference between reactive Asset-Backed Frameworks and Principal-grade Institutional Liquidity Paths is anticipation.
+Not a temporary façade.
+
+Algorithmic Anticipation The difference between reactive Asset-Backed Frameworks and Principal-grade Institutional Liquidity Paths is anticipation.
 
 Reactive underwriting responds to surface data.
 
@@ -438,7 +458,9 @@ Roials-Alpha models:
 
 Advantage becomes alpha.
 
-Alpha becomes mandated authority. # Structural Alignment as Value Creation Value creation is not branding.
+Alpha becomes mandated authority.
+
+Structural Alignment as Value Creation Value creation is not branding.
 
 It is not sentiment.
 
@@ -462,7 +484,9 @@ Asset hardening creates value.
 
 Not through narrative.
 
-Through architecture. # The Roials-Alpha Cycle Operators enter disordered.
+Through architecture.
+
+The Roials-Alpha Cycle Operators enter disordered.
 
 They exit institutionally aligned.
 
@@ -496,7 +520,9 @@ High integrity.
 
 High discipline.
 
-High velocity. # The Principal Stance A Principal does not chase volume.
+High velocity.
+
+The Principal Stance A Principal does not chase volume.
 
 A Principal selects partners.
 
@@ -540,6 +566,8 @@ For Principals seeking structural authority.
 
 For UHNW and institutional mandates seeking disciplined credit frameworks.
 
-Roials-Alpha is the architecture. # Access is restricted to approved mandates.
+Roials-Alpha is the architecture.
+
+Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

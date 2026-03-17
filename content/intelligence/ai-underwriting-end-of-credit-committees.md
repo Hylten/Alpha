@@ -126,7 +126,7 @@ PHASE THREE: AGENTIC INFRASTRUCTURE
 
 The ingestion 
 
-# Layer I: s not passive; it is anticipatory
+### Layer I: s not passive; it is anticipatory
 
 .
 

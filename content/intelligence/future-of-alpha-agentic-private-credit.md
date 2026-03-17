@@ -16,9 +16,9 @@ This gap is now measurable in cycle times, recovery precision, default anticipat
 
 The strategic reality is that private credit alpha in the next decade will not be a function of price negotiation or capital access.
 
-It will be a function of computational architecture.
+It will be a function of computational architecture. 
 
-# Phase I: .
+### Phase I: .
 
 THE REGIME SHIFT
 
@@ -26,7 +26,7 @@ THE REGIME SHIFT
 
 Each 
 
-# Phase C
+### Phase C
 
 reated a new performance threshold and a new challenge for allocators.
 
@@ -72,9 +72,9 @@ Allocators without agentic infrastructure cannot maintain competitive cycle time
 
 The market no longer rewards capital.
 
-It rewards computational advantage.
+It rewards computational advantage. 
 
-# Phase II: .
+### Phase II: .
 
 TECHNICAL MECHANICS
 
@@ -82,7 +82,7 @@ TECHNICAL MECHANICS
 
 They are multi 
 
-# Layer D
+### Layer D
 
 ecision architectures that replace entropy with structured intelligence across the entire lifecycle of a credit instrument.
 
@@ -150,9 +150,9 @@ The cycle time from discovery to deployment compresses.
 
 The clarity of risk calibration increases.
 
-Default events become predictable rather than disruptive.
+Default events become predictable rather than disruptive. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within this regime shift as a strategic navigator.
 
@@ -192,13 +192,13 @@ This includes decisions regarding portfolio structure, credit architecture upgra
 
 The objective is clarity.
 
-The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring.
+The allocator receives a distilled technical map of what is possible, what is inefficient, and what requires restructuring. 
 
-# Phase IV: .
+### Phase IV
 
- 
+.
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of resource management that prioritizes responsible deployment over speculative acceleration
+THE STEWARDSHIP FILTER Stewardship is a discipline of resource management that prioritizes responsible deployment over speculative acceleration
 
 .
 
@@ -244,9 +244,9 @@ Institutional resilience.
 
 Stewardship includes designing a portfolio that can withstand rate shifts, liquidity stress, and macroeconomic turbulence without reactive repositioning.
 
-Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis.
+Agentic surveillance systems reinforce this resilience by providing anticipatory intelligence rather than post event analysis. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION ARCHITECTURE FOR THE ALLOCATOR The allocator operating in 2026 faces a bifurcated landscape.
 

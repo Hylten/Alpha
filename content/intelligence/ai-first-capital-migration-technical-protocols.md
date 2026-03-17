@@ -58,9 +58,9 @@ Allocators that fail to realign toward data centric capital migration will exper
 
 TECHNICAL MECHANICS
 
- OF AI FIRST CAPITAL MIGRATION The technical foundation of AI driven capital movement can be modeled across four operational pillars.
+ OF AI FIRST CAPITAL MIGRATION The technical foundation of AI driven capital movement can be modeled across four operational pillars. 
 
-# Pillar I
+### Pillar I
 
 Algorithmic Underwriting Algorithmic underwriting is not simply automated data intake.
 
@@ -76,9 +76,9 @@ The architecture focuses on:
 
 - Covenant Elasticity Scoring: Real time stress testing of borrower compliance behavior across historical patterns.
 
-This model creates an underwriting environment where risk visibility is immediate, not episodic.
+This model creates an underwriting environment where risk visibility is immediate, not episodic. 
 
-# Pillar I: I
+### Pillar I: I
 
 Autonomous Monitoring and Cash Flow Governance AI governed credit platforms track cash flows, collateral conditions, and borrower performance across real time datasets.
 
@@ -92,9 +92,9 @@ Core mechanisms include:
 
 - Cross Collateralized Asset Mapping: Real time valuation and linkage of interconnected assets to ensure structural seniority and minimize loss exposures.
 
-AI driven monitoring reduces default detection lag and enhances institutional stability.
+AI driven monitoring reduces default detection lag and enhances institutional stability. 
 
-# Pillar II: I
+### Pillar II: I
 
 Monetization Architecture and Automated Reallocation AI first capital migration systems execute Monetization Architecture protocols.
 
@@ -108,9 +108,9 @@ Asset-Backed Frameworks includes:
 
 - Market Condition Triggering: Automatic redeployment of idle capital based on volatility and asset specific pricing signals.
 
-This produces a more elastic and responsive liquidity architecture.
+This produces a more elastic and responsive liquidity architecture. 
 
-# Pillar I: V
+### Pillar I: V
 
 Machine Governed Compliance AI compliance models interpret regulatory frameworks in real time, reducing exposure to regulatory drift.
 
@@ -130,7 +130,7 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within th
 
 The role is not to function as the manager of capital nor the owner of underlying assets.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -158,11 +158,9 @@ Where alternative asset classes are considered, Roials Capital provides neutral 
 
 - Institutional Structuring Protocols for Fund-III and parallel vehicles Roials Capital remains positionally neutral.
 
-The value is in clarity, not solicitation. 
+The value is in clarity, not solicitation.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of responsible capital architecture
+THE STEWARDSHIP FILTER Stewardship is the discipline of responsible capital architecture
 
 .
 
@@ -188,11 +186,9 @@ AI first migration strengthens stewardship disciplines through:
 
 - Eliminated waste within operational workflows.
 
-This aligns capital behavior with the requirements of multigenerational planning. 
+This aligns capital behavior with the requirements of multigenerational planning.
 
- 
-
-## DECISION ARCHITECTURE FOR THE ALLOCATOR The AI first regime requires allocators to evaluate their portfolios across three decision categories
+DECISION ARCHITECTURE FOR THE ALLOCATOR The AI first regime requires allocators to evaluate their portfolios across three decision categories
 
 .
 

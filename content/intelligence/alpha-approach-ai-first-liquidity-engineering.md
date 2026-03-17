@@ -196,11 +196,9 @@ The due diligence standard focuses on:
 
 - Stress case outputs
 
-- Human override protocols The objective is to align allocators with AI first liquidity platforms that meet institutional grade criteria. 
+- Human override protocols The objective is to align allocators with AI first liquidity platforms that meet institutional grade criteria.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship within capital markets is not sentiment
+THE STEWARDSHIP FILTER Stewardship within capital markets is not sentiment
 
 .
 
@@ -230,11 +228,9 @@ AI first liquidity architecture supports stewardship through:
 
 - Decreased default volatility
 
-- Improved recovery certainty The stewardship filter positions AI not as an efficiency tool but as a governance framework that enforces disciplined capital behavior. 
+- Improved recovery certainty The stewardship filter positions AI not as an efficiency tool but as a governance framework that enforces disciplined capital behavior.
 
- 
-
-## PORTFOLIO CALIBRATION LENS Institutional allocators now face a bifurcated ecosystem
+PORTFOLIO CALIBRATION LENS Institutional allocators now face a bifurcated ecosystem
 
 .
 

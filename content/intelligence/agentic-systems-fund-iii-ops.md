@@ -18,7 +18,7 @@ As private equity Fund-III investment opportunities 2026 expand across energy, i
 
 Fund-III structures require multi jurisdictional precision, compressed deal cycle timing, cross strata Asset-Backed Frameworks, and synchronized capital efficiency across multiple asset classes.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

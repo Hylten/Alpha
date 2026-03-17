@@ -206,11 +206,9 @@ Roials Capital's role is not to present products or solicit capital.
 
 The role is to provide the macro intelligence, structural clarity, and jurisdictional mapping required for allocators to navigate complex sectors without friction.
 
-This model is designed for UHNWIs, multi family offices, private credit desks, and institutional LPs who require distilled clarity across difficult asset classes. 
+This model is designed for UHNWIs, multi family offices, private credit desks, and institutional LPs who require distilled clarity across difficult asset classes.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not an ethical abstraction
+THE STEWARDSHIP FILTER Stewardship is not an ethical abstraction
 
 .
 
@@ -244,11 +242,9 @@ Agentic systems support this discipline by ensuring that capital is governed by 
 
 When allocators apply the stewardship filter, they remove noise, increase resilience, and maintain alignment with institutional mandates.
 
-This applies equally to energy, credit, real assets, and cross border portfolios. 
+This applies equally to energy, credit, real assets, and cross border portfolios.
 
- 
-
-## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 2026 regime must evaluate opportunities through five lenses
+DECISION FRAMEWORK FOR THE ALLOCATOR Allocators operating within the 2026 regime must evaluate opportunities through five lenses
 
 :
 

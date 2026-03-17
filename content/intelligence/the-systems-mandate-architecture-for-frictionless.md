@@ -20,9 +20,9 @@ From systems that eliminate variance and force institutional grade clarity.
 
 This mandate is not a philosophy.
 
-It is architecture. 
+It is architecture.
 
-## The Principal’s Lens Institutional pools respond to structure
+The Principal’s Lens Institutional pools respond to structure
 
 .
 
@@ -44,9 +44,9 @@ The role of Roials-Alpha is not advisory.
 
 It is architectural.
 
-We engineer the intelligence stack that produces liquidity without negotiation. 
+We engineer the intelligence stack that produces liquidity without negotiation.
 
-## Covenant Stewardship as Design Logic A business is a trust
+Covenant Stewardship as Design Logic A business is a trust
 
 .
 
@@ -66,9 +66,9 @@ This is structural alignment.
 
 This is asset hardening.
 
-This is where institutional trust is created. 
+This is where institutional trust is created.
 
-## Architecture
+Architecture
 
 .
 
@@ -102,9 +102,9 @@ Systems that act.
 
 Systems that observe.
 
-Systems that reduce friction until liquidity becomes a switch, not a negotiation. 
+Systems that reduce friction until liquidity becomes a switch, not a negotiation.
 
-## Execution Velocity Velocity is not speed
+Execution Velocity Velocity is not speed
 
 .
 
@@ -130,9 +130,9 @@ It is not about autonomous infrastructure.
 
 It is about sovereignty.
 
-When the intelligence stack controls the sequence, execution becomes inevitable. 
+When the intelligence stack controls the sequence, execution becomes inevitable.
 
-## Structural Alignment for Institutional Scrutiny The institutional threshold is high for a reason
+Structural Alignment for Institutional Scrutiny The institutional threshold is high for a reason
 
 .
 
@@ -156,9 +156,9 @@ Anything less than this is friction.
 
 Friction is what kills liquidity.
 
-The Roials-Alpha architecture eliminates it. 
+The Roials-Alpha architecture eliminates it.
 
-## Asset Hardening Asset hardening converts the abstract into the bankable
+Asset Hardening Asset hardening converts the abstract into the bankable
 
 .
 
@@ -182,9 +182,9 @@ Most assets fail at step one because they remain conceptual.
 
 Hardening brings them into institutional reality.
 
-This is the principal’s discipline. 
+This is the principal’s discipline.
 
-## The Roials-Alpha Stack The architecture rests on six pillars
+The Roials-Alpha Stack The architecture rests on six pillars
 
 .
 
@@ -239,7 +239,7 @@ If a deviation emerges, the system enforces correction.
 
 Process Compression Every unnecessary 
 
-# Step I: s a liability
+### Step I: s a liability
 
 .
 
@@ -287,9 +287,9 @@ The architecture supports:
 
 - Cross-border asset based structures.
 
-Execution is predictable because the system is sovereign. 
+Execution is predictable because the system is sovereign.
 
-## Intelligence Before Capital Capital does not solve disorder
+Intelligence Before Capital Capital does not solve disorder
 
 .
 
@@ -307,7 +307,7 @@ Following it creates unstoppable liquidity Access is restricted to approved mand
 
 Minimum mandate depth: $5M+ target size.
 
-## The Gnosjö Framework Swedish industrialists built generational wealth through
+The Gnosjö Framework Swedish industrialists built generational wealth through
 
 :
 
@@ -331,9 +331,9 @@ They produce reliability.
 
 Reliability produces liquidity.
 
-Liquidity produces permanence. 
+Liquidity produces permanence.
 
-## Institutional Compatibility The institutional world rewards
+Institutional Compatibility The institutional world rewards
 
 :
 
@@ -357,7 +357,7 @@ This is the difference between Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -373,9 +373,9 @@ This is not autonomous infrastructure.
 
 This is authority.
 
-When the architecture is sovereign, capital aligns automatically. 
+When the architecture is sovereign, capital aligns automatically.
 
-## Sovereign Liquidity Architecture The final outcome
+Sovereign Liquidity Architecture The final outcome
 
 :
 
@@ -403,9 +403,9 @@ Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-Capital becomes obedient to structure. 
+Capital becomes obedient to structure.
 
-## Closing Intelligence Operators who submit to engineering gain Access is restricted to approved mandates
+Closing Intelligence Operators who submit to engineering gain Access is restricted to approved mandates
 
 .
 
@@ -419,9 +419,9 @@ The principal understands this.
 
 The steward embraces it.
 
-The marketplace acknowledges it. 
+The marketplace acknowledges it.
 
-## CTA Access is restricted to approved mandates
+CTA Access is restricted to approved mandates
 
 .
 

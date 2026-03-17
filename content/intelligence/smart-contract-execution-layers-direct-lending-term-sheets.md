@@ -30,9 +30,9 @@ Speed wins.
 
 Precision compounds.
 
-This is the brief.
+This is the brief. 
 
-# Phase I: - ## Vault-secured
+### Phase I: - ## Vault-secured
 
 .
 
@@ -86,9 +86,9 @@ Direct‑lending ceases to be a sequence of opinions.
 
 It becomes a sequence of truths.
 
-The market still hasn’t digested what this means. 
+The market still hasn’t digested what this means.
 
-## THE EXECUTION LAYE
+THE EXECUTION LAYE
 
 R
 
@@ -98,23 +98,23 @@ Everything else is noise.
 
 1.
 
-Data Ingestion
+Data Ingestion 
 
-# Layer II: .
+### Layer II: .
 
-Interpretation
+Interpretation 
 
-# Layer III: .
+### Layer III: .
 
-Execution
+Execution 
 
-# Layer IV: .
+### Layer IV: .
 
 Exception Governance Layer Each layer has its own jurisdictional logic.
 
 Each 
 
-# Layer I: nterfaces with AI-first underwriting
+### Layer I: nterfaces with AI-first underwriting
 
 .
 
@@ -128,7 +128,7 @@ Machine connectors feed it operational data, financial statements, flows, collat
 
 The ingestion 
 
-# Layer I
+### Layer I
 
 s not a single pipe; it is a mesh of controlled data conduits.
 
@@ -260,11 +260,11 @@ Exception governance handles:
 
 - Structural renegotiation This 
 
-# Layer I
+### Layer I
 
 s the safety valve, the institutional bracing, the control tower that allows machine logic and human governance to coexist without conflict.
 
-# Phase II: - PRINCIPAL VOICE The Principal states
+Phase II: - PRINCIPAL VOICE The Principal states
 
 .
 
@@ -314,9 +314,9 @@ Code.
 
 Consequence.
 
-The architecture stands.
+The architecture stands. 
 
-# Phase III: - INTERNAL BYPASS Sovereign syntax variation
+### Phase III: - INTERNAL BYPASS Sovereign syntax variation
 
 .
 
@@ -368,9 +368,9 @@ End‑to‑end.
 
 Families do not win through negotiation.
 
-Families win through architecture. 
+Families win through architecture.
 
-## AGENTIC INFRASTRUCTUR
+AGENTIC INFRASTRUCTUR
 
 E
 
@@ -382,7 +382,7 @@ The execution layer enforces rules.
 
 The agentic 
 
-# Layer I
+### Layer I
 
 nterprets outcomes, proposes adjustments, and optimizes future deals.
 
@@ -408,9 +408,9 @@ Humans remain sovereign.
 
 The agent accelerates sovereignty.
 
-This is the future of direct‑lending: autonomous analysis with principal authority. 
+This is the future of direct‑lending: autonomous analysis with principal authority.
 
-## A FINAL NOTE For Roials-Alpha, friction is the enemy
+A FINAL NOTE For Roials-Alpha, friction is the enemy
 
 .
 

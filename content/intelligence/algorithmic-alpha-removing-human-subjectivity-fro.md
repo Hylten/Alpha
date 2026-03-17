@@ -62,7 +62,7 @@ Even sophisticated institutions fall prey to conviction bias and overconfidence 
 
 Roials-Alpha rejects this contamination.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -243,9 +243,7 @@ It is doctrine.
 
 A Christian conservative principle.
 
-To steward is to preserve value, strengthen structures, and protect the integrity of 
-
-## THE MANDAT
+To steward is to preserve value, strengthen structures, and protect the integrity of THE MANDAT
 
 E
 
@@ -361,7 +359,7 @@ Velocity is precision.
 
 - ## The Surveillance 
 
-# Layer C: hristian stewardship demands vigilant oversight
+### Layer C: hristian stewardship demands vigilant oversight
 
 .
 
@@ -369,7 +367,7 @@ Roials-Alpha uses continuous monitoring to ensure that no asset is assumed stabl
 
 This surveillance 
 
-# Layer C: aptures
+### Layer C: aptures
 
 :
 

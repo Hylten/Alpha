@@ -172,7 +172,7 @@ The personal estate must remain isolated, insulated, and unexposed to credit ope
 
 The capital 
 
-# Layer M
+### Layer M
 
 ust remain aggressive, mobile, and algorithmically optimized.
 
@@ -484,9 +484,7 @@ A machine, not a ledger.
 
 XII.
 
-PRINCIPAL 
-
-## MANDATE: CONTROL EVERY LAYER Estates collapse when families delegate control
+PRINCIPAL MANDATE: CONTROL EVERY LAYER Estates collapse when families delegate control
 
 .
 
@@ -540,7 +538,7 @@ It is an upgrade to the way a principal family executes power.
 
 To receive the architecture is to 
 
-# Step I: nto the long arc of capital continuity
+### Step I: nto the long arc of capital continuity
 
 .
 

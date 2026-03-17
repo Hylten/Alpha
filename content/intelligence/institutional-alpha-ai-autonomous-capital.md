@@ -158,11 +158,9 @@ In private credit and real estate, Roials Capital performs a similar function.
 
 The emphasis is on underwriting integrity, structural seniority, collateral efficiency, and precision in credit stack design.
 
-AI is integrated at every stage to eliminate friction, reduce cycle times, and increase the probability of alignment between asset behavior and capital requirements. 
+AI is integrated at every stage to eliminate friction, reduce cycle times, and increase the probability of alignment between asset behavior and capital requirements.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
 
 .
 
@@ -204,17 +202,9 @@ This sequencing aligns with the theology of capital where preservation enables l
 
 Stewardship is not passive.
 
-It is the continuous refinement of balance sheet integrity and operational discipline. 
+It is the continuous refinement of balance sheet integrity and operational discipline.
 
- 
-
-## THE
-
- 
-
- 
-
-## DECISION MAKING LENS FOR ALLOCATORS As AI reshapes markets, allocators face a bifurcation
+THE DECISION MAKING LENS FOR ALLOCATORS As AI reshapes markets, allocators face a bifurcation
 
 .
 

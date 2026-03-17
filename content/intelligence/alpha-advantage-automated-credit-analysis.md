@@ -70,9 +70,9 @@ Human oversight.
 
 Institutional control.
 
-The architecture begins there. 
+The architecture begins there.
 
-## AUTONOMOUS CREDIT COMPUTATION True automated credit analysis has nothing to do with dashboards
+AUTONOMOUS CREDIT COMPUTATION True automated credit analysis has nothing to do with dashboards
 
 .
 
@@ -104,9 +104,9 @@ The portfolio begins to breathe on its own.
 
 AI does not simply optimize underwriting.
 
-It rewrites the rules of underwriting. 
+It rewrites the rules of underwriting.
 
-## THE STACK The architecture that delivers sovereign advantage works across four layers:
+THE STACK The architecture that delivers sovereign advantage works across four layers:
 
  
 
@@ -142,7 +142,7 @@ Nothing ignored.
 
 Fusion 
 
-# Layer M: achine-brain consolidation
+### Layer M: achine-brain consolidation
 
 .
 
@@ -184,9 +184,9 @@ The stack stands or collapses on fusion.
 
 Without fusion, automated underwriting is cosmetic.
 
-With fusion, it becomes inevitable. 
+With fusion, it becomes inevitable.
 
-## THE ALPHA ZONE Most firms operate in the reactive zone-post-default, post-deterioration, post-newsflow
+THE ALPHA ZONE Most firms operate in the reactive zone-post-default, post-deterioration, post-newsflow
 
 .
 
@@ -218,9 +218,9 @@ Machines catch:
 
 • Internal control fractures This is where institutional advantage forms.
 
-The earlier the detection, the cheaper the intervention. 
+The earlier the detection, the cheaper the intervention.
 
-## THE ROIALS-ALPHA CREDIT ENGINE The Roials-Alpha model defines credit analysis not as a process but as an institutional weapon
+THE ROIALS-ALPHA CREDIT ENGINE The Roials-Alpha model defines credit analysis not as a process but as an institutional weapon
 
 .
 
@@ -236,9 +236,9 @@ Axiom Two: Collateral is a living organism.
 
 Axiom Three: Cashflow is the final truth.
 
-These axioms shape every decision. 
+These axioms shape every decision.
 
-## CASHFLOW DOMINANCE Cashflow wins
+CASHFLOW DOMINANCE Cashflow wins
 
 .
 
@@ -272,9 +272,9 @@ Machines track:
 
 Credit is about trajectory.
 
-Automated systems see trajectory in ways humans cannot. 
+Automated systems see trajectory in ways humans cannot.
 
-## COLLATERAL RESOLUTION MODELS Collateral is rarely what borrowers say it is
+COLLATERAL RESOLUTION MODELS Collateral is rarely what borrowers say it is
 
 .
 
@@ -296,9 +296,9 @@ Automated engines compute the real number:
 
 Machines do not.
 
-The precision gap compounds into alpha. 
+The precision gap compounds into alpha.
 
-## OIL AND GAS CREDIT COMPLEXITY In energy lending, complexity multiplies
+OIL AND GAS CREDIT COMPLEXITY In energy lending, complexity multiplies
 
 .
 
@@ -330,9 +330,9 @@ Yield forecasts blend with risk curves.
 
 Exposure throttling becomes automatic.
 
-The result: resilient private credit portfolios built for turbulence. 
+The result: resilient private credit portfolios built for turbulence.
 
-## JURISDICTIONAL ARBITRAGE Alpha scales when structure beats price
+JURISDICTIONAL ARBITRAGE Alpha scales when structure beats price
 
 .
 
@@ -388,9 +388,9 @@ Not hoped for.
 
 Not guessed.
 
-Engineered. 
+Engineered.
 
-## THE HUMAN FRICTION PROBLEM Human teams slow deals
+THE HUMAN FRICTION PROBLEM Human teams slow deals
 
 .
 
@@ -442,9 +442,9 @@ Wealth preservation demands discipline.
 
 Wealth expansion demands autonomous infrastructure.
 
-Family offices that embrace AI-first credit architecture outperform because they eliminate the human error surface. autonomous infrastructure protects the lineage. autonomous infrastructure multiplies the legacy. 
+Family offices that embrace AI-first credit architecture outperform because they eliminate the human error surface. autonomous infrastructure protects the lineage. autonomous infrastructure multiplies the legacy.
 
-## THE NEW IMPERATIVE The Alpha Advantage emerges from five non-negotiables
+THE NEW IMPERATIVE The Alpha Advantage emerges from five non-negotiables
 
 :
 

@@ -150,11 +150,9 @@ Roials Capital evaluates the governance integrity of algorithmic decision pathwa
 
 When aligned with energy assets, Roials Capital leverages strategic partner NAEO to integrate physical asset intelligence with credit modeling.
 
-NAEO's operational ecosystem in the Alberta basin produces asset behavior patterns that can be mapped directly into predictive Asset-Based Lending frameworks, allowing allocators to calibrate credit exposure with elevated accuracy. 
+NAEO's operational ecosystem in the Alberta basin produces asset behavior patterns that can be mapped directly into predictive Asset-Based Lending frameworks, allowing allocators to calibrate credit exposure with elevated accuracy.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a technical discipline
+THE STEWARDSHIP FILTER Stewardship is a technical discipline
 
 .
 
@@ -180,11 +178,9 @@ This aligns with responsible resource deployment, where credit supports producti
 
 Stewardship is not a moral abstraction.
 
-It is an operational imperative for any enterprise managing capital under institutional visibility. 
+It is an operational imperative for any enterprise managing capital under institutional visibility.
 
- 
-
-## DECISION FRAMEWORK FOR ALLOCATORS Predictive Asset-Based Lending is not an incremental improvement
+DECISION FRAMEWORK FOR ALLOCATORS Predictive Asset-Based Lending is not an incremental improvement
 
 .
 

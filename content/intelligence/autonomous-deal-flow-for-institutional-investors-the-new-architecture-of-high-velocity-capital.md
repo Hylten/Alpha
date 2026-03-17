@@ -24,9 +24,9 @@ They command liquidity on arrival.
 
 They require precision.
 
-They expect invisibility. 
+They expect invisibility.
 
-## Autonomous Deal Flow as a Competitive Moat for HNWI and UHNW Investors HNWI and UHNW profiles share a specific advantage
+Autonomous Deal Flow as a Competitive Moat for HNWI and UHNW Investors HNWI and UHNW profiles share a specific advantage
 
 .
 
@@ -48,9 +48,9 @@ Minimum mandate depth: $5M+ target size.
 
 The combination is a competitive moat.
 
-It transforms capital from passive to active without increasing cognitive load. 
+It transforms capital from passive to active without increasing cognitive load.
 
-## Roials-Alpha as the Institutional Mechanic Our brand exists to engineer structure, not marketing campaigns
+Roials-Alpha as the Institutional Mechanic Our brand exists to engineer structure, not marketing campaigns
 
 .
 
@@ -62,9 +62,9 @@ HNWI and UHNW investors plug into the ecosystem and gain immediate structural le
 
 Borrowers enter and gain clarity.
 
-The system remains quiet, efficient, and optimized. 
+The system remains quiet, efficient, and optimized.
 
-## The Evolution of Private Markets Will Be Autonomous Global capital flows are increasing
+The Evolution of Private Markets Will Be Autonomous Global capital flows are increasing
 
 .
 
@@ -78,11 +78,9 @@ Autonomy is not a convenience.
 
 It is the future operating system of institutional finance.
 
-Roials-Alpha designs that system. 
+Roials-Alpha designs that system.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

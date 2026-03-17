@@ -64,11 +64,9 @@ Not a portal.
 
 Not a vault.
 
-A jurisdiction of truth. 
+A jurisdiction of truth.
 
- 
-
-## PRINCIPAL TON
+PRINCIPAL TON
 
 E
 
@@ -102,9 +100,9 @@ Then we reach the critical transition: a self-validating data room becomes a sel
 
 That is where the private markets divide into pre
 
-- and post-autonomy. 
+- and post-autonomy.
 
-## THE STRUCTURAL technical brief We focus on the architecture
+THE STRUCTURAL technical brief We focus on the architecture
 
 .
 
@@ -246,9 +244,9 @@ Deals close faster.
 
 Diligence becomes cleaner.
 
-Uncertainty evaporates. 
+Uncertainty evaporates.
 
-## THE AGENTIC INFRASTRUCTURE You asked about agentic infrastructure specifically
+THE AGENTIC INFRASTRUCTURE You asked about agentic infrastructure specifically
 
 .
 
@@ -256,9 +254,9 @@ We go deeper.
 
 Agentic infrastructure is not “AI that helps.” It is “AI that acts.” It carries its own mandate: reduce friction, enforce truth, accelerate execution.
 
-The architecture has three pillars.
+The architecture has three pillars. 
 
-# Pillar I
+### Pillar I
 
 The Sovereign Core The sovereign core is the primary decision engine.
 
@@ -270,9 +268,9 @@ It is the undisputed authority inside the room.
 
 Every other agent reports to it.
 
-It produces the final verdict.
+It produces the final verdict. 
 
-# Pillar I: I
+### Pillar I: I
 
 The Autonomous Perimeter These agents interface with the outside world.
 
@@ -284,9 +282,9 @@ The perimeter protects the core.
 
 It extends the room’s reach.
 
-It makes the data room a market participant rather than a passive repository.
+It makes the data room a market participant rather than a passive repository. 
 
-# Pillar II: I
+### Pillar II: I
 
 The Execution Swarm This is where real operational leverage is created.
 
@@ -304,9 +302,9 @@ Human teams operate at linear scale.
 
 Agentic infrastructures operate at asymmetric scale.
 
-This is where Roials-Alpha outpaces competitors. 
+This is where Roials-Alpha outpaces competitors.
 
-## THE IMPACT ON FAMILY OFFICES AND Fund-III OPERATORS High-net-worth and ultra-high-net-worth family offices operate with one constraint: the signal-to-noise ratio must remain pristine
+THE IMPACT ON FAMILY OFFICES AND Fund-III OPERATORS High-net-worth and ultra-high-net-worth family offices operate with one constraint: the signal-to-noise ratio must remain pristine
 
 .
 
@@ -322,9 +320,9 @@ It is a category shift.
 
 The firms that adopt self-validating data rooms first will define the new market standard.
 
-Those who ignore the shift will be trapped in slower cycles and weaker deal flow. 
+Those who ignore the shift will be trapped in slower cycles and weaker deal flow.
 
-## JURISDICTIONAL ARBITRAGE THROUGH AGENTIC VERIFICATION Private markets are multi-jurisdictional by nature
+JURISDICTIONAL ARBITRAGE THROUGH AGENTIC VERIFICATION Private markets are multi-jurisdictional by nature
 
 .
 
@@ -368,9 +366,9 @@ This is not technology.
 
 It is architecture.
 
-And architecture always determines power. 
+And architecture always determines power.
 
-## THE FINAL STATEMENT Autonomous data rooms validating their own inputs mark the beginning of a new era in private markets
+THE FINAL STATEMENT Autonomous data rooms validating their own inputs mark the beginning of a new era in private markets
 
 .
 

@@ -134,9 +134,9 @@ The future private credit ecosystem is a sequence of deterministic outputs, not 
 
 The institutions that grasp this reframe will sit on the apex layer of global liquidity by 
 
-2030. 
+2030.
 
-## ASSET-BASED LIQUIDITY AS PRIMARY CAPITAL ENGINE Asset-based financing has always existed but has never been engineered into a full-stack liquidity architecture
+ASSET-BASED LIQUIDITY AS PRIMARY CAPITAL ENGINE Asset-based financing has always existed but has never been engineered into a full-stack liquidity architecture
 
 .
 
@@ -180,9 +180,9 @@ Every node connects to the Roials-Alpha engine.
 
 Every connection increases velocity.
 
-This is the new network effect in private credit. 
+This is the new network effect in private credit.
 
-## THE FRAGMENTATION ADVANTAGE Legacy firms collapse under complexity
+THE FRAGMENTATION ADVANTAGE Legacy firms collapse under complexity
 
 .
 
@@ -230,9 +230,9 @@ Where private credit funds see compliance overhead, the system sees liquidity tu
 
 Fragmentation becomes fuel.
 
-This structural approach allows Fund-III portfolios to expand without exposure drift, enabling repeatable, predictable, high-certainty deployment cycles even in volatile regimes. 
+This structural approach allows Fund-III portfolios to expand without exposure drift, enabling repeatable, predictable, high-certainty deployment cycles even in volatile regimes.
 
-## THE POST-CYCLE CREDIT REGIME The global credit market has entered a new phase
+THE POST-CYCLE CREDIT REGIME The global credit market has entered a new phase
 
 .
 
@@ -300,9 +300,9 @@ The institutions with AI-first credit ecosystems will dominate every asset-heavy
 
 Legacy lenders cannot provide it.
 
-Roials-Alpha provides deterministic liquidity channels that respond to real structural inputs, not committees. 
+Roials-Alpha provides deterministic liquidity channels that respond to real structural inputs, not committees.
 
-## ROIALS-ALPHA COLLATERAL INTELLIGENCE ENGINE Collateral intelligence drives the next generation of credit
+ROIALS-ALPHA COLLATERAL INTELLIGENCE ENGINE Collateral intelligence drives the next generation of credit
 
 .
 
@@ -318,9 +318,9 @@ Temporal decay tracking.
 
 Failure-mode datasets.
 
-Predictive volatility mapping.
+Predictive volatility mapping. 
 
-# Layer II: Legal Sovereignty Cross-jurisdictional compliance lattice
+### Layer II: Legal Sovereignty Cross-jurisdictional compliance lattice
 
 .
 
@@ -330,9 +330,9 @@ Contract atomization.
 
 Perimeter reinforcement.
 
-Enforcement visibility indexing.
+Enforcement visibility indexing. 
 
-# Layer III: Liquidity Consequence Forward liquidity curves
+### Layer III: Liquidity Consequence Forward liquidity curves
 
 .
 
@@ -350,9 +350,9 @@ These signatures unlock deterministic credit envelopes.
 
 Collateral is no longer appraised; collateral is computed.
 
-This is the future. 
+This is the future.
 
-## THE ELIMINATION OF HUMAN FRICTION Human friction is the first enemy of liquidity
+THE ELIMINATION OF HUMAN FRICTION Human friction is the first enemy of liquidity
 
 .
 
@@ -396,9 +396,9 @@ Families running legacy family offices will fall behind.
 
 Families operating institutional architectures will advance.
 
-Those who deploy AI-first liquidity systems will dominate multigenerational wealth cycles. 
+Those who deploy AI-first liquidity systems will dominate multigenerational wealth cycles.
 
-## THE SOVEREIGN INSTITUTION MODEL Roials-Alpha promotes a new operating model: the Sovereign Institution
+THE SOVEREIGN INSTITUTION MODEL Roials-Alpha promotes a new operating model: the Sovereign Institution
 
 .
 
@@ -430,9 +430,9 @@ It converts uncertainty into structural dominance.
 
 * 
 
-* is fulfilled not through passive wealth preservation but through engineered institutional longevity. 
+* is fulfilled not through passive wealth preservation but through engineered institutional longevity.
 
-## THE NEW Fund-III PARADIGM Fund-III structures powered by Roials-Alpha evolve beyond conventional fund mechanics
+THE NEW Fund-III PARADIGM Fund-III structures powered by Roials-Alpha evolve beyond conventional fund mechanics
 
 .
 
@@ -460,9 +460,9 @@ Not by raising more capital but by engineering higher turnover, higher certainty
 
 The future fund is not a vehicle.
 
-It is an algorithm. 
+It is an algorithm.
 
-## THE ENERGY AND OIL & GAS ADVANTAGE Oil and gas assets are misunderstood by modern lenders
+THE ENERGY AND OIL & GAS ADVANTAGE Oil and gas assets are misunderstood by modern lenders
 
 .
 
@@ -504,9 +504,9 @@ Oil and gas portfolios become liquidity engines with:
 
 Oil and gas becomes the prime liquidity sector of the post-energy transition decade because the assets are tangible, durable, and predictable under correct modeling.
 
-Roials-Alpha exploits this. 
+Roials-Alpha exploits this.
 
-## THE AI-DRIVEN LIQUIDITY MAP The future is already visible
+THE AI-DRIVEN LIQUIDITY MAP The future is already visible
 
 .
 
@@ -526,9 +526,9 @@ Families that adopt this system will anchor multigenerational capital dynasties.
 
 Families that refuse will fade under structural pressure.
 
-The future belongs to the engineered. 
+The future belongs to the engineered.
 
-## MANDATE METRIC: Liquidity Acceleration Factor (LAF): 11
+MANDATE METRIC: Liquidity Acceleration Factor (LAF): 11
 
 .
 7 Access is restricted to approved mandates.

@@ -148,11 +148,9 @@ Just as NAEO represents an institutional archetype in North American energy oper
 
 Roials Capital positions the allocator in proximity to best in class operators rather than assuming operational responsibility.
 
-This preserves neutrality while maximizing strategic clarity. 
+This preserves neutrality while maximizing strategic clarity.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive assets without waste, excess, or informational distortions
+THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive assets without waste, excess, or informational distortions
 
 .
 
@@ -180,11 +178,9 @@ By anchoring loans to verified and continuously monitored collateral, capital is
 
 Frontier markets historically suffered from weak collateral assurance.
 
-AI resolves the assurance gap and restores the ethical foundation of lending. 
+AI resolves the assurance gap and restores the ethical foundation of lending.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI driven Asset-Based Lending systems are not assessing a thematic innovation cycle
+DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI driven Asset-Based Lending systems are not assessing a thematic innovation cycle
 
 .
 

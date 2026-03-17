@@ -216,11 +216,9 @@ Configuration 2: Partner Operator Integration For operating companies, the firm 
 
 In the North American energy sector, our strategic partner NAEO represents an institutional grade operator with established operating history, technical discipline, and the capacity to integrate with the Alpha Framework’s data architecture.
 
-This preserves the neutrality of Roials Capital and ensures that operators and allocators engage through aligned frameworks. 
+This preserves the neutrality of Roials Capital and ensures that operators and allocators engage through aligned frameworks.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is treated as a non negotiable governance principle
+THE STEWARDSHIP FILTER Stewardship is treated as a non negotiable governance principle
 
 .
 
@@ -252,17 +250,9 @@ For institutions and family offices, stewardship produces credit architectures t
 
 Stewardship converts capital into a generational resource.
 
-It ensures that credit strategies are not driven by opportunism but by structured alignment between asset performance, operator capacity, and long term allocator objectives. 
+It ensures that credit strategies are not driven by opportunism but by structured alignment between asset performance, operator capacity, and long term allocator objectives.
 
- 
-
-## THE
-
- 
-
- 
-
-## DECISION MAKING LENS FOR ALLOCATORS Allocators operating in 2026 must navigate an environment where the constraints are analytical rather than financial
+THE DECISION MAKING LENS FOR ALLOCATORS Allocators operating in 2026 must navigate an environment where the constraints are analytical rather than financial
 
 .
 

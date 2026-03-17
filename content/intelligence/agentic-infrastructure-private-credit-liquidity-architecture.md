@@ -326,9 +326,9 @@ The result: capital that acts, not reacts.
 
 Principal-class investors do not chase yield.
 
-They control it. 
+They control it.
 
-## HNWI and UHNW families face a problem no one speaks about publicly: administrative drag
+HNWI and UHNW families face a problem no one speaks about publicly: administrative drag
 
 .
 
@@ -390,9 +390,9 @@ The capital becomes the strategy.
 
 The new private credit winner is not the one deploying the most capital.
 
-It is the one deploying the smartest architecture. 
+It is the one deploying the smartest architecture.
 
-## HNWI and UHNW families demand privacy without sacrificing precision
+HNWI and UHNW families demand privacy without sacrificing precision
 
 .
 

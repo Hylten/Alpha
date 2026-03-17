@@ -28,9 +28,9 @@ And asset based Institutional Liquidity Paths becomes the collateral architectur
 
 This is the new field of Agentic Wealth Mobility.
 
-And Roials-Alpha built the mechanics for it. 
+And Roials-Alpha built the mechanics for it.
 
-## Strategic Advantages Created by RL Based Mobility The mobility is not the goal
+Strategic Advantages Created by RL Based Mobility The mobility is not the goal
 
 .
 
@@ -48,9 +48,7 @@ Better leverage cycles due to dynamic collateral management.
 
 These are not incremental benefits.
 
-They are step function shifts in how private wealth interacts with the global financial environment. 
-
-## principal authority: The Roials-Alpha Signature We do not signal
+They are step function shifts in how private wealth interacts with the global financial environment. principal authority: The Roials-Alpha Signature We do not signal
 
 .
 
@@ -70,9 +68,9 @@ Private credit and Asset-Based Lending are the structural backbone.
 
 Cross border mobility is the lived experience.
 
-This is private wealth that moves with institutional precision and agentic autonomy. 
+This is private wealth that moves with institutional precision and agentic autonomy.
 
-## The Future of Agentic Wealth Mobility The next stage of wealth architecture is already taking shape
+The Future of Agentic Wealth Mobility The next stage of wealth architecture is already taking shape
 
 .
 

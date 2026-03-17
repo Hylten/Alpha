@@ -152,11 +152,9 @@ The result is a closed loop environment that minimizes data risk, accelerates de
 
 The strategic benefit for allocators is that every opportunity entering the system has already passed through operational, geological, and financial alignment filters.
 
-This elevates the quality of the pipeline without introducing promotional bias. 
+This elevates the quality of the pipeline without introducing promotional bias.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital in alignment with long term institutional responsibility
+THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital in alignment with long term institutional responsibility
 
 .
 
@@ -194,11 +192,9 @@ Ethical Capital Utilization Liquidity is deployed only when structural integrity
 
 The system prioritizes stewardship over speed, even as it accelerates qualified deal flow.
 
-The allocator can engage the real economy confidently, knowing that capital supports validated operators and disciplined structures. 
+The allocator can engage the real economy confidently, knowing that capital supports validated operators and disciplined structures.
 
- 
-
-## DECISION FRAMEWORK FOR THE ALLOCATOR Fund-III operations benefit from autonomous deal flow architecture because it eliminates bottlenecks, reduces analyst workload, and ensures consistent structural calibration
+DECISION FRAMEWORK FOR THE ALLOCATOR Fund-III operations benefit from autonomous deal flow architecture because it eliminates bottlenecks, reduces analyst workload, and ensures consistent structural calibration
 
 .
 

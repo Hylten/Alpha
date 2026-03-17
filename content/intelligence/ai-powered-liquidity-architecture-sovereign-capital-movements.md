@@ -94,13 +94,13 @@ It converts traditionally slow moving institutional processes into a synchronize
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not distribution.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -120,9 +120,7 @@ The mapping system assesses risk bandwidth, jurisdictional boundaries, liquidity
 
 2.
 
-Strategic Alignment with Specialized Operators When 
-
-## THE MANDAT
+Strategic Alignment with Specialized Operators When THE MANDAT
 
 E
 
@@ -144,11 +142,9 @@ The function is calibration, structure mapping, and
 
  to operators with validated execution capabilities.
 
-All recommendations are grounded in institutional analysis, not solicitation. 
+All recommendations are grounded in institutional analysis, not solicitation.
 
- 
-
-## THE STEWARDSHIP FILTER The stewardship discipline focuses on operational clarity and resource non waste
+THE STEWARDSHIP FILTER The stewardship discipline focuses on operational clarity and resource non waste
 
 .
 
@@ -170,11 +166,9 @@ It replaces arbitrary decision cycles with data anchored sequencing.
 
 Stewardship is not a moral abstraction.
 
-It is a technical framework for eliminating capital waste. 
+It is a technical framework for eliminating capital waste.
 
- 
-
-## DECISION FRAMEWORK FOR THE ALLOCATOR Allocators evaluating sovereign scale liquidity architecture should calibrate decisions through five institutional filters.
+DECISION FRAMEWORK FOR THE ALLOCATOR Allocators evaluating sovereign scale liquidity architecture should calibrate decisions through five institutional filters.
 
  
 

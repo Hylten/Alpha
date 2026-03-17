@@ -140,11 +140,9 @@ Their competence in heavy oil recovery factors, cycle optimization, and Alberta 
 
 Outside the energy space, Roials Capital applies autonomous capital methodologies to private credit, real estate, and structured corporate finance.
 
-The role is not to intermediate capital, but to architect pathways where allocators, operators, and regulatory constraints align without friction. 
+The role is not to intermediate capital, but to architect pathways where allocators, operators, and regulatory constraints align without friction.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management
 
 .
 
@@ -168,11 +166,9 @@ This aligns with the Theology of Capital, where capital is treated as a resource
 
 Stewardship is the filter that converts capital abundance into capital permanence.
 
-Autonomous capital is stewardship encoded into systems. 
+Autonomous capital is stewardship encoded into systems.
 
- 
-
-## CALIBRATION FRAMEWORK FOR ALLOCATORS A disciplined allocator assessing the autonomous capital pathway evaluates their current architecture across seven dimensions
+CALIBRATION FRAMEWORK FOR ALLOCATORS A disciplined allocator assessing the autonomous capital pathway evaluates their current architecture across seven dimensions
 
 :
 

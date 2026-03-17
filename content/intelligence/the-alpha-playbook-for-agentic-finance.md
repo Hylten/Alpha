@@ -20,9 +20,9 @@ We architect.
 
 We instrument liquidity for individuals who operate above standard market narratives and who treat capital as an engineered system rather than an event.
 
-Our ecosystem was built for High Net Worth and Ultra High Net Worth operators who need infrastructure that responds at the speed of autonomous decision systems, not the drag of legacy institutions. 
+Our ecosystem was built for High Net Worth and Ultra High Net Worth operators who need infrastructure that responds at the speed of autonomous decision systems, not the drag of legacy institutions.
 
-## The Architecture of Agentic Finance Agentic finance is the next evolution of wealth infrastructure
+The Architecture of Agentic Finance Agentic finance is the next evolution of wealth infrastructure
 
 .
 
@@ -48,9 +48,9 @@ It becomes an extension of your intent.
 
 Roials Alpha builds systems that allow your capital to behave as if it has a mind of its own.
 
-Because the future of wealth is mechanical. 
+Because the future of wealth is mechanical.
 
-## The Liquidity Layer: Where Alpha Is Manufactured Liquidity is not alpha
+The Liquidity Layer: Where Alpha Is Manufactured Liquidity is not alpha
 
 .
 
@@ -72,9 +72,9 @@ We engineer liquidity systems across multiple collateral channels so that client
 
 Liquidity is a weapon.
 
-We place it in your hands. 
+We place it in your hands.
 
-## Why High Net Worth and Ultra High Net Worth Operators Require This Framework HNWI and UHNW individuals operate inside complexity
+Why High Net Worth and Ultra High Net Worth Operators Require This Framework HNWI and UHNW individuals operate inside complexity
 
 .
 
@@ -94,9 +94,9 @@ We are not a marketplace.
 
 We are not a lender in the retail sense.
 
-We are a private liquidity architecture partner for people who cannot be constrained by standard velocity. 
+We are a private liquidity architecture partner for people who cannot be constrained by standard velocity.
 
-## The Strategic Value of Non Liquidating Liquidity Selling an asset to generate liquidity destroys long term compounding
+The Strategic Value of Non Liquidating Liquidity Selling an asset to generate liquidity destroys long term compounding
 
 .
 
@@ -116,13 +116,11 @@ This matters because:
 
 Most of the world is forced to sell to move.
 
-We allow you to move without selling. 
+We allow you to move without selling.
 
-## The Capital Intelligence
+The Capital Intelligence 
 
- 
-
-# Layer C
+### Layer C
 
 apital intelligence is the differentiator inside Roials Alpha.
 
@@ -144,9 +142,9 @@ This allows the system to adjust, recommend, and execute without human drag.
 
 The future of wealth is not human managed.
 
-It is human directed and machine optimized. 
+It is human directed and machine optimized.
 
-## Non Linear Liquidity Cycles Roials Alpha specializes in liquidity structures that do not follow linear timelines
+Non Linear Liquidity Cycles Roials Alpha specializes in liquidity structures that do not follow linear timelines
 
 .
 
@@ -166,9 +164,9 @@ Clients use our systems to:
 
 • Diversify without deconstructing core holdings.
 
-This is how non linear wealth creation works. 
+This is how non linear wealth creation works.
 
-## The Psychology of High Altitude Capital Agentic finance attracts individuals who
+The Psychology of High Altitude Capital Agentic finance attracts individuals who
 
 :
 
@@ -186,9 +184,9 @@ They need velocity.
 
 They need control.
 
-They need silence. 
+They need silence.
 
-## Why We Keep Our Profile Low The highest leverage players in finance understand that visibility is not a virtue
+Why We Keep Our Profile Low The highest leverage players in finance understand that visibility is not a virtue
 
 .
 
@@ -202,9 +200,9 @@ No noise.
 
 Only structure.
 
-Our clients benefit from the discretion, the clarity, and the absence of public exposure. 
+Our clients benefit from the discretion, the clarity, and the absence of public exposure.
 
-## The Alpha Playbook Here is the distilled framework that governs how Roials Alpha constructs agentic liquidity systems
+The Alpha Playbook Here is the distilled framework that governs how Roials Alpha constructs agentic liquidity systems
 
 .
 
@@ -234,9 +232,9 @@ Simple.
 
 Controlled.
 
-Non negotiable. 
+Non negotiable.
 
-## The Roials Position We are not here to be loud
+The Roials Position We are not here to be loud
 
 .
 
@@ -250,9 +248,9 @@ Our clients do not need credit.
 
 They need architecture.
 
-Our purpose is to provide the structural mechanics behind institutional grade liquidity for individuals who live above the noise. 
+Our purpose is to provide the structural mechanics behind institutional grade liquidity for individuals who live above the noise.
 
-## Final Signal Agentic finance belongs to those who can control their capital with precision, silence, and speed
+Final Signal Agentic finance belongs to those who can control their capital with precision, silence, and speed
 
 .
 

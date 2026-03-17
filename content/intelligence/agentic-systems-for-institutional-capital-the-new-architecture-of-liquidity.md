@@ -18,9 +18,9 @@ We operate where autonomous infrastructure, private credit, and asset based Asse
 
 Where agentic systems become capital engines.
 
-Where liquidity is no longer queried, it is orchestrated. 
+Where liquidity is no longer queried, it is orchestrated.
 
-## The Architecture of Agentic Capital Agentic systems are not tools
+The Architecture of Agentic Capital Agentic systems are not tools
 
 .
 
@@ -46,9 +46,9 @@ For high net worth and ultra high net worth individuals, this matters.
 
 You are not optimizing for retail scale.
 
-You are optimizing for balance sheet amplification. 
+You are optimizing for balance sheet amplification.
 
-## The Structural Core: Private Credit and Asset Based Monetization Architecture Roials-Alpha lends against private credit
+The Structural Core: Private Credit and Asset Based Monetization Architecture Roials-Alpha lends against private credit
 
 .
 
@@ -60,7 +60,7 @@ Institutional capital is most when it is collateralized against assets that are 
 
 The agentic 
 
-# Layer C: alculates exposure
+### Layer C: alculates exposure
 
 .
 
@@ -76,7 +76,7 @@ The outcome is a continuous liquidity band that can be Access is restricted to a
 
 Minimum mandate depth: $5M+ target size.
 
-## High Net Worth
+High Net Worth
 
 .
 
@@ -110,9 +110,7 @@ They strengthen capital velocity.
 
 They compress execution time.
 
-They create a durable dose of operational dominance. 
-
-## principal authority: The F Hierarchical Dynamics Roials-Alpha operates with principal authority
+They create a durable dose of operational dominance. principal authority: The F Hierarchical Dynamics Roials-Alpha operates with principal authority
 
 .
 
@@ -128,9 +126,9 @@ When agentic systems run your liquidity architecture, the entire capital stack b
 
 This is the F Hierarchical Dynamics.
 
-The unspoken advantage of infrastructures that remove friction and retain sovereignty. 
+The unspoken advantage of infrastructures that remove friction and retain sovereignty.
 
-## Crypto Monetization Architecture for Institutional Profiles Crypto markets produce asymmetry
+Crypto Monetization Architecture for Institutional Profiles Crypto markets produce asymmetry
 
 .
 
@@ -148,9 +146,9 @@ We serve clients whose digital asset holdings are treated as structured collater
 
 Agentic systems monitor liquidity pools, volatility surfaces, and risk sensitivity in real time.
 
-This creates a credit environment where crypto exposure becomes usable liquidity rather than idle capital. 
+This creates a credit environment where crypto exposure becomes usable liquidity rather than idle capital.
 
-## Public Share Institutional Liquidity Paths with Institutional-Grade Controls Public equities are often underutilized as collateral
+Public Share Institutional Liquidity Paths with Institutional-Grade Controls Public equities are often underutilized as collateral
 
 .
 
@@ -168,9 +166,9 @@ It anticipates market microstructure shifts.
 
 It hardens the collateral base.
 
-The result is predictable leverage without unnecessary haircut penalties. 
+The result is predictable leverage without unnecessary haircut penalties.
 
-## Why Agentic Systems Replace Legacy Capital Infrastructure Traditional capital infrastructure relies on static models, manual oversight, and outdated workflows
+Why Agentic Systems Replace Legacy Capital Infrastructure Traditional capital infrastructure relies on static models, manual oversight, and outdated workflows
 
 .
 
@@ -192,9 +190,9 @@ In private credit, this means Monetization Architecture models that evolve with 
 
 In asset based Capital Structuring, this means precision without manual bottlenecks.
 
-In crypto and public share Monetization Architecture, this means leverage that is structurally informed, not arbitrarily constrained. 
+In crypto and public share Monetization Architecture, this means leverage that is structurally informed, not arbitrarily constrained.
 
-## Liquidity as a Programmable Asset Liquidity has always been treated as the outcome of a request
+Liquidity as a Programmable Asset Liquidity has always been treated as the outcome of a request
 
 .
 
@@ -218,9 +216,9 @@ It automates thresholds for risk containment.
 
 This turns liquidity into a living channel.
 
-Not an event. 
+Not an event.
 
-## The Institutional Need for Autonomous Credit Engines Every major capital allocator is moving toward autonomous decisioning
+The Institutional Need for Autonomous Credit Engines Every major capital allocator is moving toward autonomous decisioning
 
 .
 
@@ -250,9 +248,9 @@ They produce institutional credit engines that:
 
 - Optimize leverage ratios
 
-- Protect downside through autonomous rebalancing This is the new backbone of capital operations. 
+- Protect downside through autonomous rebalancing This is the new backbone of capital operations.
 
-## The Roials-Alpha Advantage: Structural Mechanics for Serious Capital We do not compete in the retail Capital Structuring arena
+The Roials-Alpha Advantage: Structural Mechanics for Serious Capital We do not compete in the retail Capital Structuring arena
 
 .
 
@@ -274,9 +272,9 @@ They build resilience while enhancing velocity.
 
 This is not autonomous infrastructure for convenience.
 
-This is autonomous infrastructure for dominance. 
+This is autonomous infrastructure for dominance.
 
-## The Future of Asset Based Strategic Collateralization is Agentic Asset based Monetization Architecture traditionally lags behind real-time financial activity
+The Future of Asset Based Strategic Collateralization is Agentic Asset based Monetization Architecture traditionally lags behind real-time financial activity
 
 .
 
@@ -296,9 +294,9 @@ It models counterparty behavior.
 
 It aligns the credit line with dynamic valuation curves.
 
-The result is a Asset-Backed Frameworks pipeline that behaves more like an algorithmic market system than a backward looking liquidity facility facility. 
+The result is a Asset-Backed Frameworks pipeline that behaves more like an algorithmic market system than a backward looking liquidity facility facility.
 
-## Private Credit, Reinforced by autonomous infrastructure Private credit is expanding globally, but most platforms still work with slow underwriting processes designed for legacy institutions
+Private Credit, Reinforced by autonomous infrastructure Private credit is expanding globally, but most platforms still work with slow underwriting processes designed for legacy institutions
 
 .
 
@@ -314,9 +312,9 @@ The system understands the texture of private credit rather than simply reading 
 
 This creates liquidity facility envelopes that are more accurate, more aligned, and more efficient.
 
-For HNWI and UHNW clients, this is the difference between liquidity that arrives on time and liquidity that arrives too late. 
+For HNWI and UHNW clients, this is the difference between liquidity that arrives on time and liquidity that arrives too late.
 
-## Agentic Oversight and Capital Sovereignty We do not outsource decision making to opaque algorithms
+Agentic Oversight and Capital Sovereignty We do not outsource decision making to opaque algorithms
 
 .
 
@@ -332,9 +330,9 @@ It creates a hybrid model.
 
 Machine speed with human intention.
 
-Institutional precision with personal control. 
+Institutional precision with personal control.
 
-## The New Liquidity Hierarchy In the emerging capital ecosystem, liquidity is stratified
+The New Liquidity Hierarchy In the emerging capital ecosystem, liquidity is stratified
 
 .
 
@@ -348,9 +346,9 @@ There are three layers:
 
 Because serious capital does not wait for liquidity.
 
-It commands it. 
+It commands it.
 
-## Built for Clients Who Move Capital, Not Those Who Hold It Many clients hold assets
+Built for Clients Who Move Capital, Not Those Who Hold It Many clients hold assets
 
 .
 
@@ -364,9 +362,9 @@ The clients whose portfolios behave like institutions.
 
 The clients who require liquidity on their terms.
 
-The clients who operate with scale. 
+The clients who operate with scale.
 
-## The Quiet Power of Institutional-Grade Capital Structuring The most capital movements are silent
+The Quiet Power of Institutional-Grade Capital Structuring The most capital movements are silent
 
 .
 
@@ -386,9 +384,9 @@ Agentic Strategic Collateralization, private credit, and Asset-Based Lending und
 
 To move without broadcast.
 
-To scale without spectacle. 
+To scale without spectacle.
 
-## The Endgame: Capital That Thinks for Itself Agentic systems are not the future
+The Endgame: Capital That Thinks for Itself Agentic systems are not the future
 
 .
 
@@ -408,9 +406,9 @@ Where assets are not evaluated.
 
 They are continuously mapped.
 
-Roials-Alpha builds this architecture for high net worth and ultra high net worth individuals who operate with institutional discipline and require institutional scale. 
+Roials-Alpha builds this architecture for high net worth and ultra high net worth individuals who operate with institutional discipline and require institutional scale.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

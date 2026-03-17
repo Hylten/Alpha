@@ -82,9 +82,7 @@ Agentic models invert the ratio.
 
 Machines digest the complexity.
 
-Humans set 
-
-## THE MANDAT
+Humans set THE MANDAT
 
 E
 
@@ -196,7 +194,7 @@ No blindspots.
 
 - Agentic Model Gamma: Proprietary Quant-Structural Layer This 
 
-# Layer I: s the sovereign core
+### Layer I: s the sovereign core
 
 .
 
@@ -362,9 +360,7 @@ Core Mechanisms:
 
 Omega guards the perimeter.
 
-Omega enforces 
-
-## THE MANDAT
+Omega enforces THE MANDAT
 
 E
 

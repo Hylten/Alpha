@@ -18,13 +18,11 @@ We engineer structural mechanics that institutional desks use quietly, then comp
 
 We do not compete with retail platforms.
 
-We build the architecture they copy ten years later. 
+We build the architecture they copy ten years later.
 
-## The New Liquidity Intelligence
+The New Liquidity Intelligence 
 
- 
-
-# Layer C: apital optimization has evolved into a technical discipline
+### Layer C: apital optimization has evolved into a technical discipline
 
 .
 
@@ -50,9 +48,9 @@ For UHNW portfolios, micro-inefficiencies add up to tens of millions in opportun
 
 This is why autonomous systems are no longer optional.
 
-They are mandatory infrastructure. 
+They are mandatory infrastructure.
 
-## Structural Power: Private Credit and Asset-Based Lending as Core Engines The wealthiest families do not grow through static allocation
+Structural Power: Private Credit and Asset-Based Lending as Core Engines The wealthiest families do not grow through static allocation
 
 .
 
@@ -70,9 +68,9 @@ When these structures combine, the portfolio shifts from a static ecosystem to a
 
 The system identifies dormant collateral, models frictionless Monetization Architecture pathways, and deploys liquidity in a risk bounded format.
 
-The result is capital acceleration without public exposure. 
+The result is capital acceleration without public exposure.
 
-## Tiered Liquidity Channels We maintain separate thresholds for our Monetization Architecture mechanisms because UHNW optimization is not about volume, it is about signal clarity and collateral integrity
+Tiered Liquidity Channels We maintain separate thresholds for our Monetization Architecture mechanisms because UHNW optimization is not about volume, it is about signal clarity and collateral integrity
 
 .
 
@@ -92,9 +90,7 @@ This level ensures sufficient liquidity density and guarantees that our internal
 
 At these sizes, our systems can treat assets as deterministic, not noisy.
 
-At these sizes, liquidity becomes programmable. 
-
-## principal authority and the F Hierarchical Dynamics Roials-Alpha does not operate through marketing narratives
+At these sizes, liquidity becomes programmable. principal authority and the F Hierarchical Dynamics Roials-Alpha does not operate through marketing narratives
 
 .
 
@@ -122,9 +118,9 @@ Build mechanisms that dictate the environment.
 
 Clients do not join us for attention.
 
-They join for the infrastructure. 
+They join for the infrastructure.
 
-## Autonomous Collateral Intelligence Collateral is not static
+Autonomous Collateral Intelligence Collateral is not static
 
 .
 
@@ -150,9 +146,9 @@ Roials-Alpha’s architecture processes:
 
 • Counterparty sensitivity modeling to protect against systemic bottlenecks.
 
-These signals enable Monetization Architecture structures that are safer, faster, and far more elastic than conventional UHNW balance sheet optimization channels. 
+These signals enable Monetization Architecture structures that are safer, faster, and far more elastic than conventional UHNW balance sheet optimization channels.
 
-## Capital Velocity as a Competitive Weapon UHNW capital stagnates when it sits idle
+Capital Velocity as a Competitive Weapon UHNW capital stagnates when it sits idle
 
 .
 
@@ -184,9 +180,9 @@ These modules monitor:
 
 • Deployment-to-recycling timeframes The system optimizes every link in the liquidity chain.
 
-This is how capital becomes force multiplied. 
+This is how capital becomes force multiplied.
 
-## The Autonomous Institutional Liquidity Paths Engine Our Strategic Collateralization engine is built on three pillars
+The Autonomous Institutional Liquidity Paths Engine Our Strategic Collateralization engine is built on three pillars
 
 .
 
@@ -204,9 +200,9 @@ High tier clients require frictionless execution, not paperwork bottlenecks.
 
 Our system anticipates compliance thresholds and prepares pre-cleared pathways.
 
-The result is institutional grade power delivered through an invisible interface. 
+The result is institutional grade power delivered through an invisible interface.
 
-## Cryptographic Liquidity Structures Crypto Strategic Collateralization at scale is not speculative
+Cryptographic Liquidity Structures Crypto Strategic Collateralization at scale is not speculative
 
 .
 
@@ -234,9 +230,9 @@ The system monitors:
 
 Clients gain liquidity without surrendering upside.
 
-Clients retain exposure without carrying the operational strain. 
+Clients retain exposure without carrying the operational strain.
 
-## Public Share Strategic Collateralization at Institutional Scale Public equity positions at 5,000
+Public Share Strategic Collateralization at Institutional Scale Public equity positions at 5,000
 
 ,
 
@@ -256,9 +252,9 @@ It identifies shadow liquidity across correlated assets.
 
 It tracks volatility curvature to anticipate stress events.
 
-The result is a Institutional Liquidity Paths model that is smoother, quieter, and more reliable than anything offered by traditional private banks. 
+The result is a Institutional Liquidity Paths model that is smoother, quieter, and more reliable than anything offered by traditional private banks.
 
-## Autonomous Risk Compression Risk is not eliminated
+Autonomous Risk Compression Risk is not eliminated
 
 .
 
@@ -278,9 +274,9 @@ Autonomous systems are superior to human managers because they can:
 
 The portfolio grows.
 
-The downside does not. 
+The downside does not.
 
-## The Institutional Spine for Private Wealth UHNW clients are no longer satisfied with legacy private banking
+The Institutional Spine for Private Wealth UHNW clients are no longer satisfied with legacy private banking
 
 .
 
@@ -298,9 +294,9 @@ The advantage is structural.
 
 The advantage is compounding.
 
-The advantage is quiet. 
+The advantage is quiet.
 
-## Capital Without Gravity Once UHNW capital becomes autonomous, it loses its gravity
+Capital Without Gravity Once UHNW capital becomes autonomous, it loses its gravity
 
 .
 
@@ -318,9 +314,9 @@ Collateral bends to strategy.
 
 Execution bends to timing.
 
-Every part of the system works for the client, not the other way around. 
+Every part of the system works for the client, not the other way around.
 
-## The Next Frontier: Agentic Capital Systems The direction is clear
+The Next Frontier: Agentic Capital Systems The direction is clear
 
 .
 
@@ -340,6 +336,8 @@ Where opportunity is not found, it is predicted.
 
 This is not the future of wealth management.
 
-It is the new standard for those who operate at scale. # Access is restricted to approved mandates.
+It is the new standard for those who operate at scale.
+
+Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

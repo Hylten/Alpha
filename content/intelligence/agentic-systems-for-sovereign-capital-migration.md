@@ -14,9 +14,9 @@ The velocity of capital is no longer controlled by traditional intermediaries.
 
 HNWI and UHNW operators are demanding direct control, autonomous execution, and precision liquidity without institutional drag.
 
-Roials-Alpha is the response. 
+Roials-Alpha is the response.
 
-## Why High Net Worth Operators Are Migrating to Agentic Systems We are entering a post advisory era
+Why High Net Worth Operators Are Migrating to Agentic Systems We are entering a post advisory era
 
 .
 
@@ -32,7 +32,7 @@ Autonomous protection.
 
 Agentic systems enable all three.
 
-## Precision Over Opinion Traditional advisors cannot compute cross-asset interdependencies in real time
+Precision Over Opinion Traditional advisors cannot compute cross-asset interdependencies in real time
 
 .
 
@@ -44,7 +44,7 @@ Every risk is quantified.
 
 Nothing is based on sentiment or theory.
 
-## Liquidity as a Sovereign Right The affluent historically relied on institutions to unlock liquidity
+Liquidity as a Sovereign Right The affluent historically relied on institutions to unlock liquidity
 
 .
 
@@ -60,15 +60,15 @@ Minimum mandate depth: $5M+ target size.
 
 Agentic systems restore mobility by creating direct pathways from asset to liquidity without institutional bottleneck.
 
-## Confidentiality Reinforced by autonomous infrastructure The less human involvement, the lower the leak vector
+Confidentiality Reinforced by autonomous infrastructure The less human involvement, the lower the leak vector
 
 .
 
 Autonomous systems execute without emotional bias or reputational fragility.
 
-Roials-Alpha maintains principal authority by keeping operational mechanics invisible and outcomes visible. 
+Roials-Alpha maintains principal authority by keeping operational mechanics invisible and outcomes visible.
 
-## The Mechanics of Sovereign Capital Migration Sovereign migration is not geographic
+The Mechanics of Sovereign Capital Migration Sovereign migration is not geographic
 
 .
 
@@ -90,7 +90,7 @@ Once an asset becomes a risk object, it becomes actionable.
 
 Liquidity Extraction Layer This 
 
-# Layer D
+### Layer D
 
 etermines how much liquidity can be safely unlocked without degrading asset integrity.
 
@@ -109,9 +109,9 @@ These may include venture deployment, real estate acquisition, digital assets, o
 
 Agentic systems maintain continuous monitoring so capital never becomes dormant.
 
-The result is perpetual capital migration. 
+The result is perpetual capital migration.
 
-## Roials-Alpha as a Structural Engine Roials-Alpha is not a fund
+Roials-Alpha as a Structural Engine Roials-Alpha is not a fund
 
 .
 
@@ -127,9 +127,9 @@ Every process is engineered for discretion.
 
 Every execution is automated.
 
-Every outcome is quantifiable. 
+Every outcome is quantifiable.
 
-## The Hidden Advantage of principal authority principal authority means power without spectacle
+The Hidden Advantage of principal authority principal authority means power without spectacle
 
 .
 
@@ -143,9 +143,9 @@ The market does not see the mechanics.
 
 It only sees the result.
 
-This is the Roials-Alpha advantage. 
+This is the Roials-Alpha advantage.
 
-## Why Thresholds Matter Our [Capital Structuring]([Roials Capital](https://roialscapital.com/)) minimums are deliberate
+Why Thresholds Matter Our [Capital Structuring]([Roials Capital](https://roialscapital.com/)) minimums are deliberate
 
 .
 
@@ -163,9 +163,9 @@ It preserves system integrity.
 
 It protects client velocity.
 
-It allows the infrastructure to remain optimized for sovereign scale users. 
+It allows the infrastructure to remain optimized for sovereign scale users.
 
-## The Future of Wealth is Agentic Within the next decade, all significant capital will be routed through autonomous systems
+The Future of Wealth is Agentic Within the next decade, all significant capital will be routed through autonomous systems
 
 .
 
@@ -179,9 +179,9 @@ They will have mobility at a sovereign level.
 
 Roials-Alpha is already operating in that future.
 
-We invite only those who understand the value of structural sovereignty. 
+We invite only those who understand the value of structural sovereignty.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

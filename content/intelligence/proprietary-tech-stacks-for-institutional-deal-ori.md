@@ -72,13 +72,11 @@ AI structured intelligence for underwriting
 
 Autonomous execution rails engineered for covenant stewardship Each 
 
-# Pillar I: s independent yet interlocking
+### Pillar I: s independent yet interlocking
 
 .
 
-Each advances 
-
-## THE MANDAT
+Each advances THE MANDAT
 
 E
 
@@ -106,9 +104,7 @@ No human can process this breadth at the required speed.
 
 The machine is the instrument of stewardship.
 
-The principal sets 
-
-## THE MANDAT
+The principal sets THE MANDAT
 
 E
 
@@ -116,7 +112,7 @@ E
 
 The system executes.
 
-## Core functions of the origination engin
+Core functions of the origination engin
 
 e
 
@@ -186,9 +182,9 @@ Layer One Signal intake.
 
 Machine parsing of financial documents, chain of custody, collateral audit trails, director behavior, and jurisdictional risk.
 
-Layer Two Scoring frameworks modeled on historical Institutional Liquidity Paths events, asset price movements, and covenant breach probability.
+Layer Two Scoring frameworks modeled on historical Institutional Liquidity Paths events, asset price movements, and covenant breach probability. 
 
-# Layer M
+### Layer M
 
 ulti vector simulation that estimates structural weak points during liquidity compression.
 
@@ -300,9 +296,7 @@ Every function is built to preserve value.
 
 Every safeguard is designed to prevent drift.
 
-Every decision is aligned with 
-
-## THE MANDAT
+Every decision is aligned with THE MANDAT
 
 E
 
@@ -552,7 +546,7 @@ If the objective is covenant stewardship built on Christian conservative foundat
 
 Then the next 
 
-# Step I: s straightforward
+### Step I: s straightforward
 
 .
 

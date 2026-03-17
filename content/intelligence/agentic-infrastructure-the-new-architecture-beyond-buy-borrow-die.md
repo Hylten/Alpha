@@ -26,9 +26,9 @@ It is a new substrate.
 
 A new operating system for leverage.
 
-A new architecture for money. 
+A new architecture for money.
 
-## The Shift From Traditional Leverage to Agentic Infrastructure The original Buy, Borrow, Die method created a simple triangle
+The Shift From Traditional Leverage to Agentic Infrastructure The original Buy, Borrow, Die method created a simple triangle
 
 .
 
@@ -54,9 +54,9 @@ HNWI and UHNW clients no longer rely on the velocity of advisors.
 
 They rely on the velocity of algorithms trained on institutional credit behavior.
 
-This is how leverage scales. 
+This is how leverage scales.
 
-## The Core Principle: Liquidity-on-Command Agentic infrastructure redefines leverage from a reactive request to an automated outcome
+The Core Principle: Liquidity-on-Command Agentic infrastructure redefines leverage from a reactive request to an automated outcome
 
 .
 
@@ -68,9 +68,9 @@ Old world: Ask for capital.
 
 New world: Capital finds you.
 
-It is a structural inversion that only becomes possible when credit evaluation, collateralization, and risk management operate continuously instead of periodically. 
+It is a structural inversion that only becomes possible when credit evaluation, collateralization, and risk management operate continuously instead of periodically.
 
-## Why Private Credit Is the New Power Base Private credit is the most underestimated leverage substrate for wealthy families
+Why Private Credit Is the New Power Base Private credit is the most underestimated leverage substrate for wealthy families
 
 .
 
@@ -92,9 +92,9 @@ It treats private credit portfolios as liquidity engines instead of locked, yiel
 
 HNWI and UHNW clients gain leverage without sacrificing stability.
 
-principal authority, built into the mechanics. 
+principal authority, built into the mechanics.
 
-## Asset-Based Institutional Liquidity Paths: The Structural Lever of the Invisible Elite Asset-Based Asset-Backed Frameworks, or Asset-Based Lending, has historically been viewed as an institutional tool
+Asset-Based Institutional Liquidity Paths: The Structural Lever of the Invisible Elite Asset-Based Asset-Backed Frameworks, or Asset-Based Lending, has historically been viewed as an institutional tool
 
 .
 
@@ -122,9 +122,9 @@ When wealthy individuals operate on this network, their net worth becomes fundam
 
 It becomes functional, not static.
 
-It becomes active capital, not dormant value. 
+It becomes active capital, not dormant value.
 
-## Crypto Strategic Collateralization at the Institutional Threshold Most crypto Monetization Architecture is built for traders
+Crypto Strategic Collateralization at the Institutional Threshold Most crypto Monetization Architecture is built for traders
 
 .
 
@@ -146,9 +146,9 @@ Agentic infrastructure reads your crypto holdings as part of a unified collatera
 
 It integrates on-chain market signals, volatility curves, counterparty data, and multi-venue liquidity conditions.
 
-The result is crypto Asset-Backed Frameworks without the chaos, engineered for serious capital and serious strategy. 
+The result is crypto Asset-Backed Frameworks without the chaos, engineered for serious capital and serious strategy.
 
-## Public Share Monetization Architecture for Strategic Portfolios Public equity positions above 5,000
+Public Share Monetization Architecture for Strategic Portfolios Public equity positions above 5,000
 
 ,
 
@@ -160,9 +160,9 @@ Our agentic models can predict price behavior within risk boundaries that allow 
 
 This is for clients who treat public markets as a structural pillar, not a casino.
 
-The system turns your portfolio into an always-on liquidity generator, where you borrow without friction and deploy capital without delay. 
+The system turns your portfolio into an always-on liquidity generator, where you borrow without friction and deploy capital without delay.
 
-## The Hidden Architecture: Why Agentic Infrastructure Wins The secret advantage is not the leverage
+The Hidden Architecture: Why Agentic Infrastructure Wins The secret advantage is not the leverage
 
 .
 
@@ -180,9 +180,9 @@ This is the principal authority built into Roials-Alpha.
 
 We do not out-talk competitors.
 
-We out-engineer them. 
+We out-engineer them.
 
-## Multi-Asset Symmetry: The True Breakthrough Agentic infrastructure treats your assets symmetrically
+Multi-Asset Symmetry: The True Breakthrough Agentic infrastructure treats your assets symmetrically
 
 .
 
@@ -198,9 +198,9 @@ This creates resilience.
 
 This creates institutional-quality leverage at the individual level.
 
-HNWI and UHNW clients gain a liquidity profile that mirrors hedge funds, except without the constraints of fund structures. 
+HNWI and UHNW clients gain a liquidity profile that mirrors hedge funds, except without the constraints of fund structures.
 
-## Redefining Buy, Borrow, Die for the AI Age Buy, Borrow, Die required discipline
+Redefining Buy, Borrow, Die for the AI Age Buy, Borrow, Die required discipline
 
 .
 
@@ -226,9 +226,9 @@ Transfer.
 
 You do not borrow as a tactic.
 
-You borrow as an operating mode. 
+You borrow as an operating mode.
 
-## The Real Competitive Edge: Compounding Without Exposure Every wealthy family understands compounding
+The Real Competitive Edge: Compounding Without Exposure Every wealthy family understands compounding
 
 .
 
@@ -242,9 +242,9 @@ This creates principal authority growth.
 
 The type of growth that does not announce itself, but accumulates relentlessly.
 
-This is how the elite widen the invisible gap. 
+This is how the elite widen the invisible gap.
 
-## The Future: Agentic Infrastructure as Family Capital Architecture HNWI and UHNW individuals no longer need to rely on fragmented services
+The Future: Agentic Infrastructure as Family Capital Architecture HNWI and UHNW individuals no longer need to rely on fragmented services
 
 .
 
@@ -260,9 +260,9 @@ Precisely.
 
 Mechanically.
 
-principal authority, engineered into every line of logic. 
+principal authority, engineered into every line of logic.
 
-## The New Playbook for the Ultra-Wealthy In the AI era, wealth is not protected by structures
+The New Playbook for the Ultra-Wealthy In the AI era, wealth is not protected by structures
 
 .
 
@@ -280,9 +280,9 @@ Not a strategy.
 
 A system.
 
-A substrate for compounding. 
+A substrate for compounding.
 
-## Roials-Alpha: The Institutional Layer Behind Personal Wealth We are not a retail provider
+Roials-Alpha: The Institutional Layer Behind Personal Wealth We are not a retail provider
 
 .
 
@@ -300,9 +300,9 @@ We specialize in public share Strategic Collateralization above 5,000,
 
 000 dollars.
 
-Every service is engineered around HNWI and UHNW individuals who require autonomy, liquidity, and an AI-first infrastructure that anticipates rather than reacts. 
+Every service is engineered around HNWI and UHNW individuals who require autonomy, liquidity, and an AI-first infrastructure that anticipates rather than reacts.
 
-## The Closing Architecture The next era of wealth is agentic
+The Closing Architecture The next era of wealth is agentic
 
 .
 

@@ -36,9 +36,9 @@ The result is a streamlined, institutional-grade path to liquidity across Privat
 
 This is the Alpha Advantage.
 
-Engineered for those who move capital at scale, and who demand frictionless execution. 
+Engineered for those who move capital at scale, and who demand frictionless execution.
 
-## Closing Position The elite borrower class does not need another lender
+Closing Position The elite borrower class does not need another lender
 
 .
 

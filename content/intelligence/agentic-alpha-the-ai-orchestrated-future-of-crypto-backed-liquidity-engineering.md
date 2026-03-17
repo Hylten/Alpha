@@ -26,9 +26,9 @@ AI orchestrated.
 
 Crypto backed.
 
-Private credit reinforced. 
+Private credit reinforced.
 
-## The Shift From Human Underwriting to Agentic Underwriting Traditional underwriting is slow
+The Shift From Human Underwriting to Agentic Underwriting Traditional underwriting is slow
 
 .
 
@@ -52,7 +52,7 @@ It is the foundation.
 
 The AI 
 
-# Layer C
+### Layer C
 
 ontinuously scans collateral velocity, market depth, liquidity fragmentation, borrow capacity, and exposure deltas across crypto, private credit, and Asset-Based Lending.
 
@@ -62,9 +62,9 @@ It recalibrates without hesitation.
 
 It generates precision that human-only desks cannot replicate.
 
-This is the principal authority behind our Institutional Liquidity Paths architecture. 
+This is the principal authority behind our Institutional Liquidity Paths architecture.
 
-## Why Agentic Architecture Dominates High Net Worth Capital Structuring HNWI and UHNW borrowers need more than credit
+Why Agentic Architecture Dominates High Net Worth Capital Structuring HNWI and UHNW borrowers need more than credit
 
 .
 
@@ -90,9 +90,9 @@ The agentic layer allows us to deliver:
 
 This is information asymmetry advantage.
 
-Agentic Alpha gives HNWI and UHNW borrowers the power to deploy capital faster than traditional lenders can even begin paperwork. 
+Agentic Alpha gives HNWI and UHNW borrowers the power to deploy capital faster than traditional lenders can even begin paperwork.
 
-## Crypto Backed Strategic Collateralization at the Institutional Threshold Crypto Monetization Architecture at Roials Alpha begins at two million dollars
+Crypto Backed Strategic Collateralization at the Institutional Threshold Crypto Monetization Architecture at Roials Alpha begins at two million dollars
 
 .
 
@@ -118,9 +118,9 @@ Agentic systems continuously:
 
 Crypto backed Strategic Collateralization is not a speculative product for us.
 
-It is an engineered liquidity instrument. 
+It is an engineered liquidity instrument.
 
-## Public Share Asset-Backed Frameworks at the Five Million Dollar Threshold Public share Strategic Collateralization starts at five million dollars
+Public Share Asset-Backed Frameworks at the Five Million Dollar Threshold Public share Strategic Collateralization starts at five million dollars
 
 .
 
@@ -150,9 +150,9 @@ Not generic.
 
 This allows us to deliver liquidity without the friction normally associated with brokerage level share backed Institutional Liquidity Paths.
 
-The result is a Capital Structuring line that behaves like an internal capital source rather than an external bank. 
+The result is a Capital Structuring line that behaves like an internal capital source rather than an external bank.
 
-## Private Credit and Asset-Based Lending: The Reinforcement Layer Where crypto and public shares provide velocity, private credit and Asset-Based Lending provide reinforcement
+Private Credit and Asset-Based Lending: The Reinforcement Layer Where crypto and public shares provide velocity, private credit and Asset-Based Lending provide reinforcement
 
 .
 
@@ -198,9 +198,9 @@ The borrower receives liquidity that feels instantaneous.
 
 The lender receives intelligence that feels omnipresent.
 
-The capital stack remains stable. 
+The capital stack remains stable.
 
-## Why HNWI and UHNW Borrowers Choose AI-Orchestrated Liquidity High net worth borrowers do not seek approval
+Why HNWI and UHNW Borrowers Choose AI-Orchestrated Liquidity High net worth borrowers do not seek approval
 
 .
 
@@ -226,9 +226,9 @@ No legacy conservatism.
 
 The borrower interacts with a silent force that processes thousands of conditions per second and returns an optimized credit window.
 
-This is the future of high net worth balance sheet optimization. 
+This is the future of high net worth balance sheet optimization.
 
-## AI as a Capital Router, Not a Risk Gatekeeper Most lenders use AI as a filter
+AI as a Capital Router, Not a Risk Gatekeeper Most lenders use AI as a filter
 
 .
 
@@ -248,9 +248,9 @@ It produces stable credit windows during volatility.
 
 It produces real capital mobility.
 
-For clients who move fast and think larger, this is non negotiable. 
+For clients who move fast and think larger, this is non negotiable.
 
-## The Engine of principal authority Roials Alpha does not compete with retail lenders
+The Engine of principal authority Roials Alpha does not compete with retail lenders
 
 .
 
@@ -280,9 +280,9 @@ Quietly.
 
 Precisely.
 
-Continuously. 
+Continuously.
 
-## Strategic Liquidity as an Asset Class Liquidity is no longer a passive outcome
+Strategic Liquidity as an Asset Class Liquidity is no longer a passive outcome
 
 .
 
@@ -302,9 +302,9 @@ For high net worth and ultra high net worth borrowers, this is the difference be
 
 Between reacting and controlling.
 
-Between being dependent on banks and operating above them. 
+Between being dependent on banks and operating above them.
 
-## The Future: Autonomous Credit Protocols for Traditional Assets Crypto is the proving ground
+The Future: Autonomous Credit Protocols for Traditional Assets Crypto is the proving ground
 
 .
 
@@ -314,7 +314,7 @@ Asset-Based Lending is the stabilizer.
 
 The agentic 
 
-# Layer I: s the orchestrator
+### Layer I: s the orchestrator
 
 .
 
@@ -340,9 +340,9 @@ The principal authority expands.
 
 The structural mechanics strengthen.
 
-The Monetization Architecture architecture becomes fully autonomous. 
+The Monetization Architecture architecture becomes fully autonomous.
 
-## Why Agentic Alpha Wins the Next Cycle Cycles are not won by risk avoidance
+Why Agentic Alpha Wins the Next Cycle Cycles are not won by risk avoidance
 
 .
 
@@ -370,9 +370,9 @@ The autonomous one.
 
 The one that gives them capital capacity beyond traditional norms.
 
-They choose Roials Alpha. 
+They choose Roials Alpha.
 
-## The New Standard for High Net Worth Liquidity The high net worth class is shifting
+The New Standard for High Net Worth Liquidity The high net worth class is shifting
 
 .
 
@@ -394,9 +394,9 @@ Your exposure remains optimized.
 
 This is not banking.
 
-This is engineered liquidity. 
+This is engineered liquidity.
 
-## Final Alignment: Agentic Infrastructure For the Elite Balance Sheet Roials Alpha is not a platform
+Final Alignment: Agentic Infrastructure For the Elite Balance Sheet Roials Alpha is not a platform
 
 .
 

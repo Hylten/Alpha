@@ -76,7 +76,7 @@ Each domain contributes to the integrity and velocity of the lending stack.
 
 Data Ingestion The first 
 
-# Pillar I
+### Pillar I
 
 s the ingestion of borrower data into structured and unstructured data environments.
 
@@ -160,11 +160,9 @@ Operators must maintain operational transparency and institutional-grade reporti
 
 The role of Roials Capital is to ensure that allocators engage with counterparties that meet the thresholds required for institutional alignment.
 
-This allows the allocator to focus on strategic calibration rather than on tactical execution. 
+This allows the allocator to focus on strategic calibration rather than on tactical execution.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non-wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is a discipline of non-wasteful resource management
 
 .
 
@@ -194,11 +192,9 @@ The architecture dictates borrowers are evaluated on economic fundamentals rathe
 
 Allocators with long-term capital mandates recognise that stewardship and technology are not opposing forces.
 
-They are mutually reinforcing disciplines. 
+They are mutually reinforcing disciplines.
 
- 
-
-## DECISION-MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI-first private credit are not evaluating a product
+DECISION-MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating AI-first private credit are not evaluating a product
 
 .
 

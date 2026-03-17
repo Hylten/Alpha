@@ -18,9 +18,9 @@ A shift from manual pursuit to engineered inevitability.
 
 From reactive screening to controlled pipelines.
 
-From chance to mandate. 
+From chance to mandate.
 
-## The Systems Engineer Mindset A systems engineer refuses randomness
+The Systems Engineer Mindset A systems engineer refuses randomness
 
 .
 
@@ -46,7 +46,7 @@ To engineer liquidity Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
-## The Structural Premise Autonomous deal flow depends on structural alignment
+The Structural Premise Autonomous deal flow depends on structural alignment
 
 .
 
@@ -78,9 +78,9 @@ A hardened asset creates predictable underwriting.
 
 Predictable underwriting produces deterministic pipelines.
 
-Deterministic pipelines are the raw material for autonomous deal origination. 
+Deterministic pipelines are the raw material for autonomous deal origination.
 
-## Why Traditional Origination Fails Legacy origination relies on three fragile mechanics
+Why Traditional Origination Fails Legacy origination relies on three fragile mechanics
 
 :
 
@@ -112,9 +112,9 @@ More calls.
 
 More friction.
 
-Autonomous origination removes the human bottleneck entirely. 
+Autonomous origination removes the human bottleneck entirely.
 
-## The Algorithmic Foundation Roials Alpha deploys proprietary stacks that convert unstructured environments into structured deal paths
+The Algorithmic Foundation Roials Alpha deploys proprietary stacks that convert unstructured environments into structured deal paths
 
 .
 
@@ -170,9 +170,9 @@ Matched to covenant alignments.
 
 The system does not chase deals.
 
-It arranges them. 
+It arranges them.
 
-## The Sacred Layer: Covenant Stewardship Engineering alone is insufficient
+The Sacred Layer: Covenant Stewardship Engineering alone is insufficient
 
 .
 
@@ -200,9 +200,9 @@ Mutual responsibility.
 
 Autonomous deal flow is strengthened through moral clarity.
 
-The system is hardened against opportunism because the underlying philosophy is non negotiable. 
+The system is hardened against opportunism because the underlying philosophy is non negotiable.
 
-## Institution Ready Architecture Institutional capital avoids chaos
+Institution Ready Architecture Institutional capital avoids chaos
 
 .
 
@@ -226,9 +226,9 @@ Institution readiness is embedded at the root:
 
 A pipeline where nothing depends on mood.
 
-Everything depends on structure. 
+Everything depends on structure.
 
-## Execution Velocity as a Financial Weapon Most operators think speed means rushing
+Execution Velocity as a Financial Weapon Most operators think speed means rushing
 
 .
 
@@ -254,9 +254,9 @@ It creates an advantage that compounds.
 
 Opponents operate in linear time.
 
-Roials Alpha operates in engineered time. 
+Roials Alpha operates in engineered time.
 
-## The Intelligence Loop Autonomous deal flow strengthens itself through an ongoing loop
+The Intelligence Loop Autonomous deal flow strengthens itself through an ongoing loop
 
 :
 
@@ -280,9 +280,9 @@ It simply runs.
 
 It becomes an agentic organism.
 
-A self improving architecture that increases the density of qualified deals while reducing noise to near zero. 
+A self improving architecture that increases the density of qualified deals while reducing noise to near zero.
 
-## The High Net Worth Lens HNWI and UHNW individuals move differently than retail or emerging operators
+The High Net Worth Lens HNWI and UHNW individuals move differently than retail or emerging operators
 
 .
 
@@ -310,9 +310,9 @@ A hardened pipeline.
 
 A deterministic route to liquidity.
 
-A frictionless interface between capital and covenant aligned operators. 
+A frictionless interface between capital and covenant aligned operators.
 
-## The Institutional Lens Institutions view the world through mandate compliance
+The Institutional Lens Institutions view the world through mandate compliance
 
 .
 
@@ -336,9 +336,9 @@ Autonomous deal flow removes this entirely.
 
 It produces a standardized intake that institutions can evaluate without discretionary effort.
 
-It elevates the conversation from persuasion to alignment. 
+It elevates the conversation from persuasion to alignment.
 
-## The Real Meaning of Autonomy Autonomy is not autonomous infrastructure
+The Real Meaning of Autonomy Autonomy is not autonomous infrastructure
 
 .
 
@@ -366,9 +366,9 @@ A world where structure rules chaos.
 
 Where stewardship governs action.
 
-Where mandates flow through channels that do not degrade. 
+Where mandates flow through channels that do not degrade.
 
-## Systems Engineering Applied to Private Credit Private credit is a category with natural inefficiencies
+Systems Engineering Applied to Private Credit Private credit is a category with natural inefficiencies
 
 .
 
@@ -392,9 +392,9 @@ The architecture converts the entire space into a structured environment.
 
 - Mandates matched Flow is not a byproduct.
 
-Flow is a function. 
+Flow is a function.
 
-## The Agentic Layer Agentic infrastructure is the future of private credit. it is inevitable
+The Agentic Layer Agentic infrastructure is the future of private credit. it is inevitable
 
 .
 
@@ -412,9 +412,9 @@ Agentic systems:
 
 A force multiplier.
 
-A guardian of mandate integrity. 
+A guardian of mandate integrity.
 
-## The Future State Autonomous deal flow leads to a fully mature architecture
+The Future State Autonomous deal flow leads to a fully mature architecture
 
 .
 
@@ -438,9 +438,9 @@ Hardened.
 
 Covenant aligned.
 
-Velocity focused. 
+Velocity focused.
 
-## Closing Position Autonomous deal flow is not a convenience for Roials Alpha
+Closing Position Autonomous deal flow is not a convenience for Roials Alpha
 
 .
 

@@ -24,9 +24,7 @@ Roials Alpha exists for that category.
 
 The category that does not need noise.
 
-Only execution. 
-
-## principal authority: The F-Hierarchical Dynamics Roials Alpha operates with principal authority
+Only execution. principal authority: The F-Hierarchical Dynamics Roials Alpha operates with principal authority
 
 .
 
@@ -44,9 +42,9 @@ It is a strategic position.
 
 We serve those who understand that visibility is rarely power.
 
-Control is. 
+Control is.
 
-## Liquidity as a Sovereign Asset Class Most investors see liquidity as a resource
+Liquidity as a Sovereign Asset Class Most investors see liquidity as a resource
 
 .
 
@@ -68,9 +66,9 @@ Not clients.
 
 Not investors.
 
-Controllers of a personal liquidity state. 
+Controllers of a personal liquidity state.
 
-## Why Traditional Institutional Liquidity Paths Is Obsolete for Serious Capital Traditional Capital Structuring systems were built for those who need permission
+Why Traditional Institutional Liquidity Paths Is Obsolete for Serious Capital Traditional Capital Structuring systems were built for those who need permission
 
 .
 
@@ -88,9 +86,9 @@ We require velocity.
 
 This is the alpha gap.
 
-This is the future of private credit. 
+This is the future of private credit.
 
-## The Alpha Future Built on Sovereign AI Alpha is no longer about outperforming a benchmark
+The Alpha Future Built on Sovereign AI Alpha is no longer about outperforming a benchmark
 
 .
 
@@ -110,9 +108,9 @@ They instruct them.
 
 This is the sovereign shift.
 
-This is the alpha future. 
+This is the alpha future.
 
-## The Roials Alpha Advantage We serve a very narrow category
+The Roials Alpha Advantage We serve a very narrow category
 
 .
 
@@ -134,9 +132,9 @@ Without noise.
 
 Without delay.
 
-Without compromise. 
+Without compromise.
 
-## The Invitation Roials Alpha does not extend broad invitations
+The Invitation Roials Alpha does not extend broad invitations
 
 .
 

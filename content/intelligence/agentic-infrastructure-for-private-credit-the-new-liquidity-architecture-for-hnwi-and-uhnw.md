@@ -58,45 +58,45 @@ Conventional systems check for:
 
 • High frequency collateral health The difference is not incremental.
 
-The difference is exponential. 
+The difference is exponential.
 
-## The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers
+The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates through several autonomous layers
 
-.
+. 
 
-# Layer I
+### Layer I
 
 Collateral Intelligence Engine Evaluates collateral with structured models.
 
 Operates continuously.
 
-Updates LTV parameters dynamically.
+Updates LTV parameters dynamically. 
 
-# Layer II: Agentic Exposure Manager Monitors volatility bands
+### Layer II: Agentic Exposure Manager Monitors volatility bands
 
 .
 
 Adjusts exposure without human approval.
 
-Enforces capital rules.
+Enforces capital rules. 
 
-# Layer II: I
+### Layer II: I
 
 Autonomous Liquidity Router Deploys funds with minimal latency.
 
 Optimizes capital pathways.
 
-Reduces slippage across asset channels.
+Reduces slippage across asset channels. 
 
-# Layer I: V
+### Layer I: V
 
 Privacy Vault Mechanics Isolates client identity from execution layers.
 
 Maintains zero retail footprint.
 
-Enforces structural confidentiality.
+Enforces structural confidentiality. 
 
-# Layer V
+### Layer V
 
 Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
 
@@ -108,9 +108,9 @@ No uncertainty.
 
 These layers are not optional modules.
 
-They are the foundation. 
+They are the foundation.
 
-## Asset-Based Lending in the Agentic Era: High Fidelity Institutional Liquidity Paths Asset based Institutional Liquidity Paths has existed for decades
+Asset-Based Lending in the Agentic Era: High Fidelity Institutional Liquidity Paths Asset based Institutional Liquidity Paths has existed for decades
 
 .
 
@@ -134,9 +134,9 @@ It treats collateral as dynamic code instead of a fixed object.
 
 This is the future state of private credit.
 
-And it is already operational inside Roials Alpha. 
+And it is already operational inside Roials Alpha.
 
-## Why This Matters: The Liquidity Advantage The real advantage is structural
+Why This Matters: The Liquidity Advantage The real advantage is structural
 
 .
 
@@ -166,9 +166,9 @@ Remove friction.
 
 Increase velocity.
 
-Enhance control. 
+Enhance control.
 
-## The Future: Agentic Infrastructure as the Standard for Private Credit Within the next decade, agentic systems will not be optional
+The Future: Agentic Infrastructure as the Standard for Private Credit Within the next decade, agentic systems will not be optional
 
 .
 
@@ -190,9 +190,9 @@ Agentic private credit is not a product.
 
 It is an operating system.
 
-And Roials Alpha is the architecture behind it. 
+And Roials Alpha is the architecture behind it.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

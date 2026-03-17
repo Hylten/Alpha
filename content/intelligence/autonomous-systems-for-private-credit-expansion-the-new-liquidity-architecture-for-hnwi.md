@@ -28,9 +28,9 @@ Everything here is the architecture behind the curtain.
 
 principal authority.
 
-Precision mechanics. 
+Precision mechanics.
 
-## Closing Precision Autonomous systems are not a trend
+Closing Precision Autonomous systems are not a trend
 
 .
 

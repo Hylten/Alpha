@@ -70,9 +70,9 @@ Signals cascade.
 
 Pricing responds.
 
-This is institutional-grade precision delivered with algorithmic immediacy. 
+This is institutional-grade precision delivered with algorithmic immediacy.
 
-## PRINCIPAL VOIC
+PRINCIPAL VOIC
 
 E
 
@@ -124,9 +124,9 @@ Eliminate friction.
 
 Dynamic pricing is not technology.
 
-It is governance at scale. 
+It is governance at scale.
 
-## DEEP ARCHITECTUR
+DEEP ARCHITECTUR
 
 E
 
@@ -326,7 +326,7 @@ The next decade of alpha will originate here.
 
 - Agentic Infrastructure Inquiry If you intend to build this system-not as a concept but as an operational architecture-you need an agentic 
 
-# Layer C: apable of
+### Layer C: apable of
 
 :
 

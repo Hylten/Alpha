@@ -108,11 +108,9 @@ The landscape includes operators focusing on healthcare receivables, platforms s
 
 There are differences in data infrastructure, collateral mapping protocols, and risk modeling algorithms.
 
-Roials Capital maps these distinctions and curates introductions that align allocator mandates with operator capabilities. 
+Roials Capital maps these distinctions and curates introductions that align allocator mandates with operator capabilities.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource allocation
+THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource allocation
 
 .
 
@@ -138,11 +136,9 @@ Precision lending preserves it.
 
 AI driven Asset-Based Lending creates the informational environment required for responsible stewardship.
 
-It aligns lending with authentic asset performance rather than outdated underwriting heuristics. 
+It aligns lending with authentic asset performance rather than outdated underwriting heuristics.
 
- 
-
-## PORTFOLIO ORIENTATION AND DECISION LENS Institutional allocators evaluating AI driven Asset-Based Lending should apply four filters: liquidity velocity, collateral integrity, data fidelity, and operator maturity
+PORTFOLIO ORIENTATION AND DECISION LENS Institutional allocators evaluating AI driven Asset-Based Lending should apply four filters: liquidity velocity, collateral integrity, data fidelity, and operator maturity
 
 .
 

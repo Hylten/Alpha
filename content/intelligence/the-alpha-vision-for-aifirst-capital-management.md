@@ -24,9 +24,9 @@ Roials Alpha is built exactly for them.
 
 We do not mirror the market.
 
-We architect the layer beneath it. 
+We architect the layer beneath it.
 
-## The Alpha Vision Forward The future of capital is agentic
+The Alpha Vision Forward The future of capital is agentic
 
 .
 

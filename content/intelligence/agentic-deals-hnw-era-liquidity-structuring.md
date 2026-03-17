@@ -118,7 +118,7 @@ Human‑directed but machine‑operated.
 
 The first 
 
-# Layer I: s asset hardening
+### Layer I: s asset hardening
 
 .
 
@@ -146,7 +146,7 @@ Portfolio transforms into a credit‑ready grid where every node is analyzable, 
 
 Second 
 
-# Layer I: s deal choreography
+### Layer I: s deal choreography
 
 .
 
@@ -176,7 +176,7 @@ Capital moves with tactical precision and zero waste.
 
 Third 
 
-# Layer I: s covenant intelligence
+### Layer I: s covenant intelligence
 
 .
 
@@ -198,7 +198,7 @@ Systems maintain stability through continuous micro‑corrections.
 
 Fourth 
 
-# Layer I: s jurisdictional arbitrage
+### Layer I: s jurisdictional arbitrage
 
 .
 
@@ -218,7 +218,7 @@ It becomes not merely an investment vehicle but a jurisdictional intelligence en
 
 Fifth 
 
-# Layer I: s execution speed
+### Layer I: s execution speed
 
 .
 
@@ -252,7 +252,7 @@ Precision without velocity is impotence.
 
 Sixth 
 
-# Layer I: s liquidity cycling
+### Layer I: s liquidity cycling
 
 .
 
@@ -276,7 +276,7 @@ No hesitation.
 
 Seventh 
 
-# Layer I: s sovereign posture
+### Layer I: s sovereign posture
 
 .
 
@@ -366,7 +366,7 @@ Because of architecture.
 
 Its intelligence 
 
-# Layer D: efines its competitive edge
+### Layer D: efines its competitive edge
 
 .
 
@@ -442,7 +442,7 @@ System replaces hierarchy.
 
 The next 
 
-# Step I: s infrastructural
+### Step I: s infrastructural
 
 .
 

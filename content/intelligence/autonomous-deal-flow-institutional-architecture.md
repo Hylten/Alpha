@@ -126,7 +126,7 @@ It ensures that allocators receive the right information at the right time with 
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not a product distributor.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -150,11 +150,9 @@ Opportunities are structured into evidence units that highlight exposure concent
 
 In real assets, the architecture emphasizes replacement cost anchoring, entitlement timelines, and capital stack optimization.
 
-Deals are introduced only after undergoing Strategic Collateralization analysis to determine structural integrity and operational viability. 
+Deals are introduced only after undergoing Strategic Collateralization analysis to determine structural integrity and operational viability.
 
- 
-
-## THE STEWARDSHIP FILTER Institutional architecture is incomplete without a stewardship discipline
+THE STEWARDSHIP FILTER Institutional architecture is incomplete without a stewardship discipline
 
 .
 
@@ -202,11 +200,9 @@ It requires timely decision pathways supported by high quality intelligence.
 
 Autonomous deal flow increases opportunity velocity without sacrificing prudence.
 
-This stewardship filter creates a disciplined operating environment where opportunity evaluation is measured, data anchored, and free of promotional distortion. 
+This stewardship filter creates a disciplined operating environment where opportunity evaluation is measured, data anchored, and free of promotional distortion.
 
- 
-
-## DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 2026 face a structural decision
+DECISION ARCHITECTURE FOR THE INSTITUTIONAL ALLOCATOR Institutional investors operating in 2026 face a structural decision
 
 .
 

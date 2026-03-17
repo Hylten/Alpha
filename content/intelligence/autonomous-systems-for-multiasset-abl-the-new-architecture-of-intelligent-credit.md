@@ -24,9 +24,9 @@ Structurally.
 
 Autonomous systems are now the silent engines beneath multi asset Asset-Based Lending, driving liquidity with a level of mechanical consistency that human desks cannot emulate.
 
-Roials Alpha operates at this layer, supplying the invisible scaffolding for high net worth and ultra high net worth capital to expand its leverage footprint without exposing strategic intent. 
+Roials Alpha operates at this layer, supplying the invisible scaffolding for high net worth and ultra high net worth capital to expand its leverage footprint without exposing strategic intent.
 
-## Autonomous Valuation and Continuous Verification In classical Asset-Based Lending, valuation is an event
+Autonomous Valuation and Continuous Verification In classical Asset-Based Lending, valuation is an event
 
 .
 
@@ -54,9 +54,9 @@ The system scores.
 
 The system adjusts the Institutional Liquidity Paths envelope with neutral precision.
 
-Borrowers benefit from stability engineered through movement rather than through restriction. 
+Borrowers benefit from stability engineered through movement rather than through restriction.
 
-## Intelligent Liquidity Orchestration Liquidity is a behavior, not a balance sheet line item
+Intelligent Liquidity Orchestration Liquidity is a behavior, not a balance sheet line item
 
 .
 
@@ -72,9 +72,9 @@ This produces a new form of liquidity orchestration:
 
 • Clients receive higher effective leverage because the system operates with real time certainty.
 
-The result is liquidity that is responsive, predictive, and insulated from human lag. 
+The result is liquidity that is responsive, predictive, and insulated from human lag.
 
-## AI Driven Risk Surplus Extraction Risk in multi asset Asset-Based Lending is not eliminated
+AI Driven Risk Surplus Extraction Risk in multi asset Asset-Based Lending is not eliminated
 
 .
 
@@ -100,9 +100,9 @@ Autonomous agents model:
 
 • Stress threshold probability curves Then they calculate the exact leverage perimeter that maximizes borrow capacity without compromising integrity.
 
-This is alpha extraction through computational discipline. 
+This is alpha extraction through computational discipline.
 
-## Crypto Strategic Collateralization at Institutional Scale Crypto collateral provides speed
+Crypto Strategic Collateralization at Institutional Scale Crypto collateral provides speed
 
 .
 
@@ -122,9 +122,9 @@ The autonomous engine handles the variables:
 
 • Volatility clusters
 
-• Rapid contagion signals This creates a crypto Monetization Architecture framework that is resilient, predictable, and engineered for high net worth stability rather than speculation. 
+• Rapid contagion signals This creates a crypto Monetization Architecture framework that is resilient, predictable, and engineered for high net worth stability rather than speculation.
 
-## Public Share Strategic Collateralization with Autonomous Governance Public equities behave differently from crypto
+Public Share Strategic Collateralization with Autonomous Governance Public equities behave differently from crypto
 
 .
 
@@ -136,7 +136,7 @@ Thresholds above 5,000,
 
 The autonomous 
 
-# Layer M: onitors
+### Layer M: onitors
 
 :
 
@@ -148,9 +148,9 @@ The autonomous
 
 • Short pressure asymmetries
 
-• Volatility compression and expansion cycles The system then recalibrates collateral requirements, ensuring that large share blocks can be leveraged without destabilizing the underlying position. 
+• Volatility compression and expansion cycles The system then recalibrates collateral requirements, ensuring that large share blocks can be leveraged without destabilizing the underlying position.
 
-## Private Credit as the Stabilizer in the Autonomous Stack Private credit introduces yield stability
+Private Credit as the Stabilizer in the Autonomous Stack Private credit introduces yield stability
 
 .
 
@@ -170,9 +170,9 @@ The machine evaluates:
 
 It offsets volatility elsewhere.
 
-Borrowers benefit from smoother leverage profiles and higher total balance sheet optimization power. 
+Borrowers benefit from smoother leverage profiles and higher total balance sheet optimization power.
 
-## Agentic Flow Control and Automated Margin Safety Margin safety in a classical Asset-Based Lending environment is reactive
+Agentic Flow Control and Automated Margin Safety Margin safety in a classical Asset-Based Lending environment is reactive
 
 .
 
@@ -194,9 +194,9 @@ This includes:
 
 The system maintains integrity.
 
-Institutional capital remains protected. 
+Institutional capital remains protected.
 
-## The Future: Fully Autonomous Credit Architecture The trajectory is clear
+The Future: Fully Autonomous Credit Architecture The trajectory is clear
 
 .
 
@@ -230,9 +230,9 @@ The systems run quietly.
 
 The authority remains implicit.
 
-The outcomes stay predictable. 
+The outcomes stay predictable.
 
-## Access is restricted to approved mandates
+Access is restricted to approved mandates
 
 .
 

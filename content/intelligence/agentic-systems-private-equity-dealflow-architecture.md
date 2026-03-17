@@ -148,9 +148,7 @@ The objective is clarity, not velocity for its own sake.
 
 Allocators receive pre filtered, structurally aligned opportunities without marketing language or speculative framing.
 
-When 
-
-## THE MANDAT
+When THE MANDAT
 
 E
 
@@ -174,11 +172,9 @@ The firm operates as an introducer and alignment architect ensuring that institu
 
 When mandates involve private credit, secondary transactions, or M&A, the partnership model shifts toward structural analysis and capital stack optimization.
 
-The emphasis is always on allocator alignment and regulatory clarity. 
+The emphasis is always on allocator alignment and regulatory clarity.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship within private markets is the discipline of non wasteful resource deployment
+THE STEWARDSHIP FILTER Stewardship within private markets is the discipline of non wasteful resource deployment
 
 .
 
@@ -206,19 +202,15 @@ When agentic systems reduce this misalignment, they fortify the allocator's deci
 
 Stewardship also involves the avoidance of excess leverage, the careful calibration of liquidity, and the structural hardening of assets so they remain resilient under variable conditions.
 
-Balance sheet optimization becomes a stewardship discipline when it prevents unnecessary fragility. 
+Balance sheet optimization becomes a stewardship discipline when it prevents unnecessary fragility.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 2026 environment require a decision making lens that incorporates agentic intelligence not as a novelty but as infrastructure
+DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating within the 2026 environment require a decision making lens that incorporates agentic intelligence not as a novelty but as infrastructure
 
 .
 
 The strategic question is alignment.
 
-Autonomous systems must be tuned to the allocator's Institutional Archetype so the output reflects 
-
-## THE MANDAT
+Autonomous systems must be tuned to the allocator's Institutional Archetype so the output reflects THE MANDAT
 
 E
 

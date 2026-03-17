@@ -142,9 +142,7 @@ Strategy Navigation Once calibration is complete, the system begins continuous n
 
 Navigation means aligning the allocator with operational teams that match their archetype.
 
-NAEO is used in scenarios where energy, mineral rights, and heavy oil recovery are relevant to 
-
-## THE MANDAT
+NAEO is used in scenarios where energy, mineral rights, and heavy oil recovery are relevant to THE MANDAT
 
 E
 
@@ -170,11 +168,9 @@ No projections or return promises are made.
 
 The focus is structural alignment, operational intelligence, and institutional fit.
 
-This partnership model is designed to reduce friction, accelerate clarity, and create transparency for allocators operating at scale. 
+This partnership model is designed to reduce friction, accelerate clarity, and create transparency for allocators operating at scale.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not charity
+THE STEWARDSHIP FILTER Stewardship is not charity
 
 .
 
@@ -230,11 +226,9 @@ Agentic systems preserve continuity by maintaining the allocation architecture i
 
 Stewardship is not a narrative.
 
-It is a discipline. 
+It is a discipline.
 
- 
-
-## DECISION-MAKING LENS FOR THE ALLOCATOR Allocators who operate without algorithmic mobility will face increasing friction, slower deployment cycles, and reduced opportunity access
+DECISION-MAKING LENS FOR THE ALLOCATOR Allocators who operate without algorithmic mobility will face increasing friction, slower deployment cycles, and reduced opportunity access
 
 .
 
@@ -266,7 +260,7 @@ Roials Capital conducts confidential Strategy Audits to evaluate the allocator's
 
 This is the first 
 
-# Step I
+### Step I
 
 n creating an institutional framework for cross border capital migration. [END OF BRIEFING]
 

@@ -180,11 +180,9 @@ The analytical model is built to match operator realities with allocator require
 
 For allocators with exposure to volatile digital assets, the Roials Alpha Framework functions as a liquidity governance system.
 
-It ensures that digital asset volatility is contextualized using quantitative analytics aligned with institutional expectations. 
+It ensures that digital asset volatility is contextualized using quantitative analytics aligned with institutional expectations.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved
+THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is deployed, protected, and preserved
 
 .
 
@@ -212,11 +210,9 @@ Roials Alpha is designed to minimize this leakage by establishing:
 
 Stewardship is not risk avoidance.
 
-It is risk governance through technical competence. 
+It is risk governance through technical competence.
 
- 
-
-## DECISION MAKING LENS FOR ALLOCATORS Allocators facing digital asset volatility require a framework that transforms uncertainty into measurable structure
+DECISION MAKING LENS FOR ALLOCATORS Allocators facing digital asset volatility require a framework that transforms uncertainty into measurable structure
 
 .
 

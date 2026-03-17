@@ -364,9 +364,7 @@ Structural cross-check agents.
 
 And a high-authority arbiter that synthesizes the entire field.
 
-These 
-
-## AGENTS OPERAT
+These AGENTS OPERAT
 
 E
 

@@ -132,7 +132,7 @@ This preserves human oversight while removing delay driven friction.
 
 Portfolio 
 
-# Layer I: ntelligence At the portfolio level, AI systems identify
+### Layer I: ntelligence At the portfolio level, AI systems identify
 
 :
 
@@ -220,11 +220,9 @@ Allocators benefit through:
 
 - more efficient capital rotation
 
-- faster redeployment cycles These outcomes are structural advantages, not yield promises. 
+- faster redeployment cycles These outcomes are structural advantages, not yield promises.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of responsible resource deployment
+THE STEWARDSHIP FILTER Stewardship is a discipline of responsible resource deployment
 
 .
 
@@ -249,11 +247,9 @@ Mispricing risk, misunderstanding collateral behavior, or relying on outdated un
 
 The shift to AI first underwriting is not a search for novelty.
 
-It is a recalibration toward more disciplined capital governance. 
+It is a recalibration toward more disciplined capital governance.
 
- 
-
-## DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR Private credit is entering its precision regime
+DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR Private credit is entering its precision regime
 
 .
 

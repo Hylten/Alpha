@@ -166,11 +166,9 @@ The partnership model operates on four principles:
 
 • Operational Intelligence: Providing dynamic analysis of basin behavior, production physics, and capital stack viability.
 
-This model respects allocator independence while delivering the technical substrate required for informed calibration. 
+This model respects allocator independence while delivering the technical substrate required for informed calibration.
 
- 
-
-## THE STEWARDSHIP FILTER Autonomous liquidity management is fundamentally an exercise in stewardship
+THE STEWARDSHIP FILTER Autonomous liquidity management is fundamentally an exercise in stewardship
 
 .
 
@@ -194,11 +192,9 @@ Stewardship also informs technological adoption.
 
 Autonomous liquidity engines reduce human friction, eliminate discretionary bias, and enforce consistent risk discipline.
 
-They operate as stewards in code form, sustaining stability even in volatile macro conditions. 
+They operate as stewards in code form, sustaining stability even in volatile macro conditions.
 
- 
-
-## DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS Sovereign entities analyzing autonomous liquidity frameworks typically assess three dimensions.
+DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS Sovereign entities analyzing autonomous liquidity frameworks typically assess three dimensions.
 
  
 

@@ -118,7 +118,7 @@ Not by industry but by decision maker.
 
 Not by company but by control vector.
 
-## Signal Compression Deal discovery fails when data is unrefined
+Signal Compression Deal discovery fails when data is unrefined
 
 .
 
@@ -142,7 +142,7 @@ Signal compression eliminates noise such as:
 
 What remains is actionable intelligence tied to covenant aligned opportunities.
 
-## Counterparty Profiling Traditional underwriting focuses on borrower risk
+Counterparty Profiling Traditional underwriting focuses on borrower risk
 
 .
 
@@ -202,7 +202,7 @@ A borrower prepared through asset hardening becomes bankable even outside bank c
 
 This increases durability and reduces cost of capital.
 
-## Collateral Precision Collateral must be definable, isolatable, and enforceable
+Collateral Precision Collateral must be definable, isolatable, and enforceable
 
 .
 
@@ -222,7 +222,7 @@ The goal is not maximum coverage.
 
 The goal is maximum certainty.
 
-## Information Integrity High velocity liquidity engineering collapses when data is unreliable
+Information Integrity High velocity liquidity engineering collapses when data is unreliable
 
 .
 
@@ -240,7 +240,7 @@ Information integrity is a covenant before the covenant.
 
 It is the predicate for execution velocity.
 
-## Institutional Grade Controls Institutions deploy capital based on control
+Institutional Grade Controls Institutions deploy capital based on control
 
 .
 
@@ -306,7 +306,7 @@ Purpose aligned covenants include:
 
 Each covenant exists to protect the joint mandate between lender and operator.
 
-## Predictable Accountability Predictability is more valuable than flexibility
+Predictable Accountability Predictability is more valuable than flexibility
 
 .
 
@@ -324,7 +324,7 @@ The operator knows expectations.
 
 The lender knows behavior.
 
-## Aligned Mandate Stewardship requires alignment
+Aligned Mandate Stewardship requires alignment
 
 .
 
@@ -386,7 +386,7 @@ This eliminates friction.
 
 Capital moves with certainty.
 
-## Agentic Infrastructure This is the domain of Roials-Alpha
+Agentic Infrastructure This is the domain of Roials-Alpha
 
 .
 
@@ -404,7 +404,7 @@ Agentic infrastructure performs:
 
 This creates a structural advantage that cannot be replicated through manpower.
 
-## Automated Covenant Enforcement autonomous infrastructure reduces default risk
+Automated Covenant Enforcement autonomous infrastructure reduces default risk
 
 .
 
@@ -432,7 +432,7 @@ The lender experiences protection.
 
 - ## Specialized Domains The Alpha Framework adapts to specific structures.
 
-## Crypto Secured Monetization Architecture Minimum threshold 2M
+Crypto Secured Monetization Architecture Minimum threshold 2M
 
 .
 
@@ -452,7 +452,7 @@ The risk is counterparty opacity.
 
 Asset hardening resolves this by isolating collateral within enforceable pathways.
 
-## Public Share Secured Monetization Architecture Minimum threshold 5M
+Public Share Secured Monetization Architecture Minimum threshold 5M
 
 .
 
@@ -546,7 +546,7 @@ Relentless execution.
 
 * Each 
 
-# Pillar C: ompounds the others
+### Pillar C: ompounds the others
 
 .
 

@@ -22,9 +22,9 @@ This briefing outlines
 
  TECHNICAL MECHANICS
 
- of AI based sovereign financing, the partnership architecture Roials Capital deploys for institutional navigation, and the stewardship philosophy that governs capital deployment in this new epoch.
+ of AI based sovereign financing, the partnership architecture Roials Capital deploys for institutional navigation, and the stewardship philosophy that governs capital deployment in this new epoch. 
 
-# Phase I: .
+### Phase I: .
 
 THE REGIME SHIFT
 
@@ -69,9 +69,9 @@ The intermediary gains predictive visibility into sovereign cash flow behavior.
 
 For the first time in modern credit history, the highest value asset in sovereign lending is not capital.
 
-It is the ability to model sovereign behavior, risk migration patterns, commodity revenue stability, cross border payment flows, and regulatory drift in real time.
+It is the ability to model sovereign behavior, risk migration patterns, commodity revenue stability, cross border payment flows, and regulatory drift in real time. 
 
-# Phase II: .
+### Phase II: .
 
 TECHNICAL MECHANICS
 
@@ -151,9 +151,9 @@ The output is a calibrated liquidity corridor that defines how capital should be
 
 This is the core of AI centric sovereign credit.
 
-It delivers a risk architecture that adapts to the behavior of the sovereign in real time rather than relying on backward looking ratings reports.
+It delivers a risk architecture that adapts to the behavior of the sovereign in real time rather than relying on backward looking ratings reports. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL: ROIALS CAPITAL AS STRATEGIC NAVIGATOR Roials Capital functions as a strategic navigator and institutional introducer within this new financing paradigm.
 
@@ -183,13 +183,13 @@ The focus is always on structural alignment, signal detection infrastructure, an
 
 When the topic intersects North American energy or heavy oil optimization, the institutional partner is NAEO.
 
-In sovereign finance, the partners vary by jurisdiction, regulatory standing, and AI system maturity.
+In sovereign finance, the partners vary by jurisdiction, regulatory standing, and AI system maturity. 
 
-# Phase IV: .
+### Phase IV
 
- 
+.
 
-## THE STEWARDSHIP FILTER : ETHICS, CAPITAL, AND THEOLOGY OF NON WASTE The stewardship doctrine sits at the core of the Roials Capital framework
+THE STEWARDSHIP FILTER : ETHICS, CAPITAL, AND THEOLOGY OF NON WASTE The stewardship doctrine sits at the core of the Roials Capital framework
 
 .
 
@@ -233,15 +233,11 @@ The allocator gains high fidelity risk visibility.
 
 The sovereign gains Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum mandate depth: $5M+ target size. 
 
-# Phase V: .
+### Phase V: .
 
-THE
-
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate with constraints that require a stable, model driven decision framework
+THE DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate with constraints that require a stable, model driven decision framework
 
 .
 
@@ -259,7 +255,7 @@ The following lens helps determine alignment with AI centric sovereign credit:
 
 If the answer aligns with structural needs, the next 
 
-# Step I: s a Confidential Strategy Audit
+### Step I: s a Confidential Strategy Audit
 
 .
 

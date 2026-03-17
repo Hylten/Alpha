@@ -28,7 +28,7 @@ On one side are allocators operating through legacy human centric workflows.
 
 These entities experience drag at every operational 
 
-# Layer I
+### Layer I
 
 ncluding sourcing, due diligence, cash flow mapping, and covenant surveillance.
 
@@ -122,7 +122,7 @@ This evolves into a discipline where rebalancing is not based on market speculat
 
 THE PARTNERSHIP MODEL AND ROLE OF ROIALS CAPITAL Roials Capital operates as a strategic navigator within this environment.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -160,11 +160,9 @@ Neutral Advisement Roials does not position itself as an asset manager.
 
 The role is strategic orientation, structural clarity, and responsible introductions.
 
-This ensures independence, neutrality, and institutional grade alignment between the allocator and the operating environment. 
+This ensures independence, neutrality, and institutional grade alignment between the allocator and the operating environment.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship defines the moral and operational core of the framework
+THE STEWARDSHIP FILTER Stewardship defines the moral and operational core of the framework
 
 .
 
@@ -188,11 +186,9 @@ Stewardship also means allocating capital with precision.
 
 It avoids speculative volatility and prioritizes assets that demonstrate structured physics, measurable decline curves, engineered recovery profiles, or predictable cash flow architectures.
 
-In this regard AI enhances the allocator's ability to adhere to stewardship principles by providing clarity, speed, and discipline. 
+In this regard AI enhances the allocator's ability to adhere to stewardship principles by providing clarity, speed, and discipline.
 
- 
-
-## THE DECISION FRAMEWORK FOR ALLOCATORS For UHNW families, private credit funds, and institutional LPs, an AI first approach becomes a necessity when three conditions converge.
+THE DECISION FRAMEWORK FOR ALLOCATORS For UHNW families, private credit funds, and institutional LPs, an AI first approach becomes a necessity when three conditions converge.
 
  
 
@@ -216,7 +212,7 @@ Human dependent workflows cannot match the execution velocity required for moder
 
 The next institutional 
 
-# Step I
+### Step I
 
 s a confidential Strategy Calibration Audit with Roials Capital.
 

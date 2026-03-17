@@ -14,13 +14,11 @@ Vår agentiska infrastruktur stress-testar likviditet dygnet runt utan mänsklig
 
 Vi eliminerar analyst-bias och ersätter kvartalsrapporter med kontinuerlig exekvering.
 
-Roials Alpha bygger infrastruktur för dem som kräver precision. 
+Roials Alpha bygger infrastruktur för dem som kräver precision.
 
-### THE ALPHA SENTINEL
+THE ALPHA SENTINEL 
 
- 
-
-# Layer V: I
+### Layer V: I
 
 bygger inte rapporter; vi kodar in säkerhetsmarginaler i din portfölj.
 

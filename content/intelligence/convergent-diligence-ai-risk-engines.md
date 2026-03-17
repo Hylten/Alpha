@@ -108,7 +108,7 @@ Principal interpretation.
 
 A deal moves differently when the intelligence 
 
-# Layer I: s running ahead of the humans
+### Layer I: s running ahead of the humans
 
 .
 
@@ -150,7 +150,7 @@ The intersection is where superior capital decisions occur.
 
 The agentic 
 
-# Layer I: s the true multiplier
+### Layer I: s the true multiplier
 
 .
 
@@ -252,7 +252,7 @@ You move the conversation to a direct line.
 
 This is the signature of Roials-Alpha: the intelligence 
 
-# Layer CL: ears the path before the human even enters the room
+### Layer CL: ears the path before the human even enters the room
 
 .
 

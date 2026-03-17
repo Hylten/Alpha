@@ -158,11 +158,9 @@ Institutional
 
  to Sovereign Grade Operators Roials Capital identifies operators and capital platforms that maintain the operational discipline necessary to perform inside machine governed financing systems.
 
-When the strategic mandate includes North American energy, NAEO is identified as the aligned institutional partner due to its operational telemetry, engineered production predictability, and compatibility with algorithmic credit engines. 
+When the strategic mandate includes North American energy, NAEO is identified as the aligned institutional partner due to its operational telemetry, engineered production predictability, and compatibility with algorithmic credit engines.
 
- 
-
-## THE STEWARDSHIP FILTER Sovereign financing is evolving from balance sheet expansion to stewardship centric capital discipline
+THE STEWARDSHIP FILTER Sovereign financing is evolving from balance sheet expansion to stewardship centric capital discipline
 
 .
 
@@ -200,11 +198,9 @@ They do not rely on intention.
 
 They rely on alignment, calibration, and deterministic execution.
 
-Stewardship becomes an operating principle rather than an aspirational ideal. 
+Stewardship becomes an operating principle rather than an aspirational ideal.
 
- 
-
-## PORTFOLIO CALIBRATION LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must assess every deployment decision through an AI centric framework rather than a traditional credit framework
+PORTFOLIO CALIBRATION LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must assess every deployment decision through an AI centric framework rather than a traditional credit framework
 
 .
 

@@ -115,11 +115,9 @@ In other private credit or private equity verticals, Roials Capital maintains in
 
 The objective is structural alignment rather than promotion.
 
-The architecture sorts opportunities by technical viability, prepares institutional grade briefs, and facilitates a clean interface between allocator and operator without narrative inflation. 
+The architecture sorts opportunities by technical viability, prepares institutional grade briefs, and facilitates a clean interface between allocator and operator without narrative inflation.
 
- 
-
-## THE STEWARDSHIP FILTER Institutional stewardship is the governance philosophy that capital must not be wasted
+THE STEWARDSHIP FILTER Institutional stewardship is the governance philosophy that capital must not be wasted
 
 .
 
@@ -149,11 +147,9 @@ This aligns with the theology of capital exemplified in
 
 * which defines wealth not as accumulation but as intergenerational responsibility.
 
-Autonomous filtration amplifies this responsibility by ensuring that capital is allocated to structurally coherent opportunities rather than narrative driven speculation. 
+Autonomous filtration amplifies this responsibility by ensuring that capital is allocated to structurally coherent opportunities rather than narrative driven speculation.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 2026 private markets require clarity, not volume
+DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating 2026 private markets require clarity, not volume
 
 .
 

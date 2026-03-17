@@ -60,7 +60,7 @@ TECHNICAL MECHANICS
 
 They are multi 
 
-# Layer C
+### Layer C
 
 omputational architectures engineered to reconstruct the entire private credit workflow into machine executed subprocesses.
 
@@ -174,11 +174,9 @@ Roials Capital maintains introducer neutrality.
 
 This means the framework does not tilt toward a specific issuer or operator.
 
-It aligns the allocator with a systemic method to evaluate deal flow using computational intelligence that adheres to regulatory boundaries and institutional-grade governance structures. 
+It aligns the allocator with a systemic method to evaluate deal flow using computational intelligence that adheres to regulatory boundaries and institutional-grade governance structures.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital allocation is the discipline of maintaining order, reducing entropy, and eliminating wasteful friction
+THE STEWARDSHIP FILTER Stewardship in capital allocation is the discipline of maintaining order, reducing entropy, and eliminating wasteful friction
 
 .
 
@@ -218,11 +216,9 @@ This supports intergenerational capital responsibility rather than reactive liqu
 
 Stewardship is therefore not a moral abstraction.
 
-It is a measurable operational discipline strengthened by computational precision. 
+It is a measurable operational discipline strengthened by computational precision.
 
- 
-
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating at UHNW or institutional scale faces a structural question
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator operating at UHNW or institutional scale faces a structural question
 
 .
 
@@ -238,7 +234,7 @@ The next step for allocators is not transactional.
 
 The next 
 
-# Step I
+### Step I
 
 s a confidential strategy audit to evaluate whether existing analytical systems can sustain the pace and complexity of modern private credit deal flow.
 

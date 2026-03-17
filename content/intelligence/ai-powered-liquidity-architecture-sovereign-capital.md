@@ -108,7 +108,7 @@ For private credit structures the same layer applies:
 
 Credit Decisioning Layer This 
 
-# Layer C: onstructs underwriting determinations based on
+### Layer C: onstructs underwriting determinations based on
 
 :
 
@@ -184,11 +184,9 @@ The structure enables:
 
  INTRODUCTION
 
- pathways This approach aligns with allocators who require systemic clarity and precision before committing capital to any domain. 
+ pathways This approach aligns with allocators who require systemic clarity and precision before committing capital to any domain.
 
- 
-
-## THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than sentiment
+THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than sentiment
 
 .
 
@@ -234,11 +232,9 @@ For energy assets this includes:
 
 - asset longevity based on reservoir physics Stewardship within this context is not moral language.
 
-It is operational discipline. 
+It is operational discipline.
 
- 
-
-## DECISION MAKING LENS FOR INSTITUTIONAL ALLOCATORS Sovereign level allocators evaluate systems rather than opportunities
+DECISION MAKING LENS FOR INSTITUTIONAL ALLOCATORS Sovereign level allocators evaluate systems rather than opportunities
 
 .
 
