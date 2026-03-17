@@ -1,3 +1,11 @@
+---
+title: "Proprietary Intelligence on Asset Hardening via DeFi Protocols for High Net Worth Capital"
+description: "Institutional brief on technical collateral hardening, volatility-indexed credit, and high-net-worth capital defense."
+date: "2026-03-20"
+author: "Roials Alpha"
+slug: "proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital"
+---
+
 # Proprietary Intelligence on Asset Hardening via DeFi Protocols for High Net Worth Capital
 
 
