@@ -296,43 +296,43 @@ It is process-driven.
 
 Roials-Alpha prepares operators through a clear logic path. 
 
-### Step I: .
+### Step I:
 
 Purify cashflows 
 
-### Step II: .
+### Step II:
 
 Formalize governance 
 
-### Step III: .
+### Step III:
 
 Segregate capital pools 
 
-### Step IV: .
+### Step IV:
 
 Standardize reporting 
 
-### Step V: .
+### Step V:
 
 Establish collateral dependability 
 
-### Step VI: .
+### Step VI:
 
 Harden counterparty agreements 
 
-### Step VII: .
+### Step VII:
 
 Synchronize timelines 
 
-### Step VIII: .
+### Step VIII:
 
 Validate covenant literacy 
 
-### Step IX: .
+### Step IX:
 
 Document operational predictability 
 
-### Step X: .
+### Step X:
 
 Simulate institutional due diligence cycles Each step produces measurable improvement in structural integrity.
 

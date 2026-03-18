@@ -120,7 +120,7 @@ Price corridor anomalies.
 
 Each 
 
-### Layer I
+### Layer I:
 
 s processed independently and then merged into an enriched graph of company behavior.
 

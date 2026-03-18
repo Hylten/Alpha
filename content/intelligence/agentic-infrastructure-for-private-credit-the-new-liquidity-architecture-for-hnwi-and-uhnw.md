@@ -64,7 +64,7 @@ The Liquidity Blueprint: How Roials Alpha Executes Our architecture operates thr
 
 . 
 
-### Layer I
+### Layer I:
 
 Collateral Intelligence Engine Evaluates collateral with structured models.
 
@@ -80,7 +80,7 @@ Adjusts exposure without human approval.
 
 Enforces capital rules. 
 
-### Layer II: I
+### Layer II:
 
 Autonomous Liquidity Router Deploys funds with minimal latency.
 
@@ -88,7 +88,7 @@ Optimizes capital pathways.
 
 Reduces slippage across asset channels. 
 
-### Layer I: V
+### Layer I:
 
 Privacy Vault Mechanics Isolates client identity from execution layers.
 
@@ -96,7 +96,7 @@ Maintains zero retail footprint.
 
 Enforces structural confidentiality. 
 
-### Layer V
+### Layer V:
 
 Institutional Settlement Fabric Ensures settlement occurs across clean, institution-grade rails.
 

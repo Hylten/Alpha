@@ -12,7 +12,7 @@ The highest quality receivable pools in healthcare and enterprise technology rem
 
 AI synchronized Asset-Based Lending frameworks are emerging as the new liquidity engine for balance sheet optimization where recurring operational data is more predictive than historical financial statements. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIFT
 
@@ -62,7 +62,7 @@ Institutional access does not.
 
 This is the structural gap AI driven Asset-Based Lending architectures are now able to close. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANICS
 
@@ -124,7 +124,7 @@ It reduces information friction.
 
 The result is higher liquidity availability for lower risk collateral. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator for this credit category.
 
@@ -164,7 +164,7 @@ Roials Capital is not the warehouse lender, originator, or fund manager.
 
 It operates as the institutional introducer ensuring that allocators connect with the appropriate AI first Asset-Based Lending infrastructure. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is a discipline of responsible capital allocation grounded in resource efficiency
 
@@ -188,7 +188,7 @@ AI driven Asset-Based Lending meets this standard because it aligns liquidity ac
 
 This aligns with the theology of capital: the avoidance of waste, the preservation of margin, and the responsible scaling of productive assets. 
 
-### Phase V: .
+### Phase V:
 
 PORTFOLIO CALIBRATION LENS For allocators evaluating AI synchronized Asset-Based Lending structures, four filters generate clarity:
 

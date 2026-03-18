@@ -120,7 +120,7 @@ This creates a living credit file rather than a static PDF snapshot.
 
 Data Federation 
 
-### Layer I
+### Layer I:
 
 nstitutional allocators operate in multi jurisdictional environments.
 

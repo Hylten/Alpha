@@ -117,7 +117,7 @@ Global deployment typically requires tax counsel, regulatory interpretation, FX 
 
 Each 
 
-### Step I
+### Step I:
 
 s traditionally mediated by high touch advisory layers that increase cost and extend timelines.
 

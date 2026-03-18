@@ -64,7 +64,7 @@ Our infrastructure is built for this.
 
 We use multi‑
 
-### Layer V
+### Layer V:
 
 erification, agentic asset intelligence, dynamic collateral modeling, and silent‑signal communication protocols to ensure that transactions remain off‑radar.
 

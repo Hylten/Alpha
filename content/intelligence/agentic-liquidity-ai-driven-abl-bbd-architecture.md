@@ -130,7 +130,7 @@ THE CREDIT ENGINE: FUND‑III’S AGENTIC Asset-Based Lending STACK Fund‑III r
 
 Agentic Asset-Based Lending provides the architecture in four layers. 
 
-### Layer I: .
+### Layer I:
 
 Data Extraction The system scrapes structured and unstructured inputs with autonomous ingestion engines.
 
@@ -152,7 +152,7 @@ Regulatory filings.
 
 All processed into normalized vectors. 
 
-### Layer II: .
+### Layer II:
 
 Collateral Modeling AI agents perform collateral triangulation.
 
@@ -164,7 +164,7 @@ High‑coefficient assets serve as primary collateral.
 
 Low‑coefficient assets round out stability layers. 
 
-### Layer III: .
+### Layer III:
 
 Dynamic Underwriting No loan packages.
 
@@ -180,7 +180,7 @@ Borrowing capacity shifts instantly.
 
 Credit triggers fire automatically. 
 
-### Layer IV: .
+### Layer IV:
 
 Continuous Covenant Enforcement Covenants do not exist as static clauses.
 

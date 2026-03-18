@@ -60,7 +60,7 @@ TECHNICAL MECHANICS
 
  OF AI FIRST CAPITAL MIGRATION The technical foundation of AI driven capital movement can be modeled across four operational pillars. 
 
-### Pillar I
+### Pillar I:
 
 Algorithmic Underwriting Algorithmic underwriting is not simply automated data intake.
 
@@ -78,7 +78,7 @@ The architecture focuses on:
 
 This model creates an underwriting environment where risk visibility is immediate, not episodic. 
 
-### Pillar I: I
+### Pillar I:
 
 Autonomous Monitoring and Cash Flow Governance AI governed credit platforms track cash flows, collateral conditions, and borrower performance across real time datasets.
 
@@ -94,7 +94,7 @@ Core mechanisms include:
 
 AI driven monitoring reduces default detection lag and enhances institutional stability. 
 
-### Pillar II: I
+### Pillar II:
 
 Monetization Architecture and Automated Reallocation AI first capital migration systems execute Monetization Architecture protocols.
 
@@ -110,7 +110,7 @@ Asset-Backed Frameworks includes:
 
 This produces a more elastic and responsive liquidity architecture. 
 
-### Pillar I: V
+### Pillar I:
 
 Machine Governed Compliance AI compliance models interpret regulatory frameworks in real time, reducing exposure to regulatory drift.
 

@@ -219,19 +219,19 @@ Inside the Roials Alpha Strategic Collateralization Architecture A High Level Lo
 
 . 
 
-### Layer I
+### Layer I:
 
 Asset Modeling Engine Transforms collateral into a multidimensional data object.
 
-### Layer I: I
+### Layer I:
 
 Risk Geometry Engine Evaluates stability, drift, and liquidation mechanics. 
 
-### Layer II: I
+### Layer II:
 
 Liquidity Extraction Engine Calculates Monetization Architecture parameters with precision tuned spreads. 
 
-### Layer I: V
+### Layer I:
 
 Protective Enforcement Engine Ensures asset integrity under all market conditions.
 

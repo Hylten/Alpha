@@ -28,7 +28,7 @@ On one side are allocators operating through legacy human centric workflows.
 
 These entities experience drag at every operational 
 
-### Layer I
+### Layer I:
 
 ncluding sourcing, due diligence, cash flow mapping, and covenant surveillance.
 
@@ -212,7 +212,7 @@ Human dependent workflows cannot match the execution velocity required for moder
 
 The next institutional 
 
-### Step I
+### Step I:
 
 s a confidential Strategy Calibration Audit with Roials Capital.
 

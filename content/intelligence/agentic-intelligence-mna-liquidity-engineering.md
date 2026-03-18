@@ -152,7 +152,7 @@ Fund-III performance depends on engineering inevitability.
 
 - ALGORITHMIC LIQUIDITY MIGRATION: THE NEW PRINCIPAL 
 
-### Layer I
+### Layer I:
 
 n complex M&A, liquidity rarely sits where the deal needs it.
 

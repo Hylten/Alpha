@@ -320,7 +320,7 @@ Failure-mode datasets.
 
 Predictive volatility mapping. 
 
-### Layer II
+### Layer II:
 
 Legal Sovereignty Cross-jurisdictional compliance lattice
 

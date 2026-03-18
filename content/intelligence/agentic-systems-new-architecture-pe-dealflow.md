@@ -206,7 +206,7 @@ Because speed is a fiduciary duty.
 
 The architecture of agentic PE revolves around four layers. 
 
-### Layer I: .
+### Layer I:
 
 Signal Ingestion.
 
@@ -236,7 +236,7 @@ All auto-synchronized.
 
 No latency. 
 
-### Layer II: .
+### Layer II:
 
 Interpretive Intelligence.
 
@@ -256,7 +256,7 @@ Everything is layered.
 
 Everything is retested against fresh data. 
 
-### Layer III: .
+### Layer III:
 
 Autonomous Diligence.
 
@@ -278,7 +278,7 @@ Tax engines run cross-jurisdictional optimizations.
 
 Output: ready-for-principal risk geometry. 
 
-### Layer IV: .
+### Layer IV:
 
 Execution Readiness.
 

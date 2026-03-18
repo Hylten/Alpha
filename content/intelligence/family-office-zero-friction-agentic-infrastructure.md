@@ -58,7 +58,7 @@ Flow must become autonomous.
 
 Now the architecture. 
 
-### Phase I
+### Phase I:
 
 (Private vaulted brief) The core problem is not sourcing
 
@@ -118,7 +118,7 @@ Structural Preparation
 
 Execution Readiness Each 
 
-### Pillar I
+### Pillar I:
 
 s a machine layer replacing what would otherwise be an analyst team, a legal team, a credit committee, and a fund administrator.
 
@@ -208,7 +208,7 @@ Move.
 
 Or don’t move. 
 
-### Phase II
+### Phase II:
 
 INTERNAL TONE (Principal voice) You are not building a tool
 
