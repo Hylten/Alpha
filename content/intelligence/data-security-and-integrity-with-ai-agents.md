@@ -1,4 +1,10 @@
-
+---
+title: "Data Security and Integrity with AI Agents"
+date: "2026-03-21"
+author: "Jonas Hyltén"
+slug: "data-security-and-integrity-with-ai-agents"
+description: "Why AI agents break traditional security models and what Swedish companies must understand about agentic risk."
+---
 
 # Data Security and Integrity with AI Agents
 ## What Swedish Companies Need To Know About OpenClaw

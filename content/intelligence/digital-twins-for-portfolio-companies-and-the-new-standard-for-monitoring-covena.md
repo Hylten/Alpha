@@ -1,4 +1,10 @@
-
+---
+title: "Digital Twins for Portfolio Companies and the New Standard for Monitoring Covenants"
+date: "2026-03-21"
+author: "Jonas Hyltén"
+slug: "digital-twins-for-portfolio-companies"
+description: "How autonomous digital twins replace legacy quarterly reporting with real-time drift detection and covenant surveillance."
+---
 
 # Digital Twins For Portfolio Companies And The New Standard For Monitoring Covenants
 Roials Alpha Edition Digital infrastructure has outpaced human monitoring.
