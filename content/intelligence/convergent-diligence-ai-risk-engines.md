@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Convergent Diligence"
 description: "A high-resolution briefing on the fusion of private equity diligence, LLM‑based risk engines, and agentic infrastructures calibrated for algorithmic deal flow and AI-first credit architecture."
-date: "2025-11-02" author: "Roials-Alpha"
+date: "2025-11-02" author: "Roials Alpha"
 slug: "convergent-diligence-ai-risk-engines"
 ---
 

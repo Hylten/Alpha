@@ -1,7 +1,7 @@
 ---
 title: "The Terminal Decline of Legacy Credit Committees and the Rise of AI Underwriting Sovereignty"
 description: "A principal-level analysis of AI-driven underwriting stacks, autonomous credit architecture, and agentic infrastructures reshaping UHNW/HNW family office deal execution."
-date: "2025-10-29" author: "Roials-Alpha"
+date: "2025-10-29" author: "Roials Alpha"
 slug: "ai-underwriting-end-of-credit-committees"
 ---
 

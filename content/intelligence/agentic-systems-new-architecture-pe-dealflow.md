@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems and the New Architecture of PE Dealflow"
 description: "A high‑density institutional brief on algorithmic dealflow, agentic capital systems, and AI‑first private credit architectures redefining family office deployment velocity."
-date: "2025-09-12" author: "Roials-Alpha"
+date: "2025-09-12" author: "Roials Alpha"
 slug: "agentic-systems-new-architecture-pe-dealflow"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Asset‑Based Liquidity"
 description: "An institutional brief on AI-driven credit systems, agentic underwriting, and the structural redesign of private credit liquidity for UHNW/HNW family offices."
-date: "2025-08-15" author: "Roials-Alpha"
+date: "2025-08-15" author: "Roials Alpha"
 slug: "agentic-intelligence-asset-based-liquidity-architecture"
 ---
 

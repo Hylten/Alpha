@@ -1,7 +1,7 @@
 ---
 title: "The Future of Asset-Based Lending: From Analysis to Autonomy"
 description: "A principal-grade examination of autonomous asset‑based lending systems, algorithmic credit architectures, and institutional-scale liquidity engineering frameworks for UHNW/HNW family offices."
-date: "2026-02-12" author: "Roials-Alpha"
+date: "2026-02-12" author: "Roials Alpha"
 slug: "future-of-abl-from-analysis-to-autonomy"
 ---
 

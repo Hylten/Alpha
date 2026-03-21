@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Contractual Autonomy"
 description: "A deep structural analysis of smart‑contract execution layers for direct‑lending term sheets, built for algorithmic deal flow, AI‑first credit architecture, and institutional-grade velocity."
-date: "2025-11-12" author: "Roials-Alpha"
+date: "2025-11-12" author: "Roials Alpha"
 slug: "smart-contract-execution-layers-direct-lending-term-sheets"
 ---
 

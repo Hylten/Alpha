@@ -1,7 +1,7 @@
 ---
 title: "The Self-Validating Data Room: The Next Frontier of Autonomous Private Markets"
 description: "A principal-level architecture brief on autonomous data rooms, agentic verification engines, and AI-first deal execution structures for next‑generation private markets."
-date: "2026-01-21" author: "Roials-Alpha"
+date: "2026-01-21" author: "Roials Alpha"
 slug: "autonomous-data-rooms-and-agentic-private-markets"
 ---
 

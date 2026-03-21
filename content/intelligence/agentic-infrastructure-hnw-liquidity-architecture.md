@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for High‑Net‑Worth Portfolios: The New Liquidity Architecture"
 description: "A principal‑level briefing on AI‑first liquidity engineering, autonomous credit architecture, and agentic portfolio operating systems for UHNW/HNW private capital."
-date: "2026-01-20" author: "Roials-Alpha"
+date: "2026-01-20" author: "Roials Alpha"
 slug: "agentic-infrastructure-hnw-liquidity-architecture"
 ---
 

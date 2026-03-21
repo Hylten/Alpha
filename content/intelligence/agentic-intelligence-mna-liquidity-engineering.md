@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence for Complex M&A Liquidity"
 description: "Institutional-grade architectural brief on AI‑driven M&A liquidity engineering, credit structuring, and agentic intelligence for UHNW/HNW family‑office deal flow."
-date: "2025-07-28" author: "Roials-Alpha"
+date: "2025-07-28" author: "Roials Alpha"
 slug: "agentic-intelligence-mna-liquidity-engineering"
 ---
 

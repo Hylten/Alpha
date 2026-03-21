@@ -1,7 +1,7 @@
 ---
 title: "Roials-Alpha and the Ascendant Liquidity Stack: AI-Driven Asset-Based Engineering for the Post-Cycle Economy"
 description: "A principal-level brief on the next-generation AI liquidity stack, asset-based capital engineering, and the Roials-Alpha institutional architecture reshaping UHNW/HNW credit flows, collateral intelligence, and sovereign-grade deal autonomous infrastructure."
-date: "2026-02-21" author: "Roials-Alpha"
+date: "2026-02-21" author: "Roials Alpha"
 slug: "roials-alpha-ai-liquidity-architecture"
 ---
 

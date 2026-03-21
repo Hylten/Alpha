@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Asset-Based Lending for Emerging Markets: The Silent Infrastructure of Future Liquidity"
 description: "A dense institutional brief on AI-first asset‑based lending architecture, liquidity engineering, and sovereign‑grade credit structuring for emerging markets."
-date: "2025-12-19" author: "Roials-Alpha"
+date: "2025-12-19" author: "Roials Alpha"
 slug: "ai-driven-abl-emerging-markets-infrastructure-liquidity"
 ---
 

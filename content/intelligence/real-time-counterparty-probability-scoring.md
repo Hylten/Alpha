@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Real‑Time Counterparty Probability Scoring"
 description: "A deep, technical briefing on AI‑driven counterparty scoring, algorithmic deal flow filtration, and agentic infrastructure for UHNW transaction velocity."
-date: "2025-10-14" author: "Roials-Alpha"
+date: "2025-10-14" author: "Roials Alpha"
 slug: "real-time-counterparty-probability-scoring"
 ---
 

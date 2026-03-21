@@ -1,7 +1,7 @@
 ---
 title: "The Principal Geometry of Alternative Data Graphs in Emerging Private Credit Underwriting"
 description: "A high-density structural analysis of graph-based alternative data architectures, underwriting intelligence, and AI-first credit systems reshaping emerging private credit markets."
-date: "2025-12-21" author: "Roials-Alpha"
+date: "2025-12-21" author: "Roials Alpha"
 slug: "alternative-data-graphs-private-credit-underwriting"
 ---
 

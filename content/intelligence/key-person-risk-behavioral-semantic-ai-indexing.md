@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture for Quantifying Key Person Risk Through Behavioral and Semantic AI Indexing"
 description: "A technical dissection of how Roials-Alpha deploys behavioral vectors, semantic signal extraction, and longitudinal AI imaging to quantify Key Person Risk for UHNW/HNW family offices, Fund-III ecosystems, and industrial succession mandates."
-date: "2025-10-05" author: "Roials-Alpha"
+date: "2025-10-05" author: "Roials Alpha"
 slug: "key-person-risk-behavioral-semantic-ai-indexing"
 ---
 

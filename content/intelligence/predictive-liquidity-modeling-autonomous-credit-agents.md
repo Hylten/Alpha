@@ -1,7 +1,7 @@
 ---
 title: "Predictive Liquidity Modeling for Direct Credit Using Autonomous Data Agents"
 description: "An AI-first principal briefing on autonomous credit agents, real-time liquidity intelligence, and predictive underwriting architecture for direct credit ecosystems serving UHNW/HNW family offices."
-date: "2025-06-26" author: "Roials-Alpha"
+date: "2025-06-26" author: "Roials Alpha"
 slug: "predictive-liquidity-modeling-autonomous-credit-agents"
 ---
 

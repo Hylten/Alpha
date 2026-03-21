@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Agentic Models for Institutional-Grade Capital Architecture"
 description: "A high-density institutional brief on AI-native agentic systems, algorithmic deal flow, credit autonomous infrastructure, and sovereign-grade infrastructure for UHNW/HNW family offices."
-date: "2025-08-09" author: "Roials-Alpha"
+date: "2025-08-09" author: "Roials Alpha"
 slug: "proprietary-agentic-models-capital-architecture"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Real-Time Capital Arbitration"
 description: "A high-density analytical briefing on how AI resolves the capital stack—private credit, venture debt, and structured notes—through agentic infrastructure and algorithmic deal flow."
-date: "2025-10-07" author: "Roials-Alpha"
+date: "2025-10-07" author: "Roials Alpha"
 slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Complex Financial Structures: The Principal Mandate"
 description: "A high‑density institutional briefing on agentic architectures, algorithmic deal flow, credit structuring, and sovereign-grade private capital systems for UHNW/HNW family offices."
-date: "2025-12-25" author: "Roials-Alpha"
+date: "2025-12-25" author: "Roials Alpha"
 slug: "agentic-systems-complex-financial-structures"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Risk‑Based Pricing in Private Credit: The Architecture of LLM‑Driven Macroeconomic Foresight"
 description: "A Principal-level deep analysis of AI-first credit architecture, dynamic pricing engines, and the emergence of LLM-enhanced macro forecasting in private credit markets."
-date: "2025-11-26" author: "Roials-Alpha"
+date: "2025-11-26" author: "Roials Alpha"
 slug: "dynamic-risk-based-pricing-llm-macro-private-credit"
 ---
 

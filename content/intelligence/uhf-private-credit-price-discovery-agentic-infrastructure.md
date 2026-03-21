@@ -1,7 +1,7 @@
 ---
 title: "The Principal Framework for Ultra‑High‑Frequency Private Credit Architecture"
 description: "A deep, institution‑grade analysis of continuous price discovery in non‑exchange private credit environments, engineered through AI‑first deal flow and agentic orchestration layers."
-date: "2026-01-16" author: "Roials-Alpha"
+date: "2026-01-16" author: "Roials Alpha"
 slug: "uhf-private-credit-price-discovery-agentic-infrastructure"
 ---
 

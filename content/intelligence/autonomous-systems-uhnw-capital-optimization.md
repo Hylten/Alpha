@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Capital Systems for Ultra-High-Net-Worth Optimization"
 description: "AI-first infrastructure for UHNW capital allocation, autonomous credit engines, jurisdictional optimization, and frictionless deal origination across multi-entity sovereign structures."
-date: "2025-09-02" author: "Roials-Alpha"
+date: "2025-09-02" author: "Roials Alpha"
 slug: "autonomous-systems-uhnw-capital-optimization"
 ---
 

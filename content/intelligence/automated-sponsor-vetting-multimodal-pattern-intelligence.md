@@ -1,7 +1,7 @@
 ---
 title: "Automated Sponsor Vetting Through Multi‑Modal Ingestion and Pattern Intelligence"
 description: "A Principal-level breakdown of AI-first sponsor evaluation architecture, multi-modal data ingestion, and pattern-recognition pipelines for institutional-grade algorithmic deal flow."
-date: "2026-03-06" author: "Roials-Alpha"
+date: "2026-03-06" author: "Roials Alpha"
 slug: "automated-sponsor-vetting-multimodal-pattern-intelligence"
 ---
 

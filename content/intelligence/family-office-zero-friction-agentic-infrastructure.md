@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Zero‑Friction Capital Deployment for Family Offices"
 description: "A deep, technical Principal brief on agentic infrastructure, algorithmic deal flow, and AI-first credit architecture for UHNW/HNW family offices seeking zero‑human‑friction capital deployment."
-date: "2025-12-05" author: "Roials-Alpha"
+date: "2025-12-05" author: "Roials Alpha"
 slug: "family-office-zero-friction-agentic-infrastructure"
 ---
 

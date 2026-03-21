@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Private Credit: The New Liquidity Architecture for HNWI and UHNW"
 description: "AI‑first private credit infrastructure engineered for HNWI/UHNW investors, enabling liquidity expansion, automated underwriting, algorithmic deal flow, and frictionless institutional execution across multi‑jurisdictional capital rails."
-date: "2025-11-25" author: "Roials-Alpha"
+date: "2025-11-25" author: "Roials Alpha"
 slug: "agentic-infrastructure-private-credit-liquidity-architecture"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Predictive Liquidity Architecture for Fund-III: Asset-Based Lending Without Friction"
 description: "Institutional brief on AI-first asset‑backed lending, predictive liquidity models, and algorithmic credit architecture engineered for UHNW/HNW family‑office precision."
-date: "2025-08-21" author: "Roials-Alpha"
+date: "2025-08-21" author: "Roials Alpha"
 slug: "predictive-liquidity-architecture-Fund-III"
 ---
 
