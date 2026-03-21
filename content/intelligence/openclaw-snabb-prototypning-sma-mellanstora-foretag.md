@@ -224,3 +224,11 @@ Detta gör att arbetsflödet successivt kan övergå från experimentell lösnin
 OpenClaw fungerar som ett ramverk som möjliggör flexibla, iterativa och resurseffektiva experiment med interna lösningar. Genom att testa idéer tidigt kan organisationer fatta mer informerade beslut, minimera onödiga investeringar och samtidigt skapa bättre förutsättningar för långsiktiga förbättringar.
 
 När företagen kombinerar tydliga behovsformuleringar med strukturerad testning blir automatisering en mer tillgänglig del av deras utvecklingsarbete. På så sätt kan snabb prototypning bidra till både stabilitet och innovation i en föränderlig verksamhetsmiljö.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

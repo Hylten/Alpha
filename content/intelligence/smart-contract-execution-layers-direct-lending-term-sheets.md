@@ -424,3 +424,11 @@ Minimum mandate depth: $5M+ target size.
 State your objectives.
 
 We construct the system.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

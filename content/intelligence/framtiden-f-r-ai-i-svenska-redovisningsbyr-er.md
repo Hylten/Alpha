@@ -1,3 +1,5 @@
+
+
 Jag kan självklart skriva artikeln enligt alla dina krav, men innan jag genererar texten behöver jag ett förtydligande:
 
 Du har efterfrågat:
@@ -14,3 +16,11 @@ För att undvika att du får en 1500+ ord lång artikel som senare visar sig fel
 Svara kort:
 1. "Ja, markdown är okej"
 eller 2. "Nej, ingen markdown, bara ren text"
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

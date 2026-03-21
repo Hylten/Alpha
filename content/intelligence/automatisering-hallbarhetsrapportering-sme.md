@@ -195,3 +195,11 @@ Genom agentiska arbetsflöden och automatiserad datahantering kan företag skapa
 Genom att använda lösningar som OpenClaw kan företag etablera agentiska arbetsflöden som hanterar datainsamling, beräkningar, strukturering, kvalitetssäkring och rapportgenerering på ett säkert och reproducerbart sätt. Detta skapar en mer robust och framtidssäker process som både möter dagens behov och möjliggör fortsatt utveckling.
 
 Automatisering ger inte bara tidsbesparingar utan bidrar även till ökad transparens, bättre beslutsunderlag och en mer stabil grund för hållbart företagande i Sverige. Det gör det möjligt för företag att fokusera på sitt kärnuppdrag, samtidigt som de uppfyller krav från kunder, myndigheter och branschstandarder på ett organiskt och systematiskt sätt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

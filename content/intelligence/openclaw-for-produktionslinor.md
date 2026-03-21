@@ -178,3 +178,11 @@ På detta sätt blir digitalisering inte ett enskilt projekt, utan en kontinuerl
 Genom att kombinera datadriven analys, stabil integrationsteknik och ett stegvis genomförande kan företag modernisera sina produktionslinor utan att kompromissa med stabilitet eller arbetsmiljö. Resultatet är en mer robust, flexibel och framtidssäker verksamhet som kan möta de ökande krav som präglar den svenska industrin.
 
 OpenClaw blir därmed inte en teknisk lösning i mängden, utan ett långsiktigt verktyg för verksamhetsutveckling i produktionsmiljöer som värdesätter både precision och hållbarhet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

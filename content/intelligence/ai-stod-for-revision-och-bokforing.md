@@ -182,3 +182,11 @@ För många småföretag kan detta vara skillnaden mellan att vara reaktiv eller
 ## Avslutande reflektion AI‑stöd för revision och bokföring representerar inte en abrupt förändring utan en gradvis förskjutning mot mer automatiserade, precisa och transparenta ekonomiska arbetsflöden. För svenska små och medelstora företag kan denna utveckling skapa en stabil grund för bättre beslut och förbättrad regelefterlevnad. OpenClaw visar hur agentiska arbetsflöden kan integreras som ett stöd för verksamheter som behöver struktur, trygghet och konsekvens i sin ekonomihantering.
 
 Tekniken ersätter inte den professionella bedömningen, men den stärker den. I en tid där datamängderna växer och de administrativa kraven ökar blir denna samverkan mellan människa och AI en central del av ett modernt och hållfast ekonomiarbete.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

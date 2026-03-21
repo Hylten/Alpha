@@ -231,3 +231,11 @@ Automatiserad rapportering blir i allt högre grad en grundläggande del av verk
 Processen kräver initialt arbete med kartläggning, strukturering och testning, men ger därefter långsiktiga fördelar i form av stabilitet, effektivitet och minskat personberoende. Automatisering av rapportflöden är inte en trend utan ett växande standardkrav, och företag som etablerar dessa processer bygger en mer hållbar och kontrollerad digital förvaltning.
 
 Automatiserad rapportgenerering blir därmed ett centralt verktyg för verksamheter som vill utveckla sin styrning med hög precision och god resurseffektivitet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

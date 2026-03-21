@@ -247,3 +247,10 @@ The next step for institutions requiring clarity is a confidential Strategy Cons
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

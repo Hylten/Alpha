@@ -235,3 +235,11 @@ OpenClaw erbjuder ett ramverk som gör denna utveckling tillgänglig utan omfatt
 Slutresultatet är en mer robust innovationsprocess, bättre beslutsunderlag och en verksamhet som står bättre rustad inför framtidens krav.
 
 Textens avsikt är att ge en saklig, lugn och fördjupad beskrivning av hur denna utveckling fungerar och hur den kan tillämpas praktiskt i ett svenskt affärssammanhang.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

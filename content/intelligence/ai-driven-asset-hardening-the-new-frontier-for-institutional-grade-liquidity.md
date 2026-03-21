@@ -306,8 +306,15 @@ We see the next
 • 24/ 7 agentic hardening with zero lag The wealth ecosystem is shifting toward autonomy, precision, and algorithmic protection.
 
 Roials-Alpha is already operating there.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The new frontier of capital is not defined by who has the most assets.
 

@@ -214,3 +214,11 @@ Genom ett metodiskt arbetssätt skapas en hållbar och trygg automatisering.
 Det viktigaste är inte tekniken i sig, utan den struktur och kontinuitet som arbetsflödena skapar. När agenterna tar hand om det standardiserade får personalen möjlighet att fokusera på det som verkligen kräver deras expertis.
 
 Agentiska arbetsflöden är därför inte en snabb förändring, utan en stabil grund för långsiktig verksamhetsutveckling i det svenska företagslandskapet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

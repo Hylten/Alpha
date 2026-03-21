@@ -234,3 +234,11 @@ OpenClaw erbjuder en stabil, transparent och användarvänlig väg in i denna ut
 För små och medelstora företag i Sverige innebär detta en möjlighet att skapa mer tid, öka kvaliteten i arbetet och stärka sin konkurrenskraft utan att behöva genomföra omfattande systemförändringar.
 
 Autonomt arbete blir därmed ett naturligt steg i den fortsatta digitaliseringen och en viktig del av framtidens svenska företagslandskap.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -181,3 +181,11 @@ Det är en utveckling som kombinerar stabilitet med möjligheten att växa utan 
 OpenClaw ger möjlighet att implementera denna automatisering utan omfattande tekniska projekt, vilket gör det möjligt att börja i liten skala och låta systemet växa i takt med verksamheten.
 
 I en tid där krav på effektivisering, datakvalitet och spårbarhet ökar blir denna typ av automatisering en naturlig del av en hållbar och modern företagsstruktur.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -221,3 +221,11 @@ Tekniken är särskilt värdefull när:
 Genom att implementera AI‑drivna arbetsflöden får företaget en stabil och förutsägbar process som kan växa med organisationen och samtidigt bidra till bättre beslutsunderlag, lägre risk och högre operativ kvalitet.
 
 Det innebär att riskhantering inte längre är en periodisk insats utan en integrerad och kontinuerlig del av verksamheten. För svenska små och mellanstora företag kan detta bli en av de viktigaste strukturella förändringarna i det moderna affärslandskapet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

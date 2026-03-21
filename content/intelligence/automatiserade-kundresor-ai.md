@@ -174,3 +174,11 @@ För många företag innebär detta en tydlig förändring från manuellt styrd 
 Med plattformar som OpenClaw blir automatiseringen både tillgänglig och skalbar. Företag kan stegvis bygga flöden som stöttar hela kundresan, från första kontakt till långsiktig lojalitet.
 
 Automatiseringen är inte en ersättning för mänsklig kontakt. Den är ett verktyg som gör den mänskliga kontakten mer fokuserad, mer konsekvent och mer värdeskapande. Det är detta som gör automatiserade kundresor till en strategiskt viktig del för svenska små och medelstora företag i en tid av ökande krav och hård konkurrens.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

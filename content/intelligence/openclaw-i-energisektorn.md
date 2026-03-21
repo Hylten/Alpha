@@ -214,3 +214,11 @@ OpenClaw ger små och mellanstora företag verktyg att delta i denna utveckling 
 - säkerställa långsiktig skalbarhet
 
 Det handlar inte enbart om teknisk utveckling. Det handlar om att skapa stabilare organisationer med tydligare processer och mer förutsägbara resultat. När energibranschen fortsätter att förändras kommer företag med genomtänkta automatiserade arbetsflöden att stå starkare, både operativt och strategiskt. OpenClaw ger dessa företag en konkret möjlighet att bygga den strukturen på ett sätt som är anpassat för svenska förhållanden och den institutionella stabilitet som präglar branschen.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

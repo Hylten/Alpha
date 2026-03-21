@@ -150,3 +150,11 @@ I en tid när globala leveranskedjor är under press och många företag söker 
 Det handlar inte om att ersätta människor utan om att skapa en mer uthållig och förutsägbar verksamhet där teknik och mänsklig kompetens samverkar. Genom att kombinera robotikens förmåga att utföra repetitiva moment med AI‑agenters kapacitet att analysera data och följa upp processer kan svenska företag bygga ett starkare och mer motståndskraftigt industriellt landskap.
 
 Denna utveckling bedöms fortsätta under lång tid och kommer sannolikt att bli en av de viktigaste faktorerna för svensk konkurrenskraft i framtidens globala ekonomi.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

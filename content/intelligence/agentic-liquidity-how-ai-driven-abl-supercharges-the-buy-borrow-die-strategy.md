@@ -261,8 +261,6 @@ In a Buy Borrow Die system, this means your leverage envelope is always safe and
 
 The Liquidity Flywheel Created by Agentic Systems Once agentic liquidity is in place, the structure becomes a flywheel.
 
-
-
 1.
 
 Assets generate value.
@@ -376,10 +374,17 @@ This is not financial advice.
 This is infrastructure.
 
 The Buy Borrow Die strategy becomes executable at a level that human teams simply cannot match.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Agentic Liquidity Is the New Alpha Layer Buy Borrow Die is .
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Agentic Liquidity Is the New Alpha Layer Buy Borrow Die is .
 
 Agentic Asset-Based Lending makes it unstoppable.
 

@@ -173,3 +173,11 @@ Med rätt stöd kan även mindre organisationer införa avancerade automatiserin
 OpenClaw fungerar här som en partner som säkerställer att införandet av AI sker med stabila säkerhetsprinciper och långsiktig hållbarhet som utgångspunkt. Genom teknisk kompetens, strukturerade ramverk och kontinuerlig förvaltning kan företag automatisera sin verksamhet utan att riskera dataintegritet eller regeluppfyllnad.
 
 Resultatet blir ett mer resilient, förutsägbart och framtidssäkrat arbetssätt där AI‑drivna arbetsflöden kan bidra till både effektivitet och stärkt konkurrenskraft, samtidigt som säkerheten hålls på en nivå som motsvarar moderna krav och institutionella förväntningar.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

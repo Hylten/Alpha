@@ -287,8 +287,6 @@ Lenders without it will be priced out.
 
 Why Agentic Asset-Based Lending Wins
 
-
-
 1.
 
 Collateral complexity increases every year.
@@ -380,3 +378,11 @@ The lenders who deploy agentic Asset-Based Lending infrastructure today will own
 Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

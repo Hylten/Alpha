@@ -511,8 +511,14 @@ The question is simple: Will your infrastructure keep pace?
 
 -
 
-- Technical Mandate: Deploy agentic liquidity engines with sub‑10ms decision latency across all major asset classes.
+- 
+
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

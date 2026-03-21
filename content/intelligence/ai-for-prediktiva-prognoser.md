@@ -133,3 +133,11 @@ OpenClaw har stöd för spårbarhet och loggar som gör att varje beslut i ett a
 När analyser blir kontinuerliga i stället för periodiska, när beslut kan förberedas automatiskt och när verksamheten får tillgång till tydligare framtidsbilder, skapas både effektivitet och stabilitet. Denna utveckling innebär inte att människan ersätts, utan att personalen får stöd att fatta beslut med bättre underlag och större trygghet.
 
 Prediktiva prognoser är därmed inte enbart en teknisk innovation, utan en förändring i hur verksamheter kan arbeta, planera och anpassa sig till en allt mer föränderlig omvärld. OpenClaw bidrar i detta sammanhang med en plattform som gör avancerade metoder praktiskt tillgängliga och administrativt hanterbara, även för de mindre företag som utgör ryggraden i svenskt näringsliv.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

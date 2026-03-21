@@ -193,3 +193,11 @@ Automatisering är därför inte bara ett sätt att minska arbetsbördan. Det ä
 OpenClaw erbjuder en plattform som gör det möjligt att införa dessa arbetsflöden utan stora investeringar eller komplexa integrationsprojekt. Genom att kombinera kontinuerlig övervakning, automatiserad analys och riktade åtgärder kan företag skapa en mer stabil digital miljö där incidenter hanteras innan de påverkar verksamheten.
 
 Denna utveckling representerar ett naturligt steg mot en mer resilient och datadriven infrastruktur där personalen avlastas och organisationens tekniska resurser används mer effektivt. Det är en långsiktig förändring som kommer att påverka hur svenska företag arbetar med incidenthantering under många år framöver.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

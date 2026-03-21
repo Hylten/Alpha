@@ -182,3 +182,11 @@ kan verksamheterna uppnå en mer förutsägbar och hållbar försörjningsproces
 OpenClaw ger företag tillgång till moderna agentiska arbetsflöden utan omfattande utvecklingsinsatser och gör det möjligt att stegvis införa en mer datadriven och autonom lagerhantering.
 
 Teknikens potential är betydande, och för många svenska företag kan den utgöra en viktig komponent i den fortsatta utvecklingen mot mer effektiva och resilienta verksamhetsmodeller.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

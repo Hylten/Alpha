@@ -565,3 +565,11 @@ Agentic infrastructure is the new standard.
 If you want the Principal-level blueprint for deploying autonomous agents inside your existing credit or investment structure, Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

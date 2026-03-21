@@ -158,3 +158,11 @@ Samtidigt växer förväntningarna från myndigheter, banker, investerare och af
 OpenClaw erbjuder en plattform som på ett stabilt och institutionellt sätt kan integreras i befintliga processer och skapa en långsiktig grund för effektiv och pålitlig due diligence. Genom att kombinera systematisk automatisering med mänskligt omdöme får företag möjlighet att bygga en mer hållbar och transparent verksamhet, oavsett storlek.
 
 Automatiserad due diligence är inte en ersättning för mänsklig kompetens. Det är ett verktyg som förstärker, strukturerar och höjer kvaliteten i arbetet. När tekniken införs med eftertanke och tydliga rutiner kan den bidra till tryggare affärsrelationer, bättre beslut och en mer robust verksamhet över tid.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

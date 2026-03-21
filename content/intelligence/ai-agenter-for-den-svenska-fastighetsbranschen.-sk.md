@@ -1,3 +1,5 @@
+
+
 # Ai agenter för den svenska fastighetsbranschen
 Roials Alpha OpenClaw Guide
 
@@ -233,3 +235,11 @@ OpenClaw från Roials Alpha möjliggör verklig agentisk drift i hela värdekedj
 Bolag som implementerar agentisk infrastruktur kommer att ligga på en helt annan nivå i effektivitet, marginal och marknadskraft.
 
 Inquire about agentic infrastructure
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

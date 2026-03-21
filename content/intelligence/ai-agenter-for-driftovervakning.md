@@ -215,3 +215,11 @@ Agentiska arbetsflöden kommer sannolikt att bli en etablerad del av digital dri
 OpenClaw tillhandahåller ett ramverk där dessa agenter kan utformas och samverka på ett strukturerat och kontrollerbart sätt. Det skapar förutsättningar för att införa automatisering på ett ansvarsfullt och transparent sätt som passar svenska verksamheters krav på stabilitet, integritet och långsiktighet.
 
 Med en väl genomförd implementering kan AI‑agenter bli ett naturligt stöd i vardagen för företag som vill säkra sin drift, minska risken för incidenter och frigöra tid för mer strategiska arbetsuppgifter.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

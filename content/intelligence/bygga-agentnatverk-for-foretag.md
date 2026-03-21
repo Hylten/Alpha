@@ -203,3 +203,11 @@ För svenska små och medelstora företag innebär det en möjlighet att uppnå 
 ## Sammanfattning Att bygga agentnätverk baserade på agentiska arbetsflöden innebär att företaget skapar en flexibel, strukturerad och skalbar modell för automatisering. OpenClaw ger svenska företag möjlighet att införa denna typ av teknik utan omfattande tekniska investeringar. Resultatet är en verksamhet där resurser används mer effektivt, där information hanteras mer förutsägbart och där långsiktigt hållbara strukturer kan etableras.
 
 Genom att arbeta stegvis, med fokus på tydliga roller och regler, kan agentnätverk ge företaget en stabil och förutsägbar digital grund som stödjer både nuvarande och framtida behov. Detta gör tekniken till en viktig komponent i den fortsatta utvecklingen av moderna svenska företag.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

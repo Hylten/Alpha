@@ -208,3 +208,11 @@ OpenClaw fungerar då som en stabil plattform för vidare digitalisering.
 Genom att kombinera mänsklig expertis med systemets kapacitet att övervaka, analysera och initiera åtgärder skapas en arbetsmodell som är både hållbar och skalbar. Det ger verksamheter möjlighet att arbeta mer proaktivt, samtidigt som riskerna minskar och effektiviteten ökar.
 
 För små och medelstora företag som vill stärka sin förmåga att förstå och agera på data kan OpenClaw vara ett verktyg som skapar långsiktigt värde och bidrar till en stabilare och mer insiktsdriven verksamhet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

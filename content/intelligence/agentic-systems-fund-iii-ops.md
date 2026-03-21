@@ -229,7 +229,9 @@ Only humans carry principal authority.
 
 Ethical Integrity Layer Systems operate under
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22.
 
 They must protect generational capital rather than chase superficial returns.
 
@@ -240,8 +242,15 @@ Human Centered Override At any signal of instability, ambiguity, or moral uncert
 Human judgment is the safeguard.
 
 Stewardship is the discipline that prevents technological acceleration from compromising trust.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Fund-III operations have evolved beyond traditional asset management.
 
@@ -258,6 +267,3 @@ They are amplifiers of principled decision making.
 Fund-III environments built on stewardship, Gnosjö, and technical edge will outperform those that rely on legacy operational models.
 
 Agentic systems are a structural necessity for private equity firms that intend to compete in the next decade. [END INTELLIGENCE REPORT]
-
-Access is restricted to approved mandates.
-

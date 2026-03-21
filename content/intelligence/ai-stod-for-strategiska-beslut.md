@@ -213,3 +213,11 @@ För svenska små och medelstora företag innebär detta möjligheter att minska
 OpenClaw erbjuder en struktur som gör det möjligt att införa dessa arbetssätt på ett kontrollerat och ansvarsfullt sätt. Resultatet är en verksamhet där besluten vilar på data, kontinuitet och tydliga processer, samtidigt som organisationen behåller full kontroll över sina strategiska val.
 
 I en tid där osäkerheten ökar blir strukturerat beslutsstöd ett sätt att skapa trygghet och långsiktig stabilitet. AI är inte en ersättare för mänskligt omdöme, utan ett verktyg som hjälper svenska företag att vara bättre förberedda och bättre informerade.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

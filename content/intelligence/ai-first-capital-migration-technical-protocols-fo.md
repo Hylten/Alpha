@@ -164,8 +164,6 @@ There are four primary lane types.
 
 1. Collateral-backed liquidity
 
-
-
 Hard assets.
 
 Strong governance.
@@ -173,8 +171,6 @@ Strong governance.
 Predictable enforcement pathways.
 
 2. Operating cash flow lanes
-
-
 
 Verified efficiency.
 
@@ -184,15 +180,11 @@ Low behavioral drift.
 
 3. Digital collateral lanes
 
-
-
 Crypto liquidity engineering with a two million minimum.
 
 Requires algorithmic monitoring for volatility and liquidation thresholds.
 
 4. Public shares liquidity lanes
-
-
 
 Equity-backed Capital Structuring with a five million minimum.
 
@@ -321,19 +313,13 @@ Agentic systems evaluate, decide, and route capital within compressed time cycle
 
 1. Automated covenant checks
 
-
-
 Continuous validation ensures no transaction enters conflict posture.
 
 2. Predictive counterparty mapping
 
-
-
 AI ranks counterparties by trust score and performance consistency.
 
 3. Real-time collateral assessment
-
-
 
 Collateral quality is monitored at every interval to maintain institutional-grade credibility.
 
@@ -377,7 +363,6 @@ Observation
 This
 
 ### Layer I: D: entifies turbulence before it manifests as loss.
-
 
 11.
 
@@ -477,8 +462,15 @@ It aligns with THE MANDAT
 
 E of long-term stewardship.
 15.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The Principal’s Future Capital is no longer static wealth
 
@@ -497,7 +489,5 @@ The question is not whether you will migrate.
 The question is whether you will migrate with structure or with drag.
 
 Roials-Alpha provides the infrastructure for drag-free motion.
-
-Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.

@@ -1,8 +1,10 @@
+
+
 ```markdown
 ---
 title: "Automatisera projektledning med agenter i svenska verksamheter"
 description: "En fördjupad genomgång av hur svenska små och medelstora företag kan effektivisera sin projektledning med hjälp av AI-baserade agenter och agentiska arbetsflöden."
-date: "2026-02-11" author: "OpenClaw Sverige"
+date: "2026-02-11" author: "Roials Alpha"
 slug: "automatisera-projektledning-med-agenter"
 ---
 
@@ -173,3 +175,11 @@ OpenClaw erbjuder en plattform som gör det möjligt att införa denna typ av au
 
 Med en strukturerad och metodisk implementering kan agentbaserad projektledning bli ett stabilt fundament i den fortsatta digitaliseringen av svenska företag.
 ```markdown
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

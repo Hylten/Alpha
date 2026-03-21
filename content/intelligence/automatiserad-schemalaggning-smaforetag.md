@@ -201,3 +201,11 @@ Svenska småföretag kommer att kunna dra nytta av tekniken även i takt med att
 Resultatet är en mer förutsägbar vardag, tydligare ramar för medarbetare och mer tid att fokusera på kärnverksamheten.
 
 I en tid då digitalisering och resurseffektivitet är avgörande för konkurrenskraften erbjuder automatiserad schemaläggning en konkret och praktiskt tillämpbar lösning som stärker både struktur och långsiktig hållbarhet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

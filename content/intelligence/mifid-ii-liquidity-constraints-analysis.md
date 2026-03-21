@@ -227,3 +227,10 @@ These sessions are designed to provide clarity, not solicitation, and allow allo
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

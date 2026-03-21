@@ -261,3 +261,10 @@ Allocators who understand its mechanics will position themselves ahead of the ne
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

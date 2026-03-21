@@ -194,3 +194,11 @@ Den mänskliga kompetensen förblir central, men med stöd av AI får den bättr
 Detta markerar ett skifte mot mer långsiktigt planerad bemanning där teknik och mänskligt omdöme arbetar tillsammans, vilket i sin tur skapar stabilitet, trygghet och en mer hållbar arbetsmiljö.
 
 Med rätt användning av AI står svenska små och medelstora företag väl rustade inför framtidens förändringar och krav på effektiv personalhantering.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

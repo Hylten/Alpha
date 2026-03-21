@@ -181,3 +181,11 @@ Agentiska arbetsflöden är därför inte en isolerad teknisk lösning, utan en 
 Plattformar som OpenClaw spelar en central roll genom att erbjuda strukturerade miljöer där agenter kan definieras, övervakas och integreras med befintliga system. Resultatet är en kontrollerad och skalbar digitalisering som passar svenska industriföretags krav på stabilitet och transparens.
 
 Agentiska arbetsflöden representerar därmed inte enbart en teknisk innovation, utan en ny modell för hur svenska företag kan organisera sitt arbete, sin produktion och sin framtida utveckling.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

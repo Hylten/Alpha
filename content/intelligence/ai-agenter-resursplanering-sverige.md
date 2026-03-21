@@ -249,3 +249,11 @@ OpenClaw erbjuder en plattform där denna typ av arbetssätt kan realiseras i pr
 Resursplanering är alltid en kombination av strategi, erfarenhet och kontextuell förståelse. AI‑agenter förstärker dessa delar och skapar en stabil grund för bättre beslut. Genom att använda agenter för att samla in, analysera och strukturera information kan organisationer frigöra tid, förbättra arbetsmiljön och utveckla en mer sammanhållen planeringsprocess.
 
 Detta är inte en ersättning för människor, utan en förstärkning av deras förmåga att fatta genomtänkta och välgrundade beslut. Företag som tar steget mot agentiska arbetsflöden kommer att stå bättre rustade för en framtid där komplexitet och informationsmängd fortsätter att öka, och där datadrivna beslut blir en nödvändig förutsättning för stabil verksamhetsstyrning.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

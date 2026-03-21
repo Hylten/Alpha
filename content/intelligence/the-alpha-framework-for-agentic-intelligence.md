@@ -179,7 +179,6 @@ All without the drag that traditional lenders impose.
 
 Crypto Capital Structuring at Institutional Scale Crypto Monetization Architecture begins at
 
-
 2 million USD for a reason.
 
 Below that threshold the volatility signal is too chaotic.
@@ -203,7 +202,6 @@ This is quiet.
 This is structural.
 
 Public Share Institutional Liquidity Paths at
-
 
 5 Million Minimum Equity portfolios above
 5 million USD behave differently from retail portfolios.
@@ -291,8 +289,15 @@ All orchestrated by a master capital agent.
 This is where the industry is heading.
 
 Roials-Alpha is building the infrastructure early.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The Alpha Framework for Agentic Intelligence is not a trend.
 

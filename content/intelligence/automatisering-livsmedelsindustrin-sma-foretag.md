@@ -198,3 +198,11 @@ Med rätt implementation kan automatiseringen:
 - Stödja långsiktig tillväxt
 
 Det viktigaste är att börja i liten skala, arbeta strukturerat och använda teknik som är anpassad för små och medelstora verksamheters behov. På så sätt kan automatisering bli ett naturligt och värdefullt inslag i den svenska livsmedelsindustrins utveckling.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

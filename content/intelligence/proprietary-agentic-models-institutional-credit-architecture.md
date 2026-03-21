@@ -231,3 +231,10 @@ This is the point where Roials Capital functions as a strategic partner, providi
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -230,3 +230,11 @@ Den kanske viktigaste lärdomen är att AI‑agenter inte är en disrupting kraf
 ---
 
 Slutligen kan AI‑agenter betraktas som ett nytt lager i den svenska arbetsmarknaden. Ett lager som arbetar metodiskt, tyst och kontinuerligt, och som över tid skapar de förutsättningar som krävs för att små och mellanstora företag ska kunna stärka sin konkurrenskraft i en allt mer datadriven värld.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

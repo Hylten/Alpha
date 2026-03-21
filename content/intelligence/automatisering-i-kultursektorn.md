@@ -250,3 +250,11 @@ För en bransch som ofta arbetar i projektform och med pressade tidsramar kan au
 Tekniken förändrar inte kulturens kärna, men den förändrar förutsättningarna för att bedriva kulturverksamhet. Den ger möjlighet att arbeta mer långsiktigt, mer systematiskt och med större trygghet.
 
 Automatisering kan därmed bli ett av de viktigaste verktygen för att säkerställa kultursektorns vitalitet och hållbarhet i en allt mer komplex digital omvärld.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

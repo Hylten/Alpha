@@ -269,7 +269,9 @@ Stewardship The capital provided must expand the productive capacity of the comp
 
 This is consistent with
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22and ensures long term alignment with owners, employees, and the local ecosystem.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22and ensures long term alignment with owners, employees, and the local ecosystem.
 
 In practice this means:
 
@@ -306,8 +308,15 @@ In this context, technical edge includes:
 - Autonomous covenant surveillance
 
 - Recapitalization modeling for UHNW liquidity planning These elements create the competitive distance necessary to secure proprietary positions and to avoid the dilution of returns caused by hyper competitive auction environments.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Autonomous deal flow is not a trend.
 
@@ -332,6 +341,3 @@ This is the operating model for the next generation of Private equity Fund-III i
 This is how principal investors will capture the most attractive asset backed financing for businesses, energy infrastructure assets, and mid market platforms.
 
 And this is how disciplined capital allocators will build long horizon wealth structures for UHNW liquidity planning while maintaining integrity and operational excellence. [END REPORT]
-
-Access is restricted to approved mandates.
-

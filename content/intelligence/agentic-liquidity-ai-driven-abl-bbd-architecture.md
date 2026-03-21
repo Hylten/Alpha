@@ -182,8 +182,6 @@ Risk becomes a real‑time function, not a lagging artifact.
 
 THE BUY‑BORROW‑DIE FRAMEWORK UNDER AI Institutional BBD cycles suffer from three structural issues:
 
-
-
 1.
 
 Illiquid assets produce timing risk.
@@ -334,8 +332,6 @@ Better sequencing.
 
 TECHNICAL DOMINANCE: WHY THIS MODEL WINS The institution that masters agentic liquidity achieves three forms of dominance.
 
-
-
 1.
 
 Temporal Dominance Speed becomes a moat.
@@ -418,3 +414,10 @@ is clear: build the internal central bank.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

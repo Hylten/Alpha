@@ -288,3 +288,11 @@ Den modulära naturen hos agentiska arbetsflöden gör att företag kan skala up
 Agentiska arbetsflöden gör att företag kan hantera administration, kundkommunikation och informationsflöden på ett mer strukturerat och skalbart sätt. Resultatet blir snabbare processer, högre kvalitet och bättre resursanvändning.
 
 För organisationer som vill minska administrationen och stärka sin digitala utveckling är kodfria AI‑agenter ett praktiskt och genomförbart steg som inte kräver teknisk kompetens. Det gör tekniken tillgänglig även för mindre företag som söker en hållbar och kostnadseffektiv automatiseringsstrategi.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

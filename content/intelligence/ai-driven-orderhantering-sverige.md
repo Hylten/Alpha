@@ -152,3 +152,11 @@ För svenska små och medelstora företag innebär detta att tekniken successivt
 OpenClaw erbjuder i detta sammanhang en plattform där företag kan strukturera och genomföra en successiv digitalisering utan att behöva bygga omfattande tekniska system. Resultatet är en mer förutsägbar, hållbar och effektiv orderhantering som stärker verksamhetens långsiktiga struktur.
 
 Denna form av automatisering utgör i dag en naturlig del av modern verksamhetsutveckling i Sverige och skapar en solid grund för företag som vill utvecklas i takt med marknadens krav.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

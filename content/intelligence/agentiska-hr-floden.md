@@ -219,3 +219,11 @@ Genom att automatisering integreras i det vardagliga arbetet skapas en kultur d�
 Det centrala är att se tekniken som en strukturerande och avlastande funktion, inte som ett ersättande inslag. HR‑arbetet är i grunden relationellt, men kräver också en pålitlig administrativ bas. Agentiska arbetsflöden skapar just denna bas och möjliggör att HR‑funktionen kan fungera långsiktigt, förutsägbart och med minskad sårbarhet.
 
 Det är denna kombination av mänsklig kompetens och avancerad digital styrning som formar nästa steg i HR‑utvecklingen. För mindre och medelstora svenska företag innebär detta en möjlighet att etablera en nivå av ordning, säkerhet och kvalitet som tidigare främst var förbehållen större organisationer. Agentiska arbetsflöden bidrar därmed till att höja den operativa stabiliteten, vilket i sin tur skapar mer utrymme för ett mer strategiskt, långsiktigt och hållbart HR‑arbete.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

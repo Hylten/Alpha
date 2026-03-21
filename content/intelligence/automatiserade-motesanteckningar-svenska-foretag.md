@@ -156,3 +156,11 @@ De agentiska arbetsflödena kommer att fortsätta växa i komplexitet samtidigt 
 För små och medelstora företag innebär detta att viktig kunskap kan bevaras, att organisationsminnet stärks och att administrativa insatser minskar. Med stöd av plattformar som OpenClaw och dess agentiska arbetsflöden kan företag etablera en dokumentationsprocess som är både skalbar och hållbar över tid.
 
 Tekniken förändrar inte mötets natur, men den förändrar hur resultatet tas tillvara. Detta gör dokumentation till en integrerad del av verksamhetens kunskapsflöde snarare än en uppgift som hanteras i efterhand.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

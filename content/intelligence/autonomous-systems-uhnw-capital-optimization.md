@@ -439,8 +439,6 @@ Autonomy eliminates hesitation.
 
 ROIALS-ALPHA DOCTRINE THE PRINCIPAL STANDARD Three rules govern the architecture:
 
-
-
 1.
 
 Reduce friction to zero.
@@ -492,3 +490,11 @@ Completion metric: 0.
 If you require additional construction, Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

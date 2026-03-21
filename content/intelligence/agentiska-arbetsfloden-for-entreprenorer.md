@@ -200,3 +200,11 @@ OpenClaw utvecklas kontinuerligt för att möta dessa behov, med målet att erbj
 OpenClaw fungerar som en plattform där dessa arbetsflöden kan utvecklas, testas och skalas. Resultatet blir en mer stabil drift, bättre ordning och större möjlighet att fokusera på kärnverksamheten.
 
 Utvecklingen går snabbt och de företag som redan nu börjar utforska agentiska arbetsflöden kommer att stå väl rustade för framtidens krav.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

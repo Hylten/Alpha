@@ -1,3 +1,5 @@
+
+
 # Digital Twins For Portfolio Companies And The New Standard For Monitoring Covenants
 Roials Alpha Edition Digital infrastructure has outpaced human monitoring.
 
@@ -315,3 +317,11 @@ No slow recognition of risk.
 Roials Alpha is the infrastructure that replaces legacy monitoring entirely.
 
 Inquire about agentic infrastructure
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

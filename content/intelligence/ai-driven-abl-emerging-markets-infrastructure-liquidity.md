@@ -433,3 +433,10 @@ Institutional readiness requires one question: What agentic infrastructure do yo
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

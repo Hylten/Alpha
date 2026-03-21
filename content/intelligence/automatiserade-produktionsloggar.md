@@ -196,3 +196,11 @@ För svenska små och medelstora företag innebär detta en möjlighet att arbet
 Genom att låta loggarna genereras automatiskt, analyseras kontinuerligt och ageras på i realtid kan företag minska sin administrativa börda, höja sin kvalitet, stärka sin spårbarhet och skapa en stabilare produktion. Det ger också en tydligare förståelse för hur företagets resurser används, vilka förbättringar som är möjliga och vilka risker som kan undvikas.
 
 Automatiserade produktionsloggar är inte bara ett tekniskt verktyg. De är en del av ett större skifte mot mer datadrivna, hållbara och motståndskraftiga arbetsflöden i svensk industri. För företag som vill utvecklas långsiktigt är de ett naturligt steg på vägen mot en modern och trygg produktion.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -175,8 +175,6 @@ The agentic architecture enforces governance through automated compliance screen
 
 PORTFOLIO CALIBRATION LENS The allocator evaluating agentic liquidity systems must assess three structural factors:
 
-
-
 1.
 
 Velocity alignment Does the family's internal governance structure support high frequency opportunity flow, or is a hybrid cadence appropriate.
@@ -199,3 +197,10 @@ The current era favors precision systems, cross domain intelligence, and institu
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

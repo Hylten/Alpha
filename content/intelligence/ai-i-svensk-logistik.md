@@ -153,3 +153,11 @@ Omställningen kommer inte att ske genom snabba tekniska språng utan genom ett 
 Den som arbetar systematiskt med att införa AI i lagerstyrning, transportoptimering, kommunikation och riskhantering kan skapa en mer flexibel och hållbar logistikstruktur. Denna utveckling sker inte i ett snabbt tempo, utan genom genomtänkta steg där varje arbetsflöde byggs med tydlig funktion och mätbar effekt.
 
 AI i svensk logistik är mindre ett teknikskifte och mer ett organisationsskifte. För mindre företag är detta en möjlighet att stärka sin konkurrenskraft genom att förenkla sina processer och skapa en mer motståndskraftig verksamhet i en tid av förändring.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

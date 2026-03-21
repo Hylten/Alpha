@@ -59,10 +59,6 @@ The landscape is no longer shaped by lender capacity but by analytical acuity.
 
 Predictive liquidity intelligence forms the backbone of this transition. (See [Capital Structuring]([Roials Capital](https://roialscapital.com/)) for structural parameters)
 
-
-
-
-
 TECHNICAL MECHANICS OF PREDICTIVE Asset-Based Lending ARCHITECTURE A predictive Asset-Based Lending model establishes a continuous cycle of collateral assessment, liquidity forecasting, and risk calibration.
 
 It is built on four core mechanics: Collateral Resolution Architecture This replaces the traditional model of periodic reporting with a multi-layered inventory of assets using data ingestion protocols.
@@ -201,3 +197,10 @@ Predictive Asset-Based Lending is reshaping the mechanics of credit deployment, 
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

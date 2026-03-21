@@ -211,8 +211,6 @@ Roials‑Alpha builds the system that makes it possible.
 
 The Operational Core: autonomous infrastructure Without Friction Our system operates on a simple but sequence.
 
-
-
 1.
 
 Ingest collateral data.
@@ -330,3 +328,11 @@ Minimum mandate depth: $5M+ target size.
 To activate agentic infrastructure for your portfolio, Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

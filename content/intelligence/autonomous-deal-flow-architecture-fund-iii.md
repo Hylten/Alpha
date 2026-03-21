@@ -217,3 +217,10 @@ Those seeking to evaluate the system in detail may request a Confidential Strate
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

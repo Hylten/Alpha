@@ -191,3 +191,11 @@ I takt med att verktyg som OpenClaw blir mer tillgängliga minskar trösklarna f
 - Stärka verksamhetens digitala närvaro
 
 I grunden handlar det inte om att ersätta människor utan om att skapa ett mer stabilt och hållbart arbetsflöde som frigör tid och stödjer organisationens mål. OpenClaw och liknande system kan bidra till en mer professionell och långsiktig hantering av sociala medier, utan att sänka krav eller ambitionsnivå. Det är en utveckling som många svenska företag kan dra nytta av, oavsett storlek eller bransch.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

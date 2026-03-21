@@ -205,3 +205,11 @@ Genom att starta med ett litet flöde kan organisationen lära sig hur agenten a
 Det centrala värdet ligger i att frigöra tid, skapa struktur och ge en jämnare kvalitet i kunddialogen. Resultatet är en mer hållbar arbetsmiljö och en mer förutsägbar försäljningsprocess. Det gör att även mindre organisationer kan agera med samma effektivitet som betydligt större företag.
 
 Genom att arbeta metodiskt och med tydlig kontroll kan AI‑agenter bli ett naturligt stöd i försäljningsarbetet, inte som ersättning för människor utan som en stabil grund för ett mer koncentrerat och professionellt arbete i mötet med kunder.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

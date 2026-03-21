@@ -149,8 +149,6 @@ It is a technical framework for eliminating capital waste.
 
 DECISION FRAMEWORK FOR THE ALLOCATOR Allocators evaluating sovereign scale liquidity architecture should calibrate decisions through five institutional filters.
 
-
-
 1.
 
 Friction Reduction Threshold Assess whether your capital is being constrained by human driven workflows.
@@ -177,3 +175,10 @@ The AI framework provides a consistent platform for cross border capital movemen
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

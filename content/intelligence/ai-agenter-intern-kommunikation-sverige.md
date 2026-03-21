@@ -225,3 +225,11 @@ För svenska små och medelstora företag innebär detta att värdet av att inf�
 OpenClaw tillhandahåller ett ramverk där företag kan införa denna typ av lösningar på ett kontrollerat och dataskyddssäkert sätt. Den långsiktiga effekten är inte minskad mänsklig kommunikation, utan förbättrade förutsättningar för arbetsro, tydlighet och effektivt samarbete inom organisationen.
 
 ---
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

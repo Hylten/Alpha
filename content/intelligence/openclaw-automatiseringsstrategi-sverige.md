@@ -176,3 +176,11 @@ När dessa funktioner blir mer integrerade i vardagen kommer företag att kunna 
 Genom tydlig dokumentation, kontroll, skalbarhet och regelefterlevnad blir OpenClaw ett verktyg som stödjer en långsiktigt hållbar automatiseringsstrategi. För företag som vill utveckla sina interna flöden erbjuder plattformen en möjlighet att arbeta mer effektivt, reducera manuella fel och skapa en stabil grund för framtida tillväxt.
 
 Automatisering handlar inte enbart om att spara tid, utan om att skapa en mer resilient organisation som kan hantera både komplexitet och förändring. Genom att använda OpenClaw som en del av sin strategiska planering kan svenska företag bygga en struktur som håller över tid och möjliggör en mer effektiv och välorganiserad verksamhet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

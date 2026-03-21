@@ -181,3 +181,11 @@ Central nytta uppstår genom:
 - Skalbarhet och långsiktig hållbarhet.
 
 Automatiserad IT‑support är därför inte bara en teknisk funktion utan en strategisk komponent för modern verksamhetsstyrning. Det är ett område där utvecklingen fortsätter snabbt och där små och medelstora verksamheter har mycket att vinna på att ta del av de möjligheter som redan finns tillgängliga.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

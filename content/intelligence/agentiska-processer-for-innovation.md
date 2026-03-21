@@ -206,3 +206,11 @@ För svenska små och mellanstora företag innebär detta att innovation kan bli
 Plattformar som OpenClaw gör det möjligt att implementera dessa processer på ett kontrollerat och metodiskt sätt, utan krav på omfattande teknisk utveckling internt. Genom en stegvis metod där processer kartläggs, agenter definieras och flöden testas kan även mindre organisationer skapa robusta automationsstrukturer.
 
 Agentiska arbetsflöden representerar ett nytt skede för svensk företagsinnovation, där teknik och struktur samverkar för att skapa stabilitet, kontinuitet och förbättrad beslutsförmåga i en allt mer komplex verksamhetsmiljö. Det är en utveckling som gör det möjligt för företag att ta tillvara både sin data och sin kompetens på ett mer systematiskt sätt, och därmed skapa långsiktigt hållbara förbättringar i hela verksamheten.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

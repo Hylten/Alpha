@@ -183,3 +183,11 @@ Tekniken är redan tillgänglig, men organisationskulturen och arbetssätten beh
 OpenClaw erbjuder en plattform som gör denna typ av automatisering tillgänglig även för mindre organisationer. Resultatet är en inköpsprocess som är både mer stabil och mer professionell, samtidigt som den minskar den administrativa belastningen och höjer kvaliteten i alla beslut.
 
 AI kommer inte att ersätta människans roll i inköpsarbetet. Däremot kan tekniken ge organisationer ett verktyg som stärker det strategiska beslutsfattandet under lång tid framöver och skapar en mer hållbar och konkurrenskraftig inköpsfunktion.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

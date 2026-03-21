@@ -144,3 +144,11 @@ Utvecklingen visar att framtidens tillverkningsindustri präglas av följande m�
 Det mesta tyder på att den svenska tillverkningsindustrin står inför en period av gradvis digital mognad där AI blir ett av de mest betydelsefulla verktygen. Genom att integrera tekniken på ett metodiskt och långsiktigt sätt kan företag skapa mer robusta processer, stabilare produktion och bättre möjligheter att möta framtidens krav.
 
 Samtidigt är det viktigt att tekniken införs med omtanke. AI fungerar bäst när den kompletterar mänsklig erfarenhet och kunskap. Med rätt balans mellan mänsklig styrning och digital automatisering kan svenska små och mellanstora tillverkare stärka sin konkurrenskraft och skapa ett långsiktigt hållbart produktionslandskap.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

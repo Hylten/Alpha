@@ -180,3 +180,11 @@ Det är därför troligt att automatiserad offertgenerering blir en central del 
 Automatiseringen innebär inte att det mänskliga perspektivet försvinner. Snarare frigörs tid för det arbete där mänsklig kompetens gör störst nytta, samtidigt som kunderna får bättre, tydligare och snabbare svar.
 
 Det är en utveckling som stärker både verksamhetens ekonomi och långsiktiga konkurrenskraft i en alltmer digitaliserad marknad.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

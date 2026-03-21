@@ -156,3 +156,11 @@ Automatisering innebär inte bara ekonomiska fördelar. När dataflöden blir me
 Plattformar som OpenClaw gör det möjligt att arbeta metodiskt och strukturerat med digitaliseringen. Genom att kombinera robust datahantering, automatiserad analys och självständiga arbetsflöden får företag ett praktiskt verktyg för att möta framtidens krav på effektivitet, precision och flexibilitet.
 
 Automatisering är inte ett slutmål utan en fortlöpande utvecklingsprocess. Med rätt stöd kan även mindre verksamheter ta steg som tidigare bara var tillgängliga för stora aktörer och därigenom skapa en stabilare och mer konkurrenskraftig logistikfunktion.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

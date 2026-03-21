@@ -492,8 +492,15 @@ Agentic systems operationalize it.
 -
 
 - In
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 , the architecture is clear: agentic intelligence will rewrite asset-based lending.
 

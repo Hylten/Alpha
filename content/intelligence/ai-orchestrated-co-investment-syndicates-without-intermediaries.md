@@ -7,7 +7,6 @@ slug: "ai-orchestrated-co-investment-syndicates-without-intermediaries"
 
 # Ai Orchestrated Co Investment Syndicates Without Intermediaries
 
-
 Institutional Briefing on Autonomous Deal Flow, Multi Agent Syndication, and Cross Border Capital Coordination
 
 Roials Alpha positions autonomous co investment infrastructure as the next evolution of institutional capital formation.
@@ -431,3 +430,10 @@ Inquire about agentic infrastructure
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

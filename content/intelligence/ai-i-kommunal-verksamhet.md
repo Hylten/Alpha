@@ -257,3 +257,11 @@ Genom agentiska arbetsflöden, kontrollerade dataflöden och tydligt definierade
 OpenClaw erbjuder en struktur som gör denna typ av införande möjlig även för mindre och mellanstora kommuner som saknar egna utvecklingsteam. Resultatet blir effektivare arbetsprocesser, bättre beslutsunderlag och en mer hållbar organisation.
 
 AI är inte en ersättning för mänsklig kompetens. Det är ett stöd som kan ge kommunal verksamhet bättre förutsättningar att möta framtidens krav på service, kvalitet och transparens.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -205,3 +205,11 @@ Detta innebär i praktiken att:
 Genom en metodisk och balanserad implementering kan AI‑agenter bli ett viktigt stöd för att säkerställa långsiktig hållbarhet och struktur i inköpsarbetet, även för företag med begränsade resurser. Denna form av tekniskt stöd bidrar inte bara till effektivisering, utan också till en ökad grad av förutsägbarhet och kontroll i en verksamhetsfunktion som ofta är central men samtidigt svår att upprätthålla på ett konsekvent sätt.
 
 Det är i detta samspel mellan människa, process och teknik som värdet av AI‑driven inköpsautomation visar sig tydligast, och där agentiska arbetsflöden skapar förutsättningar för ett mer stabilt och professionellt arbetssätt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

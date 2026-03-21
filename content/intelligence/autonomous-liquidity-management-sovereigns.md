@@ -167,8 +167,6 @@ They operate as stewards in code form, sustaining stability even in volatile mac
 
 DECISION MAKING LENS FOR SOVEREIGN ALLOCATORS Sovereign entities analyzing autonomous liquidity frameworks typically assess three dimensions.
 
-
-
 1.
 
 Structural Fit: Does the system integrate with national balance sheet priorities and reserve management policies
@@ -191,3 +189,10 @@ Allocators requiring stability, autonomy, and structural clarity increasingly vi
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

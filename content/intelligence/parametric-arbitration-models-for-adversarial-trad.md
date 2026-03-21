@@ -135,8 +135,6 @@ This transforms arbitration from a cost center into an optimization tool.
 
 The Architecture of Parametric Arbitration Models Parametric arbitration models consist of four essential components.
 
-
-
 1.
 
 Conditions 2.
@@ -434,8 +432,15 @@ A world where arbitration is native.
 The Sovereign Protocol already operates in this future.
 
 Roials Alpha builds for it.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Parametric arbitration is the only enforcement model capable of supporting autonomous, adversarial trade environments at global scale.
 

@@ -78,8 +78,15 @@ Autonomy is not a convenience.
 It is the future operating system of institutional finance.
 
 Roials-Alpha designs that system.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Autonomous deal flow is the natural evolution of private Strategic Collateralization, asset-based structures, and institutional-grade Monetization Architecture.
 

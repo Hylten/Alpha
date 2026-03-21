@@ -204,3 +204,11 @@ OpenClaw fungerar som en plattform där agenter kan samarbeta, fatta beslut och 
 Införandet bör ske stegvis och metodiskt, men de långsiktiga effekterna är tydliga: minskad arbetsbelastning, högre kvalitet, bättre styrning och större organisatorisk stabilitet.
 
 Agentiska arbetsflöden representerar därmed en utveckling som är särskilt väl lämpad för dagens svenska verksamheter som vill arbeta mer effektivt utan att förlora struktur, kontroll eller professionalitet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

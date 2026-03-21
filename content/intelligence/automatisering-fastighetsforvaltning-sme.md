@@ -166,3 +166,11 @@ På lång sikt leder detta till en mer robust verksamhetsmodell med högre stabi
 OpenClaw erbjuder en plattform som förenar dessa arbetsflöden med praktiska behov i vardagen och gör det möjligt att hantera komplexa processer med hög kvalitet och låg belastning. För fastighetsägare som vill utveckla sin organisation är automatisering ett långsiktigt verktyg som skapar struktur, trygghet och bättre resursutnyttjande.
 
 Genom att börja i liten skala och låta arbetsflöden växa i takt med organisationens behov kan företag stegvis skapa en modern och framtidssäker förvaltningsmodell. Detta ger både bättre kontroll och bättre förutsättningar för att möta en bransch i förändring.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

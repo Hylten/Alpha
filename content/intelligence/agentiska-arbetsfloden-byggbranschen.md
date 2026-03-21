@@ -175,3 +175,11 @@ Särskilt små och medelstora företag får här en möjlighet att ta del av ava
 ## Slutsats Agentiska arbetsflöden utgör ett betydande steg framåt för byggbranschen i Sverige. Genom att kombinera automatisering, strukturerade processer och datadrivna beslut kan små och medelstora byggföretag stärka sitt arbete och skapa en mer stabil operativ grund. Plattformar som OpenClaw gör det möjligt att implementera denna utveckling utan att belasta organisationen med omfattande tekniska krav eller komplexa integrationsprojekt.
 
 Tekniken är inte en ersättare för mänsklig kompetens, utan ett stöd som skapar utrymme för mer genomtänkt projektledning, fördjupad kunddialog och högre kvalitet i utförandet. För en bransch där tidskrav, säkerhet och ekonomisk stabilitet står i centrum är agentiska arbetsflöden ett verktyg med potential att bli en självklar del av framtidens byggprocesser.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

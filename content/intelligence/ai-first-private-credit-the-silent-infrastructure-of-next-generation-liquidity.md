@@ -372,8 +372,15 @@ Liquidity becomes ambient.
 Capital becomes flexible, intelligent, and always available.
 
 This is the design language of next-generation wealth architecture.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The future of private credit belongs to those who understand the mechanics beneath the surface.
 

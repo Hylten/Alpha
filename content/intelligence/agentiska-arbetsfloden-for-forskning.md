@@ -224,3 +224,11 @@ Agentiska arbetsflöden bidrar således till en mer jämlik tillgång till forsk
 Med system som OpenClaw kan företagen formulera processer som inte bara automatiserar enskilda moment utan bygger upp en långsiktigt hållbar forskningsmetodik. Detta gör det möjligt att använda data, insikter och kunskap på ett mer målmedvetet sätt och därigenom utveckla verksamheten på ett strategiskt och kontrollerat sätt.
 
 Agentiska arbetsflöden utgör därmed en modern och realistisk väg för svenska mindre företag att stärka sin förmåga att bedriva forskning, oberoende av budgetnivå eller organisatorisk storlek.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -181,3 +181,11 @@ Segmenteringen blir då inte en punktinsats utan en del av organisationens konti
 Tekniken ersätter inte det mänskliga omdömet men skapar ett stabilt fundament för att kunna arbeta mer systematiskt med kunder, data och affärsutveckling. OpenClaw erbjuder en struktur där även mindre organisationer kan dra nytta av dessa möjligheter utan omfattande investeringar i egna datasystem.
 
 I en tid där kundbeteenden förändras snabbt är detta en väg mot mer hållbara, transparenta och datadrivna arbetssätt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

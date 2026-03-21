@@ -208,3 +208,11 @@ Förenklade integrationsmetoder och stöd från plattformar gör att tekniken bl
 Med plattformar som OpenClaw blir tröskeln låg för företag som vill modernisera sin underhållsprocess. Lösningen kräver inte intern expertis och kan införas successivt. Resultatet är en tydligare struktur, färre oplanerade avbrott och en verksamhet som i högre grad kan fokusera på sin kärnproduktion.
 
 Prediktivt underhåll är därmed inte endast en teknisk innovation, utan även en metod för att skapa stabilitet, hållbarhet och kontroll i en snabbt föränderlig industriell miljö.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

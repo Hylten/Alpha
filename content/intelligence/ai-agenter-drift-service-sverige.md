@@ -228,3 +228,11 @@ AI‑agenter kommer inte att ersätta mänsklig arbetskraft, utan fungera som et
 Med lösningar som utvecklas i OpenClaw kan företag införa hållbar och stegvis automation som är anpassad till svenska verksamhetsvillkor. Resultatet blir en stabilare drift, tydligare intern struktur och en förbättrad helhetskvalitet i både tjänster och leveranser.
 
 Denna utveckling innebär inte en teknisk revolution utan snarare en metodisk förbättring av det dagliga arbetet, där AI‑agenter tar ansvar för återkommande moment och skapar ett arbetsflöde som är både förutsägbart och effektivt. Det är detta som gör tekniken särskilt relevant och användbar för svenska företag som vill arbeta långsiktigt med kontinuerlig verksamhetsförbättring.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

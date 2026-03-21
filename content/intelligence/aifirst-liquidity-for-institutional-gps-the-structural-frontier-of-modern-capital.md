@@ -149,7 +149,6 @@ If you operate in Asset-Based Lending and require Strategic Collateralization th
 
 Crypto Institutional Liquidity Paths with a
 
-
 2 Million Minimum Crypto is not a speculative event for us.
 
 It is a balance sheet instrument.
@@ -174,7 +173,6 @@ The AI layer evaluates:
 The result is high grade Asset-Backed Frameworks with deep stability.
 
 Public Share Capital Structuring with a
-
 
 5 Million Minimum Large public equity blocks require silent handling.
 
@@ -396,8 +394,15 @@ We are a capital infrastructure, not a platform.
 We supply mechanics that shape the liquidity environment around you.
 
 This is where modern wealth architecture lives.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 AI is the new liquidity engine for institutional GPs.
 

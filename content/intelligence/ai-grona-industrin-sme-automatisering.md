@@ -215,3 +215,11 @@ Detta är viktiga egenskaper för företag som är del av den gröna industrins 
 Den stora fördelen är skalbarheten. Ett företag kan börja i liten skala och sedan utöka sin automatisering i takt med behov och mognad. På så sätt blir digitalisering inte ett stort projekt, utan en pågående förbättringsprocess som stärker företagets långsiktiga hållbarhet.
 
 Agentiska arbetsflöden gör att AI inte bara blir en teknisk funktion, utan en integrerad del av verksamhetens kontinuerliga utveckling. Detta kan spela en central roll när den gröna industrin fortsätter att växa och svenska företag behöver konkurrenskraftiga, kostnadseffektiva och framtidssäkra processer.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

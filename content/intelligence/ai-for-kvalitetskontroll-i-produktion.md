@@ -162,3 +162,11 @@ För svenska företag innebär detta att kvalitetskontrollen gradvis blir en str
 ## Sammanfattning AI och agentiska arbetsflöden erbjuder nya möjligheter för kvalitetskontroll i svenska produktionsmiljöer. Genom att använda plattformar som OpenClaw kan även små och medelstora företag införa stabila och skalbara system utan omfattande utveckling. Resultatet blir mer tillförlitliga bedömningar, färre avvikelser, bättre dokumentation och starkare konkurrenskraft.
 
 Kvalitetskontrollen utvecklas därmed från att vara en kostnad till att bli en strukturell tillgång som stärker verksamhetens långsiktighet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

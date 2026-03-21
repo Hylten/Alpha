@@ -277,3 +277,11 @@ OpenClaw erbjuder en modell som gör det möjligt för företag att automatisera
 Denna utveckling innebär inte en revolution i form av stora organisatoriska hopp, utan snarare en gradvis och kontrollerad modernisering av arbetsmoment som tidigare varit manuella. Det skapar en mer stabil, resurssnål och långsiktig industriell verksamhet i Sverige.
 
 Automatiseringens framtid kommer därför troligen att präglas av just denna utveckling mot digitala arbetsflöden som kan arbeta självständigt, men alltid inom ramen för tydliga mänskliga mål och standarder.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -183,3 +183,11 @@ Detta skapar en bas för vidare digitalisering och innovation, där företaget k
 Genom att integrera sensorer, data och system i en gemensam, koordinerad plattform kan företag skapa mer stabila processer och samtidigt frigöra tid för personalens kompetens och kreativitet. Resultatet blir en verksamhet som är mer anpassningsbar, mer datadriven och mer framtidssäker.
 
 OpenClaw erbjuder därmed inte enbart ett tekniskt system, utan ett sätt att organisera och utveckla arbetssätt i en modern, uppkopplad miljö. Det gör att potentialen för automatisering blir tillgänglig även för de företag som tidigare saknat resurser att implementera sådana lösningar på ett hållbart och strukturerat sätt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -96,8 +96,15 @@ Cross-border capital will move through algorithmic corridors.
 Jurisdictional complexity will be abstracted behind invisible AI layers.
 
 Roials-Alpha will continue to build that infrastructure.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 AI-driven Asset-Based Lending unlocks a new frontier of liquidity for emerging markets.
 

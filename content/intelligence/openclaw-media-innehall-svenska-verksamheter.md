@@ -227,3 +227,11 @@ OpenClaw fungerar inte som ett verktyg som bara producerar mer innehåll. Det fu
 - En mer hållbar arbetsmiljö
 
 För verksamheter som vill stärka sin medienärvaro och samtidigt hantera sina resurser på ett ansvarsfullt sätt erbjuder OpenClaw en stabil och framtidsorienterad väg framåt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

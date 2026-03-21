@@ -179,3 +179,11 @@ Detta är en viktig faktor för många svenska företag som arbetar i sektorer d
 Det handlar inte om att ersätta människor, utan om att skapa stabila strukturer där teknik och verksamhet samspelar. Resultatet blir en mer förutsägbar drift, bättre resursutnyttjande och en organisation som står starkare inför framtida krav.
 
 Det är denna kombination av modellering, automation och systematiskt förbättringsarbete som gör OpenClaw och digitala tvillingar till en betydelsefull del av svenska företags digitala infrastruktur.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

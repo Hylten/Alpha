@@ -176,3 +176,11 @@ Detta är effekter som historiskt endast varit tillgängliga för stora industri
 OpenClaw erbjuder ett ramverk som möjliggör detta genom agentiska arbetsflöden, säker hantering av data och en metodik som kan införas stegvis. Genom att kombinera dessa delar kan företag minska manuellt arbete, öka kontrollen över produktionen och skapa bättre förutsättningar för långsiktig utveckling.
 
 Systemet är inte en ersättning för befintliga arbetssätt, utan ett stöd för att göra dem mer sammanhängande och datadrivna. När datainsamlingen blir mer konsekvent och automatiserad får verksamheten en stabilare grund att stå på, både i vardagen och i framtida utvecklingsarbeten.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

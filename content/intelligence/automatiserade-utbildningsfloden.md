@@ -231,3 +231,11 @@ Automatiserade utbildningsflöden blir därmed en central del av den digitala in
 ---
 
 Denna genomgång ger en djupare förståelse för hur automatiserade utbildningsflöden kan etableras och vilka effekter de har på verksamheten. För företag som vill arbeta strategiskt med kompetensutveckling är detta en naturlig del av framtidens organisationsstruktur.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -227,3 +227,11 @@ På detta sätt får små och medelstora företag tillgång till processer som t
 Genom tydliga arbetsflöden, spårbarhet och kontrollerad automation kan organisationer av alla storlekar skapa en mer robust och framtidssäker struktur. Detta sker utan att kompromissa med mänsklig kontroll eller kvalitet.
 
 OpenClaw bidrar därmed till att göra avancerad digital automation mer tillgänglig för hela det svenska näringslivet och offentlig sektor, oavsett resurser eller teknisk kompetens.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -165,3 +165,11 @@ I takt med att fler företag digitaliserar sina flöden skapas även bättre fö
 ## Sammanfattning Agentiska arbetsflöden och automatiserad produktionsplanering erbjuder en tydlig möjlighet för små och mellanstora svenska företag att effektivisera sin verksamhet. Genom att arbeta stegvis, använda tillgängliga verktyg som OpenClaw och fokusera på datadriven transparens kan företag skapa en mer robust och skalbar organisation.
 
 Tekniken ersätter inte personalens kompetens men förstärker den. Resultatet är beslut som bygger på både erfarenhet och kontinuerlig analys, vilket bidrar till en mer stabil och konkurrenskraftig produktion över tid.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

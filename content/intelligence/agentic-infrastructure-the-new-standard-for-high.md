@@ -179,7 +179,6 @@ Agentic infrastructure enforces this discipline automatically.
 
 The Three Pillars of Agentic Infrastructure The architecture that Roials-Alpha deploys rests on three pillars.
 
-
 1.
 
 Intelligence Extraction The system isolates actionable signals from noisy domains.
@@ -225,8 +224,6 @@ High Velocity Finance and the Collapse of Legacy Timing Velocity defines informa
 Not Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
-
-Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
@@ -510,6 +507,12 @@ The principal who acts now will operate from strength.
 
 The principal who delays will operate from constraint.
 
+Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
 Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+Minimum target size: $5M+.

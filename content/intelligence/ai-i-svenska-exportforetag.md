@@ -162,3 +162,11 @@ För exportföretag som vill fortsätta vara relevanta på globala marknader är
 Det handlar inte om att ersätta mänskliga arbetsinsatser, utan om att skapa strukturer som gör att organisationen kan fokusera på strategiska uppgifter och relationer som bygger långsiktig konkurrenskraft.
 
 För svenska exportföretag kan detta vara en avgörande faktor för fortsatt stabilitet och utveckling i en mer komplex internationell marknadsmiljö.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

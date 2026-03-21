@@ -166,3 +166,11 @@ Automatiserad dokumentation och uppföljning underlättar dessutom när verksamh
 OpenClaw erbjuder en plattform där denna typ av automatisering kan implementeras utan omfattande resurser, vilket gör tekniken tillgänglig även för företag som tidigare saknat möjlighet att arbeta på detta sätt.
 
 Denna utveckling innebär att energieffektivisering i allt mindre grad blir ett projekt med tydlig början och slut. I stället blir det ett fortlöpande och intelligent flöde, där verksamheten gradvis når en mer stabil, resurssnål och förutsägbar energihantering.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

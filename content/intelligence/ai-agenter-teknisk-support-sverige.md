@@ -183,3 +183,11 @@ AI‑agenter kommer sannolikt att utvecklas från att ha hand om enklare ärende
 ## Sammanfattning AI‑agenter och agentiska arbetsflöden representerar ett strukturerat och stabilt sätt att modernisera teknisk support i svenska små och medelstora företag. Genom att automatisera standardiserade arbetsmoment, minska hanteringstiden och skapa en mer enhetlig processmiljö kan företag uppnå högre kvalitet och bättre ekonomi i sin supportverksamhet.
 
 OpenClaw erbjuder en plattform där dessa principer kan implementeras på ett tryggt och kontrollerat sätt. För företag som söker en långsiktig, robust och skalbar modell för teknisk support innebär AI‑drivna arbetsflöden en naturlig utveckling som stärker hela organisationens digitala ekosystem.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

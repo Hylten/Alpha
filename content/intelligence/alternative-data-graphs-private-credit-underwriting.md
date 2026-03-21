@@ -203,23 +203,17 @@ This requires three structural pillars:
 
 1. The ingestion spine.
 
-
-
 The engine absorbs diverse data streams-internal and external-without forcing schema conformity.
 
 Elastic ingestion preserves nuance.
 
 2. The feature lattice.
 
-
-
 The graph expands into thousands of micro-features that evolve continuously.
 
 New signal clusters form automatically when the system detects statistically meaningful correlations.
 
 3. The decision core.
-
-
 
 A multi-model ensemble-graph neural nets, behavioral anomaly detectors, probabilistic risk engines-delivers verdicts that update continuously, not quarterly.
 
@@ -314,3 +308,11 @@ If you want an exploratory briefing on constructing an agentic underwriting infr
 Minimum mandate depth: $5M+ target size.
 
 The window for early advantage remains open, but it will not remain open for long.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

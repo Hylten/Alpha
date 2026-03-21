@@ -284,3 +284,11 @@ För svenska små och mellanstora företag innebär detta att juridiska rutiner 
 OpenClaw tillhandahåller en plattform speciellt anpassad för dessa behov, med funktioner för dokumentanalys, processkedjor och spårbarhet. För mindre organisationer innebär detta en möjlighet att etablera juridiska arbetsstrukturer som tidigare enbart varit tillgängliga för större företag.
 
 Agentiska arbetsflöden utgör därmed ett steg mot en mer kontrollerad och långsiktigt hållbar hantering av juridiska frågor i det svenska näringslivet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

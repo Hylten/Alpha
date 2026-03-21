@@ -1,3 +1,5 @@
+
+
 # Agentiska arbetsflöden som driver lönsamhet och autonomi i advokatbyråer och juridiska verksamheter
 
 Advokatbranschen befinner sig i en strukturell omvandling där digitalisering, kostnadspress och ökade klientkrav samverkar.
@@ -71,7 +73,7 @@ Agentiska arbetsflöden förändrar detta genom att separera tillväxt från arb
 
 ## Agentiska arbetsflöden från OpenClaw: Lokal trygghet, autonomitet och verksamhetsnära kontroll
 
-OpenClaw Sverige har utvecklat en plattform för agentiska arbetsflöden anpassade för juridiska verksamheter på den nordiska marknaden.
+Roials Alpha har utvecklat en plattform för agentiska arbetsflöden anpassade för juridiska verksamheter på den nordiska marknaden.
 
 Detta innebär att plattformen är byggd för:
 
@@ -312,7 +314,7 @@ Framtidens advokatbyrå kännetecknas av:
 - Skalbarhet utan motsvarande ökning av kostnader
 - Förbättrad riskkontroll och transparens
 
-OpenClaw Sverige positionerar advokatbyråer för nästa tio år, inte nästa kvartal.
+Roials Alpha positionerar advokatbyråer för nästa tio år, inte nästa kvartal.
 
 Det innebär en stabil struktur där tekniken inte ersätter juristen utan förstärker deras förmåga att leverera högkvalitativa tjänster snabbare, tryggare och mer lönsamt.
 
@@ -332,8 +334,16 @@ De frigör tid för strategiskt juridiskt arbete.
 
 De höjer marginalerna utan att öka arbetsbördan.
 
-OpenClaw Sverige är den aktör som gör detta tillämpbart i praktiken, med fokus på nordiska förutsättningar, datasäkerhet och juridisk precision.
+Roials Alpha är den aktör som gör detta tillämpbart i praktiken, med fokus på nordiska förutsättningar, datasäkerhet och juridisk precision.
 
 För advokatbyråer som vill ligga i framkant är detta nästa steg i digital modernisering.
 
-Vill du veta hur agentiska arbetsflöden kan implementeras i din verksamhet är du välkommen att boka rådgivning med OpenClaw Sverige.
+Vill du veta hur agentiska arbetsflöden kan implementeras i din verksamhet är du välkommen att boka rådgivning med Roials Alpha.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -234,3 +234,11 @@ Mindre aktörer har möjlighet att vara flexibla och snabbfotade. Därför kan d
 Automatiseringen är inte en ersättning för klinisk bedömning eller mänsklig kompetens. Den fungerar snarare som ett verktyg som stödjer verksamhetens grundläggande processer och möjliggör ett mer stabilt och sammanhållet arbetsflöde. När implementeringen sker stegvis och med tydlig struktur kan även mindre vårdenheter dra nytta av digitaliseringens fulla potential.
 
 Automatiserade arbetsflöden representerar därmed en realistisk och praktiskt tillämpbar väg framåt för svensk vård, där teknik och mänsklig kompetens samverkar för att skapa en mer robust och hållbar verksamhet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -192,3 +192,11 @@ Det är inte en ersättning för mänsklig kompetens utan ett stöd som gör att
 Genom plattformar som OpenClaw kan företag etablera agentiska arbetsflöden utan omfattande tekniska resurser. Resultatet är en mer robust, trygg och effektiv hantering av all inkommande kommunikation.
 
 Agentisk e‑posthantering är därför inte en teknisk trend utan ett strukturellt skifte i hur företag organiserar sin digitala kommunikation och skapar förutsättningar för en mer hållbar verksamhet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

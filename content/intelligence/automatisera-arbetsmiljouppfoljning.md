@@ -193,3 +193,11 @@ På så sätt blir arbetsmiljöuppföljningen en strategisk resurs snarare än e
 För små och medelstora företag i Sverige innebär detta en möjlighet att skapa ett mer stabilt, transparent och kontinuerligt arbetsmiljöarbete utan att bygga upp omfattande administrativa strukturer. Tekniken blir ett stöd, inte en ersättning, för det ansvar och den omtanke som definierar en god arbetsmiljö.
 
 Automatiseringen gör arbetsmiljöuppföljningen till en integrerad del av verksamheten och skapar bättre förutsättningar för både medarbetare och ledning att tillsammans utveckla en trygg och hållbar arbetsplats.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

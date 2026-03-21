@@ -203,3 +203,11 @@ I takt med att tekniken mognar kommer fler processer att kunna helt automatisera
 Det är inte tekniken i sig som är avgörande, utan hur den integreras i praktiska arbetsflöden. När AI gör det möjligt att ersätta manuella, repetitiva och tidskrävande moment frigörs tid och resurser till det som faktiskt skapar värde.
 
 Detta är en utveckling som på sikt kan bidra till en mer hållbar, effektiv och motståndskraftig skogssektor där även de minsta aktörerna har tillgång till verktyg som tidigare varit förbehållna de största.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

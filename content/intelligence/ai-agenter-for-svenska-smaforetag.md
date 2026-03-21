@@ -227,3 +227,11 @@ Teknikskiftet handlar inte om att ersätta människor utan om att frigöra deras
 ## Sammanfattning AI‑agenter och agentiska arbetsflöden representerar en ny form av digital infrastruktur för svenska småföretag. De stödjer verksamheter med begränsade resurser och skapar mer förutsägbara och strukturerade processer. Genom plattformar som OpenClaw kan företag bygga tydliga arbetskedjor som minimerar administrativa avbrott och skapar ordning i en vardag som ofta präglas av tidspress.
 
 Det avgörande är att närma sig tekniken långsamt, metodiskt och med fokus på verksamhetens verkliga behov. Genom tydliga regler, begränsade datamängder och genomtänkta arbetsflöden kan AI‑agenter bli en stabil del av svenska småföretags framtida struktur och konkurrenskraft.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -205,3 +205,11 @@ I en mer komplex framtid kan denna typ av system bli en grundpelare för hur min
 För många företag innebär detta inte bara tidsbesparing, utan också ökad kvalitet, bättre styrning och större trygghet i att verksamhetens rutiner utförs konsekvent. I en tid då kraven på dokumentation och effektivitet fortsätter att öka kan denna typ av system bli en naturlig del av den digitala infrastrukturen i svenska verksamheter.
 
 OpenClaw representerar därmed inte en punktinsats, utan ett ramverk för hur företag stegvis kan bygga en mer automatiserad och hållbar organisation, anpassad efter svenska förhållanden och behov.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

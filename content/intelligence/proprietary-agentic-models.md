@@ -474,8 +474,15 @@ Not hypothetical.
 Not conceptual.
 
 Operating entities with internal structure and external impact.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Proprietary agentic models represent the next frontier of computational capability.
 

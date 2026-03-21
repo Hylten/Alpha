@@ -173,3 +173,11 @@ Dessa utvecklingssteg ger företag möjlighet att förbättra både resiliens oc
 Lösningar som OpenClaw gör det möjligt att införa dessa funktioner på ett stegvis och kontrollerat sätt, anpassat till varje företags specifika behov. Resultatet blir inte bara förbättrad leveranskedja, utan även en mer resilient och långsiktigt hållbar verksamhet.
 
 Denna utveckling är inte en snabb trend utan en naturlig del av modern verksamhetsstyrning, där data och automatisering samverkar för att skapa tydligare översikt och bättre beslut i hela leveranskedjan.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

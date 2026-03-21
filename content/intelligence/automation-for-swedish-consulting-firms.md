@@ -180,3 +180,11 @@ Genom att införa dessa arbetsflöden kan konsultbyråer:
 - Frigöra tid för rådgivning och utveckling
 
 Denna utveckling innebär inte att konsultrollen försvinner, utan att den förskjuts mot mer kvalificerat arbete. Med OpenClaw kan byråer skapa en hållbar struktur där AI och människa samverkar på ett sätt som är både långsiktigt och institutionellt stabilt för den svenska marknaden.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

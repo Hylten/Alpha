@@ -245,3 +245,11 @@ Resultatet blir:
 Genom att införa AI‑baserade arbetsflöden kan företag ta kontroll över sin avtalshantering och skapa en grund för långsiktig effektivitet.
 
 Automatiseringen är inte en ersättning för mänsklig kompetens utan ett stöd som frigör tid för mer kvalificerade arbetsuppgifter. Det är ett samspel som gör det möjligt att hantera växande dokumentmängder på ett tryggt och professionellt sätt, anpassat efter svenska verksamheters behov.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

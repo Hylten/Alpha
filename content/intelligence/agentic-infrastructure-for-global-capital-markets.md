@@ -344,10 +344,17 @@ Through architecture.
 The client interacts with a seamless surface.
 
 Beneath that surface is a complex, multi agent, multi asset, high velocity liquidity engine designed for the upper stratum of global capital holders.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Capital Requires Infrastructure Modern portfolios require a mechanical layer.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Capital Requires Infrastructure Modern portfolios require a mechanical layer.
 
 A layer that interprets assets with precision.
 

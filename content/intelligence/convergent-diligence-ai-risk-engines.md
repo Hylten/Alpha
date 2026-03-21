@@ -55,8 +55,6 @@ This is Roials-Alpha.
 
 - PHASE ONE:
 
-
-
 - THE HARD STRUCTURE Private equity diligence is a discipline of disaggregation.
 
 You cut the company into parts.
@@ -496,3 +494,11 @@ If you want the agentic layer built around your mandate, Access is restricted to
 Minimum mandate depth: $5M+ target size.
 
 I’ll open the line.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

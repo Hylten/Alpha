@@ -274,10 +274,17 @@ The sovereign thesis replaces intermediaries with computation.
 It replaces negotiation with architecture.
 
 It replaces dependence with principal authority.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Next Epoch of Wealth Infrastructure HNWI and UHNW clients are entering a new epoch of financial autonomy.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Next Epoch of Wealth Infrastructure HNWI and UHNW clients are entering a new epoch of financial autonomy.
 
 Not independence from the system.
 

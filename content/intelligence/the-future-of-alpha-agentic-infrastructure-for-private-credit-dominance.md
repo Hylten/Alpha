@@ -252,10 +252,17 @@ Not the bottom.
 Institutional intelligence requires institutional‑grade clients.
 
 This is the domain of Roials‑Alpha.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The New Alpha Is Autonomous The market will continue to reward those who build structural advantages.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The New Alpha Is Autonomous The market will continue to reward those who build structural advantages.
 
 Agentic infrastructure is that advantage.
 

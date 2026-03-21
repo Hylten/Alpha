@@ -344,3 +344,11 @@ Minimum mandate depth: $5M+ target size.
 Tell me the depth you want: Do you want the full system blueprint?
 
 Or do you want the modular agent design?
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

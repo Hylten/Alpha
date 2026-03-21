@@ -179,3 +179,11 @@ Detta stegvisa tillvägagångssätt gör att tekniken blir en naturlig del av ve
 I en tid där produktionsmiljöer blir mer komplexa, och där kundkrav och konkurrenstryck ökar, blir förmågan att skapa flexibla och datadrivna strukturer avgörande. OpenClaw kan fungera som en brygga mellan traditionell produktion och nästa generations industriell automation.
 
 Genom att kombinera skalbarhet, transparens, autonom funktion och ett stegvis införande kan plattformen ge små och medelstora svenska företag en robust och långsiktig väg mot en mer effektiv, hållbar och framtidssäkrad produktion.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

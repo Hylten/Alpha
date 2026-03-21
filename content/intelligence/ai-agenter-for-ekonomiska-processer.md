@@ -206,3 +206,11 @@ Företag som börjar arbeta med agentiska arbetsflöden redan nu kommer att ha e
 OpenClaw tillhandahåller en stabil plattform där företag kan bygga och anpassa dessa arbetsflöden på ett kontrollerat sätt. Resultatet blir en ekonomifunktion som både är mer effektiv och mer strategiskt värdefull för verksamheten.
 
 Utvecklingen mot allt mer självständiga digitala agenter är tydlig, och för många svenska företag är detta ett viktigt steg mot en mer datadriven och resilient ekonomistyrning.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

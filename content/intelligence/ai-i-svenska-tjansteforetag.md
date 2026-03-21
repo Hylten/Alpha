@@ -207,3 +207,11 @@ Det långsiktiga målet är inte maximal automation. Det är stabil, hållbar oc
 Automatiseringens största värde ligger inte i att ersätta människor utan i att frigöra tid och skapa förutsättningar för ett mer fokuserat, mer organiserat och mer resilient arbete. Sverige har goda förutsättningar att ligga i framkant när det gäller denna form av systematisk och ansvarsfull AI‑användning, särskilt inom tjänstesektorn där processer ofta är väl definierade och återkommande.
 
 Med strukturerade verktyg som OpenClaw kan företag etablera agentiska arbetsflöden som kombinerar stabilitet, flexibilitet och verksamhetsmässig kontroll. Detta gör tekniken till ett naturligt inslag i modern svensk tjänsteproduktion och ett viktigt steg mot långsiktig organisatorisk hållbarhet.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -199,3 +199,11 @@ Genom att använda OpenClaw kan företag:
 - Skapa en mer resilient organisation.
 
 Den tekniska utvecklingen fortsätter att forma e‑handeln, och AI‑agenter är en central komponent för de företag som vill stå väl rustade för framtiden. OpenClaw erbjuder en stabil och transparent väg framåt för en bransch som aldrig står still.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

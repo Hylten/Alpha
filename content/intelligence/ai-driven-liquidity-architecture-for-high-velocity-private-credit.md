@@ -353,8 +353,15 @@ Public market holdings become Capital Structuring engines.
 Portfolios stop being static.
 
 They become programmable.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 AI driven liquidity is not optional for large scale actors.
 

@@ -248,3 +248,11 @@ Detta kommer sannolikt att leda till ökad stabilitet och mer förutsägbara arb
 Med en metodisk och kontrollerad användning kan OpenClaw bli ett verktyg som förstärker verksamheten och skapar förutsättningar för ett mer stabilt och långsiktigt hållbart arbetssätt.
 
 Det är denna kombination av tydlighet, kontroll och praktisk nytta som gör plattformen till ett intressant alternativ för svenska företag som söker ett modernt och disciplinerat sätt att arbeta med automatisering.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

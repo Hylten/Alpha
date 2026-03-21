@@ -155,3 +155,11 @@ I takt med att tekniken blir mer tillgänglig, och särskilt i takt med att AI�
 ## Sammanfattning Automatiserade onboarding‑processer utgör en central del av modern verksamhetsstyrning. För svenska små och mellanstora företag kan detta vara avgörande för att skapa stabilitet, minska administration och stärka medarbetarens upplevelse. Med stöd av AI och agentiska arbetsflöden, genom plattformar som OpenClaw, får företagen tillgång till teknik som tidigare främst varit tillgänglig för större organisationer.
 
 Genom att skapa en sammanhängande och självövervakande struktur kan företag säkerställa att varje ny medarbetare får en likvärdig introduktion, samtidigt som den administrativa bördan minskar. Automatiserade onboarding‑processer är därför inte enbart ett tekniskt stöd, utan en del av en större utveckling mot stabilare, mer transparenta och mer framtidssäkra arbetsformer.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -215,3 +215,11 @@ Fördelarna omfattar:
 OpenClaw bidrar genom att tillhandahålla en plattform som gör det möjligt att implementera dessa funktioner på ett sätt som är anpassat för svenska företags krav på säkerhet, tydlighet och långsiktighet.
 
 I en tid där informationsmängden fortsätter att växa och kraven på dokumenthantering skärps blir automatisering inte en valmöjlighet, utan en naturlig del av en hållbar verksamhetsutveckling.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

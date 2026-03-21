@@ -234,8 +234,15 @@ The technique achieves this by:
 The agent does not move the market in the traditional sense.
 
 It reshapes the liquidity substrate before pressure is applied.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Cross exchange liquidity harmonization is the new foundation for sovereign AI execution.
 

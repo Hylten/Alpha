@@ -155,3 +155,11 @@ Små och medelstora företag som redan nu etablerar digitala arbetsflöden komme
 Verktyg som OpenClaw kan fungera som en brygga mellan komplex teknologi och praktiska behov i vardagen. Det handlar inte om att införa teknik för teknikens skull, utan att skapa strukturer som gör företag bättre rustade för framtidens fordonsindustri.
 
 Genom att fokusera på långsiktig stabilitet, tydliga arbetsflöden och stegvis införande kan även mindre aktörer dra nytta av automatiseringens möjligheter utan att göra omfattande eller riskfyllda investeringar. Det är en utveckling som förväntas fortsätta och som kan spela en nyckelroll i hur svensk fordonsindustri förblir konkurrenskraftig i en global och tekniskt avancerad värld.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

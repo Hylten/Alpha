@@ -172,8 +172,15 @@ Legacy becomes mechanical.
 Predictable.
 
 Dominant.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 High-frequency Family Offices require liquidity systems that match their operational rhythm.
 

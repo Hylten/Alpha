@@ -237,3 +237,11 @@ Eftersom agentstrukturen är modulär kan nya processer läggas till utan stora 
 Det handlar inte om att ersätta mänsklig kompetens, utan om att skapa förutsättningar där den används på rätt plats. När digitala agenter hanterar faktureringen får företag en mer robust struktur för sina ekonomiska rutiner och en tryggare grund för sin fortsatta utveckling.
 
 Detta gör agentbaserad fakturering till ett naturligt steg i det svenska näringslivets digitala mognadsresa.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -183,3 +183,11 @@ Automatisering möjliggör att även små team kan arbeta med en kvalitet och st
 ## Sammanfattande reflektion Automatisering av testning och kvalitetssäkring med hjälp av AI och agentiska arbetsflöden är inte enbart en teknisk fråga utan en strategisk investering i verksamhetens framtid. För svenska små och medelstora företag innebär detta en möjlighet att höja kvaliteten, minska kostnaderna och skapa mer robusta digitala tjänster utan att öka den interna arbetsbelastningen.
 
 OpenClaw erbjuder ett strukturerat, förklarligt och verksamhetsanpassat sätt att införa denna teknik. Genom att kombinera modern AI med förståelse för svenska organisationers behov skapas en hållbar väg mot ett mer automatiserat och effektivt kvalitetsarbete.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

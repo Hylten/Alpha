@@ -174,3 +174,11 @@ Denna typ av organisationskultur skapar bättre förutsättningar för långsikt
 För svenska små och medelstora företag är detta särskilt värdefullt eftersom det ger möjlighet att arbeta mer effektivt utan att behöva göra stora investeringar i personal eller traditionella tekniska lösningar. Automatiseringen skapar bättre förutsättningar för kvalitet, skalbarhet, ekonomisk stabilitet och organisatorisk utveckling.
 
 OpenClaw är inte en ersättning för personal eller kritiskt tänkande, utan ett verktyg för att hantera det som tidigare tog oproportionerligt mycket tid. På så sätt kan varje organisation fokusera mer på de delar av verksamheten där mänsklig kompetens är som mest värdefull.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

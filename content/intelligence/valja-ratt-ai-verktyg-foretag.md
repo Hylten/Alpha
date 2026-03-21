@@ -200,3 +200,11 @@ Genom att:
 kan svenska företag genomföra en hållbar och riskminimerad automatisering.
 
 AI är inte en färdig lösning utan en del av en långsiktig utvecklingsstrategi. När den används med omsorg kan den avlasta, effektivisera och förbättra kvaliteten i både stora och små verksamheter. OpenClaw erbjuder ett exempel på hur företag kan arbeta strukturerat, tryggt och med tydlig kontroll över hela automatiseringsprocessen.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

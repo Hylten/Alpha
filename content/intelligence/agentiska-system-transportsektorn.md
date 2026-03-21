@@ -206,3 +206,11 @@ För små och medelstora företag innebär detta att teknik som tidigare var fö
 Plattformar som OpenClaw gör det möjligt att implementera denna teknik utan omfattande tekniska projekt och därmed integrera automatiseringen i den dagliga driften.
 
 Tekniken innebär inte bara en rationalisering utan skapar även en mer stabil informasjonsmiljö, där beslut baseras på korrekt data och där varje moment dokumenteras konsekvent. I en bransch med höga krav på precision, säkerhet och kostnadseffektivitet är detta en utveckling som har potential att ge betydande värde för lång tid framöver.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

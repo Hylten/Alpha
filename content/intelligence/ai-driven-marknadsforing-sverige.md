@@ -179,3 +179,11 @@ Detta skapar en situation där mindre företag får tillgång till samma teknisk
 Tekniken eliminerar inte behovet av mänskliga bedömningar, men den förflyttar fokus från repetitiva uppgifter till strategiskt arbete. Detta öppnar nya möjligheter för mindre företag att växa i en digital ekonomi som ställer höga krav på synlighet, analys och kontinuitet.
 
 AI‑driven marknadsföring är därmed inte en ersättning för traditionell kompetens utan ett stöd som ger företag i Sverige möjlighet att agera mer förutseende, metodiskt och hållbart i en allt mer dynamisk marknadsmiljö.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

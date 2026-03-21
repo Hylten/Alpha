@@ -176,3 +176,11 @@ Skolmiljön kommer fortsatt vara en viktig testmiljö eftersom den kombinerar ko
 OpenClaw ger företag möjlighet att dra nytta av denna metodik genom en plattform som stödjer regelstyrda digitala flöden, dokumentation, automatisering och spårbarhet. Resultatet är en verksamhet som blir mer effektiv, mer robust och mindre beroende av manuellt arbete.
 
 Agentiska arbetsflöden är därmed inte en trend utan en långsiktig strukturell förändring som redan visat sitt värde i skolor och nu blir allt viktigare i svenska företag.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

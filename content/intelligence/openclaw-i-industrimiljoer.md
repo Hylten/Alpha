@@ -230,3 +230,11 @@ Detta skapar en mer resilient verksamhet där förändringar kan hanteras utan a
 - förbättra sin operativa effektivitet
 
 För industrin, där stabilitet och precision är centrala faktorer, erbjuder OpenClaw en väg mot en mer sammanhållen digital verksamhet och ett mer långsiktigt hållbart arbetssätt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

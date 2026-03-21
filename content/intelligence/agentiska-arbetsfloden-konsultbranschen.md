@@ -167,3 +167,11 @@ OpenClaw positionerar sig som en plattform som kan utvecklas i takt med dessa f�
 ## Sammanfattning Agentiska arbetsflöden utgör en viktig del av framtidens konsultverksamhet i Sverige. Genom att kombinera strukturerade processer med AI-stöd kan företag förbättra sin effektivitet, öka kvaliteten på sina leveranser och skapa en mer hållbar arbetsmiljö. OpenClaw erbjuder verktyg som gör denna utveckling tillgänglig även för små och medelstora företag, utan behov av omfattande interna utvecklingsresurser.
 
 För konsultorganisationer som vill stärka sin konkurrenskraft och skapa långsiktiga strukturer är agentiska arbetsflöden en naturlig och strategiskt viktig del av verksamhetens fortsatta digitalisering.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -233,3 +233,11 @@ Detta är särskilt viktigt i mindre organisationer där nyckelpersoner ofta bä
 Arbetsflödena kan utformas så att de följer svenska regler och branschpraxis, vilket ger trygghet för företag som vill arbeta professionellt och korrekt. Automatiseringen innebär inte att mänskliga beslut försvinner utan att dessa beslut får bättre stöd, tydligare underlag och en mer kontrollerad process.
 
 För företag som söker sätt att stärka sin ekonomiska struktur och frigöra tid för mer värdeskapande arbete är automatisering av inkassoprocesser ett naturligt steg. OpenClaw erbjuder de verktyg som behövs för att genomföra denna förändring på ett stabilt, transparent och långsiktigt hållbart sätt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

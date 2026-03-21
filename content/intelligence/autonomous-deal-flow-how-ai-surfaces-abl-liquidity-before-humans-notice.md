@@ -82,8 +82,15 @@ It is a question of systems competency.
 The firms with agentic architecture win.
 
 The firms without it compete for leftovers.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Autonomous deal flow is not an upgrade.
 

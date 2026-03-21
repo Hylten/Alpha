@@ -167,3 +167,11 @@ Företag som implementerar agentiska arbetsflöden tidigt får en möjlighet att
 ## Sammanfattning Automatisering av kundsupport genom digitala agenter är ett område som vuxit snabbt i takt med utvecklingen av avancerade språkmodeller. Svenska små och medelstora företag har mycket att vinna på att införa denna typ av strukturer. Genom OpenClaw kan verksamheter skapa robusta och kontrollerade agentiska arbetsflöden som förbättrar kvalitet, minskar belastning och ger en mer effektiv intern process.
 
 Kundsupporten blir mer konsekvent, snabbare och enklare att följa upp. Företagen får bättre möjligheter att skala sin verksamhet utan att öka kostnaderna i samma takt. Detta skapar förutsättningar för en stabil och hållbar utveckling i ett allt mer digitaliserat näringsliv.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

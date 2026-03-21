@@ -93,8 +93,6 @@ Signal Compression.
 
 Counterparty Profiling.
 
-
-
 # Principal Graphing All industries contain underlying power structures.
 
 These are not visible in public filings.
@@ -188,8 +186,6 @@ Collateral Precision.
 Information Integrity.
 
 Institutional Grade Controls.
-
-
 
 # Structural Readiness Borrowers often present structures that cannot support scaled credit.
 
@@ -301,8 +297,6 @@ Predictable Accountability.
 
 Aligned Mandate.
 
-
-
 # Clear Purpose A covenant without purpose becomes bureaucratic.
 
 A covenant with purpose becomes stabilizing.
@@ -382,8 +376,6 @@ As an integrated intelligence organism. Pre Decision Mapping.
 Agentic Infrastructure.
 
 Automated Covenant Enforcement.
-
-
 
 # Pre Decision Mapping Decisions must be architected before opportunities appear.
 
@@ -604,3 +596,11 @@ As principals.
 # Inquiry Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

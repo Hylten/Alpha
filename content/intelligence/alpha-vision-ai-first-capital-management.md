@@ -175,8 +175,6 @@ In this regard AI enhances the allocator's ability to adhere to stewardship prin
 
 THE DECISION FRAMEWORK FOR ALLOCATORS For UHNW families, private credit funds, and institutional LPs, an AI first approach becomes a necessity when three conditions converge.
 
-
-
 1.
 
 Information load exceeds human processing capacity.
@@ -209,3 +207,10 @@ It is strategic orientation with a focus on stewardship, operational intelligenc
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

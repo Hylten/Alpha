@@ -192,3 +192,11 @@ För små och medelstora företag kan detta innebära att automatisering blir en
 Plattformar som OpenClaw gör detta tillgängligt utan behov av avancerad systemutveckling. Effekten blir ofta minskad administration, bättre beslutsunderlag och en organisation som kan anpassa sig snabbare till förändringar i omvärlden.
 
 Det är inte tekniken i sig som är målet, utan de strukturer som kan byggas tack vare tekniken. För de företag som vill utveckla sin verksamhet på ett strategiskt och långsiktigt sätt är AI därför en central komponent i modern affärsutveckling.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

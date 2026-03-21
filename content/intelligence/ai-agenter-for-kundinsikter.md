@@ -176,3 +176,11 @@ OpenClaws lösningar är utformade för att möta denna utveckling på ett sätt
 Med tydliga arbetsflöden, kontinuerlig analys och stöd för operativa beslut kan AI‑agenter bidra till att höja kvaliteten i kundmötet och stärka långsiktig konkurrenskraft.
 
 Denna utveckling sker stegvis men visar redan idag att automatiserad kundinsikt är på väg att bli en central del av hur svenska företag driver sin verksamhet på ett mer informerat och hållbart sätt.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

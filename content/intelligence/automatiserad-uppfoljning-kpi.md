@@ -187,3 +187,11 @@ Agentiska arbetsflöden gör det dessutom möjligt att bygga avancerade scenarie
 För företag som vill stärka sin uppföljning, förbättra sin beslutskvalitet och minska personberoendet erbjuder automatisering en stabil och långsiktig väg framåt. Genom att börja i liten skala och gradvis bygga ut strukturen kan även mindre organisationer skapa en professionell och robust styrningsmekanism som tidigare varit förbehållen större aktörer.
 
 Automatiserad KPI‑uppföljning är inte bara en teknisk lösning, utan en strategisk investering i en mer förutsägbar och datadriven framtid.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

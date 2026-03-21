@@ -204,3 +204,11 @@ Företag som tar steget till automatisering får en mer stabil grund för tillv�
 ---
 
 Detta skapar förutsättningar för en långsiktig och modern hantering av leads, anpassad för svenska förhållanden och med fokus på kvalitet i varje del av processen.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

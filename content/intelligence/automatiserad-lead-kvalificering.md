@@ -166,3 +166,11 @@ Detta gör att automatiserad lead‑kvalificering fungerar som ett långsiktigt 
 OpenClaw ger verksamheter möjlighet att införa denna typ av arbetsflöden på ett sätt som är anpassat efter lokala behov, svensk affärskultur och begränsade resurser. På så sätt kan även mindre företag dra nytta av avancerad automatisering och bygga stabila processer som håller över tid.
 
 Automatiserad lead‑kvalificering blir därmed inte endast en fråga om teknik, utan ett sätt att skapa en mer hållbar, konsekvent och datadriven arbetsmodell som stödjer tillväxt och fördjupad kundförståelse.
+
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
