@@ -111,9 +111,7 @@ THE STEWARDSHIP FILTER Stewardship in capital allocation is not an aesthetic vir
 
 It is a discipline grounded in the responsible management of informational leverage.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22outlines the principle of intergenerational responsibility.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22outlines the principle of intergenerational responsibility.
 
 Within modern credit architecture, this principle translates into non wasteful deployment of liquidity and the preservation of balance sheet integrity.
 

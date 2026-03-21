@@ -201,9 +201,7 @@ THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deplo
 
 It is a systematic commitment to preventing value leakage across operational, financial, and intergenerational domains.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22frames this with clarity.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22frames this with clarity.
 
 A steward is responsible for maintaining the integrity of resources across generations.
 

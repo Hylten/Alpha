@@ -153,9 +153,7 @@ It imposes order on environments prone to volatility.
 
 This aligns with the Theology of Capital, where capital is treated as a resource to be governed rather than exploited.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22articulates the intergenerational mandate that guides disciplined asset selection and operational intelligence deployment.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22articulates the intergenerational mandate that guides disciplined asset selection and operational intelligence deployment.
 
 Stewardship is the filter that converts capital abundance into capital permanence.
 

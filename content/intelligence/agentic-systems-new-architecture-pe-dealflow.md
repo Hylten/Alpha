@@ -33,9 +33,7 @@ Where the firm becomes a system, not a hierarchy.
 
 Where dealflow becomes computable.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22speaks: A good man leaves an inheritance to his children’s children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22speaks: A good man leaves an inheritance to his children’s children.
 
 Capital permanence.
 
@@ -562,9 +560,7 @@ A durable form of inheritance.
 
 As
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22instructs.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22instructs.
 
 The new architecture of PE dealflow hinges on five mandates.
 

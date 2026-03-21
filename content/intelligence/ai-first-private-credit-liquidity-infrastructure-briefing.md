@@ -163,9 +163,7 @@ THE STEWARDSHIP FILTER Stewardship is a discipline of non-wasteful resource mana
 
 It aligns with the theological principle articulated in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22, where capital is understood as a multi generational responsibility.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22, where capital is understood as a multi generational responsibility.
 
 Within private credit, stewardship manifests through disciplined underwriting, responsible capital allocation, and the avoidance of speculative leverage.
 

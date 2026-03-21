@@ -181,9 +181,7 @@ The allocator is a steward, not an extractor.
 
 This aligns with
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: A good person leaves an inheritance to their children's children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: A good person leaves an inheritance to their children's children.
 
 In institutional terms, this means building capital structures resilient enough to endure beyond a single cycle.
 

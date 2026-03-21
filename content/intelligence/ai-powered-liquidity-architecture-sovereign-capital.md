@@ -29,9 +29,7 @@ Heavy oil, gas liquids, and long decline conventional structures have become pre
 
 THE REGIME SHIFT is measurable in institutional data.
 
-Deployment lag has increased by over
-
-40 percent since 2020 across the North American credit ecosystem.
+Deployment lag has increased by over 40 percent since 2020 across the North American credit ecosystem.
 
 Transaction friction has increased at a faster rate than transaction volume.
 
@@ -183,9 +181,7 @@ THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than sentim
 
 The principles align with
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which defines responsible inheritance systems and long horizon capital accountability.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which defines responsible inheritance systems and long horizon capital accountability.
 
 Stewardship within AI powered liquidity architecture is measured through three specific filters.
 

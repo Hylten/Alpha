@@ -233,9 +233,7 @@ All counterparties operate pursuant to transparent and measurable structures.
 
 The Biblical principle in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22asserts that responsible resource management transcends the immediate generation.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22asserts that responsible resource management transcends the immediate generation.
 
 For institutions and family offices, stewardship produces credit architectures that maintain integrity across cycles rather than pursuing superficial yield.
 

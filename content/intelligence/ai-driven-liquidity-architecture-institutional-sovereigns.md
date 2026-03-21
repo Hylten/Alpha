@@ -183,9 +183,7 @@ They must maintain national stability, protect intergenerational wealth, and uph
 
 Theology of Capital defines stewardship as the elimination of waste inside a resource environment.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the principle that multigenerational allocation is inherently moral.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the principle that multigenerational allocation is inherently moral.
 
 AI driven liquidity architecture strengthens this principle by removing waste from the allocation cycle.
 

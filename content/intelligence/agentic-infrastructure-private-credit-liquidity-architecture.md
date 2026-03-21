@@ -27,9 +27,7 @@ Credit engines that interpret risk faster than counterparties can articulate it.
 
 Liquidity frameworks that harden the wealth stack of HNWI and UHNW families through velocity, not leverage.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states: A good man leaves an inheritance to his children's children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states: A good man leaves an inheritance to his children's children.
 
 The modern translation for principal-class operators is simple.
 
@@ -415,9 +413,7 @@ Execution fuels legacy.
 
 This is the modern reading of
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: build systems that survive your own generation.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: build systems that survive your own generation.
 
 -
 

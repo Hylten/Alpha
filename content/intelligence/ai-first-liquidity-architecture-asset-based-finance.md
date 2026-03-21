@@ -177,9 +177,7 @@ Stewardship in this context is measured through:
 
 - Alignment with principles articulated in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22regarding generational capital continuity.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22regarding generational capital continuity.
 
 The AI-native asset based finance environment is the first ecosystem capable of operationalizing these principles at scale.
 

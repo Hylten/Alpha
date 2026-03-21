@@ -225,9 +225,7 @@ Stewardship in this context includes:
 
 The Theology of Capital aligns with
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22, which frames capital as a multi generational resource that must be deployed with responsibility.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22, which frames capital as a multi generational resource that must be deployed with responsibility.
 
 Agentic systems support this discipline by ensuring that capital is governed by evidence rather than sentiment.
 

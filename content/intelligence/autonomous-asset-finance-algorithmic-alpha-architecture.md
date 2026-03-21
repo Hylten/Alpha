@@ -219,9 +219,7 @@ Align with partners who operate with institutional discipline.
 
 Roials Capital applies
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22as a governance principle.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22as a governance principle.
 
 A well designed capital system should preserve and extend value across generations.
 

@@ -199,9 +199,7 @@ Stewardship requires that capital be deployed where it can be monitored, support
 
 Agentic systems reduce uncertainty, but they do not replace the principle that capital should be managed with clarity of purpose.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22defines the long term orientation that underpins disciplined financial decision making.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22defines the long term orientation that underpins disciplined financial decision making.
 
 Stewardship translates this into operational reality through three filters.
 

@@ -95,9 +95,7 @@ That lattice becomes computable.
 
 Once computable, it becomes weaponized for alpha.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
 
 The Alpha Framework is an institutional harvesting engine.
 

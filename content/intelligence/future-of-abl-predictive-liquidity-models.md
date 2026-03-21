@@ -111,9 +111,7 @@ When combined with real time collateral resolution, this architecture strengthen
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator in this environment.
 
-The role is defined by institutional
-
-INTRODUCTION , structural alignment, and operational intelligence.
+The role is defined by institutional INTRODUCTION , structural alignment, and operational intelligence.
 
 As predictive Asset-Based Lending expands into an institutional asset class, allocators require clarity in four domains:
 
@@ -155,9 +153,7 @@ The stewardship filter is composed of three layers: Capital Alignment Discipline
 
 This aligns with the stewardship principle seen in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: capital is not to be wasted but preserved across generations.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: capital is not to be wasted but preserved across generations.
 
 Operational Integrity Stewardship mandates accountability in asset usage and cash flow behavior.
 

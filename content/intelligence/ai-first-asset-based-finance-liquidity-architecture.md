@@ -231,9 +231,7 @@ Moves credit exposure from high-tax zones to efficient corridors.
 
 Portfolio shifts from reactive to anticipatory.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: wealth inherits across generations when structure precedes opportunity.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: wealth inherits across generations when structure precedes opportunity.
 
 The architecture treats wealth as a system.
 
@@ -482,9 +480,7 @@ Jurisdictional arbitrage becomes default posture.
 
 AI-first underwriting becomes the spine of the system.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22applies: the good father leaves inheritance.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22applies: the good father leaves inheritance.
 
 But the sovereign architect leaves infrastructure.
 

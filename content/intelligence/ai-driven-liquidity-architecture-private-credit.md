@@ -33,9 +33,7 @@ Collateralization becomes perpetual.
 
 Default risk becomes a time-series, not an event.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: Good man.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: Good man.
 
 Inheritance.
 

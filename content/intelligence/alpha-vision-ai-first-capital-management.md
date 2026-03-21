@@ -161,9 +161,7 @@ In this context AI first capital management enhances stewardship by removing emo
 
 It converts resource governance from subjective interpretation into objective rule bound oversight.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes a foundational principle regarding intergenerational responsibility.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes a foundational principle regarding intergenerational responsibility.
 
 Applied to institutional capital, this principle affirms that the allocator's role is not opportunistic extraction but disciplined preservation and responsible deployment of capital.
 

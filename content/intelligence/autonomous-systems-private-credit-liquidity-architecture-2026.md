@@ -73,15 +73,9 @@ Examples:
 
 - A mid market industrial company with
 
-42 day DSO may receive an
+42 day DSO may receive an 82 percent advance rate during stable cycles, which can be automatically increased to 88 percent if real time RCM data shows a drop in delinquency velocity.
 
-82 percent advance rate during stable cycles, which can be automatically increased to
-
-88 percent if real time RCM data shows a drop in delinquency velocity.
-
-- Energy infrastructure assets within NAEOCC energy infrastructure investment frameworks may shift from
-
-65 percent to 72 percent advance valuation when grid feed telemetry shows a multiquarter stability trend.
+- Energy infrastructure assets within NAEOCC energy infrastructure investment frameworks may shift from 65 percent to 72 percent advance valuation when grid feed telemetry shows a multiquarter stability trend.
 
 Collateral volumes are not treated as monolithic blocks but as fractions within a continuous liquidity equation.
 
@@ -219,9 +213,7 @@ STEWARDSHIP FILTER Stewardship is the guiding ethic.
 
 It frames capital not as a consumable resource but as a generational trust.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22reminds us that a good man leaves an inheritance to his children's children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22reminds us that a good man leaves an inheritance to his children's children.
 
 Within this context, autonomous credit systems must serve as tools of responsible capital formation, not engines of opacity.
 

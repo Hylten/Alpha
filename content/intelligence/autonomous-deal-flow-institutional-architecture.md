@@ -149,9 +149,7 @@ It is the systematic practice of ensuring that capital flows into structures tha
 
 The traditional stewardship framing is reinforced by the scriptural principle in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which highlights the creation of durable value across generations.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which highlights the creation of durable value across generations.
 
 Stewardship within autonomous deal flow operates through four primary filters.
 

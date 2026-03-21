@@ -9,9 +9,7 @@ The modern capital estate requires insulation, leverage, velocity, and a control
 
 Asset hardening has shifted from a defensive posture to an offensive architecture-an engineered force multiplier for families that operate across multi-jurisdictional value corridors.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22speaks in clean geometry: a good man leaves an inheritance for his children’s children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22speaks in clean geometry: a good man leaves an inheritance for his children’s children.
 
 Yet the contemporary environment punishes static inheritance.
 
@@ -409,9 +407,7 @@ XI.
 
 MULTI-GENERATIONAL STRUCTURE: THE INHERITANCE OF CAPACITY
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22is not merely preserved-it’s operationalized.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22is not merely preserved-it’s operationalized.
 
 The inheritance is not cash.
 

@@ -185,9 +185,7 @@ Agentic systems protect identity by ensuring all allocations reflect the governi
 
 Efficiency as Moral Behavior Inefficiency is a form of waste.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states that a good person leaves an inheritance for their children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good person leaves an inheritance for their children.
 
 Stewardship is therefore the elimination of avoidable waste inside the capital deployment process.
 

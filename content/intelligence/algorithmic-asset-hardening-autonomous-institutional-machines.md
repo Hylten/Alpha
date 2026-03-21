@@ -129,9 +129,7 @@ Add a UCC‑perfected collateral spine in Texas or Oklahoma for oil‑and‑gas 
 
 Build a cage around every dollar.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: Wealth flows through structure, not sentiment.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: Wealth flows through structure, not sentiment.
 
 The institution must operate like a fortress.
 

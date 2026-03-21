@@ -193,9 +193,7 @@ Accuracy as Ethics Capital misallocation is a form of waste.
 
 Precision in underwriting, collateral analysis, and liquidity modeling is a form of ethical responsibility.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22underscores the principle of multi generational stewardship.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22underscores the principle of multi generational stewardship.
 
 Accuracy ensures preservation across generations.
 

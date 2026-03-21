@@ -175,9 +175,7 @@ Inventory cycle drift increased from
 
 2.
 
-Equipment utilization dropped to
-
-68 percent for eight consecutive weeks.
+Equipment utilization dropped to 68 percent for eight consecutive weeks.
 
 3.
 
@@ -197,13 +195,9 @@ Liquidity Detection AI processed the anomalies and produced the following intell
 
 81 percent due to strong counterparties.
 
-- Equipment collateralization value: 33M with
+- Equipment collateralization value: 33M with 62 percent advance rate.
 
-62 percent advance rate.
-
-- Inventory tranche potential: 7M with
-
-35 percent advance rate.
+- Inventory tranche potential: 7M with 35 percent advance rate.
 
 - Total liquidity potential: 41M without equity dilution.
 
@@ -261,9 +255,7 @@ The principal to principal tone positioned the dialogue as strategic rather than
 
 Outcome Within 11 days the company accepted a structured Asset-Based Lending package.
 
-This secured a proprietary position that later evolved into a
-
-54 percent equity stake
+This secured a proprietary position that later evolved into a 54 percent equity stake
 
 14 months later when the owners initiated succession planning.
 
@@ -277,9 +269,7 @@ Stewardship The capital provided must expand the productive capacity of the comp
 
 This is consistent with
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22and ensures long term alignment with owners, employees, and the local ecosystem.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22and ensures long term alignment with owners, employees, and the local ecosystem.
 
 In practice this means:
 

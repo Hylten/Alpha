@@ -115,9 +115,7 @@ It increases transparency, reduces waste, and enhances accountability.
 
 The stewardship principle is grounded in the scriptural instruction of
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 Wealth must be preserved, allocated, and governed with intentionality.
 
@@ -147,9 +145,7 @@ Static credit structures cannot manage the operational complexity of modern heal
 
 AI driven Asset-Based Lending represents a structural recalibration of private credit, allowing institutions to engage asset classes previously considered difficult to underwrite with precision.
 
-Roials Capital provides strategic alignment, market navigation, and institutional
-
-INTRODUCTION into this rapidly evolving landscape.
+Roials Capital provides strategic alignment, market navigation, and institutional INTRODUCTION into this rapidly evolving landscape.
 
 A confidential strategy audit can clarify where AI driven Asset-Based Lending intersects with existing mandates and how these structures can enhance portfolio durability, opportunity velocity, and long term stewardship. [END OF INSTITUTIONAL BRIEFING]
 

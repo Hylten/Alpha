@@ -195,9 +195,7 @@ It includes:
 
 - Replacing sentiment with evidence Theological references describe this as the duty to preserve and multiply resources with integrity.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22outlines the long horizon view of capital continuity.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22outlines the long horizon view of capital continuity.
 
 The agentic architecture strengthens the technical foundations required to fulfill this mandate at institutional scale.
 
@@ -225,9 +223,7 @@ The decision making lens becomes:
 
 - Is capital deployed with discipline or velocity alone
 
-- Does the system demonstrate verifiable stewardship Roials Capital provides the institutional
-
-INTRODUCTION and structural intelligence required for allocators seeking alignment within this new ecosystem.
+- Does the system demonstrate verifiable stewardship Roials Capital provides the institutional INTRODUCTION and structural intelligence required for allocators seeking alignment within this new ecosystem.
 
 The next step for serious allocators is a confidential strategy audit focused on calibration, platform evaluation, and structural fit inside the emerging agentic credit architecture.
 

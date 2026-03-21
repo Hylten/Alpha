@@ -29,8 +29,7 @@ What has diminished is the reliability of human mediated discovery.
 
 Family offices report rising costs per actionable opportunity and an escalation of diligence burden.
 
-Institutional allocators indicate that less than
-4 percent of inbound dealflow meets threshold viability.
+Institutional allocators indicate that less than 4 percent of inbound dealflow meets threshold viability.
 
 The landscape rewards systems capable of reducing noise density, identifying pattern anomalies, and classifying operator quality through probabilistic scoring instead of narrative driven representation.
 
@@ -134,9 +133,7 @@ The stewardship filter follows four principles:
 
 This aligns with the theology of capital exemplified in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which defines wealth not as accumulation but as intergenerational responsibility.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which defines wealth not as accumulation but as intergenerational responsibility.
 
 Autonomous filtration amplifies this responsibility by ensuring that capital is allocated to structurally coherent opportunities rather than narrative driven speculation.
 

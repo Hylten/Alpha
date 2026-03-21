@@ -133,9 +133,7 @@ THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological 
 
 .
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22identifies the principle of multigenerational provisioning.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22identifies the principle of multigenerational provisioning.
 
 The allocator embracing Stewardship as an operational discipline evaluates assets not through short term yield optics but through sustainability of cash flow, resilience of collateral, and long term productivity of the underlying resource.
 

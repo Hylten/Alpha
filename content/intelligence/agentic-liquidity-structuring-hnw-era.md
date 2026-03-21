@@ -167,9 +167,7 @@ Principles include:
 
 - Long horizon decision frameworks Stewardship aligns with
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22and establishes the ethical baseline for sophisticated capital engagement.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22and establishes the ethical baseline for sophisticated capital engagement.
 
 High velocity systems require greater discipline, not less.
 

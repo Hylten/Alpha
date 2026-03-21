@@ -207,9 +207,7 @@ Efficient architecture reduces slippage.
 
 Slippage is waste.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the generational logic of capital management.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the generational logic of capital management.
 
 Systems reduce generational drift.
 

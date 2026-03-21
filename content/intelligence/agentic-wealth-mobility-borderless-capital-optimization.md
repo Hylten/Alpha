@@ -149,9 +149,7 @@ Dynamic pacing of capital calls.
 
 The RL agent calculates that optimal deployment requires a four stage draw sequence instead of two.
 
-This reduces the liquidity drag for UHNW participants by
-
-17 percent.
+This reduces the liquidity drag for UHNW participants by 17 percent.
 
 It also creates a more efficient transfer pricing profile for the MiFID II participants.
 
@@ -217,9 +215,7 @@ Reinforcement Learning must not be allowed to amplify volatility or pursue hyper
 
 A steward oriented model requires that RL engines incorporate constraints rooted in scriptural principles such as
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which emphasizes generational responsibility.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which emphasizes generational responsibility.
 
 In practical terms, the stewardship filter mandates four things.
 

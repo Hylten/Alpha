@@ -169,9 +169,7 @@ Three stewardship pillars guide the institutional framework:
 
 Non wasteful deployment Capital is allocated only into environments where operational intelligence is sufficient to predict asset behavior with precision.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22emphasizes generational resource preservation.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22emphasizes generational resource preservation.
 
 Stewardship aligns with rigorous selection logic that protects capital from misallocation.
 

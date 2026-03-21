@@ -175,9 +175,7 @@ Data is evaluated on its own merit.
 
 This aligns with the ethics presented in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which highlight continuity, responsibility, and long horizon capital logic.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which highlight continuity, responsibility, and long horizon capital logic.
 
 3.
 

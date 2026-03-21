@@ -151,9 +151,7 @@ It is the recognition that capital entrusted must be directed toward productive 
 
 Theological principles reinforce this posture.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states that a good person leaves an inheritance for future generations.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states that a good person leaves an inheritance for future generations.
 
 In institutional practice this means:
 

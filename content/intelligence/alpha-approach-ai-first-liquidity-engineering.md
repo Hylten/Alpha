@@ -201,9 +201,7 @@ Institutional capital that operates without stewardship generates systemic volat
 
 Stewardship applies to both resource based assets and capital based architectures.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22defines stewardship as multi generational preparation.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22defines stewardship as multi generational preparation.
 
 In Asset-Backed Frameworks, this manifests as multi horizon calibration.
 

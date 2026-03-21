@@ -27,9 +27,7 @@ This briefing defines a Principal-level framework for autonomous capital systems
 
 It outlines the operational doctrine that governs Fund-III scale deployments, with a mandate aligned to
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22: A good man leaves an inheritance to his children’s children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22: A good man leaves an inheritance to his children’s children.
 
 THE MANDAT E
 
@@ -409,9 +407,7 @@ It protects the capital from erosion.
 
 It ensures that the proverb applies:
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22applies as mandate, not metaphor.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22applies as mandate, not metaphor.
 
 Legacy becomes an engineered outcome, not a hope.
 

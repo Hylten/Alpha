@@ -159,9 +159,7 @@ It is the avoidance of waste, mispricing, and unnecessary operational drag.
 
 Capital stewardship is fundamentally a function of order.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes the principle that properly governed capital extends value across generations.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the principle that properly governed capital extends value across generations.
 
 AI first migration strengthens stewardship disciplines through:
 

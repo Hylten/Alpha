@@ -19,9 +19,7 @@ Frictionless.
 
 The firms that master high‑frequency liquidity structuring will govern the next chapter of private capital flow.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22states: A good man leaves an inheritance to his children’s children.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states: A good man leaves an inheritance to his children’s children.
 
 In modern capital architecture, inheritance is not wealth.
 
@@ -293,9 +291,7 @@ Families that fail to build it will become liquidity takers.
 
 Families that build it will become liquidity generators.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22echoes again: long-term inheritance is infrastructure.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22echoes again: long-term inheritance is infrastructure.
 
 Systems.
 

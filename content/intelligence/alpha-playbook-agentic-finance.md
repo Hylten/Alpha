@@ -191,9 +191,7 @@ The allocator that manages both with precision demonstrates stewardship.
 
 This aligns with the principle in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which establishes the multi generational responsibility of capital custodianship.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which establishes the multi generational responsibility of capital custodianship.
 
 The stewardship filter evaluates:
 

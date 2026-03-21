@@ -175,9 +175,7 @@ It is a theological position on capital that prioritizes clarity, proportionalit
 
 The relevant principle is found in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22which frames the concept of generational continuity.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22which frames the concept of generational continuity.
 
 Stewardship is not passive.
 

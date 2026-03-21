@@ -37,9 +37,7 @@ This regime shift is reinforced by three conditions measurable across 2024 throu
 
 1.
 
-A 34 to
-
-48 percent reduction in bank participation across early stage and mid tier borrowing bases in healthcare services.
+A 34 to 48 percent reduction in bank participation across early stage and mid tier borrowing bases in healthcare services.
 
 2.
 
@@ -165,9 +163,7 @@ Poorly deployed capital destroys velocity and undermines balance sheet integrity
 
 Well deployed capital compounds access, resilience, and operational capacity.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22identifies the principle of multi generational resource management.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22identifies the principle of multi generational resource management.
 
 In capital markets, this translates to disciplined underwriting, transparent collateral governance, and liquidity architectures that do not erode future optionality.
 

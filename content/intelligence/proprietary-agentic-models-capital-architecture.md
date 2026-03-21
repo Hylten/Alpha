@@ -5,9 +5,7 @@ date: "2025-08-09" author: "Roials-Alpha"
 slug: "proprietary-agentic-models-capital-architecture"
 ---
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 Institutional capital architecture is entering a terminal phase shift.
 

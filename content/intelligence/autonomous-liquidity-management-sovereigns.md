@@ -117,9 +117,7 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within th
 
 The role is not capital deployment.
 
-The role is structural interpretation and institutional
-
-INTRODUCTION .
+The role is structural interpretation and institutional INTRODUCTION .
 
 Sovereign allocators require clarity on three areas:
 
@@ -155,9 +153,7 @@ Sovereigns adopt these architectures not for yield maximization but for liquidit
 
 The operational core is grounded in principles articulated across theological traditions including the resource management ethic of
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 This filter ensures that capital allocation avoids waste, supports productive real assets, and maintains transparent alignment between resource flows and societal obligations.
 

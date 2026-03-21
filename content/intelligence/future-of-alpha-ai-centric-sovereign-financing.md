@@ -163,9 +163,7 @@ It is the management of resources without waste.
 
 It requires clarity, order, and measured deployment.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22establishes stewardship as multi generational capital architecture, and AI centric systems reinforce this discipline by eliminating emotional drift from capital allocation.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes stewardship as multi generational capital architecture, and AI centric systems reinforce this discipline by eliminating emotional drift from capital allocation.
 
 The stewardship filter consists of three evaluative dimensions.
 

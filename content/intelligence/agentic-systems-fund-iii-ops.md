@@ -139,9 +139,7 @@ It identifies four critical insights.
 
 - Institutional Liquidity Paths potential is strong.
 
-The agentic system models a
-
-22 percent improvement in cash predictability if the working capital structure is reorganized.
+The agentic system models a 22 percent improvement in cash predictability if the working capital structure is reorganized.
 
 The system generates a pre diligence signal score of eighty seven out of one hundred.
 
@@ -231,9 +229,7 @@ Only humans carry principal authority.
 
 Ethical Integrity Layer Systems operate under
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
 
 They must protect generational capital rather than chase superficial returns.
 

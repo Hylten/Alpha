@@ -95,9 +95,7 @@ is not distribution.
 
 THE MANDAT E
 
-is structural alignment and precision of institutional
-
-INTRODUCTION .
+is structural alignment and precision of institutional INTRODUCTION .
 
 The partnership model is defined by three pillars.
 
@@ -139,9 +137,7 @@ Capital assigned without precision erodes institutional integrity.
 
 Capital structured with intentionality reinforces sustainability and multi generational continuity.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22defines stewardship as multi generational allocation.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22defines stewardship as multi generational allocation.
 
 The integration of AI into Asset-Backed Frameworks ensures that resources are deployed with integrity, clarity, and long term accountability.
 
