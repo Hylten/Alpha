@@ -1,10 +1,9 @@
 ---
 title: "Agentic Infrastructure for Global Capital Markets"
 description: "Advanced liquidity architecture for private credit and asset based liquidity engineering, engineered for HNWI and UHNW capital optimization."
-date: "2025-09-25"
-author: "Jonas Hyltén"
+date: "2025-09-25" author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-global-capital-markets"
---- 
+---
 
 # Agentic Infrastructure for Global Capital Markets Roials-Alpha operates in the territory where liquidity becomes engineering
 
@@ -116,7 +115,7 @@ It filters speculative behavior.
 
 It restricts the service to clients who treat digital assets as structured components of a broader portfolio, not as isolated speculative exposures.
 
-The agentic 
+The agentic
 
 # Layer M: onitors collateral in real time
 
@@ -346,11 +345,9 @@ The client interacts with a seamless surface.
 
 Beneath that surface is a complex, multi agent, multi asset, high velocity liquidity engine designed for the upper stratum of global capital holders.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Capital Requires Infrastructure Modern portfolios require a mechanical layer.
+: Capital Requires Infrastructure Modern portfolios require a mechanical layer.
 
 A layer that interprets assets with precision.
 

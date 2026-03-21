@@ -1,10 +1,9 @@
 ---
 title: "Agentic Alpha: The AI-Orchestrated Future of Crypto-Backed liquidity engineering"
 description: "High-liquidity AI Asset-Backed Frameworks infrastructure built on private credit and asset-based Capital Structuring for HNWI and UHNW borrowers."
-date: "2025-10-20"
-author: "Jonas Hyltén"
+date: "2025-10-20" author: "Jonas Hyltén"
 slug: "agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering"
---- 
+---
 
 # Agentic Alpha: AI-Orchestrated Crypto-Backed Capital Structuring The new liquidity class is not human driven
 
@@ -50,11 +49,9 @@ At Roials Alpha, agentic underwriting is not a bolt on feature.
 
 It is the foundation.
 
-The AI 
+The AI
 
-# Layer C
-
-ontinuously scans collateral velocity, market depth, liquidity fragmentation, borrow capacity, and exposure deltas across crypto, private credit, and Asset-Based Lending.
+# Layer C ontinuously scans collateral velocity, market depth, liquidity fragmentation, borrow capacity, and exposure deltas across crypto, private credit, and Asset-Based Lending.
 
 It runs without fatigue.
 
@@ -130,13 +127,9 @@ It ensures our models operate in predictable liquidity zones.
 
 The agentic layer analyzes:
 
-• Float concentration
+• Float concentration • Borrow rates
 
-• Borrow rates
-
-• Institutional ownership
-
-• Bid ask health
+• Institutional ownership • Bid ask health
 
 • Market microstructure shifts
 
@@ -170,25 +163,17 @@ Our agentic system interprets private credit positions through lenses that inclu
 
 • Cash flow durability
 
-• Covenant elasticity
+• Covenant elasticity • Market comparables
 
-• Market comparables
-
-• Recovery modeling
-
-• Borrower obligation sequencing
+• Recovery modeling • Borrower obligation sequencing
 
 • Counterparty stability scoring For Asset-Based Lending, the system evaluates:
 
 • Asset liquidation curves
 
-• Secondary marketability
+• Secondary marketability • Depreciation gradients
 
-• Depreciation gradients
-
-• Inventory velocity
-
-• Forward demand projections This is not a checklist.
+• Inventory velocity • Forward demand projections This is not a checklist.
 
 It is a continuous computation cycle.
 
@@ -312,7 +297,7 @@ Private credit is the foundation.
 
 Asset-Based Lending is the stabilizer.
 
-The agentic 
+The agentic
 
 ### Layer I: s the orchestrator
 

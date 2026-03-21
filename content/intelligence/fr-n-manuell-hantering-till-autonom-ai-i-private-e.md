@@ -294,6 +294,4 @@ Det är precis här OpenClaw Sverige positionerar sig som en ledande aktör.
 
 
 
-## Diskret uppmaning
-
-För Private Equity-aktörer som vill utforska hur autonoma agentiska arbetsflöden kan användas i sina transaktioner, portföljbolag och operativa processer finns möjlighet att boka rådgivning via OpenClaw Sverige.
+## Diskret uppmaning För Private Equity-aktörer som vill utforska hur autonoma agentiska arbetsflöden kan användas i sina transaktioner, portföljbolag och operativa processer finns möjlighet att boka rådgivning via OpenClaw Sverige.

@@ -1,10 +1,9 @@
 ---
 title: "AI-First Private Credit: The Silent Infrastructure of Next-Generation Liquidity"
 description: "Explore how AI-first private credit and asset based liquidity engineering unlock institutional-grade liquidity for HNWI and UHNW portfolios."
-date: "2025-11-18"
-author: "Jonas Hyltén"
+date: "2025-11-18" author: "Jonas Hyltén"
 slug: "ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity"
---- 
+---
 
 # The Future of AI-First Private Credit The private credit arena is entering a structural rewrite
 
@@ -374,11 +373,9 @@ Capital becomes flexible, intelligent, and always available.
 
 This is the design language of next-generation wealth architecture.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- The future of private credit belongs to those who understand the mechanics beneath the surface.
+The future of private credit belongs to those who understand the mechanics beneath the surface.
 
 AI-first systems are rewriting the rules.
 

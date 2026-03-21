@@ -1,8 +1,7 @@
 ---
 title: "Automatiserad IT‑support för små och medelstora verksamheter"
 description: "En djupgående genomgång av hur automatiserad IT‑support och agentiska arbetsflöden kan stärka små och medelstora svenska verksamheter."
-date: "2026-02-02"
-author: "OpenClaw Sverige"
+date: "2026-02-02" author: "OpenClaw Sverige"
 slug: "automatiserad-it-support-sma-medelstora-verksamheter"
 ---
 
@@ -170,9 +169,7 @@ Trender som redan nu påverkar området:
 
 Detta visar att automatiserad IT‑support kommer att bli en integrerad och strategisk del av hur verksamheter organiserar sin tekniska infrastruktur.
 
-## Sammanfattning
-
-Automatiserad IT‑support erbjuder en strukturerad och robust väg framåt för svenska små och medelstora verksamheter som behöver en stabil och kostnadseffektiv IT‑miljö. Genom tekniker som OpenClaw och agentiska arbetsflöden kan verksamheter hantera ökad komplexitet utan att belasta organisationen med ytterligare personal eller akuta konsultinsatser.
+## Sammanfattning Automatiserad IT‑support erbjuder en strukturerad och robust väg framåt för svenska små och medelstora verksamheter som behöver en stabil och kostnadseffektiv IT‑miljö. Genom tekniker som OpenClaw och agentiska arbetsflöden kan verksamheter hantera ökad komplexitet utan att belasta organisationen med ytterligare personal eller akuta konsultinsatser.
 
 Central nytta uppstår genom:
 

@@ -1,8 +1,7 @@
 ---
 title: "Automatisera arbetsmiljöuppföljning i små och medelstora företag"
 description: "En fördjupande genomgång av hur arbetsmiljöuppföljning kan automatiseras med hjälp av artificiell intelligens och agentiska arbetsflöden, med fokus på svenska små och medelstora företag."
-date: "2026-01-29"
-author: "OpenClaw Sverige"
+date: "2026-01-29" author: "OpenClaw Sverige"
 slug: "automatisera-arbetsmiljouppfoljning"
 ---
 
@@ -189,9 +188,7 @@ Detta gör det möjligt att:
 
 På så sätt blir arbetsmiljöuppföljningen en strategisk resurs snarare än ett krav.
 
-## Avslutande reflektion
-
-Automatisering av arbetsmiljöuppföljning innebär inte att de mänskliga aspekterna försvinner. Tvärtom förstärker automatiseringen möjligheten att arbeta mer mänskligt, mer närvarande och mer långsiktigt. Genom att låta agentiska arbetsflöden hantera insamling, analys och dokumentation frigörs tid för dialog, förbättringsarbete och fördjupade samtal.
+## Avslutande reflektion Automatisering av arbetsmiljöuppföljning innebär inte att de mänskliga aspekterna försvinner. Tvärtom förstärker automatiseringen möjligheten att arbeta mer mänskligt, mer närvarande och mer långsiktigt. Genom att låta agentiska arbetsflöden hantera insamling, analys och dokumentation frigörs tid för dialog, förbättringsarbete och fördjupade samtal.
 
 För små och medelstora företag i Sverige innebär detta en möjlighet att skapa ett mer stabilt, transparent och kontinuerligt arbetsmiljöarbete utan att bygga upp omfattande administrativa strukturer. Tekniken blir ett stöd, inte en ersättning, för det ansvar och den omtanke som definierar en god arbetsmiljö.
 

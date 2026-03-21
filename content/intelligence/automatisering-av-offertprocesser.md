@@ -1,8 +1,7 @@
 ---
 title: "Automatisering av offertprocesser med moderna arbetsflöden"
 description: "En fördjupad genomgång av hur svenska små och medelstora företag kan effektivisera sina offertprocesser med AI och agentiska arbetsflöden."
-date: "2026-03-07"
-author: "OpenClaw Sverige"
+date: "2026-03-07" author: "OpenClaw Sverige"
 slug: "automatisering-av-offertprocesser"
 ---
 
@@ -176,9 +175,7 @@ Utvecklingen pekar tydligt mot att allt fler administrativa processer kommer att
 
 Det är därför troligt att automatiserad offertgenerering blir en central del av affärsstyrningen i de flesta små och medelstora företag.
 
-## Sammanfattning
-
-Automatisering av offertprocesser är inte en trend utan en naturlig utveckling av hur moderna företag organiserar sitt arbete. För små och medelstora företag i Sverige erbjuder AI och plattformar som OpenClaw ett sätt att skapa strukturer, frigöra tid och säkerställa kvalitet. Med agentiska arbetsflöden blir processen stabil, transparent och skalbar.
+## Sammanfattning Automatisering av offertprocesser är inte en trend utan en naturlig utveckling av hur moderna företag organiserar sitt arbete. För små och medelstora företag i Sverige erbjuder AI och plattformar som OpenClaw ett sätt att skapa strukturer, frigöra tid och säkerställa kvalitet. Med agentiska arbetsflöden blir processen stabil, transparent och skalbar.
 
 Automatiseringen innebär inte att det mänskliga perspektivet försvinner. Snarare frigörs tid för det arbete där mänsklig kompetens gör störst nytta, samtidigt som kunderna får bättre, tydligare och snabbare svar.
 

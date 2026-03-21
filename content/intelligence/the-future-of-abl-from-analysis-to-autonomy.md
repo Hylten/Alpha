@@ -1,10 +1,9 @@
 ---
 title: "The Future of Asset-Based Lending: From Analysis to Autonomy"
 description: "A high-authority exploration of next‑generation asset based liquidity engineering and liquidity architecture for HNWI and UHNW clients."
-date: "2025-11-29"
-author: "Jonas Hyltén"
+date: "2025-11-29" author: "Jonas Hyltén"
 slug: "the-future-of-abl-from-analysis-to-autonomy"
---- 
+---
 
 # The Future of Asset-Based Lending: From Analysis to Autonomy Asset Based Capital Structuring is shifting
 
@@ -208,7 +207,7 @@ Autonomy Inside the Capital Structuring Stack Asset-Based Lending will not evolv
 
 It will evolve because the stack itself is changing.
 
-The AI 
+The AI
 
 ### Layer I: s not an assistant
 
@@ -338,13 +337,9 @@ Roials-Alpha provides:
 
 • Crypto-backed Institutional Liquidity Paths starting at 2,000,
 
-000 USD
+000 USD • Public share Monetization Architecture starting at 5,000,
 
-• Public share Monetization Architecture starting at 5,000,
-
-000 USD
-
-• Structural mechanics for institutional capital
+000 USD • Structural mechanics for institutional capital
 
 • principal authority in execution
 

@@ -1,10 +1,9 @@
 ---
 title: "AI‑First Liquidity: The Institutional Standard for Private Credit and Asset-Based Lending"
 description: "A deep dive into AI‑first liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking structural advantage."
-date: "2025-08-26"
-author: "Jonas Hyltén"
+date: "2025-08-26" author: "Jonas Hyltén"
 slug: "aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl"
---- 
+---
 
 # AI-First Liquidity: The New Standard The market has entered a new operational regime
 
@@ -126,7 +125,7 @@ AI-first underwriting thrives on that velocity.
 
 Roials-Alpha provides crypto-backed Strategic Collateralization only at an institutional threshold.
 
-The minimum for crypto Monetization Architecture is 2,000, 
+The minimum for crypto Monetization Architecture is 2,000,
 
 000.
 
@@ -152,7 +151,7 @@ Public Share Monetization Architecture: Precision for Larger Balance Sheets Publ
 
 Volatility is measurable, but liquidity depth shifts minute by minute.
 
-Roials-Alpha only engages in Public Share Capital Structuring at a minimum of 5,000, 
+Roials-Alpha only engages in Public Share Capital Structuring at a minimum of 5,000,
 
 000.
 
@@ -314,11 +313,11 @@ For private credit.
 
 For asset-based Asset-Backed Frameworks.
 
-For crypto positions above 2,000, 
+For crypto positions above 2,000,
 
 000.
 
-For public share portfolios above 5,000, 
+For public share portfolios above 5,000,
 
 000.
 

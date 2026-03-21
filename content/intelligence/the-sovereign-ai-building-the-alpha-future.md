@@ -1,10 +1,9 @@
 ---
 title: "The Sovereign AI: Building the Alpha Future"
 description: "A deep analysis of sovereign-grade AI, private credit, and asset-based liquidity engineering structures engineered for liquidity at scale."
-date: "2025-07-08"
-author: "Jonas Hyltén"
+date: "2025-07-08" author: "Jonas Hyltén"
 slug: "the-sovereign-ai-building-the-alpha-future"
---- 
+---
 
 # The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept
 

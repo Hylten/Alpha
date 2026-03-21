@@ -1,8 +1,7 @@
 ---
 title: "Agentiska arbetsflöden i praktiken för svenska företag"
 description: "En fördjupad genomgång av hur agentiska arbetsflöden kan införas i svenska små och medelstora företag med stöd av OpenClaw."
-date: "2026-01-28"
-author: "OpenClaw Sverige"
+date: "2026-01-28" author: "OpenClaw Sverige"
 slug: "agentiska-arbetsfloden-i-praktiken"
 ---
 
@@ -210,9 +209,7 @@ För organisationer som står inför ett möjligt införande kan följande rekom
 
 Genom ett metodiskt arbetssätt skapas en hållbar och trygg automatisering.
 
-## Sammanfattning
-
-Agentiska arbetsflöden är ett konkret verktyg för att stärka ordning, effektivitet och förutsägbarhet i svenska små och medelstora företag. De ersätter inte mänskligt omdöme men tar bort repetitiva moment som annars belastar organisationen. Med hjälp av OpenClaw blir tekniken tillgänglig och hanterbar, även för företag utan egna utvecklingsresurser.
+## Sammanfattning Agentiska arbetsflöden är ett konkret verktyg för att stärka ordning, effektivitet och förutsägbarhet i svenska små och medelstora företag. De ersätter inte mänskligt omdöme men tar bort repetitiva moment som annars belastar organisationen. Med hjälp av OpenClaw blir tekniken tillgänglig och hanterbar, även för företag utan egna utvecklingsresurser.
 
 Det viktigaste är inte tekniken i sig, utan den struktur och kontinuitet som arbetsflödena skapar. När agenterna tar hand om det standardiserade får personalen möjlighet att fokusera på det som verkligen kräver deras expertis.
 

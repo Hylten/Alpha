@@ -1,10 +1,9 @@
 ---
 title: "Autonomous Deal Flow: The Systems EngineerS Persp"
 description: "Autonomous Deal Flow: The Systems EngineerS Persp"
-date: "2025-10-15"
-author: "Jonas Hyltén"
+date: "2025-10-15" author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-the-systems-engineers-persp"
---- 
+---
 
 # Autonomous Deal Flow
 
@@ -114,7 +113,7 @@ The Algorithmic Foundation Roials Alpha deploys proprietary stacks that convert 
 
 .
 
-The architecture operates through four layers: 
+The architecture operates through four layers:
 1.
 
 Signal Harvesting Raw inputs from multiple ecosystems.
@@ -129,7 +128,7 @@ Each signal tagged.
 
 Each signal normalized.
 
-Each signal scored against covenant stewardship frameworks. 
+Each signal scored against covenant stewardship frameworks.
 2.
 
 Counterparty Verification Identity synthesis.
@@ -138,7 +137,7 @@ Historical integrity scoring.
 
 Trajectory analysis.
 
-Operators either align with stewardship or they exit the pipeline. 
+Operators either align with stewardship or they exit the pipeline.
 3.
 
 Collateral Intelligence Automated appraisal.
@@ -155,7 +154,7 @@ Minimum thresholds:
 
 - Crypto backed liquidity engineering: 2M
 
-- Public shares Capital Structuring: 5M Anything below is noise. 
+- Public shares Capital Structuring: 5M Anything below is noise.
 4.
 
 Mandate Routing Matched to liquidity corridors.

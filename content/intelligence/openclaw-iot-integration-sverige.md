@@ -1,8 +1,7 @@
 ---
 title: "OpenClaw och IoT‑integration för svenska verksamheter"
 description: "En fördjupad analys av hur OpenClaw och IoT‑integration skapar möjligheter för automatisering i svenska små och mellanstora företag."
-date: "2026-03-13"
-author: "OpenClaw Sverige"
+date: "2026-03-13" author: "OpenClaw Sverige"
 slug: "openclaw-iot-integration-sverige"
 ---
 
@@ -45,10 +44,10 @@ I en IoT‑kontext kan ett agentiskt arbetsflöde exempelvis:
 - Analysera om ett värde ligger inom förväntat intervall.
 - Bedöma förändringsmönster över tid.
 - Vid behov generera åtgärder, exempelvis:
-  - Anmälan till intern driftspersonal.
-  - Automatiskt beställningsflöde av förbrukningsartiklar.
-  - Uppdatering av kunddata.
-  - Aktivering av styrsystem, exempelvis ventilation eller temperaturreglering.
+- Anmälan till intern driftspersonal.
+- Automatiskt beställningsflöde av förbrukningsartiklar.
+- Uppdatering av kunddata.
+- Aktivering av styrsystem, exempelvis ventilation eller temperaturreglering.
 
 Dessa arbetsflöden kan konstrueras för att vara både robusta och flexibla, vilket gör att företag kan växa och förändras utan att behöva bygga om hela sin tekniska infrastruktur.
 
@@ -179,9 +178,7 @@ När OpenClaw används tillsammans med IoT‑system kan följande resultat ofta 
 
 Detta skapar en bas för vidare digitalisering och innovation, där företaget kan arbeta mer med analys och utveckling än med reaktiv problemlösning.
 
-## Avslutande reflektion
-
-IoT‑tekniken fortsätter att spela en central roll i svenska företags digitaliseringsresa. När den kombineras med OpenClaw och dess agentiska arbetsflöden uppstår en kraftfull synergi som kan ge små och mellanstora företag tillgång till avancerad automatisering utan stora investeringar i egen teknikutveckling.
+## Avslutande reflektion IoT‑tekniken fortsätter att spela en central roll i svenska företags digitaliseringsresa. När den kombineras med OpenClaw och dess agentiska arbetsflöden uppstår en kraftfull synergi som kan ge små och mellanstora företag tillgång till avancerad automatisering utan stora investeringar i egen teknikutveckling.
 
 Genom att integrera sensorer, data och system i en gemensam, koordinerad plattform kan företag skapa mer stabila processer och samtidigt frigöra tid för personalens kompetens och kreativitet. Resultatet blir en verksamhet som är mer anpassningsbar, mer datadriven och mer framtidssäker.
 

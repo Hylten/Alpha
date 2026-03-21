@@ -268,9 +268,7 @@ Detta minskar risker, förbättrar lönsamhet och stärker konkurrenskraften bå
 
 
 
-## Sammanfattning
-
-Implementeringen av autonoma agentiska arbetsflöden i svenska redovisningsbyråer är en resa som kräver noggrannhet, teknisk förståelse och en djup förankring i branschens realiteter.
+## Sammanfattning Implementeringen av autonoma agentiska arbetsflöden i svenska redovisningsbyråer är en resa som kräver noggrannhet, teknisk förståelse och en djup förankring i branschens realiteter.
 
 Den mest framgångsrika modellen följer dessa steg:
 

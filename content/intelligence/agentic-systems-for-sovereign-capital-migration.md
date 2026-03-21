@@ -1,10 +1,9 @@
 ---
 title: "Agentic Systems for Sovereign Capital Migration"
 description: "High‑precision liquidity engineering using private credit and asset based Strategic Collateralization structures for HNWI and UHNW capital velocity."
-date: "2025-10-02"
-author: "Jonas Hyltén"
+date: "2025-10-02" author: "Jonas Hyltén"
 slug: "agentic-systems-for-sovereign-capital-migration"
---- 
+---
 
 # Agentic Systems for Sovereign Capital Migration The architecture of global wealth is shifting
 
@@ -76,7 +75,7 @@ It is structural.
 
 It is the movement of wealth into systems that cannot be frozen, manipulated, or slowed.
 
-Agentic systems accomplish this through three mechanical processes. 
+Agentic systems accomplish this through three mechanical processes.
 1.
 
 Asset Interpretation Layer This layer reads every asset for what it is, not what a market calls it.
@@ -85,14 +84,12 @@ It interprets yield potential, off-book exposure, liquidity depth, and volatilit
 
 Assets are converted into machine readable risk objects.
 
-Once an asset becomes a risk object, it becomes actionable. 
+Once an asset becomes a risk object, it becomes actionable.
 2.
 
-Liquidity Extraction Layer This 
+Liquidity Extraction Layer This
 
-# Layer D
-
-etermines how much liquidity can be safely unlocked without degrading asset integrity.
+# Layer D etermines how much liquidity can be safely unlocked without degrading asset integrity.
 
 It uses multi vector assessments that include collateral stress, market conditions, price velocity, and liquidation thresholds.
 
@@ -100,7 +97,7 @@ The output is precise, not approximate.
 
 The system does not negotiate.
 
-It calculates. 
+It calculates.
 3.
 
 Migration and Deployment Layer The extracted liquidity is then routed into targeted use cases.
@@ -149,11 +146,11 @@ Why Thresholds Matter Our [Capital Structuring]([Roials Capital](https://roialsc
 
 .
 
-Crypto Asset-Backed Frameworks starts at 2,000, 
+Crypto Asset-Backed Frameworks starts at 2,000,
 
 000.
 
-Public Share Monetization Architecture begins at 5,000, 
+Public Share Monetization Architecture begins at 5,000,
 
 000.
 

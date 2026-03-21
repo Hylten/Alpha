@@ -1,8 +1,7 @@
 ---
 title: "AI för smartare inköp i svenska små och medelstora företag"
 description: "En fördjupad genomgång av hur AI och agentiska arbetsflöden från OpenClaw kan effektivisera inköpsprocesser i svenska små och medelstora företag."
-date: "2026-03-01"
-author: "OpenClaw Sverige"
+date: "2026-03-01" author: "OpenClaw Sverige"
 slug: "ai-for-smartare-inkop"
 ---
 
@@ -179,9 +178,7 @@ Framtida utveckling väntas innebära:
 
 Tekniken är redan tillgänglig, men organisationskulturen och arbetssätten behöver ofta anpassas stegvis för att nyttan ska realiseras fullt ut.
 
-## Sammanfattning
-
-AI gör det möjligt för svenska små och medelstora företag att skapa en inköpsfunktion som är mer datadriven, transparent och förutsägbar. Genom agentiska arbetsflöden kan uppgifter som tidigare varit manuella och tidskrävande automatiseras på ett sammanhängande sätt. Det innebär en förbättrad kontroll över kostnader, minskad risk i leverantörskedjan och effektivare förhandlingar.
+## Sammanfattning AI gör det möjligt för svenska små och medelstora företag att skapa en inköpsfunktion som är mer datadriven, transparent och förutsägbar. Genom agentiska arbetsflöden kan uppgifter som tidigare varit manuella och tidskrävande automatiseras på ett sammanhängande sätt. Det innebär en förbättrad kontroll över kostnader, minskad risk i leverantörskedjan och effektivare förhandlingar.
 
 OpenClaw erbjuder en plattform som gör denna typ av automatisering tillgänglig även för mindre organisationer. Resultatet är en inköpsprocess som är både mer stabil och mer professionell, samtidigt som den minskar den administrativa belastningen och höjer kvaliteten i alla beslut.
 

@@ -1,10 +1,9 @@
 ---
 title: "Agentic Infrastructure: The New Architecture Beyond Buy, Borrow, Die"
 description: "HNWI and UHNW liquidity engineered through private credit and Asset-Based Lending. Roials-Alpha structures institutional-grade leverage in an AI-first world."
-date: "2025-07-26"
-author: "Jonas Hyltén"
+date: "2025-07-26" author: "Jonas Hyltén"
 slug: "agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die"
---- 
+---
 
 # Agentic Infrastructure: Redefining Buy, Borrow, Die for the AI Era The traditional Buy, Borrow, Die cycle was built for slower markets, manual decision-making, and a world where leverage structures took weeks to architect
 
@@ -150,9 +149,7 @@ The result is crypto Asset-Backed Frameworks without the chaos, engineered for s
 
 Public Share Monetization Architecture for Strategic Portfolios Public equity positions above 5,000
 
-,
-
-000 dollars unlock an entirely different layer of functionality.
+, 000 dollars unlock an entirely different layer of functionality.
 
 At this scale, public shares behave less like speculative holdings and more like tradable collateral with deep liquidity and high transparency.
 

@@ -1,8 +1,7 @@
 ---
 title: "AI i svensk logistik: Strategier för effektivisering i små och medelstora företag"
 description: "En genomgripande och lugnt hållen genomgång av hur AI och agentiska arbetsflöden förändrar svensk logistik och ger små och medelstora företag nya verktyg för automatisering."
-date: "2026-02-15"
-author: "OpenClaw Sverige"
+date: "2026-02-15" author: "OpenClaw Sverige"
 slug: "ai-i-svensk-logistik"
 ---
 
@@ -149,9 +148,7 @@ Svensk logistik kommer under de kommande åren att påverkas av förändrade tra
 
 Omställningen kommer inte att ske genom snabba tekniska språng utan genom ett successivt införande av mer datadrivna processer. Agentiska arbetsflöden kommer att spela en central roll i denna omvandling, genom att avlasta personal och skapa en mer resilient logistikstruktur.
 
-## Sammanfattning
-
-AI har gått från att vara ett framtidsbegrepp till att bli en stabil och nödvändig funktion inom svensk logistik. För små och medelstora företag innebär detta möjlighet till mer förutsägbara processer, lägre kostnader och ett mer sammanhållet informationsflöde. Plattformar som OpenClaw ger dessa företag tillgång till avancerade automatiseringsverktyg utan krav på omfattande tekniska investeringar.
+## Sammanfattning AI har gått från att vara ett framtidsbegrepp till att bli en stabil och nödvändig funktion inom svensk logistik. För små och medelstora företag innebär detta möjlighet till mer förutsägbara processer, lägre kostnader och ett mer sammanhållet informationsflöde. Plattformar som OpenClaw ger dessa företag tillgång till avancerade automatiseringsverktyg utan krav på omfattande tekniska investeringar.
 
 Den som arbetar systematiskt med att införa AI i lagerstyrning, transportoptimering, kommunikation och riskhantering kan skapa en mer flexibel och hållbar logistikstruktur. Denna utveckling sker inte i ett snabbt tempo, utan genom genomtänkta steg där varje arbetsflöde byggs med tydlig funktion och mätbar effekt.
 

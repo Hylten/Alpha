@@ -1,10 +1,9 @@
 ---
 title: "The Proprietary Path to Autonomous Capital"
 description: "A high-authority exploration of Roials-Alpha liquidity structures, private credit, and asset based liquidity engineering engineered for HNWI and UHNW capital autonomy."
-date: "2025-06-24"
-author: "Jonas Hyltén"
+date: "2025-06-24" author: "Jonas Hyltén"
 slug: "the-proprietary-path-to-autonomous-capital"
---- 
+---
 
 # The Proprietary Path to Autonomous Capital Capital is no longer passive
 
@@ -108,9 +107,7 @@ Our frameworks specialize in:
 
 • Crypto Monetization Architecture with a minimum threshold of 2,000,
 
-000
-
-• Public share Asset-Backed Frameworks with a minimum threshold of 5,000,
+000 • Public share Asset-Backed Frameworks with a minimum threshold of 5,000,
 
 000 These are not retail structures.
 
@@ -160,7 +157,7 @@ Public Share Monetization Architecture at Scale Equity positions represent convi
 
 Selling is rarely the strategic move.
 
-Roials-Alpha structures Capital Structuring against public share positions with a minimum threshold of 5,000, 
+Roials-Alpha structures Capital Structuring against public share positions with a minimum threshold of 5,000,
 
 000.
 

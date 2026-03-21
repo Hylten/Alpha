@@ -1,10 +1,9 @@
 ---
 title: "The Future of Institutional Alpha via AI"
 description: "A deep analysis of how AI-driven private credit and asset-based liquidity engineering unlock next-generation liquidity for HNWI and UHNW capital."
-date: "2026-02-24"
-author: "Jonas Hyltén"
+date: "2026-02-24" author: "Jonas Hyltén"
 slug: "the-future-of-institutional-alpha-via-ai"
---- 
+---
 
 # The Future of Institutional Alpha via AI Institutional alpha is migrating
 
@@ -138,7 +137,7 @@ Crypto Capital Structuring with Institutional Precision Crypto Institutional Liq
 
 Our position is different.
 
-We lend against crypto with a minimum threshold of 2,000, 
+We lend against crypto with a minimum threshold of 2,000,
 
 000.
 
@@ -172,7 +171,7 @@ They punish volatility and ignore cross-asset stabilization.
 
 Roials-Alpha uses an AI-weighted collateral model that evaluates your share portfolio with precision.
 
-We lend against public equities with a minimum of 5,000, 
+We lend against public equities with a minimum of 5,000,
 
 000.
 

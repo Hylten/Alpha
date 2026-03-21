@@ -1,10 +1,9 @@
 ---
 title: "Agentic Infrastructure AI First"
 description: "Insights on Agentic Infrastructure AI First from Roials Capital and Hyltén Invest."
-date: "2025-09-12"
-author: "Jonas Hyltén"
+date: "2025-09-12" author: "Jonas Hyltén"
 slug: "agentic-infrastructure-ai-first"
---- 
+---
 
 # Agentic Infrastructure AI First Roials Alpha Edition The Shift to Autonomous Operations Every industry is hitting the same wall
 
@@ -148,7 +147,7 @@ Once the business logic becomes machine readable, autonomy becomes inevitable.
 
 The New Operational Hierarchy Modern enterprises have three invisible layers
 
-. 
+.
 
 ### Layer I: Human Workflows Cluttered
 
@@ -158,7 +157,7 @@ Slow.
 
 Dependent on tribal knowledge and siloed processes.
 
-Fragile under scale. 
+Fragile under scale.
 
 ### Layer II: Scripted autonomous infrastructure Useful
 
@@ -168,7 +167,7 @@ Cheap.
 
 Limited.
 
-Breaks under real-world complexity. 
+Breaks under real-world complexity.
 
 ### Layer III: Agentic Infrastructure This is the leap
 
@@ -184,9 +183,7 @@ End to end autonomy.
 
 This layer replaces manual intervention.
 
-It replaces 
-
-70 percent of routine operations.
+It replaces 70 percent of routine operations.
 
 It eliminates the bottleneck of human interpretation.
 
@@ -258,7 +255,7 @@ Agents make decisions within defined constraints.
 
 This protects businesses from the chaos of unrestricted autonomy.
 
-The Oversight 
+The Oversight
 
 # Layer M: eta agents evaluate the work of other agents
 
@@ -368,11 +365,9 @@ They reduce rework.
 
 They reduce delays.
 
-Speed AGENTS OPERAT
+Speed AGENTS OPERAT E
 
-E
-
- continuously.
+continuously.
 
 Tasks move in parallel.
 
@@ -438,9 +433,7 @@ Agents track compliance.
 
 Agents coordinate with internal systems.
 
-Engineering Agents test
-
-.
+Engineering Agents test .
 
 Agents deploy.
 

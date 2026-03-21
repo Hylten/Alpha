@@ -1,10 +1,9 @@
 ---
 title: "The Proprietary Model for Automated Asset Hardening"
 description: "High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based [Asset-Backed Frameworks](https://hylten.github.io/ROIALS CAPITAL/). Automated asset hardening for institutional grade capital efficiency."
-date: "2026-02-21"
-author: "Jonas Hyltén"
+date: "2026-02-21" author: "Jonas Hyltén"
 slug: "the-proprietary-model-for-automated-asset-hardening"
---- 
+---
 
 # The Proprietary Model for Automated Asset Hardening Roials-Alpha operates in a space that few understand and even fewer can architect
 
@@ -18,7 +17,7 @@ We design the mechanics.
 
 You retain the advantage.
 
-The Architecture Behind Automated Asset Hardening Automated Asset Hardening is our internal term for a multi 
+The Architecture Behind Automated Asset Hardening Automated Asset Hardening is our internal term for a multi
 
 # Phase C: onversion cycle
 
@@ -176,7 +175,7 @@ Crypto Strategic Collateralization at Institutional Scale Our crypto Strategic C
 
 .
 
-Minimum threshold is 2,000, 
+Minimum threshold is 2,000,
 
 000.
 
@@ -200,7 +199,7 @@ Public Share Capital Structuring for High Complexity Portfolios Public equity po
 
 They are algorithmically transparent but operationally unstable in volatile markets.
 
-Our minimum threshold here is 5,000, 
+Our minimum threshold here is 5,000,
 
 000.
 

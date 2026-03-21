@@ -1,8 +1,7 @@
 ---
 title: "AI som strategiskt stöd i svenska exportföretag"
 description: "En fördjupad genomgång av hur AI och agentiska arbetsflöden stödjer automatisering i små och medelstora svenska exportföretag."
-date: "2026-03-16"
-author: "OpenClaw Sverige"
+date: "2026-03-16" author: "OpenClaw Sverige"
 slug: "ai-i-svenska-exportforetag"
 ---
 
@@ -158,9 +157,7 @@ När svenska exportföretag börjar använda AI som en integrerad del av sin ver
 
 För exportföretag som vill fortsätta vara relevanta på globala marknader är denna utveckling inte en trend, utan en del av ett nytt konkurrenslandskap.
 
-## Slutsats
-
-Små och medelstora svenska exportföretag står inför ett behov av att stärka sin digitala förmåga. Genom att arbeta med AI och agentiska arbetsflöden skapas möjligheter att automatisera återkommande moment, förbättra kvaliteten i informationshanteringen och få mer stabila processer över tid. Verktyg som OpenClaw gör det möjligt att genomföra denna typ av modernisering utan omfattande tekniska resurser.
+## Slutsats Små och medelstora svenska exportföretag står inför ett behov av att stärka sin digitala förmåga. Genom att arbeta med AI och agentiska arbetsflöden skapas möjligheter att automatisera återkommande moment, förbättra kvaliteten i informationshanteringen och få mer stabila processer över tid. Verktyg som OpenClaw gör det möjligt att genomföra denna typ av modernisering utan omfattande tekniska resurser.
 
 Det handlar inte om att ersätta mänskliga arbetsinsatser, utan om att skapa strukturer som gör att organisationen kan fokusera på strategiska uppgifter och relationer som bygger långsiktig konkurrenskraft.
 

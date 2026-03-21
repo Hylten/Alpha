@@ -1,8 +1,7 @@
 ---
 title: "OpenClaw i industrimiljöer: Automatisering för små och medelstora företag"
 description: "En fördjupad analys av hur OpenClaw stärker automatisering, datastruktur och agentiska arbetsflöden i svenska industrimiljöer."
-date: "2026-02-05"
-author: "OpenClaw Sverige"
+date: "2026-02-05" author: "OpenClaw Sverige"
 slug: "openclaw-i-industrimiljoer"
 ---
 
@@ -222,9 +221,7 @@ Svenska industriföretag står inför en omställning där datadrivna beslut, au
 
 Detta skapar en mer resilient verksamhet där förändringar kan hanteras utan att störa den dagliga driften.
 
-## Sammanfattning
-
-OpenClaw ger små och medelstora svenska industriföretag möjlighet att på ett kontrollerat och kostnadseffektivt sätt utveckla sin digitala infrastruktur. Genom att kombinera strukturerad datahantering, agentiska arbetsflöden och smidiga integrationslösningar kan företagen:
+## Sammanfattning OpenClaw ger små och medelstora svenska industriföretag möjlighet att på ett kontrollerat och kostnadseffektivt sätt utveckla sin digitala infrastruktur. Genom att kombinera strukturerad datahantering, agentiska arbetsflöden och smidiga integrationslösningar kan företagen:
 
 - minska administrativ belastning
 - höja kvalitetssäkringen

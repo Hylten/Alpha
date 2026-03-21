@@ -1,10 +1,9 @@
 ---
 title: "Proprietary Agentic Models"
 description: "Insights on Proprietary Agentic Models from Roials Capital and Hyltén Invest."
-date: "2025-11-10"
-author: "Jonas Hyltén"
+date: "2025-11-10" author: "Jonas Hyltén"
 slug: "proprietary-agentic-models"
---- 
+---
 
 # Proprietary Agentic Models Roials-Alpha Edition Proprietary agentic models define the next era of autonomous computation
 
@@ -292,7 +291,7 @@ The pipeline remains stable.
 
 The Agentic Stack: Roials-Alpha Structure Roials-Alpha architecture is built as a stack, not a patchwork
 
-. 
+.
 
 ### Layer I: Cognitive Core The reasoning engine
 
@@ -300,7 +299,7 @@ The Agentic Stack: Roials-Alpha Structure Roials-Alpha architecture is built as 
 
 The internal loops.
 
-The identity. 
+The identity.
 
 ### Layer II: Memory Grid Context persistence
 
@@ -308,7 +307,7 @@ The identity.
 
 Long horizon objectives.
 
-Role stability. 
+Role stability.
 
 ### Layer III: Agency Engine Planner
 
@@ -316,7 +315,7 @@ Role stability.
 
 Evaluator.
 
-Self correction cycle. 
+Self correction cycle.
 
 ### Layer IV: Action Layer Tool calls
 
@@ -324,7 +323,7 @@ Self correction cycle.
 
 Execution paths.
 
-Operational commands. 
+Operational commands.
 
 ### Layer V: Governance Layer Permissions
 
@@ -476,11 +475,9 @@ Not conceptual.
 
 Operating entities with internal structure and external impact.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Proprietary agentic models represent the next frontier of computational capability.
+Proprietary agentic models represent the next frontier of computational capability.
 
 They think.
 

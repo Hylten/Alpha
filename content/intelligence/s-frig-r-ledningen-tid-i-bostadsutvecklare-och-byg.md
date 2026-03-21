@@ -140,9 +140,9 @@ Detta gör dem relevanta i branscher där förutsättningarna ändras dagligen.
 
 OpenClaw Sverige bygger alla lösningar på tre principer:
 
-- Lokalt anpassad implementation  
-- Säker och kontrollerad infrastruktur  
-- Branschspecifik förståelse för bygg- och bostadsekosystemet  
+- Lokalt anpassad implementation
+- Säker och kontrollerad infrastruktur
+- Branschspecifik förståelse för bygg- och bostadsekosystemet
 
 Företag i bygg- och bostadsutveckling arbetar med komplexa projekt som kräver robusta processer och korrekt hantering av data.
 

@@ -1,10 +1,9 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing"
 description: "A high authority analysis on AI driven liquidity, private credit, and Asset-Based Lending mechanics for HNWI and UHNW capital optimization."
-date: "2025-11-05"
-author: "Jonas Hyltén"
+date: "2025-11-05" author: "Jonas Hyltén"
 slug: "the-future-of-alpha-ai-centric-sovereign-financing"
---- 
+---
 
 # The Future of Alpha: AI Centric Sovereign Financing The next era of wealth creation will not be negotiated across conference tables
 
@@ -290,19 +289,19 @@ Asset based Capital Structuring.
 
 High threshold crypto and public share Capital Structuring.
 
-Each 
+Each
 
 ### Pillar I: s governed by AI
 
 .
 
-Each 
+Each
 
 ### Pillar I:
 
 s structured to give clients leverage at institutional scale.
 
-Each 
+Each
 
 ### Pillar I: s kept intentionally quiet
 

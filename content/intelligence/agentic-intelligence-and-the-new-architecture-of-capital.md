@@ -1,10 +1,9 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Capital"
 description: "A high‑end technical analysis of liquidity engines, private credit structures, and asset based liquidity engineering for HNWI and UHNW seeking institutional grade capital architecture."
-date: "2026-02-12"
-author: "Jonas Hyltén"
+date: "2026-02-12" author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-new-architecture-of-capital"
---- 
+---
 
 # Agentic Intelligence and the New Architecture of Capital Agentic Intelligence is not a concept
 

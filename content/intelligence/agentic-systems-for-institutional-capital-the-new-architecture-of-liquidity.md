@@ -1,10 +1,9 @@
 ---
 title: "Agentic Systems for Institutional Capital: The New Architecture of Liquidity"
 description: "A deep technical insight into agentic systems that accelerate liquidity, private credit, and asset based liquidity engineering for institutional-grade capital."
-date: "2025-07-19"
-author: "Jonas Hyltén"
+date: "2025-07-19" author: "Jonas Hyltén"
 slug: "agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity"
---- 
+---
 
 # Agentic Systems for Institutional Capital Institutional capital has outgrown conventional infrastructure
 
@@ -58,7 +57,7 @@ This is the backbone of our architecture.
 
 Institutional capital is most when it is collateralized against assets that are real, quantifiable, and consistently valued.
 
-The agentic 
+The agentic
 
 # Layer C: alculates exposure
 
@@ -76,9 +75,7 @@ The outcome is a continuous liquidity band that can be Access is restricted to a
 
 Minimum mandate depth: $5M+ target size.
 
-High Net Worth
-
-.
+High Net Worth .
 
 Ultra High Net Worth.
 
@@ -132,7 +129,7 @@ They also produce collateral that traditional lenders mishandle or misinterpret.
 
 Roials-Alpha applies agentic analysis to digital asset collateral, ensuring clarity around margin, stability, and liquidation behavior.
 
-Our minimum threshold for crypto Capital Structuring is 2,000, 
+Our minimum threshold for crypto Capital Structuring is 2,000,
 
 000.
 
@@ -152,7 +149,7 @@ The majority of desks cannot model multi-factor risk with the precision required
 
 Roials-Alpha uses agentic frameworks to evaluate public share blocks with institutional rigor.
 
-Our minimum threshold for public share Strategic Collateralization is 5,000, 
+Our minimum threshold for public share Strategic Collateralization is 5,000,
 
 000.
 

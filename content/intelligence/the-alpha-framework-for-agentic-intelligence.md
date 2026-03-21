@@ -1,10 +1,9 @@
 ---
 title: "The Alpha Framework for Agentic Intelligence"
 description: "A deep technical exploration of Roials-Alpha and its liquidity architecture across private credit and asset based liquidity engineering."
-date: "2026-01-07"
-author: "Jonas Hyltén"
+date: "2026-01-07" author: "Jonas Hyltén"
 slug: "the-alpha-framework-for-agentic-intelligence"
---- 
+---
 
 # The Alpha Framework for Agentic Intelligence Roials-Alpha exists for one reason
 
@@ -24,10 +23,10 @@ We operate where leverage, custody, and credit modelling converge into real powe
 
 Our minimum thresholds reflect that reality.
 
-Crypto Capital Structuring begins at 
+Crypto Capital Structuring begins at
 2 million USD.
 
-Public share Institutional Liquidity Paths begins at 
+Public share Institutional Liquidity Paths begins at
 5 million USD.
 
 Everything below this level belongs to consumer markets.
@@ -46,13 +45,11 @@ The Alpha Framework is not designed for the mass market.
 
 The minimums exist because the system requires scale.
 
-A 
-2 million dollar crypto liquidity facility behaves differently from a 
+A 2 million dollar crypto liquidity facility behaves differently from a
 
 200 thousand dollar liquidity facility.
 
-A 
-5 million dollar public share Monetization Architecture position behaves differently from a micro portfolio.
+A 5 million dollar public share Monetization Architecture position behaves differently from a micro portfolio.
 
 Scale produces liquidity inertia.
 
@@ -182,7 +179,7 @@ All without the drag that traditional lenders impose.
 
 Crypto Capital Structuring at Institutional Scale Crypto Monetization Architecture begins at
 
- 
+
 2 million USD for a reason.
 
 Below that threshold the volatility signal is too chaotic.
@@ -207,8 +204,8 @@ This is structural.
 
 Public Share Institutional Liquidity Paths at
 
- 
-5 Million Minimum Equity portfolios above 
+
+5 Million Minimum Equity portfolios above
 5 million USD behave differently from retail portfolios.
 
 They move with market depth rather than market noise.
@@ -295,11 +292,9 @@ This is where the industry is heading.
 
 Roials-Alpha is building the infrastructure early.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- The Alpha Framework for Agentic Intelligence is not a trend.
+The Alpha Framework for Agentic Intelligence is not a trend.
 
 It is an architectural shift in how high net worth and ultra high net worth capital behaves.
 

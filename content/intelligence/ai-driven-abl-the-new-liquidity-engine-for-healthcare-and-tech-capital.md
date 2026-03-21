@@ -1,10 +1,9 @@
 ---
 title: "AI-Driven Asset-Based Lending: The New Liquidity Engine for Healthcare and Tech Capital"
 description: "AI-driven asset based liquidity engineering and private credit solutions for HNWI and UHNW, engineered to unlock deep liquidity in healthcare and technology portfolios."
-date: "2025-11-10"
-author: "Jonas Hyltén"
+date: "2025-11-10" author: "Jonas Hyltén"
 slug: "ai-driven-abl-the-new-liquidity-engine-for-healthcare-and-tech-capital"
---- 
+---
 
 # AI-Driven Asset-Based Lending for Healthcare and Tech The Institutional Mechanics Behind Intelligent Liquidity Roials-Alpha operates inside a narrow spectrum of capital intelligence
 

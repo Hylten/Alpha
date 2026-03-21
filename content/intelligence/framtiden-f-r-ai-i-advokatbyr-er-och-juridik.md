@@ -232,9 +232,7 @@ Den förvaltas och utvecklas.
 Och det innebär att advokatbyråer får en pålitlig och trygg väg in i den autonoma juridikens era.
 
 
-## Slutsats
-
-Framtiden för juridik är varken helt mänsklig eller helt teknisk.
+## Slutsats Framtiden för juridik är varken helt mänsklig eller helt teknisk.
 
 Den är hybrid.
 

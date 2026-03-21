@@ -1,10 +1,9 @@
 ---
 title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"
 description: "A high-authority exploration of AI powered liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW clients seeking structural capital advantages."
-date: "2025-08-31"
-author: "Jonas Hyltén"
+date: "2025-08-31" author: "Jonas Hyltén"
 slug: "the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital"
---- 
+---
 
 # The Sovereign AI Bank: Building the Digital Infrastructure of Capital The future of wealth is not managed, it is computed
 
@@ -206,9 +205,7 @@ The Sovereign AI Bank provides:
 
 • On chain and off chain collateral fusion
 
-• Silent underwriting
-
-• AI driven credit orchestration
+• Silent underwriting • AI driven credit orchestration
 
 • Autonomous risk management The infrastructure is the differentiator.
 
@@ -278,11 +275,9 @@ It replaces negotiation with architecture.
 
 It replaces dependence with principal authority.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : The Next Epoch of Wealth Infrastructure HNWI and UHNW clients are entering a new epoch of financial autonomy.
+: The Next Epoch of Wealth Infrastructure HNWI and UHNW clients are entering a new epoch of financial autonomy.
 
 Not independence from the system.
 

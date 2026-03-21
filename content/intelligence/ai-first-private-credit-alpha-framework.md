@@ -1,10 +1,9 @@
 ---
 title: "AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending Liquidity"
 description: "Institutional blueprint for AI‑driven private credit, algorithmic collateral intelligence, and end‑to‑end autonomous Asset-Based Lending underwriting for UHNW/HNW family offices and Fund-III architectures."
-date: "2025-12-12"
-author: "Jonas Roials"
+date: "2025-12-12" author: "Jonas Roials"
 slug: "ai-first-private-credit-alpha-framework"
---- 
+---
 
 The shift is already underway.
 
@@ -96,11 +95,9 @@ That lattice becomes computable.
 
 Once computable, it becomes weaponized for alpha.
 
-- Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
- 
-
- : “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
+- Proverbs 13:22: “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
 
 The Alpha Framework is an institutional harvesting engine.
 
@@ -435,7 +432,7 @@ Valuation drives liquidity.
 Liquidity drives return.
 
 The entire stack operates under a single mandate: remove friction.
- Human error. Negotiation lag. Emotional drift. Committee hesitation. Memory bias.
+Human error. Negotiation lag. Emotional drift. Committee hesitation. Memory bias.
 
 Legacy procedure.
 

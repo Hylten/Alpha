@@ -1,10 +1,9 @@
 ---
 title: "Agentic Infrastructure for Cross‑Border Assets: The New Liquidity Architecture for Private Capital"
 description: "High-end analysis on liquidity infrastructure, private credit, and asset based liquidity engineering for global HNWI and UHNW portfolios. Roials‑Alpha enables institutional-grade cross-border leverage."
-date: "2025-08-07"
-author: "Jonas Hyltén"
+date: "2025-08-07" author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
---- 
+---
 
 # Agentic Infrastructure for Cross-Border Assets Liquidity is no longer a passive outcome of wealth
 
@@ -210,7 +209,7 @@ Public Share Monetization Architecture for the Ultra Capital Holder Public equit
 
 But using them for liquidity, especially cross‑border, is still a high friction event.
 
-Our minimum threshold for public share Monetization Architecture is 5,000, 
+Our minimum threshold for public share Monetization Architecture is 5,000,
 
 000.
 
@@ -320,13 +319,13 @@ Custodial coordination.
 
 Each layer reduces friction.
 
-Each 
+Each
 
 ### Layer I: ncreases precision
 
 .
 
-Each 
+Each
 
 # Layer C: ompounds liquidity control
 
