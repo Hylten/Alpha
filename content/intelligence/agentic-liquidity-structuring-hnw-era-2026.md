@@ -249,7 +249,9 @@ Stewardship, Gnosjö, and technical excellence form a triad that elevates the ca
 
 5.
 
-CONCLUSION : STRUCTURAL CLOSURE Agentic deals represent the next stage of institutional grade capital engineering.
+**Conclusion**
+
+: STRUCTURAL CLOSURE Agentic deals represent the next stage of institutional grade capital engineering.
 
 They offer UHNW principals, private equity funds, and global family offices a faster, more precise, and more sovereign method of structuring acquisitions, liquidity environments, and cross border compliance systems.
 

@@ -307,7 +307,7 @@ We see the next
 
 Roials-Alpha is already operating there.
 
-CONCLUSION
+**Conclusion**
 
 The new frontier of capital is not defined by who has the most assets.
 

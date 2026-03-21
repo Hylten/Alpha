@@ -478,7 +478,9 @@ It aligns with THE MANDAT
 E of long-term stewardship.
 15.
 
-CONCLUSION The Principal’s Future Capital is no longer static wealth
+**Conclusion**
+
+The Principal’s Future Capital is no longer static wealth
 
 .
 

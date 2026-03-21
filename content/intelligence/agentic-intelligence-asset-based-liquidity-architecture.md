@@ -493,7 +493,9 @@ Agentic systems operationalize it.
 
 - In
 
-CONCLUSION , the architecture is clear: agentic intelligence will rewrite asset-based lending.
+**Conclusion**
+
+, the architecture is clear: agentic intelligence will rewrite asset-based lending.
 
 Not by digitizing underwriting, but by replacing it.
 

@@ -377,7 +377,7 @@ This is infrastructure.
 
 The Buy Borrow Die strategy becomes executable at a level that human teams simply cannot match.
 
-CONCLUSION
+**Conclusion**
 
 : Agentic Liquidity Is the New Alpha Layer Buy Borrow Die is .
 

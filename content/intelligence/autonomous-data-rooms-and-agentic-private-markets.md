@@ -159,7 +159,9 @@ No shared parameters.
 
 Each reaches its own
 
-CONCLUSION .
+**Conclusion**
+
+.
 
 When four out of five agents agree, the room establishes a provisional truth-state.
 

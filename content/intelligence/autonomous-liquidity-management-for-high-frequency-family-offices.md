@@ -173,7 +173,7 @@ Predictable.
 
 Dominant.
 
-CONCLUSION
+**Conclusion**
 
 High-frequency Family Offices require liquidity systems that match their operational rhythm.
 

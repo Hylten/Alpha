@@ -307,7 +307,9 @@ In this context, technical edge includes:
 
 - Recapitalization modeling for UHNW liquidity planning These elements create the competitive distance necessary to secure proprietary positions and to avoid the dilution of returns caused by hyper competitive auction environments.
 
-CONCLUSION Autonomous deal flow is not a trend.
+**Conclusion**
+
+Autonomous deal flow is not a trend.
 
 It is the new structural foundation for any firm deploying capital in 2026 across mid market buyouts, energy infrastructure assets, MiFID II regulated platforms, and UHNW liquidity structures.
 

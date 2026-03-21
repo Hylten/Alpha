@@ -275,7 +275,7 @@ It replaces negotiation with architecture.
 
 It replaces dependence with principal authority.
 
-CONCLUSION
+**Conclusion**
 
 : The Next Epoch of Wealth Infrastructure HNWI and UHNW clients are entering a new epoch of financial autonomy.
 

@@ -247,7 +247,9 @@ Autonomy must enhance transparency, not obscure it.
 
 Capital Structuring must follow the moral clarity that capital stewardship demands.
 
-CONCLUSION Autonomous systems are redefining private credit by removing friction, accelerating underwriting, transforming collateral into modular liquidity streams, and enabling dynamic yield structures.
+**Conclusion**
+
+Autonomous systems are redefining private credit by removing friction, accelerating underwriting, transforming collateral into modular liquidity streams, and enabling dynamic yield structures.
 
 This shift will determine the competitive frontier for private equity Fund-III investment opportunities
 

@@ -345,7 +345,7 @@ Asset based Asset-Backed Frameworks optimized by real-time AI.
 
 This is the liquidity architecture that HNWI and UHNW capital has been waiting for.
 
-CONCLUSION
+**Conclusion**
 
 AI is not assisting asset-based finance.
 

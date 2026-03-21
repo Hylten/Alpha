@@ -83,7 +83,7 @@ The firms with agentic architecture win.
 
 The firms without it compete for leftovers.
 
-CONCLUSION
+**Conclusion**
 
 Autonomous deal flow is not an upgrade.
 

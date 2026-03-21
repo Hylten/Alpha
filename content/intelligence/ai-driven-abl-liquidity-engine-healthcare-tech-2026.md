@@ -276,7 +276,9 @@ It provides mid market operators with institutional intelligence without institu
 
 5.
 
-CONCLUSION AI driven Asset-Based Lending is not an incremental improvement.
+**Conclusion**
+
+AI driven Asset-Based Lending is not an incremental improvement.
 
 It is a structural redefinition of how healthcare and technology assets are transformed into liquidity.
 

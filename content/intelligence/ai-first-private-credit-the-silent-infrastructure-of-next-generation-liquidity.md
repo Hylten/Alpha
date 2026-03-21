@@ -373,7 +373,7 @@ Capital becomes flexible, intelligent, and always available.
 
 This is the design language of next-generation wealth architecture.
 
-CONCLUSION
+**Conclusion**
 
 The future of private credit belongs to those who understand the mechanics beneath the surface.
 

@@ -311,7 +311,7 @@ Agentic intelligence provides that path.
 
 Roials-Alpha provides the implementation.
 
-CONCLUSION
+**Conclusion**
 
 Agentic intelligence is not a trend.
 
