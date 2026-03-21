@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems and the New Architecture of Private Equity Dealflow"
 description: "Institutional briefing on agentic architectures, AI-first capital routing, and the operational intelligence reshaping private equity acquisition velocity for UHNWIs, Family Offices, and private credit allocators."
-date: "2025-09-22" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-09-22" author: "Roials Capital (Institutional Briefing)"
 slug: "agentic-systems-private-equity-dealflow-architecture"
 ---
 

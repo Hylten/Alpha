@@ -79,7 +79,7 @@ It is the future operating system of institutional finance.
 
 Roials-Alpha designs that system.
 
-CONCLUSIO N
+CONCLUSION
 
 Autonomous deal flow is the natural evolution of private Strategic Collateralization, asset-based structures, and institutional-grade Monetization Architecture.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Asset-Based Lending: Predictive Liquidity Models for Institutional Precision"
 description: "A technical briefing on the regime shift redefining asset based lending, driven by algorithmic visibility, predictive liquidity engines, and institutional grade balance sheet intelligence."
-date: "2025-11-18" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-11-18" author: "Roials Capital (Institutional Briefing)"
 slug: "future-of-abl-predictive-liquidity-models"
 ---
 

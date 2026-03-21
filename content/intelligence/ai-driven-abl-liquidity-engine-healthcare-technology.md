@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset-Based Lending as the New Liquidity Engine for Healthcare and Technology Capital Markets"
 description: "Institutional briefing on algorithmic asset based lending, liquidity engineering, and AI enabled credit architectures reshaping balance sheet structures for healthcare and technology operators across North America."
-date: "2026-02-03" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-02-03" author: "Roials Capital (Institutional Briefing)"
 slug: "ai-driven-abl-liquidity-engine-healthcare-technology"
 ---
 

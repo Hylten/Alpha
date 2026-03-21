@@ -1,7 +1,7 @@
 ---
 title: "Predictive Modeling for Liquidity Engineering Against Volatile Crypto Assets: The Roials Alpha Framework"
 description: "Institutional briefing on predictive risk mechanics, Capital Structuring, and AI driven balance sheet optimization for allocators navigating crypto volatility regimes."
-date: "2026-01-03" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-01-03" author: "Roials Capital (Institutional Briefing)"
 slug: "predictive-liquidity-engineering-crypto-volatility-roials-alpha"
 ---
 

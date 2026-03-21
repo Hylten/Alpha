@@ -1,7 +1,7 @@
 ---
 title: "MiFID II Liquidity Constraints and the Institutional Architecture of Next-Generation Deal Flow"
 description: "Analytical briefing on MiFID II liquidity fragmentation, order flow bifurcation, technical execution constraints, and the strategic alignment between AI-led credit structuring and European regulatory mechanics."
-date: "2025-06-30" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-06-30" author: "Roials Capital (Institutional Briefing)"
 slug: "mifid-ii-liquidity-constraints-analysis"
 ---
 

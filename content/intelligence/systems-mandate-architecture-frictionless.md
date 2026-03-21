@@ -1,7 +1,7 @@
 ---
 title: "The Systems Mandate: Architecture for Frictionless Institutional Execution"
 description: "A high density institutional briefing on AI first credit architecture, algorithmic deal flow, and the strategic systems mandate reshaping private capital operations for UHNWIs and family offices."
-date: "2025-07-21" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-07-21" author: "Roials Capital (Institutional Briefing)"
 slug: "systems-mandate-architecture-frictionless"
 ---
 

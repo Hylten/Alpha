@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the Future of Asset Based Lending: How AI Driven Credit Systems Redefine Liquidity"
 description: "Institutional briefing on the structural transition toward agentic credit systems, automated collateral intelligence, and balance sheet optimization in next generation private credit architecture."
-date: "2025-10-22" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-10-22" author: "Roials Capital (Institutional Briefing)"
 slug: "agentic-intelligence-future-asset-based-lending"
 ---
 

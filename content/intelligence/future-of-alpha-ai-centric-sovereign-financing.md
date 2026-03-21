@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing and the Reconfiguration of Institutional Capital Architecture"
 description: "Technical briefing on the AI governed sovereign credit landscape, liquidity engineering, and the ascent of machine mediated capital allocation frameworks across UHNW and institutional mandates."
-date: "2025-10-10" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-10-10" author: "Roials Capital (Institutional Briefing)"
 slug: "future-of-alpha-ai-centric-sovereign-financing"
 ---
 

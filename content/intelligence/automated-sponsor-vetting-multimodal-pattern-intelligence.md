@@ -293,7 +293,7 @@ At times, structuring through Roials Capital provides the necessary depth for in
 
 The link is architectural, not hierarchical: Roials-Alpha feeds.
 
-ROIALS CAPITAL structures.
+Roials Capital structures.
 
 Fund-III deploys.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Proprietary Path to Autonomous Capital"
 description: "Institutional briefing on autonomous capital architectures, algorithmic deal orchestration, and the operational mechanics behind AI-driven credit origination for UHNW family offices seeking non-correlated private markets exposure with institutional-grade governance."
-date: "2025-11-16" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-11-16" author: "Roials Capital (Institutional Briefing)"
 slug: "proprietary-path-to-autonomous-capital"
 ---
 

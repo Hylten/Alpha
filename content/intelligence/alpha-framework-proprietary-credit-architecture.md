@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Framework: Engineering Proprietary Credit Architecture for Institutional-Grade Velocity"
 description: "A clinical analysis of algorithmic credit origination, liquidity engineering, and proprietary capital frameworks designed for UHNW allocators and institutional private credit platforms."
-date: "2026-02-05" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-02-05" author: "Roials Capital (Institutional Briefing)"
 slug: "alpha-framework-proprietary-credit-architecture"
 ---
 

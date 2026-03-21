@@ -1,7 +1,7 @@
 ---
 title: "The Future of Asset-Based Lending: Prompting the Liquidity Spider"
 description: "An institutional analysis of next-generation Asset Based Lending architecture, AI-driven credit mapping, and strategic liquidity engineering frameworks for allocators evaluating structural opportunities in North American private credit."
-date: "2025-09-27" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-09-27" author: "Roials Capital (Institutional Briefing)"
 slug: "future-of-abl-liquidity-spider"
 ---
 

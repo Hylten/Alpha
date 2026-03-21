@@ -253,7 +253,7 @@ Institutional intelligence requires institutional‑grade clients.
 
 This is the domain of Roials‑Alpha.
 
-CONCLUSIO N
+CONCLUSION
 
 : The New Alpha Is Autonomous The market will continue to reward those who build structural advantages.
 

@@ -354,7 +354,7 @@ Portfolios stop being static.
 
 They become programmable.
 
-CONCLUSIO N
+CONCLUSION
 
 AI driven liquidity is not optional for large scale actors.
 

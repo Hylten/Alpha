@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Liquidity Architecture for Institutional Sovereigns: A Technical Framework for Capital Efficiency and Cross Jurisdictional Precision"
 description: "A clinical analysis of AI coordinated liquidity systems, institutional balance sheet engineering, and sovereign grade capital routing. Focus on algorithmic credit structuring, operational intelligence, and the emerging regime of autonomous capital architectures."
-date: "2026-03-09" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-03-09" author: "Roials Capital (Institutional Briefing)"
 slug: "ai-driven-liquidity-architecture-institutional-sovereigns"
 ---
 

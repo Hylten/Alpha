@@ -1,7 +1,7 @@
 ---
 title: "AI-First Liquidity Architecture: Institutional Design Principles for Asset-Based Finance in 2026"
 description: "A clinical analysis of AI-driven credit mechanics, liquidity engineering, and the structural redesign of asset-based finance for HNWI and UHNW allocators."
-date: "2025-07-14" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-07-14" author: "Roials Capital (Institutional Briefing)"
 slug: "ai-first-liquidity-architecture-asset-based-finance"
 ---
 

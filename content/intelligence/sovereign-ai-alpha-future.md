@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign AI: Building the Alpha Future Through Institutional-Grade Computational Infrastructure"
 description: "A technical intelligence briefing on AI driven credit architecture, algorithmic deal flow, and sovereign level capital optimization frameworks for UHNWIs and institutional allocators."
-date: "2026-01-13" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-01-13" author: "Roials Capital (Institutional Briefing)"
 slug: "sovereign-ai-alpha-future"
 ---
 

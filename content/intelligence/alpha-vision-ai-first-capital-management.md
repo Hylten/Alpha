@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Vision for AI First Capital Management: Institutional Architecture, Algorithmic Deal Flow, and the Elimination of Human Friction"
 description: "A high density institutional briefing on the emergence of AI governed capital frameworks, algorithmic credit architectures, and sovereign grade operational stacks for UHNW and institutional allocators navigating next generation private markets."
-date: "2025-10-12" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-10-12" author: "Roials Capital (Institutional Briefing)"
 slug: "alpha-vision-ai-first-capital-management"
 ---
 
@@ -113,7 +113,7 @@ AI Driven Portfolio Calibration Once the architecture stabilizes, the system run
 
 This evolves into a discipline where rebalancing is not based on market speculation but on structural imbalances detected by the system.
 
-THE PARTNERSHIP MODEL AND ROLE OF ROIALS CAPITAL Roials Capital operates as a strategic navigator within this environment.
+THE PARTNERSHIP MODEL AND ROLE OF Roials Capital Roials Capital operates as a strategic navigator within this environment.
 
 THE MANDAT E
 

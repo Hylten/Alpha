@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Approach to AI First Liquidity Engineering: Institutional Mechanics for the Next Liquidity Class"
 description: "A high density institutional briefing on AI first credit architecture, algorithmic deal flow, and the structural evolution of Strategic Collateralization for UHNW allocators and private credit platforms."
-date: "2025-08-23" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-08-23" author: "Roials Capital (Institutional Briefing)"
 slug: "alpha-approach-ai-first-liquidity-engineering"
 ---
 

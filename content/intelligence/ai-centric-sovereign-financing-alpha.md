@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing and the Institutional Reordering of Global Credit"
 description: "A high density institutional briefing on the structural realignment of sovereign finance, the rise of AI driven credit architectures, and the emergence of algorithmic deal flow as the dominant source of non correlated alpha for UHNW allocators."
-date: "2025-09-13" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-09-13" author: "Roials Capital (Institutional Briefing)"
 slug: "ai-centric-sovereign-financing-alpha"
 ---
 
@@ -142,7 +142,7 @@ It delivers a risk architecture that adapts to the behavior of the sovereign in 
 
 ### Phase III:
 
-THE PARTNERSHIP MODEL: ROIALS CAPITAL AS STRATEGIC NAVIGATOR Roials Capital functions as a strategic navigator and institutional introducer within this new financing paradigm.
+THE PARTNERSHIP MODEL: Roials Capital AS STRATEGIC NAVIGATOR Roials Capital functions as a strategic navigator and institutional introducer within this new financing paradigm.
 
 The firm does not act as a fund manager or sovereign lender.
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset Based Lending Architecture: Institutional Liquidity Engineering for Healthcare and Technology Balance Sheets"
 description: "Institutional briefing on the regime shift toward AI synchronized Asset-Based Lending frameworks, automated collateral intelligence, and next generation credit structuring for healthcare and technology enterprises. Focused on capital efficiency, structural arbitrage, and strategic alignment for UHNW and institutional allocators."
-date: "2026-01-10" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-01-10" author: "Roials Capital (Institutional Briefing)"
 slug: "ai-driven-asset-based-lending-liquidity-engine"
 ---
 

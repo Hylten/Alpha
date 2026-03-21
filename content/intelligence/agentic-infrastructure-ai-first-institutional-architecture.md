@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure as the Primary Operating System for Institutional Capital Architecture"
 description: "A technical briefing on AI-first infrastructure, agentic execution frameworks, and institutional-grade liquidity engineering for family offices and private credit allocators."
-date: "2026-01-19" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-01-19" author: "Roials Capital (Institutional Briefing)"
 slug: "agentic-infrastructure-ai-first-institutional-architecture"
 ---
 

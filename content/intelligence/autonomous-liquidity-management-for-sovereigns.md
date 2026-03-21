@@ -403,7 +403,7 @@ Precise.
 
 Autonomous.
 
-CONCLUSIO N
+CONCLUSION
 
 Sovereign liquidity must be autonomous.
 

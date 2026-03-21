@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Agentic Models for Institutional Credit Architecture"
 description: "A high-density institutional briefing on autonomous deal origination systems, agentic credit intelligence, and the structural transition toward AI-led private credit execution for UHNW family offices."
-date: "2025-06-27" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-06-27" author: "Roials Capital (Institutional Briefing)"
 slug: "proprietary-agentic-models-institutional-credit-architecture"
 ---
 

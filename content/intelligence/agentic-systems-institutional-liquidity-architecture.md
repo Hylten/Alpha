@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Institutional Capital: The New Architecture of Liquidity"
 description: "Institutional briefing on the structural shift toward agentic systems, AI-first credit architecture, and the recalibration of liquidity channels across global private markets."
-date: "2025-09-19" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-09-19" author: "Roials Capital (Institutional Briefing)"
 slug: "agentic-systems-institutional-liquidity-architecture"
 ---
 

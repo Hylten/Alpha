@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: Agentic Infrastructure for Private Credit Dominance"
 description: "Institutional analysis of AI-driven private credit architectures, agentic underwriting systems, algorithmic deal sourcing, and balance sheet optimization frameworks that are reshaping the performance frontier for UHNW and institutional allocators."
-date: "2025-06-22" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-06-22" author: "Roials Capital (Institutional Briefing)"
 slug: "future-of-alpha-agentic-private-credit"
 ---
 

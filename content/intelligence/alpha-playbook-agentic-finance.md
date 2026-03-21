@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Playbook for Agentic Finance: Institutional Navigation in a Machine-Structured Credit Regime"
 description: "A technical briefing on algorithmic liquidity engineering, agentic credit architectures, and the institutional redesign of UHNW family office capital systems. Focus on structural arbitrage, operational intelligence, and the emergence of AI governed balance sheet mechanics."
-date: "2026-02-22" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-02-22" author: "Roials Capital (Institutional Briefing)"
 slug: "alpha-playbook-agentic-finance"
 ---
 

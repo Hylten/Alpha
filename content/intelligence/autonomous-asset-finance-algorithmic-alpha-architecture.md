@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Asset Finance and the Institutional Migration Toward Algorithmic Alpha"
 description: "A technical briefing on the structural transition from human mediated capital deployment to autonomous, data driven credit engines that reshape private credit, asset backed finance, and institutional liquidity engineering."
-date: "2025-07-06" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-07-06" author: "Roials Capital (Institutional Briefing)"
 slug: "autonomous-asset-finance-algorithmic-alpha-architecture"
 ---
 

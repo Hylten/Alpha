@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity: How AI Driven Asset-Based Lending Reshapes the Buy Borrow Die Architecture for Institutional Portfolios"
 description: "A clinical review of AI native asset based lending engines, autonomous credit adjudication, and the structural shift toward perpetual liquidity ecosystems that reinforce the Buy Borrow Die model for UHNW and institutional allocators."
-date: "2026-02-04" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2026-02-04" author: "Roials Capital (Institutional Briefing)"
 slug: "agentic-liquidity-ai-driven-abl-buy-borrow-die"
 ---
 

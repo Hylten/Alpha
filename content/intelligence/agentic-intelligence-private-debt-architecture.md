@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Private Debt"
 description: "Institutional briefing on the structural transition toward agentic credit systems, algorithmic underwriting, and the AI driven transformation of private debt allocation for UHNWIs and institutional LPs."
-date: "2025-07-23" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-07-23" author: "Roials Capital (Institutional Briefing)"
 slug: "agentic-intelligence-private-debt-architecture"
 ---
 

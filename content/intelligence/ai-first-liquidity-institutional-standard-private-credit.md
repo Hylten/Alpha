@@ -1,7 +1,7 @@
 ---
 title: "AI First Liquidity: The Institutional Standard for Private Credit and Asset Based Lending"
 description: "A technical briefing on AI driven credit architecture, balance sheet optimization, and institutional grade liquidity engineering for private credit allocators and family office principals."
-date: "2025-10-18" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-10-18" author: "Roials Capital (Institutional Briefing)"
 slug: "ai-first-liquidity-institutional-standard-private-credit"
 ---
 
@@ -147,7 +147,7 @@ AI first credit is not equivalent to automated lending.
 
 It is precision oriented credit evaluation with institutional oversight preserved at every escalation point.
 
-THE PARTNERSHIP MODEL AND ROIALS CAPITAL POSITIONING Roials Capital functions as a strategic navigator for allocators evaluating AI driven private credit infrastructure.
+THE PARTNERSHIP MODEL AND Roials Capital POSITIONING Roials Capital functions as a strategic navigator for allocators evaluating AI driven private credit infrastructure.
 
 The focus is alignment and clarity, not product distribution.
 

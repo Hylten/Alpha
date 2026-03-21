@@ -1,7 +1,7 @@
 ---
 title: "AI First Capital Migration: Technical Protocols for Institutional Realignment"
 description: "Institutional analysis on AI driven capital migration architectures, balance sheet optimization, and algorithmic credit structures positioned for UHNW allocators and private credit platforms recalibrating toward autonomous infrastructure centric liquidity engineering."
-date: "2025-10-15" author: "ROIALS CAPITAL (Institutional Briefing)"
+date: "2025-10-15" author: "Roials Capital (Institutional Briefing)"
 slug: "ai-first-capital-migration-technical-protocols"
 ---
 

@@ -475,7 +475,7 @@ Not conceptual.
 
 Operating entities with internal structure and external impact.
 
-CONCLUSIO N
+CONCLUSION
 
 Proprietary agentic models represent the next frontier of computational capability.
 
