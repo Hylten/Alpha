@@ -167,9 +167,7 @@ Genom att införa styrda arbetsflöden med automatisk:
 - Kapacitetsfördelning
 - Leveransprioritering
 - Påminnelser
-- Avvikelsehantering
-
-kan byråer reducera koordinationsbördan med 30 till 50 procent.
+- Avvikelsehantering kan byråer reducera koordinationsbördan med 30 till 50 procent.
 
 Det frigör tid för kreativ och strategisk produktion.
 
@@ -184,9 +182,7 @@ Genom att automatisera:
 - Formatstruktur
 - Grafisk sammanställning
 - Jämförelser över tid
-- KPI-avvikelser
-
-elimineras en stor del av den manuella tiden.
+- KPI-avvikelser elimineras en stor del av den manuella tiden.
 
 Det leder även till mer konsekventa rapporter.
 
@@ -229,9 +225,7 @@ Genom att automatisera:
 - Processöversikter
 - Systembehörigheter
 - Introduktionsmaterial
-- Arbetsflödesguider
-
-kan man reducera onboardingtiden drastiskt.
+- Arbetsflödesguider kan man reducera onboardingtiden drastiskt.
 
 Det ökar även kundens upplevelse av professionalism och transparens.
 

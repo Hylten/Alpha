@@ -76,9 +76,7 @@ Istället för att en människa varje dag behöver:
 - jämföra trender
 - fatta beslut
 - informera teamet
-- starta en process
-
-kan ett autonomt arbetsflöde utföra hela kedjan.
+- starta en process kan ett autonomt arbetsflöde utföra hela kedjan.
 
 Det fungerar som en digital roll, tränad för specifika operationella mål, som agerar utifrån företagets egna regler och logik.
 

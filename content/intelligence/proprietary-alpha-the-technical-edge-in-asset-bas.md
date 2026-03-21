@@ -355,9 +355,7 @@ He builds only what serves long term conviction.
 
 This posture keeps Roials-Alpha ahead of competitors who chase aesthetics instead of structure.
 
-Asset Classes and Structural Logi
-
-c Crypto Monetization Architecture (2M minimum) Digital collateral behaves with high tempo
+Asset Classes and Structural Logi c Crypto Monetization Architecture (2M minimum) Digital collateral behaves with high tempo
 
 .
 

@@ -111,9 +111,7 @@ E .
 
 The system executes.
 
-Core functions of the origination engin
-
-e
+Core functions of the origination engin e
 
 - Pattern extraction from unstructured data.
 

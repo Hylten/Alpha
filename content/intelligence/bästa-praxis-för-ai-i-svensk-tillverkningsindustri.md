@@ -55,9 +55,7 @@ Best practice requires a single operational layer where:
 - SCADA outputs
 - MES logs
 - Operator notes
-- Maintenance records
-
-flow into one AI‑readable architecture.
+- Maintenance records flow into one AI‑readable architecture.
 This is where agentic control becomes possible.
 
 ### H3: 3. Use Predictive Models, Not Reactive Dashboards

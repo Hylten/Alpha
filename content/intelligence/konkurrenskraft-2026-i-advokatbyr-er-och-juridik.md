@@ -113,10 +113,7 @@ Det innebär att orkestrera hela sekvenser av juridiskt arbete där ett autonomt
 - Analyserar
 - Strukturerar
 - Verifierar
-- Levererar
-
-
-komplex juridisk output i samspel med människan.
+- Levererar komplex juridisk output i samspel med människan.
 
 
 Det är denna nivå av systematiserad förmåga som skapar konkurrenskraft i 2026.

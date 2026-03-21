@@ -86,9 +86,7 @@ Assets power liquidity algorithms.
 
 Old finance asks: What is the collateral worth today?
 
-AI-first finance asks: What can the collateral become
-
-when probability is optimized?
+AI-first finance asks: What can the collateral become when probability is optimized?
 
 This is the institutional delta.
 

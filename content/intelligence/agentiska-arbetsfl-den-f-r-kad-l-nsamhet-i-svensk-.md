@@ -75,9 +75,7 @@ Genom att digitala agenter kan:
 - synkronisera processer
 - generera harmoniserade rapporter
 - automatisera interna överlämningar och standarder
-- skapa gemensamma kontrollflöden över tidigare isolerade system
-
-kan integration genomföras på veckor istället för år.
+- skapa gemensamma kontrollflöden över tidigare isolerade system kan integration genomföras på veckor istället för år.
 
 Det handlar inte om att ersätta befintliga system.
 Det handlar om att låta digitala agenter fungera som ett autonomt integrationslager och som operativt stöd under och efter förvärv.

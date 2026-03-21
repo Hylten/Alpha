@@ -122,10 +122,7 @@ När ett företag kan demonstrera:
 
 - autonom styrning av kritiska processer
 
-- minskad personberoende
-
-
-uppfattas detta som strukturella fördelar i en due diligence‑process.
+- minskad personberoende uppfattas detta som strukturella fördelar i en due diligence‑process.
 
 Företag som använder lokala AI‑lösningar har i praktiken högre transparens, lägre operationell risk och bättre förutsägbarhet i sin intjäning.
 

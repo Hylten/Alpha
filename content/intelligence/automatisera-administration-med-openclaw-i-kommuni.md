@@ -152,9 +152,7 @@ I dessa M&A-processer spelar administrativa system en central roll. Skillnader i
 - Budgetdisciplin
 - Rapportering
 - Resursplanering
-- Kunduppföljning
-
-kan skapa stora integrationsproblem.
+- Kunduppföljning kan skapa stora integrationsproblem.
 
 Autonoma agentiska arbetsflöden kan här fungera som en enhetlig bas för den gemensamma verksamheten.
 

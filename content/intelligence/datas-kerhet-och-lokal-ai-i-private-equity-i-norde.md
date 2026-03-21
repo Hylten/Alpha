@@ -176,10 +176,7 @@ När en aktör kan garantera att:
 - allt material stannar inom Norden
 - ingenting används för att träna externa modeller
 - inga tredje parter får åtkomst via molnavtal
-- arbetsflöden körs i sluten infrastruktur
-
-
-då blir möjligheten att samarbeta med banker, advokatbyråer och internationella partners betydligt enklare.
+- arbetsflöden körs i sluten infrastruktur då blir möjligheten att samarbeta med banker, advokatbyråer och internationella partners betydligt enklare.
 
 
 Dessa aktörer ställer själva hårda krav på sekretess, och en lokal AI‑plattform som OpenClaw ger dem trygghet i att databehandlingen sker inom en definierad och verifierbar miljö.

@@ -136,9 +136,7 @@ De flesta svenska logistikbolag arbetar i en teknisk miljö där:
 - CRM
 - Transportbokningssystem
 - Planeringsprogram
-- Ekonomisystem
-
-saknar en gemensam realtidslogik.
+- Ekonomisystem saknar en gemensam realtidslogik.
 
 Det innebär att ledningen ständigt måste validera vilken siffra som är korrekt.
 

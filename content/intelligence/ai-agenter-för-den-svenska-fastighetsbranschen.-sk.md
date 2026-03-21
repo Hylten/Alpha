@@ -223,9 +223,7 @@ Inom tre år kommer de flesta större svenska fastighetsbolag att ha:
 - prediktiva underhållsprogram
 - automatiserade hyresgästflöden
 - transaktionsanalyser utan mänsklig bearbetning
-- realtidsoptimering av portföljer
-
-agentiska arbetsflöden är inte nästa steg.
+- realtidsoptimering av portföljer agentiska arbetsflöden är inte nästa steg.
 Det är det nya nuläget.
 
 ## Sammanfattning Ai agenter ger fastighetsägare ett operativt övertag genom att kombinera datadriven precision, autonom exekvering och kontinuerlig optimering.

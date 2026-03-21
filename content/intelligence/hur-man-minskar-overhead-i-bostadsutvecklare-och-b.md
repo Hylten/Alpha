@@ -72,9 +72,7 @@ Agentiska arbetsflöden innebär att avancerade digitala agenter kan:
 - läsa
 - förstå
 - resonera
-- och agera självständigt inom definierade ramar
-
-på samma sätt som en mänsklig handläggare eller projektkoordinator.
+- och agera självständigt inom definierade ramar på samma sätt som en mänsklig handläggare eller projektkoordinator.
 
 
 Skillnaden är att de kan utföra uppgifter kontinuerligt, utan att tappa kvalitet eller kontinuitet, och dessutom göra det med full spårbarhet och strukturerad dokumentation.

@@ -97,9 +97,7 @@ Probability becomes a spread.
 
 The spread becomes a live boundary.
 
-That boundary-when monitored and continuously recalculated-is
-
-the price.
+That boundary-when monitored and continuously recalculated-is the price.
 
 This is not trading.
 

@@ -251,25 +251,15 @@ Return to depth.
 
 THE AGENTIC STACK FOR FAMILY OFFICES (Technical dominance) The architecture emerges in layers:
 
-### Layer I: Identity of Capita
+### Layer I: Identity of Capita l
 
-l
+### Layer II: Intake & Signal Fusio n
 
-### Layer II: Intake & Signal Fusio
+### Layer III: Autonomous Underwriting & Risk Logi c
 
-n
+### Layer IV: Multi‑Agent Coordination Mes h
 
-### Layer III: Autonomous Underwriting & Risk Logi
-
-c
-
-### Layer IV: Multi‑Agent Coordination Mes
-
-h
-
-### Layer V: Execution Interface for Principal
-
-s
+### Layer V: Execution Interface for Principal s
 
 ### Layer I: Identity of Capital Family offices are not funds
 
