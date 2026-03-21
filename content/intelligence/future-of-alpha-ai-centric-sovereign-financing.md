@@ -170,11 +170,11 @@ It is the management of resources without waste.
 
 It requires clarity, order, and measured deployment.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* establishes stewardship as multi generational capital architecture, and AI centric systems reinforce this discipline by eliminating emotional drift from capital allocation.
+ establishes stewardship as multi generational capital architecture, and AI centric systems reinforce this discipline by eliminating emotional drift from capital allocation.
 
 The stewardship filter consists of three evaluative dimensions. 
 

@@ -204,27 +204,27 @@ Phase Four: The AI-First Credit Engine The ultimate state is full agentic underw
 
 This requires three structural pillars: 
 
-1. **The ingestion spine.
+1. The ingestion spine.
 
-* 
+ 
 
-* The engine absorbs diverse data streams-internal and external-without forcing schema conformity.
+ The engine absorbs diverse data streams-internal and external-without forcing schema conformity.
 
 Elastic ingestion preserves nuance. 
 
-2. **The feature lattice.
+2. The feature lattice.
 
-* 
+ 
 
-* The graph expands into thousands of micro-features that evolve continuously.
+ The graph expands into thousands of micro-features that evolve continuously.
 
 New signal clusters form automatically when the system detects statistically meaningful correlations. 
 
-3. **The decision core.
+3. The decision core.
 
-* 
+ 
 
-* A multi-model ensemble-graph neural nets, behavioral anomaly detectors, probabilistic risk engines-delivers verdicts that update continuously, not quarterly.
+ A multi-model ensemble-graph neural nets, behavioral anomaly detectors, probabilistic risk engines-delivers verdicts that update continuously, not quarterly.
 
 This is underwriting that breathes.
 

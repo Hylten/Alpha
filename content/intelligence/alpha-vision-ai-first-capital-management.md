@@ -172,11 +172,11 @@ In this context AI first capital management enhances stewardship by removing emo
 
 It converts resource governance from subjective interpretation into objective rule bound oversight.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* establishes a foundational principle regarding intergenerational responsibility.
+ establishes a foundational principle regarding intergenerational responsibility.
 
 Applied to institutional capital, this principle affirms that the allocator's role is not opportunistic extraction but disciplined preservation and responsible deployment of capital.
 

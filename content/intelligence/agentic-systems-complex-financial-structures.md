@@ -22,11 +22,11 @@ Precise.
 
 Sovereign by design.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 The strategic frontier is not autonomous infrastructure.
 
@@ -237,16 +237,7 @@ Through structure, not narrative.
 Through execution, not aspiration.
 
 Machine Gun Sentences: Move fast.
-
-Break friction.
-
-Remove humans.
-
-Build velocity.
-
-Deploy structure.
-
-Enforce logic.
+ Break friction. Remove humans. Build velocity. Deploy structure. Enforce logic.
 
 Expand perimeter.
 
@@ -379,16 +370,7 @@ High-agency momentum.
 Zero drag.
 
 Conviction sentences: Build systems.
-
-Not staff.
-
-Build rails.
-
-Not committees.
-
-Build force.
-
-Not chatter.
+ Not staff. Build rails. Not committees. Build force. Not chatter.
 
 Strategic Doctrine: The institution must:
 
@@ -400,11 +382,11 @@ Strategic Doctrine: The institution must:
 
 - Convert chaos into flow.
 
-This is the sovereign doctrine. **Proverbs 13:22
+This is the sovereign doctrine. Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Deal Flow autonomous infrastructure: Manual sourcing collapses under competitive load.
 

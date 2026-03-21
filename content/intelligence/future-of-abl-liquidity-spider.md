@@ -158,11 +158,11 @@ It is the recognition that capital entrusted must be directed toward productive 
 
 Theological principles reinforce this posture.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* states that a good person leaves an inheritance for future generations.
+ states that a good person leaves an inheritance for future generations.
 
 In institutional practice this means:
 

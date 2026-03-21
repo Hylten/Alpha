@@ -158,11 +158,11 @@ It is a principle rooted in clarity, not speculation.
 
 The Theology of Capital frames stewardship as the intelligent and responsible allocation of resources, consistent with
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which highlights generational responsibility.
+ which highlights generational responsibility.
 
 AI driven Asset-Based Lending enhances stewardship by eliminating the opacity that historically impaired responsible lending.
 

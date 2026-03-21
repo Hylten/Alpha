@@ -232,11 +232,11 @@ Stewardship in this context includes:
 
 The Theology of Capital aligns with
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* , which frames capital as a multi generational resource that must be deployed with responsibility.
+ , which frames capital as a multi generational resource that must be deployed with responsibility.
 
 Agentic systems support this discipline by ensuring that capital is governed by evidence rather than sentiment.
 

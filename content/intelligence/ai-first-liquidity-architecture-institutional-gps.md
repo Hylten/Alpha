@@ -166,11 +166,11 @@ Portfolio oversight requires algorithmic rigor, not static reporting cadences.
 
 This aligns with the principle in
 
-- **Proverbs 15:22
+- Proverbs 15:22
 
-* 
+ 
 
-* : Without counsel purposes fail, but with many advisers they succeed.
+ : Without counsel purposes fail, but with many advisers they succeed.
 
 The adviser in this context is the system itself.
 
@@ -186,11 +186,11 @@ The allocator is a steward, not an extractor.
 
 This aligns with
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : A good person leaves an inheritance to their children's children.
+ : A good person leaves an inheritance to their children's children.
 
 In institutional terms, this means building capital structures resilient enough to endure beyond a single cycle.
 

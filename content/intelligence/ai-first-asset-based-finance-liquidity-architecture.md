@@ -21,16 +21,7 @@ Human variance.
 Human blind‑spots.
 
 The next epoch for HNWI and UHNW capital formation demands an AI-first chassis.
-
-No sentiment.
-
-No drift.
-
-No heuristics.
-
-Precision only.
-
-Velocity only.
+ No sentiment. No drift. No heuristics. Precision only. Velocity only.
 
 Sovereign posture only.
 
@@ -98,9 +89,9 @@ Assets power liquidity algorithms.
 
 Old finance asks: What is the collateral worth today?
 
-AI-first finance asks: What can the collateral *become
+AI-first finance asks: What can the collateral become
 
-* when probability is optimized?
+ when probability is optimized?
 
 This is the institutional delta.
 
@@ -247,11 +238,11 @@ Moves credit exposure from high-tax zones to efficient corridors.
 
 Portfolio shifts from reactive to anticipatory.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : wealth inherits across generations when structure precedes opportunity.
+ : wealth inherits across generations when structure precedes opportunity.
 
 The architecture treats wealth as a system.
 
@@ -482,16 +473,7 @@ AI is the constitution.
 The next mandate: build agentic infrastructure capable of operating autonomously.
 
 It will score deals.
-
-Structure credit.
-
-Route liquidity.
-
-Scan jurisdictions.
-
-Detect arbitrage.
-
-Enforce compliance.
+ Structure credit. Route liquidity. Scan jurisdictions. Detect arbitrage. Enforce compliance.
 
 Coordinate treasury.
 
@@ -509,11 +491,11 @@ Jurisdictional arbitrage becomes default posture.
 
 AI-first underwriting becomes the spine of the system.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* applies: the good father leaves inheritance.
+ applies: the good father leaves inheritance.
 
 But the sovereign architect leaves infrastructure.
 

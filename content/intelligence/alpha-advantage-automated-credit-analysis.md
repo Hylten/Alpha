@@ -113,16 +113,7 @@ THE STACK The architecture that delivers sovereign advantage works across four l
 1.
 
 Intake Layer Where structured and unstructured data flow through raw ingestion grids.
-
-Bank statements.
-
-Well logs.
-
-OFAC checks.
-
-Reservoir models.
-
-Land titles.
+ Bank statements. Well logs. OFAC checks. Reservoir models. Land titles.
 
 Supplier ledgers.
 
@@ -244,11 +235,7 @@ CASHFLOW DOMINANCE Cashflow wins
 
 Markets respect nothing else.
 
-Equity narratives collapse.
-
-Asset appraisals lag.
-
-Projections lie.
+Equity narratives collapse. Asset appraisals lag. Projections lie.
 
 Cashflow reveals the truth.
 
@@ -305,16 +292,7 @@ OIL AND GAS CREDIT COMPLEXITY In energy lending, complexity multiplies
 Reservoir volatility.
 
 Commodity price shocks.
-
-Regulatory drag.
-
-CAPEX irregularity.
-
-Decline curves.
-
-Theft vectors.
-
-Political shifts.
+ Regulatory drag. CAPEX irregularity. Decline curves. Theft vectors. Political shifts.
 
 Automated systems handle these variables with no emotional load.
 
@@ -432,11 +410,11 @@ Automated credit engines become:
 
 • Multi-generational capital stabilizers A good man leaveth an inheritance to his children's children:
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Wealth preservation demands discipline.
 

@@ -140,11 +140,11 @@ THE STEWARDSHIP FILTER Stewardship in capital allocation reflects a theological 
 
 .
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* identifies the principle of multigenerational provisioning.
+ identifies the principle of multigenerational provisioning.
 
 The allocator embracing Stewardship as an operational discipline evaluates assets not through short term yield optics but through sustainability of cash flow, resilience of collateral, and long term productivity of the underlying resource.
 

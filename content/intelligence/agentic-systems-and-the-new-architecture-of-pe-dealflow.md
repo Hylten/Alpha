@@ -498,11 +498,7 @@ Buy and build programs.
 
 Fragmented markets.
 
-Asset light verticals.
-
-Tech enabled services.
-
-Regional consolidation.
+Asset light verticals. Tech enabled services. Regional consolidation.
 
 Niche manufacturing.
 

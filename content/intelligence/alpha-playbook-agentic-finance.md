@@ -198,11 +198,11 @@ The allocator that manages both with precision demonstrates stewardship.
 
 This aligns with the principle in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which establishes the multi generational responsibility of capital custodianship.
+ which establishes the multi generational responsibility of capital custodianship.
 
 The stewardship filter evaluates:
 

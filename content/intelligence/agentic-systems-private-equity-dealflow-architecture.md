@@ -182,11 +182,11 @@ It is a theological position on capital that prioritizes clarity, proportionalit
 
 The relevant principle is found in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which frames the concept of generational continuity.
+ which frames the concept of generational continuity.
 
 Stewardship is not passive.
 

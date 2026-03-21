@@ -6,11 +6,11 @@ author: "Roials-Alpha"
 slug: "proprietary-agentic-models-capital-architecture"
 --- 
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Institutional capital architecture is entering a terminal phase shift.
 

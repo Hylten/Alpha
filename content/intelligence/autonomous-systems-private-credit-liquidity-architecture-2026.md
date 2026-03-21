@@ -232,11 +232,11 @@ STEWARDSHIP FILTER Stewardship is the guiding ethic.
 
 It frames capital not as a consumable resource but as a generational trust.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* reminds us that a good man leaves an inheritance to his children's children.
+ reminds us that a good man leaves an inheritance to his children's children.
 
 Within this context, autonomous credit systems must serve as tools of responsible capital formation, not engines of opacity.
 

@@ -22,11 +22,7 @@ They operate as computational entities with intent shaped by architecture.
 
 Roials-Alpha builds them as core trade assets.
 
-Not as features.
-
-Not as extensions.
-
-As infrastructure.
+Not as features. Not as extensions. As infrastructure.
 
 The Shift From LLMs to Agentic Intelligence The world treated language models as endpoints
 
@@ -186,11 +182,7 @@ They read environments.
 
 They map incentives.
 
-They project moves.
-
-They counter moves.
-
-They refine.
+They project moves. They counter moves. They refine.
 
 They adapt.
 

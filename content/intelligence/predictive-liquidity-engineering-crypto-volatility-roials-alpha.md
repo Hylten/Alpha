@@ -186,11 +186,11 @@ THE STEWARDSHIP FILTER Stewardship is a discipline that governs how capital is d
 
 .
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* states that a good person leaves an inheritance for future generations.
+ states that a good person leaves an inheritance for future generations.
 
 In capital terms this is the obligation to allocate resources wisely, reduce waste, and ensure continuity across market cycles.
 

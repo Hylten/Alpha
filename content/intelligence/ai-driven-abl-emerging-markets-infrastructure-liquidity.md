@@ -46,11 +46,11 @@ This brief outlines the precise mechanics of an AI-first Asset-Based Lending eco
 
 A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* 
+ 
 
 # FOUNDATIONAL SHIFT: COLLATERAL AS SIGNAL Traditional Asset-Based Lending treats collateral as a static object.
 
@@ -454,11 +454,11 @@ Deploy intelligence into collateral.
 
 Convert collateral into yield.
 
-Convert yield into durable generational capital. **Proverbs 13:22
+Convert yield into durable generational capital. Proverbs 13:22
 
-* 
+ 
 
-* is not philosophy.
+ is not philosophy.
 
 It is governance.
 

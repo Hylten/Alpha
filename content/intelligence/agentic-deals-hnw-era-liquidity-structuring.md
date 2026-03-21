@@ -20,11 +20,11 @@ Frictionless.
 
 The firms that master high‑frequency liquidity structuring will govern the next chapter of private capital flow.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* states: A good man leaves an inheritance to his children’s children.
+ states: A good man leaves an inheritance to his children’s children.
 
 In modern capital architecture, inheritance is not wealth.
 
@@ -134,11 +134,7 @@ Agentic platforms map this instantly.
 
 Tag risks.
 
-Tag liquidity capacity.
-
-Tag time horizons.
-
-No committee.
+Tag liquidity capacity. Tag time horizons. No committee.
 
 No latency.
 
@@ -300,11 +296,11 @@ Families that fail to build it will become liquidity takers.
 
 Families that build it will become liquidity generators.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* echoes again: long-term inheritance is infrastructure.
+ echoes again: long-term inheritance is infrastructure.
 
 Systems.
 
@@ -359,10 +355,7 @@ They run their own.
 Fund-III stands as a model.
 
 Not because of size.
-
-Not because of mandates.
-
-Because of architecture.
+of architecture, not of mandates.
 
 Its intelligence 
 
@@ -404,11 +397,7 @@ Liquidity is the only universal currency of optionality.
 
 Ownership matters.
 
-Control matters more.
-
-Liquidity is control.
-
-Conviction three.
+Control matters more. Liquidity is control. Conviction three.
 
 AI is not an assistant.
 

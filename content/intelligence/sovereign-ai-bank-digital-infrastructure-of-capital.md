@@ -202,11 +202,11 @@ Accuracy as Ethics Capital misallocation is a form of waste.
 
 Precision in underwriting, collateral analysis, and liquidity modeling is a form of ethical responsibility.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* underscores the principle of multi generational stewardship.
+ underscores the principle of multi generational stewardship.
 
 Accuracy ensures preservation across generations. 
 

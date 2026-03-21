@@ -301,16 +301,7 @@ Fund-III deploys.
 Family offices compound.
 
 The value is in the interoperability.
-
-The precision.
-
-The velocity.
-
-One system.
-
-Multiple roles.
-
-Friction removed.
+ The precision. The velocity. One system. Multiple roles. Friction removed.
 
 Signal elevated.
 

@@ -240,11 +240,11 @@ Only humans carry principal authority.
 
 Ethical Integrity Layer Systems operate under
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 They must protect generational capital rather than chase superficial returns. 
 

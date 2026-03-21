@@ -44,7 +44,7 @@ The core function of an agentic infrastructure is not prediction.
 
 Prediction is primitive.
 
-The core function is *governance*-the governance of flow, risk, volatility, and cross-instrument substitution.
+The core function is governance-the governance of flow, risk, volatility, and cross-instrument substitution.
 
 Markets reward the party who chooses the correct instrument at the correct moment for the correct business.
 
@@ -76,7 +76,7 @@ Jurisdictional constraints and cross-border transfer friction
 
 6.
 
-The expected terminal value event The system does not “recommend.” The system *allocates*.
+The expected terminal value event The system does not “recommend.” The system allocates.
 
 The arbitration mechanism is a loop.
 

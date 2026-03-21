@@ -180,11 +180,11 @@ In this framework, capital is treated as a scarce resource that must be deployed
 
 Intelligent capital deployment mirrors the principle of non wasteful management referenced in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Agentic wealth mobility must operate within this stewardship logic.
 

@@ -49,16 +49,7 @@ You will see the internal spine.
 You will see the operational algorithms.
 
 You will see the agentic infrastructure that elevates Roials‑Alpha above conventional deal engines.
-
-High English.
-
-High clarity.
-
-No theatrics.
-
-Machine runs.
-
-Principal decides.
+ High English. High clarity. No theatrics. Machine runs. Principal decides.
 
 That is the covenant.
 

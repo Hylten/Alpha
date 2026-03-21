@@ -32,11 +32,11 @@ This is the architecture.
 
 A good man leaves an inheritance to his children's children.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Agentic intelligence reshapes every layer of complex M&A liquidity.
 
@@ -108,11 +108,7 @@ They behave accordingly.
 
 They execute accordingly.
 
-They protect accordingly.
-
-Machine gun reasoning.
-
-Fast bursts.
+They protect accordingly. Machine gun reasoning. Fast bursts.
 
 Hard stops.
 
@@ -350,11 +346,11 @@ Again
 
 - 
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 - M&A INTELLIGENCE: TARGET ACQUISITION WITHOUT SIGNAL LEAKAGE In high‑stakes transactions, the target should never know they are being targeted.
 
@@ -513,16 +509,7 @@ They identify micro‑patterns:
 • Concessions given too early
 
 • Concessions withheld too late These patterns reveal internal panic points.
-
-Liquidity exhaustion.
-
-Broken leverage.
-
-Regulatory fear.
-
-Board fatigue.
-
-Exit pressure.
+ Liquidity exhaustion. Broken leverage. Regulatory fear. Board fatigue. Exit pressure.
 
 Timeline erosion.
 

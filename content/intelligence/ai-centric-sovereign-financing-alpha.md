@@ -193,11 +193,11 @@ THE STEWARDSHIP FILTER : ETHICS, CAPITAL, AND THEOLOGY OF NON WASTE The stewards
 
 It is derived from the principle in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which states that generational capital requires disciplined non waste.
+ which states that generational capital requires disciplined non waste.
 
 This is not a moral metaphor.
 

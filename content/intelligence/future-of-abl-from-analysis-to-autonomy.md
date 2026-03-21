@@ -42,11 +42,11 @@ The future belongs to Fund-III style entities engineered for computational throu
 
 A good man leaves an inheritance to his children’s children (
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* ).
+ ).
 
 That inheritance, in the modern context, is not merely capital.
 
@@ -384,11 +384,11 @@ This is the decision-maker who designs, configures, and governs the system-level
 
 This is the modern interpretation of
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Infrastructure replaces intention.
 

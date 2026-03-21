@@ -178,11 +178,11 @@ Sovereigns adopt these architectures not for yield maximization but for liquidit
 
 The operational core is grounded in principles articulated across theological traditions including the resource management ethic of
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 This filter ensures that capital allocation avoids waste, supports productive real assets, and maintains transparent alignment between resource flows and societal obligations.
 

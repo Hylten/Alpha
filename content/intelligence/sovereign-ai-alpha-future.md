@@ -192,11 +192,11 @@ Not only operational waste in energy fields, but analytical waste in capital mar
 
 AI becomes a tool for sustaining intergenerational capital architecture rather than accelerating short term extraction.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* articulates this ethos: A good man leaves an inheritance to his children's children.
+ articulates this ethos: A good man leaves an inheritance to his children's children.
 
 The allocator's responsibility extends beyond the capital deployed to the structure through which capital is deployed.
 

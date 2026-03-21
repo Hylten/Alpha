@@ -10,7 +10,7 @@ slug: "agentic-wealth-mobility-how-reinforcement-learning-unlocks-borderless-cap
 
 .
 
-They are an operational reality for those who understand that liquidity is not managed, it is *trained*.
+They are an operational reality for those who understand that liquidity is not managed, it is trained.
 
 And in the Roials-Alpha framework, this training is not metaphorical.
 

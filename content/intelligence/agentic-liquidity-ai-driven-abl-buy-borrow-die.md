@@ -206,11 +206,11 @@ THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deplo
 
 It is a systematic commitment to preventing value leakage across operational, financial, and intergenerational domains.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* frames this with clarity.
+ frames this with clarity.
 
 A steward is responsible for maintaining the integrity of resources across generations.
 

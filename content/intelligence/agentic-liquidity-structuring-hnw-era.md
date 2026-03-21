@@ -174,11 +174,11 @@ Principles include:
 
 - Long horizon decision frameworks Stewardship aligns with
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* and establishes the ethical baseline for sophisticated capital engagement.
+ and establishes the ethical baseline for sophisticated capital engagement.
 
 High velocity systems require greater discipline, not less.
 

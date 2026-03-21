@@ -66,7 +66,7 @@ Risk assumes measurability.
 
 Ultra‑high‑frequency private credit does not always grant that luxury.
 
-Instead, the variable is *momentum of solvency*.
+Instead, the variable is momentum of solvency.
 
 A dynamic that shifts minute‑by‑minute as counterparty commitments update, receivables shift, machine‑generated diligence tightens or loosens, or supply‑chain telemetry alters forward visibility.
 
@@ -98,9 +98,9 @@ Probability becomes a spread.
 
 The spread becomes a live boundary.
 
-That boundary-when monitored and continuously recalculated-*is
+That boundary-when monitored and continuously recalculated-is
 
-* the price.
+ the price.
 
 This is not trading.
 

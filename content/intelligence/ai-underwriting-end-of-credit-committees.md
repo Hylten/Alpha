@@ -114,15 +114,15 @@ Stacks decide.
 
 PHASE THREE: AGENTIC INFRASTRUCTURE
 
-- THE DEEP STRUCTURE I. **THE FOUR-LAYER AI UNDERWRITING ARCHITECTURE
+- THE DEEP STRUCTURE I. THE FOUR-LAYER AI UNDERWRITING ARCHITECTURE
 
-* 
+ 
 
-* Layer One: **Data Ingestion Without Friction
+ Layer One: Data Ingestion Without Friction
 
-* 
+ 
 
-* The engine absorbs structured and unstructured data: operational telemetry, sector-specific metrics, corporate lineage, founder behavioral signatures, reputational vectors, supply-chain stability, implicit balance sheet strength.
+ The engine absorbs structured and unstructured data: operational telemetry, sector-specific metrics, corporate lineage, founder behavioral signatures, reputational vectors, supply-chain stability, implicit balance sheet strength.
 
 The ingestion 
 
@@ -132,11 +132,11 @@ The ingestion
 
 It predicts what data is still missing and seeks it without being told.
 
-Layer Two: **Conviction Modeling
+Layer Two: Conviction Modeling
 
-* 
+ 
 
-* This is the first true break from legacy underwriting.
+ This is the first true break from legacy underwriting.
 
 The model does not simply score risk.
 
@@ -148,11 +148,11 @@ Committees evaluate deals.
 
 The model evaluates its own certainty.
 
-Layer Three: **Dynamic Stress Sculpting
+Layer Three: Dynamic Stress Sculpting
 
-* 
+ 
 
-* Traditional stress tests model disasters.
+ Traditional stress tests model disasters.
 
 Agentic underwriting sculpts futures.
 
@@ -168,11 +168,11 @@ Not theory.
 
 Survivability.
 
-Layer Four: **Executable Output Layer
+Layer Four: Executable Output Layer
 
-* 
+ 
 
-* Outputs are not memos.
+ Outputs are not memos.
 
 They are instructions.
 
@@ -208,25 +208,25 @@ By the time the committee convenes to discuss, the AI-first firm has already loc
 
 The winner is the one who sees the signal soonest and acts without hesitation.
 
-III. **THE AI-FIRST FAMILY OFFICE
+III. THE AI-FIRST FAMILY OFFICE
 
-* 
+ 
 
-* UHNW/HNW architecture is shifting from intuition-based allocations to machine-guided mandate structures.
+ UHNW/HNW architecture is shifting from intuition-based allocations to machine-guided mandate structures.
 
 The most sophisticated family offices now operate with two cores: 
 
-1. **The Strategic Core
+1. The Strategic Core
 
-* 
+ 
 
-* (human) 
+ (human) 
 
-2. **The Execution Core
+2. The Execution Core
 
-* 
+ 
 
-* (machine) The Strategic Core governs the Covenant, the thesis, the long-term compass.
+ (machine) The Strategic Core governs the Covenant, the thesis, the long-term compass.
 
 The Execution Core governs speed, precision, and alignment with mandate constraints.
 
@@ -238,11 +238,11 @@ Human judgment remains the apex layer-but only at the apex.
 
 Everything below becomes autonomous.
 
-IV. **THE DEAL FLOW ENGINE
+IV. THE DEAL FLOW ENGINE
 
-* 
+ 
 
-* Algorithmic deal flow is the end of “pipeline building.” The machine forms the pipeline.
+ Algorithmic deal flow is the end of “pipeline building.” The machine forms the pipeline.
 
 Sources are ranked, pruned, and optimized continuously.
 
@@ -266,11 +266,11 @@ UHNW/HNW principals receive filtered opportunities where:
 
 - uncertainty is narrowed No committee can reproduce that velocity.
 
-V. **THE AGENTIC UNDERWRITING LOOP
+V. THE AGENTIC UNDERWRITING LOOP
 
-* 
+ 
 
-* Five steps.
+ Five steps.
 
 Continuous.
 
@@ -300,11 +300,11 @@ The loop grows sharper each cycle.
 
 This is not autonomous infrastructure-it is compounding intelligence.
 
-VI. **THE ONE ALLOWED INSTANCE OF A FORBIDDEN TERM
+VI. THE ONE ALLOWED INSTANCE OF A FORBIDDEN TERM
 
-* 
+ 
 
-* The architecture closes the gap between assessment and action through a singular form of Liquidity Engineering applied only once per cycle.
+ The architecture closes the gap between assessment and action through a singular form of Liquidity Engineering applied only once per cycle.
 
 This maneuver ensures that capital can shift without waiting for human re-approval, provided the move remains within mandate boundaries.
 
@@ -312,11 +312,11 @@ The committee model cannot do this.
 
 It never could.
 
-VII. **THE STRATEGIC IMPLICATION: ONLY PRINCIPALS SURVIVE
+VII. THE STRATEGIC IMPLICATION: ONLY PRINCIPALS SURVIVE
 
-* 
+ 
 
-* The industry is undergoing a quiet bifurcation: Group One: Firms that deploy capital through tradition.
+ The industry is undergoing a quiet bifurcation: Group One: Firms that deploy capital through tradition.
 
 Group Two: Firms that deploy through sovereignty.
 
@@ -334,11 +334,11 @@ This is the new institutional advantage.
 
 It is non-negotiable.
 
-VIII. **WHY THE TRANSITION IS UNSTOPPABLE
+VIII. WHY THE TRANSITION IS UNSTOPPABLE
 
-* 
+ 
 
-* The economic forces are self-reinforcing:
+ The economic forces are self-reinforcing:
 
 - Faster underwriting → faster deal capture
 
@@ -354,11 +354,11 @@ VIII. **WHY THE TRANSITION IS UNSTOPPABLE
 
 They were never designed for it.
 
-IX. **THE AGENTIC INFRASTRUCTURE PRIMER (REQUESTED)
+IX. THE AGENTIC INFRASTRUCTURE PRIMER (REQUESTED)
 
-* 
+ 
 
-* Agentic infrastructure means the underwriting environment becomes self-directing.
+ Agentic infrastructure means the underwriting environment becomes self-directing.
 
 Not self-aware.
 
@@ -386,11 +386,11 @@ The agentic system does not simply produce outputs.
 
 It produces momentum.
 
-X. **THE EXECUTIVE LAYER FOR UHNW/HNW FAMILY OFFICES
+X. THE EXECUTIVE LAYER FOR UHNW/HNW FAMILY OFFICES
 
-* 
+ 
 
-* The Principal ultimately remains sovereign.
+ The Principal ultimately remains sovereign.
 
 The machine amplifies that sovereignty.
 
@@ -410,11 +410,11 @@ A modern office operates with:
 
 - a Principal who simply chooses direction This is the highest form of leverage: Your decisions, multiplied by autonomous precision.
 
-XI. **THE STRATEGIC INVITATION
+XI. THE STRATEGIC INVITATION
 
-* 
+ 
 
-* Roials-Alpha is not a consultancy.
+ Roials-Alpha is not a consultancy.
 
 It is an execution engine.
 

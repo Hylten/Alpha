@@ -168,11 +168,11 @@ It is the avoidance of waste, mispricing, and unnecessary operational drag.
 
 Capital stewardship is fundamentally a function of order.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* establishes the principle that properly governed capital extends value across generations.
+ establishes the principle that properly governed capital extends value across generations.
 
 AI first migration strengthens stewardship disciplines through:
 

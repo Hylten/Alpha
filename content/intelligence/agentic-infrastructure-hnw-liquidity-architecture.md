@@ -50,11 +50,11 @@ Build systems that act.
 
 Build systems that compound.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : A good man leaves an inheritance to his children's children.
+ : A good man leaves an inheritance to his children's children.
 
 Inheritance implies structure.
 
@@ -266,11 +266,7 @@ Only signal remains.
 
 Humans take hours to evaluate a deal.
 
-Agents take milliseconds.
-
-The gap compounds.
-
-Every day.
+Agents take milliseconds. The gap compounds. Every day.
 
 Every cycle.
 

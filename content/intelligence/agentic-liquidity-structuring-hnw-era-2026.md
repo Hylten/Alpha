@@ -76,19 +76,19 @@ It is a structured sequence of controls that expand or contract liquidity exposu
 
 The core mechanical components include:
 
-* Multi vector acquisition scoring.
+ Multi vector acquisition scoring.
 
 An adaptive model that evaluates assets across operational resilience, counterparty calibration, downside absorption, and cross cycle revenue elasticity.
 
 This is essential for sectors like NAEOCC energy infrastructure investment where high capex profiles require long duration risk attenuation.
 
-* Yield to liquidity curves.
+ Yield to liquidity curves.
 
 A proprietary mapping that calculates the optimal yield extraction point for each liquidity horizon.
 
 Unlike classical IRR modelling, this curve integrates intra cycle liquidity demands from UHNW liquidity planning structures that often require event driven capital access outside of fund distribution schedules.
 
-* Advance rate compression.
+ Advance rate compression.
 
 Not in the traditional lending sense but as a function of asset hardening.
 
@@ -96,13 +96,13 @@ When assets are operationally hardened, the capital provider can increase liquid
 
 This is core to asset backed financing for businesses where collateral quality dictates capital strike levels.
 
-* Short cycle underwriting loops.
+ Short cycle underwriting loops.
 
 Agentic systems reduce underwriting loops to multi hour cycles for small add ons and multi day cycles for mid market platform deals.
 
 This aligns with the emerging demand in Private equity Fund-III investment opportunities 2026 where accelerated close velocity becomes a competitive differentiator.
 
-* Principal side sovereignty filters.
+ Principal side sovereignty filters.
 
 A core function where the system prioritises information channels based on principal preference.
 
@@ -110,7 +110,7 @@ This ensures the capital provider maintains privacy control without reducing inf
 
 This feature has become a key requirement for EU MiFID II firm acquisitions where cross border information governance is critical.
 
-* Dynamic capital staging.
+ Dynamic capital staging.
 
 Capital is deployed in staged micro tranches that expand or contract based on real time performance signals.
 
@@ -245,11 +245,11 @@ It is a structural principle.
 
 It is the application of principled capital behaviour to technical environments where speed and complexity create opportunities for misalignment.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* states that a good man leaves an inheritance to his children's children.
+ states that a good man leaves an inheritance to his children's children.
 
 The modern interpretation for high performance capital is that capital must be deployed in a manner that preserves generational stability.
 

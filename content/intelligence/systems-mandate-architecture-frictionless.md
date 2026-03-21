@@ -216,11 +216,11 @@ Efficient architecture reduces slippage.
 
 Slippage is waste.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* establishes the generational logic of capital management.
+ establishes the generational logic of capital management.
 
 Systems reduce generational drift. 
 

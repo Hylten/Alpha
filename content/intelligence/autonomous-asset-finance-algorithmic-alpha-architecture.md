@@ -228,11 +228,11 @@ Align with partners who operate with institutional discipline.
 
 Roials Capital applies
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* as a governance principle.
+ as a governance principle.
 
 A well designed capital system should preserve and extend value across generations.
 

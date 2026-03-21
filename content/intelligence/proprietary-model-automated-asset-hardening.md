@@ -10,11 +10,11 @@ The modern capital estate requires insulation, leverage, velocity, and a control
 
 Asset hardening has shifted from a defensive posture to an offensive architecture-an engineered force multiplier for families that operate across multi-jurisdictional value corridors.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* speaks in clean geometry: a good man leaves an inheritance for his children’s children.
+ speaks in clean geometry: a good man leaves an inheritance for his children’s children.
 
 Yet the contemporary environment punishes static inheritance.
 
@@ -273,10 +273,7 @@ Efficient.
 VI.
 
 OIL AND GAS: THE COLLATERAL POWER SECTOR Oil and gas remains the most structurally potent collateral class for private credit.
-
-Not because of high risk.
-
-Because of high predictability.
+of high predictability, not of high risk.
 
 Physical production.
 
@@ -291,16 +288,7 @@ Commodity-linked revenue.
 Hard valuations with low narrative distortion.
 
 AI-first underwriting can map reservoir performance.
-
-Pipeline flow.
-
-Field operations.
-
-Environmental compliance.
-
-Market hedging.
-
-Operational efficiency.
+ Pipeline flow. Field operations. Environmental compliance. Market hedging. Operational efficiency.
 
 Borrower behavior under strain.
 
@@ -422,11 +410,7 @@ THE ROIALS-ALPHA DIFFERENCE: DOMINANCE THROUGH SYSTEMIC CLARITY Technical domina
 
 It's coherence.
 
-Clean internal logic.
-
-Clean capital vectors.
-
-Clean enforcement.
+Clean internal logic. Clean capital vectors. Clean enforcement.
 
 Clean incentives.
 
@@ -452,11 +436,11 @@ XI.
 
 MULTI-GENERATIONAL STRUCTURE: THE INHERITANCE OF CAPACITY
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* is not merely preserved-it’s operationalized.
+ is not merely preserved-it’s operationalized.
 
 The inheritance is not cash.
 

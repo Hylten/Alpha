@@ -176,11 +176,11 @@ Poorly deployed capital destroys velocity and undermines balance sheet integrity
 
 Well deployed capital compounds access, resilience, and operational capacity.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* identifies the principle of multi generational resource management.
+ identifies the principle of multi generational resource management.
 
 In capital markets, this translates to disciplined underwriting, transparent collateral governance, and liquidity architectures that do not erode future optionality.
 

@@ -52,11 +52,11 @@ The institution becomes the algorithm; the algorithm becomes the balance sheet.
 
 A good man leaves an inheritance to his children's children:
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Modern interpretation: the architecture you build determines the inheritance you leave.
 
@@ -117,16 +117,7 @@ Execution obeys.
 The traditional system uses humans to create credit.
 
 Roials-Alpha uses AI to manufacture certainty.
-
-Humans distort.
-
-AI compresses.
-
-Humans overreact.
-
-AI normalizes.
-
-Humans negotiate.
+ Humans distort. AI compresses. Humans overreact. AI normalizes. Humans negotiate.
 
 AI concludes.
 
@@ -369,26 +360,8 @@ Humans error‑correct too late.
 Roials-Alpha builds a zero-friction model.
 
 Machine gun decisions.
-
-Short sentences.
-
-Hard edges.
-
-Deal loads.
-
-Engine evaluates.
-
-Collateral binds.
-
-Liquidity fires.
-
-Execution finalizes.
-
-Capital deployed.
-
-No hesitation.
-
-No drift.
+ Short sentences. Hard edges. Deal loads. Engine evaluates. Collateral binds.
+ Liquidity fires. Execution finalizes. Capital deployed. No hesitation. No drift.
 
 No failure.
 
@@ -428,11 +401,11 @@ It converts volatility into capital acceleration.
 
 It converts uncertainty into structural dominance.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* is fulfilled not through passive wealth preservation but through engineered institutional longevity.
+ is fulfilled not through passive wealth preservation but through engineered institutional longevity.
 
 THE NEW Fund-III PARADIGM Fund-III structures powered by Roials-Alpha evolve beyond conventional fund mechanics
 
@@ -468,11 +441,7 @@ THE ENERGY AND OIL & GAS ADVANTAGE Oil and gas assets are misunderstood by moder
 
 .
 
-Volatile cash flows.
-
-Complex decline curves.
-
-Jurisdictional risk.
+Volatile cash flows. Complex decline curves. Jurisdictional risk.
 
 Regulatory layers.
 

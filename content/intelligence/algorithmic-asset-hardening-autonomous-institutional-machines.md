@@ -130,11 +130,11 @@ Add a UCC‑perfected collateral spine in Texas or Oklahoma for oil‑and‑gas 
 
 Build a cage around every dollar.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : Wealth flows through structure, not sentiment.
+ : Wealth flows through structure, not sentiment.
 
 The institution must operate like a fortress.
 
@@ -157,16 +157,7 @@ Investors trust architecture more than personalities.
 Deal sourcing becomes algorithmic curation.
 
 Scan operator registries.
-
-Production filings.
-
-Pipeline nominations.
-
-Mineral records.
-
-Satellite flares.
-
-ESG anomalies.
+ Production filings. Pipeline nominations. Mineral records. Satellite flares. ESG anomalies.
 
 Compare them to private credit appetite curves.
 
@@ -294,11 +285,7 @@ Implements algorithmic discipline.
 
 Humans respond to constraints.
 
-Machines impose them.
-
-Institutional reputation strengthens.
-
-LPs migrate.
+Machines impose them. Institutional reputation strengthens. LPs migrate.
 
 Deal partners comply.
 

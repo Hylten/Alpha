@@ -208,11 +208,11 @@ Institutional capital that operates without stewardship generates systemic volat
 
 Stewardship applies to both resource based assets and capital based architectures.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* defines stewardship as multi generational preparation.
+ defines stewardship as multi generational preparation.
 
 In Asset-Backed Frameworks, this manifests as multi horizon calibration.
 

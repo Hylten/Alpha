@@ -56,13 +56,13 @@ Velocity oriented.
 
 - 
 
-# Core Principle The Alpha Framework operates on three doctrines. *Algorithmic Origination.
+# Core Principle The Alpha Framework operates on three doctrines. Algorithmic Origination.
 
-* *Asset Hardening.
+ Asset Hardening.
 
-* *Covenant Stewardship.
+ Covenant Stewardship.
 
-* These doctrines form the foundation for institutional credibility.
+ These doctrines form the foundation for institutional credibility.
 
 They establish a geometry that HNW and UHNW capital can trust.
 
@@ -90,13 +90,13 @@ Inbound lacks pattern recognition.
 
 Algorithmic origination reverses the polarity.
 
-Instead of waiting for deals the Alpha Framework identifies, tracks, and advances targets through algorithmic intelligence. *Principal Graphing.
+Instead of waiting for deals the Alpha Framework identifies, tracks, and advances targets through algorithmic intelligence. Principal Graphing.
 
-* *Signal Compression.
+ Signal Compression.
 
-* *Counterparty Profiling.
+ Counterparty Profiling.
 
-* 
+ 
 
 # Principal Graphing All industries contain underlying power structures.
 
@@ -108,17 +108,17 @@ They are visible only when mapped as principal networks.
 
 Principal Graphing maps:
 
-* beneficial owners.
+ beneficial owners.
 
-* capital flows between entities.
+ capital flows between entities.
 
-* historic covenants.
+ historic covenants.
 
-* latent collateral.
+ latent collateral.
 
-* default behavior.
+ default behavior.
 
-* governance posture.
+ governance posture.
 
 This produces an x ray of the market.
 
@@ -140,13 +140,13 @@ Probabilities of structural readiness.
 
 Signal compression eliminates noise such as:
 
-* inflated valuation narratives.
+ inflated valuation narratives.
 
-* surface level optimism.
+ surface level optimism.
 
-* broker induced distortion.
+ broker induced distortion.
 
-* false scarcity cycles.
+ false scarcity cycles.
 
 What remains is actionable intelligence tied to covenant aligned opportunities.
 
@@ -158,15 +158,15 @@ The Alpha Framework profiles counterparty integrity.
 
 Metrics include:
 
-* covenant literacy.
+ covenant literacy.
 
-* historic covenant obedience.
+ historic covenant obedience.
 
-* liquidity stewardship.
+ liquidity stewardship.
 
-* moral hazard exposure.
+ moral hazard exposure.
 
-* predictability of behavior under constraint.
+ predictability of behavior under constraint.
 
 This profile is more predictive than a balance sheet.
 
@@ -184,15 +184,15 @@ Most credit failures occur before the liquidity facility is issued.
 
 Failure is latent in structure.
 
-Asset Hardening operates in four arcs. *Structural Readiness.
+Asset Hardening operates in four arcs. Structural Readiness.
 
-* *Collateral Precision.
+ Collateral Precision.
 
-* *Information Integrity.
+ Information Integrity.
 
-* *Institutional Grade Controls.
+ Institutional Grade Controls.
 
-* 
+ 
 
 # Structural Readiness Borrowers often present structures that cannot support scaled credit.
 
@@ -202,13 +202,13 @@ Due to structural fragmentation.
 
 Structural readiness aligns:
 
-* entity architecture.
+ entity architecture.
 
-* ownership clarity.
+ ownership clarity.
 
-* collateral isolation.
+ collateral isolation.
 
-* covenant enforceability.
+ covenant enforceability.
 
 A borrower prepared through asset hardening becomes bankable even outside bank constraints.
 
@@ -222,13 +222,13 @@ Anything less is speculation.
 
 Precision is achieved through:
 
-* deterministic valuation baselines.
+ deterministic valuation baselines.
 
-* liquidation path mapping.
+ liquidation path mapping.
 
-* counterparty dependence indexing.
+ counterparty dependence indexing.
 
-* jurisdictional covenant review.
+ jurisdictional covenant review.
 
 The goal is not maximum coverage.
 
@@ -240,13 +240,13 @@ Information Integrity High velocity liquidity engineering collapses when data is
 
 Information integrity demands:
 
-* clean ledger architecture.
+ clean ledger architecture.
 
-* standardized reporting cadence.
+ standardized reporting cadence.
 
-* traceable historical records.
+ traceable historical records.
 
-* transparent cash flow routing.
+ transparent cash flow routing.
 
 Information integrity is a covenant before the covenant.
 
@@ -260,13 +260,13 @@ Control is the highest currency in private credit.
 
 Control requires:
 
-* perfected security interests.
+ perfected security interests.
 
-* rapid enforcement rights.
+ rapid enforcement rights.
 
-* transparent intercreditor relationships.
+ transparent intercreditor relationships.
 
-* direct Access is restricted to approved mandates.
+ direct Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
@@ -298,13 +298,13 @@ They safeguard the operator.
 
 They create guardrails that elevate execution.
 
-Covenant Stewardship rests on three directives. *Clear Purpose.
+Covenant Stewardship rests on three directives. Clear Purpose.
 
-* *Predictable Accountability.
+ Predictable Accountability.
 
-* *Aligned Mandate.
+ Aligned Mandate.
 
-* 
+ 
 
 # Clear Purpose A covenant without purpose becomes bureaucratic.
 
@@ -312,13 +312,13 @@ A covenant with purpose becomes stabilizing.
 
 Purpose aligned covenants include:
 
-* liquidity preservation thresholds.
+ liquidity preservation thresholds.
 
-* operational discipline requirements.
+ operational discipline requirements.
 
-* reporting cadence mandates.
+ reporting cadence mandates.
 
-* margin protection structures.
+ margin protection structures.
 
 Each covenant exists to protect the joint mandate between lender and operator.
 
@@ -328,11 +328,11 @@ Predictable Accountability Predictability is more valuable than flexibility
 
 Accountability includes:
 
-* pre defined responses to covenant deviation.
+ pre defined responses to covenant deviation.
 
-* automatic triggers for information release.
+ automatic triggers for information release.
 
-* transparent mechanisms for corrective action.
+ transparent mechanisms for corrective action.
 
 This creates peace for both sides.
 
@@ -348,11 +348,11 @@ Misalignment creates moral hazard.
 
 Aligned mandates require:
 
-* shared clarity of goals.
+ shared clarity of goals.
 
-* shared clarity of time horizon.
+ shared clarity of time horizon.
 
-* shared clarity of tolerances.
+ shared clarity of tolerances.
 
 This is not partnership.
 
@@ -380,27 +380,27 @@ Not as departments.
 
 Not as services.
 
-As an integrated intelligence organism. *Pre Decision Mapping.
+As an integrated intelligence organism. Pre Decision Mapping.
 
-* *Agentic Infrastructure.
+ Agentic Infrastructure.
 
-* *Automated Covenant Enforcement.
+ Automated Covenant Enforcement.
 
-* 
+ 
 
 # Pre Decision Mapping Decisions must be architected before opportunities appear.
 
 Pre decision mapping establishes:
 
-* valuation boundaries.
+ valuation boundaries.
 
-* collateral expectations.
+ collateral expectations.
 
-* default pathways.
+ default pathways.
 
-* data requirements.
+ data requirements.
 
-* communication sequences.
+ communication sequences.
 
 This eliminates friction.
 
@@ -414,13 +414,13 @@ The technical stack built by Jonas Hyltén turns intelligence into an active age
 
 Agentic infrastructure performs:
 
-* autonomous data acquisition.
+ autonomous data acquisition.
 
-* real time counterparty monitoring.
+ real time counterparty monitoring.
 
-* automated enforcement signals.
+ automated enforcement signals.
 
-* live probability scoring.
+ live probability scoring.
 
 This creates a structural advantage that cannot be replicated through manpower.
 
@@ -434,13 +434,13 @@ By removing ambiguity.
 
 Automated enforcement includes:
 
-* instant covenant breach alerts.
+ instant covenant breach alerts.
 
-* immediate data requests.
+ immediate data requests.
 
-* automatic route adjustment in payment flows.
+ automatic route adjustment in payment flows.
 
-* rapid escalation to control protocols.
+ rapid escalation to control protocols.
 
 The borrower experiences stability.
 
@@ -460,13 +460,13 @@ Crypto Secured Monetization Architecture Minimum threshold 2M
 
 Crypto collateral requires:
 
-* real time price monitoring.
+ real time price monitoring.
 
-* automated liquidation architecture.
+ automated liquidation architecture.
 
-* exchange counterparty assessment.
+ exchange counterparty assessment.
 
-* jurisdictional compliance mapping.
+ jurisdictional compliance mapping.
 
 The advantage is velocity.
 
@@ -486,13 +486,13 @@ Risk is liquidation reliability.
 
 Alpha Framework protocols enforce:
 
-* equity concentration limits.
+ equity concentration limits.
 
-* cross collateralization discipline.
+ cross collateralization discipline.
 
-* probability weighted liquidation timelines.
+ probability weighted liquidation timelines.
 
-* dark pool presence mapping.
+ dark pool presence mapping.
 
 This creates stability for both principal and lender.
 
@@ -520,11 +520,11 @@ Not trend dependent.
 
 Institutional alignment is the natural outcome of:
 
-* hardened assets.
+ hardened assets.
 
-* covenant stewardship.
+ covenant stewardship.
 
-* deterministic execution velocity.
+ deterministic execution velocity.
 
 The result is a private credit organism capable of absorbing large allocations without structural failure.
 
@@ -562,17 +562,17 @@ Relentless execution.
 
 - 
 
-# Summary Architecture The Alpha Framework stands on five structural pillars. *Algorithmic origination.
+# Summary Architecture The Alpha Framework stands on five structural pillars. Algorithmic origination.
 
-* *Asset hardening.
+ Asset hardening.
 
-* *Covenant stewardship.
+ Covenant stewardship.
 
-* *Execution velocity.
+ Execution velocity.
 
-* *Agentic infrastructure.
+ Agentic infrastructure.
 
-* Each 
+ Each 
 
 # Pillar C: ompounds the others
 

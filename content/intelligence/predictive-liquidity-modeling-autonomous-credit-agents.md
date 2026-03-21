@@ -124,11 +124,7 @@ Pulls structured and unstructured financials, contractual data, ledger activity,
 
 Retains native context.
 
-Zero hallucination tolerance.
-
-Zero interpretive creativity.
-
-Pure capture.
+Zero hallucination tolerance. Zero interpretive creativity. Pure capture.
 
 Agent Two.
 
@@ -218,11 +214,7 @@ Supplier trust is weakening.
 
 Inputs will tighten.
 
-Margins will compress.
-
-Liquidity will degrade.
-
-Not today.
+Margins will compress. Liquidity will degrade. Not today.
 
 Soon.
 
@@ -327,16 +319,7 @@ The predictive engine evaluates:
 • Hidden seasonality locked inside micro-patterns.
 
 These signals converge into a single output: liquidity trajectory.
-
-Upward curve.
-
-Stable arc.
-
-Flattening line.
-
-Downward drift.
-
-Decay slope.
+ Upward curve. Stable arc. Flattening line. Downward drift. Decay slope.
 
 Inflection points.
 

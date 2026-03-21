@@ -186,11 +186,11 @@ Agentic lending supports this through precision, transparency, and responsible c
 
 Stewardship is not a moral abstraction but an operational discipline anchored in efficient resource allocation.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* frames stewardship as generational discipline.
+ frames stewardship as generational discipline.
 
 Agentic systems embody this discipline by minimizing waste, reducing informational friction, and ensuring that collateral based credit flows to productive real economy assets.
 

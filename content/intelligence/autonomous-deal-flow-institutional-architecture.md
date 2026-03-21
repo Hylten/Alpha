@@ -162,11 +162,11 @@ It is the systematic practice of ensuring that capital flows into structures tha
 
 The traditional stewardship framing is reinforced by the scriptural principle in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which highlights the creation of durable value across generations.
+ which highlights the creation of durable value across generations.
 
 Stewardship within autonomous deal flow operates through four primary filters. 
 

@@ -186,11 +186,11 @@ Stewardship in this context is measured through:
 
 - Alignment with principles articulated in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* regarding generational capital continuity.
+ regarding generational capital continuity.
 
 The AI-native asset based finance environment is the first ecosystem capable of operationalizing these principles at scale.
 

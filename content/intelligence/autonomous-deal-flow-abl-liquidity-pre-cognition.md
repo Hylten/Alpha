@@ -300,11 +300,11 @@ Stewardship The capital provided must expand the productive capacity of the comp
 
 This is consistent with
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* and ensures long term alignment with owners, employees, and the local ecosystem.
+ and ensures long term alignment with owners, employees, and the local ecosystem.
 
 In practice this means:
 

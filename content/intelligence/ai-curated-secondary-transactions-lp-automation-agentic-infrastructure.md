@@ -120,11 +120,7 @@ Liquidity windows open before price compression sets in.
 
 This is structural power, not market luck.
 
-The distinction matters.
-
-Luck is noise.
-
-Architecture endures.
+The distinction matters. Luck is noise. Architecture endures.
 
 Deep analysis follows. 
 

@@ -208,11 +208,11 @@ Stewardship requires that capital be deployed where it can be monitored, support
 
 Agentic systems reduce uncertainty, but they do not replace the principle that capital should be managed with clarity of purpose.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* defines the long term orientation that underpins disciplined financial decision making.
+ defines the long term orientation that underpins disciplined financial decision making.
 
 Stewardship translates this into operational reality through three filters.
 

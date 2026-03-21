@@ -122,11 +122,11 @@ It increases transparency, reduces waste, and enhances accountability.
 
 The stewardship principle is grounded in the scriptural instruction of
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Wealth must be preserved, allocated, and governed with intentionality.
 

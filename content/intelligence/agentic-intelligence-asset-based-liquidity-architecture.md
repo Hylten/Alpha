@@ -36,13 +36,13 @@ It is written for principals who control assets, not advisers who react to them.
 
 And it anchors itself in the oldest wealth principle: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
-- **Proverbs 13:
+- Proverbs 13:
 
 22
 
-* 
+ 
 
-* .
+ .
 
 Agentic systems transform this principle from moral to mechanical.
 
@@ -102,22 +102,9 @@ Continuous underwriting wins.
 - 
 
 - Agentic credit systems operate in machine-gun cadence.
+ Short bursts. Hard logic. Clean execution. No drift. No delay.
 
-Short bursts.
-
-Hard logic.
-
-Clean execution.
-
-No drift.
-
-No delay.
-
-No memory contamination.
-
-Each agent specializes.
-
-Collateral agents.
+No memory contamination. Each agent specializes. Collateral agents.
 
 Legal agents.
 
@@ -503,13 +490,13 @@ Inheritance becomes engineered liquidity.
 
 Engineered liquidity becomes dynastic power.
 
-- **Proverbs 13:
+- Proverbs 13:
 
 22
 
-* 
+ 
 
-* remains the north star.
+ remains the north star.
 
 Agentic systems operationalize it.
 

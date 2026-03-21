@@ -96,11 +96,11 @@ That lattice becomes computable.
 
 Once computable, it becomes weaponized for alpha.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
+ : “The wealth of the sinner is laid up for the just.” In institutional terms, mispriced collateral becomes harvested by entities with superior intelligence tooling.
 
 The Alpha Framework is an institutional harvesting engine.
 
@@ -352,11 +352,7 @@ The Alpha Framework integrates these into the allocator routing grid.
 
 Fund-III receives deals matching its capital temperament.
 
-Not too safe.
-
-Not too exotic.
-
-Algorithmic match.
+Not too safe. Not too exotic. Algorithmic match.
 
 Fund integrity is preserved.
 
@@ -439,16 +435,7 @@ Valuation drives liquidity.
 Liquidity drives return.
 
 The entire stack operates under a single mandate: remove friction.
-
-Human error.
-
-Negotiation lag.
-
-Emotional drift.
-
-Committee hesitation.
-
-Memory bias.
+ Human error. Negotiation lag. Emotional drift. Committee hesitation. Memory bias.
 
 Legacy procedure.
 

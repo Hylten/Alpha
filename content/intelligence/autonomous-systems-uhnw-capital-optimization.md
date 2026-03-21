@@ -28,11 +28,11 @@ This briefing defines a Principal-level framework for autonomous capital systems
 
 It outlines the operational doctrine that governs Fund-III scale deployments, with a mandate aligned to
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : A good man leaves an inheritance to his children’s children.
+ : A good man leaves an inheritance to his children’s children.
 
 THE MANDAT
 
@@ -150,16 +150,7 @@ It reallocates to pre-approved corridors.
 It maintains family continuity rules.
 
 It identifies violations and self-corrects.
-
-No emotion.
-
-No fatigue.
-
-Only precision.
-
-Story short.
-
-Algorithmic dominion.
+ No emotion. No fatigue. Only precision. Story short. Algorithmic dominion.
 
 Systemic sovereignty.
 
@@ -235,11 +226,7 @@ Ranking criteria:
 
 • Counterparty endurance Machine sees patterns humans cannot.
 
-Private credit accelerates.
-
-Real assets stabilize.
-
-Energy compounds.
+Private credit accelerates. Real assets stabilize. Energy compounds.
 
 Data monetizes.
 
@@ -453,11 +440,11 @@ It protects the capital from erosion.
 
 It ensures that the proverb applies:
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* applies as mandate, not metaphor.
+ applies as mandate, not metaphor.
 
 Legacy becomes an engineered outcome, not a hope.
 

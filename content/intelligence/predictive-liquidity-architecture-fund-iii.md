@@ -36,11 +36,11 @@ Models replace intermediaries.
 
 The future of Asset-Based Lending is predictive, self‑correcting, and context‑aware.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : A good man leaves an inheritance to his children’s children.
+ : A good man leaves an inheritance to his children’s children.
 
 THE MANDAT
 
@@ -264,11 +264,11 @@ The borrower becomes a node within that operating system.
 
 This is the architecture that prevents generational erosion.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 FAMILY‑OFFICE ADVANTAGE: ASSET HARDENING Family offices maintain one information asymmetry advantage: asset density
 
@@ -398,11 +398,11 @@ It replaces it with:
 
 • Continuous pricing loops Noise is the enemy of generational capital.
 
-Precision is the safeguard. **Proverbs 13:22
+Precision is the safeguard. Proverbs 13:22
 
-* 
+ 
 
-* confirms THE MANDAT
+ confirms THE MANDAT
 
 E
 

@@ -192,11 +192,11 @@ THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than sentim
 
 The principles align with
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which defines responsible inheritance systems and long horizon capital accountability.
+ which defines responsible inheritance systems and long horizon capital accountability.
 
 Stewardship within AI powered liquidity architecture is measured through three specific filters. 
 

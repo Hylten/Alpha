@@ -186,11 +186,7 @@ Volatility corridor width.
 
 Probability weighted downside scenarios.
 
-Execution friction factors.
-
-Sector concentration thresholds.
-
-Jurisdictional saturation.
+Execution friction factors. Sector concentration thresholds. Jurisdictional saturation.
 
 The system converges on the optimal allocation path that maximizes expected value while preserving the structural integrity of the participant’s portfolio.
 
@@ -298,11 +294,7 @@ Litigation exposure.
 
 ESG liabilities.
 
-Balance sheet durability.
-
-Market share drift.
-
-Competitive structure.
+Balance sheet durability. Market share drift. Competitive structure.
 
 Customer churn indicators.
 

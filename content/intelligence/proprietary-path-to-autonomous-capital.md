@@ -158,11 +158,11 @@ It imposes order on environments prone to volatility.
 
 This aligns with the Theology of Capital, where capital is treated as a resource to be governed rather than exploited.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* articulates the intergenerational mandate that guides disciplined asset selection and operational intelligence deployment.
+ articulates the intergenerational mandate that guides disciplined asset selection and operational intelligence deployment.
 
 Stewardship is the filter that converts capital abundance into capital permanence.
 

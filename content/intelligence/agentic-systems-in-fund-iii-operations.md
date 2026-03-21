@@ -472,11 +472,7 @@ More LPs.
 
 More deals.
 
-More regulatory scope.
-
-More reporting cadence.
-
-More expectations.
+More regulatory scope. More reporting cadence. More expectations.
 
 Human workflows scale at human speed.
 

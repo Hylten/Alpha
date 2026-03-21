@@ -230,12 +230,12 @@ It is not a moral abstraction but a practical operating principle.
 
 The allocator operates under the premise that capital must be deployed in a manner consistent with stability, non wasteful structures, and long term value preservation.
 
-- **Proverbs 21:
+- Proverbs 21:
 5
 
-* 
+ 
 
-* speaks to the diligent and structured approach to resource management.
+ speaks to the diligent and structured approach to resource management.
 
 Stewardship in private credit requires accuracy, transparency, and structural discipline.
 

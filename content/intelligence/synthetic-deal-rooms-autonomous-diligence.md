@@ -243,16 +243,7 @@ Traditional funds operate like a factory line-deal enters, analysts process, par
 Each step gated by human speed.
 
 Synthetic Deal Rooms convert the factory into an autonomous engine.
-
-Deal enters.
-
-System consumes.
-
-Agents classify.
-
-Judgment emerges.
-
-Partner decides.
+ Deal enters. System consumes. Agents classify. Judgment emerges. Partner decides.
 
 You remove the middle.
 

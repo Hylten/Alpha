@@ -34,11 +34,11 @@ Where the firm becomes a system, not a hierarchy.
 
 Where dealflow becomes computable.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* speaks: A good man leaves an inheritance to his children’s children.
+ speaks: A good man leaves an inheritance to his children’s children.
 
 Capital permanence.
 
@@ -188,11 +188,7 @@ Agents score risk instantly.
 
 Agents generate ready‑review briefs.
 
-Agents triage misalignment.
-
-Agents escalate anomalies.
-
-Agents learn.
+Agents triage misalignment. Agents escalate anomalies. Agents learn.
 
 Machine gun sentences.
 
@@ -207,16 +203,7 @@ Because speed is a fiduciary duty.
 The architecture of agentic PE revolves around four layers. 
 
 ### Layer I:
-
-Signal Ingestion.
-
-Market feeds.
-
-Registry updates.
-
-Operational telemetry.
-
-Macro overlays.
+ Signal Ingestion. Market feeds. Registry updates. Operational telemetry. Macro overlays.
 
 Regulatory notices.
 
@@ -382,11 +369,7 @@ Cashflow corridors become visible.
 
 Covenants become living constraints.
 
-Capital efficiency increases.
-
-Loss ratios shrink.
-
-Speed compounds.
+Capital efficiency increases. Loss ratios shrink. Speed compounds.
 
 Nothing about this removes human authority.
 
@@ -586,11 +569,11 @@ A durable form of inheritance.
 
 As
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* instructs.
+ instructs.
 
 The new architecture of PE dealflow hinges on five mandates.
 
@@ -601,16 +584,7 @@ Eliminate analyst drag.
 Every minute of human delay compounds information decay.
 
 Machines hold pace.
-
-Humans cannot.
-
-Mandate Two.
-
-Encode judgment.
-
-Document preferences.
-
-Structure priorities.
+ Humans cannot. Mandate Two. Encode judgment. Document preferences. Structure priorities.
 
 Define risk appetite.
 
@@ -626,11 +600,7 @@ Obscure acquisition signals.
 
 Capture unlisted opportunities.
 
-Track distressed cycles.
-
-Interrogate counterparties silently.
-
-Mandate Four.
+Track distressed cycles. Interrogate counterparties silently. Mandate Four.
 
 Build sovereign systems.
 
@@ -647,16 +617,7 @@ Preserve edge.
 Mandate Five.
 
 Operate at strategic altitude.
-
-Principals decide.
-
-Agents execute.
-
-Boundaries clear.
-
-Authority firm.
-
-Outcomes consistent.
+ Principals decide. Agents execute. Boundaries clear. Authority firm. Outcomes consistent.
 
 Deal architecture becomes a craft.
 

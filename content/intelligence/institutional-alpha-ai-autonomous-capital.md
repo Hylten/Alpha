@@ -176,11 +176,11 @@ Three stewardship pillars guide the institutional framework:
 
 Non wasteful deployment Capital is allocated only into environments where operational intelligence is sufficient to predict asset behavior with precision.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* emphasizes generational resource preservation.
+ emphasizes generational resource preservation.
 
 Stewardship aligns with rigorous selection logic that protects capital from misallocation. 
 

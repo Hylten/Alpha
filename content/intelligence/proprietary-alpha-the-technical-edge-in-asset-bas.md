@@ -497,16 +497,7 @@ Closing Position Proprietary alpha inside Roials-Alpha is not accidental
 .
 
 It is engineered through conviction, discipline, and covenant stewardship.
-
-Algorithmic origination.
-
-Asset hardening.
-
-Execution velocity.
-
-Institutional readiness.
-
-Spiritual integrity.
+ Algorithmic origination. Asset hardening. Execution velocity. Institutional readiness. Spiritual integrity.
 
 This is the technical edge.
 

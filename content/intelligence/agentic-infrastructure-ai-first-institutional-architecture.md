@@ -214,11 +214,11 @@ THE STEWARDSHIP FILTER Stewardship within institutional capital systems refers t
 
 The principle reflects the broader mandate described in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* .
+ .
 
 Capital that is governed properly endures across generations.
 

@@ -240,11 +240,7 @@ If a risk factor is emerging, the room escalates alerts before the human sees th
 
 The result is an execution timeline that far outpaces traditional processes.
 
-Deals close faster.
-
-Diligence becomes cleaner.
-
-Uncertainty evaporates.
+Deals close faster. Diligence becomes cleaner. Uncertainty evaporates.
 
 THE AGENTIC INFRASTRUCTURE You asked about agentic infrastructure specifically
 

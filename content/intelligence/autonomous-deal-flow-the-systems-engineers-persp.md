@@ -52,11 +52,7 @@ The Structural Premise Autonomous deal flow depends on structural alignment
 
 Not brand polish.
 
-Not relationship theatrics.
-
-Not pitch decks.
-
-Only structure.
+Not relationship theatrics. Not pitch decks. Only structure.
 
 Structure that allows a deal to be:
 

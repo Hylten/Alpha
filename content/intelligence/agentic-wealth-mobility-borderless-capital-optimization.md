@@ -232,11 +232,11 @@ Reinforcement Learning must not be allowed to amplify volatility or pursue hyper
 
 A steward oriented model requires that RL engines incorporate constraints rooted in scriptural principles such as
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which emphasizes generational responsibility.
+ which emphasizes generational responsibility.
 
 In practical terms, the stewardship filter mandates four things.
 

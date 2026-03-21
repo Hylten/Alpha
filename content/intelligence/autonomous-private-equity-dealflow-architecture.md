@@ -141,11 +141,11 @@ The stewardship filter follows four principles:
 
 This aligns with the theology of capital exemplified in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which defines wealth not as accumulation but as intergenerational responsibility.
+ which defines wealth not as accumulation but as intergenerational responsibility.
 
 Autonomous filtration amplifies this responsibility by ensuring that capital is allocated to structurally coherent opportunities rather than narrative driven speculation.
 

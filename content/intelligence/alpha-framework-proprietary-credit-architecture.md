@@ -240,11 +240,11 @@ All counterparties operate pursuant to transparent and measurable structures.
 
 The Biblical principle in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* asserts that responsible resource management transcends the immediate generation.
+ asserts that responsible resource management transcends the immediate generation.
 
 For institutions and family offices, stewardship produces credit architectures that maintain integrity across cycles rather than pursuing superficial yield.
 

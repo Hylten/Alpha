@@ -34,11 +34,11 @@ Collateralization becomes perpetual.
 
 Default risk becomes a time-series, not an event.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* : Good man.
+ : Good man.
 
 Inheritance.
 
@@ -157,16 +157,7 @@ Lending precision increases.
 Risk compression follows.
 
 Machine Gun syntax.
-
-Rapid cadence.
-
-Hard stops.
-
-Predictive models.
-
-Zero drift.
-
-No guessing.
+ Rapid cadence. Hard stops. Predictive models. Zero drift. No guessing.
 
 Just computation.
 

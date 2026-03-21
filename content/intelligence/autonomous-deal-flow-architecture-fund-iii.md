@@ -180,11 +180,11 @@ Data is evaluated on its own merit.
 
 This aligns with the ethics presented in
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* which highlight continuity, responsibility, and long horizon capital logic. 
+ which highlight continuity, responsibility, and long horizon capital logic. 
 
 3.
 

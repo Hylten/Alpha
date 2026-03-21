@@ -86,11 +86,7 @@ Arbitrary cash management.
 
 No functional governance.
 
-No covenant literacy.
-
-No institutional alignment.
-
-Operators operate.
+No covenant literacy. No institutional alignment. Operators operate.
 
 They do not architect.
 

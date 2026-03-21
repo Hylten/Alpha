@@ -23,16 +23,7 @@ M&A Liquidity as a Multi‑Vector Problem Complex M&A is never linear
 .
 
 There are always layers.
-
-Regulatory constraints.
-
-Jurisdictional inconsistencies.
-
-Counterparty opacity.
-
-Collateral fragmentation.
-
-Solvency distortion.
+ Regulatory constraints. Jurisdictional inconsistencies. Counterparty opacity. Collateral fragmentation. Solvency distortion.
 
 Timing misalignment.
 

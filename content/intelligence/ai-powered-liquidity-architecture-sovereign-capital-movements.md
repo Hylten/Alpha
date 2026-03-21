@@ -154,11 +154,11 @@ Capital assigned without precision erodes institutional integrity.
 
 Capital structured with intentionality reinforces sustainability and multi generational continuity.
 
-- **Proverbs 13:22
+- Proverbs 13:22
 
-* 
+ 
 
-* defines stewardship as multi generational allocation.
+ defines stewardship as multi generational allocation.
 
 The integration of AI into Asset-Backed Frameworks ensures that resources are deployed with integrity, clarity, and long term accountability.
 
