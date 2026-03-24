@@ -77,10 +77,16 @@ export const MatrixIntro: React.FC = () => {
 
         {/* INJECTED TEXT ELEMENTS */}
         <div className="h-12 mt-6 relative flex justify-center items-center">
-          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitch3lit3_2.8s_linear_forwards]">
+          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord1_2.8s_linear_forwards]">
             3lit3
           </span>
-          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchAlpha_2.8s_linear_forwards]">
+          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord2_2.8s_linear_forwards]">
+            Alpha
+          </span>
+          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord3_2.8s_linear_forwards]">
+            Roials
+          </span>
+          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord4_2.8s_linear_forwards]">
             Alpha
           </span>
         </div>
@@ -95,23 +101,43 @@ export const MatrixIntro: React.FC = () => {
           100% { width: 100%; }
         }
 
-        @keyframes glitch3lit3 {
+        @keyframes glitchWord1 {
           0%, 9% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
           10% { opacity: 1; filter: blur(0px); transform: scale(1); }
           12% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
           14% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
           16% { transform: translate(0, 0); text-shadow: none; }
-          36% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          40%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
+          25% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          28%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
         }
 
-        @keyframes glitchAlpha {
-          0%, 47% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
-          48% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          50% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
-          52% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
-          54% { transform: translate(0, 0); text-shadow: none; }
-          90% { opacity: 1; filter: blur(0px); }
+        @keyframes glitchWord2 {
+          0%, 29% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
+          30% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          32% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
+          34% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          36% { transform: translate(0, 0); text-shadow: none; }
+          50% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          53%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
+        }
+
+        @keyframes glitchWord3 {
+          0%, 54% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
+          55% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          57% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
+          59% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          61% { transform: translate(0, 0); text-shadow: none; }
+          75% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          78%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
+        }
+
+        @keyframes glitchWord4 {
+          0%, 79% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
+          80% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          82% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
+          84% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          86% { transform: translate(0, 0); text-shadow: none; }
+          95% { opacity: 1; filter: blur(0px); }
           100% { opacity: 0; filter: blur(10px); }
         }
       `}</style>
