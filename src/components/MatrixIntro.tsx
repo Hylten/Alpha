@@ -32,7 +32,7 @@ export const MatrixIntro: React.FC = () => {
       ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
       ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-      ctx.fillStyle = '#0F0';
+      ctx.fillStyle = '#FFFFFF';
       ctx.font = fontSize + 'px monospace';
 
       for (let i = 0; i < rainDrops.length; i++) {
@@ -65,28 +65,28 @@ export const MatrixIntro: React.FC = () => {
     <div className="fixed inset-0 z-[9999] bg-black flex flex-col items-center justify-center overflow-hidden">
       <canvas ref={canvasRef} className="absolute inset-0 w-full h-full opacity-60" />
       <div className="relative z-10 text-center animate-pulse">
-        <h1 className="text-[#0F0] font-mono text-2xl md:text-5xl tracking-[0.3em] uppercase mb-4 drop-shadow-[0_0_8px_rgba(0,255,0,0.8)]">
+        <h1 className="text-white font-mono text-2xl md:text-5xl tracking-[0.3em] uppercase mb-4 drop-shadow-[0_0_8px_rgba(255,255,255,0.8)]">
           SYSTEM_BOOT_SEQUENCE
         </h1>
-        <p className="text-[#0F0]/70 font-mono text-sm tracking-widest uppercase mt-4">
+        <p className="text-white/70 font-mono text-sm tracking-widest uppercase mt-4">
           Decrypting Alpha Modules...
         </p>
-        <div className="w-64 h-1 bg-[#0F0]/20 rounded overflow-hidden mt-8 mx-auto">
-          <div className="h-full bg-[#0F0] shadow-[0_0_10px_#0F0] animate-[matrixLoad_2.8s_ease-out_forwards]"></div>
+        <div className="w-64 h-1 bg-white/20 rounded overflow-hidden mt-8 mx-auto">
+          <div className="h-full bg-white shadow-[0_0_10px_#FFFFFF] animate-[matrixLoad_2.8s_ease-out_forwards]"></div>
         </div>
 
         {/* INJECTED TEXT ELEMENTS */}
         <div className="h-12 mt-6 relative flex justify-center items-center">
-          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord1_2.8s_linear_forwards]">
+          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord1_2.8s_linear_forwards]">
             3lit3
           </span>
-          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord2_2.8s_linear_forwards]">
+          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord2_2.8s_linear_forwards]">
             Alpha
           </span>
-          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord3_2.8s_linear_forwards]">
+          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord3_2.8s_linear_forwards]">
             Roials
           </span>
-          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchWord4_2.8s_linear_forwards]">
+          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord4_2.8s_linear_forwards]">
             Alpha
           </span>
         </div>
@@ -104,8 +104,8 @@ export const MatrixIntro: React.FC = () => {
         @keyframes glitchWord1 {
           0%, 9% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
           10% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          12% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
-          14% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          12% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
+          14% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
           16% { transform: translate(0, 0); text-shadow: none; }
           25% { opacity: 1; filter: blur(0px); transform: scale(1); }
           28%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
@@ -114,8 +114,8 @@ export const MatrixIntro: React.FC = () => {
         @keyframes glitchWord2 {
           0%, 29% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
           30% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          32% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
-          34% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          32% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
+          34% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
           36% { transform: translate(0, 0); text-shadow: none; }
           50% { opacity: 1; filter: blur(0px); transform: scale(1); }
           53%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
@@ -124,8 +124,8 @@ export const MatrixIntro: React.FC = () => {
         @keyframes glitchWord3 {
           0%, 54% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
           55% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          57% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
-          59% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          57% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
+          59% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
           61% { transform: translate(0, 0); text-shadow: none; }
           75% { opacity: 1; filter: blur(0px); transform: scale(1); }
           78%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
@@ -134,8 +134,8 @@ export const MatrixIntro: React.FC = () => {
         @keyframes glitchWord4 {
           0%, 79% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
           80% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          82% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
-          84% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          82% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
+          84% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
           86% { transform: translate(0, 0); text-shadow: none; }
           95% { opacity: 1; filter: blur(0px); }
           100% { opacity: 0; filter: blur(10px); }
