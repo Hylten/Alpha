@@ -148,8 +148,8 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
                 .article-content li { margin-bottom: 1.8rem; }
                 .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 6rem 0; }
                 .article-content strong { color: #fff; font-weight: 500; }
-                .article-content a { color: #c5a059; text-decoration: underline; text-underline-offset: 4px; }
-                .article-content blockquote { border-left: 2px solid #c5a059; padding-left: 2rem; margin: 5rem 0; font-style: italic; color: rgba(229, 231, 235, 0.5); }
+                .article-content a { color: #FFFFFF; text-decoration: underline; text-underline-offset: 4px; }
+                .article-content blockquote { border-left: 2px solid #FFFFFF; padding-left: 2rem; margin: 5rem 0; font-style: italic; color: rgba(229, 231, 235, 0.5); }
             `}</style>
 
             <footer className="mt-16 text-center">

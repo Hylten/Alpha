@@ -9,8 +9,8 @@ export default {
       colors: {
         obsidian: '#0a0a0a',
         platinum: '#E5E7EB',
-        oldgold: '#C5A059',
-        'oldgold-dim': '#8a6d3b',
+        oldgold: '#FFFFFF', // sleek monochrome theme (formerly gold #C5A059)
+        'oldgold-dim': '#9CA3AF', // neutral gray (formerly dark gold #8a6d3b)
         charcoal: '#121212',
       },
       fontFamily: {

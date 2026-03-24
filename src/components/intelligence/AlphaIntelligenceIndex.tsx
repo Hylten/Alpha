@@ -67,7 +67,7 @@ export const AlphaIntelligenceIndex: React.FC = () => {
         <div className="pt-40 pb-24 px-6 md:px-12 max-w-4xl mx-auto min-h-screen font-sans">
             <div className="mb-20 text-center md:text-left relative z-10">
                 <div className="flex items-center justify-center md:justify-start gap-4 mb-6">
-                    <div className="w-2 h-2 bg-oldgold rounded-full animate-pulse shadow-[0_0_8px_rgba(197,160,89,0.6)]"></div>
+                    <div className="w-2 h-2 bg-oldgold rounded-full animate-pulse shadow-[0_0_8px_rgba(255,255,255,0.6)]"></div>
                     <span className="font-mono text-[10px] tracking-[0.2em] font-medium text-gray-400 uppercase">Module Active</span>
                 </div>
 
