@@ -74,6 +74,16 @@ export const MatrixIntro: React.FC = () => {
         <div className="w-64 h-1 bg-[#0F0]/20 rounded overflow-hidden mt-8 mx-auto">
           <div className="h-full bg-[#0F0] shadow-[0_0_10px_#0F0] animate-[matrixLoad_2.8s_ease-out_forwards]"></div>
         </div>
+
+        {/* INJECTED TEXT ELEMENTS */}
+        <div className="h-12 mt-6 relative flex justify-center items-center">
+          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitch3lit3_2.8s_linear_forwards]">
+            3lit3
+          </span>
+          <span className="absolute font-mono text-2xl md:text-3xl text-[#0F0] drop-shadow-[0_0_8px_rgba(0,255,0,0.8)] opacity-0 animate-[glitchAlpha_2.8s_linear_forwards]">
+            Alpha
+          </span>
+        </div>
       </div>
       <style>{`
         @keyframes matrixLoad {
@@ -83,6 +93,26 @@ export const MatrixIntro: React.FC = () => {
           60% { width: 70%; }
           80% { width: 85%; }
           100% { width: 100%; }
+        }
+
+        @keyframes glitch3lit3 {
+          0%, 9% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
+          10% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          12% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
+          14% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          16% { transform: translate(0, 0); text-shadow: none; }
+          36% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          40%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
+        }
+
+        @keyframes glitchAlpha {
+          0%, 47% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
+          48% { opacity: 1; filter: blur(0px); transform: scale(1); }
+          50% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(0,255,0,0.5), 2px 0 rgba(255,255,255,0.8); }
+          52% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(0,255,0,0.5), -2px 0 rgba(255,255,255,0.8); }
+          54% { transform: translate(0, 0); text-shadow: none; }
+          90% { opacity: 1; filter: blur(0px); }
+          100% { opacity: 0; filter: blur(10px); }
         }
       `}</style>
     </div>
