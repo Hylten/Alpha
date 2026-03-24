@@ -33,11 +33,11 @@ export const MatrixIntro: React.FC = () => {
     const startTime = Date.now();
 
     const targetSequence = [
-      { word: "3LIT3",  start: 0,    end: 1550 },
+      { word: "1337",   start: 0,    end: 1550 },
       { word: "ALPHA",  start: 1550, end: 2350 },
       { word: "ROIALS", start: 2350, end: 3150 },
       { word: "ALPHA",  start: 3150, end: 3950 },
-      { word: "3LIT3",  start: 3950, end: 5500 }
+      { word: "1337",   start: 3950, end: 5500 }
     ];
 
     const draw = () => {
