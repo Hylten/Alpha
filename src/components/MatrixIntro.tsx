@@ -20,25 +20,71 @@ export const MatrixIntro: React.FC = () => {
     const alphabet = katakana + latin + nums;
 
     const fontSize = 16;
-    const columns = canvas.width / fontSize;
+    const columns = Math.floor(canvas.width / fontSize);
+    const rows = Math.floor(canvas.height / fontSize);
 
     const rainDrops: number[] = [];
 
+    // Initialize all drops with random starts so they don't fall in a straight line
     for (let x = 0; x < columns; x++) {
-      rainDrops[x] = 1;
+      rainDrops[x] = Math.floor(Math.random() * rows);
     }
 
+    const startTime = Date.now();
+
+    const targetSequence = [
+      { word: "3LIT3",  start: 0,    end: 700 },
+      { word: "ALPHA",  start: 700,  end: 1400 },
+      { word: "ROIALS", start: 1400, end: 2100 },
+      { word: "ALPHA",  start: 2100, end: 3000 }
+    ];
+
     const draw = () => {
-      ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+      // Create the fade effect
+      ctx.fillStyle = 'rgba(0, 0, 0, 0.08)';
       ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-      ctx.fillStyle = '#FFFFFF';
       ctx.font = fontSize + 'px monospace';
 
+      const elapsed = Date.now() - startTime;
+      const currentTarget = targetSequence.find(t => elapsed >= t.start && elapsed < t.end);
+
       for (let i = 0; i < rainDrops.length; i++) {
-        const text = alphabet.charAt(Math.floor(Math.random() * alphabet.length));
+        let text = alphabet.charAt(Math.floor(Math.random() * alphabet.length));
+        
+        // Define standard rain drop color
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.4)';
+        
+        // --- ADVANCED CANVAS LETTER LOCKING ---
+        if (currentTarget) {
+          const word = currentTarget.word;
+          const startCol = Math.floor((columns - word.length) / 2);
+          const targetRow = Math.floor(rows / 2) + 4; // Render just below the loading bar
+
+          if (i >= startCol && i < startCol + word.length) {
+            const charIndex = i - startCol;
+            
+            // If the rain has passed this row, we force the proper character to stay frozen & glowing
+            if (rainDrops[i] >= targetRow) {
+               ctx.fillStyle = '#FFFFFF';
+               ctx.shadowBlur = 8;
+               ctx.shadowColor = '#FFFFFF';
+               ctx.fillText(word[charIndex], i * fontSize, targetRow * fontSize);
+               ctx.shadowBlur = 0; // Reset
+            }
+
+            // As the head of the drop hits the exact row, make the drop characters match the word
+            if (rainDrops[i] === targetRow) {
+               text = word[charIndex];
+               ctx.fillStyle = '#FFFFFF';
+            }
+          }
+        }
+
+        // Draw the moving rain drop
         ctx.fillText(text, i * fontSize, rainDrops[i] * fontSize);
 
+        // Reset drops to top randomly to keep continuous rain flow
         if (rainDrops[i] * fontSize > canvas.height && Math.random() > 0.975) {
           rainDrops[i] = 0;
         }
@@ -46,7 +92,7 @@ export const MatrixIntro: React.FC = () => {
       }
     };
 
-    const intervalId = setInterval(draw, 30);
+    const intervalId = setInterval(draw, 35); // Run ~30 fps
 
     const handleResize = () => {
       canvas.width = window.innerWidth;
@@ -63,8 +109,8 @@ export const MatrixIntro: React.FC = () => {
 
   return (
     <div className="fixed inset-0 z-[9999] bg-black flex flex-col items-center justify-center overflow-hidden">
-      <canvas ref={canvasRef} className="absolute inset-0 w-full h-full opacity-60" />
-      <div className="relative z-10 text-center animate-pulse">
+      <canvas ref={canvasRef} className="absolute inset-0 w-full h-full opacity-80" />
+      <div className="relative z-10 text-center animate-pulse mt-[-8rem]">
         <h1 className="text-white font-mono text-2xl md:text-5xl tracking-[0.3em] uppercase mb-4 drop-shadow-[0_0_8px_rgba(255,255,255,0.8)]">
           SYSTEM_BOOT_SEQUENCE
         </h1>
@@ -73,22 +119,6 @@ export const MatrixIntro: React.FC = () => {
         </p>
         <div className="w-64 h-1 bg-white/20 rounded overflow-hidden mt-8 mx-auto">
           <div className="h-full bg-white shadow-[0_0_10px_#FFFFFF] animate-[matrixLoad_2.8s_ease-out_forwards]"></div>
-        </div>
-
-        {/* INJECTED TEXT ELEMENTS */}
-        <div className="h-12 mt-6 relative flex justify-center items-center">
-          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord1_2.8s_linear_forwards]">
-            3lit3
-          </span>
-          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord2_2.8s_linear_forwards]">
-            Alpha
-          </span>
-          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord3_2.8s_linear_forwards]">
-            Roials
-          </span>
-          <span className="absolute font-mono text-2xl md:text-3xl text-white drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] opacity-0 animate-[glitchWord4_2.8s_linear_forwards]">
-            Alpha
-          </span>
         </div>
       </div>
       <style>{`
@@ -99,46 +129,6 @@ export const MatrixIntro: React.FC = () => {
           60% { width: 70%; }
           80% { width: 85%; }
           100% { width: 100%; }
-        }
-
-        @keyframes glitchWord1 {
-          0%, 9% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
-          10% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          12% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
-          14% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
-          16% { transform: translate(0, 0); text-shadow: none; }
-          25% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          28%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
-        }
-
-        @keyframes glitchWord2 {
-          0%, 29% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
-          30% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          32% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
-          34% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
-          36% { transform: translate(0, 0); text-shadow: none; }
-          50% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          53%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
-        }
-
-        @keyframes glitchWord3 {
-          0%, 54% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
-          55% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          57% { transform: translate(2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
-          59% { transform: translate(-2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
-          61% { transform: translate(0, 0); text-shadow: none; }
-          75% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          78%, 100% { opacity: 0; filter: blur(10px); transform: scale(1.1); }
-        }
-
-        @keyframes glitchWord4 {
-          0%, 79% { opacity: 0; filter: blur(5px); transform: scale(0.95); }
-          80% { opacity: 1; filter: blur(0px); transform: scale(1); }
-          82% { transform: translate(-2px, -2px); text-shadow: -2px 0 rgba(255,255,255,0.5), 2px 0 rgba(150,150,150,0.8); }
-          84% { transform: translate(2px, 2px); text-shadow: 2px 0 rgba(255,255,255,0.5), -2px 0 rgba(150,150,150,0.8); }
-          86% { transform: translate(0, 0); text-shadow: none; }
-          95% { opacity: 1; filter: blur(0px); }
-          100% { opacity: 0; filter: blur(10px); }
         }
       `}</style>
     </div>
