@@ -380,16 +380,7 @@ Automated Covenant Enforcement.
 # Pre Decision Mapping Decisions must be architected before opportunities appear.
 
 Pre decision mapping establishes:
-
-valuation boundaries.
-
-collateral expectations.
-
-default pathways.
-
-data requirements.
-
-communication sequences.
+ valuation boundaries. collateral expectations. default pathways. data requirements. communication sequences.
 
 This eliminates friction.
 

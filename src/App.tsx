@@ -1,13 +1,28 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Lock, Server, Cpu, Activity, ShieldCheck, Zap, X, Linkedin, AlertCircle } from 'lucide-react';
 import { AlphaIntelligenceIndex } from './components/intelligence/AlphaIntelligenceIndex';
 import { AlphaIntelligenceArticle } from './components/intelligence/AlphaIntelligenceArticle';
+import { MatrixIntro } from './components/MatrixIntro';
 
 function App() {
   const [showLogin, setShowLogin] = useState(false);
   const [loginError, setLoginError] = useState('');
   const [identifier, setIdentifier] = useState('');
   const [accessKey, setAccessKey] = useState('');
+  const [showIntro, setShowIntro] = useState(() => {
+    const isRoot = window.location.pathname === '/Alpha/' || window.location.pathname === '/' || window.location.pathname === '/Alpha';
+    return isRoot;
+  });
+
+  useEffect(() => {
+    if (showIntro) {
+      const timer = setTimeout(() => {
+        setShowIntro(false);
+      }, 3000);
+      return () => clearTimeout(timer);
+    }
+  }, [showIntro]);
+
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
@@ -28,6 +43,11 @@ function App() {
 
   // Intelligence Route Handler
   const path = window.location.pathname;
+
+  if (showIntro) {
+    return <MatrixIntro />;
+  }
+
   if (path.includes('/intelligence')) {
     const slug = path.split('/intelligence')[1].replace(/^\/|\/$/g, '');
 
