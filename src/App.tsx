@@ -18,7 +18,7 @@ function App() {
     if (showIntro) {
       const timer = setTimeout(() => {
         setShowIntro(false);
-      }, 4000);
+      }, 5500);
       return () => clearTimeout(timer);
     }
   }, [showIntro]);

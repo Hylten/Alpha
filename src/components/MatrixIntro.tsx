@@ -33,11 +33,11 @@ export const MatrixIntro: React.FC = () => {
     const startTime = Date.now();
 
     const targetSequence = [
-      { word: "3LIT3",  start: 0,    end: 800 },
-      { word: "ALPHA",  start: 800,  end: 1600 },
-      { word: "ROIALS", start: 1600, end: 2400 },
-      { word: "ALPHA",  start: 2400, end: 3200 },
-      { word: "3LIT3",  start: 3200, end: 4000 }
+      { word: "3LIT3",  start: 0,    end: 1550 },
+      { word: "ALPHA",  start: 1550, end: 2350 },
+      { word: "ROIALS", start: 2350, end: 3150 },
+      { word: "ALPHA",  start: 3150, end: 3950 },
+      { word: "3LIT3",  start: 3950, end: 5500 }
     ];
 
     const draw = () => {
@@ -119,7 +119,7 @@ export const MatrixIntro: React.FC = () => {
           Decrypting Alpha Modules...
         </p>
         <div className="w-64 h-1 bg-white/20 rounded overflow-hidden mt-8 mx-auto">
-          <div className="h-full bg-white shadow-[0_0_10px_#FFFFFF] animate-[matrixLoad_3.8s_ease-out_forwards]"></div>
+          <div className="h-full bg-white shadow-[0_0_10px_#FFFFFF] animate-[matrixLoad_5.3s_ease-out_forwards]"></div>
         </div>
       </div>
       <style>{`
