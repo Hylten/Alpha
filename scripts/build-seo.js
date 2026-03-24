@@ -109,10 +109,13 @@ async function generateSEO() {
     const indexHtml = baseHtml
         .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Alpha</title>')
         .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Proprietary intelligence on asset hardening, institutional migration, and the structural mechanics of Fund III+ expansions.">')
+        .replace('</head>', `  <link rel="canonical" href="${SITE_URL}/intelligence/" />\n</head>`)
         .replace('<div id="root"></div>', `<div id="root">${listHtml}${sharedButtons}</div>`);
 
     fs.writeFileSync(path.join(INTELLIGENCE_DIST_DIR, 'index.html'), indexHtml);
     console.log('✅ Generated /dist/intelligence/index.html');
+
+    const feedItems = [];
 
     // 2. Generate Article Pages
     for (const file of files) {
@@ -123,6 +126,32 @@ async function generateSEO() {
         const slug = data.slug || file.replace('.md', '');
         const title = data.title || 'Intelligence Article';
         const description = data.description || '';
+        const date = data.date || today;
+        const author = data.author || 'Roials Alpha';
+
+        feedItems.push({
+            id: slug,
+            url: `${SITE_URL}/intelligence/${slug}/`,
+            title: title,
+            summary: description,
+            date_published: new Date(date).toISOString(),
+            author: { name: author }
+        });
+
+        const schemaData = {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": title,
+            "description": description,
+            "author": { "@type": "Person", "name": author },
+            "publisher": { 
+                "@type": "Organization", 
+                "name": "Roials Alpha",
+                "logo": { "@type": "ImageObject", "url": `${SITE_URL}/logo.png` }
+            },
+            "datePublished": date,
+            "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/intelligence/${slug}/` }
+        };
 
         const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);
         ensureDir(articleDir);
@@ -146,6 +175,7 @@ async function generateSEO() {
         const articleHtml = baseHtml
             .replace(/<title>.*?<\/title>/, `<title>${title} | Roials Alpha</title>`)
             .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
+            .replace('</head>', `  <link rel="canonical" href="${SITE_URL}/intelligence/${slug}/" />\n  <script type="application/ld+json">${JSON.stringify(schemaData)}</script>\n</head>`)
             .replace('<div id="root"></div>', `<div id="root">${contentHtml}${sharedButtons}</div>`);
 
         fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
@@ -153,9 +183,6 @@ async function generateSEO() {
     }
 
     // 3. Generate sitemap.xml
-    const SITE_URL = 'https://hylten.github.io/Alpha';
-    const today = new Date().toISOString().split('T')[0];
-
     let sitemapUrls = `  <url>
     <loc>${SITE_URL}/</loc>
     <lastmod>${today}</lastmod>
@@ -167,17 +194,11 @@ async function generateSEO() {
     <priority>0.9</priority>
   </url>`;
 
-    for (const file of files) {
-        const filePath = path.join(CONTENT_DIR, file);
-        const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(rawContent);
-        const slug = data.slug || file.replace('.md', '');
-        const date = data.date || today;
-
+    for (const item of feedItems) {
         sitemapUrls += `
   <url>
-    <loc>${SITE_URL}/intelligence/${slug}/</loc>
-    <lastmod>${date}</lastmod>
+    <loc>${item.url}</loc>
+    <lastmod>${item.date_published.split('T')[0]}</lastmod>
     <priority>0.8</priority>
   </url>`;
     }
@@ -190,7 +211,18 @@ ${sitemapUrls}
     fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
     console.log('✅ Generated /dist/sitemap.xml');
 
-    // 4. Generate robots.txt
+    // 4. Generate JSON Feed
+    const feed = {
+        version: "https://jsonfeed.org/version/1.1",
+        title: "Roials Alpha Intelligence",
+        home_page_url: SITE_URL,
+        feed_url: `${SITE_URL}/feed.json`,
+        items: feedItems
+    };
+    fs.writeFileSync(path.join(DIST_DIR, 'feed.json'), JSON.stringify(feed, null, 2));
+    console.log('✅ Generated /dist/feed.json');
+
+    // 5. Generate robots.txt
     const robots = `User-agent: *
 Allow: /
 
