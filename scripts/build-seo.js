@@ -13,6 +13,9 @@ const INTELLIGENCE_DIST_DIR = path.join(DIST_DIR, 'intelligence');
 
 const SITE_URL = 'https://hylten.github.io/Alpha';
 
+const today = new Date().toISOString().split('T')[0];
+
+
 
 const ensureDir = (dirPath) => {
     if (!fs.existsSync(dirPath)) {
