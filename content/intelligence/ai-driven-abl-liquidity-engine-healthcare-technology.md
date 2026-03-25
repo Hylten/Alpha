@@ -1,8 +1,14 @@
 ---
-title: "AI Driven Asset-Based Lending as the New Liquidity Engine for Healthcare and Technology Capital Markets"
-description: "Institutional briefing on algorithmic asset based lending, liquidity engineering, and AI enabled credit architectures reshaping balance sheet structures for healthcare and technology operators across North America."
-date: "2026-02-03" author: "Jonas Hyltén"
-slug: "ai-driven-abl-liquidity-engine-healthcare-technology"
+title: >-
+  Ai Driven Asset-based Lending As The New Liquidity Engine For Healthcare And
+  Technology Capital Markets
+description: >-
+  Institutional briefing on algorithmic asset based lending, liquidity
+  engineering, and AI enabled credit architectures reshaping balance sheet
+  structures for healthcare and technology operators across North America.
+date: '2026-02-03'
+author: Jonas Hyltén
+slug: ai-driven-abl-liquidity-engine-healthcare-technology
 ---
 
 The structural gap in North American private credit is no longer defined by distressed energy assets, but by the absence of precision credit infrastructure for healthcare and technology operators whose balance sheets have outgrown conventional underwriting frameworks.

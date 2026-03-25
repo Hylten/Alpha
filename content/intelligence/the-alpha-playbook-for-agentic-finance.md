@@ -1,11 +1,14 @@
 ---
-title: "The Alpha Playbook for Agentic Finance"
-description: "A high authority blueprint on liquidity engineering, private credit, and asset based Capital Structuring for HNWI and UHNW investors."
-date: "2025-08-07" author: "Jonas Hyltén"
-slug: "the-alpha-playbook-for-agentic-finance"
+title: The Alpha Playbook For Agentic Finance
+description: >-
+  A high authority blueprint on liquidity engineering, private credit, and asset
+  based Capital Structuring for HNWI and UHNW investors.
+date: '2025-08-07'
+author: Jonas Hyltén
+slug: the-alpha-playbook-for-agentic-finance
 ---
 
-# The Alpha Playbook for Agentic Finance Agentic finance is not a trend
+## The Alpha Playbook for Agentic Finance Agentic finance is not a trend
 
 .
 
@@ -119,7 +122,7 @@ We allow you to move without selling.
 
 The Capital Intelligence
 
-# Layer C apital intelligence is the differentiator inside Roials Alpha.
+## Layer C apital intelligence is the differentiator inside Roials Alpha.
 
 Our systems read collateral the way high frequency systems read order books.
 
@@ -252,3 +255,8 @@ Final Signal Agentic finance belongs to those who can control their capital with
 .
 
 If you operate at that level, and you require liquidity infrastructure that performs at institutional scale, Roials Alpha exists for you.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

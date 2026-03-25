@@ -1,11 +1,14 @@
 ---
-title: "The Sovereign AI: Building the Alpha Future"
-description: "A deep analysis of sovereign-grade AI, private credit, and asset-based liquidity engineering structures engineered for liquidity at scale."
-date: "2025-07-08" author: "Jonas Hyltén"
-slug: "the-sovereign-ai-building-the-alpha-future"
+title: 'The Sovereign Ai: Building The Alpha Future'
+description: >-
+  A deep analysis of sovereign-grade AI, private credit, and asset-based
+  liquidity engineering structures engineered for liquidity at scale.
+date: '2025-07-08'
+author: Jonas Hyltén
+slug: the-sovereign-ai-building-the-alpha-future
 ---
 
-# The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept
+## The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept
 
 .
 
@@ -146,3 +149,8 @@ If you operate with the velocity of HNWI and UHNW capital.
 If you require structures that institutional capital has not yet learned to replicate.
 
 Then you are in the correct place.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

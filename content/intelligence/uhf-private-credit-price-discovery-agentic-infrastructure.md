@@ -1,8 +1,12 @@
 ---
-title: "The Principal Framework for Ultra‑High‑Frequency Private Credit Architecture"
-description: "A deep, institution‑grade analysis of continuous price discovery in non‑exchange private credit environments, engineered through AI‑first deal flow and agentic orchestration layers."
-date: "2026-01-16" author: "Roials Alpha"
-slug: "uhf-private-credit-price-discovery-agentic-infrastructure"
+title: The Principal Framework For Ultra‑high‑frequency Private Credit Architecture
+description: >-
+  A deep, institution‑grade analysis of continuous price discovery in
+  non‑exchange private credit environments, engineered through AI‑first deal
+  flow and agentic orchestration layers.
+date: '2026-01-16'
+author: Jonas Hyltén
+slug: uhf-private-credit-price-discovery-agentic-infrastructure
 ---
 
 Near‑continuous markets behave differently when there is no exchange, no lit order book, and no stabilizing reference price.

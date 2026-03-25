@@ -1,8 +1,14 @@
 ---
-title: "Agentic Wealth Mobility and Reinforcement Learning as the Catalyst for Borderless Capital Optimization"
-description: "Institutional briefing on algorithmic wealth mobility, reinforcement learning architectures, and the transition from jurisdiction bound allocation to agentic capital systems capable of autonomous cross-border optimization."
-date: "2025-12-09" author: "Jonas Hyltén"
-slug: "agentic-wealth-mobility-reinforcement-learning-borderless-capital-optimization"
+title: >-
+  Agentic Wealth Mobility And Reinforcement Learning As The Catalyst For
+  Borderless Capital Optimization
+description: >-
+  Institutional briefing on algorithmic wealth mobility, reinforcement learning
+  architectures, and the transition from jurisdiction bound allocation to
+  agentic capital systems capable of autonomous cross-border optimization.
+date: '2025-12-09'
+author: Jonas Hyltén
+slug: agentic-wealth-mobility-reinforcement-learning-borderless-capital-optimization
 ---
 
 The fragmentation of global capital markets is not a consequence of regulatory tightening.

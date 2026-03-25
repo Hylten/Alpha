@@ -1,8 +1,13 @@
 ---
-title: "The Future of Asset-Based Lending: Prompting the Liquidity Spider"
-description: "An institutional analysis of next-generation Asset Based Lending architecture, AI-driven credit mapping, and strategic liquidity engineering frameworks for allocators evaluating structural opportunities in North American private credit."
-date: "2025-09-27" author: "Jonas Hyltén"
-slug: "future-of-abl-liquidity-spider"
+title: 'The Future Of Asset-based Lending: Prompting The Liquidity Spider'
+description: >-
+  An institutional analysis of next-generation Asset Based Lending architecture,
+  AI-driven credit mapping, and strategic liquidity engineering frameworks for
+  allocators evaluating structural opportunities in North American private
+  credit.
+date: '2025-09-27'
+author: Jonas Hyltén
+slug: future-of-abl-liquidity-spider
 ---
 
 The dislocation in North American private credit is not the result of liquidity scarcity.

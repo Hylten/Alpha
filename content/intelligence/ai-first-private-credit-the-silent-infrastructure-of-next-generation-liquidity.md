@@ -1,11 +1,16 @@
 ---
-title: "AI-First Private Credit: The Silent Infrastructure of Next-Generation Liquidity"
-description: "Explore how AI-first private credit and asset based liquidity engineering unlock institutional-grade liquidity for HNWI and UHNW portfolios."
-date: "2025-11-18" author: "Jonas Hyltén"
-slug: "ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity"
+title: >-
+  Ai-first Private Credit: The Silent Infrastructure Of Next-generation
+  Liquidity
+description: >-
+  Explore how AI-first private credit and asset based liquidity engineering
+  unlock institutional-grade liquidity for HNWI and UHNW portfolios.
+date: '2025-11-18'
+author: Jonas Hyltén
+slug: ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity
 ---
 
-# The Future of AI-First Private Credit The private credit arena is entering a structural rewrite
+## The Future of AI-First Private Credit The private credit arena is entering a structural rewrite
 
 .
 
@@ -382,3 +387,8 @@ Asset based Monetization Architecture is becoming precision engineering.
 Liquidity is becoming a programmable asset.
 
 Roials-Alpha provides the silent structural authority that makes this future operational for HNWI and UHNW portfolios.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

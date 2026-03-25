@@ -1,8 +1,14 @@
 ---
-title: "Institutional Alpha in the Age of Autonomous Capital: The AI Driven Regime Shift"
-description: "A technical briefing on the structural evolution of institutional alpha as AI becomes the dominant mechanism for deal flow origination, credit architecture, and operational intelligence across global private markets."
-date: "2025-08-24" author: "Jonas Hyltén"
-slug: "institutional-alpha-ai-autonomous-capital"
+title: >-
+  Institutional Alpha In The Age Of Autonomous Capital: The Ai Driven Regime
+  Shift
+description: >-
+  A technical briefing on the structural evolution of institutional alpha as AI
+  becomes the dominant mechanism for deal flow origination, credit architecture,
+  and operational intelligence across global private markets.
+date: '2025-08-24'
+author: Jonas Hyltén
+slug: institutional-alpha-ai-autonomous-capital
 ---
 
 The capital vacuum emerging across global private markets is not a function of scarce liquidity but of analytical latency.

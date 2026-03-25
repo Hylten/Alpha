@@ -1,8 +1,13 @@
 ---
-title: "AI First Capital Migration: Technical Protocols for Institutional Realignment"
-description: "Institutional analysis on AI driven capital migration architectures, balance sheet optimization, and algorithmic credit structures positioned for UHNW allocators and private credit platforms recalibrating toward autonomous infrastructure centric liquidity engineering."
-date: "2025-10-15" author: "Jonas Hyltén"
-slug: "ai-first-capital-migration-technical-protocols"
+title: 'Ai First Capital Migration: Technical Protocols For Institutional Realignment'
+description: >-
+  Institutional analysis on AI driven capital migration architectures, balance
+  sheet optimization, and algorithmic credit structures positioned for UHNW
+  allocators and private credit platforms recalibrating toward autonomous
+  infrastructure centric liquidity engineering.
+date: '2025-10-15'
+author: Jonas Hyltén
+slug: ai-first-capital-migration-technical-protocols
 ---
 
 The structural gap in global capital markets is no longer geographic or sector based.

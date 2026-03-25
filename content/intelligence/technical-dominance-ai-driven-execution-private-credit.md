@@ -1,8 +1,15 @@
 ---
-title: "Technical Dominance: AI Driven Execution In Private Credit and Institutional Energy Origination"
-description: "A clinical examination of algorithmic deal flow, AI anchored credit architecture, and the institutional realignment shaping North American energy and private credit markets. Designed for UHNW allocators, Family Office CIOs, and Private Credit Directors seeking structural clarity."
-date: "2025-08-16" author: "Roials Capital (Institutional Briefing)"
-slug: "technical-dominance-ai-driven-execution-private-credit"
+title: >-
+  Technical Dominance: Ai Driven Execution In Private Credit And Institutional
+  Energy Origination
+description: >-
+  A clinical examination of algorithmic deal flow, AI anchored credit
+  architecture, and the institutional realignment shaping North American energy
+  and private credit markets. Designed for UHNW allocators, Family Office CIOs,
+  and Private Credit Directors seeking structural clarity.
+date: '2025-08-16'
+author: Jonas Hyltén
+slug: technical-dominance-ai-driven-execution-private-credit
 ---
 
 The capital vacuum in North America's energy sector is a function of regulatory drift rather than resource scarcity.

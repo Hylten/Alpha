@@ -1,8 +1,15 @@
 ---
-title: "Autonomous Liquidity Management for Sovereigns: Architecture, Regime Dynamics, and Institutional Navigation"
-description: "A high density institutional briefing on algorithmic liquidity engineering for sovereign allocators, technical structuring mechanics, and the operational role of Roials Capital as a strategic navigator within AI driven credit and energy linked collateral ecosystems."
-date: "2025-11-21" author: "Jonas Hyltén"
-slug: "autonomous-liquidity-management-sovereigns"
+title: >-
+  Autonomous Liquidity Management For Sovereigns: Architecture, Regime Dynamics,
+  And Institutional Navigation
+description: >-
+  A high density institutional briefing on algorithmic liquidity engineering for
+  sovereign allocators, technical structuring mechanics, and the operational
+  role of Roials Capital as a strategic navigator within AI driven credit and
+  energy linked collateral ecosystems.
+date: '2025-11-21'
+author: Jonas Hyltén
+slug: autonomous-liquidity-management-sovereigns
 ---
 
 The capital vacuum in North America’s energy sector is a regulatory artifact, not a resource constraint.

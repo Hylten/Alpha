@@ -1,8 +1,14 @@
 ---
-title: "Autonomous Asset Finance and the Institutional Migration Toward Algorithmic Alpha"
-description: "A technical briefing on the structural transition from human mediated capital deployment to autonomous, data driven credit engines that reshape private credit, asset backed finance, and institutional liquidity engineering."
-date: "2025-07-06" author: "Jonas Hyltén"
-slug: "autonomous-asset-finance-algorithmic-alpha-architecture"
+title: >-
+  Autonomous Asset Finance And The Institutional Migration Toward Algorithmic
+  Alpha
+description: >-
+  A technical briefing on the structural transition from human mediated capital
+  deployment to autonomous, data driven credit engines that reshape private
+  credit, asset backed finance, and institutional liquidity engineering.
+date: '2025-07-06'
+author: Jonas Hyltén
+slug: autonomous-asset-finance-algorithmic-alpha-architecture
 ---
 
 The capital vacuum defining the 2026 private credit landscape is not the result of a shortage of opportunities.

@@ -1,8 +1,13 @@
 ---
-title: "Autonomous Deal Flow Architecture for Fund-III Ops"
-description: "Institutional briefing on algorithmic deal origination, autonomous credit structuring, and liquidity engineering frameworks for Fund-III operations. Focus on removing human friction through systemized underwriting, rule based capital routing, and proprietary field intelligence integrations."
-date: "2025-09-04" author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-architecture-Fund-III"
+title: Autonomous Deal Flow Architecture For Fund-iii Ops
+description: >-
+  Institutional briefing on algorithmic deal origination, autonomous credit
+  structuring, and liquidity engineering frameworks for Fund-III operations.
+  Focus on removing human friction through systemized underwriting, rule based
+  capital routing, and proprietary field intelligence integrations.
+date: '2025-09-04'
+author: Jonas Hyltén
+slug: autonomous-deal-flow-architecture-Fund-III
 ---
 
 The structural gap defining North American private credit in 2026 is not a scarcity of opportunities but an excess of unstructured information that cannot be processed by legacy underwriting systems.

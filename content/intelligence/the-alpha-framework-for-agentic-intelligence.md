@@ -1,11 +1,14 @@
 ---
-title: "The Alpha Framework for Agentic Intelligence"
-description: "A deep technical exploration of Roials-Alpha and its liquidity architecture across private credit and asset based liquidity engineering."
-date: "2026-01-07" author: "Jonas Hyltén"
-slug: "the-alpha-framework-for-agentic-intelligence"
+title: The Alpha Framework For Agentic Intelligence
+description: >-
+  A deep technical exploration of Roials-Alpha and its liquidity architecture
+  across private credit and asset based liquidity engineering.
+date: '2026-01-07'
+author: Jonas Hyltén
+slug: the-alpha-framework-for-agentic-intelligence
 ---
 
-# The Alpha Framework for Agentic Intelligence Roials-Alpha exists for one reason
+## The Alpha Framework for Agentic Intelligence Roials-Alpha exists for one reason
 
 .
 
@@ -305,3 +308,8 @@ We turn collateral into strategy.
 We turn liquidity into principal authority.
 
 This is Roials-Alpha.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

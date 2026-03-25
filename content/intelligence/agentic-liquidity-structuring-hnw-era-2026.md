@@ -1,8 +1,14 @@
 ---
-title: "Agentic Dealflow Architecture for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
-description: "An institutional grade analysis on agentic capital structuring, liquidity engineering, and next generation deal mechanics for UHNW and mid market private equity mandates entering 2026."
-date: "2025-11-06" author: "Jonas Hyltén"
-slug: "agentic-liquidity-structuring-hnw-era-2026"
+title: >-
+  Agentic Dealflow Architecture For The Hnw Era: High Frequency Liquidity
+  Structuring At Institutional Precision
+description: >-
+  An institutional grade analysis on agentic capital structuring, liquidity
+  engineering, and next generation deal mechanics for UHNW and mid market
+  private equity mandates entering 2026.
+date: '2025-11-06'
+author: Jonas Hyltén
+slug: agentic-liquidity-structuring-hnw-era-2026
 ---
 
 [START INTELLIGENCE REPORT]
@@ -264,3 +270,8 @@ The future of capital is agentic.
 The future of liquidity is engineered.
 
 And the future of principal to principal deal execution will be defined by the synthesis of sovereign control, technical precision, and disciplined stewardship. [END INTELLIGENCE REPORT]
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

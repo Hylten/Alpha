@@ -1,11 +1,15 @@
 ---
-title: "The Future of Alpha: Agentic Infrastructure for Private Credit Dominance"
-description: "High net worth liquidity engineering through private credit and asset based Monetization Architecture. Strategic insight into future agentic infrastructure for accelerated capital velocity."
-date: "2025-10-29" author: "Jonas Hyltén"
-slug: "the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance"
+title: 'The Future Of Alpha: Agentic Infrastructure For Private Credit Dominance'
+description: >-
+  High net worth liquidity engineering through private credit and asset based
+  Monetization Architecture. Strategic insight into future agentic
+  infrastructure for accelerated capital velocity.
+date: '2025-10-29'
+author: Jonas Hyltén
+slug: the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance
 ---
 
-# The Future of Alpha: Agentic Infrastructure Alpha is no longer extracted
+## The Future of Alpha: Agentic Infrastructure Alpha is no longer extracted
 
 .
 
@@ -266,3 +270,8 @@ It is the silent force that converts information into capital velocity.
 It is the next evolution of private credit and asset based Monetization Architecture.
 
 And the operators who harness it first will dominate the next cycle.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,11 +1,15 @@
 ---
-title: "The Proprietary Path to Autonomous Capital"
-description: "A high-authority exploration of Roials-Alpha liquidity structures, private credit, and asset based liquidity engineering engineered for HNWI and UHNW capital autonomy."
-date: "2025-06-24" author: "Jonas Hyltén"
-slug: "the-proprietary-path-to-autonomous-capital"
+title: The Proprietary Path To Autonomous Capital
+description: >-
+  A high-authority exploration of Roials-Alpha liquidity structures, private
+  credit, and asset based liquidity engineering engineered for HNWI and UHNW
+  capital autonomy.
+date: '2025-06-24'
+author: Jonas Hyltén
+slug: the-proprietary-path-to-autonomous-capital
 ---
 
-# The Proprietary Path to Autonomous Capital Capital is no longer passive
+## The Proprietary Path to Autonomous Capital Capital is no longer passive
 
 .
 
@@ -366,3 +370,8 @@ Roials-Alpha creates that environment.
 The Quiet Invitation If you operate at the level where liquidity is strategy, where capital is an instrument, and where leverage is a tool of precision, then the path is open
 
 .
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

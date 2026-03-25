@@ -1,14 +1,14 @@
 ---
-title: "basta praxis for ai i svensk tillverkningsindustri"
-description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
-date: "2026-03-25"
-author: "Jonas Hyltén"
-slug: "basta-praxis-for-ai-i-svensk-tillverkningsindustri"
+title: Basta Praxis For Ai I Svensk Tillverkningsindustri
+description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+date: '2026-03-25'
+author: Jonas Hyltén
+slug: basta-praxis-for-ai-i-svensk-tillverkningsindustri
 ---
 
 
 
-# Best Practices for AI in Swedish Manufacturing
+## Best Practices for AI in Swedish Manufacturing
 
 ## The New Era of Industrial Intelligence
 
@@ -296,3 +296,8 @@ Those who ignore disappear.
 Roials Alpha builds the infrastructure that makes factories autonomous, predictive, and self‑optimizing.
 
 Inquire about agentic infrastructure
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

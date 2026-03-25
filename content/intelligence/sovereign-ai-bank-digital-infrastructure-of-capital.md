@@ -1,8 +1,15 @@
 ---
-title: "The Sovereign AI Bank: Digital Infrastructure for Institutional Capital Allocation"
-description: "A technical briefing on AI-first credit architecture, liquidity engineering, and the emerging sovereign-grade digital capital stack positioning UHNWIs and institutional allocators for structural alignment in a post‑discretionary market regime."
-date: "2025-10-26" author: "Jonas Hyltén"
-slug: "sovereign-ai-bank-digital-infrastructure-of-capital"
+title: >-
+  The Sovereign Ai Bank: Digital Infrastructure For Institutional Capital
+  Allocation
+description: >-
+  A technical briefing on AI-first credit architecture, liquidity engineering,
+  and the emerging sovereign-grade digital capital stack positioning UHNWIs and
+  institutional allocators for structural alignment in a post‑discretionary
+  market regime.
+date: '2025-10-26'
+author: Jonas Hyltén
+slug: sovereign-ai-bank-digital-infrastructure-of-capital
 ---
 
 The structural gap forming across North American and European credit markets in 2026 is not a product of economic instability.

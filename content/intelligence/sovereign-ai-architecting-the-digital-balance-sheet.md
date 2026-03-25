@@ -1,11 +1,14 @@
 ---
-title: "Sovereign AI: Architecting the Digital Balance Sheet"
-description: "A high-end strategic analysis of AI structured liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital architecture."
-date: "2025-08-06" author: "Jonas Hyltén"
-slug: "sovereign-ai-architecting-the-digital-balance-sheet"
+title: 'Sovereign Ai: Architecting The Digital Balance Sheet'
+description: >-
+  A high-end strategic analysis of AI structured liquidity, private credit, and
+  asset based liquidity engineering for HNWI and UHNW capital architecture.
+date: '2025-08-06'
+author: Jonas Hyltén
+slug: sovereign-ai-architecting-the-digital-balance-sheet
 ---
 
-# Sovereign AI: Architecting the Digital Balance Sheet Sovereign AI is no longer a frontier concept
+## Sovereign AI: Architecting the Digital Balance Sheet Sovereign AI is no longer a frontier concept
 
 .
 
@@ -238,3 +241,8 @@ Final Perspective Sovereign AI is the new standard for capital autonomy
 The digital balance sheet is the new instrument of financial sovereignty.
 
 Roials-Alpha provides the structural mechanics that allow HNWI and UHNW clients to operate with principal authority, institutional-grade precision, and uninterrupted liquidity.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

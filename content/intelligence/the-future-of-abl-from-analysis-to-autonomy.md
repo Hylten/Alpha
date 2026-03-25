@@ -1,11 +1,14 @@
 ---
-title: "The Future of Asset-Based Lending: From Analysis to Autonomy"
-description: "A high-authority exploration of next‑generation asset based liquidity engineering and liquidity architecture for HNWI and UHNW clients."
-date: "2025-11-29" author: "Jonas Hyltén"
-slug: "the-future-of-abl-from-analysis-to-autonomy"
+title: 'The Future Of Asset-based Lending: From Analysis To Autonomy'
+description: >-
+  A high-authority exploration of next‑generation asset based liquidity
+  engineering and liquidity architecture for HNWI and UHNW clients.
+date: '2025-11-29'
+author: Jonas Hyltén
+slug: the-future-of-abl-from-analysis-to-autonomy
 ---
 
-# The Future of Asset-Based Lending: From Analysis to Autonomy Asset Based Capital Structuring is shifting
+## The Future of Asset-Based Lending: From Analysis to Autonomy Asset Based Capital Structuring is shifting
 
 .
 
@@ -346,3 +349,8 @@ Roials-Alpha provides:
 • Infrastructure engineered for HNWI and UHNW clients The future of Asset-Based Lending is not analysis.
 
 The future of Asset-Based Lending is autonomy.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

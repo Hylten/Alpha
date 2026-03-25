@@ -1,8 +1,15 @@
 ---
-title: "The Future of Alpha: AI Centric Sovereign Financing and the Institutional Reordering of Global Credit"
-description: "A high density institutional briefing on the structural realignment of sovereign finance, the rise of AI driven credit architectures, and the emergence of algorithmic deal flow as the dominant source of non correlated alpha for UHNW allocators."
-date: "2025-09-13" author: "Jonas Hyltén"
-slug: "ai-centric-sovereign-financing-alpha"
+title: >-
+  The Future Of Alpha: Ai Centric Sovereign Financing And The Institutional
+  Reordering Of Global Credit
+description: >-
+  A high density institutional briefing on the structural realignment of
+  sovereign finance, the rise of AI driven credit architectures, and the
+  emergence of algorithmic deal flow as the dominant source of non correlated
+  alpha for UHNW allocators.
+date: '2025-09-13'
+author: Jonas Hyltén
+slug: ai-centric-sovereign-financing-alpha
 ---
 
 The capital vacuum in global sovereign finance is no longer defined by interest rate cycles or geopolitical volatility.
@@ -148,7 +155,7 @@ The firm does not act as a fund manager or sovereign lender.
 
 Instead,
 
-# THE MANDAT E
+## THE MANDAT E
 
 is to generate structural clarity for UHNWIs, private credit allocators, and sovereign aligned institutions that require:
 
@@ -245,3 +252,8 @@ Roials Capital functions as the strategic partner in this process.
 The firm does not direct capital.
 
 It engineers clarity, alignment, and
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

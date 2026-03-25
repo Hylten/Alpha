@@ -1,11 +1,15 @@
 ---
-title: "The Alpha Advantage in Automated Credit Analysis"
-description: "Explore how Roials-Alpha delivers institutional-grade liquidity through advanced automated credit analysis for private credit and asset based liquidity engineering."
-date: "2025-09-08" author: "Jonas Hyltén"
-slug: "the-alpha-advantage-in-automated-credit-analysis"
+title: The Alpha Advantage In Automated Credit Analysis
+description: >-
+  Explore how Roials-Alpha delivers institutional-grade liquidity through
+  advanced automated credit analysis for private credit and asset based
+  liquidity engineering.
+date: '2025-09-08'
+author: Jonas Hyltén
+slug: the-alpha-advantage-in-automated-credit-analysis
 ---
 
-# The Alpha Advantage in Automated Credit Analysis Precision in credit evaluation has become the defining separator between legacy lenders and future‑native capital allocators
+## The Alpha Advantage in Automated Credit Analysis Precision in credit evaluation has become the defining separator between legacy lenders and future‑native capital allocators
 
 .
 
@@ -50,3 +54,8 @@ They need autonomous infrastructure that functions at institutional grade withou
 This is the Alpha Advantage.
 
 This is Roials-Alpha.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

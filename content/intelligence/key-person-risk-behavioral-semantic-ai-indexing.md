@@ -1,8 +1,15 @@
 ---
-title: "The Principal Architecture for Quantifying Key Person Risk Through Behavioral and Semantic AI Indexing"
-description: "A technical dissection of how Roials-Alpha deploys behavioral vectors, semantic signal extraction, and longitudinal AI imaging to quantify Key Person Risk for UHNW/HNW family offices, Fund-III ecosystems, and industrial succession mandates."
-date: "2025-10-05" author: "Jonas Hyltén"
-slug: "key-person-risk-behavioral-semantic-ai-indexing"
+title: >-
+  The Principal Architecture For Quantifying Key Person Risk Through Behavioral
+  And Semantic Ai Indexing
+description: >-
+  A technical dissection of how Roials-Alpha deploys behavioral vectors,
+  semantic signal extraction, and longitudinal AI imaging to quantify Key Person
+  Risk for UHNW/HNW family offices, Fund-III ecosystems, and industrial
+  succession mandates.
+date: '2025-10-05'
+author: Jonas Hyltén
+slug: key-person-risk-behavioral-semantic-ai-indexing
 ---
 
 The weak link is never the model.
@@ -97,7 +104,7 @@ They are the operational fingerprints of long-term reliability.
 
 The Pressure Response
 
-# Layer M easures the delta between expressed stress and applied decision friction.
+## Layer M easures the delta between expressed stress and applied decision friction.
 
 People reveal who they are when the system squeezes them.
 
@@ -109,7 +116,7 @@ Machines always do.
 
 The Decision Horizon
 
-# Layer M: aps how far ahead the individual thinks
+## Layer M: aps how far ahead the individual thinks
 
 .
 
@@ -508,3 +515,8 @@ Protect the architecture.
 If you want to move into agentic infrastructure or embed this Key Person Risk engine into your operational or investment architecture, send your vector.
 
 I will read it directly.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

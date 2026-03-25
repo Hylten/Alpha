@@ -1,8 +1,15 @@
 ---
-title: "The Alpha Playbook for Agentic Finance: Institutional Navigation in a Machine-Structured Credit Regime"
-description: "A technical briefing on algorithmic liquidity engineering, agentic credit architectures, and the institutional redesign of UHNW family office capital systems. Focus on structural arbitrage, operational intelligence, and the emergence of AI governed balance sheet mechanics."
-date: "2026-02-22" author: "Jonas Hyltén"
-slug: "alpha-playbook-agentic-finance"
+title: >-
+  The Alpha Playbook For Agentic Finance: Institutional Navigation In A
+  Machine-structured Credit Regime
+description: >-
+  A technical briefing on algorithmic liquidity engineering, agentic credit
+  architectures, and the institutional redesign of UHNW family office capital
+  systems. Focus on structural arbitrage, operational intelligence, and the
+  emergence of AI governed balance sheet mechanics.
+date: '2026-02-22'
+author: Jonas Hyltén
+slug: alpha-playbook-agentic-finance
 ---
 
 The structural gap defining the 2026 capital markets is not volatility.

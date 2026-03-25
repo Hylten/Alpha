@@ -1,8 +1,13 @@
 ---
-title: "The Proprietary Path to Autonomous Capital"
-description: "Institutional briefing on autonomous capital architectures, algorithmic deal orchestration, and the operational mechanics behind AI-driven credit origination for UHNW family offices seeking non-correlated private markets exposure with institutional-grade governance."
-date: "2025-11-16" author: "Jonas Hyltén"
-slug: "proprietary-path-to-autonomous-capital"
+title: The Proprietary Path To Autonomous Capital
+description: >-
+  Institutional briefing on autonomous capital architectures, algorithmic deal
+  orchestration, and the operational mechanics behind AI-driven credit
+  origination for UHNW family offices seeking non-correlated private markets
+  exposure with institutional-grade governance.
+date: '2025-11-16'
+author: Jonas Hyltén
+slug: proprietary-path-to-autonomous-capital
 ---
 
 The structural gap facing allocators in 2026 is not a shortage of opportunity.

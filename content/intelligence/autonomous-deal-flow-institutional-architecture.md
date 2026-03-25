@@ -1,8 +1,14 @@
 ---
-title: "Autonomous Deal Flow for Institutional Investors: The New Architecture of High-Velocity Capital"
-description: "Analytical briefing on AI-first origination, liquidity engineering, institutional deal routing, and the structural migration from human-gated sourcing to autonomous capital architectures."
-date: "2025-10-30" author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-institutional-architecture"
+title: >-
+  Autonomous Deal Flow For Institutional Investors: The New Architecture Of
+  High-velocity Capital
+description: >-
+  Analytical briefing on AI-first origination, liquidity engineering,
+  institutional deal routing, and the structural migration from human-gated
+  sourcing to autonomous capital architectures.
+date: '2025-10-30'
+author: Jonas Hyltén
+slug: autonomous-deal-flow-institutional-architecture
 ---
 
 The misalignment between institutional liquidity cycles and traditional human-gated sourcing channels has created a structural gap across North American private markets.

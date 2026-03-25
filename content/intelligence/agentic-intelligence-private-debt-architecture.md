@@ -1,8 +1,12 @@
 ---
-title: "Agentic Intelligence and the New Architecture of Private Debt"
-description: "Institutional briefing on the structural transition toward agentic credit systems, algorithmic underwriting, and the AI driven transformation of private debt allocation for UHNWIs and institutional LPs."
-date: "2025-07-23" author: "Jonas Hyltén"
-slug: "agentic-intelligence-private-debt-architecture"
+title: Agentic Intelligence And The New Architecture Of Private Debt
+description: >-
+  Institutional briefing on the structural transition toward agentic credit
+  systems, algorithmic underwriting, and the AI driven transformation of private
+  debt allocation for UHNWIs and institutional LPs.
+date: '2025-07-23'
+author: Jonas Hyltén
+slug: agentic-intelligence-private-debt-architecture
 ---
 
 The structural gap in private credit today is a function of operational latency, not a shortage of capital.

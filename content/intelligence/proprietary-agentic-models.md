@@ -1,11 +1,12 @@
 ---
-title: "Proprietary Agentic Models"
-description: "Insights on Proprietary Agentic Models from Roials Capital and Hyltén Invest."
-date: "2025-11-10" author: "Jonas Hyltén"
-slug: "proprietary-agentic-models"
+title: Proprietary Agentic Models
+description: Insights on Proprietary Agentic Models from Roials Capital and Hyltén Invest.
+date: '2025-11-10'
+author: Jonas Hyltén
+slug: proprietary-agentic-models
 ---
 
-# Proprietary Agentic Models Roials-Alpha Edition Proprietary agentic models define the next era of autonomous computation
+## Proprietary Agentic Models Roials-Alpha Edition Proprietary agentic models define the next era of autonomous computation
 
 .
 
@@ -492,3 +493,8 @@ They redefine organizational structure.
 They create economic dominance for teams that deploy them early.
 
 Roials-Alpha builds them with precision, stability, and strategic depth.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

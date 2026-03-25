@@ -1,11 +1,18 @@
 ---
-title: "The Proprietary Intelligence Model That Redefines Asset-Based Lending for Modern Private Credit"
-description: "Roials-Alpha introduces a proprietary intelligence model engineered for high-speed liquidity and institutional-grade asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2026-01-03" author: "Jonas Hyltén"
-slug: "the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit"
+title: >-
+  The Proprietary Intelligence Model That Redefines Asset-based Lending For
+  Modern Private Credit
+description: >-
+  Roials-Alpha introduces a proprietary intelligence model engineered for
+  high-speed liquidity and institutional-grade asset based liquidity engineering
+  for HNWI and UHNW portfolios.
+date: '2026-01-03'
+author: Jonas Hyltén
+slug: >-
+  the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit
 ---
 
-# The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha Edition Asset Based Asset-Backed Frameworks is no longer a mechanical underwriting play
+## The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha Edition Asset Based Asset-Backed Frameworks is no longer a mechanical underwriting play
 
 .
 
@@ -180,3 +187,8 @@ This is the Roials-Alpha framework.
 We do not provide liquidity facilities.
 
 We provide computational liquidity infrastructure for the modern wealth class.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

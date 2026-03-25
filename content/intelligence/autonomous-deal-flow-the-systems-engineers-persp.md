@@ -1,11 +1,12 @@
 ---
-title: "Autonomous Deal Flow: The Systems EngineerS Persp"
-description: "Autonomous Deal Flow: The Systems EngineerS Persp"
-date: "2025-10-15" author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-the-systems-engineers-persp"
+title: 'Autonomous Deal Flow: The Systems Engineers Persp'
+description: 'Autonomous Deal Flow: The Systems EngineerS Persp'
+date: '2025-10-15'
+author: Jonas Hyltén
+slug: autonomous-deal-flow-the-systems-engineers-persp
 ---
 
-# Autonomous Deal Flow
+## Autonomous Deal Flow
 
 .
 
@@ -454,3 +455,8 @@ It transforms private credit from a negotiation sport into a system of order.
 In this architecture, randomness disappears.
 
 Only mandate remains.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

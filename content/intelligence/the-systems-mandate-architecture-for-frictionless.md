@@ -1,11 +1,12 @@
 ---
-title: "The Systems Mandate: Architecture For Frictionless"
-description: "The Systems Mandate: Architecture For Frictionless"
-date: "2026-01-09" author: "Jonas Hyltén"
-slug: "the-systems-mandate-architecture-for-frictionless"
+title: 'The Systems Mandate: Architecture For Frictionless'
+description: 'The Systems Mandate: Architecture For Frictionless'
+date: '2026-01-09'
+author: Jonas Hyltén
+slug: the-systems-mandate-architecture-for-frictionless
 ---
 
-# The Systems Mandate
+## The Systems Mandate
 
 .
 
@@ -405,3 +406,8 @@ The marketplace acknowledges it.
 CTA Access is restricted to approved mandates
 
 .
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

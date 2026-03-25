@@ -1,11 +1,14 @@
 ---
-title: "Agentic Systems for Sovereign Capital Migration"
-description: "High‑precision liquidity engineering using private credit and asset based Strategic Collateralization structures for HNWI and UHNW capital velocity."
-date: "2025-10-02" author: "Jonas Hyltén"
-slug: "agentic-systems-for-sovereign-capital-migration"
+title: Agentic Systems For Sovereign Capital Migration
+description: >-
+  High‑precision liquidity engineering using private credit and asset based
+  Strategic Collateralization structures for HNWI and UHNW capital velocity.
+date: '2025-10-02'
+author: Jonas Hyltén
+slug: agentic-systems-for-sovereign-capital-migration
 ---
 
-# Agentic Systems for Sovereign Capital Migration The architecture of global wealth is shifting
+## Agentic Systems for Sovereign Capital Migration The architecture of global wealth is shifting
 
 .
 
@@ -85,7 +88,7 @@ Once an asset becomes a risk object, it becomes actionable.
 
 Liquidity Extraction Layer This
 
-# Layer D etermines how much liquidity can be safely unlocked without degrading asset integrity.
+## Layer D etermines how much liquidity can be safely unlocked without degrading asset integrity.
 
 It uses multi vector assessments that include collateral stress, market conditions, price velocity, and liquidation thresholds.
 
@@ -177,3 +180,8 @@ We invite only those who understand the value of structural sovereignty.
 Access is restricted to approved mandates
 
 .
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

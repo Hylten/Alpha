@@ -1,8 +1,12 @@
 ---
-title: "The Proprietary Model for Automated Asset Hardening"
-description: "An institutional architecture briefing detailing AI-first asset hardening, automated credit scaffolds, and Roials-Alpha private capital infrastructure engineered for UHNW/HNW family offices."
-date: "2026-01-17" author: "Jonas Hyltén"
-slug: "proprietary-model-automated-asset-hardening"
+title: The Proprietary Model For Automated Asset Hardening
+description: >-
+  An institutional architecture briefing detailing AI-first asset hardening,
+  automated credit scaffolds, and Roials-Alpha private capital infrastructure
+  engineered for UHNW/HNW family offices.
+date: '2026-01-17'
+author: Jonas Hyltén
+slug: proprietary-model-automated-asset-hardening
 ---
 
 The modern capital estate requires insulation, leverage, velocity, and a controlled dissociation between personal wealth and operational risk surfaces.
@@ -167,7 +171,7 @@ The personal estate must remain isolated, insulated, and unexposed to credit ope
 
 The capital
 
-# Layer M ust remain aggressive, mobile, and algorithmically optimized.
+## Layer M ust remain aggressive, mobile, and algorithmically optimized.
 
 Separation is not optional.
 
@@ -504,3 +508,8 @@ Unbreakable.
 End metric: Systemic Hardening Coefficient target ≥ 0.
 
 82 across all capital layers.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

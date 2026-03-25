@@ -1,8 +1,12 @@
 ---
-title: "The Future of Asset-Based Lending: From Analysis to Autonomy"
-description: "A principal-grade examination of autonomous asset‑based lending systems, algorithmic credit architectures, and institutional-scale liquidity engineering frameworks for UHNW/HNW family offices."
-date: "2026-02-12" author: "Jonas Hyltén"
-slug: "future-of-abl-from-analysis-to-autonomy"
+title: 'The Future Of Asset-based Lending: From Analysis To Autonomy'
+description: >-
+  A principal-grade examination of autonomous asset‑based lending systems,
+  algorithmic credit architectures, and institutional-scale liquidity
+  engineering frameworks for UHNW/HNW family offices.
+date: '2026-02-12'
+author: Jonas Hyltén
+slug: future-of-abl-from-analysis-to-autonomy
 ---
 
 The next epoch of Asset-Based Lending is no longer analytical.
@@ -195,7 +199,7 @@ Stress propagation.
 
 The interpretive
 
-# Layer D: ecides
+## Layer D: ecides
 
 .
 
@@ -446,3 +450,8 @@ The institutions that deploy autonomous architectures now will own the most valu
 If you require the infrastructure that transforms credit into an autonomous system, 
 
 Completion Metric: Latency Threshold < 42ms.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

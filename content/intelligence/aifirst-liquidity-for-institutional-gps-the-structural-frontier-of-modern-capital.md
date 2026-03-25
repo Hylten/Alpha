@@ -1,11 +1,18 @@
 ---
-title: "AI‑First Liquidity for Institutional GPs: The Structural Frontier of Modern Capital"
-description: "High end analysis of AI‑driven liquidity mechanics for private credit and asset based liquidity engineering. Tailored for institutional GPs and UHNW capital allocators."
-date: "2025-12-05" author: "Jonas Hyltén"
-slug: "aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital"
+title: >-
+  Ai‑first Liquidity For Institutional Gps: The Structural Frontier Of Modern
+  Capital
+description: >-
+  High end analysis of AI‑driven liquidity mechanics for private credit and
+  asset based liquidity engineering. Tailored for institutional GPs and UHNW
+  capital allocators.
+date: '2025-12-05'
+author: Jonas Hyltén
+slug: >-
+  aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital
 ---
 
-# AI First Liquidity for Institutional GPs [Institutional capital]([Roials Capital](https://roialscapital.com/)) is reorganizing itself around a single principle
+## AI First Liquidity for Institutional GPs [Institutional capital]([Roials Capital](https://roialscapital.com/)) is reorganizing itself around a single principle
 
 .
 
@@ -408,3 +415,8 @@ We activate capital that others leave dormant.
 We create Capital Structuring pathways that transform balance sheets into mobility systems.
 
 If you operate at the high end of capital, you know exactly why this matters.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,8 +1,13 @@
 ---
-title: "AI Powered Liquidity Architecture for Sovereign Level Capital Movements"
-description: "An institutional briefing on algorithmic liquidity systems, AI structured credit engines, machine governed allocation pathways, and the emerging architecture powering sovereign scale capital navigation across global private markets."
-date: "2025-06-28" author: "Jonas Hyltén"
-slug: "ai-powered-liquidity-architecture-sovereign-capital"
+title: Ai Powered Liquidity Architecture For Sovereign Level Capital Movements
+description: >-
+  An institutional briefing on algorithmic liquidity systems, AI structured
+  credit engines, machine governed allocation pathways, and the emerging
+  architecture powering sovereign scale capital navigation across global private
+  markets.
+date: '2025-06-28'
+author: Jonas Hyltén
+slug: ai-powered-liquidity-architecture-sovereign-capital
 ---
 
 The capital vacuum in global private markets is not a product of insufficient liquidity.
@@ -99,7 +104,7 @@ For private credit structures the same layer applies:
 
 Credit Decisioning Layer This
 
-# Layer C: onstructs underwriting determinations based on
+## Layer C: onstructs underwriting determinations based on
 
 :
 
@@ -244,3 +249,8 @@ INTRODUCTION pathways for allocators seeking to calibrate their existing liquidi
 The objective is strategic alignment, not solicitation.
 
 The next step for institutions requiring clarity is a confidential Strategy Consultation or broader Capital Architecture Audit to map how AI driven liquidity systems can be integrated into their deployment framework. [END OF BRIEFING]
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

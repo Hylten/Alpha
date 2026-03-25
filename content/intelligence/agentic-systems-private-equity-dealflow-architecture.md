@@ -1,8 +1,12 @@
 ---
-title: "Agentic Systems and the New Architecture of Private Equity Dealflow"
-description: "Institutional briefing on agentic architectures, AI-first capital routing, and the operational intelligence reshaping private equity acquisition velocity for UHNWIs, Family Offices, and private credit allocators."
-date: "2025-09-22" author: "Jonas Hyltén"
-slug: "agentic-systems-private-equity-dealflow-architecture"
+title: Agentic Systems And The New Architecture Of Private Equity Dealflow
+description: >-
+  Institutional briefing on agentic architectures, AI-first capital routing, and
+  the operational intelligence reshaping private equity acquisition velocity for
+  UHNWIs, Family Offices, and private credit allocators.
+date: '2025-09-22'
+author: Jonas Hyltén
+slug: agentic-systems-private-equity-dealflow-architecture
 ---
 
 The structural gap in modern private markets is not capital scarcity.

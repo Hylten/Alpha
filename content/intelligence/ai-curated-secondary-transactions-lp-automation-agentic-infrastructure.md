@@ -1,8 +1,16 @@
 ---
-title: "The Principal Architecture of AI‑Curated Secondaries and Autonomous LP Rebalancing"
-description: "A high‑density examination of AI‑driven secondary signal detection infrastructure, autonomous LP portfolio rebalancing, agentic fund infrastructure, and the rise of algorithmic deal flow pipelines across UHNW/HNW family offices"
-date: "2025-09-17" author: "Jonas Hyltén"
-slug: "ai-curated-secondary-transactions-lp-autonomous-infrastructure-agentic-infrastructure"
+title: >-
+  The Principal Architecture Of Ai‑curated Secondaries And Autonomous Lp
+  Rebalancing
+description: >-
+  A high‑density examination of AI‑driven secondary signal detection
+  infrastructure, autonomous LP portfolio rebalancing, agentic fund
+  infrastructure, and the rise of algorithmic deal flow pipelines across
+  UHNW/HNW family offices
+date: '2025-09-17'
+author: Jonas Hyltén
+slug: >-
+  ai-curated-secondary-transactions-lp-autonomous-infrastructure-agentic-infrastructure
 ---
 
 The inefficiency begins with silence.

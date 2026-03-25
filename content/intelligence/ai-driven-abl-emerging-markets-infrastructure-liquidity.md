@@ -1,8 +1,14 @@
 ---
-title: "AI-Driven Asset-Based Lending for Emerging Markets: The Silent Infrastructure of Future Liquidity"
-description: "A dense institutional brief on AI-first asset‑based lending architecture, liquidity engineering, and sovereign‑grade credit structuring for emerging markets."
-date: "2025-12-19" author: "Jonas Hyltén"
-slug: "ai-driven-abl-emerging-markets-infrastructure-liquidity"
+title: >-
+  Ai-driven Asset-based Lending For Emerging Markets: The Silent Infrastructure
+  Of Future Liquidity
+description: >-
+  A dense institutional brief on AI-first asset‑based lending architecture,
+  liquidity engineering, and sovereign‑grade credit structuring for emerging
+  markets.
+date: '2025-12-19'
+author: Jonas Hyltén
+slug: ai-driven-abl-emerging-markets-infrastructure-liquidity
 ---
 
 Emerging markets absorb shocks differently.
@@ -79,7 +85,7 @@ The model builds itself through:
 
 • Machine-learned recovery curves Each
 
-# Layer C: ompounds
+## Layer C: ompounds
 
 .
 
@@ -430,3 +436,8 @@ Convert yield into durable generational capital. "A good man leaves an inheritan
 It is governance.
 
 Institutional readiness requires one question: What agentic infrastructure do you require provisioned for deployment?
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

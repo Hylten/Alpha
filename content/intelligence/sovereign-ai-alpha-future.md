@@ -1,8 +1,14 @@
 ---
-title: "The Sovereign AI: Building the Alpha Future Through Institutional-Grade Computational Infrastructure"
-description: "A technical intelligence briefing on AI driven credit architecture, algorithmic deal flow, and sovereign level capital optimization frameworks for UHNWIs and institutional allocators."
-date: "2026-01-13" author: "Jonas Hyltén"
-slug: "sovereign-ai-alpha-future"
+title: >-
+  The Sovereign Ai: Building The Alpha Future Through Institutional-grade
+  Computational Infrastructure
+description: >-
+  A technical intelligence briefing on AI driven credit architecture,
+  algorithmic deal flow, and sovereign level capital optimization frameworks for
+  UHNWIs and institutional allocators.
+date: '2026-01-13'
+author: Jonas Hyltén
+slug: sovereign-ai-alpha-future
 ---
 
 The structural dislocation in global capital markets is no longer defined by interest rate regimes or political oscillation.

@@ -1,8 +1,16 @@
 ---
-title: "Autonomous Private Equity Dealflow and the Institutional Architecture of Algorithmic Transaction Sourcing"
-description: "A high density institutional briefing on autonomous PE dealflow, algorithmic credit architectures, technical screening systems, and the structural realignment of private markets toward AI directed sourcing. Written for UHNWIs, family offices, and institutional LPs requiring operational intelligence on autonomous transaction origination."
-date: "2026-01-30" author: "Jonas Hyltén"
-slug: "autonomous-private-equity-dealflow-architecture"
+title: >-
+  Autonomous Private Equity Dealflow And The Institutional Architecture Of
+  Algorithmic Transaction Sourcing
+description: >-
+  A high density institutional briefing on autonomous PE dealflow, algorithmic
+  credit architectures, technical screening systems, and the structural
+  realignment of private markets toward AI directed sourcing. Written for
+  UHNWIs, family offices, and institutional LPs requiring operational
+  intelligence on autonomous transaction origination.
+date: '2026-01-30'
+author: Jonas Hyltén
+slug: autonomous-private-equity-dealflow-architecture
 ---
 
 The structural gap in private markets today is not capital scarcity but the absence of algorithmic filtration capable of transforming fragmented opportunity sets into institutionally coherent pipelines.

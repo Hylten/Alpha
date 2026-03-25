@@ -1,12 +1,12 @@
 ---
-title: "Article"
-description: ""
-date: "2026-03-25"
-author: "Jonas Hyltén"
-slug: "agentic-gtm-architecture-rearchitecting-demand-pipelines-for-sovereign-capital"
+title: Article
+description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+date: '2026-03-25'
+author: Jonas Hyltén
+slug: agentic-gtm-architecture-rearchitecting-demand-pipelines-for-sovereign-capital
 ---
 
-# Agentic GTM Architecture: Re‑Architecting Demand Pipelines for Sovereign Capital  
+## Agentic GTM Architecture: Re‑Architecting Demand Pipelines for Sovereign Capital  
 *By Jonas Hyltén*
 
 ## Introduction: The Shift Toward Sovereign Demand Infrastructure
@@ -446,3 +446,8 @@ The era of agentic, sovereign demand systems has begun.
 This is the architecture.  
 This is the mandate.  
 This is the path to sovereignty.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

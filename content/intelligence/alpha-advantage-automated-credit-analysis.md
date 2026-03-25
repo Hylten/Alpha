@@ -1,8 +1,12 @@
 ---
-title: "The Alpha Advantage in Automated Credit Analysis"
-description: "A principal-grade exposition on AI-first credit architecture, autonomous underwriting, liquidity engineering, and institutional alpha capture for UHNW/HNW family offices operating across private credit cycles."
-date: "2025-07-04" author: "Jonas Hyltén"
-slug: "alpha-advantage-automated-credit-analysis"
+title: The Alpha Advantage In Automated Credit Analysis
+description: >-
+  A principal-grade exposition on AI-first credit architecture, autonomous
+  underwriting, liquidity engineering, and institutional alpha capture for
+  UHNW/HNW family offices operating across private credit cycles.
+date: '2025-07-04'
+author: Jonas Hyltén
+slug: alpha-advantage-automated-credit-analysis
 ---
 
 Private credit scales when friction dies.
@@ -126,7 +130,7 @@ Nothing ignored.
 
 Fusion
 
-# Layer M: achine-brain consolidation
+## Layer M: achine-brain consolidation
 
 .
 
@@ -424,3 +428,8 @@ If you want the future, you remove friction.
 Metric: Latency-to-Underwrite = 0.
 
 83 seconds.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

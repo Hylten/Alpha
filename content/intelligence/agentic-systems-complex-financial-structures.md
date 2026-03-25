@@ -1,8 +1,12 @@
 ---
-title: "Agentic Systems for Complex Financial Structures: The Principal Mandate"
-description: "A high‑density institutional briefing on agentic architectures, algorithmic deal flow, credit structuring, and sovereign-grade private capital systems for UHNW/HNW family offices."
-date: "2025-12-25" author: "Jonas Hyltén"
-slug: "agentic-systems-complex-financial-structures"
+title: 'Agentic Systems For Complex Financial Structures: The Principal Mandate'
+description: >-
+  A high‑density institutional briefing on agentic architectures, algorithmic
+  deal flow, credit structuring, and sovereign-grade private capital systems for
+  UHNW/HNW family offices.
+date: '2025-12-25'
+author: Jonas Hyltén
+slug: agentic-systems-complex-financial-structures
 ---
 
 Institutional capital has entered a new epoch: agentic decision rails, continuous‑time credit scoring, and self-reinforcing liquidity engines.

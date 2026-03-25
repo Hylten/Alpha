@@ -1,11 +1,17 @@
 ---
-title: "AI‑First Liquidity: The Institutional Standard for Private Credit and Asset-Based Lending"
-description: "A deep dive into AI‑first liquidity architecture, private credit, and asset‑based liquidity engineering for HNWI and UHNW clients seeking structural advantage."
-date: "2025-08-26" author: "Jonas Hyltén"
-slug: "aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl"
+title: >-
+  Ai‑first Liquidity: The Institutional Standard For Private Credit And
+  Asset-based Lending
+description: >-
+  A deep dive into AI‑first liquidity architecture, private credit, and
+  asset‑based liquidity engineering for HNWI and UHNW clients seeking structural
+  advantage.
+date: '2025-08-26'
+author: Jonas Hyltén
+slug: aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl
 ---
 
-# AI-First Liquidity: The New Standard The market has entered a new operational regime
+## AI-First Liquidity: The New Standard The market has entered a new operational regime
 
 .
 
@@ -328,3 +334,8 @@ Precise.
 Institutional.
 
 The standard is here.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,8 +1,12 @@
 ---
-title: "The Principal Architecture of Contractual Autonomy"
-description: "A deep structural analysis of smart‑contract execution layers for direct‑lending term sheets, built for algorithmic deal flow, AI‑first credit architecture, and institutional-grade velocity."
-date: "2025-11-12" author: "Jonas Hyltén"
-slug: "smart-contract-execution-layers-direct-lending-term-sheets"
+title: The Principal Architecture Of Contractual Autonomy
+description: >-
+  A deep structural analysis of smart‑contract execution layers for
+  direct‑lending term sheets, built for algorithmic deal flow, AI‑first credit
+  architecture, and institutional-grade velocity.
+date: '2025-11-12'
+author: Jonas Hyltén
+slug: smart-contract-execution-layers-direct-lending-term-sheets
 ---
 
 Precision defines the domain.
@@ -33,7 +37,7 @@ This is the brief.
 
 ### Phase I: -
 
-# Vault-secured .
+## Vault-secured .
 
 Non-political.
 
@@ -422,3 +426,8 @@ The
 State your objectives.
 
 We construct the system.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,11 +1,15 @@
 ---
-title: "Agentic Systems for Institutional Capital: The New Architecture of Liquidity"
-description: "A deep technical insight into agentic systems that accelerate liquidity, private credit, and asset based liquidity engineering for institutional-grade capital."
-date: "2025-07-19" author: "Jonas Hyltén"
-slug: "agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity"
+title: 'Agentic Systems For Institutional Capital: The New Architecture Of Liquidity'
+description: >-
+  A deep technical insight into agentic systems that accelerate liquidity,
+  private credit, and asset based liquidity engineering for institutional-grade
+  capital.
+date: '2025-07-19'
+author: Jonas Hyltén
+slug: agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity
 ---
 
-# Agentic Systems for Institutional Capital Institutional capital has outgrown conventional infrastructure
+## Agentic Systems for Institutional Capital Institutional capital has outgrown conventional infrastructure
 
 .
 
@@ -59,7 +63,7 @@ Institutional capital is most when it is collateralized against assets that are 
 
 The agentic
 
-# Layer C: alculates exposure
+## Layer C: alculates exposure
 
 .
 
@@ -402,3 +406,8 @@ Roials-Alpha builds this architecture for high net worth and ultra high net wort
 Access is restricted to approved mandates
 
 .
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

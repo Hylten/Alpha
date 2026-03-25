@@ -1,8 +1,14 @@
 ---
-title: "AI-First Private Credit: The Silent Infrastructure of Next-Generation Liquidity"
-description: "Institutional briefing on AI-driven private credit architectures, liquidity engineering mechanics, and the structural forces shaping non-bank credit formation for UHNW and family office allocators."
-date: "2026-01-21" author: "Jonas Hyltén"
-slug: "ai-first-private-credit-liquidity-infrastructure-briefing"
+title: >-
+  Ai-first Private Credit: The Silent Infrastructure Of Next-generation
+  Liquidity
+description: >-
+  Institutional briefing on AI-driven private credit architectures, liquidity
+  engineering mechanics, and the structural forces shaping non-bank credit
+  formation for UHNW and family office allocators.
+date: '2026-01-21'
+author: Jonas Hyltén
+slug: ai-first-private-credit-liquidity-infrastructure-briefing
 ---
 
 The capital vacuum in North American private credit is a function of regulatory compression across traditional banking channels, not a deterioration in borrower quality.

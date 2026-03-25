@@ -1,11 +1,16 @@
 ---
-title: "The Proprietary Model for Automated Asset Hardening"
-description: "High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials Capital/). Automated asset hardening for institutional grade capital efficiency."
-date: "2026-02-21" author: "Jonas Hyltén"
-slug: "the-proprietary-model-for-automated-asset-hardening"
+title: The Proprietary Model For Automated Asset Hardening
+description: >-
+  High velocity liquidity engineering for HNWI and UHNW clients through private
+  credit and asset based [Asset-Backed
+  Frameworks](https://hylten.github.io/Roials Capital/). Automated asset
+  hardening for institutional grade capital efficiency.
+date: '2026-02-21'
+author: Jonas Hyltén
+slug: the-proprietary-model-for-automated-asset-hardening
 ---
 
-# The Proprietary Model for Automated Asset Hardening Roials-Alpha operates in a space that few understand and even fewer can architect
+## The Proprietary Model for Automated Asset Hardening Roials-Alpha operates in a space that few understand and even fewer can architect
 
 .
 
@@ -19,7 +24,7 @@ You retain the advantage.
 
 The Architecture Behind Automated Asset Hardening Automated Asset Hardening is our internal term for a multi
 
-# Phase C: onversion cycle
+## Phase C: onversion cycle
 
 .
 
@@ -378,3 +383,8 @@ The Automated Asset Hardening model is the foundation for this.
 Access is restricted to approved mandates
 
 .
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

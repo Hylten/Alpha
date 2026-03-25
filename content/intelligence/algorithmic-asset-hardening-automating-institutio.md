@@ -1,11 +1,12 @@
 ---
-title: "Algorithmic Asset Hardening: Automating Institutio"
-description: "Algorithmic Asset Hardening: Automating Institutio"
-date: "2026-01-31" author: "Jonas Hyltén"
-slug: "algorithmic-asset-hardening-automating-institutio"
+title: 'Algorithmic Asset Hardening: Automating Institutio'
+description: 'Algorithmic Asset Hardening: Automating Institutio'
+date: '2026-01-31'
+author: Jonas Hyltén
+slug: algorithmic-asset-hardening-automating-institutio
 ---
 
-# Algorithmic Asset Hardening
+## Algorithmic Asset Hardening
 
 .
 
@@ -558,3 +559,8 @@ For Principals seeking structural authority.
 For UHNW and institutional mandates seeking disciplined credit frameworks.
 
 Roials-Alpha is the architecture.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

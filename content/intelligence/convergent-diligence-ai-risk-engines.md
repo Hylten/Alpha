@@ -1,8 +1,12 @@
 ---
-title: "The Principal Architecture of Convergent Diligence"
-description: "A high-resolution briefing on the fusion of private equity diligence, LLM‑based risk engines, and agentic infrastructures calibrated for algorithmic deal flow and AI-first credit architecture."
-date: "2025-11-02" author: "Jonas Hyltén"
-slug: "convergent-diligence-ai-risk-engines"
+title: The Principal Architecture Of Convergent Diligence
+description: >-
+  A high-resolution briefing on the fusion of private equity diligence,
+  LLM‑based risk engines, and agentic infrastructures calibrated for algorithmic
+  deal flow and AI-first credit architecture.
+date: '2025-11-02'
+author: Jonas Hyltén
+slug: convergent-diligence-ai-risk-engines
 ---
 
 The convergence began the moment information density exceeded human processing speed.
@@ -247,7 +251,7 @@ You move the conversation to a direct line.
 
 This is the signature of Roials-Alpha: the intelligence
 
-# Layer CL: ears the path before the human even enters the room
+## Layer CL: ears the path before the human even enters the room
 
 .
 
@@ -488,3 +492,8 @@ The Principal operates at the top of that hierarchy.
 If you want the agentic layer built around your mandate, 
 
 I’ll open the line.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

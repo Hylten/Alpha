@@ -1,8 +1,12 @@
 ---
-title: "Proprietary Agentic Models for Institutional-Grade Capital Architecture"
-description: "A high-density institutional brief on AI-native agentic systems, algorithmic deal flow, credit autonomous infrastructure, and sovereign-grade infrastructure for UHNW/HNW family offices."
-date: "2025-08-09" author: "Jonas Hyltén"
-slug: "proprietary-agentic-models-capital-architecture"
+title: Proprietary Agentic Models For Institutional-grade Capital Architecture
+description: >-
+  A high-density institutional brief on AI-native agentic systems, algorithmic
+  deal flow, credit autonomous infrastructure, and sovereign-grade
+  infrastructure for UHNW/HNW family offices.
+date: '2025-08-09'
+author: Jonas Hyltén
+slug: proprietary-agentic-models-capital-architecture
 ---
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.

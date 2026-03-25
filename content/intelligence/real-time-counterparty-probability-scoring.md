@@ -1,8 +1,11 @@
 ---
-title: "The Principal Architecture of Real‑Time Counterparty Probability Scoring"
-description: "A deep, technical briefing on AI‑driven counterparty scoring, algorithmic deal flow filtration, and agentic infrastructure for UHNW transaction velocity."
-date: "2025-10-14" author: "Jonas Hyltén"
-slug: "real-time-counterparty-probability-scoring"
+title: The Principal Architecture Of Real‑time Counterparty Probability Scoring
+description: >-
+  A deep, technical briefing on AI‑driven counterparty scoring, algorithmic deal
+  flow filtration, and agentic infrastructure for UHNW transaction velocity.
+date: '2025-10-14'
+author: Jonas Hyltén
+slug: real-time-counterparty-probability-scoring
 ---
 
 The architecture begins with one premise.

@@ -1,8 +1,15 @@
 ---
-title: "Agentic Liquidity Architecture for Fund-III: AI‑Driven Asset-Based Lending as the New Institutional Leverage Regime"
-description: "A principal‑level analysis of agentic liquidity systems, AI‑driven asset‑based lending, and the structural redesign of Buy‑Borrow‑Die frameworks for institutional portfolios across private credit, energy assets, and family‑office capital stacks."
-date: "2026-02-20" author: "Jonas Hyltén"
-slug: "agentic-liquidity-ai-driven-abl-bbd-architecture"
+title: >-
+  Agentic Liquidity Architecture For Fund-iii: Ai‑driven Asset-based Lending As
+  The New Institutional Leverage Regime
+description: >-
+  A principal‑level analysis of agentic liquidity systems, AI‑driven asset‑based
+  lending, and the structural redesign of Buy‑Borrow‑Die frameworks for
+  institutional portfolios across private credit, energy assets, and
+  family‑office capital stacks.
+date: '2026-02-20'
+author: Jonas Hyltén
+slug: agentic-liquidity-ai-driven-abl-bbd-architecture
 ---
 
 Agentic liquidity is not a feature upgrade.
@@ -200,7 +207,7 @@ I.
 
 The Buy
 
-# Phase C apital allocates into target assets-energy assets, private credit deals, operating companies, real assets-without waiting for liquidity windows.
+## Phase C apital allocates into target assets-energy assets, private credit deals, operating companies, real assets-without waiting for liquidity windows.
 
 AI pulls forward expected lending capacity and enables accelerated acquisition through synthetic leverage envelopes.
 
@@ -402,7 +409,7 @@ Remove friction.
 
 For Fund‑III,
 
-# THE MANDAT E
+## THE MANDAT E
 
 is clear: build the internal central bank.
 
@@ -411,3 +418,8 @@ is clear: build the internal central bank.
 -
 
 - To proceed, specify the agentic infrastructure you require.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

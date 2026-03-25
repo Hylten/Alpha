@@ -1,8 +1,12 @@
 ---
-title: "Autonomous Capital Systems for Ultra-High-Net-Worth Optimization"
-description: "AI-first infrastructure for UHNW capital allocation, autonomous credit engines, jurisdictional optimization, and frictionless deal origination across multi-entity sovereign structures."
-date: "2025-09-02" author: "Jonas Hyltén"
-slug: "autonomous-systems-uhnw-capital-optimization"
+title: Autonomous Capital Systems For Ultra-high-net-worth Optimization
+description: >-
+  AI-first infrastructure for UHNW capital allocation, autonomous credit
+  engines, jurisdictional optimization, and frictionless deal origination across
+  multi-entity sovereign structures.
+date: '2025-09-02'
+author: Jonas Hyltén
+slug: autonomous-systems-uhnw-capital-optimization
 ---
 
 Ultra-high-net-worth capital behaves differently from conventional wealth pools.
@@ -155,7 +159,7 @@ Eyes sharp.
 
 This
 
-# Layer D ecides only when models flag anomalies or political conditions shift.
+## Layer D ecides only when models flag anomalies or political conditions shift.
 
 Machine handles the rest.
 
@@ -486,3 +490,8 @@ Completion metric: 0.
 14 seconds latency across all capital nodes.
 
 If you require additional construction,
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

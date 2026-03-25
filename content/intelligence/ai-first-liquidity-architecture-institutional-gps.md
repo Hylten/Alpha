@@ -1,8 +1,14 @@
 ---
-title: "AI‑First Liquidity Architecture for Institutional GPs: The Structural Frontier of Modern Capital"
-description: "A technical briefing on AI‑driven liquidity engineering, GP balance sheet optimization, and the emerging operating regime for institutional allocators navigating the post‑2024 capital cycle."
-date: "2025-12-15" author: "Jonas Hyltén"
-slug: "ai-first-liquidity-architecture-institutional-gps"
+title: >-
+  Ai‑first Liquidity Architecture For Institutional Gps: The Structural Frontier
+  Of Modern Capital
+description: >-
+  A technical briefing on AI‑driven liquidity engineering, GP balance sheet
+  optimization, and the emerging operating regime for institutional allocators
+  navigating the post‑2024 capital cycle.
+date: '2025-12-15'
+author: Jonas Hyltén
+slug: ai-first-liquidity-architecture-institutional-gps
 ---
 
 The capital vacuum across private markets is not a function of asset deterioration but a consequence of structural dislocation in liquidity distribution.

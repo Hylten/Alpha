@@ -1,8 +1,14 @@
 ---
-title: "Dynamic Risk‑Based Pricing in Private Credit: The Architecture of LLM‑Driven Macroeconomic Foresight"
-description: "A Principal-level deep analysis of AI-first credit architecture, dynamic pricing engines, and the emergence of LLM-enhanced macro forecasting in private credit markets."
-date: "2025-11-26" author: "Jonas Hyltén"
-slug: "dynamic-risk-based-pricing-llm-macro-private-credit"
+title: >-
+  Dynamic Risk‑based Pricing In Private Credit: The Architecture Of Llm‑driven
+  Macroeconomic Foresight
+description: >-
+  A Principal-level deep analysis of AI-first credit architecture, dynamic
+  pricing engines, and the emergence of LLM-enhanced macro forecasting in
+  private credit markets.
+date: '2025-11-26'
+author: Jonas Hyltén
+slug: dynamic-risk-based-pricing-llm-macro-private-credit
 ---
 
 The shift is already underway.
@@ -319,7 +325,7 @@ The next decade of alpha will originate here.
 
 - Agentic Infrastructure Inquiry If you intend to build this system-not as a concept but as an operational architecture-you need an agentic
 
-# Layer C: apable of
+## Layer C: apable of
 
 :
 
@@ -340,3 +346,8 @@ We can detail the required agents, their roles, their data
 Tell me the depth you want: Do you want the full system blueprint?
 
 Or do you want the modular agent design?
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

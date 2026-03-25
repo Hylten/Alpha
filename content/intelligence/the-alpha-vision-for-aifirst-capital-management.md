@@ -1,11 +1,14 @@
 ---
-title: "The Alpha Vision for AI‑First Capital Management"
-description: "A deep‑reach analysis of AI driven liquidity architecture, private credit, and asset based liquidity engineering for ultra affluent capital holders."
-date: "2026-01-23" author: "Jonas Hyltén"
-slug: "the-alpha-vision-for-aifirst-capital-management"
+title: The Alpha Vision For Ai‑first Capital Management
+description: >-
+  A deep‑reach analysis of AI driven liquidity architecture, private credit, and
+  asset based liquidity engineering for ultra affluent capital holders.
+date: '2026-01-23'
+author: Jonas Hyltén
+slug: the-alpha-vision-for-aifirst-capital-management
 ---
 
-# The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise
+## The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise
 
 .
 
@@ -50,3 +53,8 @@ Private execution.
 Roials Alpha is not here to compete with traditional finance.
 
 We are here to supersede it.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

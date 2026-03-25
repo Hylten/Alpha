@@ -1,11 +1,14 @@
 ---
-title: "Agentic Systems and the New Architecture of PE Dealflow"
-description: "Agentic Systems and the New Architecture of PE Dealflow | Institutional Briefing by Roials-Alpha"
-date: "2026-03-01" author: "Jonas Hyltén"
-slug: "agentic-systems-and-the-new-architecture-of-pe-dealflow"
+title: Agentic Systems And The New Architecture Of Pe Dealflow
+description: >-
+  Agentic Systems and the New Architecture of PE Dealflow | Institutional
+  Briefing by Roials-Alpha
+date: '2026-03-01'
+author: Jonas Hyltén
+slug: agentic-systems-and-the-new-architecture-of-pe-dealflow
 ---
 
-# Agentic Systems and the New Architecture of PE Dealflo w The Quiet Replacement of Manual Sourcin g Private equity has hit a structural limit.
+## Agentic Systems and the New Architecture of PE Dealflo w The Quiet Replacement of Manual Sourcin g Private equity has hit a structural limit.
 
 Traditional sourcing, human heavy and intuition driven, is no longer fast enough or wide enough for a market where every proprietary angle is contested.
 
@@ -73,7 +76,7 @@ It then produces contextual summaries that are deal ready.
 
 The manual
 
-# Layer C: ollapses into a single action: evaluation
+## Layer C: ollapses into a single action: evaluation
 
 .
 
@@ -467,3 +470,8 @@ Aggressively.
 Irreversibly.
 
 Inquire about agentic infrastructure
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

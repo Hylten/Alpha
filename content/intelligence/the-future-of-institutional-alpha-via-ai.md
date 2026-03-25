@@ -1,11 +1,14 @@
 ---
-title: "The Future of Institutional Alpha via AI"
-description: "A deep analysis of how AI-driven private credit and asset-based liquidity engineering unlock next-generation liquidity for HNWI and UHNW capital."
-date: "2026-02-24" author: "Jonas Hyltén"
-slug: "the-future-of-institutional-alpha-via-ai"
+title: The Future Of Institutional Alpha Via Ai
+description: >-
+  A deep analysis of how AI-driven private credit and asset-based liquidity
+  engineering unlock next-generation liquidity for HNWI and UHNW capital.
+date: '2026-02-24'
+author: Jonas Hyltén
+slug: the-future-of-institutional-alpha-via-ai
 ---
 
-# The Future of Institutional Alpha via AI Institutional alpha is migrating
+## The Future of Institutional Alpha via AI Institutional alpha is migrating
 
 .
 
@@ -428,3 +431,8 @@ Final Word You do not need another lender
 You need an intelligent liquidity architecture.
 
 Roials-Alpha delivers that architecture.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,11 +1,17 @@
 ---
-title: "Agentic Wealth Mobility: How Reinforcement Learning Unlocks Borderless Capital Optimization"
-description: "High end analysis on liquidity engineering through private credit and asset based Institutional Liquidity Paths for HNWI and UHNW clients."
-date: "2025-12-26" author: "Jonas Hyltén"
-slug: "agentic-wealth-mobility-how-reinforcement-learning-unlocks-borderless-capital-optimization"
+title: >-
+  Agentic Wealth Mobility: How Reinforcement Learning Unlocks Borderless Capital
+  Optimization
+description: >-
+  High end analysis on liquidity engineering through private credit and asset
+  based Institutional Liquidity Paths for HNWI and UHNW clients.
+date: '2025-12-26'
+author: Jonas Hyltén
+slug: >-
+  agentic-wealth-mobility-how-reinforcement-learning-unlocks-borderless-capital-optimization
 ---
 
-# Agentic Wealth Mobility: Borderless Capital Optimization via RL Agentic capital systems are no longer a frontier concept
+## Agentic Wealth Mobility: Borderless Capital Optimization via RL Agentic capital systems are no longer a frontier concept
 
 .
 
@@ -90,3 +96,8 @@ Agentic mobility is the future.
 principal authority is the method.
 
 Borderless optimization is the outcome.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

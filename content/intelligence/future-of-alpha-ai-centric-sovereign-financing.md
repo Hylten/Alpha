@@ -1,8 +1,14 @@
 ---
-title: "The Future of Alpha: AI Centric Sovereign Financing and the Reconfiguration of Institutional Capital Architecture"
-description: "Technical briefing on the AI governed sovereign credit landscape, liquidity engineering, and the ascent of machine mediated capital allocation frameworks across UHNW and institutional mandates."
-date: "2025-10-10" author: "Jonas Hyltén"
-slug: "future-of-alpha-ai-centric-sovereign-financing"
+title: >-
+  The Future Of Alpha: Ai Centric Sovereign Financing And The Reconfiguration Of
+  Institutional Capital Architecture
+description: >-
+  Technical briefing on the AI governed sovereign credit landscape, liquidity
+  engineering, and the ascent of machine mediated capital allocation frameworks
+  across UHNW and institutional mandates.
+date: '2025-10-10'
+author: Jonas Hyltén
+slug: future-of-alpha-ai-centric-sovereign-financing
 ---
 
 The structural gap in global capital markets is no longer defined by geography or commodity cycles.

@@ -1,8 +1,15 @@
 ---
-title: "Agentic Infrastructure for Private Credit: The New Liquidity Architecture for HNWI and UHNW"
-description: "Institutional briefing on agentic private credit systems, AI mediated underwriting, and the emerging liquidity architecture for global wealth holders requiring accelerated deployment precision without operational friction."
-date: "2025-11-09" author: "Jonas Hyltén"
-slug: "agentic-private-credit-liquidity-architecture"
+title: >-
+  Agentic Infrastructure For Private Credit: The New Liquidity Architecture For
+  Hnwi And Uhnw
+description: >-
+  Institutional briefing on agentic private credit systems, AI mediated
+  underwriting, and the emerging liquidity architecture for global wealth
+  holders requiring accelerated deployment precision without operational
+  friction.
+date: '2025-11-09'
+author: Jonas Hyltén
+slug: agentic-private-credit-liquidity-architecture
 ---
 
 The current transformation in private credit is not driven by market sentiment.

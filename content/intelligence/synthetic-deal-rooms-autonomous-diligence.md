@@ -1,8 +1,11 @@
 ---
-title: "Synthetic Deal Rooms and the Rise of Autonomous Diligence"
-description: "How agentic architectures compress diligence cycles from weeks to hours across Fund-III, family offices, and institutional buy-side workflows."
-date: "2025-08-06" author: "Jonas Hyltén"
-slug: "synthetic-deal-rooms-autonomous-diligence"
+title: Synthetic Deal Rooms And The Rise Of Autonomous Diligence
+description: >-
+  How agentic architectures compress diligence cycles from weeks to hours across
+  Fund-III, family offices, and institutional buy-side workflows.
+date: '2025-08-06'
+author: Jonas Hyltén
+slug: synthetic-deal-rooms-autonomous-diligence
 ---
 
 The shift begins the moment the human bottleneck breaks.

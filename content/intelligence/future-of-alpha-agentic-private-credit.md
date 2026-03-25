@@ -1,8 +1,13 @@
 ---
-title: "The Future of Alpha: Agentic Infrastructure for Private Credit Dominance"
-description: "Institutional analysis of AI-driven private credit architectures, agentic underwriting systems, algorithmic deal sourcing, and balance sheet optimization frameworks that are reshaping the performance frontier for UHNW and institutional allocators."
-date: "2025-06-22" author: "Jonas Hyltén"
-slug: "future-of-alpha-agentic-private-credit"
+title: 'The Future Of Alpha: Agentic Infrastructure For Private Credit Dominance'
+description: >-
+  Institutional analysis of AI-driven private credit architectures, agentic
+  underwriting systems, algorithmic deal sourcing, and balance sheet
+  optimization frameworks that are reshaping the performance frontier for UHNW
+  and institutional allocators.
+date: '2025-06-22'
+author: Jonas Hyltén
+slug: future-of-alpha-agentic-private-credit
 ---
 
 The structural gap in private credit today is not an issue of deal scarcity but an issue of institutional latency.
@@ -23,7 +28,7 @@ THE REGIME SHIFT Private credit underwent a four stage evolution during the last
 
 Each
 
-# Phase C reated a new performance threshold and a new challenge for allocators.
+## Phase C reated a new performance threshold and a new challenge for allocators.
 
 Stage One.
 
@@ -75,7 +80,7 @@ TECHNICAL MECHANICS OF AGENTIC PRIVATE CREDIT INFRASTRUCTURE Agentic credit syst
 
 They are multi
 
-# Layer D ecision architectures that replace entropy with structured intelligence across the entire lifecycle of a credit instrument.
+## Layer D ecision architectures that replace entropy with structured intelligence across the entire lifecycle of a credit instrument.
 
 The core mechanics operate across four subsystems.
 
@@ -260,3 +265,8 @@ The future of private credit alpha is computational.
 The institutions that understand this early will control the opportunity landscape.
 
 The institutions that wait will operate in a structurally inferior environment.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

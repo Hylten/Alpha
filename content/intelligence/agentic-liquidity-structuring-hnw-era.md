@@ -1,8 +1,14 @@
 ---
-title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
-description: "An institutional briefing on agentic liquidity systems, AI driven credit architecture, and structural efficiencies for UHNW and HNW allocators navigating the new era of autonomous deal flow."
-date: "2025-10-01" author: "Jonas Hyltén"
-slug: "agentic-liquidity-structuring-hnw-era"
+title: >-
+  Agentic Deals For The Hnw Era: High Frequency Liquidity Structuring At
+  Institutional Precision
+description: >-
+  An institutional briefing on agentic liquidity systems, AI driven credit
+  architecture, and structural efficiencies for UHNW and HNW allocators
+  navigating the new era of autonomous deal flow.
+date: '2025-10-01'
+author: Jonas Hyltén
+slug: agentic-liquidity-structuring-hnw-era
 ---
 
 The structural gap emerging between human paced capital deployment and algorithmic transaction velocity has become the defining characteristic of the modern private credit landscape.

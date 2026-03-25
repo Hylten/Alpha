@@ -1,8 +1,15 @@
 ---
-title: "AI Powered Liquidity Architecture for Sovereign Level Capital Movements: Institutional Engineering for Cross Jurisdictional Balance Sheet Mobility"
-description: "A technical briefing on AI mediated liquidity engineering, sovereign scale capital routing, automated credit architecture, cross border structural mechanics, and institutional grade balance sheet optimization frameworks designed for UHNW allocators and private credit strategists."
-date: "2025-08-01" author: "Jonas Hyltén"
-slug: "ai-powered-liquidity-architecture-sovereign-capital-movements"
+title: >-
+  Ai Powered Liquidity Architecture For Sovereign Level Capital Movements:
+  Institutional Engineering For Cross Jurisdictional Balance Sheet Mobility
+description: >-
+  A technical briefing on AI mediated liquidity engineering, sovereign scale
+  capital routing, automated credit architecture, cross border structural
+  mechanics, and institutional grade balance sheet optimization frameworks
+  designed for UHNW allocators and private credit strategists.
+date: '2025-08-01'
+author: Jonas Hyltén
+slug: ai-powered-liquidity-architecture-sovereign-capital-movements
 ---
 
 The capital vacuum in global liquidity markets is a direct output of technological asymmetry rather than a shortage of institutional capital.

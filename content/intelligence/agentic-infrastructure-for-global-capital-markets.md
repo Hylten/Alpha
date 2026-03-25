@@ -1,12 +1,14 @@
 ---
-title: "Agentic Infrastructure for Global Capital Markets"
-description: "Advanced liquidity architecture for private credit and asset based liquidity engineering, engineered for HNWI and UHNW capital optimization."
-date: "2025-09-25"
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-global-capital-markets"
+title: Agentic Infrastructure For Global Capital Markets
+description: >-
+  Advanced liquidity architecture for private credit and asset based liquidity
+  engineering, engineered for HNWI and UHNW capital optimization.
+date: '2025-09-25'
+author: Jonas Hyltén
+slug: agentic-infrastructure-for-global-capital-markets
 ---
 
-# Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow  
+## Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow  
 Author: Jonas Hyltén  
 
 
@@ -391,3 +393,8 @@ The next generation of capital markets dominance will be built by those who own 
 This is the new frontier.  
 This is infrastructure sovereignty.  
 This is the engine of proprietary deal flow.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

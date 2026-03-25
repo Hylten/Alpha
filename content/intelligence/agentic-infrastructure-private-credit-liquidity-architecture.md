@@ -1,8 +1,15 @@
 ---
-title: "Agentic Infrastructure for Private Credit: The New Liquidity Architecture for HNWI and UHNW"
-description: "AI‑first private credit infrastructure engineered for HNWI/UHNW investors, enabling liquidity expansion, automated underwriting, algorithmic deal flow, and frictionless institutional execution across multi‑jurisdictional capital rails."
-date: "2025-11-25" author: "Jonas Hyltén"
-slug: "agentic-infrastructure-private-credit-liquidity-architecture"
+title: >-
+  Agentic Infrastructure For Private Credit: The New Liquidity Architecture For
+  Hnwi And Uhnw
+description: >-
+  AI‑first private credit infrastructure engineered for HNWI/UHNW investors,
+  enabling liquidity expansion, automated underwriting, algorithmic deal flow,
+  and frictionless institutional execution across multi‑jurisdictional capital
+  rails.
+date: '2025-11-25'
+author: Jonas Hyltén
+slug: agentic-infrastructure-private-credit-liquidity-architecture
 ---
 
 Private credit is no longer a financial product.

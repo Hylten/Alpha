@@ -1,8 +1,12 @@
 ---
-title: "The Principal Architecture of Real-Time Capital Arbitration"
-description: "A high-density analytical briefing on how AI resolves the capital stack—private credit, venture debt, and structured notes—through agentic infrastructure and algorithmic deal flow."
-date: "2025-10-07" author: "Jonas Hyltén"
-slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
+title: The Principal Architecture Of Real-time Capital Arbitration
+description: >-
+  A high-density analytical briefing on how AI resolves the capital
+  stack—private credit, venture debt, and structured notes—through agentic
+  infrastructure and algorithmic deal flow.
+date: '2025-10-07'
+author: Jonas Hyltén
+slug: ai-arbitrates-private-credit-venture-debt-structured-notes
 ---
 
 The intelligence is simple: capital instruments compete, and only an autonomous system can arbitrate competition at the velocity the modern market requires.
@@ -23,7 +27,7 @@ One engine.
 
 The arbitration
 
-# Layer D: ecides
+## Layer D: ecides
 
 .
 
@@ -364,3 +368,8 @@ It is the present.
 -
 
 - If you want the full agentic infrastructure mapped to your company-or your family office-communicate with me directly, and I will open the corridor for you.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

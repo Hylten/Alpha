@@ -1,8 +1,14 @@
 ---
-title: "The Alpha Approach to AI First Liquidity Engineering: Institutional Mechanics for the Next Liquidity Class"
-description: "A high density institutional briefing on AI first credit architecture, algorithmic deal flow, and the structural evolution of Strategic Collateralization for UHNW allocators and private credit platforms."
-date: "2025-08-23" author: "Jonas Hyltén"
-slug: "alpha-approach-ai-first-liquidity-engineering"
+title: >-
+  The Alpha Approach To Ai First Liquidity Engineering: Institutional Mechanics
+  For The Next Liquidity Class
+description: >-
+  A high density institutional briefing on AI first credit architecture,
+  algorithmic deal flow, and the structural evolution of Strategic
+  Collateralization for UHNW allocators and private credit platforms.
+date: '2025-08-23'
+author: Jonas Hyltén
+slug: alpha-approach-ai-first-liquidity-engineering
 ---
 
 The capital vacuum in North American energy is a consequence of regulatory drift, not resource depletion.

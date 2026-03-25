@@ -1,8 +1,14 @@
 ---
-title: "Algorithmic Asset Hardening: Architecting Autonomous Institutional Machines for Private Credit and Oil & Gas Finance"
-description: "A high‑density institutional brief on AI‑first credit architecture, algorithmic underwriting, and cross‑jurisdictional asset hardening for UHNW/HNW family offices and Fund‑III structures."
-date: "2026-02-02" author: "Jonas Hyltén"
-slug: "algorithmic-asset-hardening-autonomous-institutional-machines"
+title: >-
+  Algorithmic Asset Hardening: Architecting Autonomous Institutional Machines
+  For Private Credit And Oil & Gas Finance
+description: >-
+  A high‑density institutional brief on AI‑first credit architecture,
+  algorithmic underwriting, and cross‑jurisdictional asset hardening for
+  UHNW/HNW family offices and Fund‑III structures.
+date: '2026-02-02'
+author: Jonas Hyltén
+slug: algorithmic-asset-hardening-autonomous-institutional-machines
 ---
 
 Algorithmic asset hardening begins with the premise that capital architecture must behave as software.

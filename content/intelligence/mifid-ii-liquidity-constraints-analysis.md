@@ -1,8 +1,14 @@
 ---
-title: "MiFID II Liquidity Constraints and the Institutional Architecture of Next-Generation Deal Flow"
-description: "Analytical briefing on MiFID II liquidity fragmentation, order flow bifurcation, technical execution constraints, and the strategic alignment between AI-led credit structuring and European regulatory mechanics."
-date: "2025-06-30" author: "Jonas Hyltén"
-slug: "mifid-ii-liquidity-constraints-analysis"
+title: >-
+  Mifid Ii Liquidity Constraints And The Institutional Architecture Of
+  Next-generation Deal Flow
+description: >-
+  Analytical briefing on MiFID II liquidity fragmentation, order flow
+  bifurcation, technical execution constraints, and the strategic alignment
+  between AI-led credit structuring and European regulatory mechanics.
+date: '2025-06-30'
+author: Jonas Hyltén
+slug: mifid-ii-liquidity-constraints-analysis
 ---
 
 The liquidity constraints emerging under MiFID II are not a consequence of capital scarcity.

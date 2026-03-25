@@ -1,8 +1,15 @@
 ---
-title: "The Alpha Vision for AI First Capital Management: Institutional Architecture, Algorithmic Deal Flow, and the Elimination of Human Friction"
-description: "A high density institutional briefing on the emergence of AI governed capital frameworks, algorithmic credit architectures, and sovereign grade operational stacks for UHNW and institutional allocators navigating next generation private markets."
-date: "2025-10-12" author: "Jonas Hyltén"
-slug: "alpha-vision-ai-first-capital-management"
+title: >-
+  The Alpha Vision For Ai First Capital Management: Institutional Architecture,
+  Algorithmic Deal Flow, And The Elimination Of Human Friction
+description: >-
+  A high density institutional briefing on the emergence of AI governed capital
+  frameworks, algorithmic credit architectures, and sovereign grade operational
+  stacks for UHNW and institutional allocators navigating next generation
+  private markets.
+date: '2025-10-12'
+author: Jonas Hyltén
+slug: alpha-vision-ai-first-capital-management
 ---
 
 The structural gap in modern capital markets is no longer information asymmetry.

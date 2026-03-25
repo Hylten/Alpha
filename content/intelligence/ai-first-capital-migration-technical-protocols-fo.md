@@ -1,11 +1,12 @@
 ---
-title: "Ai First Capital Migration: Technical Protocols Fo"
-description: "Ai First Capital Migration: Technical Protocols Fo"
-date: "2026-02-22" author: "Jonas Hyltén"
-slug: "ai-first-capital-migration-technical-protocols-fo"
+title: 'Ai First Capital Migration: Technical Protocols Fo'
+description: 'Ai First Capital Migration: Technical Protocols Fo'
+date: '2026-02-22'
+author: Jonas Hyltén
+slug: ai-first-capital-migration-technical-protocols-fo
 ---
 
-# AI-First Capital Migration Technical Protocols for Global Wealth The current capital landscape is no longer a market
+## AI-First Capital Migration Technical Protocols for Global Wealth The current capital landscape is no longer a market
 
 .
 
@@ -354,7 +355,7 @@ The Three Layers of Roials-Alpha Intelligence Roials-Alpha operates through laye
 
 Observation
 
-# Layer C ontinuous scanning of issuers, institutions, collateral flows, and counterparty signals.
+## Layer C ontinuous scanning of issuers, institutions, collateral flows, and counterparty signals.
 
 This
 
@@ -478,3 +479,8 @@ The question is not whether you will migrate.
 The question is whether you will migrate with structure or with drag.
 
 Roials-Alpha provides the infrastructure for drag-free motion.
+
+
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,8 +1,13 @@
 ---
-title: "AI-First Liquidity Architecture: Institutional Design Principles for Asset-Based Finance in 2026"
-description: "A clinical analysis of AI-driven credit mechanics, liquidity engineering, and the structural redesign of asset-based finance for HNWI and UHNW allocators."
-date: "2025-07-14" author: "Jonas Hyltén"
-slug: "ai-first-liquidity-architecture-asset-based-finance"
+title: >-
+  Ai-first Liquidity Architecture: Institutional Design Principles For
+  Asset-based Finance In 2026
+description: >-
+  A clinical analysis of AI-driven credit mechanics, liquidity engineering, and
+  the structural redesign of asset-based finance for HNWI and UHNW allocators.
+date: '2025-07-14'
+author: Jonas Hyltén
+slug: ai-first-liquidity-architecture-asset-based-finance
 ---
 
 The structural gap in asset-based finance in 2026 is not a function of capital scarcity.

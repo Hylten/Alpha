@@ -1,8 +1,14 @@
 ---
-title: "Predictive Modeling for Liquidity Engineering Against Volatile Crypto Assets: The Roials Alpha Framework"
-description: "Institutional briefing on predictive risk mechanics, Capital Structuring, and AI driven balance sheet optimization for allocators navigating crypto volatility regimes."
-date: "2026-01-03" author: "Jonas Hyltén"
-slug: "predictive-liquidity-engineering-crypto-volatility-roials-alpha"
+title: >-
+  Predictive Modeling For Liquidity Engineering Against Volatile Crypto Assets:
+  The Roials Alpha Framework
+description: >-
+  Institutional briefing on predictive risk mechanics, Capital Structuring, and
+  AI driven balance sheet optimization for allocators navigating crypto
+  volatility regimes.
+date: '2026-01-03'
+author: Jonas Hyltén
+slug: predictive-liquidity-engineering-crypto-volatility-roials-alpha
 ---
 
 The structural volatility premium embedded in digital asset markets is not a feature of speculative behavior but a consequence of fragmented liquidity, absence of mature collateral frameworks, and asynchronous market depth across venues.

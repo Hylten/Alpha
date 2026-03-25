@@ -1,8 +1,14 @@
 ---
-title: "The Future of Asset-Based Lending: Predictive Liquidity Models for Institutional Precision"
-description: "A technical briefing on the regime shift redefining asset based lending, driven by algorithmic visibility, predictive liquidity engines, and institutional grade balance sheet intelligence."
-date: "2025-11-18" author: "Jonas Hyltén"
-slug: "future-of-abl-predictive-liquidity-models"
+title: >-
+  The Future Of Asset-based Lending: Predictive Liquidity Models For
+  Institutional Precision
+description: >-
+  A technical briefing on the regime shift redefining asset based lending,
+  driven by algorithmic visibility, predictive liquidity engines, and
+  institutional grade balance sheet intelligence.
+date: '2025-11-18'
+author: Jonas Hyltén
+slug: future-of-abl-predictive-liquidity-models
 ---
 
 The capital vacuum in North American credit markets is a function of structural regulatory drift, not a decline in asset viability.

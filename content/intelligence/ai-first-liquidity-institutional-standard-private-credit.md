@@ -1,8 +1,14 @@
 ---
-title: "AI First Liquidity: The Institutional Standard for Private Credit and Asset Based Lending"
-description: "A technical briefing on AI driven credit architecture, balance sheet optimization, and institutional grade liquidity engineering for private credit allocators and family office principals."
-date: "2025-10-18" author: "Jonas Hyltén"
-slug: "ai-first-liquidity-institutional-standard-private-credit"
+title: >-
+  Ai First Liquidity: The Institutional Standard For Private Credit And Asset
+  Based Lending
+description: >-
+  A technical briefing on AI driven credit architecture, balance sheet
+  optimization, and institutional grade liquidity engineering for private credit
+  allocators and family office principals.
+date: '2025-10-18'
+author: Jonas Hyltén
+slug: ai-first-liquidity-institutional-standard-private-credit
 ---
 
 The capital vacuum in North American private credit originates from structural timing differentials rather than credit deterioration.

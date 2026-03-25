@@ -1,8 +1,14 @@
 ---
-title: "The Terminal Decline of Legacy Credit Committees and the Rise of AI Underwriting Sovereignty"
-description: "A principal-level analysis of AI-driven underwriting stacks, autonomous credit architecture, and agentic infrastructures reshaping UHNW/HNW family office deal execution."
-date: "2025-10-29" author: "Jonas Hyltén"
-slug: "ai-underwriting-end-of-credit-committees"
+title: >-
+  The Terminal Decline Of Legacy Credit Committees And The Rise Of Ai
+  Underwriting Sovereignty
+description: >-
+  A principal-level analysis of AI-driven underwriting stacks, autonomous credit
+  architecture, and agentic infrastructures reshaping UHNW/HNW family office
+  deal execution.
+date: '2025-10-29'
+author: Jonas Hyltén
+slug: ai-underwriting-end-of-credit-committees
 ---
 
 The fracture line is visible.

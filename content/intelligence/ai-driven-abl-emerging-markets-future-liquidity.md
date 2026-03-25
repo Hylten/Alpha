@@ -1,8 +1,15 @@
 ---
-title: "AI Driven Asset Based Lending in Emerging Markets as the Silent Infrastructure of Future Liquidity"
-description: "Institutional analysis on algorithmic Asset-Based Lending architecture, AI credit engines, and liquidity engineering frameworks establishing the invisible rails of next generation private credit in frontier and emerging economies."
-date: "2025-07-16" author: "Jonas Hyltén"
-slug: "ai-driven-abl-emerging-markets-future-liquidity"
+title: >-
+  Ai Driven Asset Based Lending In Emerging Markets As The Silent Infrastructure
+  Of Future Liquidity
+description: >-
+  Institutional analysis on algorithmic Asset-Based Lending architecture, AI
+  credit engines, and liquidity engineering frameworks establishing the
+  invisible rails of next generation private credit in frontier and emerging
+  economies.
+date: '2025-07-16'
+author: Jonas Hyltén
+slug: ai-driven-abl-emerging-markets-future-liquidity
 ---
 
 The capital vacuum across emerging markets is a structural consequence of informational asymmetry, not asset scarcity.

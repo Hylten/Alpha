@@ -1,8 +1,14 @@
 ---
-title: "Agentic Systems for Sovereign Capital Migration: Institutional Frameworks for Algorithmic Allocation Mobility"
-description: "A clinical examination of algorithmic capital mobility, sovereign allocation infrastructure, and agentic systems that reconfigure cross-border deployment mechanics for UHNW, family office, and institutional mandates."
-date: "2025-10-27" author: "Jonas Hyltén"
-slug: "agentic-systems-sovereign-capital-migration"
+title: >-
+  Agentic Systems For Sovereign Capital Migration: Institutional Frameworks For
+  Algorithmic Allocation Mobility
+description: >-
+  A clinical examination of algorithmic capital mobility, sovereign allocation
+  infrastructure, and agentic systems that reconfigure cross-border deployment
+  mechanics for UHNW, family office, and institutional mandates.
+date: '2025-10-27'
+author: Jonas Hyltén
+slug: agentic-systems-sovereign-capital-migration
 ---
 
 The capital vacuum in North America is expanding because balance sheet velocity is no longer determined by human decision cycles.

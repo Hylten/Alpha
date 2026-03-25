@@ -1,8 +1,14 @@
 ---
-title: "AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending Liquidity"
-description: "Institutional blueprint for AI‑driven private credit, algorithmic collateral intelligence, and end‑to‑end autonomous Asset-Based Lending underwriting for UHNW/HNW family offices and Fund-III architectures."
-date: "2025-12-12" author: "Jonas Hyltén"
-slug: "ai-first-private-credit-alpha-framework"
+title: >-
+  Ai‑first Private Credit: The Alpha Framework For Institutional Asset-based
+  Lending Liquidity
+description: >-
+  Institutional blueprint for AI‑driven private credit, algorithmic collateral
+  intelligence, and end‑to‑end autonomous Asset-Based Lending underwriting for
+  UHNW/HNW family offices and Fund-III architectures.
+date: '2025-12-12'
+author: Jonas Hyltén
+slug: ai-first-private-credit-alpha-framework
 ---
 
 The shift is already underway.
