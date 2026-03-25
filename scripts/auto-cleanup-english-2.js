@@ -30,7 +30,11 @@ function cleanupAndReplace() {
     // Sanitize any metadata or bleed
     let sanitized = genContent.replace(/^---[\s\S]*?---/m, '');
     sanitized = sanitized.replace(/End of article./gi, '');
-    sanitized = sanitized.replace(/Minimum 2000 words. Pure English. Clean markdown./gi, '');
+    sanitized = sanitized.replace(/Minimum \d+ words. Pure English. Clean markdown./gi, '');
+    sanitized = sanitized.replace(/### Phase \d+:/gi, '');
+    sanitized = sanitized.replace(/PHASE \d+:/gi, '');
+    sanitized = sanitized.replace(/vault_briefing|internal_logic|system_prompt|instruction:/gi, '');
+    sanitized = sanitized.replace(/Three truths\.|FOUR TRUTHS|FIVE TRUTHS/gi, '');
 
     const newContent = `---
 title: "${origParsed.data.title}"
