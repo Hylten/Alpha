@@ -1,26 +1,32 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 
-// Browser-safe frontmatter parser (no gray-matter / no Buffer needed)
+// Browser-safe frontmatter parser (improved - handles YAML >- fold syntax)
 function parseFrontmatter(raw: string) {
-    const parts = raw.split(/---/);
-    if (parts.length < 3) return { data: {} as Record<string, string>, content: raw };
-    
-    // Frontmatter is between the first and second '---'
-    const frontmatter = parts[1];
-    const content = parts.slice(2).join('---').trim();
+    const match = raw.match(/^\s*---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/);
+    if (!match) return { data: {} as Record<string, string>, content: raw };
+
+    const frontmatter = match[1];
+    const content = match[2];
     const data: Record<string, string> = {};
 
-    // Robust regex to extract metadata keys and values
-    const regex = /([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n\r,]+))/g;
-    let match;
-    while ((match = regex.exec(frontmatter)) !== null) {
-        const key = match[1];
-        const value = match[2] || match[3] || match[4];
+    // Handle YAML >- (folded scalar) and > (block) syntax
+    const normalizedFM = frontmatter
+        .replace(/>-\s*\n/g, ' ')
+        .replace(/>\s*\n/g, ' ')
+        .replace(/\|-\s*\n/g, ' ')
+        .replace(/\|\s*\n/g, ' ');
+
+    // Parse key: value pairs (handles quoted values)
+    const keyValuePattern = /([a-zA-Z0-9_-]+):\s*(?:"([^"]*)"|'([^']*)'|([^\n,]+))/g;
+    let match2;
+    while ((match2 = keyValuePattern.exec(normalizedFM)) !== null) {
+        const key = match2[1];
+        const value = match2[2] || match2[3] || match2[4] || '';
         if (key && !data[key]) {
-            data[key] = value;
+            data[key] = value.trim();
         }
     }
-    
+
     return { data, content };
 }
 
@@ -51,11 +57,9 @@ const getPosts = () => {
 };
 
 export const AlphaIntelligenceIndex: React.FC = () => {
-    const [posts, setPosts] = useState<ReturnType<typeof getPosts>>([]);
+    const posts = getPosts();
 
-    useEffect(() => {
-        setPosts(getPosts());
-
+    React.useEffect(() => {
         document.title = 'Intelligence | Roials Alpha';
         const metaDescription = document.querySelector('meta[name="description"]');
         if (metaDescription) {
