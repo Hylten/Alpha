@@ -11,6 +11,9 @@ const CONTENT_DIR = path.join(ROOT_DIR, 'content', 'intelligence');
 const DIST_DIR = path.join(ROOT_DIR, 'dist');
 const INTELLIGENCE_DIST_DIR = path.join(DIST_DIR, 'intelligence');
 
+const SITE_URL = 'https://hylten.github.io/Alpha';
+
+
 const ensureDir = (dirPath) => {
     if (!fs.existsSync(dirPath)) {
         fs.mkdirSync(dirPath, { recursive: true });
