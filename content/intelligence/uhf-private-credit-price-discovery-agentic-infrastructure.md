@@ -467,9 +467,9 @@ This is how algorithmic deal flow becomes an operational advantage rather than a
 
 -
 
-- Agentic Infrastructure: What You Should Access is restricted to approved mandates.
+- Agentic Infrastructure: What You Should 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Not capital.
 
@@ -477,9 +477,9 @@ Not deal sourcing.
 
 Architecture.
 
-If you wish to engage further, Access is restricted to approved mandates.
+If you wish to engage further, 
 
-Minimum mandate depth: $5M+ target size.
+
 
 • The multi‑agent orchestration layer for solvency‑momentum modeling
 
@@ -521,14 +521,4 @@ Architecture wins.
 
 Intelligence wins.
 
-If you want to explore agentic infrastructure or fold algorithmic deal flow into your operations, Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
+If you want to explore agentic infrastructure or fold algorithmic deal flow into your operations,

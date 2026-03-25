@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Sovereign Capital Migration: Institutional Frameworks for Algorithmic Allocation Mobility"
 description: "A clinical examination of algorithmic capital mobility, sovereign allocation infrastructure, and agentic systems that reconfigure cross-border deployment mechanics for UHNW, family office, and institutional mandates."
-date: "2025-10-27" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-27" author: "Jonas Hyltén"
 slug: "agentic-systems-sovereign-capital-migration"
 ---
 
@@ -248,13 +248,3 @@ This is the first
 ### Step I:
 
 n creating an institutional framework for cross border capital migration. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

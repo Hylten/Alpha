@@ -289,13 +289,7 @@ All orchestrated by a master capital agent.
 This is where the industry is heading.
 
 Roials-Alpha is building the infrastructure early.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -312,7 +306,3 @@ We turn collateral into strategy.
 We turn liquidity into principal authority.
 
 This is Roials-Alpha.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

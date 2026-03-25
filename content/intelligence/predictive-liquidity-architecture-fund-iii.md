@@ -1,7 +1,7 @@
 ---
 title: "Predictive Liquidity Architecture for Fund-III: Asset-Based Lending Without Friction"
 description: "Institutional brief on AI-first asset‑backed lending, predictive liquidity models, and algorithmic credit architecture engineered for UHNW/HNW family‑office precision."
-date: "2025-08-21" author: "Roials Alpha"
+date: "2025-08-21" author: "Jonas Hyltén"
 slug: "predictive-liquidity-architecture-Fund-III"
 ---
 
@@ -400,15 +400,3 @@ It expands Fund-III into a hyper‑intelligent credit organism capable of:
 This is the future of Asset-Based Lending.
 
 This is the architecture that hardens capital across generations.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

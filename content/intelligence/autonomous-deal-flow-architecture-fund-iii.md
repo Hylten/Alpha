@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow Architecture for Fund-III Ops"
 description: "Institutional briefing on algorithmic deal origination, autonomous credit structuring, and liquidity engineering frameworks for Fund-III operations. Focus on removing human friction through systemized underwriting, rule based capital routing, and proprietary field intelligence integrations."
-date: "2025-09-04" author: "Roials Capital (Institutional Briefing)"
+date: "2025-09-04" author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-architecture-Fund-III"
 ---
 
@@ -214,13 +214,3 @@ Portfolio Calibration Determine whether Fund-III capital can benefit from rule b
 Roials Capital functions as the strategic architect and introducer for allocators who require a deeper understanding of the autonomous landscape.
 
 Those seeking to evaluate the system in detail may request a Confidential Strategy Audit focused on calibration, risk architecture, and structural alignment with institutional mandates.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

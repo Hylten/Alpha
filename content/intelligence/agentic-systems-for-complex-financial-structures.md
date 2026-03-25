@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Complex Financial Structures"
 description: "Agentic Systems for Complex Financial Structures | Institutional Briefing by Roials-Alpha"
-date: "2026-03-01" author: "Roials Alpha"
+date: "2026-03-01" author: "Jonas Hyltén"
 slug: "agentic-systems-for-complex-financial-structures"
 ---
 
@@ -398,13 +398,3 @@ Agentic systems are the future operating system for complex financial structures
 They offer precision at scale, speed without compromise, and control without overhead.
 
 Inquire about agentic infrastructure
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Private Credit: The New Liquidity Architecture for HNWI and UHNW"
 description: "AI‑first private credit infrastructure engineered for HNWI/UHNW investors, enabling liquidity expansion, automated underwriting, algorithmic deal flow, and frictionless institutional execution across multi‑jurisdictional capital rails."
-date: "2025-11-25" author: "Roials Alpha"
+date: "2025-11-25" author: "Jonas Hyltén"
 slug: "agentic-infrastructure-private-credit-liquidity-architecture"
 ---
 
@@ -391,9 +391,9 @@ Agentic infrastructure delivers both.
 
 It isolates sensitive data.
 
-It controls Access is restricted to approved mandates.
+It controls 
 
-Minimum mandate depth: $5M+ target size.
+
 
 It eliminates human intermediaries who leak information.
 
@@ -491,14 +491,4 @@ End Metric: 0.
 
 87 Portfolio Risk Compression Ratio.
 
-To advance the architecture, Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
+To advance the architecture,

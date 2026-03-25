@@ -37,9 +37,9 @@ A principal creates flow through intelligence.
 
 Roials Alpha operates on this premise.
 
-Proprietary tech stacks are not Access is restricted to approved mandates.
+Proprietary tech stacks are not 
 
-Minimum mandate depth: $5M+ target size.
+
 
 They are the infrastructure that reinforces authority in negotiations, precision in underwriting, and structural readiness for institutional inspection.
 
@@ -572,13 +572,3 @@ Then the next
 ### Step I: s straightforward
 
 .
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

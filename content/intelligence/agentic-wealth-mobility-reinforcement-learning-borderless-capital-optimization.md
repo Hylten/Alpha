@@ -1,7 +1,7 @@
 ---
 title: "Agentic Wealth Mobility and Reinforcement Learning as the Catalyst for Borderless Capital Optimization"
 description: "Institutional briefing on algorithmic wealth mobility, reinforcement learning architectures, and the transition from jurisdiction bound allocation to agentic capital systems capable of autonomous cross-border optimization."
-date: "2025-12-09" author: "Roials Capital (Institutional Briefing)"
+date: "2025-12-09" author: "Jonas Hyltén"
 slug: "agentic-wealth-mobility-reinforcement-learning-borderless-capital-optimization"
 ---
 
@@ -228,13 +228,3 @@ Allocators who do not meet these markers benefit from a structured portfolio cal
 Roials Capital facilitates confidential strategy audits for allocators seeking to navigate this shift.
 
 The audit evaluates cross border flows, credit structuring, energy allocation pathways, and reinforcement learning integration readiness.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

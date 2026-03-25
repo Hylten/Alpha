@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Agentic Models for Institutional-Grade Capital Architecture"
 description: "A high-density institutional brief on AI-native agentic systems, algorithmic deal flow, credit autonomous infrastructure, and sovereign-grade infrastructure for UHNW/HNW family offices."
-date: "2025-08-09" author: "Roials Alpha"
+date: "2025-08-09" author: "Jonas Hyltén"
 slug: "proprietary-agentic-models-capital-architecture"
 ---
 
@@ -420,13 +420,3 @@ The system controls the execution.
 Agentic infrastructure defines the next wealth epoch.
 
 Inquiry required for deployment velocity metrics.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

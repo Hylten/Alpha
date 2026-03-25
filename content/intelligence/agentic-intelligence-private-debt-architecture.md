@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Private Debt"
 description: "Institutional briefing on the structural transition toward agentic credit systems, algorithmic underwriting, and the AI driven transformation of private debt allocation for UHNWIs and institutional LPs."
-date: "2025-07-23" author: "Roials Capital (Institutional Briefing)"
+date: "2025-07-23" author: "Jonas Hyltén"
 slug: "agentic-intelligence-private-debt-architecture"
 ---
 
@@ -226,13 +226,3 @@ The decision making lens becomes:
 - Does the system demonstrate verifiable stewardship Roials Capital provides the institutional INTRODUCTION and structural intelligence required for allocators seeking alignment within this new ecosystem.
 
 The next step for serious allocators is a confidential strategy audit focused on calibration, platform evaluation, and structural fit inside the emerging agentic credit architecture.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -288,11 +288,3 @@ Those who ignore disappear.
 Roials Alpha builds the infrastructure that makes factories autonomous, predictive, and self‑optimizing.
 
 Inquire about agentic infrastructure
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

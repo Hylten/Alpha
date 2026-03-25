@@ -252,13 +252,7 @@ Not the bottom.
 Institutional intelligence requires institutional‑grade clients.
 
 This is the domain of Roials‑Alpha.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -273,7 +267,3 @@ It is the silent force that converts information into capital velocity.
 It is the next evolution of private credit and asset based Monetization Architecture.
 
 And the operators who harness it first will dominate the next cycle.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

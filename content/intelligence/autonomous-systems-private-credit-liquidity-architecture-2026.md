@@ -248,13 +248,7 @@ Advanced systems must not compromise moral orientation.
 Autonomy must enhance transparency, not obscure it.
 
 Capital Structuring must follow the moral clarity that capital stewardship demands.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 

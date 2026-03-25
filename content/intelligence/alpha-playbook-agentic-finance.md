@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Playbook for Agentic Finance: Institutional Navigation in a Machine-Structured Credit Regime"
 description: "A technical briefing on algorithmic liquidity engineering, agentic credit architectures, and the institutional redesign of UHNW family office capital systems. Focus on structural arbitrage, operational intelligence, and the emergence of AI governed balance sheet mechanics."
-date: "2026-02-22" author: "Roials Capital (Institutional Briefing)"
+date: "2026-02-22" author: "Jonas Hyltén"
 slug: "alpha-playbook-agentic-finance"
 ---
 
@@ -242,13 +242,3 @@ Roials Capital provides the navigation framework and the institutional introduct
 The process is delivered through a confidential strategy audit or portfolio calibration session, where operational inefficiencies, opportunity gaps, and structural misalignments are mapped and corrected.
 
 The objective is to position the allocator to operate at institutional velocity without expanding internal complexity.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

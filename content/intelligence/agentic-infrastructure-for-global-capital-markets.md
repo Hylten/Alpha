@@ -344,13 +344,7 @@ Through architecture.
 The client interacts with a seamless surface.
 
 Beneath that surface is a complex, multi agent, multi asset, high velocity liquidity engine designed for the upper stratum of global capital holders.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -369,7 +363,3 @@ Silent.
 Precise.
 
 Agentic.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

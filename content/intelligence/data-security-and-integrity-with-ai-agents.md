@@ -284,11 +284,3 @@ Those who delay will face cascading risk exposure they cannot reverse.
 ---
 
 # Inquire about agentic infrastructure
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

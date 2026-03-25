@@ -1,7 +1,7 @@
 ---
 title: "The Terminal Decline of Legacy Credit Committees and the Rise of AI Underwriting Sovereignty"
 description: "A principal-level analysis of AI-driven underwriting stacks, autonomous credit architecture, and agentic infrastructures reshaping UHNW/HNW family office deal execution."
-date: "2025-10-29" author: "Roials Alpha"
+date: "2025-10-29" author: "Jonas Hyltén"
 slug: "ai-underwriting-end-of-credit-committees"
 ---
 
@@ -389,9 +389,9 @@ For context on the institutional capital side, certain UHNW offices also referen
 
 But the Roials-Alpha mandate remains pure: eliminate friction, accelerate intelligence, and place the Principal in the only seat that matters-command.
 
-When you are ready to architect an agentic underwriting environment around your own mandate, Access is restricted to approved mandates.
+When you are ready to architect an agentic underwriting environment around your own mandate, 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The transition is not cosmetic.
 
@@ -402,11 +402,3 @@ And it moves fast.
 Initiate the conversation.
 
 Your infrastructure is waiting.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

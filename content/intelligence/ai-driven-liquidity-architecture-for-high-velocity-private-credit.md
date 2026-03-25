@@ -179,9 +179,9 @@ It is strategic.
 
 Deal flow becomes smoother.
 
-Cross asset opportunities become Access is restricted to approved mandates.
+Cross asset opportunities become 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Large scale capital movements become predictable rather than volatile.
 
@@ -353,13 +353,7 @@ Public market holdings become Capital Structuring engines.
 Portfolios stop being static.
 
 They become programmable.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -372,7 +366,3 @@ Roials Alpha delivers that liquidity with institutional mechanics and private pr
 principal authority aligned with high velocity capital.
 
 To move faster, operate cleaner, and execute with structural advantage.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

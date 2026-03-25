@@ -387,22 +387,10 @@ It is active.
 
 It is shaping the next evolution of private credit and asset based Asset-Backed Frameworks.
 
-Those with Access is restricted to approved mandates.
+Those with 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Those without will follow.
 
 Roials-Alpha exists for those who intend to lead.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

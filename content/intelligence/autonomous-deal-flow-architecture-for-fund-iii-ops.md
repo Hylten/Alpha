@@ -394,15 +394,3 @@ We support high confidence collateral across crypto and public shares with stric
 We do this while maintaining principal authority.
 
 Fund-III is autonomous by design, intentional by architecture, and superior by structure.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Zero‑Friction Capital Deployment for Family Offices"
 description: "A deep, technical Principal brief on agentic infrastructure, algorithmic deal flow, and AI-first credit architecture for UHNW/HNW family offices seeking zero‑human‑friction capital deployment."
-date: "2025-12-05" author: "Roials Alpha"
+date: "2025-12-05" author: "Jonas Hyltén"
 slug: "family-office-zero-friction-agentic-infrastructure"
 ---
 
@@ -524,13 +524,3 @@ The machine can run.
 And once it runs, it does not slow.
 
 What level of agentic infrastructure are you prepared to deploy?
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

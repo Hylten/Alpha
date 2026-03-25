@@ -17,9 +17,9 @@ Structurally.
 
 The next era of wealth acceleration is not found in higher leverage or riskier positions.
 
-It is emerging from a new class of autonomous financial systems that recode liquidity Access is restricted to approved mandates.
+It is emerging from a new class of autonomous financial systems that recode liquidity 
 
-Minimum mandate depth: $5M+ target size.
+
 
 This is where private credit, asset based Asset-Backed Frameworks, and agentic autonomous infrastructure intersect.
 
@@ -131,9 +131,9 @@ This architecture enables:
 
 - Continuous collateral monitoring
 
-- Ultra-low friction refinancing HNWI and UHNW clients gain Access is restricted to approved mandates.
+- Ultra-low friction refinancing HNWI and UHNW clients gain 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The asset works for the client.
 
@@ -233,9 +233,9 @@ Alpha is increasingly created through structural advantage.
 
 Timing.
 
-Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+
+
 
 Liquidity.
 
@@ -305,9 +305,9 @@ Clients gain:
 
 - Full confidentiality
 
-- Direct Access is restricted to approved mandates.
+- Direct 
 
-Minimum mandate depth: $5M+ target size.
+
 
 - A strategic partner that operates without noise
 
@@ -355,9 +355,9 @@ You do not compete on yield alone.
 
 You compete on architecture.
 
-You compete on Access is restricted to approved mandates.
+You compete on 
 
-Minimum mandate depth: $5M+ target size.
+
 
 You compete on liquidity velocity.
 
@@ -376,15 +376,3 @@ Unmatched in speed.
 The future of alpha is autonomous.
 
 It is already here for those who operate above the conventional layer.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

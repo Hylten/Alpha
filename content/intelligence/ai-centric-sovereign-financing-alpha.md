@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing and the Institutional Reordering of Global Credit"
 description: "A high density institutional briefing on the structural realignment of sovereign finance, the rise of AI driven credit architectures, and the emergence of algorithmic deal flow as the dominant source of non correlated alpha for UHNW allocators."
-date: "2025-09-13" author: "Roials Capital (Institutional Briefing)"
+date: "2025-09-13" author: "Jonas Hyltén"
 slug: "ai-centric-sovereign-financing-alpha"
 ---
 
@@ -210,9 +210,9 @@ The technology creates a more transparent, predictable, and ethically coherent c
 
 The allocator gains high fidelity risk visibility.
 
-The sovereign gains Access is restricted to approved mandates.
+The sovereign gains 
 
-Minimum mandate depth: $5M+ target size.
+
 
 ### Phase V:
 
@@ -246,14 +246,4 @@ Roials Capital functions as the strategic partner in this process.
 
 The firm does not direct capital.
 
-It engineers clarity, alignment, and Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
+It engineers clarity, alignment, and

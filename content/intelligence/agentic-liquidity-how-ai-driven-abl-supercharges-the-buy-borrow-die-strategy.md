@@ -357,9 +357,9 @@ What This Means for Capital Builders, Principals, and Family Offices Agentic Ass
 
 - lower risk exposure
 
-- faster liquidity Access is restricted to approved mandates.
+- faster liquidity 
 
-Minimum mandate depth: $5M+ target size.
+
 
 - precision tax optimization
 
@@ -374,13 +374,7 @@ This is not financial advice.
 This is infrastructure.
 
 The Buy Borrow Die strategy becomes executable at a level that human teams simply cannot match.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -403,7 +397,3 @@ This is the new edge.
 This is the new infrastructure.
 
 This is how modern capital compounds at scale.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

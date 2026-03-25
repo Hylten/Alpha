@@ -1,7 +1,7 @@
 ---
 title: "The Self-Validating Data Room: The Next Frontier of Autonomous Private Markets"
 description: "A principal-level architecture brief on autonomous data rooms, agentic verification engines, and AI-first deal execution structures for next‑generation private markets."
-date: "2026-01-21" author: "Roials Alpha"
+date: "2026-01-21" author: "Jonas Hyltén"
 slug: "autonomous-data-rooms-and-agentic-private-markets"
 ---
 
@@ -158,13 +158,7 @@ No shared memory.
 No shared parameters.
 
 Each reaches its own
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -392,9 +386,9 @@ If you want the next step
 
 - the agentic infrastructure blueprint, the sovereign-core architecture, the execution-swarm configuration
 
-- Access is restricted to approved mandates.
+- 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The call will restructure how you operate.
 

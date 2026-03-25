@@ -1,7 +1,7 @@
 ---
 title: "Agentic Deals for the HNW Era: High‑Frequency Liquidity Structuring with Institutional Precision"
 description: "A principal‑level brief on AI‑first liquidity engineering, agentic credit systems, and institutional‑grade deal architecture for HNW and UHNW family offices seeking precision capital, high‑frequency liquidity rails, and autonomous credit intelligence."
-date: "2025-11-23" author: "Roials Alpha"
+date: "2025-11-23" author: "Jonas Hyltén"
 slug: "agentic-deals-hnw-era-liquidity-structuring"
 ---
 
@@ -83,9 +83,9 @@ The architecture begins with identity of capital.
 
 Every family office carries a delta between its nominal wealth and its usable liquidity.
 
-The delta widens when credit Access is restricted to approved mandates.
+The delta widens when credit 
 
-Minimum mandate depth: $5M+ target size.
+
 
 When underwriting is manual.
 
@@ -428,16 +428,8 @@ The next
 
 Not speculative.
 
-Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+
+
 
 Mandate: 4.6bps latency ceiling.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

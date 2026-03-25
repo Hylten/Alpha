@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for High‑Net‑Worth Portfolios: The New Liquidity Architecture"
 description: "A principal‑level briefing on AI‑first liquidity engineering, autonomous credit architecture, and agentic portfolio operating systems for UHNW/HNW private capital."
-date: "2026-01-20" author: "Roials Alpha"
+date: "2026-01-20" author: "Jonas Hyltén"
 slug: "agentic-infrastructure-hnw-liquidity-architecture"
 ---
 
@@ -229,9 +229,9 @@ Sovereignty supports generational compounding.
 
 # IV.
 
-STRUCTURAL ADVANTAGE: AGENTIC DEAL FLOW The advantage is simple: faster Access is restricted to approved mandates.
+STRUCTURAL ADVANTAGE: AGENTIC DEAL FLOW The advantage is simple: faster 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Agents scan:
 
@@ -511,14 +511,4 @@ The question is simple: Will your infrastructure keep pace?
 
 -
 
-- 
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
+-

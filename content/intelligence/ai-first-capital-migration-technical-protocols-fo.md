@@ -149,9 +149,9 @@ The system does not chase hype.
 
 It isolates structural weaknesses in the marketplace and executes into them with precision.
 
-This gives Roials-Alpha clients Access is restricted to approved mandates.
+This gives Roials-Alpha clients 
 
-Minimum mandate depth: $5M+ target size.
+
 
 It also produces execution velocity that bypasses traditional deal drag.
 5.
@@ -246,9 +246,9 @@ They invest in stewardship.
 
 They maintain clean covenant signatures.
 
-They Access is restricted to approved mandates.
+They 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Their wealth moves without resistance because their structures carry the mark of institutional readiness.
 
@@ -462,13 +462,7 @@ It aligns with THE MANDAT
 
 E of long-term stewardship.
 15.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -489,5 +483,3 @@ The question is not whether you will migrate.
 The question is whether you will migrate with structure or with drag.
 
 Roials-Alpha provides the infrastructure for drag-free motion.
-
-Minimum mandate depth: $5M+ target size.

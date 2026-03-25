@@ -1,7 +1,7 @@
 ---
 title: "Ai Orchestrated Co Investment Syndicates Without Intermediaries"
 description: "Ai Orchestrated Co Investment Syndicates Without Intermediaries | Institutional Briefing by Roials-Alpha"
-date: "2026-03-01" author: "Roials Alpha"
+date: "2026-03-01" author: "Jonas Hyltén"
 slug: "ai-orchestrated-co-investment-syndicates-without-intermediaries"
 ---
 
@@ -427,13 +427,3 @@ It enforces discipline.
 The result is a new category of capital deployment that is faster, cleaner, and more efficient than any human coordinated alternative.
 
 Inquire about agentic infrastructure
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

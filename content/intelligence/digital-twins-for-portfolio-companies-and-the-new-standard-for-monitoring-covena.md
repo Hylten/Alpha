@@ -323,11 +323,3 @@ No slow recognition of risk.
 Roials Alpha is the infrastructure that replaces legacy monitoring entirely.
 
 Inquire about agentic infrastructure
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

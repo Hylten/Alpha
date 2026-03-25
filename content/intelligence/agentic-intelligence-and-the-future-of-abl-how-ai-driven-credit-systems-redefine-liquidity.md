@@ -374,15 +374,3 @@ It is the new floor of competitiveness.
 It is the operating system of next generation credit.
 
 The lenders who deploy agentic Asset-Based Lending infrastructure today will own the liquidity markets of tomorrow.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

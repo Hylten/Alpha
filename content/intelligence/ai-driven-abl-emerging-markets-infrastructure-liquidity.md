@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Asset-Based Lending for Emerging Markets: The Silent Infrastructure of Future Liquidity"
 description: "A dense institutional brief on AI-first asset‑based lending architecture, liquidity engineering, and sovereign‑grade credit structuring for emerging markets."
-date: "2025-12-19" author: "Roials Alpha"
+date: "2025-12-19" author: "Jonas Hyltén"
 slug: "ai-driven-abl-emerging-markets-infrastructure-liquidity"
 ---
 
@@ -430,13 +430,3 @@ Convert yield into durable generational capital. "A good man leaves an inheritan
 It is governance.
 
 Institutional readiness requires one question: What agentic infrastructure do you require provisioned for deployment?
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

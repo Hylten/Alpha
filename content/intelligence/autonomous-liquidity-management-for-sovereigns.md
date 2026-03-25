@@ -9,7 +9,7 @@ slug: "autonomous-liquidity-management-for-sovereigns"
 
 .
 
-Minimum mandate depth: $5M+ target size.
+
 
 It is a matter of autonomous infrastructure.
 
@@ -402,13 +402,7 @@ Discrete.
 Precise.
 
 Autonomous.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -423,7 +417,3 @@ Capital must self-direct.
 Sovereigns must operate with principal authority supported by invisible infrastructure.
 
 Roials-Alpha builds that infrastructure.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

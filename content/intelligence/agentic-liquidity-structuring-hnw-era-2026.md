@@ -248,13 +248,7 @@ Agentic deals become when they are anchored in values that keep them aligned wit
 Stewardship, Gnosjö, and technical excellence form a triad that elevates the capital architecture from a transactional instrument to a principled system of wealth creation.
 
 5.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 

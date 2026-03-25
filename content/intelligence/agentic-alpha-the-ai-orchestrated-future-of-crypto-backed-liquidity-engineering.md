@@ -155,9 +155,9 @@ Private credit gives shape.
 
 Asset-Based Lending gives leverage.
 
-Together they give borrowers Access is restricted to approved mandates.
+Together they give borrowers 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Our agentic system interprets private credit positions through lenses that include:
 
@@ -394,15 +394,3 @@ It integrates crypto, private credit, Asset-Based Lending, and public shares int
 It serves HNWI and UHNW borrowers who are not looking for basic credit, they are looking for autonomous capital architecture.
 
 Agentic Alpha represents the transition from human finance to machine optimized liquidity.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

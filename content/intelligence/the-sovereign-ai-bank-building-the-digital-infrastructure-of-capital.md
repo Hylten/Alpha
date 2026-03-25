@@ -173,9 +173,9 @@ It is operational.
 
 HNWI have wealth.
 
-UHNW have Access is restricted to approved mandates.
+UHNW have 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The emerging class has both wealth and infrastructure.
 
@@ -245,9 +245,9 @@ AI execution becomes the force.
 
 This is what institutional capital has always relied on.
 
-This is what individuals never had Access is restricted to approved mandates.
+This is what individuals never had 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Until now.
 
@@ -274,13 +274,7 @@ The sovereign thesis replaces intermediaries with computation.
 It replaces negotiation with architecture.
 
 It replaces dependence with principal authority.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -297,7 +291,3 @@ It is the next evolution in liquidity, private credit, and computational asset b
 Roials Alpha builds the architecture.
 
 You operate the system.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

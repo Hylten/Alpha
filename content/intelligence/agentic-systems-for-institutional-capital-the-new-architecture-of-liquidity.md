@@ -71,9 +71,9 @@ It monitors downside thresholds.
 
 It designs and executes the credit stack.
 
-The outcome is a continuous liquidity band that can be Access is restricted to approved mandates.
+The outcome is a continuous liquidity band that can be 
 
-Minimum mandate depth: $5M+ target size.
+
 
 High Net Worth .
 
@@ -404,13 +404,3 @@ Roials-Alpha builds this architecture for high net worth and ultra high net wort
 Access is restricted to approved mandates
 
 .
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

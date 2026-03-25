@@ -50,15 +50,3 @@ They need autonomous infrastructure that functions at institutional grade withou
 This is the Alpha Advantage.
 
 This is Roials-Alpha.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

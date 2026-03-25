@@ -27,20 +27,10 @@ Roials-Alpha steps into this gap.
 
 Our Asset-Based Lending framework uses AI as the primary arbiter of value.
 
-Not as an Access is restricted to approved mandates.
+Not as an 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Access is restricted to approved mandates
 
 .
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

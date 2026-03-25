@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Liquidity Architecture for Institutional Sovereigns: A Technical Framework for Capital Efficiency and Cross Jurisdictional Precision"
 description: "A clinical analysis of AI coordinated liquidity systems, institutional balance sheet engineering, and sovereign grade capital routing. Focus on algorithmic credit structuring, operational intelligence, and the emerging regime of autonomous capital architectures."
-date: "2026-03-09" author: "Roials Capital (Institutional Briefing)"
+date: "2026-03-09" author: "Jonas Hyltén"
 slug: "ai-driven-liquidity-architecture-institutional-sovereigns"
 ---
 
@@ -214,13 +214,3 @@ Sovereign entities benefit from a Confidential Strategy Audit where the architec
 This is not an investment solicitation.
 
 It is structural calibration to ensure that the sovereign mandate operates with precision in a machine led macro regime. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Institutional Alpha in the Age of Autonomous Capital: The AI Driven Regime Shift"
 description: "A technical briefing on the structural evolution of institutional alpha as AI becomes the dominant mechanism for deal flow origination, credit architecture, and operational intelligence across global private markets."
-date: "2025-08-24" author: "Roials Capital (Institutional Briefing)"
+date: "2025-08-24" author: "Jonas Hyltén"
 slug: "institutional-alpha-ai-autonomous-capital"
 ---
 
@@ -216,13 +216,3 @@ For UHNW families, institutional LPs, and private credit managers, the next deca
 Roials Capital provides the strategic framework to navigate this transition.
 
 Through confidential strategy audits and portfolio calibration processes, allocators gain visibility into how AI driven structures can refine their approach, strengthen capital positioning, and increase alignment between opportunity and balance sheet behavior.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

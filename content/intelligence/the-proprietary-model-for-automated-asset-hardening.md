@@ -159,9 +159,9 @@ Asset-Based Lending lines become modular.
 
 Collateral values become predictable even under volatility.
 
-Clients are granted immediate Access is restricted to approved mandates.
+Clients are granted immediate 
 
-Minimum mandate depth: $5M+ target size.
+
 
 This is the Roials-Alpha advantage.
 
@@ -303,9 +303,9 @@ We focus on durable liquidity.
 
 Our structure ensures that your assets remain leverage ready across market cycles.
 
-The hardening model continues to optimize even when you are not Access is restricted to approved mandates.
+The hardening model continues to optimize even when you are not 
 
-Minimum mandate depth: $5M+ target size.
+
 
 It is a continuous conditioning process.
 
@@ -382,13 +382,3 @@ The Automated Asset Hardening model is the foundation for this.
 Access is restricted to approved mandates
 
 .
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

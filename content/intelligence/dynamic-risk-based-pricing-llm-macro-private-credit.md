@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Risk‑Based Pricing in Private Credit: The Architecture of LLM‑Driven Macroeconomic Foresight"
 description: "A Principal-level deep analysis of AI-first credit architecture, dynamic pricing engines, and the emergence of LLM-enhanced macro forecasting in private credit markets."
-date: "2025-11-26" author: "Roials Alpha"
+date: "2025-11-26" author: "Jonas Hyltén"
 slug: "dynamic-risk-based-pricing-llm-macro-private-credit"
 ---
 
@@ -295,9 +295,9 @@ But the Alpha engine stands alone in speed.
 
 - asymmetric insight
 
-- frictionless Access is restricted to approved mandates.
+- frictionless 
 
-Minimum mandate depth: $5M+ target size.
+
 
 - precision-built credit exposure with uncompromised downside protection Dynamic pricing gives them all three.
 
@@ -337,18 +337,10 @@ The next decade of alpha will originate here.
 
 - autonomous escalation protocols Agentic credit infrastructure is the logical continuation of dynamic pricing.
 
-We can detail the required agents, their roles, their data Access is restricted to approved mandates.
+We can detail the required agents, their roles, their data 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Tell me the depth you want: Do you want the full system blueprint?
 
 Or do you want the modular agent design?
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

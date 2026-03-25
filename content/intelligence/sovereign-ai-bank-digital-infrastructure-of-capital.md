@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign AI Bank: Digital Infrastructure for Institutional Capital Allocation"
 description: "A technical briefing on AI-first credit architecture, liquidity engineering, and the emerging sovereign-grade digital capital stack positioning UHNWIs and institutional allocators for structural alignment in a post‑discretionary market regime."
-date: "2025-10-26" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-26" author: "Jonas Hyltén"
 slug: "sovereign-ai-bank-digital-infrastructure-of-capital"
 ---
 
@@ -226,13 +226,3 @@ The Sovereign AI Bank provides a digital infrastructure that eliminates friction
 Allocators evaluating strategic recalibration can request a confidential strategy audit with Roials Capital.
 
 This audit maps the allocator’s current positioning, identifies structural gaps, and clarifies which components of the AI architecture can enhance balance sheet optimization and institutional durability. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

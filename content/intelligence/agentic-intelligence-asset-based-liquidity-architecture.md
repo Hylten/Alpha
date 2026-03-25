@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the New Architecture of Asset‑Based Liquidity"
 description: "An institutional brief on AI-driven credit systems, agentic underwriting, and the structural redesign of private credit liquidity for UHNW/HNW family offices."
-date: "2025-08-15" author: "Roials Alpha"
+date: "2025-08-15" author: "Jonas Hyltén"
 slug: "agentic-intelligence-asset-based-liquidity-architecture"
 ---
 
@@ -492,13 +492,7 @@ Agentic systems operationalize it.
 -
 
 - In
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -522,8 +516,8 @@ They will control the temporal dimension of credit-past, present, and predictive
 
 And in markets defined by velocity, intelligence becomes the ultimate hard asset.
 
-If you require structuring, deployment, or integration of agentic infrastructure into your existing credit arm or Fund-III ecosystem, Access is restricted to approved mandates.
+If you require structuring, deployment, or integration of agentic infrastructure into your existing credit arm or Fund-III ecosystem, 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Terminal metric: 1.7-second collateral recalibration cycle.

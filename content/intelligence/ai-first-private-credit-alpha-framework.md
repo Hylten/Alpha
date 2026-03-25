@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending Liquidity"
 description: "Institutional blueprint for AI‑driven private credit, algorithmic collateral intelligence, and end‑to‑end autonomous Asset-Based Lending underwriting for UHNW/HNW family offices and Fund-III architectures."
-date: "2025-12-12" author: "Jonas Roials"
+date: "2025-12-12" author: "Jonas Hyltén"
 slug: "ai-first-private-credit-alpha-framework"
 ---
 
@@ -365,9 +365,9 @@ Capital cycles faster.
 
 Asset-Based Lending becomes renewable liquidity.
 
-Family offices gain Access is restricted to approved mandates.
+Family offices gain 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Flexibility without fragility.
 
@@ -539,15 +539,3 @@ We build that architecture.
 Metric: Enforcement yield compression ratio 0.
 
 87 across cross‑border Asset-Based Lending portfolios.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

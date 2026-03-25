@@ -1,7 +1,7 @@
 ---
 title: "AI Powered Liquidity Architecture for Sovereign Level Capital Movements: Institutional Engineering for Cross Jurisdictional Balance Sheet Mobility"
 description: "A technical briefing on AI mediated liquidity engineering, sovereign scale capital routing, automated credit architecture, cross border structural mechanics, and institutional grade balance sheet optimization frameworks designed for UHNW allocators and private credit strategists."
-date: "2025-08-01" author: "Roials Capital (Institutional Briefing)"
+date: "2025-08-01" author: "Jonas Hyltén"
 slug: "ai-powered-liquidity-architecture-sovereign-capital-movements"
 ---
 
@@ -172,13 +172,3 @@ Strategic Consultation Requirement When the existing architecture does not meet 
 The allocator benefits from clarity, precision, and strategic neutrality.
 
 The AI framework provides a consistent platform for cross border capital movement, private credit calibration, and balance sheet optimization without introducing solicitation dynamics. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

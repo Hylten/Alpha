@@ -1,7 +1,7 @@
 ---
 title: "Agentic Liquidity: How AI Driven Asset-Based Lending Reshapes the Buy Borrow Die Architecture for Institutional Portfolios"
 description: "A clinical review of AI native asset based lending engines, autonomous credit adjudication, and the structural shift toward perpetual liquidity ecosystems that reinforce the Buy Borrow Die model for UHNW and institutional allocators."
-date: "2026-02-04" author: "Roials Capital (Institutional Briefing)"
+date: "2026-02-04" author: "Jonas Hyltén"
 slug: "agentic-liquidity-ai-driven-abl-buy-borrow-die"
 ---
 
@@ -274,13 +274,3 @@ Roials Capital facilitates a confidential Strategy Audit for allocators seeking 
 This is not a solicitation.
 
 It is a structural intelligence process designed to map capital efficiency opportunities with institutional precision. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

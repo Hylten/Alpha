@@ -82,13 +82,7 @@ It is a question of systems competency.
 The firms with agentic architecture win.
 
 The firms without it compete for leftovers.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -121,7 +115,3 @@ Engineered precision.
 principal authority.
 
 Institutional mechanics.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Intelligence on Asset Hardening via DeFi Protocols for High Net Worth Capital"
 description: "Institutional brief on technical collateral hardening, volatility-indexed credit, and high-net-worth capital defense."
-date: "2026-03-20" author: "Roials Alpha"
+date: "2026-03-20" author: "Jonas Hyltén"
 slug: "proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital"
 ---
 
@@ -366,13 +366,3 @@ It is sovereign.
 Roials Alpha is built to engineer this outcome today.
 
 Inquire about agentic infrastructure
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

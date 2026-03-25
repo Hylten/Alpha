@@ -37,9 +37,9 @@ It shifts the moment a structural pressure gradient appears.
 
 These gradients are shaped by:
 
-• Liquidity Access is restricted to approved mandates.
+• Liquidity 
 
-Minimum mandate depth: $5M+ target size.
+
 
 • Collateral standards • Regulatory noise levels
 
@@ -209,9 +209,9 @@ HNWI and UHNW individuals who integrate with these pools gain several advantages
 
 • Minimal slippage • Risk displacement rather than risk absorption
 
-• Access is restricted to approved mandates.
+• 
 
-Minimum mandate depth: $5M+ target size.
+
 
 • Reduced exposure to market liquidity droughts Traditional liquidity is episodic.
 
@@ -372,15 +372,3 @@ principal authority.
 Structural dominance.
 
 Agentic Capital Structuring.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

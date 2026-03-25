@@ -125,9 +125,9 @@ Strategic edges include:
 
 • Reduced balance sheet optimization costs through continuous optimization
 
-• Expanded Access is restricted to approved mandates.
+• Expanded 
 
-Minimum mandate depth: $5M+ target size.
+
 
 • Compression of capital idle time
 
@@ -172,13 +172,7 @@ Legacy becomes mechanical.
 Predictable.
 
 Dominant.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -191,7 +185,3 @@ principal authority.
 Structural dominance.
 
 Infinite scalability.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

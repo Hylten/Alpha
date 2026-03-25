@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: AI Centric Sovereign Financing and the Reconfiguration of Institutional Capital Architecture"
 description: "Technical briefing on the AI governed sovereign credit landscape, liquidity engineering, and the ascent of machine mediated capital allocation frameworks across UHNW and institutional mandates."
-date: "2025-10-10" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-10" author: "Jonas Hyltén"
 slug: "future-of-alpha-ai-centric-sovereign-financing"
 ---
 
@@ -220,13 +220,3 @@ Institutional Liquidity Paths Does the system enhance liquidity predictability t
 Allocators that deploy capital within these frameworks position themselves at the forefront of the sovereign financing evolution.
 
 Roials Capital provides confidential Strategy Audits for allocators requiring map level clarity regarding how AI centric sovereign financing impacts their portfolio architecture, mandate design, and long horizon capital planning. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

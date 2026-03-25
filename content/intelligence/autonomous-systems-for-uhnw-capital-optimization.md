@@ -187,9 +187,9 @@ First, deterministic collateral valuation.
 
 We eliminate uncertainty by modeling collateral through probabilistic curves, not single point estimates.
 
-Second, continuous credit recalibration. balance sheet optimization power adjusts second by second, which means liquidity is always Access is restricted to approved mandates.
+Second, continuous credit recalibration. balance sheet optimization power adjusts second by second, which means liquidity is always 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Third, autonomous compliance.
 
@@ -328,15 +328,3 @@ Where opportunity is not found, it is predicted.
 This is not the future of wealth management.
 
 It is the new standard for those who operate at scale.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

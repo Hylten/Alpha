@@ -1,7 +1,7 @@
 ---
 title: "The Proprietary Path to Autonomous Capital"
 description: "Institutional briefing on autonomous capital architectures, algorithmic deal orchestration, and the operational mechanics behind AI-driven credit origination for UHNW family offices seeking non-correlated private markets exposure with institutional-grade governance."
-date: "2025-11-16" author: "Roials Capital (Institutional Briefing)"
+date: "2025-11-16" author: "Jonas Hyltén"
 slug: "proprietary-path-to-autonomous-capital"
 ---
 
@@ -192,13 +192,3 @@ This produces an autonomous capital roadmap specific to the allocator's objectiv
 The proprietary path to autonomous capital is ultimately a transition from reactive allocation to systemic mastery.
 
 It is a disciplined upgrade of the allocator's operating system, informed by field intelligence, structural engineering, and algorithmic governance.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

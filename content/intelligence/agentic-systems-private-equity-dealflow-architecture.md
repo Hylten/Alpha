@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems and the New Architecture of Private Equity Dealflow"
 description: "Institutional briefing on agentic architectures, AI-first capital routing, and the operational intelligence reshaping private equity acquisition velocity for UHNWIs, Family Offices, and private credit allocators."
-date: "2025-09-22" author: "Roials Capital (Institutional Briefing)"
+date: "2025-09-22" author: "Jonas Hyltén"
 slug: "agentic-systems-private-equity-dealflow-architecture"
 ---
 
@@ -206,13 +206,3 @@ E .
 This briefing provides the framework for understanding how the new architecture of private equity dealflow operates.
 
 For allocators seeking clarity on integration, structural calibration, or jurisdiction specific applications, Roials Capital conducts a confidential Strategy Calibration session that examines the allocator's current deployment environment, alignment profile, and optimization priorities. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

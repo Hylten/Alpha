@@ -73,7 +73,7 @@ Why AI-Driven Hardening Is the Core Mechanic for Private Credit Private credit u
 
 .
 
-Minimum mandate depth: $5M+ target size.
+
 
 AI changes the equation.
 
@@ -111,17 +111,17 @@ Better collateral.
 
 Better terms.
 
-Better Access is restricted to approved mandates.
+Better 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Our Asset-Based Lending structures are designed for real estate, operating companies, equity positions, and blended asset bases.
 
 We create the precision infrastructure that institutional desks use internally.
 
-We simply make it Access is restricted to approved mandates.
+We simply make it 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Crypto Strategic Collateralization at Institutional Scale Crypto is volatile, fast, and algorithmically targeted by every major market participant
 
@@ -306,13 +306,7 @@ We see the next
 • 24/ 7 agentic hardening with zero lag The wealth ecosystem is shifting toward autonomy, precision, and algorithmic protection.
 
 Roials-Alpha is already operating there.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -325,7 +319,3 @@ AI-driven hardening is the force multiplier.
 Private credit and Asset-Based Lending are the conduits.
 
 Roials-Alpha is the principal authority behind it.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

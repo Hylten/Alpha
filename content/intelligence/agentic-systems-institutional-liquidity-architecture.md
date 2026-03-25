@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Institutional Capital: The New Architecture of Liquidity"
 description: "Institutional briefing on the structural shift toward agentic systems, AI-first credit architecture, and the recalibration of liquidity channels across global private markets."
-date: "2025-09-19" author: "Roials Capital (Institutional Briefing)"
+date: "2025-09-19" author: "Jonas Hyltén"
 slug: "agentic-systems-institutional-liquidity-architecture"
 ---
 
@@ -272,13 +272,3 @@ The objective is clarity.
 The outcome is calibration.
 
 The result is an institutional decision pathway that matches the realities of the new liquidity regime. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

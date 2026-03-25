@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Framework: Engineering Proprietary Credit Architecture for Institutional-Grade Velocity"
 description: "A clinical analysis of algorithmic credit origination, liquidity engineering, and proprietary capital frameworks designed for UHNW allocators and institutional private credit platforms."
-date: "2026-02-05" author: "Roials Capital (Institutional Briefing)"
+date: "2026-02-05" author: "Jonas Hyltén"
 slug: "alpha-framework-proprietary-credit-architecture"
 ---
 
@@ -266,13 +266,3 @@ This audit evaluates the current portfolio’s alignment with modern credit arch
 Roials Capital functions as a strategic partner in this process.
 
 Its role is to guide allocators through the structural landscape, introduce institutionally validated operators, and calibrate credit frameworks to match long term mandates. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

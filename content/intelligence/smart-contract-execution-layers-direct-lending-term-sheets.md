@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Contractual Autonomy"
 description: "A deep structural analysis of smart‑contract execution layers for direct‑lending term sheets, built for algorithmic deal flow, AI‑first credit architecture, and institutional-grade velocity."
-date: "2025-11-12" author: "Roials Alpha"
+date: "2025-11-12" author: "Jonas Hyltén"
 slug: "smart-contract-execution-layers-direct-lending-term-sheets"
 ---
 
@@ -417,18 +417,10 @@ If you want this architecture built around your family’s capital engine, initi
 
 The bridge is direct.
 
-The Access is restricted to approved mandates.
+The 
 
-Minimum mandate depth: $5M+ target size.
+
 
 State your objectives.
 
 We construct the system.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

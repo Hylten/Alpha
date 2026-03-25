@@ -165,9 +165,9 @@ A hardened asset demonstrates the following characteristics.
 
 Hardened assets command superior credit terms.
 
-Superior liquidity Access is restricted to approved mandates.
+Superior liquidity 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Superior optionality.
 
@@ -221,11 +221,11 @@ High Velocity Finance and the Collapse of Legacy Timing Velocity defines informa
 
 .
 
-Not Access is restricted to approved mandates.
+Not 
 
-Minimum mandate depth: $5M+ target size.
 
-Minimum mandate depth: $5M+ target size.
+
+
 
 Velocity is scarce.
 
@@ -477,7 +477,7 @@ The Future: Principals With Infrastructure vs Principals Without The next decade
 
 .
 
-Minimum mandate depth: $5M+ target size.
+
 
 It will be defined by structure.
 
@@ -506,13 +506,3 @@ It is a structural realignment of how private capital interacts with liquidity, 
 The principal who acts now will operate from strength.
 
 The principal who delays will operate from constraint.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

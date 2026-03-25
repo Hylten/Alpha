@@ -497,13 +497,3 @@ This is the technical edge.
 This is the principal posture.
 
 This is the architecture that attracts NAEOCC clients who understand weight, responsibility, and the sacred nature of capital.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
 description: "An institutional briefing on agentic liquidity systems, AI driven credit architecture, and structural efficiencies for UHNW and HNW allocators navigating the new era of autonomous deal flow."
-date: "2025-10-01" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-01" author: "Jonas Hyltén"
 slug: "agentic-liquidity-structuring-hnw-era"
 ---
 
@@ -194,13 +194,3 @@ Roials Capital provides confidential strategy audits that map the allocator’s 
 The objective is not promotion but alignment.
 
 The current era favors precision systems, cross domain intelligence, and institutional grade execution delivered without institutional friction. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

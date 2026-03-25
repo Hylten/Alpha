@@ -47,9 +47,9 @@ They integrate LLMs into workflows that were never built for autonomy.
 
 AI first means the infrastructure itself is designed for agents.
 
-Every subsystem becomes Access is restricted to approved mandates.
+Every subsystem becomes 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Every interface becomes interpretable.
 
@@ -520,15 +520,3 @@ This is the shift.
 This is the strategic advantage.
 
 This is the infrastructure layer that defines the next decade.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

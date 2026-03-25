@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Advantage in Automated Credit Analysis"
 description: "A principal-grade exposition on AI-first credit architecture, autonomous underwriting, liquidity engineering, and institutional alpha capture for UHNW/HNW family offices operating across private credit cycles."
-date: "2025-07-04" author: "Jonas Roials"
+date: "2025-07-04" author: "Jonas Hyltén"
 slug: "alpha-advantage-automated-credit-analysis"
 ---
 
@@ -421,18 +421,10 @@ If you want the edge, you trust the architecture.
 
 If you want the future, you remove friction.
 
-Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+
+
 
 Metric: Latency-to-Underwrite = 0.
 
 83 seconds.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "AI‑First Liquidity Architecture for Institutional GPs: The Structural Frontier of Modern Capital"
 description: "A technical briefing on AI‑driven liquidity engineering, GP balance sheet optimization, and the emerging operating regime for institutional allocators navigating the post‑2024 capital cycle."
-date: "2025-12-15" author: "Roials Capital (Institutional Briefing)"
+date: "2025-12-15" author: "Jonas Hyltén"
 slug: "ai-first-liquidity-architecture-institutional-gps"
 ---
 
@@ -224,13 +224,3 @@ Roials Capital supports these assessments through confidential strategy audits a
 The objective is to provide institutional clarity, not promotion.
 
 The output is a neutral map of the allocator’s structural position within the current capital regime and the pathways available for advancing liquidity sovereignty. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "The Principal Geometry of Alternative Data Graphs in Emerging Private Credit Underwriting"
 description: "A high-density structural analysis of graph-based alternative data architectures, underwriting intelligence, and AI-first credit systems reshaping emerging private credit markets."
-date: "2025-12-21" author: "Roials Alpha"
+date: "2025-12-21" author: "Jonas Hyltén"
 slug: "alternative-data-graphs-private-credit-underwriting"
 ---
 
@@ -303,16 +303,8 @@ An agentic infrastructure that never sleeps.
 
 The only question now is simple: Do you want to build this architecture into your family office, or do you want to compete against the institutions that already have?
 
-If you want an exploratory briefing on constructing an agentic underwriting infrastructure tailored to your mandate, Access is restricted to approved mandates.
+If you want an exploratory briefing on constructing an agentic underwriting infrastructure tailored to your mandate, 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The window for early advantage remains open, but it will not remain open for long.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

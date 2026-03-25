@@ -53,9 +53,9 @@ Rules change.
 
 Jurisdictions shift.
 
-Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+
+
 
 Agentic systems restore mobility by creating direct pathways from asset to liquidity without institutional bottleneck.
 
@@ -181,13 +181,3 @@ We invite only those who understand the value of structural sovereignty.
 Access is restricted to approved mandates
 
 .
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

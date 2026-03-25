@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset Based Lending Architecture: Institutional Liquidity Engineering for Healthcare and Technology Balance Sheets"
 description: "Institutional briefing on the regime shift toward AI synchronized Asset-Based Lending frameworks, automated collateral intelligence, and next generation credit structuring for healthcare and technology enterprises. Focused on capital efficiency, structural arbitrage, and strategic alignment for UHNW and institutional allocators."
-date: "2026-01-10" author: "Roials Capital (Institutional Briefing)"
+date: "2026-01-10" author: "Jonas Hyltén"
 slug: "ai-driven-asset-based-lending-liquidity-engine"
 ---
 
@@ -194,13 +194,3 @@ For allocators, it represents a structurally validated credit category with oper
 Roials Capital conducts confidential Strategy Calibration Consultations for allocators evaluating integration of AI first Asset-Based Lending into their credit framework.
 
 This includes technical mapping of collateral structures, platform selection, and institutional alignment analysis. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

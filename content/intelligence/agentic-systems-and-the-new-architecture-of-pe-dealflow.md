@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems and the New Architecture of PE Dealflow"
 description: "Agentic Systems and the New Architecture of PE Dealflow | Institutional Briefing by Roials-Alpha"
-date: "2026-03-01" author: "Roials Alpha"
+date: "2026-03-01" author: "Jonas Hyltén"
 slug: "agentic-systems-and-the-new-architecture-of-pe-dealflow"
 ---
 
@@ -467,13 +467,3 @@ Aggressively.
 Irreversibly.
 
 Inquire about agentic infrastructure
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "AI‑Driven Liquidity Architecture for High Velocity Private Credit"
 description: "Institutional brief on algorithmic private‑credit systems, autonomous underwriting stacks, and real‑time liquidity engineering frameworks for UHNW/HNW family offices operating across multi‑jurisdictional velocity corridors."
-date: "2025-08-05" author: "Roials Alpha"
+date: "2025-08-05" author: "Jonas Hyltén"
 slug: "ai-driven-liquidity-architecture-private-credit"
 ---
 
@@ -419,13 +419,3 @@ The principal mandate is simple: build an AI-first credit architecture that remo
 Final Metric: Sub-30ms Underwriting Latency Threshold.
 
 To proceed, specify whether you require agentic infrastructure design.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

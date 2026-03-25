@@ -107,9 +107,9 @@ The Structural Advantage for HNWI and UHNW Institutional grade credit mechanics 
 
 The advantage is obvious.
 
-The Access is restricted to approved mandates.
+The 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Roials-Alpha changes the entry point.
 
@@ -430,15 +430,3 @@ Final Word You do not need another lender
 You need an intelligent liquidity architecture.
 
 Roials-Alpha delivers that architecture.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Real‑Time Counterparty Probability Scoring"
 description: "A deep, technical briefing on AI‑driven counterparty scoring, algorithmic deal flow filtration, and agentic infrastructure for UHNW transaction velocity."
-date: "2025-10-14" author: "Roials Alpha"
+date: "2025-10-14" author: "Jonas Hyltén"
 slug: "real-time-counterparty-probability-scoring"
 ---
 
@@ -441,13 +441,3 @@ A Principal who moves without friction.
 - If you want a briefing on implementing the agentic layer across your own deal pipeline-or integrating counterparty scoring with your Fund-III strategy-send a message.
 
 The exploratory call begins when you initiate it.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

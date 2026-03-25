@@ -305,24 +305,12 @@ The Closing Architecture The next era of wealth is agentic
 
 The next era of leverage is autonomous.
 
-The next era of elite finance belongs to those who build infrastructure, not those who buy Access is restricted to approved mandates.
+The next era of elite finance belongs to those who build infrastructure, not those who buy 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Roials-Alpha builds for those who understand this shift.
 
 For those who operate quietly.
 
 For those who require structural power, not performative noise.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

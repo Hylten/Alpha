@@ -1,7 +1,7 @@
 ---
 title: "The Future of Asset-Based Lending: From Analysis to Autonomy"
 description: "A principal-grade examination of autonomous asset‑based lending systems, algorithmic credit architectures, and institutional-scale liquidity engineering frameworks for UHNW/HNW family offices."
-date: "2026-02-12" author: "Roials Alpha"
+date: "2026-02-12" author: "Jonas Hyltén"
 slug: "future-of-abl-from-analysis-to-autonomy"
 ---
 
@@ -443,16 +443,8 @@ The market trend is irreversible.
 
 The institutions that deploy autonomous architectures now will own the most valuable assets later: throughput, certainty, and control.
 
-If you require the infrastructure that transforms credit into an autonomous system, Access is restricted to approved mandates.
+If you require the infrastructure that transforms credit into an autonomous system, 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Completion Metric: Latency Threshold < 42ms.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

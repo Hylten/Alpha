@@ -259,9 +259,9 @@ rapid enforcement rights.
 
 transparent intercreditor relationships.
 
-direct Access is restricted to approved mandates.
+direct 
 
-Minimum mandate depth: $5M+ target size.
+
 
 These controls transform the Institutional Liquidity Paths dynamic.
 
@@ -584,14 +584,4 @@ As principals.
 
 -
 
-# Inquiry Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
+# Inquiry

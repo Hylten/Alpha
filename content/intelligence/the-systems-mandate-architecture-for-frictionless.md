@@ -205,9 +205,9 @@ It is computed.
 
 Pattern recognition and constraints-based selection remove founders from the guesswork loop.
 
-This produces originations that meet institutional criteria before first Access is restricted to approved mandates.
+This produces originations that meet institutional criteria before first 
 
-Minimum mandate depth: $5M+ target size.
+
 
 3.
 
@@ -300,9 +300,9 @@ This is why the Roials-Alpha doctrine mandates intelligence first, structure sec
 
 Inverting this sequencing is reckless.
 
-Following it creates unstoppable liquidity Access is restricted to approved mandates.
+Following it creates unstoppable liquidity 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The Gnosjö Framework Swedish industrialists built generational wealth through
 
@@ -350,9 +350,9 @@ Institutional Compatibility The institutional world rewards
 
 Roials-Alpha ensures each of these is engineered into the business before capital is sought.
 
-This is the difference between Access is restricted to approved mandates.
+This is the difference between 
 
-Minimum mandate depth: $5M+ target size.
+
 
 THE MANDAT E
 
@@ -382,9 +382,9 @@ Sovereign Liquidity Architecture The final outcome
 
 - Durable lender confidence.
 
-- High leverage Access is restricted to approved mandates.
+- High leverage 
 
-Minimum mandate depth: $5M+ target size.
+
 
 - Reduction in operational entropy.
 
@@ -394,7 +394,7 @@ Minimum mandate depth: $5M+ target size.
 
 Friction is eliminated.
 
-Minimum mandate depth: $5M+ target size.
+
 
 Capital becomes obedient to structure.
 
@@ -402,7 +402,7 @@ Closing Intelligence Operators who submit to engineering gain Access is restrict
 
 .
 
-Minimum mandate depth: $5M+ target size.
+
 
 The agentic architecture is not optional.
 
@@ -417,13 +417,3 @@ The marketplace acknowledges it.
 CTA Access is restricted to approved mandates
 
 .
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

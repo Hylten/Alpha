@@ -1,7 +1,7 @@
 ---
 title: "Predictive Modeling for Liquidity Engineering Against Volatile Crypto Assets: The Roials Alpha Framework"
 description: "Institutional briefing on predictive risk mechanics, Capital Structuring, and AI driven balance sheet optimization for allocators navigating crypto volatility regimes."
-date: "2026-01-03" author: "Roials Capital (Institutional Briefing)"
+date: "2026-01-03" author: "Jonas Hyltén"
 slug: "predictive-liquidity-engineering-crypto-volatility-roials-alpha"
 ---
 
@@ -228,13 +228,3 @@ The next logical step for allocators is a Confidential Strategy Audit designed t
 The audit is not transactional.
 
 It is a structural review intended to strengthen balance sheet resilience and enhance overall capital stewardship.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

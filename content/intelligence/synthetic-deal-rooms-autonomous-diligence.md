@@ -1,7 +1,7 @@
 ---
 title: "Synthetic Deal Rooms and the Rise of Autonomous Diligence"
 description: "How agentic architectures compress diligence cycles from weeks to hours across Fund-III, family offices, and institutional buy-side workflows."
-date: "2025-08-06" author: "Roials Alpha"
+date: "2025-08-06" author: "Jonas Hyltén"
 slug: "synthetic-deal-rooms-autonomous-diligence"
 ---
 
@@ -320,16 +320,8 @@ Agentic credit architecture is the extension.
 
 Algorithmic deal flow is the compounding effect.
 
-To Access is restricted to approved mandates.
+To 
 
-Minimum mandate depth: $5M+ target size.
+
 
 When you compress diligence to hours, the entire market reorganizes around you.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

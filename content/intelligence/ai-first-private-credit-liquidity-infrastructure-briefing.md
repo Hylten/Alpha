@@ -1,7 +1,7 @@
 ---
 title: "AI-First Private Credit: The Silent Infrastructure of Next-Generation Liquidity"
 description: "Institutional briefing on AI-driven private credit architectures, liquidity engineering mechanics, and the structural forces shaping non-bank credit formation for UHNW and family office allocators."
-date: "2026-01-21" author: "Roials Capital (Institutional Briefing)"
+date: "2026-01-21" author: "Jonas Hyltén"
 slug: "ai-first-private-credit-liquidity-infrastructure-briefing"
 ---
 
@@ -228,13 +228,3 @@ A strategy consultation with Roials Capital functions as a confidential portfoli
 It clarifies the allocator's existing exposure to private credit, the concentration of risk across sectors, and the potential role of AI-first credit architectures within a broader liquidity portfolio.
 
 The objective is to align capital with structural intelligence, ensuring that the allocator operates from a position of informed authority rather than market speculation. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

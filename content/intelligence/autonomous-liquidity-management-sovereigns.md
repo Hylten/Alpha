@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Liquidity Management for Sovereigns: Architecture, Regime Dynamics, and Institutional Navigation"
 description: "A high density institutional briefing on algorithmic liquidity engineering for sovereign allocators, technical structuring mechanics, and the operational role of Roials Capital as a strategic navigator within AI driven credit and energy linked collateral ecosystems."
-date: "2025-11-21" author: "Roials Capital (Institutional Briefing)"
+date: "2025-11-21" author: "Jonas Hyltén"
 slug: "autonomous-liquidity-management-sovereigns"
 ---
 
@@ -186,13 +186,3 @@ It is an architectural review of liquidity infrastructure requirements, data dep
 The convergence of AI underwriting engines, Alberta heavy oil collateral, and sovereign Strategic Collateralization marks a significant regime shift.
 
 Allocators requiring stability, autonomy, and structural clarity increasingly view this landscape as a core strategic domain rather than a peripheral asset class.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

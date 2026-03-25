@@ -41,9 +41,9 @@ Data hardened to withstand institutional scrutiny.
 
 The aim is singular.
 
-To engineer liquidity Access is restricted to approved mandates.
+To engineer liquidity 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The Structural Premise Autonomous deal flow depends on structural alignment
 
@@ -456,13 +456,3 @@ It transforms private credit from a negotiation sport into a system of order.
 In this architecture, randomness disappears.
 
 Only mandate remains.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

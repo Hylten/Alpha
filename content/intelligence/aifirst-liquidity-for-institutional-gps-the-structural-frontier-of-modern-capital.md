@@ -394,13 +394,7 @@ We are a capital infrastructure, not a platform.
 We supply mechanics that shape the liquidity environment around you.
 
 This is where modern wealth architecture lives.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -415,7 +409,3 @@ We activate capital that others leave dormant.
 We create Capital Structuring pathways that transform balance sheets into mobility systems.
 
 If you operate at the high end of capital, you know exactly why this matters.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

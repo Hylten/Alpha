@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture for Quantifying Key Person Risk Through Behavioral and Semantic AI Indexing"
 description: "A technical dissection of how Roials-Alpha deploys behavioral vectors, semantic signal extraction, and longitudinal AI imaging to quantify Key Person Risk for UHNW/HNW family offices, Fund-III ecosystems, and industrial succession mandates."
-date: "2025-10-05" author: "Roials Alpha"
+date: "2025-10-05" author: "Jonas Hyltén"
 slug: "key-person-risk-behavioral-semantic-ai-indexing"
 ---
 
@@ -508,13 +508,3 @@ Protect the architecture.
 If you want to move into agentic infrastructure or embed this Key Person Risk engine into your operational or investment architecture, send your vector.
 
 I will read it directly.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol"
 description: "Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol | Institutional Briefing by Roials-Alpha"
-date: "2026-03-20" author: "Roials Alpha"
+date: "2026-03-20" author: "Jonas Hyltén"
 slug: "parametric-arbitration-models-for-adversarial-trade-environments-using-the-sovereign-protocol"
 ---
 
@@ -432,13 +432,7 @@ A world where arbitration is native.
 The Sovereign Protocol already operates in this future.
 
 Roials Alpha builds for it.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -449,7 +443,3 @@ The Sovereign Protocol provides the computational machinery.
 Roials Alpha provides the strategic intelligence.
 
 Together they define the future of machine governed markets.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

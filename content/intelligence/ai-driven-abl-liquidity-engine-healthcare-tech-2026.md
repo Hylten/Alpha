@@ -277,13 +277,7 @@ AI driven Asset-Based Lending delivers this edge by transforming data disorder i
 It provides mid market operators with institutional intelligence without institutional overhead.
 
 5.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 

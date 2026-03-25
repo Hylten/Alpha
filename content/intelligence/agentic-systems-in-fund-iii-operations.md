@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems in Fund III Operations"
 description: "Agentic Systems in Fund III Operations | Institutional Briefing by Roials-Alpha"
-date: "2026-03-01" author: "Roials Alpha"
+date: "2026-03-01" author: "Jonas Hyltén"
 slug: "agentic-systems-in-fund-iii-operations"
 ---
 
@@ -402,13 +402,3 @@ The funds that resist them stagnate.
 Roials Alpha builds the infrastructure that makes Fund III inevitable.
 
 Inquire about agentic infrastructure
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

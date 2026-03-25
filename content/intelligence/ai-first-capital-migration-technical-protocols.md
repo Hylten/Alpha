@@ -1,7 +1,7 @@
 ---
 title: "AI First Capital Migration: Technical Protocols for Institutional Realignment"
 description: "Institutional analysis on AI driven capital migration architectures, balance sheet optimization, and algorithmic credit structures positioned for UHNW allocators and private credit platforms recalibrating toward autonomous infrastructure centric liquidity engineering."
-date: "2025-10-15" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-15" author: "Jonas Hyltén"
 slug: "ai-first-capital-migration-technical-protocols"
 ---
 
@@ -192,13 +192,3 @@ Slow execution often results in diminished access to the highest quality institu
 Roials Capital functions as the institutional partner responsible for navigating these considerations.
 
 For allocators requiring structural clarity, a confidential strategy calibration can be initiated to reduce complexity and identify aligned AI driven architectures suitable for their specific mandates and governance requirements. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

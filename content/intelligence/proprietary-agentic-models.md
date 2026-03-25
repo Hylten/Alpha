@@ -474,13 +474,7 @@ Not hypothetical.
 Not conceptual.
 
 Operating entities with internal structure and external impact.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -499,7 +493,3 @@ They redefine organizational structure.
 They create economic dominance for teams that deploy them early.
 
 Roials-Alpha builds them with precision, stability, and strategic depth.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

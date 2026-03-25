@@ -19,9 +19,9 @@ It is the quiet blueprint behind how dynasties avoid erosion.
 
 Roials-Alpha takes this classical structure and upgrades it into an automated liquidity engine.
 
-The goal is simple: perpetual control of assets, perpetual Access is restricted to approved mandates.
+The goal is simple: perpetual control of assets, perpetual 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The autonomous infrastructure
 
@@ -183,9 +183,9 @@ It automates adjustments.
 
 It pulls liquidity when signals confirm alignment.
 
-The client experiences Access is restricted to approved mandates.
+The client experiences 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The borrow phase becomes a continuous flow event, not a transaction.
 
@@ -434,15 +434,3 @@ Roials-Alpha is building the infrastructure layer that will replace manual wealt
 The question is not whether autonomous infrastructure will dominate wealth strategy.
 
 It is only a question of who adopts it early.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the Future of Asset Based Lending: How AI Driven Credit Systems Redefine Liquidity"
 description: "Institutional briefing on the structural transition toward agentic credit systems, automated collateral intelligence, and balance sheet optimization in next generation private credit architecture."
-date: "2025-10-22" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-22" author: "Jonas Hyltén"
 slug: "agentic-intelligence-future-asset-based-lending"
 ---
 
@@ -216,13 +216,3 @@ Allocators who integrate these systems early will obtain operational advantages 
 The next step for sophisticated capital holders is a confidential strategy audit.
 
 This creates clarity on where agentic architectures can strengthen portfolio design, balance sheet durability, and allocation velocity. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence for Complex M&A Liquidity"
 description: "Institutional-grade architectural brief on AI‑driven M&A liquidity engineering, credit structuring, and agentic intelligence for UHNW/HNW family‑office deal flow."
-date: "2025-07-28" author: "Roials Alpha"
+date: "2025-07-28" author: "Jonas Hyltén"
 slug: "agentic-intelligence-mna-liquidity-engineering"
 ---
 
@@ -535,13 +535,3 @@ The system serves the principal.
 Latency tolerance target:
 
 37 ms.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

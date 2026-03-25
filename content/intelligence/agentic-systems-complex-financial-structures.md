@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems for Complex Financial Structures: The Principal Mandate"
 description: "A high‑density institutional briefing on agentic architectures, algorithmic deal flow, credit structuring, and sovereign-grade private capital systems for UHNW/HNW family offices."
-date: "2025-12-25" author: "Roials Alpha"
+date: "2025-12-25" author: "Jonas Hyltén"
 slug: "agentic-systems-complex-financial-structures"
 ---
 
@@ -458,13 +458,3 @@ Final Mandate: Deploy agentic infrastructure.
 Now.
 
 Request full build specifications.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

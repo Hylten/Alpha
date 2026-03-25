@@ -15,9 +15,9 @@ It becomes the operating system that allocates liquidity, reassigns collateral p
 
 And for HNWI and UHNW capital holders, this shift is not theoretical.
 
-It is already affecting liquidity Access is restricted to approved mandates.
+It is already affecting liquidity 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Roials Alpha sits inside this shift.
 
@@ -208,13 +208,3 @@ This is the infrastructure of now.
 Access is restricted to approved mandates
 
 .
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

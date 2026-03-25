@@ -1,7 +1,7 @@
 ---
 title: "Agentic Intelligence and the Future of Asset Based Lending: How AI Driven Credit Systems Redefine Liquidity"
 description: "Institutional analysis of agentic AI architectures, balance sheet optimization, and algorithmic credit systems transforming the next cycle of private credit and Asset-Based Lending liquidity engineering."
-date: "2026-01-24" author: "Roials Capital (Institutional Briefing)"
+date: "2026-01-24" author: "Jonas Hyltén"
 slug: "agentic-intelligence-future-of-asset-based-lending"
 ---
 
@@ -160,13 +160,3 @@ Allocators who position early gain operational visibility, higher opportunity ve
 The next generation of asset based lending belongs to those who understand that liquidity is no longer a human decision.
 
 It is an algorithmic outcome. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

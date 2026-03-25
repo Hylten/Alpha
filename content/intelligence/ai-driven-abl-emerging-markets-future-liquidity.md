@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset Based Lending in Emerging Markets as the Silent Infrastructure of Future Liquidity"
 description: "Institutional analysis on algorithmic Asset-Based Lending architecture, AI credit engines, and liquidity engineering frameworks establishing the invisible rails of next generation private credit in frontier and emerging economies."
-date: "2025-07-16" author: "Roials Capital (Institutional Briefing)"
+date: "2025-07-16" author: "Jonas Hyltén"
 slug: "ai-driven-abl-emerging-markets-future-liquidity"
 ---
 
@@ -198,13 +198,3 @@ Roials Capital engages allocators through a confidential Strategy Audit that eva
 This framework provides the allocator with a calibrated view of where AI first collateral systems integrate into broader portfolio architecture.
 
 The objective is not directional persuasion but structural clarity.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

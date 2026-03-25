@@ -85,9 +85,9 @@ It shapes the liquidity envelope around the client.
 
 It calibrates availability, exposure, risk compression, and liquidation windows in real time.
 
-It calculates frictionless Access is restricted to approved mandates.
+It calculates frictionless 
 
-Minimum mandate depth: $5M+ target size.
+
 
 This restores control to the client.
 
@@ -171,7 +171,7 @@ The Endgame: Intelligence Driven Capital Access is restricted to approved mandat
 
 .
 
-Minimum mandate depth: $5M+ target size.
+
 
 Asset-Based Lending becomes dynamic.
 
@@ -184,15 +184,3 @@ This is the Roials-Alpha framework.
 We do not provide liquidity facilities.
 
 We provide computational liquidity infrastructure for the modern wealth class.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

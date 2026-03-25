@@ -1,7 +1,7 @@
 ---
 title: "The Systems Mandate: Architecture for Frictionless Institutional Execution"
 description: "A high density institutional briefing on AI first credit architecture, algorithmic deal flow, and the strategic systems mandate reshaping private capital operations for UHNWIs and family offices."
-date: "2025-07-21" author: "Roials Capital (Institutional Briefing)"
+date: "2025-07-21" author: "Jonas Hyltén"
 slug: "systems-mandate-architecture-frictionless"
 ---
 
@@ -264,13 +264,3 @@ It is a requirement for allocators navigating the complexity of 2026 capital mar
 The institutional archetype is shifting.
 
 Those who align with the new architecture will operate with increased precision, reduced friction, and elevated opportunity velocity. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

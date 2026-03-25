@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Convergent Diligence"
 description: "A high-resolution briefing on the fusion of private equity diligence, LLM‑based risk engines, and agentic infrastructures calibrated for algorithmic deal flow and AI-first credit architecture."
-date: "2025-11-02" author: "Roials Alpha"
+date: "2025-11-02" author: "Jonas Hyltén"
 slug: "convergent-diligence-ai-risk-engines"
 ---
 
@@ -239,9 +239,9 @@ So you remove friction.
 
 You build inbound surfaces optimized for search intent: Fund-III, AI-driven underwriting, secondary transactions, family office strategies, credit intelligence, trade finance, M&A readiness.
 
-You create the fastest path to Access is restricted to approved mandates.
+You create the fastest path to 
 
-Minimum mandate depth: $5M+ target size.
+
 
 You eliminate bureaucratic signals.
 
@@ -335,9 +335,9 @@ Confidence follows clarity.
 
 - PHASE FIVE: AGENTIC INFRASTRUCTURE
 
-- A PRIVATE BRIEFING The request was explicit: Access is restricted to approved mandates.
+- A PRIVATE BRIEFING The request was explicit: 
 
-Minimum mandate depth: $5M+ target size.
+
 
 You want the real architecture.
 
@@ -489,16 +489,8 @@ The gap between those who deploy agentic infrastructures and those who do not wi
 
 The Principal operates at the top of that hierarchy.
 
-If you want the agentic layer built around your mandate, Access is restricted to approved mandates.
+If you want the agentic layer built around your mandate, 
 
-Minimum mandate depth: $5M+ target size.
+
 
 I’ll open the line.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

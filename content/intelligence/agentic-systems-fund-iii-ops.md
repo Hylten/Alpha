@@ -242,13 +242,7 @@ Human Centered Override At any signal of instability, ambiguity, or moral uncert
 Human judgment is the safeguard.
 
 Stewardship is the discipline that prevents technological acceleration from compromising trust.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 

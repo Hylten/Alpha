@@ -1,7 +1,7 @@
 ---
 title: "AI-First Liquidity Architecture: Institutional Design Principles for Asset-Based Finance in 2026"
 description: "A clinical analysis of AI-driven credit mechanics, liquidity engineering, and the structural redesign of asset-based finance for HNWI and UHNW allocators."
-date: "2025-07-14" author: "Roials Capital (Institutional Briefing)"
+date: "2025-07-14" author: "Jonas Hyltén"
 slug: "ai-first-liquidity-architecture-asset-based-finance"
 ---
 
@@ -208,13 +208,3 @@ The objective is not product distribution.
 The objective is institutional alignment.
 
 The AI-first landscape is expanding rapidly and allocators benefit from understanding how future governance systems will shape opportunity velocity, balance sheet resilience, and capital longevity. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

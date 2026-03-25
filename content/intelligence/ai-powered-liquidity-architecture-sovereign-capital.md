@@ -1,7 +1,7 @@
 ---
 title: "AI Powered Liquidity Architecture for Sovereign Level Capital Movements"
 description: "An institutional briefing on algorithmic liquidity systems, AI structured credit engines, machine governed allocation pathways, and the emerging architecture powering sovereign scale capital navigation across global private markets."
-date: "2025-06-28" author: "Roials Capital (Institutional Briefing)"
+date: "2025-06-28" author: "Jonas Hyltén"
 slug: "ai-powered-liquidity-architecture-sovereign-capital"
 ---
 
@@ -244,13 +244,3 @@ INTRODUCTION pathways for allocators seeking to calibrate their existing liquidi
 The objective is strategic alignment, not solicitation.
 
 The next step for institutions requiring clarity is a confidential Strategy Consultation or broader Capital Architecture Audit to map how AI driven liquidity systems can be integrated into their deployment framework. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Automated Sponsor Vetting Through Multi‑Modal Ingestion and Pattern Intelligence"
 description: "A Principal-level breakdown of AI-first sponsor evaluation architecture, multi-modal data ingestion, and pattern-recognition pipelines for institutional-grade algorithmic deal flow."
-date: "2026-03-06" author: "Roials Alpha"
+date: "2026-03-06" author: "Jonas Hyltén"
 slug: "automated-sponsor-vetting-multimodal-pattern-intelligence"
 ---
 
@@ -11,9 +11,9 @@ That is the first principle.
 
 The second principle: institutional capital no longer tolerates friction, delay, or personality-driven evaluation cycles when pattern intelligence can map the behavioral, financial, and operational fingerprints of a sponsor within minutes.
 
-The third principle: a credit architecture that does not automate sponsor vetting will lose Access is restricted to approved mandates.
+The third principle: a credit architecture that does not automate sponsor vetting will lose 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Machine gun clarity.
 
@@ -330,20 +330,12 @@ AGENTIC INFRASTRUCTURE: YOUR NEXT
 
 f your mandate requires sponsor vetting at scale, zero-friction analysis, or the integration of agentic intelligence across your deal pipeline, you are operating in the correct room.
 
-Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
 
-When you are ready, Access is restricted to approved mandates.
 
-Minimum mandate depth: $5M+ target size.
+
+When you are ready, 
+
+
 
 One message opens the door.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -534,13 +534,7 @@ It requires stewardship.
 It requires intelligence.
 
 Roials-Alpha operates as an extension of that mandate.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -565,5 +559,3 @@ For Principals seeking structural authority.
 For UHNW and institutional mandates seeking disciplined credit frameworks.
 
 Roials-Alpha is the architecture.
-
-Minimum mandate depth: $5M+ target size.

@@ -1,7 +1,7 @@
 ---
 title: "AI Driven Asset-Based Lending as the New Liquidity Engine for Healthcare and Technology Capital Markets"
 description: "Institutional briefing on algorithmic asset based lending, liquidity engineering, and AI enabled credit architectures reshaping balance sheet structures for healthcare and technology operators across North America."
-date: "2026-02-03" author: "Roials Capital (Institutional Briefing)"
+date: "2026-02-03" author: "Jonas Hyltén"
 slug: "ai-driven-abl-liquidity-engine-healthcare-technology"
 ---
 
@@ -148,13 +148,3 @@ AI driven Asset-Based Lending represents a structural recalibration of private c
 Roials Capital provides strategic alignment, market navigation, and institutional INTRODUCTION into this rapidly evolving landscape.
 
 A confidential strategy audit can clarify where AI driven Asset-Based Lending intersects with existing mandates and how these structures can enhance portfolio durability, opportunity velocity, and long term stewardship. [END OF INSTITUTIONAL BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "AI First Liquidity: The Institutional Standard for Private Credit and Asset Based Lending"
 description: "A technical briefing on AI driven credit architecture, balance sheet optimization, and institutional grade liquidity engineering for private credit allocators and family office principals."
-date: "2025-10-18" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-18" author: "Jonas Hyltén"
 slug: "ai-first-liquidity-institutional-standard-private-credit"
 ---
 
@@ -261,13 +261,3 @@ For allocators evaluating entry or expansion into this domain, a Confidential St
 This is not a solicitation.
 
 It is a structural map.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

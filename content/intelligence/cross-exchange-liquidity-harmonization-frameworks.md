@@ -1,7 +1,7 @@
 ---
 title: "Cross Exchange Liquidity Harmonization Frameworks for Sovereign AI Execution"
 description: "Cross Exchange Liquidity Harmonization Frameworks for Sovereign AI Execution | Institutional Briefing by Roials-Alpha"
-date: "2026-03-20" author: "Roials Alpha"
+date: "2026-03-20" author: "Jonas Hyltén"
 slug: "cross-exchange-liquidity-harmonization-frameworks-for-sovereign-ai-execution"
 ---
 
@@ -234,13 +234,7 @@ The technique achieves this by:
 The agent does not move the market in the traditional sense.
 
 It reshapes the liquidity substrate before pressure is applied.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -253,7 +247,3 @@ It collapses latency.
 It fuses liquidity.
 
 It grants autonomy.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

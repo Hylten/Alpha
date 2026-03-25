@@ -61,7 +61,7 @@ The Power of the Unseen The advantage of private credit is not simply Access is 
 
 .
 
-Minimum mandate depth: $5M+ target size.
+
 
 The advantage is discretion.
 
@@ -311,9 +311,9 @@ A New Class of Private Liquidity The private liquidity landscape is transforming
 
 It is moving away from manual underwriting and into algorithmic capital engineering.
 
-Our clients gain Access is restricted to approved mandates.
+Our clients gain 
 
-Minimum mandate depth: $5M+ target size.
+
 
 This is the evolution from capital ownership to capital autonomy.
 
@@ -370,15 +370,3 @@ Roials-Alpha creates that environment.
 The Quiet Invitation If you operate at the level where liquidity is strategy, where capital is an instrument, and where leverage is a tool of precision, then the path is open
 
 .
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

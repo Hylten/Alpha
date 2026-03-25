@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign AI: Building the Alpha Future Through Institutional-Grade Computational Infrastructure"
 description: "A technical intelligence briefing on AI driven credit architecture, algorithmic deal flow, and sovereign level capital optimization frameworks for UHNWIs and institutional allocators."
-date: "2026-01-13" author: "Roials Capital (Institutional Briefing)"
+date: "2026-01-13" author: "Jonas Hyltén"
 slug: "sovereign-ai-alpha-future"
 ---
 
@@ -212,13 +212,3 @@ The objective is not commitment.
 The objective is clarity.
 
 The architecture of the next decade belongs to those who align early with computational sovereignty and maintain discipline in the stewardship of capital. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

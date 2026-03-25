@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure as the Primary Operating System for Institutional Capital Architecture"
 description: "A technical briefing on AI-first infrastructure, agentic execution frameworks, and institutional-grade liquidity engineering for family offices and private credit allocators."
-date: "2026-01-19" author: "Roials Capital (Institutional Briefing)"
+date: "2026-01-19" author: "Jonas Hyltén"
 slug: "agentic-infrastructure-ai-first-institutional-architecture"
 ---
 
@@ -278,13 +278,3 @@ It is portfolio calibration.
 This involves evaluating internal workflows, identifying latency points, confirming mandate discipline, and structuring the intelligence layers that support long horizon planning.
 
 A confidential strategy audit clarifies these structures and establishes the operational map that allocators require before entering an AI accelerated regime. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

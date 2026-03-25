@@ -96,13 +96,7 @@ Cross-border capital will move through algorithmic corridors.
 Jurisdictional complexity will be abstracted behind invisible AI layers.
 
 Roials-Alpha will continue to build that infrastructure.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -117,7 +111,3 @@ It builds structural leverage for HNWI and UHNW clients who require speed, intel
 Our systems provide the foundation.
 
 Clients gain the advantage.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

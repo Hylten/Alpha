@@ -1,7 +1,7 @@
 ---
 title: "Agentic Infrastructure for Private Credit: The New Liquidity Architecture for HNWI and UHNW"
 description: "Institutional briefing on agentic private credit systems, AI mediated underwriting, and the emerging liquidity architecture for global wealth holders requiring accelerated deployment precision without operational friction."
-date: "2025-11-09" author: "Roials Capital (Institutional Briefing)"
+date: "2025-11-09" author: "Jonas Hyltén"
 slug: "agentic-private-credit-liquidity-architecture"
 ---
 
@@ -196,13 +196,3 @@ It also aligns capital deployment with stewardship principles that prioritize no
 Roials Capital provides confidential Strategy Calibration sessions for allocators requiring a deeper audit of agentic credit architectures, balance sheet optimization pathways, and cross jurisdictional private credit mapping.
 
 This is a technical alignment service designed for decision makers who manage complex capital exposures and require execution clarity. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

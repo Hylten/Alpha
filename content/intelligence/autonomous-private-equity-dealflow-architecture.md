@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Private Equity Dealflow and the Institutional Architecture of Algorithmic Transaction Sourcing"
 description: "A high density institutional briefing on autonomous PE dealflow, algorithmic credit architectures, technical screening systems, and the structural realignment of private markets toward AI directed sourcing. Written for UHNWIs, family offices, and institutional LPs requiring operational intelligence on autonomous transaction origination."
-date: "2026-01-30" author: "Roials Capital (Institutional Briefing)"
+date: "2026-01-30" author: "Jonas Hyltén"
 slug: "autonomous-private-equity-dealflow-architecture"
 ---
 
@@ -152,13 +152,3 @@ Roials Capital provides a strategic interface for UHNWIs, family offices, and in
 The objective is calibration, not solicitation.
 
 Allocators who require deeper alignment can request a confidential strategy audit to assess whether their portfolio structures, mandate constraints, and capital velocity requirements align with the autonomous framework now defining modern private markets. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

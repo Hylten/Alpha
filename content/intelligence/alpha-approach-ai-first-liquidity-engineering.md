@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Approach to AI First Liquidity Engineering: Institutional Mechanics for the Next Liquidity Class"
 description: "A high density institutional briefing on AI first credit architecture, algorithmic deal flow, and the structural evolution of Strategic Collateralization for UHNW allocators and private credit platforms."
-date: "2025-08-23" author: "Roials Capital (Institutional Briefing)"
+date: "2025-08-23" author: "Jonas Hyltén"
 slug: "alpha-approach-ai-first-liquidity-engineering"
 ---
 
@@ -244,13 +244,3 @@ Capital deployment in this environment requires:
 The objective is structural clarity.
 
 Allocators determine where their capital can operate with the highest integrity, efficiency, and strategic alignment. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Asset Finance and the Institutional Migration Toward Algorithmic Alpha"
 description: "A technical briefing on the structural transition from human mediated capital deployment to autonomous, data driven credit engines that reshape private credit, asset backed finance, and institutional liquidity engineering."
-date: "2025-07-06" author: "Roials Capital (Institutional Briefing)"
+date: "2025-07-06" author: "Jonas Hyltén"
 slug: "autonomous-asset-finance-algorithmic-alpha-architecture"
 ---
 
@@ -258,13 +258,3 @@ Autonomous asset finance is not an incremental improvement.
 It is a regime shift.
 
 Allocators who understand its mechanics will position themselves ahead of the next institutional migration curve. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

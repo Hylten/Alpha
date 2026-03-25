@@ -146,15 +146,3 @@ If you operate with the velocity of HNWI and UHNW capital.
 If you require structures that institutional capital has not yet learned to replicate.
 
 Then you are in the correct place.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Deal Flow for Institutional Investors: The New Architecture of High-Velocity Capital"
 description: "Analytical briefing on AI-first origination, liquidity engineering, institutional deal routing, and the structural migration from human-gated sourcing to autonomous capital architectures."
-date: "2025-10-30" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-30" author: "Jonas Hyltén"
 slug: "autonomous-deal-flow-institutional-architecture"
 ---
 
@@ -198,13 +198,3 @@ The latter enables more effective portfolio calibration, clearer mandate executi
 Roials Capital maintains a neutral introducer position and functions as the architect of this environment.
 
 Stakeholders seeking to analyze the compatibility of this architecture with their capital program can request a confidential strategy audit focused on mandate mapping, balance sheet optimization, and opportunity pathway calibration.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

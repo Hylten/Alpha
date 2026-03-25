@@ -1,7 +1,7 @@
 ---
 title: "The Future of Alpha: Agentic Infrastructure for Private Credit Dominance"
 description: "Institutional analysis of AI-driven private credit architectures, agentic underwriting systems, algorithmic deal sourcing, and balance sheet optimization frameworks that are reshaping the performance frontier for UHNW and institutional allocators."
-date: "2025-06-22" author: "Roials Capital (Institutional Briefing)"
+date: "2025-06-22" author: "Jonas Hyltén"
 slug: "future-of-alpha-agentic-private-credit"
 ---
 
@@ -260,13 +260,3 @@ The future of private credit alpha is computational.
 The institutions that understand this early will control the opportunity landscape.
 
 The institutions that wait will operate in a structurally inferior environment.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

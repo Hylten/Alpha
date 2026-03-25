@@ -1,7 +1,7 @@
 ---
 title: "The Alpha Vision for AI First Capital Management: Institutional Architecture, Algorithmic Deal Flow, and the Elimination of Human Friction"
 description: "A high density institutional briefing on the emergence of AI governed capital frameworks, algorithmic credit architectures, and sovereign grade operational stacks for UHNW and institutional allocators navigating next generation private markets."
-date: "2025-10-12" author: "Roials Capital (Institutional Briefing)"
+date: "2025-10-12" author: "Jonas Hyltén"
 slug: "alpha-vision-ai-first-capital-management"
 ---
 
@@ -204,13 +204,3 @@ This process evaluates the allocator's current operational architecture, identif
 It is not transactional.
 
 It is strategic orientation with a focus on stewardship, operational intelligence, and long horizon asset integrity. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

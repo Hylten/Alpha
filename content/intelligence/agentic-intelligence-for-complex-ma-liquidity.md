@@ -119,15 +119,3 @@ It is for the principals who understand the value of agentic infrastructure befo
 For those who understand that liquidity is not a product, it is a structural advantage.
 
 For those who treat M&A not as a transaction, but as a system.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

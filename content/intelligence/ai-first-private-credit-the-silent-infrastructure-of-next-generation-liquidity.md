@@ -335,9 +335,9 @@ Not as a service.
 
 As part of the design.
 
-HNWI and UHNW individuals gain Access is restricted to approved mandates.
+HNWI and UHNW individuals gain 
 
-Minimum mandate depth: $5M+ target size.
+
 
 The advantage is asymmetric.
 
@@ -372,13 +372,7 @@ Liquidity becomes ambient.
 Capital becomes flexible, intelligent, and always available.
 
 This is the design language of next-generation wealth architecture.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -391,7 +385,3 @@ Asset based Monetization Architecture is becoming precision engineering.
 Liquidity is becoming a programmable asset.
 
 Roials-Alpha provides the silent structural authority that makes this future operational for HNWI and UHNW portfolios.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

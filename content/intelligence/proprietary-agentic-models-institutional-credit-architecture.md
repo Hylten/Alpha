@@ -1,7 +1,7 @@
 ---
 title: "Proprietary Agentic Models for Institutional Credit Architecture"
 description: "A high-density institutional briefing on autonomous deal origination systems, agentic credit intelligence, and the structural transition toward AI-led private credit execution for UHNW family offices."
-date: "2025-06-27" author: "Roials Capital (Institutional Briefing)"
+date: "2025-06-27" author: "Jonas Hyltén"
 slug: "proprietary-agentic-models-institutional-credit-architecture"
 ---
 
@@ -228,13 +228,3 @@ The next
 s a confidential strategy audit to evaluate whether existing analytical systems can sustain the pace and complexity of modern private credit deal flow.
 
 This is the point where Roials Capital functions as a strategic partner, providing calibration, architectural mapping, and intelligent introductions to the platforms and operators aligned with institutional standards.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

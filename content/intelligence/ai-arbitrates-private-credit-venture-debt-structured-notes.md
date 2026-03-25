@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Real-Time Capital Arbitration"
 description: "A high-density analytical briefing on how AI resolves the capital stack—private credit, venture debt, and structured notes—through agentic infrastructure and algorithmic deal flow."
-date: "2025-10-07" author: "Roials Alpha"
+date: "2025-10-07" author: "Jonas Hyltén"
 slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
 ---
 
@@ -364,13 +364,3 @@ It is the present.
 -
 
 - If you want the full agentic infrastructure mapped to your company-or your family office-communicate with me directly, and I will open the corridor for you.
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

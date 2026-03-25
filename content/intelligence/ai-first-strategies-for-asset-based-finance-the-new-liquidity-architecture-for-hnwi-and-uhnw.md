@@ -217,9 +217,9 @@ The individuals entering this tier already understand the value of discretion, s
 
 Our systems do the heavy lifting.
 
-Our clients simply Access is restricted to approved mandates.
+Our clients simply 
 
-Minimum mandate depth: $5M+ target size.
+
 
 Why Traditional Institutions Cannot Compete Legacy institutions carry internal friction that cannot be removed
 
@@ -305,7 +305,7 @@ Why UHNW Capital Resonates with AI-First Institutional Liquidity Paths Ultra hig
 
 .
 
-Minimum mandate depth: $5M+ target size.
+
 
 It is about precision.
 
@@ -344,13 +344,7 @@ Public share Monetization Architecture from 5,000,
 Asset based Asset-Backed Frameworks optimized by real-time AI.
 
 This is the liquidity architecture that HNWI and UHNW capital has been waiting for.
-TECHNICAL MANDATE
 
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
 
 ## Conclusion
 
@@ -367,7 +361,3 @@ Institutional mechanics.
 Agentic intelligence executing at scale.
 
 For those operating at the upper tiers of capital, this is the infrastructure that amplifies your liquidity without compromising your position.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.

@@ -1,7 +1,7 @@
 ---
 title: "MiFID II Liquidity Constraints and the Institutional Architecture of Next-Generation Deal Flow"
 description: "Analytical briefing on MiFID II liquidity fragmentation, order flow bifurcation, technical execution constraints, and the strategic alignment between AI-led credit structuring and European regulatory mechanics."
-date: "2025-06-30" author: "Roials Capital (Institutional Briefing)"
+date: "2025-06-30" author: "Jonas Hyltén"
 slug: "mifid-ii-liquidity-constraints-analysis"
 ---
 
@@ -224,13 +224,3 @@ A confidential strategy audit enables the allocator to map how MiFID II constrai
 A portfolio calibration extends this analysis into a full operational alignment model.
 
 These sessions are designed to provide clarity, not solicitation, and allow allocators to assess the optimal positioning within the new liquidity regime. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

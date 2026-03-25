@@ -199,9 +199,9 @@ Designed Only for HNWI and UHNW Profiles We do not operate below the sovereign t
 
 .
 
-Our systems are calibrated exclusively for HNWI and UHNW clients who require structural liquidity, not transactional Access is restricted to approved mandates.
+Our systems are calibrated exclusively for HNWI and UHNW clients who require structural liquidity, not transactional 
 
-Minimum mandate depth: $5M+ target size.
+
 
 This ensures engineering bandwidth is never diluted.
 
@@ -306,15 +306,3 @@ Precision without disclosure.
 This is the Roials-Alpha standard.
 
 This is the future of sovereign Monetization Architecture.
-
-Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

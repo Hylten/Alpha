@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of AI‑Curated Secondaries and Autonomous LP Rebalancing"
 description: "A high‑density examination of AI‑driven secondary signal detection infrastructure, autonomous LP portfolio rebalancing, agentic fund infrastructure, and the rise of algorithmic deal flow pipelines across UHNW/HNW family offices"
-date: "2025-09-17" author: "Roials‑Alpha"
+date: "2025-09-17" author: "Jonas Hyltén"
 slug: "ai-curated-secondary-transactions-lp-autonomous-infrastructure-agentic-infrastructure"
 ---
 
@@ -385,14 +385,4 @@ The architecture has already won.
 
 The only question is who implements it first.
 
-If you are evaluating agentic infrastructure for your own LP architecture or fund ecosystem, initiate Access is restricted to approved mandates.
-
-Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
+If you are evaluating agentic infrastructure for your own LP architecture or fund ecosystem, initiate

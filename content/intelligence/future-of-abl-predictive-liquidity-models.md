@@ -1,7 +1,7 @@
 ---
 title: "The Future of Asset-Based Lending: Predictive Liquidity Models for Institutional Precision"
 description: "A technical briefing on the regime shift redefining asset based lending, driven by algorithmic visibility, predictive liquidity engines, and institutional grade balance sheet intelligence."
-date: "2025-11-18" author: "Roials Capital (Institutional Briefing)"
+date: "2025-11-18" author: "Jonas Hyltén"
 slug: "future-of-abl-predictive-liquidity-models"
 ---
 
@@ -194,13 +194,3 @@ Strategic Navigation Does the allocator have access to an institutional partner 
 Roials Capital offers confidential strategic consultations to institutions seeking alignment in this evolving landscape.
 
 Predictive Asset-Based Lending is reshaping the mechanics of credit deployment, and allocators equipped with the correct analytical frameworks will navigate this shift with structural advantage. [END OF BRIEFING]
-
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
