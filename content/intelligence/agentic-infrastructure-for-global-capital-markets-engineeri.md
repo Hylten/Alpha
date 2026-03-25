@@ -1,3 +1,11 @@
+---
+title: "agentic infrastructure for global capital markets engineeri"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-for-global-capital-markets-engineeri"
+---
+
 Agentic Infrastructure för Globala Kapitalmarknader: Ingenjörskonsten bakom Proprietary Deal Flow och Intentdetektion
 
 #Översikt: Maktskiftet från passiva flöden till agentdrivna marknadsoperationer

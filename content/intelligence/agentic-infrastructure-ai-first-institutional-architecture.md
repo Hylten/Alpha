@@ -1,3 +1,11 @@
+---
+title: "agentic infrastructure ai first institutional architecture"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-ai-first-institutional-architecture"
+---
+
 Agentisk infrastruktur: AI-först institutionell arkitektur för suveränt kapital
 
 #Inledning: Den agentiska omställningen av kapitalmakten

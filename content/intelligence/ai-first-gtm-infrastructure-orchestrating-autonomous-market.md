@@ -1,3 +1,11 @@
+---
+title: "ai first gtm infrastructure orchestrating autonomous market"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "ai-first-gtm-infrastructure-orchestrating-autonomous-market"
+---
+
 AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for Global Dominance
 
 #Introduktion: Den nya GTM-ordningen

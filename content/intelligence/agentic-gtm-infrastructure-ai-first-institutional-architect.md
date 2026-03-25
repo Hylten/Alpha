@@ -1,3 +1,11 @@
+---
+title: "agentic gtm infrastructure ai first institutional architect"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "agentic-gtm-infrastructure-ai-first-institutional-architect"
+---
+
 Agentic GTM Infrastructure: AI-First Institutional Architecture for Global Market Dominance
 
 #Den nya arkitekturen för agentdriven go-to-market

@@ -1,3 +1,11 @@
+---
+title: "sovereign market liquidity engineering autonomous gtm pipel"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "sovereign-market-liquidity-engineering-autonomous-gtm-pipel"
+---
+
 Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for High-Velocity Capital
 
 #Inledning: Mot en autonom marknadsarkitektur

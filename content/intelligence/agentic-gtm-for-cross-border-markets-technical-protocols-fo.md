@@ -1,3 +1,11 @@
+---
+title: "agentic gtm for cross border markets technical protocols fo"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "agentic-gtm-for-cross-border-markets-technical-protocols-fo"
+---
+
 Agentic GTM för gränsöverskridande marknader: Tekniska protokoll för global likviditetsexpansion
 
 #Introduktion till agentisk GTM som operativ disciplin

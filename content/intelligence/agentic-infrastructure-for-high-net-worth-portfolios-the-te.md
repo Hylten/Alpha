@@ -1,3 +1,11 @@
+---
+title: "agentic infrastructure for high net worth portfolios the te"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-for-high-net-worth-portfolios-the-te"
+---
+
 Agentic Infrastructure för High-Net-Worth Portföljer: Den Tekniska Mekaniken bakom Suverän Avkastning och Asset Hardening
 
 #Inledning: Agentisk dominans som kapitalstrategi

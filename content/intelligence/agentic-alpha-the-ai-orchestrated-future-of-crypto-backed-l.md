@@ -1,3 +1,11 @@
+---
+title: "agentic alpha the ai orchestrated future of crypto backed l"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-l"
+---
+
 Agentic Alpha: The AI-Orchestrated Future of Crypto‑Backed Liquidity Engineering
 
 #Det Agentiska Paradigmet: När Infrastruktur Börjar Lyftas Ur Händers Räckvidd

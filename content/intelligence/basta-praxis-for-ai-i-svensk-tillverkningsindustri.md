@@ -1,3 +1,11 @@
+---
+title: "basta praxis for ai i svensk tillverkningsindustri"
+description: "Alpha Architect intelligence on agentic infrastructure and liquidity engineering."
+date: "2026-03-25"
+author: "Jonas Hyltén"
+slug: "basta-praxis-for-ai-i-svensk-tillverkningsindustri"
+---
+
 
 
 # Best Practices for AI in Swedish Manufacturing
