@@ -4,18 +4,17 @@ import matter from 'gray-matter';
 
 const CONTENT_DIR = '/Users/jonasthevathason/AI Agents =)/Roials-Alpha/content/intelligence';
 
-// Mapping of generated names (truncated/modified) to original names
 const mappings = [
-  { gen: 'agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-l.md', orig: 'agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering.md' },
-  { gen: 'agentic-deals-for-the-hnw-era-high-frequency-gtm-structurin.md', orig: 'agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision.md' },
-  { gen: 'agentic-deals--hnw-era-gtm-structuring-re-architecting-dem.md', orig: 'agentic-deals-hnw-era-liquidity-structuring.md' },
-  { gen: 'agentic-gtm-infrastructure-ai-first-institutional-architect.md', orig: 'agentic-infrastructure-ai-first-institutional-architecture.md' },
-  { gen: 'the-ai-first-gtm-stack-agentic-infrastructure-as-the-sovere.md', orig: 'agentic-infrastructure-ai-first.md' },
-  { gen: 'agentic-infrastructure-for-cross-border-market-expansion-th.md', orig: 'agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital.md' },
-  { gen: 'agentic-infrastructure-for-global-markets-technical-dominan.md', orig: 'agentic-infrastructure-for-global-capital-markets.md' },
-  { gen: 'agentic-infrastructure-for-high-velocity-portfolios-the-new.md', orig: 'agentic-infrastructure-for-highnetworth-portfolios-the-new-liquidity-architecture.md' },
-  { gen: 'agentic-infrastructure-for-high-velocity-private-credit-new.md', orig: 'agentic-infrastructure-for-private-credit-the-new-liquidity-architecture-for-hnwi-and-uhnw.md' },
-  { gen: 'agentic-infrastructure-for-hnw-liquidity-architecture-the-n.md', orig: 'agentic-infrastructure-hnw-liquidity-architecture.md' }
+  { gen: 'agentic-gtm-infrastructure-architecture-beyond-legacy-syste.md', orig: 'agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die.md' },
+  { gen: 'the-new-standard-for-high-performance-gtm-agentic-engineeri.md', orig: 'agentic-infrastructure-the-new-standard-for-high.md' },
+  { gen: 'future-of-gtm-intelligence-how-ai-driven-signaling-systems.md', orig: 'agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity.md' },
+  { gen: 'agentic-gtm-intelligence-the-new-architecture-of-demand-gen.md', orig: 'agentic-intelligence-and-the-new-architecture-of-capital.md' },
+  { gen: 'agentic-gtm-intelligence-re-architecting-private-market-pip.md', orig: 'agentic-intelligence-and-the-new-architecture-of-private-debt.md' },
+  { gen: 'asset-based-gtm-liquidity-the-technical-architecture-of-mar.md', orig: 'agentic-intelligence-asset-based-liquidity-architecture.md' },
+  { gen: 'agentic-gtm-intelligence-for-complex-market-entry-engineeri.md', orig: 'agentic-intelligence-for-complex-ma-liquidity.md' },
+  { gen: 'future-of-gtm-sourcing-asset-based-intelligence-for-high-ve.md', orig: 'agentic-intelligence-future-asset-based-lending.md' },
+  { gen: 'the-future-of-asset-based-gtm-orchestrating-autonomous-mark.md', orig: 'agentic-intelligence-future-of-asset-based-lending.md' },
+  { gen: 'market-and-demand-engineering-agentic-gtm-liquidity-as-sove.md', orig: 'agentic-intelligence-mna-liquidity-engineering.md' }
 ];
 
 function cleanupAndReplace() {
@@ -32,13 +31,12 @@ function cleanupAndReplace() {
     const origFile = fs.readFileSync(origPath, 'utf8');
     const origParsed = matter(origFile);
 
-    // Sanitize mandate and person names (just in case)
     let sanitized = genContent.replace(/TECHNICAL MANDATE[\s\S]*?(?:Minimum target size:.*|Minimum mandate depth:.*|$)/gi, '');
     sanitized = sanitized.replace(/Qualification gates strictly observed for comprehensive structural execution\./gi, '');
     sanitized = sanitized.replace(/Access is restricted to approved mandates\./gi, '');
     sanitized = sanitized.replace(/Minimum target size: 500K SEK\+\./gi, '');
     sanitized = sanitized.replace(/Inquire about agentic infrastructure\./gi, '');
-    sanitized = sanitized.replace(/^---[\s\S]*?---/m, ''); // Strip redundant frontmatter headers if tool included them
+    sanitized = sanitized.replace(/^---[\s\S]*?---/m, '');
 
     const newContent = `---
 title: "${origParsed.data.title}"
