@@ -21,9 +21,12 @@ function parseFrontmatter(raw: string) {
     let match2;
     while ((match2 = keyValuePattern.exec(normalizedFM)) !== null) {
         const key = match2[1];
-        const value = match2[2] || match2[3] || match2[4] || '';
+        let value = match2[2] || match2[3] || match2[4] || '';
         if (key && !data[key]) {
-            data[key] = value.trim();
+            value = value.trim();
+            // Fix common capitalization issues
+            value = value.replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
+            data[key] = value;
         }
     }
 
@@ -38,10 +41,17 @@ const getPosts = () => {
         const rawMarkdown = (content as any).default;
         const { data } = parseFrontmatter(rawMarkdown);
 
+        let title = data.title || 'Untitled';
+        let description = data.description || '';
+        
+        // Clean up YAML artifacts and fix common capitalization issues
+        description = description.replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
+        title = title.replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
+
         return {
             slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
-            title: data.title || 'Untitled',
-            description: data.description || '',
+            title,
+            description,
             date: data.date || '2026-03-01',
             author: data.author || 'Roials Alpha',
         };

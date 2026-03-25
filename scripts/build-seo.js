@@ -80,9 +80,15 @@ async function generateSEO() {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
         const { data } = matter(rawContent);
+        
+        let title = data.title || 'Intelligence Report';
+        let description = data.description || '';
+        
+        // Clean up YAML artifacts and fix common capitalization issues
+        description = description.replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
+        title = title.replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
+        
         const slug = data.slug || file.replace('.md', '');
-        const title = data.title || 'Intelligence Report';
-        const description = data.description || '';
         const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
         listHtml += `
