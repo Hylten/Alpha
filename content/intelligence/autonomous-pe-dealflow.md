@@ -1,6 +1,9 @@
 ---
 title: Autonomous Pe Dealflow
-description: Insights on Autonomous PE Dealflow from Roials Capital and Hyltén Invest.
+description: >-
+  Roials Alpha’s Autonomous PE Dealflow gives investors a decisive edge by
+  uncovering high‑conviction opportunities without relying on massive analyst
+  teams or broker networks.
 date: '2025-07-04'
 author: Jonas Hyltén
 slug: autonomous-pe-dealflow

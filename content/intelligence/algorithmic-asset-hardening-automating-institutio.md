@@ -1,6 +1,8 @@
 ---
 title: 'Algorithmic Asset Hardening: Automating Institutio'
-description: 'Algorithmic Asset Hardening: Automating Institutio'
+description: >-
+  Roials Alpha reveals how algorithmic asset hardening automates
+  institutional‑grade scrutiny for investors who demand data, not narratives.
 date: '2026-01-31'
 author: Jonas Hyltén
 slug: algorithmic-asset-hardening-automating-institutio

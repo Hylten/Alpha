@@ -1,6 +1,8 @@
 ---
 title: 'Proprietary Alpha: The Technical Edge In Asset Bas'
-description: 'Proprietary Alpha: The Technical Edge In Asset Bas'
+description: >-
+  Proprietary Alpha reveals how disciplined, technical insight—not personality
+  or optimism—creates a durable edge in asset‑based finance.
 date: '2025-11-06'
 author: Jonas Hyltén
 slug: proprietary-alpha-the-technical-edge-in-asset-bas

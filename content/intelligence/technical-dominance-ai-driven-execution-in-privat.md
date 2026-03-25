@@ -1,6 +1,9 @@
 ---
 title: 'Technical Dominance: Ai Driven Execution In Privat'
-description: 'Technical Dominance: Ai Driven Execution In Privat'
+description: >-
+  Roials Alpha’s “Technical Dominance” reveals how AI‑driven precision
+  transforms private debt execution into a decisive, authority‑defining
+  advantage.
 date: '2025-07-17'
 author: Jonas Hyltén
 slug: technical-dominance-ai-driven-execution-in-privat

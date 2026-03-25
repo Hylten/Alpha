@@ -1,6 +1,9 @@
 ---
 title: 'Agentic Infrastructure: The New Standard For High'
-description: 'Agentic Infrastructure: The New Standard For High'
+description: >-
+  Agentisk infrastruktur från Roials Alpha sätter en ny standard för
+  högpresterande GTM genom att omvandla strategi, hastighet och dominans till
+  ett automatiserat konkurrensövertag.
 date: '2026-01-27'
 author: Jonas Hyltén
 slug: agentic-infrastructure-the-new-standard-for-high

@@ -1,6 +1,8 @@
 ---
 title: 'The Alpha Framework: Engineering Proprietary Credi'
-description: 'The Alpha Framework: Engineering Proprietary Credi'
+description: >-
+  A disciplined framework for principals who engineer credit as foundational
+  infrastructure rather than a transactional product.
 date: '2025-09-03'
 author: Jonas Hyltén
 slug: the-alpha-framework-engineering-proprietary-credi

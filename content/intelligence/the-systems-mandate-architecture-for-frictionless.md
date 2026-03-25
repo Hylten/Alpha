@@ -1,6 +1,9 @@
 ---
 title: 'The Systems Mandate: Architecture For Frictionless'
-description: 'The Systems Mandate: Architecture For Frictionless'
+description: >-
+  A bold call to engineer seamless flow, The Systems Mandate reveals the Roials
+  Alpha blueprint for designing architecture that makes frictionless liquidity
+  an intentional reality.
 date: '2026-01-09'
 author: Jonas Hyltén
 slug: the-systems-mandate-architecture-for-frictionless

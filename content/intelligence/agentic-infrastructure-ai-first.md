@@ -1,8 +1,9 @@
 ---
 title: Agentic Infrastructure Ai First
 description: >-
-  Insights on Agentic Infrastructure AI First from Roials Capital and Hyltén
-  Invest.
+  Roials Alpha avslöjar hur AI-drivna autonoma agenter, fullständig
+  pipeline-automation och suverän infrastruktur formar den nya AI-First
+  GTM-modellen inför 2026.
 date: '2025-09-12'
 author: Jonas Hyltén
 slug: agentic-infrastructure-ai-first

@@ -1,6 +1,8 @@
 ---
 title: 'Algorithmic Alpha: Removing Human Subjectivity Fro'
-description: 'Algorithmic Alpha: Removing Human Subjectivity Fro'
+description: >-
+  Algorithmic Alpha reveals how removing human subjectivity unlocks sharper,
+  more consistent performance powered purely by data-driven precision.
 date: '2025-12-21'
 author: Jonas Hyltén
 slug: algorithmic-alpha-removing-human-subjectivity-fro
