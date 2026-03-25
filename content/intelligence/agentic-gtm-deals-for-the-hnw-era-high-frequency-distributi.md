@@ -1,9 +1,9 @@
 ---
-title: "undefined"
+title: "Agentic GTM Deals for the HNW Era"
 description: ""
-date: "undefined"
+date: "2026-03-25"
 author: "Jonas Hyltén"
-slug: "undefined"
+slug: "agentic-gtm-deals-for-the-hnw-era-high-frequency-distributi"
 ---
 
 # Agentic GTM Deals: High‑Frequency Distribution and Market Liquidity Engineering
