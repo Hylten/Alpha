@@ -395,8 +395,6 @@ Mechanisms:
 
 • Entity 
 
-
-
 • Governance rotation schedules
 
 • Dynastic capital bands

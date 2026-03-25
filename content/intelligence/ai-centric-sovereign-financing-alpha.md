@@ -212,8 +212,6 @@ The allocator gains high fidelity risk visibility.
 
 The sovereign gains 
 
-
-
 ### Phase V:
 
 THE DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate with constraints that require a stable, model driven decision framework

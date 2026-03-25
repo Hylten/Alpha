@@ -175,8 +175,6 @@ HNWI have wealth.
 
 UHNW have 
 
-
-
 The emerging class has both wealth and infrastructure.
 
 The Sovereign AI Bank equips this class with the same depth of tools used by top tier hedge funds, private credit firms, and global trading desks.
@@ -247,8 +245,6 @@ This is what institutional capital has always relied on.
 
 This is what individuals never had 
 
-
-
 Until now.
 
 The Sovereign Thesis The Sovereign AI Bank is a thesis
@@ -274,7 +270,6 @@ The sovereign thesis replaces intermediaries with computation.
 It replaces negotiation with architecture.
 
 It replaces dependence with principal authority.
-
 
 ## Conclusion
 

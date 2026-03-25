@@ -19,8 +19,6 @@ The next era of wealth acceleration is not found in higher leverage or riskier p
 
 It is emerging from a new class of autonomous financial systems that recode liquidity 
 
-
-
 This is where private credit, asset based Asset-Backed Frameworks, and agentic autonomous infrastructure intersect.
 
 This is the frontier Roials-Alpha was built to dominate.
@@ -133,8 +131,6 @@ This architecture enables:
 
 - Ultra-low friction refinancing HNWI and UHNW clients gain 
 
-
-
 The asset works for the client.
 
 The system optimizes the asset.
@@ -233,10 +229,6 @@ Alpha is increasingly created through structural advantage.
 
 Timing.
 
-
-
-
-
 Liquidity.
 
 These are now alpha factors.
@@ -307,8 +299,6 @@ Clients gain:
 
 - Direct 
 
-
-
 - A strategic partner that operates without noise
 
 - Precision execution without negotiation loops The more complex the asset structure, the more the system becomes.
@@ -356,8 +346,6 @@ You do not compete on yield alone.
 You compete on architecture.
 
 You compete on 
-
-
 
 You compete on liquidity velocity.
 

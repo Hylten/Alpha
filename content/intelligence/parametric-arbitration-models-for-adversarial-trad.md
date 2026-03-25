@@ -433,7 +433,6 @@ The Sovereign Protocol already operates in this future.
 
 Roials Alpha builds for it.
 
-
 ## Conclusion
 
 Parametric arbitration is the only enforcement model capable of supporting autonomous, adversarial trade environments at global scale.

@@ -39,8 +39,6 @@ These gradients are shaped by:
 
 • Liquidity 
 
-
-
 • Collateral standards • Regulatory noise levels
 
 • Debt market elasticity
@@ -210,8 +208,6 @@ HNWI and UHNW individuals who integrate with these pools gain several advantages
 • Minimal slippage • Risk displacement rather than risk absorption
 
 • 
-
-
 
 • Reduced exposure to market liquidity droughts Traditional liquidity is episodic.
 

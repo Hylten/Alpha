@@ -73,8 +73,6 @@ It designs and executes the credit stack.
 
 The outcome is a continuous liquidity band that can be 
 
-
-
 High Net Worth .
 
 Ultra High Net Worth.

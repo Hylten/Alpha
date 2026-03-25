@@ -207,8 +207,6 @@ Pattern recognition and constraints-based selection remove founders from the gue
 
 This produces originations that meet institutional criteria before first 
 
-
-
 3.
 
 Agentic Control Layers Human action introduces variance.
@@ -302,8 +300,6 @@ Inverting this sequencing is reckless.
 
 Following it creates unstoppable liquidity 
 
-
-
 The Gnosjö Framework Swedish industrialists built generational wealth through
 
 :
@@ -352,8 +348,6 @@ Roials-Alpha ensures each of these is engineered into the business before capita
 
 This is the difference between 
 
-
-
 THE MANDAT E
 
 The systems mandate is simple: Architect the operation so that liquidity moves without friction.
@@ -384,8 +378,6 @@ Sovereign Liquidity Architecture The final outcome
 
 - High leverage 
 
-
-
 - Reduction in operational entropy.
 
 - Strengthened stewardship posture.
@@ -394,15 +386,11 @@ Sovereign Liquidity Architecture The final outcome
 
 Friction is eliminated.
 
-
-
 Capital becomes obedient to structure.
 
 Closing Intelligence Operators who submit to engineering gain Access is restricted to approved mandates
 
 .
-
-
 
 The agentic architecture is not optional.
 

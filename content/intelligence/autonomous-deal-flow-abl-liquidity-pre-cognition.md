@@ -309,7 +309,6 @@ In this context, technical edge includes:
 
 - Recapitalization modeling for UHNW liquidity planning These elements create the competitive distance necessary to secure proprietary positions and to avoid the dilution of returns caused by hyper competitive auction environments.
 
-
 ## Conclusion
 
 Autonomous deal flow is not a trend.

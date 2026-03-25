@@ -223,8 +223,6 @@ Our systems analyze collateral states, market conditions, risk deltas, and liqui
 
 Then they adjust Monetization Architecture conditions automatically, enabling frictionless capital 
 
-
-
 You do not wait.
 
 You command.

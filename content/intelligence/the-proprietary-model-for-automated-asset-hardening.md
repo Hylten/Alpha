@@ -161,8 +161,6 @@ Collateral values become predictable even under volatility.
 
 Clients are granted immediate 
 
-
-
 This is the Roials-Alpha advantage.
 
 Silent.
@@ -304,8 +302,6 @@ We focus on durable liquidity.
 Our structure ensures that your assets remain leverage ready across market cycles.
 
 The hardening model continues to optimize even when you are not 
-
-
 
 It is a continuous conditioning process.
 

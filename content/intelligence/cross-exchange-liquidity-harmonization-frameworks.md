@@ -235,7 +235,6 @@ The agent does not move the market in the traditional sense.
 
 It reshapes the liquidity substrate before pressure is applied.
 
-
 ## Conclusion
 
 Cross exchange liquidity harmonization is the new foundation for sovereign AI execution.

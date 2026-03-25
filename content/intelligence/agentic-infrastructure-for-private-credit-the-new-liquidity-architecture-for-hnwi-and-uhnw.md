@@ -202,10 +202,6 @@ kommer också äga marknadens värdeskapande.
 
 Det är det institutionella skiftet som nu pågår, och bara de aktörer som bygger denna agentiska infrastruktur från grunden kommer ha möjlighet att dominera den framtida private credit-ekonomin.
 
-
-
-
-
 #Agentiska system som grund för snabbare kapitalcirkulation
 
 Utvecklingen av privata kreditmarknader mot allt högre transaktionshastighet ställer nya krav på hur avtal, riskdata och motpartsinformation rör sig genom ekosystemet. Traditionella arbetsflöden bygger på manuella sekvenser med utspridda beslutsunderlag, ofta fragmenterade mellan e‑post, CRM‑system, datarum och juridiska mallar. Resultatet är tröghet, bristande spårbarhet och höga operativa kostnader.  

@@ -181,8 +181,6 @@ Deal flow becomes smoother.
 
 Cross asset opportunities become 
 
-
-
 Large scale capital movements become predictable rather than volatile.
 
 HNWI and UHNW participants operate within an environment that respects their pace and amplifies their intent.
@@ -353,7 +351,6 @@ Public market holdings become Capital Structuring engines.
 Portfolios stop being static.
 
 They become programmable.
-
 
 ## Conclusion
 

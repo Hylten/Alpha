@@ -9,8 +9,6 @@ slug: "autonomous-liquidity-management-for-sovereigns"
 
 .
 
-
-
 It is a matter of autonomous infrastructure.
 
 A matter of precision.
@@ -402,7 +400,6 @@ Discrete.
 Precise.
 
 Autonomous.
-
 
 ## Conclusion
 

@@ -305,6 +305,4 @@ The only question now is simple: Do you want to build this architecture into you
 
 If you want an exploratory briefing on constructing an agentic underwriting infrastructure tailored to your mandate, 
 
-
-
 The window for early advantage remains open, but it will not remain open for long.

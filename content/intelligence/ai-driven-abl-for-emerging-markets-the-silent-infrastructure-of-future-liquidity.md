@@ -97,7 +97,6 @@ Jurisdictional complexity will be abstracted behind invisible AI layers.
 
 Roials-Alpha will continue to build that infrastructure.
 
-
 ## Conclusion
 
 AI-driven Asset-Based Lending unlocks a new frontier of liquidity for emerging markets.

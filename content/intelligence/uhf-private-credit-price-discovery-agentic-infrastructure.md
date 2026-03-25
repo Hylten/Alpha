@@ -469,8 +469,6 @@ This is how algorithmic deal flow becomes an operational advantage rather than a
 
 - Agentic Infrastructure: What You Should 
 
-
-
 Not capital.
 
 Not deal sourcing.
@@ -478,8 +476,6 @@ Not deal sourcing.
 Architecture.
 
 If you wish to engage further, 
-
-
 
 • The multi‑agent orchestration layer for solvency‑momentum modeling
 

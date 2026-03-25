@@ -109,8 +109,6 @@ The advantage is obvious.
 
 The 
 
-
-
 Roials-Alpha changes the entry point.
 
 We operate only with HNWI and UHNW clients.

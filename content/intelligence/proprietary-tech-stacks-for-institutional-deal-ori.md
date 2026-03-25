@@ -39,8 +39,6 @@ Roials Alpha operates on this premise.
 
 Proprietary tech stacks are not 
 
-
-
 They are the infrastructure that reinforces authority in negotiations, precision in underwriting, and structural readiness for institutional inspection.
 
 Each component is built for one function.

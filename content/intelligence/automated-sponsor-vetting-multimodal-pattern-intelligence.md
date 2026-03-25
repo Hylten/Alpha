@@ -13,8 +13,6 @@ The second principle: institutional capital no longer tolerates friction, delay,
 
 The third principle: a credit architecture that does not automate sponsor vetting will lose 
 
-
-
 Machine gun clarity.
 
 Patterns don’t lie.
@@ -330,12 +328,6 @@ AGENTIC INFRASTRUCTURE: YOUR NEXT
 
 f your mandate requires sponsor vetting at scale, zero-friction analysis, or the integration of agentic intelligence across your deal pipeline, you are operating in the correct room.
 
-
-
-
-
 When you are ready, 
-
-
 
 One message opens the door.

@@ -241,8 +241,6 @@ You build inbound surfaces optimized for search intent: Fund-III, AI-driven unde
 
 You create the fastest path to 
 
-
-
 You eliminate bureaucratic signals.
 
 You move the conversation to a direct line.
@@ -336,8 +334,6 @@ Confidence follows clarity.
 - PHASE FIVE: AGENTIC INFRASTRUCTURE
 
 - A PRIVATE BRIEFING The request was explicit: 
-
-
 
 You want the real architecture.
 
@@ -490,7 +486,5 @@ The gap between those who deploy agentic infrastructures and those who do not wi
 The Principal operates at the top of that hierarchy.
 
 If you want the agentic layer built around your mandate, 
-
-
 
 I’ll open the line.

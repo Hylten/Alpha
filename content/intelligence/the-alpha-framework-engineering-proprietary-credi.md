@@ -261,8 +261,6 @@ transparent intercreditor relationships.
 
 direct 
 
-
-
 These controls transform the Institutional Liquidity Paths dynamic.
 
 The borrower remains in stewardship.

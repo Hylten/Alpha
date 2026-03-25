@@ -17,8 +17,6 @@ Roials-Alpha builds the infrastructure for this shift.
 
 We engineer the mechanical backbone that transforms private credit and asset based Strategic Collateralization into autonomous financial architecture, calibrated for HNWI and UHNW operators who do not trade time for 
 
-
-
 They command liquidity on arrival.
 
 They require precision.
@@ -36,8 +34,6 @@ Autonomy amplifies this advantage.
 It gives them:
 
 - Faster 
-
-
 
 - More accurate risk data.
 
@@ -78,7 +74,6 @@ Autonomy is not a convenience.
 It is the future operating system of institutional finance.
 
 Roials-Alpha designs that system.
-
 
 ## Conclusion
 

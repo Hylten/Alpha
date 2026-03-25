@@ -151,8 +151,6 @@ It isolates structural weaknesses in the marketplace and executes into them with
 
 This gives Roials-Alpha clients 
 
-
-
 It also produces execution velocity that bypasses traditional deal drag.
 5.
 
@@ -247,8 +245,6 @@ They invest in stewardship.
 They maintain clean covenant signatures.
 
 They 
-
-
 
 Their wealth moves without resistance because their structures carry the mark of institutional readiness.
 
@@ -462,7 +458,6 @@ It aligns with THE MANDAT
 
 E of long-term stewardship.
 15.
-
 
 ## Conclusion
 

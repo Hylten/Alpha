@@ -389,8 +389,6 @@ It is shaping the next evolution of private credit and asset based Asset-Backed 
 
 Those with 
 
-
-
 Those without will follow.
 
 Roials-Alpha exists for those who intend to lead.

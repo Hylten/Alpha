@@ -419,8 +419,6 @@ The bridge is direct.
 
 The 
 
-
-
 State your objectives.
 
 We construct the system.

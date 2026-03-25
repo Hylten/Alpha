@@ -324,10 +324,6 @@ Agentic GTM intelligence är inte en add-on. Det är det nya fundamentet.
 
 Och i nästa del går vi in på hur man faktiskt designar den tekniska strukturen bakom ett fullständigt agentiskt GTM-operativsystem, där...
 
-
-
-
-
 #Den agentiska GTM modellen som tekniskt system
 
 Den klassiska bilden av Go-to-Market är en mänskligt koordinerad maskin. Varje funktion bär sin egen P&L logik, sina egna verktyg, sin egen kultur. Man har i åratal försökt lösa friktionspunkterna genom fler synkroniseringsmöten, fler handoff-dokument och fler ritualiserade processer. Detta har varit en historisk nödvändighet eftersom inget system tidigare kunnat hantera den logiska komplexiteten i att sammanföra marknad, försäljning och kundteam i ett enda kontinuerligt flöde.

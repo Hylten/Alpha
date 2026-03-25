@@ -297,8 +297,6 @@ But the Alpha engine stands alone in speed.
 
 - frictionless 
 
-
-
 - precision-built credit exposure with uncompromised downside protection Dynamic pricing gives them all three.
 
 The architecture converts macro uncertainty into advantage.
@@ -338,8 +336,6 @@ The next decade of alpha will originate here.
 - autonomous escalation protocols Agentic credit infrastructure is the logical continuation of dynamic pricing.
 
 We can detail the required agents, their roles, their data 
-
-
 
 Tell me the depth you want: Do you want the full system blueprint?
 

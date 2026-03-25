@@ -175,8 +175,6 @@ När affären är algoritmisk kan den också optimeras, uppdateras och replikera
 
 Nästa steg är att gå igenom vad som krävs för att operationalisera denna modell i praktiken och hur man bygger de agentiska kärnkomponenterna som skapar GTM‑likviditet på marknadsnivå.
 
-
-
  GTM som ett likviditetslager i den agentiska epoken
 
 Det som tidigare betraktades som go to market har i den högre förmögenhetsklassen blivit något mer fundamentalt. Det har glidit från kampanjlogik och pipelinehantering till att fungera som ett likviditetslager i sig. I takt med att beslutsfattare opererar genom en kombination av delegation, automatisering och multipla aktörsnätverk har själva tillgången till friktionlösa GTM flöden blivit en valuta. Denna strukturella förskjutning är vad som gör att HNW och UHNWI segmenten svarar på helt andra signaler än traditionella organisationer. De använder GTM kapacitet inte som en funktion utan som ett instrument för att säkra och omfördela sitt strategiska risktagande.

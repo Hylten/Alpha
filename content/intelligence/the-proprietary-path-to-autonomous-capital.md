@@ -61,8 +61,6 @@ The Power of the Unseen The advantage of private credit is not simply Access is 
 
 .
 
-
-
 The advantage is discretion.
 
 Private credit is engineered in shadows, not spotlights.
@@ -312,8 +310,6 @@ A New Class of Private Liquidity The private liquidity landscape is transforming
 It is moving away from manual underwriting and into algorithmic capital engineering.
 
 Our clients gain 
-
-
 
 This is the evolution from capital ownership to capital autonomy.
 

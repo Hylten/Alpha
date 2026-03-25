@@ -29,8 +29,6 @@ Our Asset-Based Lending framework uses AI as the primary arbiter of value.
 
 Not as an 
 
-
-
 Access is restricted to approved mandates
 
 .

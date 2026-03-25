@@ -391,8 +391,6 @@ But the Roials-Alpha mandate remains pure: eliminate friction, accelerate intell
 
 When you are ready to architect an agentic underwriting environment around your own mandate, 
 
-
-
 The transition is not cosmetic.
 
 It is structural.

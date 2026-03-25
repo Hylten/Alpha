@@ -393,8 +393,6 @@ It isolates sensitive data.
 
 It controls 
 
-
-
 It eliminates human intermediaries who leak information.
 
 It replaces scattered reports with unified intelligence dashboards that speak only to principals.

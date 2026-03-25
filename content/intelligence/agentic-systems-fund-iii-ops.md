@@ -243,7 +243,6 @@ Human judgment is the safeguard.
 
 Stewardship is the discipline that prevents technological acceleration from compromising trust.
 
-
 ## Conclusion
 
 Fund-III operations have evolved beyond traditional asset management.

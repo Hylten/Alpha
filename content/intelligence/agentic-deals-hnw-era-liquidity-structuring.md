@@ -194,10 +194,6 @@ Organisationen planerar inte längre strategin på kvartalsbasis utan låter mod
 
 Och detta skifte leder direkt till nästa nivå av GTM-arkitektur, där agenternas beteende blir hela organisationens pulsmotor.
 
-
-
-
-
 #Övergången från relationell försäljning till agentisk GTM
 
 I takt med att kapitalmarknaderna förändras och högbeloppsaffärer förskjuts mot mer komplexa ägande och beslutsstrukturer har traditionell relationell försäljning tappat sin effektivitet. Den byggde på förtroende, långsiktigt nätverkande och förmågan att påverka individuella beslutsfattare. I dagens HNW präglade miljö är det inte längre den enskilda beslutsfattaren som avgör. Istället måste en GTM struktur hantera många fraktioner av inflytande som är både synliga och inofficiella.

@@ -249,7 +249,6 @@ Stewardship, Gnosjö, and technical excellence form a triad that elevates the ca
 
 5.
 
-
 ## Conclusion
 
 STRUCTURAL CLOSURE Agentic deals represent the next stage of institutional grade capital engineering.

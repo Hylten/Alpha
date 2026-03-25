@@ -21,8 +21,6 @@ Roials-Alpha takes this classical structure and upgrades it into an automated li
 
 The goal is simple: perpetual control of assets, perpetual 
 
-
-
 The autonomous infrastructure
 
 ### Layer I: s the force multiplier
@@ -184,8 +182,6 @@ It automates adjustments.
 It pulls liquidity when signals confirm alignment.
 
 The client experiences 
-
-
 
 The borrow phase becomes a continuous flow event, not a transaction.
 

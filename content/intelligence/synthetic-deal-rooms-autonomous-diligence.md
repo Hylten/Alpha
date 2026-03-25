@@ -322,6 +322,4 @@ Algorithmic deal flow is the compounding effect.
 
 To 
 
-
-
 When you compress diligence to hours, the entire market reorganizes around you.

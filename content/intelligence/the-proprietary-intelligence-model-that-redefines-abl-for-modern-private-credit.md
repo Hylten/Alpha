@@ -87,8 +87,6 @@ It calibrates availability, exposure, risk compression, and liquidation windows 
 
 It calculates frictionless 
 
-
-
 This restores control to the client.
 
 Control over timing.
@@ -170,8 +168,6 @@ Roials-Alpha is already operating in that future.
 The Endgame: Intelligence Driven Capital Access is restricted to approved mandates
 
 .
-
-
 
 Asset-Based Lending becomes dynamic.
 

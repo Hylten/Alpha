@@ -127,8 +127,6 @@ Strategic edges include:
 
 • Expanded 
 
-
-
 • Compression of capital idle time
 
 • Removal of emotional timing errors
@@ -172,7 +170,6 @@ Legacy becomes mechanical.
 Predictable.
 
 Dominant.
-
 
 ## Conclusion
 

@@ -395,7 +395,6 @@ We supply mechanics that shape the liquidity environment around you.
 
 This is where modern wealth architecture lives.
 
-
 ## Conclusion
 
 AI is the new liquidity engine for institutional GPs.

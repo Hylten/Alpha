@@ -337,8 +337,6 @@ As part of the design.
 
 HNWI and UHNW individuals gain 
 
-
-
 The advantage is asymmetric.
 
 The opportunity is geometric.
@@ -372,7 +370,6 @@ Liquidity becomes ambient.
 Capital becomes flexible, intelligent, and always available.
 
 This is the design language of next-generation wealth architecture.
-
 
 ## Conclusion
 

@@ -201,8 +201,6 @@ Designed Only for HNWI and UHNW Profiles We do not operate below the sovereign t
 
 Our systems are calibrated exclusively for HNWI and UHNW clients who require structural liquidity, not transactional 
 
-
-
 This ensures engineering bandwidth is never diluted.
 
 It ensures that capital always flows with elite precision.

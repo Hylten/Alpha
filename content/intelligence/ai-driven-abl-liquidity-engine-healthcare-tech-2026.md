@@ -278,7 +278,6 @@ It provides mid market operators with institutional intelligence without institu
 
 5.
 
-
 ## Conclusion
 
 AI driven Asset-Based Lending is not an incremental improvement.

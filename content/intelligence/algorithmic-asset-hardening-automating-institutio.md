@@ -535,7 +535,6 @@ It requires intelligence.
 
 Roials-Alpha operates as an extension of that mandate.
 
-
 ## Conclusion
 
 Algorithmic asset hardening is not a trend.

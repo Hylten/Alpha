@@ -367,8 +367,6 @@ Asset-Based Lending becomes renewable liquidity.
 
 Family offices gain 
 
-
-
 Flexibility without fragility.
 
 Each cycle feeds the next.

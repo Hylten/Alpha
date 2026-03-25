@@ -238,10 +238,6 @@ Ett agentiskt, självoptimerande, autonomt kommersiellt OS som tar över 80 till
 
 Och allt detta leder till nästa avgörande fråga: Hur ser arkitekturen ut för ett komplett agentiskt GTM-OS, från datainmatning till agentkörning och kontextkontroll?
 
-
-
-
-
 #Den tekniska underbyggnaden som gör ett AI‑first GTM möjligt
 
 Det som för närvarande kallas AI‑first inom go-to-market är i praktiken bara ett tillfälligt tillstånd. Under 2024 och 2025 var det fortfarande vanligt att företag lade LLM:er ovanpå befintliga processer. Resultatet blev en dekorativ intelligens som följde gamla rörelsemönster. Det som nu händer under 2026 är ett skifte mot en infrastruktur där agentiska system blir den primära körmiljön och mänskliga team blir granskare, orkestrerare och strategiska piloter.

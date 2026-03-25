@@ -189,8 +189,6 @@ We eliminate uncertainty by modeling collateral through probabilistic curves, no
 
 Second, continuous credit recalibration. balance sheet optimization power adjusts second by second, which means liquidity is always 
 
-
-
 Third, autonomous compliance.
 
 High tier clients require frictionless execution, not paperwork bottlenecks.

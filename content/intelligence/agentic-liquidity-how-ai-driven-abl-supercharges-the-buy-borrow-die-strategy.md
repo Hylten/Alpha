@@ -359,8 +359,6 @@ What This Means for Capital Builders, Principals, and Family Offices Agentic Ass
 
 - faster liquidity 
 
-
-
 - precision tax optimization
 
 - automated compliance
@@ -374,7 +372,6 @@ This is not financial advice.
 This is infrastructure.
 
 The Buy Borrow Die strategy becomes executable at a level that human teams simply cannot match.
-
 
 ## Conclusion
 

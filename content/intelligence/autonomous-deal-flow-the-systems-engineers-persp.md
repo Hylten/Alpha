@@ -43,8 +43,6 @@ The aim is singular.
 
 To engineer liquidity 
 
-
-
 The Structural Premise Autonomous deal flow depends on structural alignment
 
 .

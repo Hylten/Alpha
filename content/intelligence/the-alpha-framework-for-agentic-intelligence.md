@@ -290,7 +290,6 @@ This is where the industry is heading.
 
 Roials-Alpha is building the infrastructure early.
 
-
 ## Conclusion
 
 The Alpha Framework for Agentic Intelligence is not a trend.

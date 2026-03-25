@@ -182,8 +182,6 @@ Det är därför den här förändringen inte bara är teknisk. Den är struktur
 
 Och för att förstå hur man bygger ett komplett agentiskt GTM-ekosystem måste man... 
 
-
-
 #Agentiska system som ny grundstruktur för go to market
 
 Det som tidigare var ett lapptäcke av separata verktyg och manuella rutiner håller nu på att bli ett sammanhängande system av handlingsförmåga. Detta är kärnan i agentisk engineering. Ett GTM-team som byggs enligt denna princip slutar vara beroende av att människor ska aktivera processer. I stället blir varje funktion en dynamisk kedja av autonoma arbetsflöden som själva upptäcker när något behöver göras, vidtar åtgärder och rapporterar effekten tillbaka in i organisationens informationskrets.

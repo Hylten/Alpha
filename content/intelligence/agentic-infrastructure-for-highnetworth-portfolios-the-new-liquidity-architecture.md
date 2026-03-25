@@ -187,8 +187,6 @@ När constraints byggs på rätt sätt kan portföljen förändra karaktär snab
 
 Och det är just här nästa nivå av agentisk GTM tar form, när constraints börjar interagera med varandra i realtid och skapa självjusterande metastrukturer som...
 
-
-
 Arkitekturen bakom agentisk infrastruktur
 
 Agentisk infrastruktur i högfartsportföljer bygger på en samverkan mellan flera tekniska lager som tillsammans skapar en självoptimerande GTM-motor för likviditetsdrivna marknader. I grunden handlar det om att ersätta statiska, linjära processer med system som kan tolka mål, initiera egna arbetsflöden och reagera på signaler som uppstår i realtid i både marknader och interna datastrukturer. Detta kräver ett ramverk som inte bara kan exekvera instruktioner utan också förstår kontext, prioritering och beroenden.

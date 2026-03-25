@@ -421,10 +421,6 @@ If you want the edge, you trust the architecture.
 
 If you want the future, you remove friction.
 
-
-
-
-
 Metric: Latency-to-Underwrite = 0.
 
 83 seconds.

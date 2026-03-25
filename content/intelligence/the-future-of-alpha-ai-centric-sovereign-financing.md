@@ -273,8 +273,6 @@ It is AI centric in execution.
 
 It is 
 
-
-
 The Roials Alpha Architecture Roials Alpha is not a lender
 
 .
