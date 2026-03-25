@@ -1,6 +1,10 @@
 ---
 title: Agentic Infrastructure Ai First Institutional Architecture
-description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+description: >-
+  Det pågår en tyst men strukturellt omvälvande skiftning i hur nationer
+  organiserar sina ekonomiska instrument, informationssystem och strategiska
+  tillgångar. Där 1900-talets institutioner byggdes kring mänsklig förvaltning,
+  hierarkiska beslutsproc...
 date: '2026-03-25'
 author: Jonas Hyltén
 slug: agentic-infrastructure-ai-first-institutional-architecture

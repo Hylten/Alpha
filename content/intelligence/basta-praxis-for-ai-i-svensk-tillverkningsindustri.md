@@ -1,6 +1,8 @@
 ---
 title: Basta Praxis For Ai I Svensk Tillverkningsindustri
-description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+description: >-
+  Swedish manufacturing is entering a phase where speed, precision, and
+  predictive control define competitiveness.
 date: '2026-03-25'
 author: Jonas Hyltén
 slug: basta-praxis-for-ai-i-svensk-tillverkningsindustri

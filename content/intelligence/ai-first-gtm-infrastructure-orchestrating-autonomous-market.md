@@ -1,6 +1,8 @@
 ---
 title: Ai First Gtm Infrastructure Orchestrating Autonomous Market
-description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+description: >-
+  AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for
+  Global Dominance
 date: '2026-03-25'
 author: Jonas Hyltén
 slug: ai-first-gtm-infrastructure-orchestrating-autonomous-market

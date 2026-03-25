@@ -1,6 +1,8 @@
 ---
 title: Agentic Infrastructure For Cross Border Expansion Technical
-description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+description: >-
+  Agentisk infrastruktur för gränsöverskridande expansion: Tekniska protokoll
+  för multijurisdiktionell tillväxt
 date: '2026-03-25'
 author: Jonas Hyltén
 slug: agentic-infrastructure-for-cross-border-expansion-technical

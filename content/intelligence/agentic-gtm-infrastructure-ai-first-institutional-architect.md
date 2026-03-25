@@ -1,6 +1,8 @@
 ---
 title: Agentic Gtm Infrastructure Ai First Institutional Architect
-description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+description: >-
+  Agentic GTM Infrastructure: AI-First Institutional Architecture for Global
+  Market Dominance
 date: '2026-03-25'
 author: Jonas Hyltén
 slug: agentic-gtm-infrastructure-ai-first-institutional-architect

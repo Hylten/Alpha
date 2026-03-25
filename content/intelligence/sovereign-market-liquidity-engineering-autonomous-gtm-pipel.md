@@ -1,6 +1,8 @@
 ---
 title: Sovereign Market Liquidity Engineering Autonomous Gtm Pipel
-description: Roials Alpha intelligence on agentic infrastructure and liquidity engineering.
+description: >-
+  Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for
+  High-Velocity Capital
 date: '2026-03-25'
 author: Jonas Hyltén
 slug: sovereign-market-liquidity-engineering-autonomous-gtm-pipel
