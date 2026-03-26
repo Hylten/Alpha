@@ -58,7 +58,7 @@ The standard is simple.
 
 Every unit of capital must reinforce the spine of the balance sheet while maintaining clear Christian stewardship: truthfulness in contracts, duty before convenience, and responsibility above opportunism.
 
-THE MANDATE
+THE MANDAT E
 
 is continuity.
 
@@ -355,6 +355,6 @@ Institutional capital demands structure.
 Roials-Alpha unifies all three through technical dominance.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

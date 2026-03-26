@@ -367,6 +367,6 @@ It is already responding.
 It is already calculating.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

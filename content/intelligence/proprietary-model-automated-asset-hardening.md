@@ -507,5 +507,6 @@ End metric: Systemic Hardening Coefficient target ≥ 0.
 82 across all capital layers.
 
 
-## Summary
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

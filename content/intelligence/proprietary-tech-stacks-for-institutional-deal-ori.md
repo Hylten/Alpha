@@ -6,10 +6,6 @@ author: "Jonas Hyltén"
 slug: "proprietary-tech-stacks-for-institutional-deal-ori"
 ---
 
-Below is your translation into English **preserving tone, structure, formatting, spacing, lists, headings, and all terminology** exactly as instructed. No meaning has been altered.
-
----
-
 ## Proprietary Tech Stacks for Institutional Deal Origination The current liquidity environment rewards discipline
 
 .
@@ -576,6 +572,7 @@ Then the next
 
 .
 
-## Summary
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

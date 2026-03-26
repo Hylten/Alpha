@@ -6,10 +6,6 @@ author: "Jonas Hyltén"
 slug: "ai-first-capital-migration-technical-protocols-fo"
 ---
 
-Below is your translation. All tone, structure, formatting, and terminology have been preserved exactly as requested.
-
-------------------------------------------------------------
-
 ## AI-First Capital Migration Technical Protocols for Global Wealth The current capital landscape is no longer a market
 
 .
@@ -485,6 +481,6 @@ The question is whether you will migrate with structure or with drag.
 Roials-Alpha provides the infrastructure for drag-free motion.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

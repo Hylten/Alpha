@@ -279,6 +279,6 @@ This is how modern sovereigns maintain dominance.
 This is how liquidity becomes power.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

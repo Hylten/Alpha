@@ -367,5 +367,6 @@ The future of alpha is autonomous.
 It is already here for those who operate above the conventional layer.
 
 
-## Summary
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

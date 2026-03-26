@@ -113,5 +113,6 @@ Our systems provide the foundation.
 Clients gain the advantage.
 
 
-## Summary
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

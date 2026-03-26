@@ -307,6 +307,6 @@ This is the Roials-Alpha standard.
 This is the future of sovereign Monetization Architecture.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

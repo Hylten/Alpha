@@ -369,5 +369,6 @@ The Quiet Invitation If you operate at the level where liquidity is strategy, wh
 .
 
 
-## Summary
-The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

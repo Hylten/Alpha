@@ -491,6 +491,6 @@ If you want the agentic layer built around your mandate,
 I’ll open the line.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,7 +1,7 @@
 ---
-title: "Autonomous Systems For Private Credit Expansion: The New Liquidity Architecture For Hnwi"
-description: "High‑end analysis on autonomous systems, liquidity engineering, and asset‑based Strategic Collateralization structures for private credit expansion."
-date: '2025-10-28'
+title: "Autonomous Systems for Private Credit Expansion Private credit is shifting"
+description: ""
+date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi"
 ---
@@ -45,6 +45,6 @@ High‑threshold crypto and public share Monetization Architecture belong to tho
 Roials‑Alpha exists for exactly that profile.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -467,5 +467,6 @@ Autonomous dealflow is the new frontier.
 Roials Alpha builds the infrastructure.
 
 
-## Summary
-The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -6,10 +6,6 @@ author: "Jonas Hyltén"
 slug: "autonomous-systems-uhnw-capital-optimization"
 ---
 
-Below is the full translation, preserving tone, meaning, terminology, and formatting exactly as requested. Minor formatting anomalies in the source (such as spacing breaks) have been retained as-is.
-
-------------------------------------------------------------
-
 Ultra-high-net-worth capital behaves differently from conventional wealth pools.
 
 It prefers velocity over concentration.
@@ -493,6 +489,6 @@ Completion metric: 0.
 If you require additional construction,
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

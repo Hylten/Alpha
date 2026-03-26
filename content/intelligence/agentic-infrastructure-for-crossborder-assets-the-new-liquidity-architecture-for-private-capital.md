@@ -1,13 +1,9 @@
 ---
-title: "Agentic Infrastructure For Cross‑border Assets: The New Liquidity Architecture For Private Capital"
-description: "High-end analysis on liquidity infrastructure, private credit, and asset based liquidity engineering for global HNWI and UHNW portfolios. Roials‑Alpha enables institutional-grade cross-border leverage."
-date: '2025-08-07'
+title: "Agentic Infrastructure for Cross-border Assets: The New GTM Architecture for Private Capital"
+description: ""
+date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
----
-
-Below is your translation, with all tone, meaning, terminology, and formatting preserved exactly as requested.
-
 ---
 
 Below is your 2000+ word English‑only article in institutional GTM engineering voice, aligned to all constraints.
@@ -430,6 +426,6 @@ International expansion becomes inevitable when the infrastructure is built corr
 This is the new frontier of global private capital GTM.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

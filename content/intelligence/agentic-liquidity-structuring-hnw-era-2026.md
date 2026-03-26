@@ -267,5 +267,6 @@ The future of liquidity is engineered.
 And the future of principal to principal deal execution will be defined by the synthesis of sovereign control, technical precision, and disciplined stewardship. [END INTELLIGENCE REPORT]
 
 
-## Summary
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

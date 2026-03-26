@@ -1,12 +1,12 @@
 ---
-title: "Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is strongest when it is never sold"
+title: "Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is most when it is never sold"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "automating-the-buy-borrow-die-strategy-for-perpetual-liquidity"
 ---
 
-## Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is strongest when it is never sold
+## Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is most when it is never sold
 
 .
 
@@ -24,7 +24,7 @@ The goal is simple: perpetual control of assets, perpetual
 
 The autonomous infrastructure
 
-### Layer I: is the force multiplier
+### Layer I: s the force multiplier
 
 .
 
@@ -102,7 +102,7 @@ The Three Core Pillars of Automated Buy, Borrow, Die The system depends on three
 
 Each
 
-## Pillar C: corresponds to a different liquidity profile
+## Pillar C: orresponds to a different liquidity profile
 
 .
 
@@ -433,6 +433,6 @@ The question is not whether autonomous infrastructure will dominate wealth strat
 It is only a question of who adopts it early.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

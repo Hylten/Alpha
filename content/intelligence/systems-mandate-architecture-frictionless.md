@@ -208,7 +208,7 @@ Efficient architecture reduces slippage.
 
 Slippage is waste.
 
-"A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22 establishes the generational logic of capital management.
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the generational logic of capital management.
 
 Systems reduce generational drift.
 
@@ -267,6 +267,6 @@ The institutional archetype is shifting.
 Those who align with the new architecture will operate with increased precision, reduced friction, and elevated opportunity velocity. [END OF BRIEFING]
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

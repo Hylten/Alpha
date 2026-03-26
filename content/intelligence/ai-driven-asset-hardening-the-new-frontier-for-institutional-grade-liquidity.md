@@ -14,7 +14,7 @@ It is now the hardening layer that separates vulnerable portfolios from fortifie
 
 Roials-Alpha builds that layer for High Net Worth and Ultra High Net Worth individuals who operate at institutional scale.
 
-We do it through private credit, asset-based Strategic Collateralization, and Institutional Liquidity Paths reinforced by agentic intelligence.
+We do it through private credit, asset based Strategic Collateralization, and Institutional Liquidity Paths that is reinforced by agentic intelligence.
 
 We do it quietly.
 
@@ -68,13 +68,11 @@ Extract latent liquidity.
 
 Reinforce every asset until it can serve as high-grade collateral for private credit and Asset-Based Lending structures.
 
-Where institutions rely on in-house quant stacks, Roials-Alpha provides an externalized version engineered for private wealth.
+Where institutions rely on in-house quant stacks, Roials-Alpha provides an externalized version that is engineered for private wealth.
 
-Why AI-Driven Hardening Is the Core Mechanic for Private Credit Private credit used to be dominated by static underwriting and cyclical patterns
+Why AI-Driven Hardening Is the Core Mechanic for Private Credit Private credit used to be dominated by static underwriting and cyclical Access is restricted to approved mandates
 
 .
-
-Access is restricted to approved mandates.
 
 AI changes the equation.
 
@@ -96,7 +94,7 @@ AI allows us to:
 
 This is the strategic advantage that UHNW individuals previously lacked.
 
-The Role of Asset Hardening in Asset Based Institutional Liquidity Paths Asset-based Strategic Collateralization becomes exponentially more powerful when the assets themselves are fortified by AI
+The Role of Asset Hardening in Asset Based Institutional Liquidity Paths Asset based Strategic Collateralization becomes exponentially more when the assets themselves are fortified by AI
 
 .
 
@@ -112,13 +110,13 @@ Better collateral.
 
 Better terms.
 
-Better outcomes.
+Better 
 
 Our Asset-Based Lending structures are designed for real estate, operating companies, equity positions, and blended asset bases.
 
 We create the precision infrastructure that institutional desks use internally.
 
-We simply make it external.
+We simply make it 
 
 Crypto Strategic Collateralization at Institutional Scale Crypto is volatile, fast, and algorithmically targeted by every major market participant
 
@@ -126,7 +124,9 @@ Crypto Strategic Collateralization at Institutional Scale Crypto is volatile, fa
 
 This makes AI-driven asset hardening essential.
 
-Roials-Alpha provides crypto-backed Capital Structuring with a minimum threshold of 2,000,000.
+Roials-Alpha provides crypto-backed Capital Structuring with a minimum threshold of 2,000,
+
+000.
 
 Our agentic systems perform:
 
@@ -150,7 +150,7 @@ Block holders face liquidity constraints that smaller players never see.
 
 Roials-Alpha solves this through reinforced public share Capital Structuring.
 
-Minimum threshold: 5,000,000.
+Minimum threshold: 5,000, 000.
 
 Our AI infrastructure monitors:
 
@@ -266,7 +266,7 @@ Because we work with clients who understand power, privacy, and structural lever
 
 Private credit is evolving.
 
-Asset-based Monetization Architecture is evolving.
+Asset based Monetization Architecture is evolving.
 
 Institutional Liquidity Paths is evolving.
 
@@ -298,7 +298,7 @@ We see the next
 
 • Cross-asset intelligence that behaves like a private quant desk
 
-• 24/7 agentic hardening with zero lag The wealth ecosystem is shifting toward autonomy, precision, and algorithmic protection.
+• 24/ 7 agentic hardening with zero lag The wealth ecosystem is shifting toward autonomy, precision, and algorithmic protection.
 
 Roials-Alpha is already operating there.
 
@@ -315,6 +315,6 @@ Private credit and Asset-Based Lending are the conduits.
 Roials-Alpha is the principal authority behind it.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

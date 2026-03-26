@@ -1,7 +1,7 @@
 ---
-title: "Autonomous Capital Migration Patterns: The New Architecture Of High Velocity Wealth"
-description: "A high authority analysis of liquidity behavior, private credit, and asset based liquidity engineering in an autonomous capital environment."
-date: '2025-12-19'
+title: "Autonomous Capital Migration Patterns Autonomous capital is no longer a theory"
+description: ""
+date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "autonomous-capital-migration-patterns-the-new-architecture-of-high-velocity-wealth"
 ---
@@ -370,6 +370,7 @@ Structural dominance.
 
 Agentic Capital Structuring.
 
-## Summary
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

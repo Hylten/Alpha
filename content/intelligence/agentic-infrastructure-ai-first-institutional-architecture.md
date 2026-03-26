@@ -1,13 +1,9 @@
 ---
-title: Agentic Infrastructure Ai First Institutional Architecture
-description: >-
-  Det pågår en tyst men strukturellt omvälvande skiftning i hur nationer
-  organiserar sina ekonomiska instrument, informationssystem och strategiska
-  tillgångar. Där 1900-talets institutioner byggdes kring mänsklig förvaltning,
-  hierarkiska beslutsproc...
+title: "Inledning: Den agentiska omställningen av kapitalmakten"
+description: ""
 date: '2026-03-25'
-author: Jonas Hyltén
-slug: agentic-infrastructure-ai-first-institutional-architecture
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-ai-first-institutional-architecture"
 ---
 
 Agentisk infrastruktur: AI-först institutionell arkitektur för suveränt kapital

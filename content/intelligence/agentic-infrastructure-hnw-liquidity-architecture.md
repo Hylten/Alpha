@@ -1,9 +1,9 @@
 ---
-title: "Agentic Infrastructure For High‑net‑worth Portfolios: The New Liquidity Architecture"
-description: "A principal‑level briefing on AI‑first liquidity engineering, autonomous credit architecture, and agentic portfolio operating systems for UHNW/HNW private capital."
-date: '2026-01-20'
+title: "Agentic Infrastructure: Re‑engineering Market Entry for HNW Liquidity Architecture"
+description: ""
+date: '2026-03-25'
 author: "Jonas Hyltén"
-slug: ""
+slug: "agentic-infrastructure-hnw-liquidity-architecture"
 ---
 
 ## Agentic Infrastructure: Re‑engineering Market Entry for HNW Liquidity Architecture  
@@ -345,6 +345,6 @@ If you want, I can also generate:
 • A signal-to-action pipeline diagram
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
