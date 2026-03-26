@@ -331,6 +331,5 @@ This is not the future of wealth management.
 It is the new standard for those who operate at scale.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.

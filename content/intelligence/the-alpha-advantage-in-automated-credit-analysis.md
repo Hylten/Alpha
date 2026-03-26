@@ -56,6 +56,5 @@ This is the Alpha Advantage.
 This is Roials-Alpha.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before the consensus. Roial’s Alpha is building that infrastructure now.

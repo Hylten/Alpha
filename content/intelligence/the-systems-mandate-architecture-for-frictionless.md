@@ -1,14 +1,11 @@
 ---
+
 title: 'The Systems Mandate: Architecture For Frictionless'
-description: >-
-  A bold call to engineer seamless flow, The Systems Mandate reveals the Roials
-  Alpha blueprint for designing architecture that makes frictionless liquidity
-  an intentional reality.
+description: "  A bold call to engineer seamless flow, The Systems Mandate reveals the Roials Alpha blueprint for designing architecture that makes frictionless liquidity an intentional reality.
 date: '2026-01-09'
 author: Jonas Hyltén
 slug: the-systems-mandate-architecture-for-frictionless
 ---
-
 ## The Systems Mandate
 
 .
@@ -411,6 +408,6 @@ CTA Access is restricted to approved mandates
 .
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

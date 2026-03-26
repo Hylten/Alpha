@@ -1,12 +1,14 @@
 ---
+
+
 title: Proprietary Tech Stacks For Institutional Deal Ori
-description: >-
-  Roials Alpha’s proprietary tech stacks elevate institutional deal origination
-  by rewarding covenant stewardship powered through engineered, sentiment‑free
-  intelligence.
+description: "  Roials Alpha’s proprietary tech stacks elevate institutional deal origination by rewarding covenant stewardship powered through engineered, sentiment‑free intelligence.
 date: '2025-09-04'
 author: Jonas Hyltén
 slug: proprietary-tech-stacks-for-institutional-deal-ori
+---
+Below is your translation into English **preserving tone, structure, formatting, spacing, lists, headings, and all terminology** exactly as instructed. No meaning has been altered.
+
 ---
 
 ## Proprietary Tech Stacks for Institutional Deal Origination The current liquidity environment rewards discipline
@@ -575,7 +577,6 @@ Then the next
 
 .
 
+## Summary
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

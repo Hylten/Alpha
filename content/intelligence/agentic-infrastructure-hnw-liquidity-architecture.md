@@ -1,16 +1,11 @@
 ---
-title: >-
-  Agentic Infrastructure For High‑net‑worth Portfolios: The New Liquidity
-  Architecture
-description: >-
-  A principal‑level briefing on AI‑first liquidity engineering, autonomous
-  credit architecture, and agentic portfolio operating systems for UHNW/HNW
-  private capital.
+
+title: "  Agentic Infrastructure For High‑net‑worth Portfolios: The New Liquidity Architecture
+description: "  A principal‑level briefing on AI‑first liquidity engineering, autonomous credit architecture, and agentic portfolio operating systems for UHNW/HNW private capital.
 date: '2026-01-20'
 author: Jonas Hyltén
 slug: agentic-infrastructure-hnw-liquidity-architecture
 ---
-
 ## Agentic Infrastructure: Re‑engineering Market Entry for HNW Liquidity Architecture  
 **Author: Jonas Hyltén**  
 **Style: Institutional GTM Engineering | Sovereign Tone | High‑Density Frequency**
@@ -350,6 +345,6 @@ If you want, I can also generate:
 • A signal-to-action pipeline diagram
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

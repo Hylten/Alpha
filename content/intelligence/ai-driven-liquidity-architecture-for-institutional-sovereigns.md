@@ -1,14 +1,11 @@
 ---
+
 title: Ai-driven Liquidity Architecture For Institutional Sovereigns
-description: >-
-  A technically dominant exploration of AI-driven liquidity, private credit, and
-  institutional-grade Asset-Based Lending frameworks engineered for HNWI and
-  UHNW capital.
+description: "  A technically dominant exploration of AI-driven liquidity, private credit, and institutional-grade Asset-Based Lending frameworks engineered for HNWI and UHNW capital.
 date: '2025-10-04'
 author: Jonas Hyltén
 slug: ai-driven-liquidity-architecture-for-institutional-sovereigns
 ---
-
 ## AI-Driven Liquidity for Institutional Sovereigns Institutional capital no longer reacts, it anticipates
 
 .
@@ -282,6 +279,6 @@ This is how modern sovereigns maintain dominance.
 This is how liquidity becomes power.
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

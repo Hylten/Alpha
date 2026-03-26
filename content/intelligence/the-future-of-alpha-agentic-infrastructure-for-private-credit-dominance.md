@@ -272,6 +272,5 @@ It is the next evolution of private credit and asset based Monetization Architec
 And the operators who harness it first will dominate the next cycle.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.

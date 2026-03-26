@@ -257,6 +257,5 @@ Final Signal Agentic finance belongs to those who can control their capital with
 If you operate at that level, and you require liquidity infrastructure that performs at institutional scale, Roials Alpha exists for you.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.

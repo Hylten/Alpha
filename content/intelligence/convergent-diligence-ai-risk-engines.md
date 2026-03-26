@@ -1,14 +1,11 @@
 ---
+
 title: The Principal Architecture Of Convergent Diligence
-description: >-
-  A high-resolution briefing on the fusion of private equity diligence,
-  LLM‑based risk engines, and agentic infrastructures calibrated for algorithmic
-  deal flow and AI-first credit architecture.
+description: "  A high-resolution briefing on the fusion of private equity diligence, LLM‑based risk engines, and agentic infrastructures calibrated for algorithmic deal flow and AI-first credit architecture.
 date: '2025-11-02'
 author: Jonas Hyltén
 slug: convergent-diligence-ai-risk-engines
 ---
-
 The convergence began the moment information density exceeded human processing speed.
 
 Private equity diligence, even at its most refined, was built on human tempo.
@@ -494,6 +491,6 @@ If you want the agentic layer built around your mandate,
 I’ll open the line.
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

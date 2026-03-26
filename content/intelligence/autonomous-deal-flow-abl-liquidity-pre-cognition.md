@@ -342,6 +342,6 @@ This is how principal investors will capture the most attractive asset backed fi
 And this is how disciplined capital allocators will build long horizon wealth structures for UHNW liquidity planning while maintaining integrity and operational excellence. [END REPORT]
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+  
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

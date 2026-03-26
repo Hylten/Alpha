@@ -395,6 +395,5 @@ This is infrastructure sovereignty.
 This is the engine of proprietary deal flow.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

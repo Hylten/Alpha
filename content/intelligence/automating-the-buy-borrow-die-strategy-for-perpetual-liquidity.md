@@ -1,15 +1,12 @@
 ---
+
 title: 'Automating The Buy, Borrow, Die Strategy For Perpetual Liquidity'
-description: >-
-  A high-authority breakdown of how autonomous infrastructure, private credit,
-  and asset based liquidity engineering create institutional-grade liquidity for
-  HNWI and UHNW entities.
+description: "  A high-authority breakdown of how autonomous infrastructure, private credit, and asset based liquidity engineering create institutional-grade liquidity for HNWI and UHNW entities.
 date: '2025-09-03'
 author: Jonas Hyltén
 slug: automating-the-buy-borrow-die-strategy-for-perpetual-liquidity
 ---
-
-## Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is most when it is never sold
+## Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is strongest when it is never sold
 
 .
 
@@ -27,7 +24,7 @@ The goal is simple: perpetual control of assets, perpetual
 
 The autonomous infrastructure
 
-### Layer I: s the force multiplier
+### Layer I: is the force multiplier
 
 .
 
@@ -105,7 +102,7 @@ The Three Core Pillars of Automated Buy, Borrow, Die The system depends on three
 
 Each
 
-## Pillar C: orresponds to a different liquidity profile
+## Pillar C: corresponds to a different liquidity profile
 
 .
 
@@ -436,6 +433,6 @@ The question is not whether autonomous infrastructure will dominate wealth strat
 It is only a question of who adopts it early.
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

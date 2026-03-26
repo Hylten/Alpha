@@ -197,6 +197,5 @@ Roials-Alpha remains the principal authority within this space.
 For clients who understand the difference between noise and precision, the future is already operational.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.

@@ -55,6 +55,5 @@ Roials Alpha is not here to compete with traditional finance.
 We are here to supersede it.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

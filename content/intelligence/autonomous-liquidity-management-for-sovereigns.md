@@ -1,14 +1,11 @@
 ---
+
 title: Autonomous Liquidity Management For Sovereigns
-description: >-
-  A high‑authority exploration of autonomous liquidity mechanics, private
-  credit, and asset‑based liquidity engineering systems designed for sovereigns,
-  HNWI, and UHNW clients seeking structural leverage infrastructure.
+description: "  A high‑authority exploration of autonomous liquidity mechanics, private credit, and asset‑based liquidity engineering systems designed for sovereigns, HNWI, and UHNW clients seeking structural leverage infrastructure.
 date: '2025-11-04'
 author: Jonas Hyltén
 slug: autonomous-liquidity-management-for-sovereigns
 ---
-
 ## Autonomous Liquidity Management for Sovereigns Liquidity is no longer a matter of Access is restricted to approved mandates
 
 .
@@ -419,7 +416,6 @@ Sovereigns must operate with principal authority supported by invisible infrastr
 
 Roials-Alpha builds that infrastructure.
 
+## Summary
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

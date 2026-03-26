@@ -336,6 +336,5 @@ Institutional.
 The standard is here.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.

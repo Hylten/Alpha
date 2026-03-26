@@ -369,6 +369,5 @@ principal authority aligned with high velocity capital.
 To move faster, operate cleaner, and execute with structural advantage.
 
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+## Summary
+The market rewards those who act before the consensus. Roials Alpha is building that infrastructure now.

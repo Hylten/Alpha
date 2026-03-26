@@ -1,14 +1,13 @@
 ---
-title: >-
-  Ai-first Private Credit: The Silent Infrastructure Of Next-generation
-  Liquidity
-description: >-
-  Explore how AI-first private credit and asset based liquidity engineering
-  unlock institutional-grade liquidity for HNWI and UHNW portfolios.
+
+title: "  Ai-first Private Credit: The Silent Infrastructure Of Next-generation Liquidity
+description: "  Explore how AI-first private credit and asset based liquidity engineering unlock institutional-grade liquidity for HNWI and UHNW portfolios.
 date: '2025-11-18'
 author: Jonas Hyltén
 slug: ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity
 ---
+Below is the English translation, preserving tone, terminology, and formatting exactly as requested.
+
 
 ## The Future of AI-First Private Credit The private credit arena is entering a structural rewrite
 
@@ -389,6 +388,6 @@ Liquidity is becoming a programmable asset.
 Roials-Alpha provides the silent structural authority that makes this future operational for HNWI and UHNW portfolios.
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

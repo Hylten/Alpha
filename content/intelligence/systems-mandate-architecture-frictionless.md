@@ -1,14 +1,11 @@
 ---
+
 title: 'The Systems Mandate: Architecture For Frictionless Institutional Execution'
-description: >-
-  A high density institutional briefing on AI first credit architecture,
-  algorithmic deal flow, and the strategic systems mandate reshaping private
-  capital operations for UHNWIs and family offices.
+description: "  A high density institutional briefing on AI first credit architecture, algorithmic deal flow, and the strategic systems mandate reshaping private capital operations for UHNWIs and family offices.
 date: '2025-07-21'
 author: Jonas Hyltén
 slug: systems-mandate-architecture-frictionless
 ---
-
 The capital vacuum in North America is a function of operational drag, legacy processes, and regulatory friction that accumulated faster than institutional systems evolved.
 
 The market did not become inefficient because capital withdrew.
@@ -211,7 +208,7 @@ Efficient architecture reduces slippage.
 
 Slippage is waste.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22establishes the generational logic of capital management.
+"A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22 establishes the generational logic of capital management.
 
 Systems reduce generational drift.
 
@@ -270,6 +267,6 @@ The institutional archetype is shifting.
 Those who align with the new architecture will operate with increased precision, reduced friction, and elevated opportunity velocity. [END OF BRIEFING]
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

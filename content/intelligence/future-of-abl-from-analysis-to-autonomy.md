@@ -1,13 +1,14 @@
 ---
+
 title: 'The Future Of Asset-based Lending: From Analysis To Autonomy'
-description: >-
-  A principal-grade examination of autonomous asset‑based lending systems,
-  algorithmic credit architectures, and institutional-scale liquidity
-  engineering frameworks for UHNW/HNW family offices.
+description: "  A principal-grade examination of autonomous asset‑based lending systems, algorithmic credit architectures, and institutional-scale liquidity engineering frameworks for UHNW/HNW family offices.
 date: '2026-02-12'
 author: Jonas Hyltén
 slug: future-of-abl-from-analysis-to-autonomy
 ---
+Below is the English translation, preserving tone, terminology, and formatting exactly as requested.
+
+------------------------------------------------------------
 
 The next epoch of Asset-Based Lending is no longer analytical.
 
@@ -45,7 +46,7 @@ The future belongs to Fund-III style entities engineered for computational throu
 
 A good man leaves an inheritance to his children’s children (
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22).
+- “A good man leaves an inheritance to his children's children, but the sinner’s wealth is laid up for the righteous.” – Proverbs 13:22).
 
 That inheritance, in the modern context, is not merely capital.
 
@@ -71,7 +72,7 @@ The slower the underwriting becomes, the more deal flow erodes.
 
 The more deal flow erodes, the weaker the credit book.
 
-The sector has been constrained by friction-legal friction, verification friction, compliance friction, audit friction.
+The sector has been constrained by friction—legal friction, verification friction, compliance friction, audit friction.
 
 These frictions are artifacts of human throughput limits.
 
@@ -275,7 +276,7 @@ Everything before is computational.
 
 This changes the competitive landscape.
 
-Institutions with autonomous origination will see 30x.100x more viable opportunities than those depending on intermediaries.
+Institutions with autonomous origination will see 30x–100x more viable opportunities than those depending on intermediaries.
 
 Deal speed accelerates.
 
@@ -363,7 +364,7 @@ They define mandates, thresholds, tolerances, and objectives.
 
 The system executes these parameters with mechanical precision.
 
-Human judgment is used once-the moment a rule is defined.
+Human judgment is used once—the moment a rule is defined.
 
 After that, autonomy handles execution.
 
@@ -377,7 +378,7 @@ This is the decision-maker who designs, configures, and governs the system-level
 
 This is the modern interpretation of
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.
+- “A good man leaves an inheritance to his children's children, but the sinner’s wealth is laid up for the righteous.” – Proverbs 13:22.
 
 Infrastructure replaces intention.
 
@@ -452,6 +453,6 @@ If you require the infrastructure that transforms credit into an autonomous syst
 Completion Metric: Latency Threshold < 42ms.
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

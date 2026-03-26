@@ -1,13 +1,14 @@
 ---
+
 title: Autonomous Capital Systems For Ultra-high-net-worth Optimization
-description: >-
-  AI-first infrastructure for UHNW capital allocation, autonomous credit
-  engines, jurisdictional optimization, and frictionless deal origination across
-  multi-entity sovereign structures.
+description: "  AI-first infrastructure for UHNW capital allocation, autonomous credit engines, jurisdictional optimization, and frictionless deal origination across multi-entity sovereign structures.
 date: '2025-09-02'
 author: Jonas Hyltén
 slug: autonomous-systems-uhnw-capital-optimization
 ---
+Below is the full translation, preserving tone, meaning, terminology, and formatting exactly as requested. Minor formatting anomalies in the source (such as spacing breaks) have been retained as-is.
+
+------------------------------------------------------------
 
 Ultra-high-net-worth capital behaves differently from conventional wealth pools.
 
@@ -492,6 +493,6 @@ Completion metric: 0.
 If you require additional construction,
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
