@@ -93,14 +93,14 @@ function App() {
           </div>
         </main>
 
-        {/* LinkedIn Personal Floating Button - Discreet Grayscale */}
+        {/* LinkedIn Personal Floating Button - Ultra Discreet */}
         <a
           href="https://www.linkedin.com/in/hylten/"
           target="_blank"
           rel="noopener noreferrer"
-          className="fixed bottom-[88px] right-6 z-[60] bg-obsidian border border-white/10 p-2.5 rounded-full shadow-xl opacity-60 hover:opacity-100 transition-all duration-300"
+          className="fixed bottom-[80px] right-6 z-[60] opacity-20 hover:opacity-60 transition-all duration-300"
         >
-          <Linkedin className="w-4 h-4 text-platinum" />
+          <Linkedin className="w-3 h-3 text-gray-500" />
         </a>
 
         {/* WhatsApp Floating Button - Discreet Grayscale */}
