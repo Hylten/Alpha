@@ -74,7 +74,7 @@ async function generateSEO() {
 
     // 1. Generate Index Page with Pre-rendered content for FCP
     let listHtml = '<div style="background: #0a0a0a !important; min-height: 100vh; padding: 180px 24px; color: #E5E7EB; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
-    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #C5A059 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Intelligence <span style="font-style: italic; color: #333; font-weight: 300;">Archive</span></h1>';
+    listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #F3F4F6 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Intelligence <span style="font-style: italic; color: #333; font-weight: 300;">Archive</span></h1>';
     listHtml += '<p style="font-size: 1.25rem; color: #9CA3AF; max-width: 700px; margin: 0 auto 200px; line-height: 1.6; font-weight: 300; text-align: center;">Proprietary research on agentic AI infrastructure, private debt architecture, and the technical mechanics of sovereign capital migration.</p>';
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
@@ -93,12 +93,12 @@ async function generateSEO() {
 
         listHtml += `
             <article style="margin-bottom: 300px; width: 100%; max-width: 900px; display: flex; flex-direction: column; align-items: center; text-align: center; padding-bottom: 150px; border-bottom: 1px solid rgba(255,255,255,0.05);">
-                <div style="font-size: 11px; color: #C5A059; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 80px; font-weight: 700; opacity: 0.8;">Release &mdash; ${date}</div>
+                <div style="font-size: 11px; color: #F3F4F6; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 80px; font-weight: 700; opacity: 0.8;">Release &mdash; ${date}</div>
                 <a href="/Alpha/intelligence/${slug}/" style="text-decoration: none !important; color: #E5E7EB !important; display: block; width: 100%;">
-                    <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #C5A059 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${title}</h2>
+                    <h2 style="font-size: clamp(2.2rem, 5vw, 4.2rem); color: #F3F4F6 !important; margin-bottom: 40px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: center; max-width: 850px; margin-left: auto; margin-right: auto;">${title}</h2>
                     <p style="font-size: 1.25rem; color: #9CA3AF !important; line-height: 1.8; font-weight: 300; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
                     <div style="display: flex; flex-direction: column; align-items: center;">
-                        <span style="color: #E5E7EB; font-size: 10px; text-transform: uppercase; letter-spacing: 4px; font-weight: 700; border-bottom: 1px solid #C5A059; padding-bottom: 8px;">Access Intelligence</span>
+                        <span style="color: #E5E7EB; font-size: 10px; text-transform: uppercase; letter-spacing: 4px; font-weight: 700; border-bottom: 1px solid #F3F4F6; padding-bottom: 8px;">Access Intelligence</span>
                     </div>
                 </a>
             </article>`;
@@ -107,7 +107,7 @@ async function generateSEO() {
 
     const sharedButtons = `
         <div style="display: flex; justify-content: center; margin-top: 100px; padding-bottom: 60px; width: 100%;">
-          <a href="/Alpha/" style="padding: 10px 24px; background: rgba(10,10,10,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #C5A059; text-decoration: none; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,0.5); font-family: sans-serif; font-weight: 500;">
+          <a href="/Alpha/" style="padding: 10px 24px; background: rgba(10,10,10,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #F3F4F6; text-decoration: none; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,0.5); font-family: sans-serif; font-weight: 500;">
             Return Home
           </a>
         </div>
@@ -169,7 +169,7 @@ async function generateSEO() {
 
         const contentHtml = `<div style="background: #0a0a0a; min-height: 100vh; padding: 220px 24px; color: #E5E7EB; font-family: 'Inter', sans-serif;">
             <div style="max-width: 820px; margin: 0 auto;">
-                <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #C5A059; margin-bottom: 80px; line-height: 1.1; font-weight: 300;">${title}</h1>
+                <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #F3F4F6; margin-bottom: 80px; line-height: 1.1; font-weight: 300;">${title}</h1>
                 <div style="line-height: 2.2; font-size: 1.25rem; color: #D1D5DB !important; font-weight: 300; width: 100%; text-align: left; margin-bottom: 120px;">
                     ${content.split('\n').map(p => {
                         const trimmed = p.trim();
@@ -178,15 +178,15 @@ async function generateSEO() {
                         // Handle headers #, ##, ### (with or without space)
                         if (trimmed.startsWith('###')) {
                             const headerText = trimmed.replace(/^###\s*/, '');
-                            return `<h3 style="font-size: 1.8rem; color: #C5A059; margin: 80px 0 40px; font-weight: 500; font-family: serif; line-height: 1.2; text-align: left;">${headerText}</h3>`;
+                            return `<h3 style="font-size: 1.8rem; color: #F3F4F6; margin: 80px 0 40px; font-weight: 500; font-family: serif; line-height: 1.2; text-align: left;">${headerText}</h3>`;
                         }
                         if (trimmed.startsWith('##')) {
                             const headerText = trimmed.replace(/^##\s*/, '');
-                            return `<h2 style="font-size: 2.4rem; color: #C5A059; margin: 100px 0 50px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: left;">${headerText}</h2>`;
+                            return `<h2 style="font-size: 2.4rem; color: #F3F4F6; margin: 100px 0 50px; font-weight: 400; font-family: serif; line-height: 1.2; text-align: left;">${headerText}</h2>`;
                         }
                         if (trimmed.startsWith('#')) {
                             const headerText = trimmed.replace(/^#\s*/, '');
-                            return `<h2 style="font-size: 3.2rem; color: #C5A059; margin: 120px 0 60px; font-weight: 300; font-family: serif; line-height: 1.1; text-align: left;">${headerText}</h2>`;
+                            return `<h2 style="font-size: 3.2rem; color: #F3F4F6; margin: 120px 0 60px; font-weight: 300; font-family: serif; line-height: 1.1; text-align: left;">${headerText}</h2>`;
                         }
 
 
