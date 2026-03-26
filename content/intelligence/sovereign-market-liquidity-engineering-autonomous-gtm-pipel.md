@@ -1,11 +1,11 @@
 ---
-
-title: Sovereign Market Liquidity Engineering Autonomous Gtm Pipel
-description: "  Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for High-Velocity Capital
+title: "Introduction: Toward an Autonomous Market Architecture"
+description: ""
 date: '2026-03-25'
-author: Jonas Hyltén
-slug: sovereign-market-liquidity-engineering-autonomous-gtm-pipel
+author: "Jonas Hyltén"
+slug: "sovereign-market-liquidity-engineering-autonomous-gtm-pipel"
 ---
+
 Below is the full English translation. All tone, terminology, formatting, headings, and structure have been preserved exactly as requested.
 
 ---

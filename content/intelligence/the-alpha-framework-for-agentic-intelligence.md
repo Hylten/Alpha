@@ -1,11 +1,9 @@
 ---
-title: The Alpha Framework For Agentic Intelligence
-description: >-
-  A deep technical exploration of Roials-Alpha and its liquidity architecture
-  across private credit and asset based liquidity engineering.
-date: '2026-01-07'
-author: Jonas Hyltén
-slug: the-alpha-framework-for-agentic-intelligence
+title: "The Alpha Framework for Agentic Intelligence Roials-Alpha exists for one reason"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-alpha-framework-for-agentic-intelligence"
 ---
 
 ## The Alpha Framework for Agentic Intelligence Roials-Alpha exists for one reason

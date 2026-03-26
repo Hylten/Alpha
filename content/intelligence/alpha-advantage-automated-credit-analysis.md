@@ -1,11 +1,11 @@
 ---
-
-title: The Alpha Advantage In Automated Credit Analysis
-description: "  A principal-grade exposition on AI-first credit architecture, autonomous underwriting, liquidity engineering, and institutional alpha capture for UHNW/HNW family offices operating across private credit cycles.
-date: '2025-07-04'
-author: Jonas Hyltén
-slug: alpha-advantage-automated-credit-analysis
+title: "Layer: Machine-brain consolidation"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "alpha-advantage-automated-credit-analysis"
 ---
+
 Private credit scales when friction dies.
 
 Alpha appears when latency collapses.

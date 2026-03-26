@@ -1,11 +1,11 @@
 ---
-
-title: Agentic Systems And The New Architecture Of Pe Dealflow
-description: "  Agentic Systems and the New Architecture of PE Dealflow | Institutional Briefing by Roials-Alpha
-date: '2026-03-01'
-author: Jonas Hyltén
-slug: agentic-systems-and-the-new-architecture-of-pe-dealflow
+title: "Agentic Systems and the New Architecture of PE Dealflow"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-systems-and-the-new-architecture-of-pe-dealflow"
 ---
+
 ## Agentic Systems and the New Architecture of PE Dealflow  
 The Quiet Replacement of Manual Sourcing  
 

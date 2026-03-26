@@ -1,11 +1,11 @@
 ---
-
-title: Agentic Infrastructure For High Net Worth Portfolios The Te
-description: "  Agentic Infrastructure för High-Net-Worth Portföljer: Den Tekniska Mekaniken bakom Suverän Avkastning och Asset Hardening
+title: "Introduction: Agentic dominance as a capital strategy"
+description: ""
 date: '2026-03-25'
-author: Jonas Hyltén
-slug: agentic-infrastructure-for-high-net-worth-portfolios-the-te
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-for-high-net-worth-portfolios-the-te"
 ---
+
 Agentic Infrastructure for High-Net-Worth Portfolios: The Technical Mechanics Behind Sovereign Returns and Asset Hardening
 
 ## Introduction: Agentic dominance as a capital strategy

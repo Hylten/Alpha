@@ -1,11 +1,11 @@
 ---
-
-title: 'Sovereign Ai: Architecting The Digital Balance Sheet'
-description: "  A high-end strategic analysis of AI structured liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital architecture.
-date: '2025-08-06'
-author: Jonas Hyltén
-slug: sovereign-ai-architecting-the-digital-balance-sheet
+title: "Sovereign AI: Architecting the Digital Balance Sheet Sovereign AI is no longer a frontier concept"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "sovereign-ai-architecting-the-digital-balance-sheet"
 ---
+
 Here is the translation, with tone, terminology, and formatting preserved:
 
 ## Sovereign AI: Architecting the Digital Balance Sheet Sovereign AI is no longer a frontier concept

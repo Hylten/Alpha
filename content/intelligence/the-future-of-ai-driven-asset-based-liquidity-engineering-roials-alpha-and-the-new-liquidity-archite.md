@@ -1,15 +1,9 @@
 ---
-title: >-
-  The Future Of Ai-driven Asset-based Liquidity Engineering: Roials-alpha And
-  The New Liquidity Architecture
-description: >-
-  Explore how Roials-Alpha is redefining liquidity through AI-driven private
-  credit and asset-based Institutional Liquidity Paths for HNWI and UHNW
-  clients.
-date: '2025-09-15'
-author: Jonas Hyltén
-slug: >-
-  the-future-of-ai-driven-asset-based-liquidity-engineering-roials-alpha-and-the-new-liquidity-archite
+title: "The Future of AI-Driven Asset-Based Capital Structuring The next phase of global Strategic Collateralization is not arriving slowly"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-future-of-ai-driven-asset-based-liquidity-engineering-roials-alpha-and-the-new-liquidity-archite"
 ---
 
 ## The Future of AI-Driven Asset-Based Capital Structuring The next phase of global Strategic Collateralization is not arriving slowly

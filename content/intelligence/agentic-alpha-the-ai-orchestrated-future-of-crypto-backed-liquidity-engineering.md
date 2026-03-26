@@ -1,14 +1,9 @@
 ---
-title: >-
-  Agentic Alpha: The Ai-orchestrated Future Of Crypto-backed Liquidity
-  Engineering
-description: >-
-  How AI-first GTM infrastructure and cryptographic liquidity mechanisms create
-  sovereign market control for institutional-grade capital.
-date: '2025-10-20'
-author: Jonas Hyltén
-slug: >-
-  agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering
+title: "Agentic Alpha: The AI-Orchestrated Future of Crypto-Backed Liquidity Engineering"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering"
 ---
 
 ## Agentic Alpha: The AI-Orchestrated Future of Crypto-Backed Liquidity Engineering

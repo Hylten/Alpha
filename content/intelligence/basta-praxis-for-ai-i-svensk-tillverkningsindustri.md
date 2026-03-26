@@ -1,11 +1,11 @@
 ---
-
-title: Basta Praxis For Ai I Svensk Tillverkningsindustri
-description: "  Swedish manufacturing is entering a phase where speed, precision, and predictive control define competitiveness.
+title: "Best Practices for AI in Swedish Manufacturing"
+description: ""
 date: '2026-03-25'
-author: Jonas Hyltén
-slug: basta-praxis-for-ai-i-svensk-tillverkningsindustri
+author: "Jonas Hyltén"
+slug: "basta-praxis-for-ai-i-svensk-tillverkningsindustri"
 ---
+
 ## Best Practices for AI in Swedish Manufacturing
 
 ## The New Era of Industrial Intelligence

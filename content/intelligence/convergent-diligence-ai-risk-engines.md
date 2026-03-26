@@ -1,11 +1,11 @@
 ---
-
-title: The Principal Architecture Of Convergent Diligence
-description: "  A high-resolution briefing on the fusion of private equity diligence, LLM‑based risk engines, and agentic infrastructures calibrated for algorithmic deal flow and AI-first credit architecture.
-date: '2025-11-02'
-author: Jonas Hyltén
-slug: convergent-diligence-ai-risk-engines
+title: "Layer CL: ears the path before the human even enters the room"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "convergent-diligence-ai-risk-engines"
 ---
+
 The convergence began the moment information density exceeded human processing speed.
 
 Private equity diligence, even at its most refined, was built on human tempo.

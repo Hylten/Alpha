@@ -1,11 +1,11 @@
 ---
-
-title: 'Automating The Buy, Borrow, Die Strategy For Perpetual Liquidity'
-description: "  A high-authority breakdown of how autonomous infrastructure, private credit, and asset based liquidity engineering create institutional-grade liquidity for HNWI and UHNW entities.
-date: '2025-09-03'
-author: Jonas Hyltén
-slug: automating-the-buy-borrow-die-strategy-for-perpetual-liquidity
+title: "Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is strongest when it is never sold"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "automating-the-buy-borrow-die-strategy-for-perpetual-liquidity"
 ---
+
 ## Automating the Buy, Borrow, Die Strategy The wealth preservation class has always known that capital is strongest when it is never sold
 
 .

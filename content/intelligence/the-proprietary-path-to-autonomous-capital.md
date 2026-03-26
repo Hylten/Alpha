@@ -1,12 +1,9 @@
 ---
-title: The Proprietary Path To Autonomous Capital
-description: >-
-  A high-authority exploration of Roials-Alpha liquidity structures, private
-  credit, and asset based liquidity engineering engineered for HNWI and UHNW
-  capital autonomy.
-date: '2025-06-24'
-author: Jonas Hyltén
-slug: the-proprietary-path-to-autonomous-capital
+title: "The Proprietary Path to Autonomous Capital Capital is no longer passive"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-proprietary-path-to-autonomous-capital"
 ---
 
 ## The Proprietary Path to Autonomous Capital Capital is no longer passive

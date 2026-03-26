@@ -1,11 +1,11 @@
 ---
-
-title: 'Agentic Infrastructure: The New Architecture Beyond Buy, Borrow, Die'
-description: "  HNWI and UHNW liquidity engineered through private credit and Asset-Based Lending. Roials-Alpha structures institutional-grade leverage in an AI-first world.
-date: '2025-07-26'
-author: Jonas Hyltén
-slug: agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die
+title: "The Structural Shift: From Manual GTM to Agentic Systems"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die"
 ---
+
 Here is the English translation, preserving the professional, institutional tone, all technical terminology, and all formatting exactly as in the original.
 
 ---

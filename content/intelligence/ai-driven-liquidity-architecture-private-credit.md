@@ -1,13 +1,9 @@
 ---
-title: Ai‑driven Liquidity Architecture For High Velocity Private Credit
-description: >-
-  Institutional brief on algorithmic private‑credit systems, autonomous
-  underwriting stacks, and real‑time liquidity engineering frameworks for
-  UHNW/HNW family offices operating across multi‑jurisdictional velocity
-  corridors.
-date: '2025-08-05'
-author: Jonas Hyltén
-slug: ai-driven-liquidity-architecture-private-credit
+title: "Layer M: ust connect"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-driven-liquidity-architecture-private-credit"
 ---
 
 Private credit accelerates when noise collapses.

@@ -1,11 +1,11 @@
 ---
-
-title: Autonomous Capital Systems For Ultra-high-net-worth Optimization
-description: "  AI-first infrastructure for UHNW capital allocation, autonomous credit engines, jurisdictional optimization, and frictionless deal origination across multi-entity sovereign structures.
-date: '2025-09-02'
-author: Jonas Hyltén
-slug: autonomous-systems-uhnw-capital-optimization
+title: "Layer D ecides only when models flag anomalies or political conditions shift."
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "autonomous-systems-uhnw-capital-optimization"
 ---
+
 Below is the full translation, preserving tone, meaning, terminology, and formatting exactly as requested. Minor formatting anomalies in the source (such as spacing breaks) have been retained as-is.
 
 ------------------------------------------------------------

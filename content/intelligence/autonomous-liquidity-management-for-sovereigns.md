@@ -1,11 +1,11 @@
 ---
-
-title: Autonomous Liquidity Management For Sovereigns
-description: "  A high‑authority exploration of autonomous liquidity mechanics, private credit, and asset‑based liquidity engineering systems designed for sovereigns, HNWI, and UHNW clients seeking structural leverage infrastructure.
-date: '2025-11-04'
-author: Jonas Hyltén
-slug: autonomous-liquidity-management-for-sovereigns
+title: "Autonomous Liquidity Management for Sovereigns Liquidity is no longer a matter of Access is restricted to approved mandates"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "autonomous-liquidity-management-for-sovereigns"
 ---
+
 ## Autonomous Liquidity Management for Sovereigns Liquidity is no longer a matter of Access is restricted to approved mandates
 
 .

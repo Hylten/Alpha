@@ -1,11 +1,9 @@
 ---
-title: Agentic Infrastructure For Global Capital Markets
-description: >-
-  Advanced liquidity architecture for private credit and asset based liquidity
-  engineering, engineered for HNWI and UHNW capital optimization.
-date: '2025-09-25'
-author: Jonas Hyltén
-slug: agentic-infrastructure-for-global-capital-markets
+title: "Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-for-global-capital-markets"
 ---
 
 ## Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow  

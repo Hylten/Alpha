@@ -1,11 +1,11 @@
 ---
-
-title: The Principal Architecture Of Contractual Autonomy
-description: "  A deep structural analysis of smart‑contract execution layers for direct‑lending term sheets, built for algorithmic deal flow, AI‑first credit architecture, and institutional-grade velocity.
-date: '2025-11-12'
-author: Jonas Hyltén
-slug: smart-contract-execution-layers-direct-lending-term-sheets
+title: "Vault-secured."
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "smart-contract-execution-layers-direct-lending-term-sheets"
 ---
+
 Precision defines the domain.
 
 Smart-contract execution layers transform direct lending from a sequence of human‑held bottlenecks into a self‑enforcing architecture.

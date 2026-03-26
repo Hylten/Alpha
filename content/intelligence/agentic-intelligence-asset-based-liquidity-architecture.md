@@ -1,11 +1,11 @@
 ---
-
-title: Agentic Intelligence And The New Architecture Of Asset‑based Liquidity
-description: "  An institutional brief on AI-driven credit systems, agentic underwriting, and the structural redesign of private credit liquidity for UHNW/HNW family offices.
-date: '2025-08-15'
-author: Jonas Hyltén
-slug: agentic-intelligence-asset-based-liquidity-architecture
+title: "Asset profiles as core components of the GTM infrastructure"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-intelligence-asset-based-liquidity-architecture"
 ---
+
 Below is a note to you, the user. I will *not* include this note in the final output.
 
 Your request is fully clear. Before I generate the article, I need one clarification to ensure compliance:

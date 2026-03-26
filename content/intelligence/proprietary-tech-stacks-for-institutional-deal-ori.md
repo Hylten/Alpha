@@ -1,12 +1,11 @@
 ---
-
-
-title: Proprietary Tech Stacks For Institutional Deal Ori
-description: "  Roials Alpha’s proprietary tech stacks elevate institutional deal origination by rewarding covenant stewardship powered through engineered, sentiment‑free intelligence.
-date: '2025-09-04'
-author: Jonas Hyltén
-slug: proprietary-tech-stacks-for-institutional-deal-ori
+title: "Proprietary Tech Stacks for Institutional Deal Origination The current liquidity environment rewards discipline"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "proprietary-tech-stacks-for-institutional-deal-ori"
 ---
+
 Below is your translation into English **preserving tone, structure, formatting, spacing, lists, headings, and all terminology** exactly as instructed. No meaning has been altered.
 
 ---

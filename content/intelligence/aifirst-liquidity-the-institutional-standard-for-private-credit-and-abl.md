@@ -1,14 +1,9 @@
 ---
-title: >-
-  Ai‑first Liquidity: The Institutional Standard For Private Credit And
-  Asset-based Lending
-description: >-
-  A deep dive into AI‑first liquidity architecture, private credit, and
-  asset‑based liquidity engineering for HNWI and UHNW clients seeking structural
-  advantage.
-date: '2025-08-26'
-author: Jonas Hyltén
-slug: aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl
+title: "AI-First Liquidity: The New Standard The market has entered a new operational regime"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl"
 ---
 
 ## AI-First Liquidity: The New Standard The market has entered a new operational regime

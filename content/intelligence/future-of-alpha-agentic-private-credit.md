@@ -1,11 +1,11 @@
 ---
-
-title: 'The Future Of Alpha: Agentic Infrastructure For Private Credit Dominance'
-description: "  Institutional analysis of AI-driven private credit architectures, agentic underwriting systems, algorithmic deal sourcing, and balance sheet optimization frameworks that are reshaping the performance frontier for UHNW and institutional allocators.
-date: '2025-06-22'
-author: Jonas Hyltén
-slug: future-of-alpha-agentic-private-credit
+title: "Phase C reated a new performance threshold and a new challenge for allocators."
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "future-of-alpha-agentic-private-credit"
 ---
+
 Below is the English translation, preserving tone, meaning, terminology, and formatting exactly as requested.
 
 ---

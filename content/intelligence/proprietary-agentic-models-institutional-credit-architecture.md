@@ -1,11 +1,11 @@
 ---
-
-title: Proprietary Agentic Models For Institutional Credit Architecture
-description: "  A high-density institutional briefing on autonomous deal origination systems, agentic credit intelligence, and the structural transition toward AI-led private credit execution for UHNW family offices.
-date: '2025-06-27'
-author: Jonas Hyltén
-slug: proprietary-agentic-models-institutional-credit-architecture
+title: "Summary"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "proprietary-agentic-models-institutional-credit-architecture"
 ---
+
 The structural gap shaping North American private credit is not driven by scarcity of opportunities.
 
 It is a function of operational latency inside traditional underwriting systems that were engineered for a pre‑autonomous era.

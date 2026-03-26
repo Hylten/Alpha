@@ -1,11 +1,11 @@
 ---
-
-title: Ai Powered Liquidity Architecture For Sovereign Level Capital Movements
-description: "  An institutional briefing on algorithmic liquidity systems, AI structured credit engines, machine governed allocation pathways, and the emerging architecture powering sovereign scale capital navigation across global private markets.
-date: '2025-06-28'
-author: Jonas Hyltén
-slug: ai-powered-liquidity-architecture-sovereign-capital
+title: "Layer C: constructs underwriting determinations based on"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-powered-liquidity-architecture-sovereign-capital"
 ---
+
 Here is the English translation, preserving tone, structure, terminology, and formatting exactly as requested.
 
 ---

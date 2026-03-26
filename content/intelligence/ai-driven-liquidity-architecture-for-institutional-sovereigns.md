@@ -1,11 +1,11 @@
 ---
-
-title: Ai-driven Liquidity Architecture For Institutional Sovereigns
-description: "  A technically dominant exploration of AI-driven liquidity, private credit, and institutional-grade Asset-Based Lending frameworks engineered for HNWI and UHNW capital.
-date: '2025-10-04'
-author: Jonas Hyltén
-slug: ai-driven-liquidity-architecture-for-institutional-sovereigns
+title: "AI-Driven Liquidity for Institutional Sovereigns Institutional capital no longer reacts, it anticipates"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-driven-liquidity-architecture-for-institutional-sovereigns"
 ---
+
 ## AI-Driven Liquidity for Institutional Sovereigns Institutional capital no longer reacts, it anticipates
 
 .

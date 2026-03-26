@@ -1,11 +1,11 @@
 ---
-
-title: Ai Orchestrated Co Investment Syndicates Without Intermediaries
-description: "  Ai Orchestrated Co Investment Syndicates Without Intermediaries | Institutional Briefing by Roials-Alpha
-date: '2026-03-01'
-author: Jonas Hyltén
-slug: ai-orchestrated-co-investment-syndicates-without-intermediaries
+title: "AI Orchestrated Co‑Investment Syndicates Without Intermediaries"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-orchestrated-co-investment-syndicates-without-intermediaries"
 ---
+
 ## AI Orchestrated Co‑Investment Syndicates Without Intermediaries
 
 Institutional Briefing on Autonomous Deal Flow, Multi‑Agent Syndication, and Cross‑Border Capital Coordination

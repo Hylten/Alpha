@@ -1,12 +1,9 @@
 ---
-title: 'The Future Of Alpha: Agentic Infrastructure For Private Credit Dominance'
-description: >-
-  High net worth liquidity engineering through private credit and asset based
-  Monetization Architecture. Strategic insight into future agentic
-  infrastructure for accelerated capital velocity.
-date: '2025-10-29'
-author: Jonas Hyltén
-slug: the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance
+title: "The Future of Alpha: Agentic Infrastructure Alpha is no longer extracted"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance"
 ---
 
 ## The Future of Alpha: Agentic Infrastructure Alpha is no longer extracted

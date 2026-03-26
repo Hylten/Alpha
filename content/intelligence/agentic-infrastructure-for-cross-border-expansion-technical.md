@@ -1,11 +1,11 @@
 ---
-
-title: Agentic Infrastructure For Cross Border Expansion Technical
-description: "  Agentisk infrastruktur för gränsöverskridande expansion: Tekniska protokoll för multijurisdiktionell tillväxt
+title: "Operationalization of Agentic Capacity in Multinational Environments"
+description: ""
 date: '2026-03-25'
-author: Jonas Hyltén
-slug: agentic-infrastructure-for-cross-border-expansion-technical
+author: "Jonas Hyltén"
+slug: "agentic-infrastructure-for-cross-border-expansion-technical"
 ---
+
 Below is the English translation, preserving tone, meaning, structure, formatting, and all technical terminology.
 
 ----------------------------------------------

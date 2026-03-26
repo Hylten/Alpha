@@ -1,11 +1,11 @@
 ---
-
-title: Agentic Gtm Infrastructure Ai First Institutional Architect
-description: "  Agentic GTM Infrastructure: AI-First Institutional Architecture for Global Market Dominance
+title: "The new architecture for agent-driven go-to-market"
+description: ""
 date: '2026-03-25'
-author: Jonas Hyltén
-slug: agentic-gtm-infrastructure-ai-first-institutional-architect
+author: "Jonas Hyltén"
+slug: "agentic-gtm-infrastructure-ai-first-institutional-architect"
 ---
+
 Agentic GTM Infrastructure: AI-First Institutional Architecture for Global Market Dominance
 
 ## The new architecture for agent-driven go-to-market

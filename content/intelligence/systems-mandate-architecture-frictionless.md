@@ -1,11 +1,11 @@
 ---
-
-title: 'The Systems Mandate: Architecture For Frictionless Institutional Execution'
-description: "  A high density institutional briefing on AI first credit architecture, algorithmic deal flow, and the strategic systems mandate reshaping private capital operations for UHNWIs and family offices.
-date: '2025-07-21'
-author: Jonas Hyltén
-slug: systems-mandate-architecture-frictionless
+title: "Layer D: oes not replace human governance"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "systems-mandate-architecture-frictionless"
 ---
+
 The capital vacuum in North America is a function of operational drag, legacy processes, and regulatory friction that accumulated faster than institutional systems evolved.
 
 The market did not become inefficient because capital withdrew.

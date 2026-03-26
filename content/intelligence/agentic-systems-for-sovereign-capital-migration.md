@@ -1,11 +1,11 @@
 ---
-
-title: Agentic Systems For Sovereign Capital Migration
-description: "  High‑precision liquidity engineering using private credit and asset based Strategic Collateralization structures for HNWI and UHNW capital velocity.
-date: '2025-10-02'
-author: Jonas Hyltén
-slug: agentic-systems-for-sovereign-capital-migration
+title: "Agentic Systems for Sovereign Capital Migration The architecture of global wealth is shifting"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-systems-for-sovereign-capital-migration"
 ---
+
 ## Agentic Systems for Sovereign Capital Migration The architecture of global wealth is shifting
 
 .

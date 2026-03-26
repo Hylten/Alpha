@@ -1,14 +1,9 @@
 ---
-title: >-
-  Agentic Dealflow Architecture For The Hnw Era: High Frequency Liquidity
-  Structuring At Institutional Precision
-description: >-
-  An institutional grade analysis on agentic capital structuring, liquidity
-  engineering, and next generation deal mechanics for UHNW and mid market
-  private equity mandates entering 2026.
-date: '2025-11-06'
-author: Jonas Hyltén
-slug: agentic-liquidity-structuring-hnw-era-2026
+title: "Conclusion"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-liquidity-structuring-hnw-era-2026"
 ---
 
 [START INTELLIGENCE REPORT]

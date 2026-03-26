@@ -1,12 +1,9 @@
 ---
-title: The Proprietary Model For Automated Asset Hardening
-description: >-
-  An institutional architecture briefing detailing AI-first asset hardening,
-  automated credit scaffolds, and Roials-Alpha private capital infrastructure
-  engineered for UHNW/HNW family offices.
-date: '2026-01-17'
-author: Jonas Hyltén
-slug: proprietary-model-automated-asset-hardening
+title: "Layer M ust remain aggressive, mobile, and algorithmically optimized."
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "proprietary-model-automated-asset-hardening"
 ---
 
 The modern capital estate requires insulation, leverage, velocity, and a controlled dissociation between personal wealth and operational risk surfaces.

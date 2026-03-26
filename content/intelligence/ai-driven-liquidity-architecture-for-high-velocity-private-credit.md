@@ -1,12 +1,9 @@
 ---
-title: Ai Driven Liquidity Architecture For High Velocity Private Credit
-description: >-
-  An advanced exploration of AI powered liquidity infrastructure for Private
-  Credit and Asset Based liquidity engineering, tailored for high velocity deal
-  flow.
-date: '2025-08-14'
-author: Jonas Hyltén
-slug: ai-driven-liquidity-architecture-for-high-velocity-private-credit
+title: "AI Driven Liquidity for High Velocity Deals Roials Alpha operates in a world where speed is synonymous with advantage"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-driven-liquidity-architecture-for-high-velocity-private-credit"
 ---
 
 ## AI Driven Liquidity for High Velocity Deals Roials Alpha operates in a world where speed is synonymous with advantage

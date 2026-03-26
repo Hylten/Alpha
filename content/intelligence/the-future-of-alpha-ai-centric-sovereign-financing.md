@@ -1,11 +1,11 @@
 ---
-
-title: 'The Future Of Alpha: Ai Centric Sovereign Financing'
-description: "  A high authority analysis on AI driven liquidity, private credit, and Asset-Based Lending mechanics for HNWI and UHNW capital optimization.
-date: '2025-11-05'
-author: Jonas Hyltén
-slug: the-future-of-alpha-ai-centric-sovereign-financing
+title: "The Future of Alpha: AI‑Centric Sovereign Financing"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-future-of-alpha-ai-centric-sovereign-financing"
 ---
+
 ## The Future of Alpha: AI‑Centric Sovereign Financing  
 The next era of wealth creation will not be negotiated across conference tables.
 

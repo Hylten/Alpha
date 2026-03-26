@@ -1,12 +1,11 @@
 ---
-
-
-title: 'The Alpha Framework: Engineering Proprietary Credi'
-description: "  A disciplined framework for principals who engineer credit as foundational infrastructure rather than a transactional product.
-date: '2025-09-03'
-author: Jonas Hyltén
-slug: the-alpha-framework-engineering-proprietary-credi
+title: "The Alpha Framework Engineering Proprietary Credit Models Roials-Alpha Principal Doctrine"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-alpha-framework-engineering-proprietary-credi"
 ---
+
 The text you provided is already entirely in English.  
 Because you requested that tone, terminology, formatting, and meaning be preserved exactly, the correct translation output is an identical reproduction of the text.
 

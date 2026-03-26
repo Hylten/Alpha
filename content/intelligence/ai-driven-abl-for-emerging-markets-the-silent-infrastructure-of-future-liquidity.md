@@ -1,14 +1,9 @@
 ---
-title: >-
-  Ai-driven Asset-based Lending For Emerging Markets: The Silent Infrastructure
-  Of Future Liquidity
-description: >-
-  An advanced breakdown of how AI-driven Asset-Based liquidity engineering
-  unlocks liquidity in emerging markets for HNWI and UHNW portfolios.
-date: '2026-01-31'
-author: Jonas Hyltén
-slug: >-
-  ai-driven-abl-for-emerging-markets-the-silent-infrastructure-of-future-liquidity
+title: "AI-Driven Asset-Based Lending for Emerging Markets Emerging markets have entered a structural realignment"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-driven-abl-for-emerging-markets-the-silent-infrastructure-of-future-liquidity"
 ---
 
 ## AI-Driven Asset-Based Lending for Emerging Markets Emerging markets have entered a structural realignment

@@ -1,11 +1,11 @@
 ---
-
-title: 'The Self-validating Data Room: The Next Frontier Of Autonomous Private Markets'
-description: "  A principal-level architecture brief on autonomous data rooms, agentic verification engines, and AI-first deal execution structures for next‑generation private markets.
-date: '2026-01-21'
-author: Jonas Hyltén
-slug: autonomous-data-rooms-and-agentic-private-markets
+title: "Conclusion"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "autonomous-data-rooms-and-agentic-private-markets"
 ---
+
 Here is the translation, with tone, terminology, structure, and formatting fully preserved:
 
 ---

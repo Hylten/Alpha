@@ -1,11 +1,9 @@
 ---
-title: Agentic Systems In Fund Iii Operations
-description: >-
-  Agentic Systems in Fund III Operations | Institutional Briefing by
-  Roials-Alpha
-date: '2026-03-01'
-author: Jonas Hyltén
-slug: agentic-systems-in-fund-iii-operations
+title: "Agentic Systems in Fund III Operation s Fund III operations require a structural shift."
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-systems-in-fund-iii-operations"
 ---
 
 ## Agentic Systems in Fund III Operation s Fund III operations require a structural shift.

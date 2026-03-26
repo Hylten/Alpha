@@ -1,11 +1,11 @@
 ---
-
-title: 'Algorithmic Alpha: Removing Human Subjectivity Fro'
-description: "  Algorithmic Alpha reveals how removing human subjectivity unlocks sharper, more consistent performance powered purely by data-driven precision.
-date: '2025-12-21'
-author: Jonas Hyltén
-slug: algorithmic-alpha-removing-human-subjectivity-fro
+title: "Algorithmic Alpha Removing Human Subjectivity from Credit Institutional credit functions well when human interpretation is minimized."
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "algorithmic-alpha-removing-human-subjectivity-fro"
 ---
+
 Below is the full translation, with formatting, tone, and all technical terminology preserved exactly as requested.
 
 ---

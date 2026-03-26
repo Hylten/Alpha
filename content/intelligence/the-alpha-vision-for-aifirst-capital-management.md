@@ -1,11 +1,9 @@
 ---
-title: The Alpha Vision For Ai‑first Capital Management
-description: >-
-  A deep‑reach analysis of AI driven liquidity architecture, private credit, and
-  asset based liquidity engineering for ultra affluent capital holders.
-date: '2026-01-23'
-author: Jonas Hyltén
-slug: the-alpha-vision-for-aifirst-capital-management
+title: "The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-alpha-vision-for-aifirst-capital-management"
 ---
 
 ## The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise

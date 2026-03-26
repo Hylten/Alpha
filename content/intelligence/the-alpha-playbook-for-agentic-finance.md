@@ -1,11 +1,9 @@
 ---
-title: The Alpha Playbook For Agentic Finance
-description: >-
-  A high authority blueprint on liquidity engineering, private credit, and asset
-  based Capital Structuring for HNWI and UHNW investors.
-date: '2025-08-07'
-author: Jonas Hyltén
-slug: the-alpha-playbook-for-agentic-finance
+title: "The Alpha Playbook for Agentic Finance Agentic finance is not a trend"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-alpha-playbook-for-agentic-finance"
 ---
 
 ## The Alpha Playbook for Agentic Finance Agentic finance is not a trend

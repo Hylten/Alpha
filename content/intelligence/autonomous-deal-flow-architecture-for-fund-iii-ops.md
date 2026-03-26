@@ -1,11 +1,11 @@
 ---
-
-title: Autonomous Deal Flow Architecture For Fund-iii Ops
-description: "  A high-authority breakdown of autonomous deal flow mechanics, liquidity structuring, and advanced Asset-Based Lending optimization for HNWI and UHNW participants.
-date: '2025-11-23'
-author: Jonas Hyltén
-slug: autonomous-deal-flow-architecture-for-Fund-III-ops
+title: "Autonomous Deal Flow in Fund-III Ops"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "autonomous-deal-flow-architecture-for-fund-iii-ops"
 ---
+
 ## Autonomous Deal Flow in Fund-III Ops  
 Fund-III demands a different level of operational intelligence.
 

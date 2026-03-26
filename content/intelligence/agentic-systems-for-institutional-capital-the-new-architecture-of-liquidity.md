@@ -1,12 +1,9 @@
 ---
-title: 'Agentic Systems For Institutional Capital: The New Architecture Of Liquidity'
-description: >-
-  A deep technical insight into agentic systems that accelerate liquidity,
-  private credit, and asset based liquidity engineering for institutional-grade
-  capital.
-date: '2025-07-19'
-author: Jonas Hyltén
-slug: agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity
+title: "Agentic Systems for Institutional Capital Institutional capital has outgrown conventional infrastructure"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity"
 ---
 
 ## Agentic Systems for Institutional Capital Institutional capital has outgrown conventional infrastructure

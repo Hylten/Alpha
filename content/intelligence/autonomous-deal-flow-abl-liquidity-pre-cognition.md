@@ -1,14 +1,9 @@
 ---
-title: >-
-  Autonomous Deal Flow And The Pre Cognition Layer Of Asset-based Lending
-  Liquidity Discovery
-description: >-
-  Institutional intelligence on how AI identifies asset based liquidity before
-  human analysts detect capital formation vectors across PE Fund-III structures,
-  NAEOCC energy assets, EU MiFID II platforms, and mid market carve outs.
-date: '2025-12-26'
-author: Jonas Hyltén
-slug: autonomous-deal-flow-abl-liquidity-pre-cognition
+title: "Layer D: oes not wait for audited financials or brokered teasers"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "autonomous-deal-flow-abl-liquidity-pre-cognition"
 ---
 
 [START INTELLIGENCE REPORT] THE MANDATE

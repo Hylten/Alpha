@@ -1,11 +1,11 @@
 ---
-
-title: 'Ai First Capital Migration: Technical Protocols Fo'
-description: "  A principal-level blueprint detailing how Roials Alpha orchestrates AI‑first capital migration for high‑net‑worth and ultra‑high‑net‑worth mandates.
-date: '2026-02-22'
-author: Jonas Hyltén
-slug: ai-first-capital-migration-technical-protocols-fo
+title: "AI-First Capital Migration Technical Protocols for Global Wealth The current capital landscape is no longer a market"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-first-capital-migration-technical-protocols-fo"
 ---
+
 Below is your translation. All tone, structure, formatting, and terminology have been preserved exactly as requested.
 
 ------------------------------------------------------------

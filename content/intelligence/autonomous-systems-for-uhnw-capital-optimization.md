@@ -1,11 +1,9 @@
 ---
-title: Autonomous Systems For Uhnw Capital Optimization
-description: >-
-  A deep analysis of autonomous liquidity architecture, private credit, and
-  Asset-Based Lending mechanisms engineered for UHNW efficiency.
-date: '2026-02-25'
-author: Jonas Hyltén
-slug: autonomous-systems-for-uhnw-capital-optimization
+title: "Autonomous Systems for UHNW Capital Optimization Ultra high net worth capital is no longer optimized through manual decision cycles"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "autonomous-systems-for-uhnw-capital-optimization"
 ---
 
 ## Autonomous Systems for UHNW Capital Optimization Ultra high net worth capital is no longer optimized through manual decision cycles

@@ -1,14 +1,9 @@
 ---
-title: >-
-  Autonomous Deal Flow: How Ai Surfaces Asset-based Lending Liquidity Before
-  Humans Notice
-description: >-
-  How autonomous systems detect asset based liquidity engineering opportunities,
-  accelerate private credit liquidity, and create silent structural advantage
-  for HNWI and UHNW clients.
-date: '2025-12-16'
-author: Jonas Hyltén
-slug: autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice
+title: "Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A Traditional deal flow is slow"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice"
 ---
 
 ## Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A Traditional deal flow is slow

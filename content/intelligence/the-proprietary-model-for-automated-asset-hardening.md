@@ -1,11 +1,11 @@
 ---
-
-title: The Proprietary Model For Automated Asset Hardening
-description: "  High velocity liquidity engineering for HNWI and UHNW clients through private credit and asset based [Asset-Backed Frameworks](https://hylten.github.io/Roials Capital/). Automated asset hardening for institutional grade capital efficiency.
-date: '2026-02-21'
-author: Jonas Hyltén
-slug: the-proprietary-model-for-automated-asset-hardening
+title: "The Proprietary Model for Automated Asset Hardening Roials-Alpha operates in a space that few understand and even fewer can architect"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-proprietary-model-for-automated-asset-hardening"
 ---
+
 ## The Proprietary Model for Automated Asset Hardening Roials-Alpha operates in a space that few understand and even fewer can architect
 
 Our model for Automated Asset Hardening is a controlled system.

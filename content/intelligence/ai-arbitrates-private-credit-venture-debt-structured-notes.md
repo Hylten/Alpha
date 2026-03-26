@@ -1,11 +1,11 @@
 ---
-
-title: The Principal Architecture Of Real-time Capital Arbitration
-description: "  A high-density analytical briefing on how AI resolves the capital stack—private credit, venture debt, and structured notes—through agentic infrastructure and algorithmic deal flow.
-date: '2025-10-07'
-author: Jonas Hyltén
-slug: ai-arbitrates-private-credit-venture-debt-structured-notes
+title: "Layer D: decides"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
 ---
+
 Below is the English translation, preserving tone, meaning, formatting, and all technical terms exactly as requested.
 
 ---

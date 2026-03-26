@@ -1,11 +1,11 @@
 ---
-
-title: Agentic Systems For Complex Financial Structures
-description: "  Agentic Systems for Complex Financial Structures | Institutional Briefing by Roials-Alpha
-date: '2026-03-01'
-author: Jonas Hyltén
-slug: agentic-systems-for-complex-financial-structures
+title: "Agentic Systems for Complex Financial Structures Modern structured finance now requires architectures that operate at speeds, complexities, and thresholds that human teams cannot sustain."
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "agentic-systems-for-complex-financial-structures"
 ---
+
 Below is the full English translation with the original tone, meaning, terminology, and formatting preserved exactly as requested.
 
 ## Agentic Systems for Complex Financial Structures Modern structured finance now requires architectures that operate at speeds, complexities, and thresholds that human teams cannot sustain.

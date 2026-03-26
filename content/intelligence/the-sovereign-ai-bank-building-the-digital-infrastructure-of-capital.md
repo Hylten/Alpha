@@ -1,11 +1,11 @@
 ---
-
-title: 'The Sovereign Ai Bank: Building The Digital Infrastructure Of Capital'
-description: "  A high-authority exploration of AI powered liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW clients seeking structural capital advantages.
-date: '2025-08-31'
-author: Jonas Hyltén
-slug: the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital
+title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital"
 ---
+
 ## The Sovereign AI Bank: Building the Digital Infrastructure of Capital  
 The future of wealth is not managed, it is computed
 

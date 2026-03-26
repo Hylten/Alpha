@@ -1,11 +1,11 @@
 ---
-
-title: 'The Future Of Asset-based Lending: From Analysis To Autonomy'
-description: "  A principal-grade examination of autonomous asset‑based lending systems, algorithmic credit architectures, and institutional-scale liquidity engineering frameworks for UHNW/HNW family offices.
-date: '2026-02-12'
-author: Jonas Hyltén
-slug: future-of-abl-from-analysis-to-autonomy
+title: "Layer D: ecides"
+description: ""
+date: '2026-03-25'
+author: "Jonas Hyltén"
+slug: "future-of-abl-from-analysis-to-autonomy"
 ---
+
 Below is the English translation, preserving tone, terminology, and formatting exactly as requested.
 
 ------------------------------------------------------------
