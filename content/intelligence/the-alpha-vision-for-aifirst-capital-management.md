@@ -1,18 +1,17 @@
 ---
+
 title: "The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "the-alpha-vision-for-aifirst-capital-management"
 ---
-
-## The Alpha Vision for AI First Capital Management Roials Alpha operates on a single premise
-
-.
+## The Alpha Vision for AI First Capital Management  
+Roials Alpha operates on a single premise.
 
 Capital moves fastest when the human bottleneck is removed.
 
-AI first. autonomous infrastructure native.
+AI‑first. Autonomous infrastructure native.
 
 Institutional by structure, silent by intention.
 
@@ -26,11 +25,10 @@ We do not mirror the market.
 
 We architect the layer beneath it.
 
-The Alpha Vision Forward The future of capital is agentic
+The Alpha Vision Forward  
+The future of capital is agentic.
 
-.
-
-The future of [Capital Structuring]([Roials Capital](https://roialscapital.com/)) is real time.
+The future of Capital Structuring (Roials Capital) is real time.
 
 The future of risk is quantified, not debated.
 
@@ -40,9 +38,9 @@ For those who operate at the top of the private capital pyramid, this is not opt
 
 This is the edge.
 
-principal authority.
+Principal authority.
 
-AI first mechanics.
+AI‑first mechanics.
 
 Institutional architecture.
 
@@ -53,6 +51,6 @@ Roials Alpha is not here to compete with traditional finance.
 We are here to supersede it.
 
 
-## Sammanfattning
+## Summary
 
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

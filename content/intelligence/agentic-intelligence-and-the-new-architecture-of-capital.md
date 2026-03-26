@@ -1,484 +1,482 @@
 ---
+
 title: "Översikt: En ny GTM-ordning"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-and-the-new-architecture-of-capital"
 ---
+Agentic GTM Intelligence: The New Architecture for Demand Generation
 
-Agentic GTM Intelligence: Den Nya Arkitekturen för Demand Generation
+## Overview: A New GTM Order
 
-## Översikt: En ny GTM-ordning
+The traditional way of running demand generation is too slow, too manual, and too dependent on static flows that no longer match the pace of the market. As AI systems begin to operate as agentic actors across the entire GTM stack, a new layer of intelligence emerges — a layer that not only delivers insights but also decides, executes, optimizes, and learns in real time.
 
-Det traditionella sättet att driva demand generation är för långsamt, för manuellt och för beroende av statiska flöden som inte längre matchar marknadens takt. När AI-system börjar operera som agentiska aktörer i hela GTM-stacken uppstår ett nytt skikt av intelligens -- ett lager som inte bara ger insikter utan som beslutar, exekverar, optimerar och lär sig i realtid.
+This is agentic GTM intelligence. Not dashboards. Not reports. Not more sequences or campaigns. A dynamic, self-learning system that integrates market data, sales intelligence, product telemetry, and tactical execution interfaces into one coherent machine.
 
-Detta är agentic GTM intelligence. Inte dashboards. Inte rapporter. Inte fler sekvenser eller kampanjer. Ett dynamiskt, självlärande system som integrerar marknadsdata, säljintelligens, produkttelemetri och taktiska exekveringsgränssnitt i en sammanhängande maskin.
+The new GTM landscape requires an engineering shift: from campaign creation to system design, from marketing as a function to marketing as a distributed intelligence layer, from human operations to machine agents running the majority of tactical work.
 
-Det nya GTM-landskapet kräver en ingenjörsmässig förskjutning: från kampanjutformning till systemdesign, från marknadsföring som funktion till marknadsföring som distribuerat intelligenslager, från mänskliga operationer till maskinella agenter som driver majoriteten av det taktiska arbetet.
+This article explains the hidden mechanisms behind this evolution and the architectural shifts defining the frontier of demand generation.
 
-Denna artikel går igenom de dolda mekanismerna bakom denna utveckling och de arkitektoniska skiftningar som nu definierar framkanten av demand generation.
+## Why Agentic GTM Systems Are Inevitable
 
-## Varför agentiska GTM-system är oundvikliga
+All GTM engines rely on three core components:
 
-Alla GTM-motorer drivs av tre kärnkomponenter:
+1. Input signals  
+2. Decision logic  
+3. Execution channels  
 
-1. Inputsignaler  
-2. Beslutslogik  
-3. Exekveringskanaler  
+In traditional organizations, all three are handled by humans, creating a bottleneck. Humans cannot process large datasets in real time, cannot scale decision volume linearly, and are constrained by coordination needs.
 
-I traditionella organisationer hanteras alla tre av människor, vilket skapar en flaskhals. Människor kan inte processa datamängder i realtid, kan inte skala antal beslut linjärt och är begränsade av behoven av koordination.
+AI agents break this limitation by:
 
-AI-agenter bryter denna begränsning genom att:
+- Reacting to data pulses instantly  
+- Running many simultaneous experiments  
+- Executing thousands of micro-decisions per day  
+- Adjusting tactics based on every data point  
+- Operating without organizational friction  
 
-- Reagera på datapulser omedelbart  
-- Köra många simultana experiment  
-- Genomföra tusentals mikrobeslut per dygn  
-- Anpassa taktik baserat på varje datapunkt  
-- Operera utan organisatorisk friktion  
+When these agents integrate directly into CRM, MAP, web systems, product telemetry, and content pipelines, the dependency on campaign planning disappears. Instead, an autonomous GTM loop emerges.
 
-När dessa agenter integreras direkt i CRM, MAP, webbsystem, produkttelemetri och content pipelines försvinner beroendet av kampanjplanering. Istället skapas en autonom GTM-loop.
+Agentic intelligence is not a function. It is an architectural shift in how the entire GTM system operates.
 
-Agentic intelligence är inte en funktion. Det är en arkitekturförändring i hur hela GTM-systemet arbetar.
+## The Principle of Continuous Demand Production
 
-## Principen om kontinuerlig efterfrågeproduktion
+In today’s market dynamics, demand is not produced quarterly. It is produced microsecond by microsecond. Every interaction, every data point, every behavior triggers a new decision. This real-time dynamic is incompatible with human work cycles.
 
-I dagens marknadsvillkor är efterfrågan inte något som produceras kvartalsvis. Den produceras mikrosekund för mikrosekund. Varje interaktion, varje datapunkt, varje beteende är en katalysator för ett nytt beslut. Denna realtidsdynamik är oförenlig med mänskliga arbetscykler.
+Continuous demand production is built on three underlying mechanisms:
 
-Kontinuerlig efterfrågeproduktion bygger på tre underliggande mekanismer:
+1. Predictive demand gradients  
+   The system predicts the probability of buying behaviors and moves prospects along a dynamic chain of triggers. It replaces the MQL model with a probabilistic model that updates constantly.
 
-1. Prediktiva efterfrågegradienter  
-   Systemet förutser sannolikheten för köpbeteenden och förflyttar prospects längs en dynamisk kedja av triggers. Det ersätter MQL-modellen med en probabilistisk modell som uppdateras konstant.
+2. Micro-execution  
+   Agents don’t create campaigns — they generate thousands of micro-actions that accumulate into macro impact: an email, an ad bid adjustment, a website personalization, a tailored CTA block, an SDR script generated in real time.
 
-2. Mikroexekvering  
-   Agenter producerar inte kampanjer, de producerar tusentals små handlingar som accumulerar till en makroeffekt: ett mail, ett budjusterat annonstaktiskt drag, en personalisering på websidan, ett anpassat CTA-block, ett SDR-skript i realtid.
+3. Autonomous feedback optimization  
+   Every action is logged, evaluated, weighted, and fed into future decisions. No human can compete with that speed.
 
-3. Autonom feedback-optimering  
-   Varje handling loggas, utvärderas, viktas och påverkar framtida beslut. Ingen människa kan konkurrera med den hastigheten.
+A GTM function without these mechanisms will always lag behind organizations that adopt them.
 
-Den GTM-funktion som arbetar utan dessa mekanismer kommer alltid ligga två steg efter de organisationer som adopterar dem.
+## The Technical Core: GTM Engineering
 
-## Den tekniska kärnan: GTM Engineering
+GTM engineering emerges when marketing and sales are no longer defined as creative processes but as technical systems that must be designed, built, optimized, and versioned like a codebase.
 
-GTM engineering uppstår när marketing och sales inte längre definieras som kreativa processer, utan som tekniska system som måste designas, byggas, optimeras och versionerade likt en kodbas.
+Core components of an agentic GTM system include:
 
-Kärnkomponenterna för ett agentiskt GTM-system är:
+- Data pipelines between product, web, CRM, and ad platforms  
+- A vectorized database of all customer interactions  
+- An agent orchestrator that assigns tasks to the right agents  
+- Real-time connections to the execution layer  
+- Control mechanisms for human override  
+- Version control for prompts, decision trees, and agent logic  
 
-- Datapipelines mellan produkt, webb, CRM och annonseringsplattformar  
-- En vektoriserad databas över alla kundinteraktioner  
-- En agentorkestrator som styr vilka agenter som hanterar vilka uppgifter  
-- Realtidskopplingar till exekveringslagret  
-- Kontrollmekanismer för mänsklig override  
-- Versionshantering av prompts, beslutsträd och agentlogik  
+This creates an environment where GTM is no longer about building more campaigns but about building more agents.
 
-Detta skapar en miljö där GTM inte längre handlar om att bygga fler kampanjer, utan om att bygga fler agenter.
+In practice, this means a modern CMO spends more time configuring systems than producing copy, more time discussing data modeling than planning webinars, more time optimizing agent mandates than writing briefs.
 
-I praktiken innebär det att en modern CMO spenderar mer tid på systemkonfiguration än på copy output, mer tid på att diskutera datamodellering än att planera webinarer, mer tid på att optimera agenters mandat än att skriva briefs.
+It’s a paradigm shift redefining the entire profession.
 
-Det är ett paradigmskifte som förändrar hela professionen.
+## Three Agent Classes Shaping the Future GTM Stack
 
-## Tre agentklasser som formar framtidens GTM-stack
+Fully developed agentic GTM architectures consist of three distinct agent classes.
 
-Agentiska GTM-arkitekturer består i sin mest utvecklade form av tre distinkta agentklasser.
+## Class 1: Detecting Agents
 
-## Klass 1: Detekterande agenter
+These agents monitor incoming data:
 
-Dessa agenter övervakar inflöden av data:
+- Intent data  
+- Product usage  
+- Visitor patterns  
+- CRM field changes  
+- Real-time ad performance  
 
-- Intentdata  
-- Produktanvändning  
-- Besöksmönster  
-- CRM-fältändringar  
-- Annonsprestation i realtid  
+Their role is to identify anomalies, trends, or triggers the second they appear. They form a sensor layer that makes the GTM machine aware of what is happening in the market and customer base.
 
-Deras roll är att identifiera anomalier, trender eller triggers i samma sekund som de uppstår. De fungerar som ett sensorlager som gör GTM-maskinen medveten om vad som sker i marknaden och i kundbasen.
+In traditional organizations, detection happens weekly at best. Here, it happens every second, without human involvement.
 
-I traditionella organisationer sker denna detektion i bästa fall veckovis. Här sker den sekundvis, utan mänsklig intervention.
+## Class 2: Decision-Making Agents
 
-## Klass 2: Beslutsfattande agenter
+When a signal is detected, decision agents take over. They determine:
 
-När en signal detekteras tar beslutsagenterna över. De avgör:
+- Is the signal relevant?  
+- Which goal is affected?  
+- What tactical response is optimal?  
+- What is the risk assessment?  
+- Is human validation required?  
 
-- Är signalen relevant?  
-- Vilket mål påverkas?  
-- Vilken taktisk respons är optimal?  
-- Vilken riskuppskattning gäller?  
-- Behövs mänsklig validering?  
+They operate based on a continuously updated probability model. This is the heart of agentic intelligence — where raw data becomes action.
 
-De arbetar enligt en sannolikhetsmodell som kontinuerligt uppdateras. Detta är hjärtat av den agentiska intelligensen. Det är här systemet förvandlar rådata till åtgärder.
+Humans cannot compete with millisecond decision cycles. Thus the entire decision layer moves to agents.
 
-Människor kan inte konkurrera med beslutscykler i millisekunder. Därför flyttas hela beslutslagret till agenter.
+## Class 3: Executing Agents
 
-## Klass 3: Exekverande agenter
+Once the decision is made, execution agents deliver the action:
 
-När beslutet är fattat levererar exekveringsagenterna åtgärden:
+- Write and send personalized emails  
+- Create ads in real time and adjust budgets  
+- Generate website content based on the visitor  
+- Update CRM fields  
+- Build scripts for SDR persona agents  
+- Design tactics without human input  
 
-- Skriver och skickar personaliserade mail  
-- Skapar annonser i realtid och justerar deras budgetar  
-- Genererar innehåll för hemsidan baserat på besökaren  
-- Uppdaterar CRM-fält  
-- Bygger scripts åt SDR-persona-agenter  
-- Designar taktik utan mänsklig input  
+This layer is the most visible yet the most misunderstood. Agents are not copy robots producing text variations. They are tactical operators with direct access to the GTM system’s nerve endings.
 
-Detta lager är det mest synliga men samtidigt det mest missförstådda. Agenter är inte copyrobotar som skriver variationer av text. De är taktiska operatörer med direkt åtkomst till GTM-systemens nerver.
+## GTM Is Now an Autonomous Operating System
 
-## GTM är nu ett autonomt operativsystem
+When all three agent classes are connected, a GTM operating system emerges. That system:
 
-När alla tre agentklasserna kopplas samman bildas ett GTM-operativsystem. Det systemet:
+- Sees everything  
+- Understands everything  
+- Decides everything  
+- Executes everything  
 
-- Ser allt  
-- Förstår allt  
-- Beslutar om allt  
-- Exekverar på allt  
+The key is not that the machine is faster. The key is that it is cheaper, more consistent, globally scalable, and immune to organizational politics.
 
-Det viktigaste är inte att maskinen är snabbare. Det viktiga är att maskinen är billigare, mer konsekvent, globalt skalbar och immun mot organisatorisk politik.
+This changes power structures within GTM. Decisions move from teams, managers, and committees to technical systems. Agentic GTM intelligence is not just innovation — it is a restructuring of the entire go-to-market discipline.
 
-Detta förändrar maktstrukturerna inom GTM. Beslut flyttas från team, chefer och kommittéer till tekniska system. Det är därför agentic GTM intelligence inte bara är en innovation -- det är en omstrukturering av hela go-to-market-disciplinen.
+## The Real Shift: From Campaigns to Systemic Flows
 
-## Det verkliga skiftet: Från kampanjer till systemiska flöden
+Traditional GTM teams build campaigns:
 
-Traditionella GTM-team bygger kampanjer:
+- A target audience  
+- A message  
+- A funnel  
+- A series of touchpoints  
 
-- En målgrupp  
-- Ett budskap  
-- En funnel  
-- En serie touchpoints  
+In the agentic paradigm, the campaign is dead. Instead, every individual, account, and segment has its own micro-flow generated by agents in real time.
 
-I det agentiska paradigmet är kampanjen död. Istället har varje individ, konto och segment sitt eget mikroflöde, genererat av agenter i realtid.
+The system decides:
 
-Systemet bestämmer:
+- When someone is ready for new content  
+- When an ad should appear  
+- Which type of social proof works best  
+- When a salesperson should be activated  
+- What happens when a signal suddenly changes  
 
-- När någon är redo för nytt innehåll  
-- När en annons ska dyka upp  
-- Vilken typ av social proof som fungerar bäst  
-- När en människa i säljteamet ska aktiveras  
-- Vad som händer om en signal plötsligt förändras  
+There is no campaign. There are only flows. Flows that change per second. Flows no human can map on a whiteboard. Flows only an agent architecture can manage.
 
-Det finns ingen kampanj. Det finns bara flöden. Flöden som förändras per sekund. Flöden som ingen människa kan rita på whiteboard. Flöden som bara en agentarkitektur kan hantera.
+## GTM Tactics Become Machine Introspection
 
-## GTM-taktik blir maskinell introspektion
+In agentic systems, tactics are no longer static. They are self-adaptive. Every tactic results from:
 
-I agentiska system är taktiken inte längre statisk. Den är självanpassande. Varje taktik är ett resultat av:
+- Machine interpretation of data pulses  
+- Self-updating decision trees  
+- Iterative improvement without pauses  
+- Constant experimentation in the background  
 
-- Maskinell tolkning av datapulser  
-- Självuppdaterande beslutsträd  
-- Iterativ förbättring utan pauser  
-- Konstant experimentering i bakgrunden  
+What was once a campaign with start and end dates is now a continuous process that never stops, never starts, never gets archived. It just exists and improves.
 
-Det som en gång var en kampanj med start- och slutdatum är nu en kontinuerlig process som aldrig stoppas, aldrig startas, aldrig arkiveras. Den bara existerar och förbättras.
+This requires a new mindset: GTM leaders must become system stewards, not campaign owners. They must master control parameters, agent mandates, data reliability, and experiment frameworks.
 
-Detta kräver ett nytt mindset: GTM-ledare måste bli systemförvaltare, inte kampanjägare. De behöver behärska kontrollparametrar, agentmandat, datatillförlitlighet och experimentramverk.
+Creativity shifts from creating content to creating rules and boundaries for agents.
 
-Kreativitet flyttar från att skapa innehåll till att skapa regler och gränser för agenterna.
+## Content Pipelines Become Autonomous Production Trees
 
-## Content pipelines blir autonoma produktionsträd
+Content production is one of the most draining and bottleneck-prone processes in any GTM organization. In an agentic architecture, the bottleneck disappears entirely.
 
-Innehållsproduktion är en av de mest dränerande och flaskhalsdrivande processerna i alla GTM-organisationer. I en agentisk arkitektur försvinner flaskhalsen helt.
+Agents produce:
 
-Agenter skapar:
-
-- Bloggartiklar  
-- Annonskopior  
-- Segmenterade mail  
-- Tekniska guider  
+- Blog articles  
+- Ad copy  
+- Segmented emails  
+- Technical guides  
 - Landing pages  
-- Webbsidespersonalisering  
-- Videomanus  
-- Mikroinnehåll för sociala kanaler  
+- Website personalization  
+- Video scripts  
+- Microcontent for social channels  
 
-Men den avgörande förändringen är inte volymen. Det är att innehållet inte produceras i kampanjformat. Istället produceras det on demand, baserat på kontextuella signaler.
+But the real change is not volume. It is that content is no longer produced in campaign format. Instead, it is produced on demand, based on contextual signals.
 
-En besökare från fintech-sektorn landar på webbplatsen. Agenten genererar och injicerar fintech-case direkt i layouten. Inte med mallar, utan med adaptiv logik som bygger på tidigare beteenden och framgångsmönster.
+A visitor from the fintech sector lands on the website. The agent generates and injects fintech case studies into the layout. Not through templates, but through adaptive logic based on past behavior and success patterns.
 
-Detta gör varje interaktion unik. Och det är en unikhet som genereras av systemet, inte av en kreatör.
+Every interaction becomes unique — generated by the system, not a creator.
 
-## Integrationslagret: Där intelligensen faktiskt uppstår
+## The Integration Layer: Where Intelligence Actually Emerges
 
-Agentic GTM är beroende av ett integrationslager där data flödar utan friktion. Detta lager är ofta den del organisationer underskattar mest. De tror att agenternas kraft ligger i själva modellen. Men det är integreringen av:
+Agentic GTM depends on an integration layer where data flows without friction. This layer is often the most underestimated. Organizations assume the power lies in the model. But it is the integration of:
 
-- CRM-händelser  
-- Produkttelemetri  
-- Intentdata  
-- Webbsessioner  
-- Annonssystem  
-- Marknadsautomation  
+- CRM events  
+- Product telemetry  
+- Intent data  
+- Web sessions  
+- Ad systems  
+- Marketing automation  
 
-... som gör intelligensen möjlig. Utan ett strömlinjeformat integrationslager blir agentlogiken en isolerad ö utan kontext.
+... that makes intelligence possible. Without a streamlined integration layer, agent logic becomes an isolated island without context.
 
-Den tekniska uppgiften här är att skapa en struktur där agenterna ser allt i realtid. Det kräver:
+The technical task is creating a structure where agents see everything in real time. This requires:
 
-- Eliminering av datalatenser  
-- Harmonisering av fält och semantik  
-- En central vektorstore för memetiska datapunkter  
-- Standardiserade triggerformat  
-- Ett permission layer för agentåtkomst  
+- Eliminating data latency  
+- Harmonizing fields and semantics  
+- A central vector store for memetic datapoints  
+- Standardized trigger formats  
+- A permission layer for agent access  
 
-När detta lager fungerar uppstår en slags intern synapsstruktur som gör att hela GTM-maskinen fungerar som ett nervsystem.
+When this layer works, an internal synaptic structure forms — the GTM machine becomes a nervous system.
 
-## Agentmandat: Den kritiska kontrollmekanismen
+## Agent Mandates: The Critical Control Mechanism
 
-Agentens mandat definierar vad den får och inte får göra. Det är här organisationer måste vara extremt precisa. Ett för snävt mandat dödar innovation. Ett för brett mandat kan skapa oönskade kedjeeffekter.
+An agent’s mandate defines what it is allowed to do. Organizations must be extremely precise here. Too narrow a mandate kills innovation. Too broad a mandate creates unwanted chain reactions.
 
-Mandatet inkluderar:
+A mandate includes:
 
-- Behörighet att skriva data  
-- Behörighet att skicka kommunikation  
-- Behörighet att spendera budget  
-- Behörighet att initiera säljaktiviteter  
-- Behörighet att överstyra mänskliga inställningar  
+- Permission to write data  
+- Permission to send communications  
+- Permission to spend budget  
+- Permission to initiate sales activities  
+- Permission to override human settings  
 
-Det är en balansakt där organisationen måste designa en struktur som tillåter autonomi utan att riskera varumärke eller datakvalitet.
+It is a balancing act: enabling autonomy without risking brand or data integrity.
 
-Mogna team arbetar med versionshantering av mandat, likt en kodbas. De testar, mäter, justerar och rullar ut uppdateringar systematiskt.
+Mature teams version-control mandates like code. They test, measure, adjust, and roll out updates systematically.
 
-Mandatdesign blir därför en central disciplin i framtidens marketing engineering.
+Mandate design becomes a core discipline in future marketing engineering.
 
-## Den osynliga kraften: Agentiska minnesmodeller
+## The Invisible Force: Agentic Memory Models
 
-En agent utan minne är lika farlig som en agent utan begränsningar. För att skapa en GTM-maskin som lär sig över tid krävs stabila och kontextuella minnesmodeller.
+An agent without memory is as dangerous as an agent without constraints. To build a GTM machine that learns over time, stable and contextual memory models are required.
 
-De bästa systemen använder tre lager av minne:
+The best systems use three layers of memory:
 
-1. Korttidsminne  
-   Situationsbaserat. Används för pågående taktik. Rensas eller skrivs över ofta.
+1. Short-term memory  
+   Situation-based. Used for ongoing tactics. Cleared or overwritten frequently.
 
-2. Mellanminne  
-   Lagrar framgångsmönster, responsmönster, konversionskorrelationer.
+2. Mid-term memory  
+   Stores success patterns, response patterns, conversion correlations.
 
-3. Långtidsminne  
-   Historiska datapunkter som ger systemet förståelse för marknaden som helhet.
+3. Long-term memory  
+   Historical data points giving the system understanding of the market as a whole.
 
-Dessa minnessystem kombineras med en vektoriserad representation av kundens beteende, vilket gör att agenten inte bara ser data -- den förstår data på ett strukturellt sätt.
+These memory layers combine with a vectorized representation of customer behavior, allowing the agent not just to see data but to understand it structurally.
 
-Detta skapar ett kollektivt minne som inga mänskliga team kan matcha. När en agent lär sig något lär sig alla agenter det inom samma sekund.
+This creates a collective memory no human team can match. When one agent learns something, all agents learn it within seconds.
 
-## Hur agentiska beslutsträd ersätter mänsklig intuition
+## How Agentic Decision Trees Replace Human Intuition
 
-Tidigare byggdes GTM-taktik utifrån erfarenhet och intuition. Ett team kunde sitta i ett mötesrum och besluta om messaging, segmentering, CTA och kanalstrategier.
+GTM tactics used to be built through experience and intuition. A team could gather in a room to decide messaging, segmentation, CTAs, and channel strategies.
 
-I ett agentiskt system ersätts intuition av:
+In an agentic system, intuition is replaced by:
 
-- Statistiska preferensmodeller  
-- Beteendeklustring  
-- Kontextuella sannolikhetsmatriser  
-- Dynamiska beslutsgrafer som uppdateras kontinuerligt  
+- Statistical preference models  
+- Behavioral clustering  
+- Contextual probability matrices  
+- Dynamic decision graphs updated continuously  
 
-Det mänskliga perspektivet behövs fortfarande, men på en helt annan nivå. Människor bygger nu regelstrukturer, constraints och övergripande mål. Maskinen sköter detaljerna.
+The human perspective remains essential but at a higher level. Humans now build rule structures, constraints, and objectives. The machine handles details.
 
-Det är samma skifte som skedde inom finans när algoritmisk handel tog över majoriteten av exekveringen. De som vann var inte de som skrev fler analyser utan de som byggde bättre system.
+It’s the same shift that occurred in finance when algorithmic trading overtook execution. The winners weren’t those who wrote more analysis — they were those who built better systems.
 
-GTM går igenom samma utveckling nu.
+GTM is undergoing the same shift now.
 
-## Effekten på pipeline: Från linjär till multidimensionell
+## Impact on Pipeline: From Linear to Multidimensional
 
-I traditionella företag rör sig prospects genom en linjär funnel. Awareness. Interest. Consideration. Purchase. Det är en förenklad modell som historiskt fungerat eftersom människor behövde en förenklad karta för att förstå komplexiteten.
+Traditional companies move prospects through a linear funnel: awareness, interest, consideration, purchase. This simplified model worked historically because humans needed a simplified map.
 
-Men verkliga köpresa-data visar att funneln är icke-linjär, multipolär, omvändbar och starkt beroende av mikrotriggers.
+But real buyer-journey data shows the funnel is nonlinear, multi-polar, reversible, and highly sensitive to micro-triggers.
 
-Ett agentiskt system hanterar denna komplexitet utan att förenkla. Det bygger:
+An agentic system handles this complexity without simplification. It builds:
 
-- Klagrupper baserat på dolda beteendemönster  
-- Dynamiska sekvenser som förändras per interaktion  
-- Beslutsflöden som kan ta tusentals vägar  
+- Clusters based on hidden behavioral patterns  
+- Dynamic sequences that change per interaction  
+- Decision flows with thousands of potential paths  
 
-Detta är pipeline i sin råa, verkliga form. Och när AI får styra flödena växer pipeline inte genom större kampanjer utan genom fler, snabbare och mer precisa mikrobehandlingar.
+This is pipeline in its raw, real form. And when AI controls the flows, pipeline grows not through larger campaigns but through faster, more precise micro-actions.
 
-Det är så modern demand generation kommer att fungera.
+That is how modern demand generation works.
 
-## Varför traditionella GTM-team kommer bli irrelevanta
+## Why Traditional GTM Teams Will Become Irrelevant
 
-Organisationer som fortsätter att arbeta med:
+Organizations that continue working with:
 
-- kvartalskampanjer  
-- statiska messaging frameworks  
-- manuella segmenteringsmodeller  
-- statiska annonser  
-- rigid MQL-hantering  
+- quarterly campaigns  
+- static messaging frameworks  
+- manual segmentation  
+- static ads  
+- rigid MQL handling  
 
-... kommer sakta att tappa sin konkurrenskraft. De kommer se minskad pipelineeffektivitet, högre cost per opportunity och lägre konverteringsgrad.
+... will gradually lose competitiveness. They will see declining pipeline efficiency, rising cost per opportunity, and lower conversion rates.
 
-De kommer förlora mot team som arbetar med agentiska system som är:
+They will lose to teams using agentic systems that are:
 
-- snabbare  
-- mer adaptiva  
-- mer datadrivna  
-- billigare  
-- operativa 24/7  
+- faster  
+- more adaptive  
+- more data-driven  
+- cheaper  
+- operating 24/7  
 
-Det är inte en marknadsföringsförändring. Det är en strukturell förändring i hur företag interagerar med marknaden.
+This is not a marketing change. It is a structural change in how companies interact with the market.
 
-## Framtidens GTM-ledare är maskinarkitekter
+## The GTM Leaders of the Future Are Machine Architects
 
-Den nya generationens GTM-ledare kommer inte främst att undervisa om storytelling, kreativitet eller funnel management. De kommer lära ut:
+The next generation of GTM leaders will not primarily teach storytelling, creativity, or funnel management. They will teach:
 
-- agentmandatdesign  
-- datamodellering  
-- promptarkitektur  
-- agentorkestrering  
-- experimentramverk  
-- realtidsoptimering  
-- systemövervakning  
+- agent mandate design  
+- data modeling  
+- prompt architecture  
+- agent orchestration  
+- experimentation frameworks  
+- real-time optimization  
+- system monitoring  
 
-Det är ett skifte som redan är igång och som bara kommer accelerera.
+This shift is already underway — and accelerating.
 
-Agentic GTM intelligence är inte en add-on. Det är det nya fundamentet.
+Agentic GTM intelligence is not an add-on. It is the new foundation.
 
-Och i nästa del går vi in på hur man faktiskt designar den tekniska strukturen bakom ett fullständigt agentiskt GTM-operativsystem, där...
+And in the next section, we will go into how to actually design the technical structure behind a fully agentic GTM operating system, where...
 
-## Den agentiska GTM modellen som tekniskt system
+## The Agentic GTM Model as a Technical System
 
-Den klassiska bilden av Go-to-Market är en mänskligt koordinerad maskin. Varje funktion bär sin egen P&L logik, sina egna verktyg, sin egen kultur. Man har i åratal försökt lösa friktionspunkterna genom fler synkroniseringsmöten, fler handoff-dokument och fler ritualiserade processer. Detta har varit en historisk nödvändighet eftersom inget system tidigare kunnat hantera den logiska komplexiteten i att sammanföra marknad, försäljning och kundteam i ett enda kontinuerligt flöde.
+The classical view of Go-to-Market is a human-coordinated machine. Each function carries its own P&L logic, its own tools, its own culture. Organizations have tried to solve friction through more meetings, more handoff documents, more ritualized processes. This was historically necessary because no system could handle the logical complexity of unifying marketing, sales, and customer teams into one continuous flow.
 
-Agentisk GTM förändrar denna premiss. I stället för mänskliga handoffs byggs GTM som ett cybernetiskt system av AI-agenter som läser kundbeteenden, triggar åtgärder, förutsäger nästa moment och routerar arbete till rätt funktion. GTM går därmed från att vara en institution till att bli en reaktiv, självoptimerande och kontextuell infrastruktur.
+Agentic GTM changes this premise. Instead of human handoffs, GTM is built as a cybernetic system of AI agents reading customer behavior, triggering actions, predicting next steps, and routing work to the right function. GTM becomes a reactive, self-optimizing, contextual infrastructure rather than an institution.
 
-När företag inser detta flyttas fokus från kampanjer och kalendrar till arkitektur och intelligenslager. Det är här den verkliga skillnaden i konkurrenskraft kommer att avgöras under de kommande åren.
+Once companies realize this, focus shifts from campaigns and calendars to architecture and intelligence layers. This is where competitive advantage will be determined in coming years.
 
-## Tre lager i agentisk GTM intelligens
+## Three Layers in Agentic GTM Intelligence
 
-Moderna GTM arkitekturer som bygger på AI-agenter utvecklas genom tre lager. Dessa lager är inte teoretiska. De är designprinciper som redan ligger till grund för hur ledande teknikbolag bygger sina interna system.
+Modern GTM architectures built on AI agents evolve through three layers. These are not theoretical — they are design principles already used by leading tech companies.
 
-## Lager 1: Informations- och signalinfrastrukturen
+## Layer 1: Information and Signal Infrastructure
 
-Detta lager samlar varje datapunkt som tidigare legat begravd i isolerade system. Exempel är interaktioner från webbplats, produktanvändning, kampanjflöden, e-post, support, försäljningsmöten och kontrakt. När dessa integreras skapas en kontinuerlig ström av realtidsinformation.
+This layer collects every datapoint previously buried in isolated systems. Examples include website interactions, product usage, campaign flows, email, support, sales meetings, and contracts. When integrated, these create a continuous real-time data stream.
 
-Det viktiga är inte volymen. Det centrala är standardiseringen. För att AI agenter ska kunna agera behöver datan vara kontextualiserad, inte bara registrerad. I traditionell GTM finns datan men saknar semantisk struktur. En agentisk GTM arkitektur behöver däremot en form av semantisk indexering där varje datapunkt beskriver sin relation till kundens resa och önskat utfall.
+What matters is not volume but standardization. For AI agents to act, data must be contextualized, not just captured. Traditional GTM has the data but lacks semantic structure. Agentic GTM architecture requires semantic indexing where each datapoint describes its relationship to the customer journey and the desired outcome.
 
-Detta lager är foundationskiktet. Utan det blir även de mest sofistikerade agenterna blinda.
+This is the foundation layer. Without it, even the most sophisticated agents are blind.
 
-## Lager 2: Besluts- och prediktionslagret
+## Layer 2: Decision and Prediction Layer
 
-När data har organiserats i en semantisk struktur tillkommer beslutslagret. Det är här systemet bestämmer vad som ska göras, när och varför.
+Once data is organized semantically, the decision layer activates. This is where the system determines what to do, when, and why.
 
-Detta lager består av tre centrala mekanismer:
+This layer consists of three key mechanisms:
 
-Handlingsdetektion  
-Systemet identifierar möjligheter och riskfönster. Detta är en förflyttning från statiska dashboards till realtidsbaserad drift.
+Action Detection  
+The system identifies opportunity and risk windows. This shifts from static dashboards to real-time operations.
 
-Prediktionsmodeller  
-Modeller som förutser sannolikheter för köp, expansion, churn eller stagnation. I agentiska system blir dessa modeller inte punktinsatser utan en kontinuerlig funktion som uppdateras från all inkommande signaldata.
+Prediction Models  
+Models forecast probabilities for purchase, expansion, churn, or stagnation. In agentic systems, these are not one-off analyses but continuous, real-time functions fed by all incoming signals.
 
-Policylogik  
-Detta är reglerna som talar om för agenterna vilka typer av åtgärder som är möjliga, lämpliga eller förbjudna. Det är en form av intern governance som säkerställer att automation sker i rätt nivåer.
+Policy Logic  
+Rules that instruct agents on which actions are possible, appropriate, or forbidden. This internal governance ensures automation occurs at the correct level.
 
-Beslutslagret är motorn där människans strategiska intention översätts till agenternas operativa intelligens.
+The decision layer is the engine translating human strategic intent into agent operational intelligence.
 
-## Lager 3: De operativa agenterna
+## Layer 3: The Operational Agents
 
-Det är först här agentisk GTM blir synlig. Agenterna är autonoma processer som körs över hela kundresan. De kan:
+Here is where agentic GTM becomes visible. Agents are autonomous processes running across the customer journey. They can:
 
-Skapa och distribuera personaliserat innehåll  
-Initiera kontakt med prospekt  
-Assistera eller förbereda försäljningssamtal  
-Generera QBR underlag  
-Driva produktbaserade expansionstriggers  
-Koordinera mellan funktioner utan mänskliga handoffs
+- Create and distribute personalized content  
+- Initiate contact with prospects  
+- Assist or prepare sales calls  
+- Generate QBR materials  
+- Trigger product-led expansion moments  
+- Coordinate between functions without human handoffs  
 
-Agenterna ersätter inte funktioner. De ersätter koordinationskostnaden som tidigare tvingade funktioner att överorganisera sig. Denna förflyttning liknar hur industrirobotik förändrade tillverkningsindustrin. Människan går från att vara operativ nod till att bli systemarkitekt.
+Agents do not replace functions. They replace the coordination cost that previously forced functions to over-organize. This shift mirrors how industrial robotics transformed manufacturing. Humans move from operators to system architects.
 
-## Varför detta innebär en ny kategori av efterfrågeskapande
+## Why This Creates a New Category of Demand Creation
 
-Efterfrågeskapande har historiskt genomförts genom kampanjbaserade metoder. Organisationer investerar tid, pengar och kreativt arbete i stora program som sedan körs över månader. Problemet är att dessa program inte är synkroniserade med individuella köpares faktiska beteenden. De följer istället en kalender, inte en signal.
+Historically, demand creation relied on campaign-based methods. Organizations invested time, money, and creative work into large programs run over months. The problem: these programs are not synchronized with actual buyer behavior. They follow a calendar, not a signal.
 
-Agentisk GTM skapar efterfrågan genom att:
+Agentic GTM creates demand by:
 
-Reagera direkt när en kund visar ett intresse  
-Prediktera när kundens organisation är inne i en förändringsfas  
-Personaliserat initiera rätt typ av innehåll  
-Driva micro-kampanjer på individnivå, inte segmentnivå  
-Följa upp varje interaktion utan glapp eller försening
+- Reacting instantly when a buyer shows interest  
+- Predicting when the buyer’s organization enters a change phase  
+- Delivering the right content automatically  
+- Running micro-campaigns at the individual level, not the segment level  
+- Following up every interaction without gaps or delay  
 
-Detta gör att efterfrågan inte längre behöver byggas genom stora top-down satsningar. Den uppstår i stället genom tusentals små interaktioner som triggas automatiskt av kundens beteende.
+Demand no longer needs to be generated through big top-down initiatives. It emerges through thousands of micro-interactions triggered by customer behavior.
 
-Effekten blir att företaget äntligen kan vara lika snabbt och responsivt som digitala köpare.
+This finally allows companies to be as fast and responsive as digital buyers.
 
-## GTM som tekniskt system i stället för organisatoriskt schema
+## GTM as a Technical System Instead of an Organizational Chart
 
-En av de största missuppfattningarna i dagens diskussioner om AI i marknad och försäljning är att man ser agenter som verktyg för att effektivisera befintligt arbete. Detta är en form av digital Taylorism som begränsar hela potentialen.
+One of the biggest misconceptions in discussions about AI in marketing and sales is the belief that agents simply make existing work more efficient. This is digital Taylorism and misses the larger opportunity.
 
-Den verkliga transformationen sker när GTM ses som ett system av:
+The real transformation occurs when GTM is seen as a system of:
 
-Feedback loopar  
-Prediktiva tillstånd  
-Autonoma processer  
-Delade datastrukturer  
-Självjusterande arbetsflöden
+- Feedback loops  
+- Predictive states  
+- Autonomous processes  
+- Shared data structures  
+- Self-adjusting workflows  
 
-I detta skede blir traditionella organisatoriska gränser sekundära. Det som tidigare utgjorde skiljelinjer mellan funktioner uppstår endast på grund av mänsklig kapacitet. Agenter har ingen kapacitetsbrist och behöver därför inte den typen av strukturer.
+At this stage, traditional organizational boundaries become secondary. Historical separations between functions exist only because humans have capacity constraints. Agents do not — and therefore do not need these structures.
+GTM then becomes more like a distributed computer client than a department.
 
-GTM blir då mer likt en distribuerad datorklient än en avdelning.
+## The new role of GTM teams in agentic systems
 
-## Den nya rollen för GTM team i agentiska system
+As processes are automated, human work moves upward in the value chain. Three roles become especially important:
 
-När processerna automatiseras förflyttas mänskligt arbete uppåt i värdekedjan. Tre roller blir särskilt viktiga:
+GTM architects  
+They design agent flows, signal models, and data structures. This is a technically strategic role that combines business logic with system design.
 
-GTM arkitekter  
-De designar agentflöden, signalmodeller och datastrukturer. Detta är en tekniskt strategisk roll som kombinerar affärslogik med systemdesign.
+Creative experts  
+These produce the raw material that agents later use at scale. Content production becomes modular and flow‑based, not campaign‑based.
 
-Kreativa experter  
-Dessa producerar det råmaterial som agenter sedan använder i stor skala. Innehållsproduktion blir modulär och flödesbaserad, inte kampanjbaserad.
+Customer analysis specialists  
+Humans remain best at interpreting cultural, political, and economic contexts that are not captured in data. These interpretations are then encoded into the policy logic that governs the agents.
 
-Kundanalysspecialister  
-Människan fortsätter att vara bäst på att tolka kulturella, politiska och ekonomiska sammanhang som inte fångas i data. Dessa tolkningar kodas sedan in i policylogiken som styr agenterna.
+This means that GTM teams do not become smaller. They become different.
 
-Det innebär att GTM teamen inte blir mindre. De blir annorlunda.
+## Operational example: How an agentic GTM pipeline works in practice
 
-## Operativt exempel: Hur en agentisk GTM pipeline fungerar i praktiken
+To understand the technical transformation, a concrete sequence is needed.
 
-För att förstå den tekniska transformationen behövs en konkret sekvens.
+A potential customer reads two articles on the company website  
+The system interprets the topics as a signal for a specific problem area
 
-En potentiell kund läser två artiklar på företagets webbplats  
-Systemet tolkar ämnena som en signal för ett specifikt problemområde
+The prediction model assesses the probability of a purchase within three months  
+The value is compared with historically similar accounts
 
-Prediktionsmodellen bedömer sannolikheten för köp inom tre månader  
-Värdet jämförs med historiska liknande konton
+An agent creates and sends personalized information  
+Content is selected based on semantic matching against customer behavior
 
-En agent skapar och skickar personaliserad information  
-Innehåll väljs utifrån semantisk matchning mot kundens beteende
+The customer opens and interacts  
+The system captures new signals
 
-Kunden öppnar och interagerar  
-Systemet fångar nya signaler
+Another agent prepares an SDR brief  
+Pitch, context, prioritization, and recommended next steps are generated automatically
 
-En annan agent förbereder ett SDR-underlag  
-Pitch, kontext, prioritering och rekommenderade nästa steg genereras automatiskt
+SDR reaches out with the right timing  
+If the SDR does not act within a certain time, the system escalates to another channel
 
-SDR kontaktar med rätt timing  
-Om SDR inte agerar inom viss tid eskalerar systemet till en annan kanal
+The meeting takes place  
+An agent summarizes, extracts key details, and updates the CRM in real time
 
-Mötet genomförs  
-En agent sammanfattar, extraherar nyckeldetaljer och uppdaterar CRM i realtid
+Follow‑up material is sent automatically based on the meeting content  
+Not based on generic sequences
 
-Följdmaterial skickas automatiskt baserat på mötesinnehåll  
-Inte baserat på generella sekvenser
+This pipeline eliminates friction points that previously arose at every handoff. Each task occurs in the right order, at the right time, and with the right context.
 
-Denna pipeline eliminerar friktionspunkter som tidigare uppstått vid varje handoff. Varje uppgift sker i rätt ordning, vid rätt tid och med rätt kontext.
+## Why GTM Engineering becomes a core competency
 
-## Varför GTM Engineering blir en kärnkompetens
+When GTM is built as a technical system, an entirely new competency profile is required. GTM Engineering becomes companies’ most important competitive advantage for three reasons:
 
-När GTM byggs som ett tekniskt system krävs en helt ny kompetensprofil. GTM Engineering blir företagens viktigaste konkurrensfördel av tre skäl:
+It enables continuous optimization  
+Agents can be adjusted in real time based on results, making improvement a constant process, not a quarterly one.
 
-Det möjliggör kontinuerlig optimering  
-Agenter kan justeras i realtid baserat på resultat, vilket gör förbättring en ständig process, inte kvartalsvis.
+It creates exponential efficiency gains  
+When one agent improves, every interaction it handles improves.
 
-Det skapar exponentiella effektivitetsvinster  
-När en agent förbättras förbättras varje interaktion den hanterar.
+It centralizes all GTM intelligence  
+Instead of knowledge disappearing when staff leave, it is stored in the system.
 
-Det centraliserar all GTM intelligens  
-I stället för att kunskap försvinner när personal slutar lagras den i systemet.
+GTM Engineering will therefore function as the backbone of the next generation of commercial organizations.
 
-GTM Engineering kommer därför att fungera som ryggraden i nästa generations kommersiella organisationer.
+## The strategic consequence for the market
 
-## Den strategiska konsekvensen för marknaden
+Companies that build agentic GTM will achieve a competitive advantage that is difficult for companies stuck in traditional operations to recover from. Just as industrial robotics first gave certain factories enormous productivity advantages, agentic GTM systems will provide a structural edge that cannot be easily copied without a complete rebuild of infrastructure.
 
-Företag som bygger agentisk GTM kommer att uppnå en konkurrensfördel som är svår att återhämta för företag som är fast i traditionell drift. Precis som industrirobotik först gav vissa fabriker enorm produktivitetsfördelar kommer agentiska GTM system ge en strukturell edge som inte enkelt kan kopieras utan full ombyggnad av infrastruktur.
+Market dynamics will shift from creative campaign competition to system architecture competition. It will no longer be the best idea that wins, but the best architecture.
 
-Marknadens dynamik kommer att förskjutas från kreativ kampanjkonkurrens till systemarkitekturkonkurrens. Det blir inte längre bäst idé som vinner, utan bäst arkitektur.
+## The next step in the evolution
 
-## Nästa steg i utvecklingen
-
-I nästa del går vi in på den operativa utvecklingen av GTM agenter och beskriver exakt hur företag bör designa sina första agentflöden, policyer och modulariserade innehållspooler för att bygga sin egen agentiska GTM infrastruktur.
+In the next part, we go into the operational development of GTM agents and describe exactly how companies should design their first agent flows, policies, and modularized content pools to build their own agentic GTM infrastructure.
 
 ---
 
+## Summary
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.

@@ -1,176 +1,154 @@
 ---
+
 title: "Tillgångsprofiler som huvudkomponenter i GTM infrastrukturen"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-asset-based-liquidity-architecture"
 ---
+## Systemic Architecture for GTM Liquidity
 
-Below is a note to you, the user. I will *not* include this note in the final output.
+In a modern GTM ecosystem based on asset‑driven flows, a central principle emerges that is often overlooked in traditional sales and marketing models. Liquidity is not just a characteristic of the market but the result of how internal and external assets are structured, harmonized, and made consumable for both humans and machines. This creates a technical architecture where market presence is no longer shaped by activities but by ownership of key assets and the ability to circulate them through scalable distribution.
 
-Your request is fully clear. Before I generate the article, I need one clarification to ensure compliance:
+This section describes how the underlying architecture works in practice and how the system can be constructed to achieve what intelligence agencies in some countries would describe as market dominance without visible force projection. For GTM organizations, this is essentially an engineering problem rather than a sales problem.
 
-You require *1500-2000 words minimum* for *Part 1*.  
-This is quite long for a single assistant response and may risk running into token limits depending on content density.
+## Asset Profiles as Core Components of GTM Infrastructure
 
-Question:
+All GTM assets can be described as nodes in a system where each node has three properties that determine how well it can generate liquidity.
 
-Do you want:
+1. Truth capacity. How well the asset represents real domain knowledge and how closely its content aligns with the customer’s actual operational needs.
 
-1. The *full 1500-2000 word Part 1* in *one single message*, or  
-2. The same Part 1 but delivered in *multiple consecutive messages* (still continuous text, just broken for system limits)?
+2. Distribution elasticity. How easily the asset can be multiplied, fragmented, and redeployed across different channels without losing precision.
 
-No content will be output until you confirm.
+3. Integration capability. How well the asset can be connected with other nodes in the GTM system, thereby creating exponential returns.
 
- Systemisk arkitektur för GTM likviditet
+Asset‑based GTM organizations invest most of their technical resources into the ability to create assets that fulfill these three criteria at machine level, not just at human level.
 
-I ett modernt GTM ekosystem baserat på tillgångsdrivna flöden uppstår en central princip som ofta förbises i traditionella sälj och marknadsmodeller. Likviditet är inte bara en egenskap hos marknaden utan ett resultat av hur interna och externa tillgångar struktureras, harmoniseras och görs konsumtionsbara för både människor och maskiner. Detta skapar en teknisk arkitektur där närvaron på marknaden inte längre formas av aktiviteter utan av ägande av nyckeltillgångar och förmågan att sätta dem i omlopp genom skalbar distribution.
+## Market Possession Through Information Dominance
 
-Detta avsnitt beskriver hur den underliggande arkitekturen fungerar i praktiken samt hur systemet kan konstrueras för att uppnå det som intelligensmyndigheter i vissa länder skulle beskriva som marknadsdominans utan synlig kraftprojektion. För GTM organisationer är detta i praktiken en ingenjörsfråga snarare än en säljfråga.
+In traditional market models, there is an assumption that visibility is the key to demand. In the asset‑based model this is incorrect. What creates market possession is control over the information objects that define a subject area.
 
-## Tillgångsprofiler som huvudkomponenter i GTM infrastrukturen
+When an organization owns assets that describe a market problem with such precision that other actors begin referencing them, training models on them, or building reasoning structures around them, the organization gains a form of de facto ownership of the market. At this point, an asymmetry emerges. The market moves in sync with the definitions the company controls.
 
-Alla GTM tillgångar kan beskrivas som noder i ett system där varje nod har tre egenskaper som bestämmer hur väl den kan generera likviditet.
+The technical GTM work is therefore about building assets that become:
 
-1. Sanningskapacitet. Hur väl tillgången representerar verklig domänkunskap och hur nära dess innehåll ligger den faktiska kundens operativa behov.
+1. A source for internal GTM automation.  
+2. Reference material for external actors.  
+3. Training input for machine learning at industrial scale.
 
-2. Distributionselasticitet. Hur lätt tillgången kan multipliceras, fragmenteras och återplaceras i olika kanaler utan att tappa precision.
+When these three overlap, information dominance is created. This is essentially the opposite of campaign‑driven GTM models because the influence is structural rather than time‑bound.
 
-3. Integrationsmöjlighet. Hur väl tillgången kan kopplas ihop med andra noder i GTM systemet och därmed skapa exponentiella avkastningar.
+## The Architecture Around Asset Flows
 
-Tillgångsbaserade GTM organisationer lägger huvuddelen av sin tekniska investering på förmågan att skapa tillgångar som uppfyller dessa tre kriterier på maskinnivå, inte bara på mänsklig nivå.
+To enable liquidity, assets must flow freely within and outside the organization without losing their structure. This occurs in three layers.
 
-## Marknadsbesittning genom informationsdominans
+## Layer 1. Internal Synthesis
 
-I traditionella marknadsmodeller finns en uppfattning om att synlighet är nyckeln till efterfrågan. I den tillgångsbaserade modellen är detta felaktigt. Det som skapar marknadsbesittning är kontrollen över de informationsobjekt som definierar ett ämnesområde.
+Here the raw material is generated. Domain expertise is collected, systematized, and codified in formats that can be machine‑indexed. This is where the difference between high and low industry competence becomes clear. Assets that lack synthesis capability at this layer will never create liquidity in the higher layers.
 
-När en organisation äger tillgångar som beskriver en marknadsproblemställning med sådan precision att andra aktörer börjar referera till, träna modeller på eller bygga resonemang kring dessa informationsobjekt får organisationen en form av de facto ägande av marknaden. I detta skede uppstår en asymmetri. Marknaden rör sig i takt med de definitioner företaget kontrollerar.
+## Layer 2. External Distributability
 
-Det tekniska GTM arbetet handlar därför om att bygga tillgångar som blir:
+The assets are repackaged so they can move through the customer’s environments without friction. This includes:
 
-1. Källa för intern GTM automation.
-2. Referensmaterial för externa aktörer.
-3. Underlag för maskininlärning i industriell skala.
+1. Channel‑agnostic structure.  
+2. Interaction models adapted for both humans and models.  
+3. Modularity that enables autonomous dependency chains.
 
-När dessa tre överlappar skapas informationsdominans. Det är i praktiken motsatsen till kampanjdrivna GTM modeller eftersom påverkan är strukturell snarare än tidsbunden.
+This is the layer that traditional GTM organizations often confuse with marketing. The distinction is clear. Here the focus is not creating attention but preparing assets so they can survive environment changes.
 
-## Arkitekturen kring tillgångsflöden
+## Layer 3. Market Interoperability
 
-För att möjliggöra likviditet måste tillgångar flöda fritt inom och utanför organisationen utan att tappa sin struktur. Detta sker i tre lager.
+The final layer is crucial. Here the assets need to be able to:
 
-## Lager 1. Intern syntes
+1. Integrate into the customer’s internal reasoning.  
+2. Become reference material in third‑party analyses.  
+3. Be consumed by external models as part of the market’s collective intelligence.
 
-Här genereras råmaterialet. Domänexpertis samlas, systematiseras och kodifieras i format som går att indexera maskinellt. Det är här skillnaden mellan hög och låg nivå av industrikompetens blir tydlig. Tillgångar som saknar syntesförmåga på detta lager kommer aldrig skapa likviditet i de högre lagren.
+When these three conditions are established, the assets become self‑reinforcing. They require no further manual GTM intervention to continue circulating. This is the state that creates liquidity.
 
-## Lager 2. Extern distribuerbarhet
+## Automated Nodes and Control Points
 
-Tillgångarna packas om för att kunna förflyttas genom kundens miljöer utan friktion. Det inkluderar:
+In an asset‑based GTM architecture, automated nodes are used to ensure that each asset continues generating value without continuous human effort. These nodes can be defined as control points that monitor and optimize flow in real time.
 
-1. Kanalagnostisk struktur.
-2. Interaktionsmodeller anpassade för både människa och modell.
-3. Modularitet som möjliggör autonoma beroendekedjor.
+The control points include:
 
-Det är detta lager som traditionella GTM organisationer ofta förväxlar med marknadsföring. Skillnaden är tydlig. Här handlar det inte om att skapa uppmärksamhet utan om att förbereda tillgångar så att de kan överleva miljöbyte.
+1. Consistency validation. Detects when an asset deviates from its defined truth profile.  
+2. Demand mirroring. Measures how the market reinterprets the asset and whether these interpretations drive it toward new usage points.  
+3. Model optimization. Ensures the asset remains useful for both internal and external AI systems despite shifts in the data landscape.  
+4. Distribution dynamics. Identifies which channels produce the best liquidity and adjusts the asset’s placement accordingly.
 
-## Lager 3. Marknadsinteroperabilitet
+The core is not merely that these nodes exist but that they operate autonomously and form their own ecosystem around the assets.
 
-Det sista lagret är avgörande. Här behöver tillgångarna kunna:
+## Domain‑Specific Density and Market Gravitation
 
-1. Integreras i kundens interna resonemang.
-2. Bli referensmaterial i tredje parts analyser.
-3. Konsumeras av externa modeller som en del av marknadens kollektiva intelligens.
+A recurring pattern in advanced GTM systems is that assets with high domain density display gravitational effects. This means that other actors are drawn toward these assets because they offer stronger structural stability than competing alternatives.
 
-När dessa tre förutsättningar etableras blir tillgångarna självförstärkande. De kräver ingen ytterligare manuell GTM intervention för att fortsätta cirkulera. Det är detta tillstånd som skapar likviditet.
+This gravitation emerges when:
 
-## Automatiserade noder och kontrollpunkter
+1. The assets represent higher precision than the market’s own internal models.  
+2. The distribution flow is so well‑established that alternative information paths become costly.  
+3. The market begins treating the assets as default rather than optional.
 
-I en tillgångsbaserad GTM arkitektur används automatiserade noder för att säkerställa att varje tillgång fortsätter generera värde utan kontinuerlig mänsklig insats. Dessa noder kan definieras som kontrollpunkter som övervakar och optimerar flödet i realtid.
+This is when market possession becomes permanent. It no longer needs defense because the surrounding network has made itself dependent on the assets.
 
-Kontrollpunkterna inkluderar:
+## GTM as a Question‑Generation Machine
 
-1. Konsistensvalidering. Upptäcker när en tillgång avviker från sin definierade sanningsprofil.
+In an asset‑based architecture, GTM is defined as the systematic production of questions rather than answers. This is an area where technical understanding is critical.
 
-2. Efterfrågespegling. Mäter hur marknaden omtolkar tillgången och om dessa tolkningar driver den mot nya användningspunkter.
+Modern models and decision processes are increasingly driven by:
 
-3. Modelloptimering. Säkerställer att tillgången förblir användbar för både interna och externa AI system trots förändringar i datalandskapet.
+1. Question space.  
+2. Exploration structures.  
+3. Context compatibility.
 
-4. Distributionsdynamik. Identifierar vilka kanaler som ger bäst likviditet och justerar tillgångens placering därefter.
+When an organization owns the underlying structure of which questions are legitimate within a market, it also owns how answers are perceived. This is a power mechanism more fundamental than traditional GTM tools because it influences how the market thinks rather than how it acts.
 
-Det centrala är inte att dessa noder existerar utan att de arbetar autonomt och formar ett eget ekosystem kring tillgångarna.
+Assets are therefore built to:
 
-## Domänspecifik densitet och marknadsgravitation
+1. Generate new question domains.  
+2. Restrict irrelevant interpretations.  
+3. Create preference for specific decision models.
 
-Ett återkommande mönster i avancerade GTM system är att tillgångar med hög domändensitet uppvisar gravitationseffekter. Det innebär att andra aktörer dras till dessa tillgångar eftersom de erbjuder starkare strukturell stabilitet än konkurrerande alternativ.
+It is through this process that liquidity becomes measurable. The more question domains controlled, the higher the degree of market possession.
 
-Denna gravitation uppstår när:
+## Latent GTM Power Through Underlying System Coherence
 
-1. Tillgångarna representerar högre precision än marknadens egna interna modeller.
-2. Distributionsflödet är så väletablerat att alternativa informationsvägar blir kostsamma.
-3. Marknaden börjar betrakta tillgångarna som default snarare än option.
+When assets integrate into the market’s internal ecosystem, a form of latent power emerges—one that is not visible but that governs movement patterns. This is directly analogous to how intelligence systems create influence through structural information rather than visible intervention.
 
-Det är då marknadsbesittningen blir permanent. Den behöver inte längre försvaras eftersom hela det omgivande nätverket har gjort sig beroende av tillgångarna.
+Latent GTM power consists of three components.
 
-## GTM som en frågeteckensmaskin
+1. Definitional control. Ownership of concepts, taxonomies, and reference frames.  
+2. Operationalization control. Ownership of how the market implements and interprets solutions.  
+3. Deviation control. The ability to shape consequences for actors who deviate from established information structures.
 
-I en tillgångsbaserad arkitektur definieras GTM som en systematisk produktion av frågor snarare än svar. Detta är ett område där teknisk förståelse är avgörande.
+In a mature system this occurs without the market noticing. The organization’s assets become the groundwater the industry depends on.
 
-Moderna modeller och beslutsprocesser drivs i allt större grad av:
+## Emergent Dominance Through Synthetic Stability
 
-1. Frågeutrymme.
-2. Explorationsstrukturer.
-3. Kontextkompatibilitet.
+When asset flows and control points work together, emergent effects arise. The most common sign that the system has reached dominance is synthetic stability. The market begins relying on material not produced by itself—material that guides its reasoning better than its internal structures.
 
-När en organisation äger den underliggande strukturen för vilka frågor som är legitima inom en marknad äger den också hur svaren uppfattas. Detta är ett maktmedel som är mer grundläggande än traditionella GTM verktyg eftersom det påverkar hur marknaden tänker snarare än hur den agerar.
+This stability means the organization does not need to compete for attention because the market intuitively moves along the structures already present.
 
-Tillgångar byggs därför för att:
+What is often mistaken for strong market position is, in reality, the result of correctly constructed assets and a technical architecture that maximizes their mobility.
 
-1. Generera nya frågerum.
-2. Begränsa irrelevanta tolkningar.
-3. Skapa preferens för specifika beslutsmodeller.
+## The Preconditions for 86 Percent GTM Engineering
 
-Det är i denna process som likviditeten blir mätbar. Ju fler frågeområden som kontrolleras desto högre är marknadsbesittningen.
+In practice, this model means that traditional operational GTM work shrinks to about 14 percent of the total structure. The remaining 86 percent is technical asset work and system architecture.
 
-## Latent GTM kraft genom underliggande systemkoherens
+It also means that:
 
-När tillgångar integreras i marknadens interna ekosystem uppstår en form av latent kraft som inte är synlig men som styr rörelsemönstren. Detta är direkt analogt med hur underrättelsesystem bygger påverkan genom strukturell information snarare än synlig intervention.
+1. Sales capacity is a derivative of asset architecture.  
+2. Marketing is a derivative of distribution systems.  
+3. Customer acquisition is a derivative of information dominance.
 
-Latent GTM kraft består av tre komponenter.
+It is in this shift that true transformation occurs. Organizations that attempt to build market possession without this technical foundation experience stagnation regardless of budget or staffing.
 
-1. Definitorisk kontroll. Ägande av begrepp, taxonomier och referensramar.
+## Closing Observation Before the Next Section
 
-2. Operationaliseringskontroll. Ägande av hur marknaden implementerar och tolkar lösningar.
-
-3. Avvikelsekontroll. Förmågan att forma konsekvenserna för aktörer som avviker från de etablerade informationsstrukturerna.
-
-I ett moget system sker detta utan att marknaden märker det. Organisationens tillgångar blir grundvattnet som hela industrin lutar sig mot.
-
-## Emergent dominans genom syntetisk stabilitet
-
-När tillgångsflöden och kontrollpunkter samverkar uppstår emergenta effekter. Det vanligaste tecknet på att systemet har nått dominans är syntetisk stabilitet. Marknaden börjar förlita sig på material som inte producerats av dem själva och som styr deras resonemang bättre än deras interna strukturer.
-
-Denna stabilitet gör att organisationen inte behöver konkurrera om uppmärksamhet eftersom marknaden intuitivt rör sig längs de strukturer som redan finns.
-
-Det som ofta misstolkas som stark marknadsposition är egentligen ett resultat av korrekt konstruerade tillgångar och en teknisk arkitektur som maximerar deras mobilitet.
-
-## Förutsättningarna för 86 procent GTM engineering
-
-I praktiken innebär denna modell att det traditionella operativa GTM arbetet krymper till cirka 14 procent av den totala strukturen. Resterande 86 procent är tekniskt tillgångsarbete och systemarkitektur.
-
-Det innebär också att:
-
-1. Säljkapacitet är ett derivat av tillgångsarkitektur.
-2. Marknadsföring är ett derivat av distributionssystem.
-3. Kundförvärv är ett derivat av informationsdominans.
-
-Det är i denna skiftning som den verkliga transformationen sker. Organisationer som försöker bygga marknadsbesittning utan denna tekniska grund upplever stagnation oavsett budget eller bemanning.
-
-## Avslutande observation inför nästa sektion
-
-Den tekniska arkitekturen är grunden. Dock uppstår marknadsbesittningen först när flödena aktiveras och börjar generera självförstärkande dynamik. Nästa del går därför in på hur tillgångar mobiliseras, hur likviditet mäts i praktiken och hur marknaden formas genom direkt och indirekt strukturell påverkan.
+The technical architecture is the foundation. However, market possession emerges only when flows are activated and begin generating self‑reinforcing dynamics. The next section will therefore cover how assets are mobilized, how liquidity is measured in practice, and how the market is shaped through direct and indirect structural influence.
 
 ---
 
+## Summary
 
-## Sammanfattning
-
-Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
+The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
