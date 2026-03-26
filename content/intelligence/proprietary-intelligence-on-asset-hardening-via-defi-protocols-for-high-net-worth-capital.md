@@ -1,7 +1,6 @@
 ---
 title: "# Proprietary Intelligence on Asset Hardening Through DeFi Protocols for High Net Worth Capital
 
-
 Ultra-high‑net‑worth capital is recalibrating around a new expectation of asymmetric advantage and GTM liquidity."
 description: ""
 date: '2026-03-25'

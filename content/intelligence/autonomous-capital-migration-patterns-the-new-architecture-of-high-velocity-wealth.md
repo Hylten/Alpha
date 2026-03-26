@@ -1,7 +1,6 @@
 ---
 title: "# Autonomous Capital Migration Patterns
 
-
 Autonomous capital has transitioned from hypothesis to operational reality, establishing a new asymmetry in GTM Liquidity and agentic financial infrastructure."
 description: ""
 date: '2026-03-25'

@@ -1,7 +1,6 @@
 ---
 title: "# AI-First Private Credit: The Alpha Framework for Institutional Asset-Based Lending
 
-
 The architecture of private credit is shifting"
 description: ""
 date: '2026-03-25'

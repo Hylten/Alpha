@@ -1,7 +1,6 @@
 ---
 title: "# Autonomous Systems for Multi-Asset Asset-Based Lending
 
-
 The Architecture of Credit Is Shifting"
 description: ""
 date: '2026-03-25'

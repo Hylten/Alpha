@@ -223,16 +223,6 @@ Agentic systems therefore require compatibility with global mandates even when o
 
 The long-term effect is that enterprises will increasingly share core agentic logic. Competitive divergence will derive from how each organization optimizes and refines its architecture to secure Asymmetric Advantage.
 
-# Technical Mandate
-
-Qualification gates strictly enforced for structural deployment.
-
-Access restricted to approved mandates.
-
-Minimum engagement threshold: 500K SEK.
-
-Inquire regarding agentic infrastructure.
-
 ## Summary
 
 The market rewards operators who move before consensus. Roials Alpha is building that infrastructure now.

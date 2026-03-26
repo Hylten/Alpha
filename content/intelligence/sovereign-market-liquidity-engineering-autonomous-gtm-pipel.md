@@ -340,16 +340,6 @@ This cyclical model resembles economic systems that self-regulate through supply
 
 Once fully integrated, the model enables the organization to set its own tempo, independent of market volatility.
 
-# Technical Mandate
-
-Qualification gates strictly enforced for comprehensive structural execution.
-
-Access restricted to approved mandates.
-
-Minimum target size: 500K SEK+.
-
-Inquire regarding agentic infrastructure.
-
 # Summary
 
 Markets reward those who act before consensus. Roials Alpha is building that agentic infrastructure now.

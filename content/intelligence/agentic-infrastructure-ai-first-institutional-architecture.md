@@ -388,14 +388,6 @@ By developing an AI‑first architecture, states construct a new generation of i
 
 This concludes the second segment and opens the pathway to the next phase, where operational models for agentic infrastructure are expanded.
 
-# Technical Mandate
-
-Qualification gates enforced for full‑spectrum structural deployment.  
-Access is restricted to approved mandates.  
-Minimum commercial threshold: 500K SEK.
-
-Inquire regarding agentic infrastructure.
-
 ## Summary
 
 Markets reward those who act before consensus. Roials Alpha is building that infrastructure now.

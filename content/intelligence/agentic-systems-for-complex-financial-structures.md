@@ -1,7 +1,6 @@
 ---
 title: "# Agentic Systems for Complex Financial Structures
 
-
 Modern structured finance requires architectures engineered for speeds, complexities, and thresholds beyond the operational capacity of human teams, enabling asymmetric advantage through agentic infrastructure and GTM liquidity."
 description: ""
 date: '2026-03-25'

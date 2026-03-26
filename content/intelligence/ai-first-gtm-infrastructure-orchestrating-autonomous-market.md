@@ -489,6 +489,5 @@ TECHNICAL MANDATE
 
 Qualification gates strictly observed for comprehensive structural execution.
 Access is restricted to approved mandates.
-Minimum target size: 500K SEK+.
 
 Inquire about agentic infrastructure.

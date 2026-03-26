@@ -1,7 +1,6 @@
 ---
 title: "# Autonomous Systems for Private Credit Expansion
 
-
 Private credit is shifting into a phase defined by automated GTM Liquidity, agentic infrastructure, and asymmetric advantage."
 description: ""
 date: '2026-03-25'

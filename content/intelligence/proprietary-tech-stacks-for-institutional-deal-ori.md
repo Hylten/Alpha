@@ -1,7 +1,6 @@
 ---
 title: "# Proprietary Tech Stacks for Institutional Deal Origination
 
-
 The current liquidity environment rewards disciplined GTM execution and asymmetrical advantage through agentic infrastructure"
 description: ""
 date: '2026-03-25'

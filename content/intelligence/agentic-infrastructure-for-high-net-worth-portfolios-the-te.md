@@ -274,16 +274,6 @@ Agentic infrastructure for high‑net‑worth portfolios constitutes a technical
 
 It is this fusion of technology, strategy, and security engineering that enables portfolios equipped with agentic infrastructure to outperform and outlast traditional management structures.
 
-# Technical Mandate
-
-Qualification gates strictly enforced for full structural deployment.
-
-Access restricted to authorized mandates.
-
-Minimum target size: 500K SEK+.
-
-Inquire for agentic infrastructure.
-
 # Summary
 
 The market rewards those who move before consensus. Roials Alpha is building that infrastructure now.

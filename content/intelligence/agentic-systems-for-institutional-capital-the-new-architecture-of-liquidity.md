@@ -1,7 +1,6 @@
 ---
 title: "# Agentic Systems for Institutional Capital
 
-
 Institutional capital has exceeded the limits of conventional infrastructure."
 description: ""
 date: '2026-03-25'

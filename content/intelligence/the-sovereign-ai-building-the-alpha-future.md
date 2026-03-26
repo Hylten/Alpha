@@ -1,7 +1,6 @@
 ---
 title: "# The Sovereign AI: Engineering the Alpha Future
 
-
 Sovereign AI is not a concept"
 description: ""
 date: '2026-03-25'

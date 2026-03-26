@@ -8,6 +8,7 @@ date: '2025-12-25'
 author: Jonas Hyltén
 slug: agentic-systems-complex-financial-structures
 ---
+# Agentic Systems For Complex Financial Structures: The Principal Mandate
 
 Institutional capital has entered a new epoch: agentic decision rails, continuous‑time credit scoring, and self-reinforcing liquidity engines.
 

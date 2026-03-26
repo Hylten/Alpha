@@ -342,7 +342,6 @@ Tell me the depth you want: Do you want the full system blueprint?
 
 Or do you want the modular agent design?
 
-
 ## Sammanfattning
 
 Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

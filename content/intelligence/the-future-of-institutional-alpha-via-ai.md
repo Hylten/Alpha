@@ -1,7 +1,6 @@
 ---
 title: "# The Future of Institutional Alpha via AI
 
-
 Institutional alpha is migrating"
 description: ""
 date: '2026-03-25'

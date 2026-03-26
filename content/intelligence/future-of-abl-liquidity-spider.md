@@ -9,6 +9,7 @@ date: '2025-09-27'
 author: Jonas Hyltén
 slug: future-of-abl-liquidity-spider
 ---
+# The Future Of Asset-based Lending: Prompting The Liquidity Spider
 
 The dislocation in North American private credit is not the result of liquidity scarcity.
 

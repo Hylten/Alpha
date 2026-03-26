@@ -1,7 +1,6 @@
 ---
 title: "# Sovereign AI: Architecting the Digital Balance Sheet
 
-
 Sovereign AI has transitioned from frontier theory to operational mandate."
 description: ""
 date: '2026-03-25'

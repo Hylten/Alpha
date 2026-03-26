@@ -1,7 +1,6 @@
 ---
 title: "# The Alpha Playbook for Agentic Finance
 
-
 Agentic finance is not a trend"
 description: ""
 date: '2026-03-25'

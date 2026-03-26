@@ -8,6 +8,7 @@ date: '2025-09-19'
 author: Jonas Hyltén
 slug: agentic-systems-institutional-liquidity-architecture
 ---
+# Agentic Systems For Institutional Capital: The New Architecture Of Liquidity
 
 The structural gap emerging across global private markets is a function of algorithmic inefficiency rather than asset scarcity.
 

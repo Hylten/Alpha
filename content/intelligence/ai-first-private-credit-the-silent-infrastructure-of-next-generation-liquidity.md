@@ -1,7 +1,6 @@
 ---
 title: "# The Future of AI-First Private Credit
 
-
 The private credit arena is entering a structural rewrite"
 description: ""
 date: '2026-03-25'
