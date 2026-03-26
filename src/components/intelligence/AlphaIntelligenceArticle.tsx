@@ -277,6 +277,62 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
                 </div>
             </div>
 
+            {/* Prev/Next Navigation */}
+            {allPosts.length > 1 && (
+                <div className="mt-24 pt-12 border-t border-white/10">
+                    <div className="grid grid-cols-2 gap-8">
+                        <div>
+                            {currentIndex < allPosts.length - 1 && (
+                                <a
+                                    href={`/Alpha/intelligence/${allPosts[currentIndex + 1].slug}`}
+                                    className="block group"
+                                >
+                                    <span className="text-[9px] tracking-[0.2em] text-gray-600 uppercase block mb-2">← Previous</span>
+                                    <span className="text-sm text-gray-400 group-hover:text-oldgold transition-colors line-clamp-2">{allPosts[currentIndex + 1].title}</span>
+                                </a>
+                            )}
+                        </div>
+                        <div className="text-right">
+                            {currentIndex > 0 && (
+                                <a
+                                    href={`/Alpha/intelligence/${allPosts[currentIndex - 1].slug}`}
+                                    className="block group"
+                                >
+                                    <span className="text-[9px] tracking-[0.2em] text-gray-600 uppercase block mb-2">Next →</span>
+                                    <span className="text-sm text-gray-400 group-hover:text-oldgold transition-colors line-clamp-2">{allPosts[currentIndex - 1].title}</span>
+                                </a>
+                            )}
+                        </div>
+                    </div>
+                </div>
+            )}
+
+            {/* Share Button - Static at bottom */}
+            <div className="mt-16 flex justify-center">
+                <div className="relative">
+                    <button
+                        onClick={() => {
+                            const popup = document.getElementById('martech-share-popup');
+                            if (popup) popup.style.display = popup.style.display === 'none' ? 'flex' : 'none';
+                        }}
+                        className="flex items-center gap-2 px-5 py-2 bg-white/[0.03] border border-white/10 rounded-full opacity-40 hover:opacity-80 transition-all"
+                    >
+                        <span className="text-[10px] tracking-[2px] uppercase text-gray-400 font-medium">Share</span>
+                        <svg className="w-3 h-3 text-gray-400" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="M5 15l7-7 7 7" />
+                        </svg>
+                    </button>
+                    <div id="martech-share-popup" style={{ display: 'none' }} className="absolute bottom-12 left-1/2 -translate-x-1/2 flex gap-3 bg-obsidian border border-white/10 px-4 py-3 rounded-2xl shadow-xl">
+                        <a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(window.location.href)}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 flex items-center justify-center rounded-full hover:bg-white/10 transition-colors">
+                            <svg className="w-4 h-4 text-[#0077B5]" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                        </a>
+                        <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(window.location.href)}&text=${encodeURIComponent(meta.title || '')}`} target="_blank" rel="noopener noreferrer" className="w-8 h-8 flex items-center justify-center rounded-full hover:bg-white/10 transition-colors">
+                            <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
             <footer className="mt-16 text-center">
                 <p className="font-mono text-[9px] text-gray-600 tracking-widest uppercase">
                     &copy; {new Date().getFullYear()} Roials Capital Intelligence. All rights reserved.
