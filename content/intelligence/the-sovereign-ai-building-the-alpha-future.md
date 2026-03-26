@@ -1,13 +1,10 @@
 ---
-
 title: "The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "the-sovereign-ai-building-the-alpha-future"
 ---
-Here is the translation, keeping all markdown.  
-Only the Swedish section is translated; the rest was already in English.
 
 ## The Sovereign AI: Building the Alpha Future Sovereign AI is not a concept
 
@@ -151,6 +148,7 @@ If you require structures that institutional capital has not yet learned to repl
 
 Then you are in the correct place.
 
-## Summary
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

@@ -1,328 +1,315 @@
 ---
-
 title: "Inledning: En ny maktaxel"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "agentic-intelligence-mna-liquidity-engineering"
 ---
-Here is the translation, with your original markdown preserved:
-
----
 
 Market and Demand Engineering: Agentic GTM Liquidity as Sovereign Infrastructure
 
-## Introduction: A new axis of power
+## Inledning: En ny maktaxel
 
-The global economy has shifted from capital dominance to coordination dominance. This means that value is no longer primarily created through access to money or markets, but through the ability to orchestrate information flows, demand structures, and production chains in real time. Nations, companies, and institutions that master this new discipline become system stewards rather than participants.
+Den globala ekonomin har rört sig från kapitaldominans till koordinationsdominans. Det innebär att värde inte längre primärt skapas genom tillgång till pengar eller marknader, utan genom förmågan att orkestrera informationsflöden, efterfrågestrukturer och produktionskedjor i realtid. Nationer, företag och institutioner som behärskar den här nya disciplinen blir systemförvaltare snarare än deltagare.
 
-This shift defines the emergence of market and demand engineering as its own field. At the center are agentic GTM systems that drive liquidity, absorption capacity, and signal propagation between markets, technologies, and actors. As these systems leave the experimental stage and begin functioning as operational core components, they acquire characteristics more similar to energy grids, payment infrastructure, and telecommunications than traditional marketing.
+Det är detta skifte som definierar uppkomsten av marknads- och efterfrågeingenjörskonsten som ett eget fält. I centrum står agentiska GTM-system som driver likviditet, absorptionskapacitet och signalpropagering mellan marknader, teknologier och aktörer. När dessa system lämnar experimentstadiet och börjar fungera som operativa kärnkomponenter får de egenskaper som mer liknar energinät, betalningsinfrastruktur och telekom än traditionell marknadsföring.
 
-This is GTM as sovereign infrastructure.
+Detta är GTM som suverän infrastruktur.
 
-This first part establishes the technical base model and structural logic behind what happens when autonomy, coordination intelligence, and market-driving agents begin to replace human GTM work at scale. The focus is not on tactics, but on the new architecture now emerging behind the scenes in advanced organizations and governmental programs.
+I denna första del etableras den tekniska grundmodellen och den strukturella logiken bakom vad som händer när autonomi, koordinationsintelligens och marknadsdrivande agenter börjar ersätta mänskligt GTM-arbete i skala. Fokus ligger inte på taktik, utan på den nya arkitektur som nu växer fram bakom kulisserna i avancerade organisationer och statliga program.
 
-## Why traditional GTM is structurally incapable of scaling
+## Varför traditionell GTM är strukturellt oförmögen att skala
 
-The fact that GTM functions have traditionally been labor-intensive is no coincidence. The processes are built on sequential human cognition: analysis, segmentation, creation, outreach, conversion, relationship-building. The entire engine depends on manual friction, and therefore on human limitation.
+Att GTM-funktioner traditionellt varit personalintensiva är ingen slump. Processerna bygger på sekventiell mänsklig kognition: analys, segmentering, skapande, outreach, konvertering, relationsbyggande. Hela motorn är beroende av manuell friktion, och därmed också av mänsklig begränsning.
 
-The three central obstacles are:
+De tre centrala hindren är:
 
-1. Bounded cognition: A human cannot absorb and process thousands of simultaneous market signals in real time.
-2. Asynchronous coordination: Humans synchronize slowly, causing GTM systems to fragment and become inconsistent.
-3. Cost-delayed scaling: Every attempt to increase capacity requires hiring more people, with exponentially rising costs for management, training, and quality control.
+1. Bounded cognition: En människa kan inte absorbera och bearbeta tusentals samtidiga marknadssignaler i realtid.
+2. Asynkron koordinering: Människor synkroniserar långsamt, vilket gör att GTM-system fragmenteras och blir inkonsistenta.
+3. Kostnadsfördröjd skalning: Varje försök att öka kapacitet kräver att fler människor tillsätts, med exponentiellt ökande kostnad för ledning, utbildning och kvalitetskontroll.
 
-The result is a structure in which growth in demand cannot be met with liquidity in demand creation. GTM has traditionally lacked the fluid, self-optimizing characteristics that define financial markets or internet traffic. It is manual, discrete, and friction-heavy.
+Resultatet är en struktur där tillväxt i efterfrågan inte kan mötas med likviditet i skapandet av efterfrågan. GTM har traditionellt saknat de flytande, självoptimerande egenskaper som präglar finansiella marknader eller internettrafik. Det är manuellt, styckvis och friktionstungt.
 
-This is why agentic GTM systems are not just an improvement — they are a system-class change.
+Det är därför agentiska GTM-system inte bara är en förbättring -- de är en systemklassförändring.
 
-## The emergence of GTM liquidity
+## Emergensen av GTM-likviditet
 
-Liquidity, in its economic sense, refers to the ability to convert a need into a transaction immediately with minimal cost and delay. Translated into GTM, liquidity means that demand can be created, redirected, and absorbed without bottlenecks.
+Likviditet, i sin ekonomiska betydelse, avser förmågan att omedelbart konvertera ett behov till en transaktion med minimal kostnad och fördröjning. Översatt till GTM innebär likviditet att efterfrågan kan skapas, omdirigeras och absorberas utan att flaskhalsar uppstår.
 
-GTM liquidity emerges when the following three components are interconnected:
+GTM-likviditet uppstår när följande tre komponenter kopplas samman:
 
-1. High-resolution buying signals generated by millions of micro-sensors in markets and user behavior.
-2. Autonomous agents that can act on these signals without human intermediaries.
-3. A capillary infrastructure of channels, messages, offers, and feedback loops governed by agents in real time.
+1. Högupplösta köpsignaler genererade av miljontals mikrosensorer i marknader och användarbeteenden.
+2. Autonoma agenter som kan agera på dessa signaler utan mänsklig mellanhand.
+3. En kapillär infrastruktur av kanaler, budskap, erbjudanden och feedbackslingor som agenterna styr i realtid.
 
-This is where GTM begins to resemble a market of flows rather than a sequence of campaigns.
+Det är här som GTM börjar likna en marknad av flöden snarare än en sekvens av kampanjer.
 
-When liquidity becomes high, three things happen:
+När likviditet blir hög, sker tre saker:
 
-1. Demand elasticity increases: markets can be shaped more rapidly.
-2. Waste disappears: agents communicate only when signals are relevant.
-3. Market clusters synchronize: buyers are coordinated to relevant nodes automatically.
+1. Efterfrågeelasticiteten ökar: marknader kan formas snabbare.
+2. Slöseriet försvinner: agenter kommunicerar endast när signalerna är relevanta.
+3. Marknadsklustren synkroniserar: köpare koordineras till relevanta noder automatiskt.
 
-Organizations moving toward this state not only improve sales and marketing. They upgrade their power base by directing the signal traffic that shapes market behavior.
+Organisationer som rör sig mot detta tillstånd förbättrar inte bara försäljning och marknadsföring. De uppgraderar sin maktbas genom att styra signaltrafiken som formar marknadernas beteende.
 
-## Sovereignty through coordination intelligence
+## Suveränitet genom koordinationsintelligens
 
-When demand generation becomes an infrastructure rather than a function, responsibility shifts from marketing departments to strategic command centers. The most advanced nations and companies are now establishing internal GTM networks that function as neural systems.
+När efterfrågegenereringen blir en infrastruktur snarare än en funktion, förflyttas ansvaret från marknadsavdelningar till strategiska kommandocentraler. De mest avancerade nationerna och företagen etablerar nu interna GTM-nätverk som fungerar som neurala system.
 
-The following signatures indicate that an organization is becoming sovereign within the coordination domain:
+Följande signaturer pekar på att en organisation är på väg att bli suverän inom koordinationsdomänen:
 
-1. An internal agent population that is persistent, memory-based, and role-specialized.
-2. An operating system that manages goals, resources, state data, conflict resolution, and safety rules for the agent collective.
-3. A distributed model for autonomous execution with minimal human inspection.
-4. Real-time demand shaping through continuous optimization of messaging, audiences, channel strategies, and offer structures.
-5. Interoperability between internal and external data streams.
+1. En intern agentpopulation som är persistent, minnesbaserad och rollspecialiserad.
+2. Ett operativsystem som hanterar mål, resurser, tillståndsdata, konfliktlösning och safety-regler för agentkollektivet.
+3. En distribuerad modell för autonom exekvering med minimal mänsklig inspektion.
+4. Real-time demand shaping via kontinuerlig optimering av budskap, målgrupper, kanalstrategier och erbjudandestrukturer.
+5. Interoperabilitet mellan interna och externa dataströmmar.
 
-Sovereignty emerges when an actor can not only react to the market, but actively configure its demand architecture.
+Suveränitet uppstår när en aktör inte bara kan reagera på marknaden, utan aktivt konfigurera dess efterfrågearkitektur.
 
-This is the technical equivalent of building energy infrastructure — but for attention, desire, and buying signals.
+Det här är den tekniska motsvarigheten till att bygga en energiinfrastruktur, fast för uppmärksamhet, begär och köpsignaler.
 
-## Market and demand engineering takes shape
+## Marknads- och efterfrågeingenjörskonsten tar form
 
-Market engineering is no longer about branding, communication, or marketing planning. In its modern form, it is a systems engineering field with the following core areas:
+Marknadsingenjörskonst handlar inte längre om branding, kommunikation eller marknadsplanering. I sin moderna form är det ett systemtekniskt fält med följande huvudområden:
 
-1. Demand Sensing: extraction of high-frequency market intelligence from all available sources.
-2. Demand Shaping: adjustment of narratives, incentives, and offers in real time.
-3. Demand Generation: orchestration of agentic chains that create and distribute demand impulses.
-4. Demand Absorption: optimization of conversion surfaces, price elasticity, and revenue pathways.
-5. Demand liquidity engineering: elimination of friction between stimulus, response, and realized transaction.
+1. Demand Sensing: extraction av högfrekvent marknadsintelligens från alla tillgängliga källor.
+2. Demand Shaping: justering av narrativ, incitament och erbjudanden i realtid.
+3. Demand Generation: orkestrering av agentiska kedjor som skapar och sprider efterfrågeimpulser.
+4. Demand absorption: optimering av konverteringsytor, priselasticitet och intäktsvägar.
+5. Demand liquidity engineering: eliminering av friktioner mellan stimulans, respons och realiserad transaktion.
 
-The last point is the most strategic. Liquidity engineering determines how much force an organization can exert on the shape, speed, and flow dynamics of markets.
+Det är den sista punkten som är den mest strategiska. Likviditetsingenjörskapet avgör hur mycket kraft en organisation kan utöva på marknadernas form, fart och flödesdynamik.
 
-GTM becomes an internal real-time economy, not a series of external campaigns.
+GTM blir därmed en sorts realtidsekonomi internt, inte en serie kampanjer externt.
 
-## Agentic GTM as a capillary network
+## Agentic GTM som ett kapillärt nätverk
 
-When agents take over GTM work, the human machinery is replaced by a new kind of organism. It consists of:
+När agenter tar över GTM-arbete ersätts det mänskliga maskineriet av en ny sorts organism. Den består av:
 
-1. Perception agents that listen to the market in real time.
-2. Reasoning agents that plan and simulate.
-3. Execution agents that interact with channels, customers, and partners.
-4. Meta-agents that optimize the behavior of the other agents.
-5. Evaluation agents that measure results and adjust goals.
+1. Perceptionsagenter som lyssnar på marknaden i realtid.
+2. Resonemangsagenter som planerar och simulerar.
+3. Exekveringsagenter som interagerar med kanaler, kunder och partners.
+4. Metagenter som optimerar de andra agenternas beteende.
+5. Evaluationsagenter som mäter resultat och justerar mål.
 
-This structure provides a zero-latency function for market influence. Every signal, every competitive move, every customer action triggers autonomous chains. It follows the same architectural principles that govern flow systems in biological organisms, financial markets, and advanced military C2 systems.
+Denna struktur ger en noll-latensfunktion för marknadspåverkan. Varje signal, varje konkurrerande drag, varje kundrörelse triggar autonoma kedjor. Det är samma arkitektoniska principer som styr flödessystem i biologiska organismer, finansiella marknader och avancerade militära C2-system.
 
-When the GTM system operates as a capillary web, the organization shifts from being a company to becoming an information-state entity in miniature. It governs flows, not campaigns.
+När GTM-systemet väl fungerar som en kapillär väv, går organisationen från att vara ett företag till att bli en informationsstatsenhet i miniatyr. Den styr flöden, inte kampanjer.
 
-## National infrastructure: why this is now a question of power
+## Nationell infrastruktur: varför detta nu är en maktfråga
 
-When AI agent networks can generate, steer, and accelerate demand, actors with access to these systems gain enormous influence. This creates a new kind of hegemonic capacity that is as geopolitical as it is technical.
+När AI-agentnätverk kan generera, styra och accelerera efterfrågan, får aktörer med tillgång till dessa system ett enormt inflytande. Det här skapar en ny sorts hegemonisk kapacitet som är lika geopolitisk som teknisk.
 
-There are three key reasons why GTM liquidity is now a sovereignty issue:
+Det finns tre nyckelfaktorer till varför GTM-likviditet nu är en suveränitetsfråga:
 
-1. The ability to shape global value chains through demand impulses.
-2. The ability to redirect capital flows through optimized market signaling.
-3. Control over narratives and technological adoption at the population level.
+1. Förmågan att forma globala värdekedjor via efterfrågeimpulser.
+2. Möjligheten att omdirigera kapitalflöden genom optimerad marknadssignalering.
+3. Kontroll över narrativ och teknologiska adoptioner på populationsnivå.
 
-This should not be confused with propaganda or political influence. It is about coordinative power — the ability to steer attention, resources, and decisions at scale. For nations, it is about ensuring that their technologies, standards, and companies become nodes in global networks. For companies, it is about integrating their GTM engine with their production and innovation cycles so tightly that the market can no longer separate them.
+Detta ska inte förväxlas med propaganda eller politisk påverkan. Det handlar om koordinativ makt -- förmågan att styra uppmärksamhet, resurser och beslut i stor skala. För nationer handlar det om att säkra att deras teknologier, standarder och företag blir nodpunkter i globala nätverk. För företag handlar det om att integrera sin GTM-motor med sina produktions- och innovationscykler så tätt att marknaden inte längre kan skilja dem åt.
 
-This is why agentic GTM systems should be regarded as critical infrastructure. They are not marketing tools. They are power generators.
+Det är därför agentiska GTM-system bör betraktas som kritisk infrastruktur. De är inte marknadsföringsverktyg. De är maktgeneratorer.
 
-## The physics of the market has changed
+## Marknadens fysik har förändrats
 
-As information flows accelerate to levels that exceed human capacity, system properties emerge that can no longer be understood through traditional economic theory. Three phenomena are particularly central:
+När informationsflöden accelererar till nivåer som överstiger mänsklig kapacitet uppstår systemegenskaper som inte längre går att förstå genom traditionell ekonomisk teori. Tre fenomen är särskilt centrala:
 
-1. Spontaneous demand coherence: when agents optimize narratives and offers in real time, target groups tend to converge more rapidly around supplier choices.
-2. Narrative-dominated markets: the distribution of stories has greater impact on demand than functional differences between products.
-3. Hyperelasticity: small signals can create large motions because agents amplify them.
+1. Spontan efterfrågekoherens: när agenter optimerar narrativ och erbjudanden i realtid tenderar målgrupper att konvergera snabbare kring val av leverantör.
+2. Narrativdominerade marknader: distributionen av berättelser får större påverkan på efterfrågan än produkternas funktionella skillnader.
+3. Hyperelasticitet: små signaler kan skapa stora rörelser eftersom agenter amplifierar dem.
 
-This is a new physics in which the market behaves more like a thermodynamic structure than a rational arena. Agentic GTM engines function as acceleration cores that raise the temperature of the demand system.
+Det är en ny fysik där marknaden agerar mer som en termodynamisk struktur än en rationell arena. Agentiska GTM-motorer fungerar som accelerationskärnor som höjer temperaturen på efterfrågesystemet.
 
-Mastering this physics is the new competitive advantage.
+Att behärska den fysiken är den nya konkurrensfördelen.
 
-## The three layers of modern GTM infrastructure
+## De tre lagren i modern GTM-infrastruktur
 
-When moving from manual GTM processes to sovereign GTM infrastructure, a three-layer model is required:
+När man går från manuella GTM-processer till suverän GTM-infrastruktur krävs en trelagersmodell:
 
-Layer 1: The perception network  
-This is the input plane consisting of data sources, sensors, API integrations, web scraping, competitor monitoring, and social signal intelligence. It is a real-time stream of high-density data.
+Lager 1: Perceptionsnätet  
+Detta är inputplanet som består av datakällor, sensorer, API-integrationer, webbskrapning, konkurrentmonitorering och social signalintelligens. Det är en realtidsström av högdensitetsdata.
 
-Layer 2: The agent layer  
-Here the agent population works to interpret signals, plan, execute, and optimize. They are persistent, role-specialized, and governed by goals rather than scripts.
+Lager 2: Agentlagret  
+Här arbetar agentpopulationen som tolkar signaler, planerar, exekverar och optimerar. De är persistent, rollspecialiserade och styrs av mål snarare än scripts.
 
-Layer 3: The liquidity layer  
-This consists of the channels, narratives, offers, funnels, and systems that create actual market flows. Liquidity emerges when agents can modulate flows with low friction.
+Lager 3: Likviditetslagret  
+Detta är de kanaler, narrativ, erbjudanden, funnels och system som skapar de faktiska marknadsflödena. Likviditeten uppstår när agenterna kan modulerar flödena med låg friktion.
 
-This three-layer model forms the basis of what is now being implemented in advanced GTM architectures across the tech sector, financial institutions, and national innovation programs.
+Denna trelagersmodell är grunden för vad som nu implementeras i avancerade GTM-arkitekturer i tekniksektorn, finansiella institutioner och nationella innovationsprogram.
 
-## A new business heart
+## Ett nytt affärshjärta
 
-When agentic systems take over GTM, a new core function emerges inside the organization. It is a kind of neural operating system that pulses through the entire company. This heart:
+När agentiska system tar över GTM uppstår en ny kärnfunktion i organisationen. Det är ett slags neuralt operativsystem som pulserar genom hela företaget. Detta hjärta:
 
-1. Sees everything, via the perception network.
-2. Understands everything, via the reasoning agents.
-3. Acts everywhere, via the execution agents.
-4. Learns continuously, via the feedback loops.
-5. Synchronizes the organization, via the liquidity layer.
+1. Ser allt, via perceptionsnätet.
+2. Förstår allt, via resonemangsagenterna.
+3. Agerar överallt, via exekveringsagenterna.
+4. Lär sig kontinuerligt, via feedbackslingorna.
+5. Synkroniserar organisationen, via likviditetslagret.
 
-It makes the company self-referential and self-optimizing. Decision-makers become curators rather than conductors. The internal GTM ecosystem functions better the less direct control is applied.
+Det gör företaget självrefererande och självoptimerande. Beslutsfattare blir snarare kuratorer än dirigenter. Det interna GTM-ekosystemet fungerar bättre ju mindre direktstyrning som sker.
 
-Organizations that adopt this model will dominate the next era of global value creation.
+Organisationer som antar denna modell blir de som dominerar nästa era av globalt värdeskapande.
 
-## Market and demand as controllable matter
+## Marknad och efterfrågan som styrbar materia
 
-The final step in understanding is that in this paradigm, the market is no longer something external. It becomes controllable matter. Flows of attention, incentives, and behaviors become manipulable when agentic GTM systems reach sufficient density, precision, and autonomy.
+Det sista steget i förståelsen är att marknaden i detta paradigm inte längre är något externt. Den blir styrbar materia. Flöden av uppmärksamhet, incitament och beteenden blir manipulerbara när agentiska GTM-system har tillräckligt hög täthet, precision och autonomi.
 
-But this requires a new kind of engineering that has never existed before. It resembles network engineering more than marketing. It is based on:
+Men detta kräver en ny sorts ingenjörskap som inte existerat tidigare. Den är mer lik nätverksingenjörskap än marknadsföring. Den bygger på:
 
-1. Modeling markets as dynamic systems.
-2. Continuous steering of signal flows.
-3. Optimization of nodes, channels, and energy input (in the form of narratives and incentives).
-4. Predictive controls based on simulated scenarios.
-5. Distributed execution via agent swarms.
+1. Modellering av marknader som dynamiska system.
+2. Kontinuerlig styrning av signalflöden.
+3. Optimering av noder, kanaler och energitillförsel (i form av narrativ och incitament).
+4. Prediktiva kontroller baserade på simulerade scenarier.
+5. Distribuerad exekvering via agentsvamar.
 
-This is why this field is now institutionally separating itself from traditional GTM functions. It is becoming a discipline of its own, with its own tools, standards, and doctrines.
+Det är därför detta område nu institutionellt separerar sig från traditionella GTM-funktioner. Det håller på att bli en egen disciplin, med egna verktyg, standarder och doktriner.
 
-And the development is moving much faster than most organizations are prepared for.
+Och utvecklingen går mycket snabbare än vad de flesta organisationer är förberedda på.
 
-As we move into the next part of the analysis, the technical architecture of agent populations, coordination mechanisms, hierarchy-free GTM networks, and how liquidity is actually measured and optimized in real time will be explored in deeper detail.
+När vi nu rör oss in i nästa del av analysen fördjupas den tekniska arkitekturen för agentpopulationer, koordinationsmekanismer, hierarkifria GTM-nätverk och hur likviditet faktiskt mäts och optimeras i realtid.
 
-## Operational market infrastructure as a national asset class
+## Operativ marknadsinfrastruktur som nationellt tillgångsslag
 
-When digital agents handle increasingly large parts of information gathering, coordination, and transactions, a new category of infrastructure emerges. It is not physical, and not solely digital in the traditional sense. It is operational in the same way that an electrical grid or a payment platform is operational, but its primary function is to generate coordination, demand formation, and market activity.
+När digitala agenter sköter allt större delar av informationsinhämtning, koordinering och transaktioner uppstår en ny kategori av infrastruktur. Den är inte fysisk och inte enbart digital i traditionell mening. Den är operativ på samma sätt som ett elnät eller en betalplattform är operativ, men dess primära funktion är att generera koordination, efterfrågeformation och marknadsaktivitet. 
 
-This infrastructure is not based on raw data but on the ongoing lifecycle of agent-driven GTM flows. This means that power no longer resides with the actor who owns the most data, but with the actor who controls the largest number of active, intelligent, and self-improving agent processes that influence actual decisions by market actors.
+Denna infrastruktur baseras inte på rå data utan på den löpande livscykeln av agentdrivna GTM flöden. Det innebär att makten inte längre ligger hos den aktör som äger flest data utan hos den aktör som kontrollerar den största mängden aktiva, intelligenta och självförbättrande agentprocesser som påverkar faktiska beslut hos marknadens aktörer.
 
-Understanding this as a national asset is critical. A country that controls large parts of its own agent economy and its GTM liquidity can effectively steer the allocation of attention, resources, commercial flows, and innovation capacity. This is a form of economic sovereignty that has not previously existed at this scale.
+Att förstå detta som nationellt tillgångsslag är centralt. Ett land som kontrollerar stora delar av sin egen agentekonomi och dess GTM likviditet kan i praktiken styra fördelningen av uppmärksamhet, resurser, kommersiella flöden och innovationskraft. Detta är en form av ekonomisk suveränitet som hittills inte funnits i denna skala.
 
-This is also why a potential Western dependency on non-Western agent platforms could be far more dangerous than previous dependencies on energy or semiconductors. Agent networks are not merely infrastructure for production but also for demand production. Whoever owns demand controls the value chain.
+Detta är också orsaken till att ett eventuellt västligt beroende av icke västliga agentplattformar skulle kunna bli betydligt farligare än tidigare beroenden av energi eller halvledare. Agentnät är nämligen inte bara en infrastruktur för produktion utan även för efterfrågeproduktion. Den som äger efterfrågan kontrollerar värdekedjan.
 
-## Agent-driven demand formation as a geopolitical power factor
+## Agentdriven efterfrågeformation som geopolitisk maktfaktor
 
-Traditionally, power in markets has been tied to production capacity, export dominance, and control over critical resources. With autonomous market agents, the balance of power shifts. Demand becomes as important to control as production.
+Traditionellt har makt i marknader kopplats till produktionskapacitet, exportdominans och kontroll över kritiska resurser. Med autonoma marknadsagenter skiftar maktbalansen. Efterfråga blir lika viktig att kontrollera som produktion.
 
-Agent ecosystems that handle prospecting, qualification, recommendations, price discovery, and purchasing decisions can steer both the volume and direction of trade flows. It is no longer a matter of influencing consumers through marketing. It is a matter of influencing the autonomous systems that themselves initiate market interactions.
+Agentekosystem som hanterar prospektering, kvalificering, rekommendationer, prisupptäckt och köpbeslut kan styra både volymer och riktning på handelsflöden. Det är inte längre en fråga om att påverka konsumenter genom marknadsföring. Det är en fråga om att påverka de autonoma system som själva initierar marknadsinteraktioner.
 
-This gives rise to a strategic question for national security:
+Detta ger upphov till en strategisk fråga för nationell säkerhet:
 
-Who controls the agents’ incentives and ability to make decisions that affect entire economic sectors?
+Vem styr agenternas incitament och förmåga att fatta beslut som påverkar hela ekonomiska sektorer
 
-If these agents are developed, trained, and run on infrastructure controlled by an external power, the decision power of an entire economy is displaced. Decisions that were previously decentralized across millions of actors become concentrated in the model that drives the agent collective. This represents a concentration of power with no historical precedent.
+Om dessa agenter utvecklas, tränas och körs på utrustning som kontrolleras av en extern makt förflyttas beslutskraften i en hel ekonomi. Beslut som tidigare var decentraliserade över miljontals aktörer koncentreras nu i modellen som driver agentkollektivet. Detta innebär i praktiken en maktkoncentration som saknar historiskt motstycke.
 
-When agents optimize purchasing, investments, resource allocation, and B2B flows, they can also be used to disrupt an adversary’s economy through subtle manipulation of demand formation. The effect becomes more granular, faster, and harder to detect than what traditional economic pressure can achieve.
+När agenter optimerar köp, investeringar, resurstilldelning och B2B flöden kan de även användas för att störa motståndares ekonomi genom subtil manipulerad efterfrågeformation. Effekten blir mer finmaskig, snabbare och svårare att upptäcka än vad traditionella ekonomiska påtryckningar kan uppnå.
 
-## Sovereign agent design as an economic defense system
+## Suverän agentdesign som ekonomiskt försvarssystem
 
-Just as a country needs control over its payment system and its military command system, it needs control over its agent frameworks. A sovereign agent ecosystem means that:
+Precis som ett land behöver kontroll över sitt betalningssystem och sitt militära ledningssystem behöver det kontroll över sina agentramverk. Ett suveränt agentekosystem innebär att:
 
-• all agent policies, incentives, and restrictions are defined nationally  
-• agents’ goals and behaviors can be verified  
-• the models driving the agents can be audited and updated without external influence  
-• the operational data generated remains within national jurisdiction  
-• the entire stack from compute to model to agent behavior is controllable  
+• alla agenters policyer, incitament och restriktioner definieras nationellt  
+• agenters mål och beteende kan verifieras  
+• modellerna som driver agenterna kan granskas och uppdateras utan extern påverkan  
+• den operativa datan som uppstår hålls inom nationellt jurisdiktionsområde  
+• hela stacken från compute till modell till agentbeteende är kontrollerbar  
 
-This is a form of economic defense. A country that builds its market system on agent platforms driven by foreign interests risks losing control over everything from supply chain allocation to investment pace in critical sectors.
+Detta är en form av ekonomiskt försvar. Ett land som bygger sitt marknadssystem på agentplattformar drivna av främmande intressen riskerar att tappa kontroll över allt från supply chain allokering till investeringstakt i kritiska sektorer.
+
+Agenternas logik kan riktas om, optimeras för motpartens strategiska mål, eller styras för att skapa flaskhalsar i specifika branscher. Även små justeringar i agenternas preferenser kan påverka makroekonomiska nyckeltal.
+
+Denna riskprofil är ny. Den är inte teknisk utan geopolitisk. Suverän agentdesign blir därför inte en valfri lyx utan ett fundament för nationell resiliens.
+
+## Likviditet i GTM processer som kritisk realtidsresurs
+
+GTM likviditet beskriver mängden och kvaliteten av marknadsengagemang som kan genereras per tidsenhet. I ett agentdrivet ekosystem bestäms denna likviditet av:
+
+• hur många agenter som är aktiva  
+• hur väl de kan förstå och modellera marknadssituationer  
+• hur effektivt de kan koordinera mellan varandra  
+• hur snabbt de kan producera beslutsrelevant information  
+• hur hög deras bandbredd är mot externa system  
+
+Länder som kan producera mer GTM likviditet kan lansera fler produkter, driva snabbare adoption, mobilisera efterfråga i strategiska sektorer och hålla en högre innovationshastighet. Det blir ett ekonomiskt luftvärn liksom ett innovationsacceleratornät.
+
+GTM likviditet kan även exporteras. Om ett land har dominans över agentekosystem som andra nationers företag använder, kan det i praktiken ta kontroll över delar av deras kommersiella aktivitet. Detta skulle utgöra en ekonomisk version av att kontrollera globala sjöfartsrutter.
+
+Därför blir GTM likviditet inte bara en intern resurs utan ett instrument för internationell maktprojektion.
+
+## En ny syn på marknader som styrbara system
+
+Marknader har traditionellt betraktats som emergenta fenomen som uppstår genom decentraliserade aktörers samspel. I en värld där agenter koordinerar detta samspel blir marknader mer styrbara. De förblir komplexa, men deras dynamik blir mer formbar och därmed mer förutsägbar.
+
+Detta innebär att:
+
+• efterfråga kan stabiliseras i realtid  
+• volatila branscher kan kontrolleras genom agentbaserad load balancing  
+• flaskhalsar kan förutses genom kontinuerlig simulerad friktionstestning  
+• innovation kan accelereras genom riktad aktivering av agentflöden  
+• marknadsrisker blir en funktion av modellarkitektur och inte bara av makrovariabler  
+
+Styrbarheten förändrar också ekonomiskt beslutsfattande på politisk nivå. Policymakare som tidigare agerat genom skatter och regleringar kan nu agera genom att ändra agenternas operativa incitament. Det innebär att statens handlingsyta breddas.
+
+Det är dock också en risk, eftersom feljusterade incitament i agentkollektivet kan skapa systemfel i mycket högre hastighet än traditionell policy. Därför krävs mekanismer för validering, revision och återställning av agentpopulationers målstrukturer.
+
+## De strategiska hoten från importerad agentekonomi
+
+Om ett land inte bygger sitt eget agentnät kommer det att importera ett. Detta medför tre huvudsakliga risker.
+
+Första risken är att operativ GTM kapacitet hamnar under externa aktörers inflytande. Det innebär att ett annat land indirekt kontrollerar hur snabbt och hur framgångsrikt företag kan nå kunder, partners eller investerare.
+
+Andra risken är att ekonomisk aktivitet kan manipuleras genom att justera agenternas rekommendationer. Detta behöver inte vara illvilligt. Det kan räcka med optimering för andra ekonomiers mål för att förändra resursflöden.
+
+Tredje risken är att den interna datan som uppstår genom agentinteraktioner kan exporteras i bearbetad form. Även om rå data stannar lokalt kan mönster, trender och prediktiv signal läcka ut via modelltelemetri eller agenter som tränats centralt.
+
+Detta är inte triviala risker. Det är strukturella beroenden som påverkar allt från produktivitet till nationell innovationsförmåga.
+
+## Behovet av en europeisk agentstack
+
+Europa saknar för närvarande en sammanhållen strategi för autonoma marknadsagenter. Det mesta av utvecklingen drivs av företag baserade i USA och Kina, medan europeiska aktörer främst fokuserar på reglering. Detta skapar en strukturell obalans.
+
+För ett europeiskt agentekosystem krävs tre saker.
+
+För det första behövs suverän compute kapacitet. Utan egen infrastruktur för modellträning och agentexekvering blir Europa beroende av leverantörer som kan påverka agenternas beteende.
+
+För det andra krävs interoperabla agentramverk. Agenter måste kunna kommunicera över språk, sektorer och jurisdiktioner utan att ett fåtal företag får monopol på protokollen.
+
+För det tredje måste Europa utveckla metoder för revision och certifiering av agentmodeller. Detta bör ske på ett sätt som inte bromsar innovation men ändå säkerställer att agentkollektivet är förenligt med europeiska mål.
+
+Dessa tre element utgör en agentstack som kan bära europeisk ekonomisk suveränitet under kommande decennier.
+
+## GTM likviditet som grund för europeisk innovationspolitik
+
+Traditionell innovationspolitik utgår från finansiering av forskning, stödprogram för startups och vissa skatteincitament. I en agentdriven ekonomi är detta otillräckligt. Innovation kräver snabb marknadsadoption, vilket kräver GTM likviditet.
+
+Det innebär att staten måste vara med och bygga infrastruktur som gör att nya företag kan nå marknaden lika snabbt som i USA eller Asien.
+
+Det handlar inte om subventioner. Det handlar om att stärka bandbredden i informationsflöden mellan producenter och konsumenter. Denna bandbredd är i dag beroende av digital marknadsföring, CRM system och manuella processer. Med autonoma agenter blir den en funktion av modellkapacitet.
+
+För att Europa ska vara konkurrenskraftigt måste denna kapacitet vara inhemsk.
+
+## Marknad och efterfråga som nationella styrmekanismer
+
+När marknader blir styrbara blir frågan vilken styrning som är legitim. Det är viktigt att skilja mellan två modeller.
+
+Den första modellen är central dirigerad styrning där staten försöker använda agenter för att detaljkontrollera ekonomin. Detta är ineffektivt, riskabelt och förenat med stora integritetsproblem.
+
+Den andra modellen är infrastrukturstyrning. Här erbjuder staten verktyg, protokoll och agentramverk som marknadsaktörer frivilligt använder. Staten styr inte beteendet direkt utan skapar spelregler och säkerställer att incitamenten är kompatibla med nationella mål.
+
+Det är den andra modellen som ger långsiktig resiliens.  
+
+I denna modell är efterfråga inte manipulerad, men den är assisterad och stabiliserad. Marknaden är fri men inte dysfunktionell. Innovation är snabb men inte beroende av enskilda monopol. Detta är ramen för en europeisk agentekonomi.
+
+## Vägen framåt
+
+Agentdrivna GTM system förändrar ekonomins funktionssätt i grunden. De förändrar vad som är möjligt att koordinera, hur snabbt marknader kan agera och vem som kontrollerar ekonomiska beslut. Detta skifte är för stort för att lämnas åt enbart företag.
+
+För Sverige, liksom för Europa, blir frågan inte om man ska engagera sig i denna utveckling utan hur man gör det på ett sätt som ger suveränitet och strategisk handlingskraft. 
+
+Det kräver:
+
+• suverän kontroll över agentekosystem  
+• egen compute och modellkapacitet  
+• interoperabla protokoll för agentkommunikation  
+• mekanismer för revision och säkerställd integritet  
+• ett politiskt ramverk för infrastrukturstyrning utan central dirigerad kontroll  
+
+Marknad och efterfråga är inte längre spontana fenomen. De är aktiva tillgångar som skapas och optimeras genom agentekosystem. Att bygga och kontrollera dessa system är lika viktigt som att bygga försvar, energi eller transportinfrastruktur.
+
+I nästa del fördjupas hur ett svenskt agentekosystem praktiskt kan etableras och hur det kan integreras med både offentlig sektor, industri och innovationsmiljöer utan att skapa nya strukturella beroenden.
 
 ---
 
-If you’d like, I can also provide:
 
-• a more concise summary  
-• an academic rewrite  
-• a version optimized for policymakers  
-• a diagrammatic or conceptual model without markdown  
+## Sammanfattning
 
-Just let me know.
-Agent logic can be redirected, optimized for an opposing party’s strategic goals, or steered to create bottlenecks in specific industries. Even small adjustments to agent preferences can affect macroeconomic indicators.
-
-This risk profile is new. It is not technical but geopolitical. Sovereign agent design therefore becomes not an optional luxury but a foundation for national resilience.
-
-## Liquidity in GTM processes as a critical real‑time resource
-
-GTM liquidity describes the amount and quality of market engagement that can be generated per unit of time. In an agent‑driven ecosystem, this liquidity is determined by:
-
-• how many agents are active  
-• how well they can understand and model market situations  
-• how effectively they can coordinate with one another  
-• how quickly they can produce decision‑relevant information  
-• how high their bandwidth is to external systems  
-
-Countries that can produce more GTM liquidity can launch more products, drive faster adoption, mobilize demand in strategic sectors, and maintain a higher pace of innovation. It becomes both an economic air‑defense system and an innovation accelerator network.
-
-GTM liquidity can also be exported. If a country dominates agent ecosystems used by companies in other nations, it can effectively take control over parts of their commercial activity. This would constitute an economic version of controlling global shipping routes.
-
-Therefore, GTM liquidity becomes not only an internal resource but an instrument of international power projection.
-
-## A new view of markets as steerable systems
-
-Markets have traditionally been viewed as emergent phenomena arising from the interactions of decentralized actors. In a world where agents coordinate these interactions, markets become more steerable. They remain complex, but their dynamics become more malleable and therefore more predictable.
-
-This means that:
-
-• demand can be stabilized in real time  
-• volatile industries can be controlled through agent‑based load balancing  
-• bottlenecks can be predicted through continuous simulated friction testing  
-• innovation can be accelerated through targeted activation of agent flows  
-• market risk becomes a function of model architecture and not just macro variables  
-
-Steerability also changes economic decision‑making at the political level. Policymakers who previously acted through taxes and regulation can now act by modifying the operational incentives of agents. This expands the state’s effective action space.
-
-It is also a risk, however, because misaligned incentives in the agent collective can create system failures much faster than traditional policy. Mechanisms are therefore needed for validation, auditing, and restoration of agent population goal structures.
-
-## The strategic threats from imported agent economies
-
-If a country does not build its own agent network, it will import one. This introduces three major risks.
-
-The first risk is that operational GTM capacity falls under the influence of external actors. This means another country can indirectly control how quickly and successfully firms can reach customers, partners, or investors.
-
-The second risk is that economic activity can be manipulated by adjusting agent recommendations. This does not need to be malicious. Optimization for other economies’ goals can be enough to alter resource flows.
-
-The third risk is that the internal data generated through agent interactions can be exported in processed form. Even if raw data remains local, patterns, trends, and predictive signals may leak through model telemetry or centrally trained agents.
-
-These are not trivial risks. They are structural dependencies that affect everything from productivity to national innovation capability.
-
-## The need for a European agent stack
-
-Europe currently lacks a coherent strategy for autonomous market agents. Most development is driven by companies based in the US and China, while European actors mainly focus on regulation. This creates a structural imbalance.
-
-A European agent ecosystem requires three things.
-
-First, sovereign compute capacity. Without its own infrastructure for model training and agent execution, Europe becomes dependent on providers who can influence agent behaviour.
-
-Second, interoperable agent frameworks. Agents must be able to communicate across languages, sectors, and jurisdictions without a small number of companies monopolizing the protocols.
-
-Third, Europe must develop methods for auditing and certifying agent models. This must be done in a way that does not slow innovation but still ensures that the agent collective aligns with European goals.
-
-These three elements constitute an agent stack that can support European economic sovereignty in the coming decades.
-
-## GTM liquidity as the foundation of European innovation policy
-
-Traditional innovation policy builds on research funding, support programs for startups, and certain tax incentives. In an agent‑driven economy, this is insufficient. Innovation requires rapid market adoption, which requires GTM liquidity.
-
-This means the state must help build infrastructure that allows new companies to reach the market as quickly as in the US or Asia.
-
-This is not about subsidies. It is about strengthening the bandwidth of information flows between producers and consumers. Today, this bandwidth depends on digital marketing, CRM systems, and manual processes. With autonomous agents, it becomes a function of model capacity.
-
-For Europe to remain competitive, this capacity must be domestic.
-
-## Market and demand as national steering mechanisms
-
-When markets become steerable, the key question is what form of steering is legitimate. It is important to distinguish between two models.
-
-The first model is centralized directive control, where the state attempts to use agents to micromanage the economy. This is inefficient, risky, and associated with major privacy concerns.
-
-The second model is infrastructure‑level steering. Here, the state provides tools, protocols, and agent frameworks that market actors voluntarily use. The state does not control behaviour directly but sets the rules of the game and ensures incentives align with national goals.
-
-It is the second model that provides long‑term resilience.
-
-In this model, demand is not manipulated, but it is assisted and stabilized. The market is free but not dysfunctional. Innovation is fast but not dependent on individual monopolies. This is the framework for a European agent economy.
-
-## The path forward
-
-Agent‑driven GTM systems fundamentally change how the economy operates. They change what can be coordinated, how quickly markets can act, and who controls economic decisions. This shift is too significant to be left solely to private companies.
-
-For Sweden, and for Europe, the question is not whether to engage with this development but how to do so in a way that ensures sovereignty and strategic capability.
-
-This requires:
-
-• sovereign control over the agent ecosystem  
-• domestic compute and model capacity  
-• interoperable protocols for agent communication  
-• mechanisms for auditing and guaranteed integrity  
-• a political framework for infrastructure‑level steering without centralized directive control  
-
-Market and demand are no longer spontaneous phenomena. They are active assets created and optimized through agent ecosystems. Building and controlling these systems is as important as building defense, energy, or transport infrastructure.
-
-The next section will delve deeper into how a Swedish agent ecosystem can be practically established and how it can integrate with the public sector, industry, and innovation environments without creating new structural dependencies.
-
----
-
-## Summary
-
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

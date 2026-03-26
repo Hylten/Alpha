@@ -1,13 +1,9 @@
 ---
-
 title: "THE MANDAT E"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "ai-centric-sovereign-financing-alpha"
----
-Here is the English translation, with your markdown preserved. The text was already in English, so I have retained the structure exactly as requested:
-
 ---
 
 The capital vacuum in global sovereign finance is no longer defined by interest rate cycles or geopolitical volatility.
@@ -209,9 +205,6 @@ Stewardship in sovereign finance means:
 
 - No arrangements that obscure risk from the allocator.
 
----
-
-If you intended to provide Swedish text but pasted the English version instead, feel free to send the Swedish version and I will translate it precisely.
 AI strengthens stewardship by eliminating emotional bias, negotiation asymmetry, and human speed limitations.
 
 The technology creates a more transparent, predictable, and ethically coherent credit environment.
@@ -229,9 +222,13 @@ THE DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate with
 The following lens helps determine alignment with AI centric sovereign credit:
 
 - Does the allocation require non correlated return streams that sit outside traditional private credit cycles?
+
 - Does the portfolio need exposure to commodity backed sovereign flows without taking duration risk?
+
 - Is there a requirement for capital efficiency, cross collateralization optionality, or Monetization Architecture to smooth portfolio volatility?
+
 - Is the allocator seeking structures that provide asymmetric information advantages without breaching regulatory neutrality?
+
 - Does the portfolio benefit from computational underwriting that compresses risk while expanding opportunity velocity?
 
 If the answer aligns with structural needs, the next
@@ -250,6 +247,7 @@ The firm does not direct capital.
 
 It engineers clarity, alignment, and
 
-## Summary
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+## Sammanfattning
+
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

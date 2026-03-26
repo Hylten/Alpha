@@ -1,11 +1,11 @@
 ---
-
 title: "AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending The architecture of private credit is shifting"
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
 slug: "aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity"
 ---
+
 ## AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending The architecture of private credit is shifting
 
 .
@@ -41,6 +41,6 @@ The capital markets of the next decade will be governed by:
 This positions Roials‑Alpha not as a competitor within the private credit field, but as the underlying infrastructure that makes the field functional.
 
 
-## Summary
+## Sammanfattning
 
-The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
+Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.
