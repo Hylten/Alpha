@@ -1,11 +1,11 @@
 ---
-
-title: "  Ai Driven Liquidity Architecture For Institutional Sovereigns: A Technical Framework For Capital Efficiency And Cross Jurisdictional Precision
-description: "  A clinical analysis of AI coordinated liquidity systems, institutional balance sheet engineering, and sovereign grade capital routing. Focus on algorithmic credit structuring, operational intelligence, and the emerging regime of autonomous capital architectures.
+title: "Ai Driven Liquidity Architecture For Institutional Sovereigns: A Technical Framework For Capital Efficiency And Cross Jurisdictional Precision"
+description: "A clinical analysis of AI coordinated liquidity systems, institutional balance sheet engineering, and sovereign grade capital routing. Focus on algorithmic credit structuring, operational intelligence, and the emerging regime of autonomous capital architectures."
 date: '2026-03-09'
-author: Jonas Hyltén
-slug: ai-driven-liquidity-architecture-institutional-sovereigns
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 The capital vacuum in global sovereign portfolios is no longer defined by asset scarcity but by the latency inherent in human‑mediated allocation pathways.
 
 The 2026 environment has shifted decisively toward machine‑led precision where liquidity formation, risk segmentation, and transaction sequencing are now executed within autonomous frameworks.

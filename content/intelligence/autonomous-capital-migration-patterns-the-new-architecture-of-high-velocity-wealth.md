@@ -1,11 +1,11 @@
 ---
-
-title: "  Autonomous Capital Migration Patterns: The New Architecture Of High Velocity Wealth
-description: "  A high authority analysis of liquidity behavior, private credit, and asset based liquidity engineering in an autonomous capital environment.
+title: "Autonomous Capital Migration Patterns: The New Architecture Of High Velocity Wealth"
+description: "A high authority analysis of liquidity behavior, private credit, and asset based liquidity engineering in an autonomous capital environment."
 date: '2025-12-19'
-author: Jonas Hyltén
-slug: "  autonomous-capital-migration-patterns-the-new-architecture-of-high-velocity-wealth
+author: "Jonas Hyltén"
+slug: "autonomous-capital-migration-patterns-the-new-architecture-of-high-velocity-wealth"
 ---
+
 ## Autonomous Capital Migration Patterns Autonomous capital is no longer a theory
 
 .

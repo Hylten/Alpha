@@ -1,11 +1,11 @@
 ---
-
-title: "  Autonomous Systems For Private Credit Expansion: The New Liquidity Architecture For Hnwi
-description: "  High‑end analysis on autonomous systems, liquidity engineering, and asset‑based Strategic Collateralization structures for private credit expansion.
+title: "Autonomous Systems For Private Credit Expansion: The New Liquidity Architecture For Hnwi"
+description: "High‑end analysis on autonomous systems, liquidity engineering, and asset‑based Strategic Collateralization structures for private credit expansion."
 date: '2025-10-28'
-author: Jonas Hyltén
-slug: "  autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi
+author: "Jonas Hyltén"
+slug: "autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi"
 ---
+
 ## Autonomous Systems for Private Credit Expansion Private credit is shifting
 
 .

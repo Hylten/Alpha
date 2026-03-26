@@ -1,11 +1,11 @@
 ---
-
-title: "  The Future Of Alpha: Ai Centric Sovereign Financing And The Institutional Reordering Of Global Credit
-description: "  A high density institutional briefing on the structural realignment of sovereign finance, the rise of AI driven credit architectures, and the emergence of algorithmic deal flow as the dominant source of non correlated alpha for UHNW allocators.
+title: "The Future Of Alpha: Ai Centric Sovereign Financing And The Institutional Reordering Of Global Credit"
+description: "A high density institutional briefing on the structural realignment of sovereign finance, the rise of AI driven credit architectures, and the emergence of algorithmic deal flow as the dominant source of non correlated alpha for UHNW allocators."
 date: '2025-09-13'
-author: Jonas Hyltén
-slug: ai-centric-sovereign-financing-alpha
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 The capital vacuum in global sovereign finance is no longer defined by interest rate cycles or geopolitical volatility.
 
 The structural gap is driven by computational asymmetry.

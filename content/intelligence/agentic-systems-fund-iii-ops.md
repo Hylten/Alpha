@@ -1,11 +1,11 @@
 ---
-
-title: "  Agentic Systems And The Structural Reformation Of Fund-iii Operational Intelligence
-description: "  A principal-level analysis of agentic architectures inside Fund-III workflows with emphasis on liquidity engineering, stewardship governance, and global regulatory alignment.
+title: "Agentic Systems And The Structural Reformation Of Fund-iii Operational Intelligence"
+description: "A principal-level analysis of agentic architectures inside Fund-III workflows with emphasis on liquidity engineering, stewardship governance, and global regulatory alignment."
 date: '2025-07-07'
-author: Jonas Hyltén
-slug: agentic-systems-Fund-III-ops
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 [START INTELLIGENCE REPORT] THE MANDATE
 
 Agentic systems have shifted from experimental autonomous infrastructure tools to core operational infrastructure within Fund-III environments.

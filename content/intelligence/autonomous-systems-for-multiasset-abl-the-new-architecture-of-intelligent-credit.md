@@ -1,11 +1,11 @@
 ---
-
-title: "  Autonomous Systems For Multi‑asset Asset-based Lending: The New Architecture Of Intelligent Credit
-description: "  A deep analysis of autonomous systems for multi‑asset Asset-Based Lending, optimized for liquidity engineering and high net worth credit execution.
+title: "Autonomous Systems For Multi‑asset Asset-based Lending: The New Architecture Of Intelligent Credit"
+description: "A deep analysis of autonomous systems for multi‑asset Asset-Based Lending, optimized for liquidity engineering and high net worth credit execution."
 date: '2025-07-11'
-author: Jonas Hyltén
-slug: "  autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit
+author: "Jonas Hyltén"
+slug: "autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit"
 ---
+
 ## Autonomous Systems for Multi Asset Asset-Based Lending The architecture of credit is shifting
 
 The locus of advantage is no longer who has capital.

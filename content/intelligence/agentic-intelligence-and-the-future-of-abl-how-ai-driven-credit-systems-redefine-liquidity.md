@@ -1,11 +1,11 @@
 ---
-
-title: "  Agentic Intelligence And The Future Of Asset-based Lending: How Ai-driven Credit Systems Redefine Liquidity
-description: "  How autonomous financial agents are transforming asset-based liquidity engineering into a proactive wealth engine.
+title: "Agentic Intelligence And The Future Of Asset-based Lending: How Ai-driven Credit Systems Redefine Liquidity"
+description: "How autonomous financial agents are transforming asset-based liquidity engineering into a proactive wealth engine."
 date: '2025-10-20'
-author: Jonas Hyltén
-slug: "  agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity
+author: "Jonas Hyltén"
+slug: "agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity"
 ---
+
 The Future of GTM Intelligence: How AI-Driven Signal Systems Redefine Market Entry
 
 ## The Structural Collapse of Traditional GTM Intelligence

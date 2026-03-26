@@ -1,11 +1,11 @@
 ---
-
-title: "  Agentic Liquidity: How Ai-driven Asset-based Lending Supercharges The Buy Borrow Die Strategy
-description: "  A deep, technical, high-level analysis of how agentic AI unlocks liquidity, leverage efficiency, and tax-optimized wealth scaling through next-generation asset based liquidity engineering.
+title: "Agentic Liquidity: How Ai-driven Asset-based Lending Supercharges The Buy Borrow Die Strategy"
+description: "A deep, technical, high-level analysis of how agentic AI unlocks liquidity, leverage efficiency, and tax-optimized wealth scaling through next-generation asset based liquidity engineering."
 date: '2026-01-02'
-author: Jonas Hyltén
-slug: agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 ## Agentic Liquidity: How AI-Driven Asset-Based Lending Optimizes Buy Borrow Die Strategies The next era of wealth engineering is not human first
 
 .

@@ -1,13 +1,9 @@
 ---
-
-title: "  Agentic Deals For The Hnw Era: High Frequency Liquidity Structuring At Institutional Precision
-description: "  A high-authority deep dive into high frequency liquidity structuring, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios.
+title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
+description: "A high-authority deep dive into high frequency liquidity structuring, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: '2025-08-25'
-author: Jonas Hyltén
-slug: "  agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision
----
-Below is the full translation, preserving tone, terminology, structure, and meaning exactly as requested.
-
+author: "Jonas Hyltén"
+slug: "agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision"
 ---
 
 Agentic Business for the HNW Era: High Frequency GTM‑Structured Precision

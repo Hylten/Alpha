@@ -1,11 +1,11 @@
 ---
-
-title: "  Proprietary Intelligence On Asset Hardening Via Defi Protocols For High Net Worth Capital
-description: "  Institutional brief on technical collateral hardening, volatility-indexed credit, and high-net-worth capital defense.
+title: "Proprietary Intelligence On Asset Hardening Via Defi Protocols For High Net Worth Capital"
+description: "Institutional brief on technical collateral hardening, volatility-indexed credit, and high-net-worth capital defense."
 date: '2026-03-20'
-author: Jonas Hyltén
-slug: "  proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital
+author: "Jonas Hyltén"
+slug: "proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital"
 ---
+
 Here is the translation, with tone, meaning, formatting, and all technical terminology preserved exactly as requested:
 
 ## Proprietary Intelligence on Asset Hardening via DeFi Protocols for High Net Worth Capital  

@@ -1,11 +1,11 @@
 ---
-
-title: "  Ai-first Private Credit: The Silent Infrastructure Of Next-generation Liquidity
-description: "  Explore how AI-first private credit and asset based liquidity engineering unlock institutional-grade liquidity for HNWI and UHNW portfolios.
+title: "Ai-first Private Credit: The Silent Infrastructure Of Next-generation Liquidity"
+description: "Explore how AI-first private credit and asset based liquidity engineering unlock institutional-grade liquidity for HNWI and UHNW portfolios."
 date: '2025-11-18'
-author: Jonas Hyltén
-slug: ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 Below is the English translation, preserving tone, terminology, and formatting exactly as requested.
 
 

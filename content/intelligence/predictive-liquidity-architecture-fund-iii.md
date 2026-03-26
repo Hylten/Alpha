@@ -1,11 +1,11 @@
 ---
-
-title: "  Predictive Liquidity Architecture For Fund-iii: Asset-based Lending Without Friction
-description: "  Institutional brief on AI-first asset‑backed lending, predictive liquidity models, and algorithmic credit architecture engineered for UHNW/HNW family‑office precision.
+title: "Predictive Liquidity Architecture For Fund-iii: Asset-based Lending Without Friction"
+description: "Institutional brief on AI-first asset‑backed lending, predictive liquidity models, and algorithmic credit architecture engineered for UHNW/HNW family‑office precision."
 date: '2025-08-21'
-author: Jonas Hyltén
-slug: predictive-liquidity-architecture-Fund-III
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 Here is the full English translation, preserving the professional tone, formatting, technical terminology, and meaning exactly:
 
 ---

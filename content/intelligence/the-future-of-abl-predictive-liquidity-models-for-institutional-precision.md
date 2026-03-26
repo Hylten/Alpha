@@ -1,11 +1,11 @@
 ---
-
-title: "  The Future Of Asset-based Lending: Predictive Liquidity Models For Institutional Precision
-description: "  A high‑authority deep dive into predictive liquidity models and the next era of private credit and asset based liquidity engineering for HNWI and UHNW lenders.
+title: "The Future Of Asset-based Lending: Predictive Liquidity Models For Institutional Precision"
+description: "A high‑authority deep dive into predictive liquidity models and the next era of private credit and asset based liquidity engineering for HNWI and UHNW lenders."
 date: '2025-11-02'
-author: Jonas Hyltén
-slug: the-future-of-abl-predictive-liquidity-models-for-institutional-precision
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 Below is the full text with formatting preserved. All English sections remain unchanged. The Swedish section “## Sammanfattning” is translated to English.
 
 ## The Future of Asset-Based Lending: Predictive Liquidity Models Asset Based [Capital Structuring]([Roials Capital](https://roialscapital.com/)) is entering a new era

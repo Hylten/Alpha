@@ -1,11 +1,11 @@
 ---
-
-title: "  Agentic Deals For The Hnw Era: High‑frequency Liquidity Structuring With Institutional Precision
-description: "  A principal‑level brief on AI‑first liquidity engineering, agentic credit systems, and institutional‑grade deal architecture for HNW and UHNW family offices seeking precision capital, high‑frequency liquidity rails, and autonomous credit intelligence.
+title: "Agentic Deals For The Hnw Era: High‑frequency Liquidity Structuring With Institutional Precision"
+description: "A principal‑level brief on AI‑first liquidity engineering, agentic credit systems, and institutional‑grade deal architecture for HNW and UHNW family offices seeking precision capital, high‑frequency liquidity rails, and autonomous credit intelligence."
 date: '2025-11-23'
-author: Jonas Hyltén
-slug: agentic-deals-hnw-era-liquidity-structuring
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 Below is the full translation, preserving tone, meaning, and formatting exactly as requested.
 
 ---

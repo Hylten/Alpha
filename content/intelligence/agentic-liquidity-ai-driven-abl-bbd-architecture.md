@@ -1,11 +1,11 @@
 ---
-
-title: "  Agentic Liquidity Architecture For Fund-iii: Ai‑driven Asset-based Lending As The New Institutional Leverage Regime
-description: "  A principal‑level analysis of agentic liquidity systems, AI‑driven asset‑based lending, and the structural redesign of Buy‑Borrow‑Die frameworks for institutional portfolios across private credit, energy assets, and family‑office capital stacks.
+title: "Agentic Liquidity Architecture For Fund-iii: Ai‑driven Asset-based Lending As The New Institutional Leverage Regime"
+description: "A principal‑level analysis of agentic liquidity systems, AI‑driven asset‑based lending, and the structural redesign of Buy‑Borrow‑Die frameworks for institutional portfolios across private credit, energy assets, and family‑office capital stacks."
 date: '2026-02-20'
-author: Jonas Hyltén
-slug: agentic-liquidity-ai-driven-abl-bbd-architecture
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 Agentic liquidity is not a feature upgrade.
 
 It is a jurisdictional inversion.

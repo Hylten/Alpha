@@ -1,11 +1,11 @@
 ---
-
-title: "  Parametric Arbitration Models For Adversarial Trade Environments Using The Sovereign Protocol
-description: "  Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol | Institutional Briefing by Roials-Alpha
+title: "Parametric Arbitration Models For Adversarial Trade Environments Using The Sovereign Protocol"
+description: "Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol | Institutional Briefing by Roials-Alpha"
 date: '2026-03-20'
-author: Jonas Hyltén
-slug: "  parametric-arbitration-models-for-adversarial-trade-environments-using-the-sovereign-protocol
+author: "Jonas Hyltén"
+slug: "parametric-arbitration-models-for-adversarial-trade-environments-using-the-sovereign-protocol"
 ---
+
 ## Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol INTRODUCTION
 
 Parametric arbitration is no longer an experimental frontier.

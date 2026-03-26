@@ -1,11 +1,11 @@
 ---
-
-title: "  Agentic Infrastructure For High‑net‑worth Portfolios: The New Liquidity Architecture
-description: "  A principal‑level briefing on AI‑first liquidity engineering, autonomous credit architecture, and agentic portfolio operating systems for UHNW/HNW private capital.
+title: "Agentic Infrastructure For High‑net‑worth Portfolios: The New Liquidity Architecture"
+description: "A principal‑level briefing on AI‑first liquidity engineering, autonomous credit architecture, and agentic portfolio operating systems for UHNW/HNW private capital."
 date: '2026-01-20'
-author: Jonas Hyltén
-slug: agentic-infrastructure-hnw-liquidity-architecture
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 ## Agentic Infrastructure: Re‑engineering Market Entry for HNW Liquidity Architecture  
 **Author: Jonas Hyltén**  
 **Style: Institutional GTM Engineering | Sovereign Tone | High‑Density Frequency**

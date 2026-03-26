@@ -1,11 +1,11 @@
 ---
-
-title: "  Ai-driven Asset-based Lending For Emerging Markets: The Silent Infrastructure Of Future Liquidity
-description: "  A dense institutional brief on AI-first asset‑based lending architecture, liquidity engineering, and sovereign‑grade credit structuring for emerging markets.
+title: "Ai-driven Asset-based Lending For Emerging Markets: The Silent Infrastructure Of Future Liquidity"
+description: "A dense institutional brief on AI-first asset‑based lending architecture, liquidity engineering, and sovereign‑grade credit structuring for emerging markets."
 date: '2025-12-19'
-author: Jonas Hyltén
-slug: ai-driven-abl-emerging-markets-infrastructure-liquidity
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 Emerging markets absorb shocks differently.
 
 Volatility becomes oxygen.

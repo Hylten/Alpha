@@ -1,11 +1,11 @@
 ---
-
-title: "  Ai Driven Asset-based Lending As The New Liquidity Engine For Healthcare And Technology Capital Markets
-description: "  Technical intelligence on AI enhanced asset based liquidity engineering across healthcare and technology ecosystems, with relevance to private equity Fund-III investment opportunities 2026.
+title: "Ai Driven Asset-based Lending As The New Liquidity Engine For Healthcare And Technology Capital Markets"
+description: "Technical intelligence on AI enhanced asset based liquidity engineering across healthcare and technology ecosystems, with relevance to private equity Fund-III investment opportunities 2026."
 date: '2025-06-25'
-author: Jonas Hyltén
-slug: ai-driven-abl-liquidity-engine-healthcare-tech-2026
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 Below is the translation, preserving tone, meaning, terminology, and formatting exactly as requested.
 
 [START INTELLIGENCE REPORT]

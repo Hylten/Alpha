@@ -1,11 +1,11 @@
 ---
-
-title: "  Ai-first Strategies For Asset-based Finance: The New Liquidity Architecture For Hnwi And Uhnw
-description: "  Advanced AI-driven approaches to private credit and asset-based liquidity engineering, engineered for high net worth liquidity optimization.
+title: "Ai-first Strategies For Asset-based Finance: The New Liquidity Architecture For Hnwi And Uhnw"
+description: "Advanced AI-driven approaches to private credit and asset-based liquidity engineering, engineered for high net worth liquidity optimization."
 date: '2025-11-18'
-author: Jonas Hyltén
-slug: "  ai-first-strategies-for-asset-based-finance-the-new-liquidity-architecture-for-hnwi-and-uhnw
+author: "Jonas Hyltén"
+slug: "ai-first-strategies-for-asset-based-finance-the-new-liquidity-architecture-for-hnwi-and-uhnw"
 ---
+
 Here is the full translation, with all formatting, terminology, tone, and structure preserved exactly as requested.
 
 

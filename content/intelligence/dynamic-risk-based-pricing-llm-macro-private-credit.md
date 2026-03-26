@@ -1,11 +1,11 @@
 ---
-
-title: "  Dynamic Risk‑based Pricing In Private Credit: The Architecture Of Llm‑driven Macroeconomic Foresight
-description: "  A Principal-level deep analysis of AI-first credit architecture, dynamic pricing engines, and the emergence of LLM-enhanced macro forecasting in private credit markets.
+title: "Dynamic Risk‑based Pricing In Private Credit: The Architecture Of Llm‑driven Macroeconomic Foresight"
+description: "A Principal-level deep analysis of AI-first credit architecture, dynamic pricing engines, and the emergence of LLM-enhanced macro forecasting in private credit markets."
 date: '2025-11-26'
-author: Jonas Hyltén
-slug: dynamic-risk-based-pricing-llm-macro-private-credit
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 The shift is already underway.
 
 Fixed‑premium private credit is dying.

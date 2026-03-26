@@ -1,11 +1,11 @@
 ---
-
-title: "  The Principal Architecture For Quantifying Key Person Risk Through Behavioral And Semantic Ai Indexing
-description: "  A technical dissection of how Roials-Alpha deploys behavioral vectors, semantic signal extraction, and longitudinal AI imaging to quantify Key Person Risk for UHNW/HNW family offices, Fund-III ecosystems, and industrial succession mandates.
+title: "The Principal Architecture For Quantifying Key Person Risk Through Behavioral And Semantic Ai Indexing"
+description: "A technical dissection of how Roials-Alpha deploys behavioral vectors, semantic signal extraction, and longitudinal AI imaging to quantify Key Person Risk for UHNW/HNW family offices, Fund-III ecosystems, and industrial succession mandates."
 date: '2025-10-05'
-author: Jonas Hyltén
-slug: key-person-risk-behavioral-semantic-ai-indexing
+author: "Jonas Hyltén"
+slug: ""
 ---
+
 The weak link is never the model.
 
 It is the human center of gravity that holds—or fails—the structure.
