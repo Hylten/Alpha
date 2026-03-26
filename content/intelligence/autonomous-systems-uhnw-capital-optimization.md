@@ -1,5 +1,5 @@
 ---
-title: "# Layer D Activates Only When Models Flag Anomalies or Geopolitical Conditions Shift"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

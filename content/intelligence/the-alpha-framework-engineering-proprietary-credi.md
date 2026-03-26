@@ -1,5 +1,5 @@
 ---
-title: "# The Alpha Framework Engineering Proprietary Credit Models Roials-Alpha Principal Doctrine"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

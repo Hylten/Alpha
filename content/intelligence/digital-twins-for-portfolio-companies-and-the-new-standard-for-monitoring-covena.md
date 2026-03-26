@@ -1,5 +1,5 @@
 ---
-title: "# Digital Twins for Portfolio Companies and the Modern Standard for Covenant Surveillance"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

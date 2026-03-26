@@ -1,5 +1,5 @@
 ---
-title: "# Layer C carries its own clearance rules, risk parameters, and geographic deployment corridors"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

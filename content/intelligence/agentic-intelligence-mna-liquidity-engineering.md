@@ -1,5 +1,5 @@
 ---
-title: "# Introduction: A New Axis of Power"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

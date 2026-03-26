@@ -1,5 +1,5 @@
 ---
-title: "# Agentic Systems and the New Architecture of PE Dealflow The Quiet Replacement of Manual Sourcing Private Equity Has Hit a Structural Limit"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

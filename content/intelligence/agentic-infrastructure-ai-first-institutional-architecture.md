@@ -1,5 +1,5 @@
 ---
-title: "# Introduction: The Agentic Reconfiguration of Capital Power"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

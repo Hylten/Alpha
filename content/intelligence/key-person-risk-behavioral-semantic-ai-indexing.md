@@ -1,5 +1,5 @@
 ---
-title: "# Layer M Measures the Delta Between Expressed Stress and Applied Decision Friction"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

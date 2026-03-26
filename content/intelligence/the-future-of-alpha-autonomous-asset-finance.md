@@ -1,5 +1,5 @@
 ---
-title: "# The Future of Alpha: Autonomous Asset Finance Is Shifting"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

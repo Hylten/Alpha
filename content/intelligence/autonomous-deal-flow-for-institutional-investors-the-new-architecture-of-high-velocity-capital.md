@@ -1,5 +1,5 @@
 ---
-title: "# Autonomous Deal Flow for Institutional Investors: Autonomy as the New Frontier of Capital Allocation"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

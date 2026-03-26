@@ -1,5 +1,5 @@
 ---
-title: "# The Structural Collapse of Traditional GTM Intelligence"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

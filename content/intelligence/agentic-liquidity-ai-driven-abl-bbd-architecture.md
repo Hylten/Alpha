@@ -1,5 +1,5 @@
 ---
-title: "# Phase C capital allocates into target assets—energy assets, private credit deals, operating companies, real assets—without waiting for liquidity windows."
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

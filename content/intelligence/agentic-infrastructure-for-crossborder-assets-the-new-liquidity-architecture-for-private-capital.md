@@ -1,5 +1,5 @@
 ---
-title: "# Agentic Infrastructure for Cross-border Assets: The New GTM Architecture for Private Capital"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

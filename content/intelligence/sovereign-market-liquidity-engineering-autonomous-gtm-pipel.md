@@ -1,5 +1,5 @@
 ---
-title: "# Introduction: Toward an Autonomous Market Architecture"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

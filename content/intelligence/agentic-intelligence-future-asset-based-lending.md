@@ -1,5 +1,5 @@
 ---
-title: "# Introduction: When GTM Stops Being Manual and Starts Becoming Predictive"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

@@ -1,5 +1,5 @@
 ---
-title: "# The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha Edition Asset-Based and Asset-Backed Frameworks Are No Longer a Mechanical Underwriting Play"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

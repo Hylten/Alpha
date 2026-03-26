@@ -1,5 +1,5 @@
 ---
-title: "# The Future of Asset-Based Lending: Activating the Liquidity Spider Asset-Based Strategic Collateralization Is No Longer a Static Structure"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

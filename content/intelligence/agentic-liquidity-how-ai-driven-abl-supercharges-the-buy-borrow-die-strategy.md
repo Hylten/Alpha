@@ -1,5 +1,5 @@
 ---
-title: "# Agentic Liquidity: How AI-Driven Asset-Based Lending Optimizes Buy Borrow Die Strategies The next era of wealth engineering is not human first"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

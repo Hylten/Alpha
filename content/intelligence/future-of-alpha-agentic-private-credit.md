@@ -1,5 +1,5 @@
 ---
-title: "# Phase C established a new performance threshold and a new challenge for allocators."
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

@@ -1,5 +1,5 @@
 ---
-title: "# Agentic Infrastructure for Private Credit: A New GTM Architecture for Sovereign Capital"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

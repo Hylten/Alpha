@@ -1,5 +1,5 @@
 ---
-title: "# Layer CL: Clears the Path Before the Human Enters the Room"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

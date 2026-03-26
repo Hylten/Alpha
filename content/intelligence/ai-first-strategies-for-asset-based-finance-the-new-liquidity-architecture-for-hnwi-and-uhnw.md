@@ -1,5 +1,5 @@
 ---
-title: "# AI-First Strategies for Asset-Based Finance: Asset-Based Finance Is No Longer Negotiable"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

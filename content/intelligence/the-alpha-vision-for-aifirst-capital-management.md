@@ -1,5 +1,5 @@
 ---
-title: "# The Alpha Vision for AI-First Capital Management: Roials Alpha Operates on a Singular Premise"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

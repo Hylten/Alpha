@@ -1,5 +1,5 @@
 ---
-title: "# AI‑Driven Asset Hardening: The New Frontier Where AI Is No Longer an Operational Advantage"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

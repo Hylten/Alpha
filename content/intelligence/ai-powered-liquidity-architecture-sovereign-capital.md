@@ -1,5 +1,5 @@
 ---
-title: "# Layer C: Constructs Underwriting Determinations Based On"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

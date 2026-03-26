@@ -1,5 +1,5 @@
 ---
-title: "# Asset Profiles as Core Components in GTM Infrastructure"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

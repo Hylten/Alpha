@@ -1,5 +1,5 @@
 ---
-title: "# Agentic Alpha: AI-Orchestrated Crypto-Backed Liquidity Engineering"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

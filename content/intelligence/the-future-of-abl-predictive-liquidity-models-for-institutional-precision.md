@@ -1,5 +1,5 @@
 ---
-title: "# The Future of Asset-Based Lending: Predictive Liquidity Models and the New Era of Asset-Based Capital Structuring"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

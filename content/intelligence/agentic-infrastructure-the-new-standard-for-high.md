@@ -1,5 +1,5 @@
 ---
-title: "# Introduction: The Silent Revolution in Modern Go-to-Market"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

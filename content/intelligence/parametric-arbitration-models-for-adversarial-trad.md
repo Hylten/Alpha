@@ -1,5 +1,5 @@
 ---
-title: "# Parametric Arbitration Models for Adversarial Trade Environments Using the Sovereign Protocol Introduction"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

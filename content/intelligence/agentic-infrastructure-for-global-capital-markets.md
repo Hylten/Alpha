@@ -1,5 +1,5 @@
 ---
-title: "# Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

@@ -1,5 +1,5 @@
 ---
-title: "# Layer M must remain aggressive, mobile, and algorithmically optimized."
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

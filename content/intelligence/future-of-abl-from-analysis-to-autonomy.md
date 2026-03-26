@@ -1,5 +1,5 @@
 ---
-title: "# Layer D: Decides"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

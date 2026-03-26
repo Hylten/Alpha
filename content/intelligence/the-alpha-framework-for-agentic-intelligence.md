@@ -1,5 +1,5 @@
 ---
-title: "# Alpha Framework for Agentic Intelligence: Roials-Alpha Exists for a Singular Purpose"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"

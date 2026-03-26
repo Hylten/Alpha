@@ -1,5 +1,5 @@
 ---
-title: "# Agentic Systems for Sovereign Capital Migration and the Reconfiguration of Global Wealth Architecture"
+title: ""
 description: ""
 date: '2026-03-25'
 author: "Jonas Hyltén"
