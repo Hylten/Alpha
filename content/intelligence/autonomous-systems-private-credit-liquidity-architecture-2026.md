@@ -216,7 +216,7 @@ It frames capital not as a consumable resource but as a generational trust.
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-— Proverbs 13:22reminds us that a good man leaves an inheritance to his children's children.
+ -  Proverbs 13:22reminds us that a good man leaves an inheritance to his children's children.
 
 Within this context, autonomous credit systems must serve as tools of responsible capital formation, not engines of opacity.
 

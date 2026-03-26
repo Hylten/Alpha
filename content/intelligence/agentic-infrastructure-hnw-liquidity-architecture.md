@@ -22,7 +22,7 @@ Agentic infrastructure is a systemic design discipline where:
 • Vibe coding governs perception architecture  
 • Signal-to-action engines collapse latency between intent and activation  
 
-The goal is to create an environment where high‑value market activity does not merely respond to GTM stimuli—it self‑initiates within your owned environment.
+The goal is to create an environment where high‑value market activity does not merely respond to GTM stimuli - it self‑initiates within your owned environment.
 
 Agentic infrastructure reframes GTM from a probability game into an engineered control system.
 
@@ -34,13 +34,13 @@ The legacy sales funnel relies on progressive human arbitration. Each stage intr
 Signal-to-action is the architecture that compresses the path from signal captured to action executed into a single programmable sequence. The mechanics:
 
 1. **Signal Capture Layer**  
-   High-resolution capture of intent signals—portfolio posture, cross‑asset movement, velocity shifts, digital traces, and liquidity readiness indicators.  
+   High-resolution capture of intent signals - portfolio posture, cross‑asset movement, velocity shifts, digital traces, and liquidity readiness indicators.  
 2. **Contextualization via Enrichment Waterfalls**  
    Every raw intent signal passes through multi‑layer enrichment: financial metadata, temporal markers, behavioral density, and relational mapping.  
 3. **Interpretation through Agentic Models**  
    Autonomous agents interpret enriched signals against your GTM ontology to determine action probability.  
 4. **Action Automation Layer**  
-   The system executes predetermined sequences—outreach, API calls, environment provisioning, liquidity modeling, or portfolio simulation—without human gating.  
+   The system executes predetermined sequences - outreach, API calls, environment provisioning, liquidity modeling, or portfolio simulation - without human gating.  
 
 This is not automation. It is deterministic GTM physics.
 
@@ -69,7 +69,7 @@ This is not analytics. It is GTM Infrastructure Ownership.
 ---
 
 ## 4. APIs as Liquidity Corridors  
-APIs in agentic GTM are not feature integrations. They are **liquidity corridors**—programmable surfaces where high‑value capital flows can travel without friction. APIs carry information, intent, classification, context, and action payloads.
+APIs in agentic GTM are not feature integrations. They are **liquidity corridors** - programmable surfaces where high‑value capital flows can travel without friction. APIs carry information, intent, classification, context, and action payloads.
 
 The architecture:
 
@@ -89,7 +89,7 @@ Enrichment waterfalls transform raw signal data into actionable intelligence. Wi
 Enrichment works as follows:
 
 1. **Raw Extraction**  
-   Capture all unstructured signals—portfolio shifts, asset movements, behavioral indicators, velocity cues.  
+   Capture all unstructured signals - portfolio shifts, asset movements, behavioral indicators, velocity cues.  
 2. **Metadata Expansion**  
    Append cross‑asset metadata, time signatures, relational tagging, and inferred intent.  
 3. **Contextual Linking**  
@@ -106,7 +106,7 @@ Market entry inevitability defines liquidity sovereignty.
 ---
 
 ## 6. Vibe Marketing and Vibe Coding  
-In high‑net‑worth liquidity markets, perception is not shaped by content volume; it is shaped by **perception signature**—the coded frequency that communicates authority without explicit narrative.
+In high‑net‑worth liquidity markets, perception is not shaped by content volume; it is shaped by **perception signature** - the coded frequency that communicates authority without explicit narrative.
 
 Vibe marketing and vibe coding are not branding. They are **perception architecture**.
 
@@ -192,12 +192,12 @@ An agentic GTM stack is composed of four high-density layers:
 • Autonomous outreach  
 • Synthetic touchpoints  
 
-The result is a GTM stack that does not merely scale—it compounds.
+The result is a GTM stack that does not merely scale - it compounds.
 
 ---
 
 ## 10. Synthetic Market Entry Environments  
-Agentic infrastructure enables the construction of **synthetic environments**—computational surfaces where high‑value participants interact with your system before interacting with your organization.
+Agentic infrastructure enables the construction of **synthetic environments** - computational surfaces where high‑value participants interact with your system before interacting with your organization.
 
 Synthetic environments include:
 
@@ -264,7 +264,7 @@ High‑net‑worth liquidity follows vector principles:
 • Vector 3: Information Velocity  
 • Vector 4: Execution Velocity  
 
-Agentic infrastructure collapses these velocities into a single synchronized flow. When velocity alignment is achieved, conversion is not persuasion—it is physics.
+Agentic infrastructure collapses these velocities into a single synchronized flow. When velocity alignment is achieved, conversion is not persuasion - it is physics.
 
 ---
 

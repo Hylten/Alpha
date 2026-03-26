@@ -232,7 +232,7 @@ Ethical Integrity Layer Systems operate under
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-— Proverbs 13:22.
+ -  Proverbs 13:22.
 
 They must protect generational capital rather than chase superficial returns.
 

@@ -11,7 +11,7 @@ Below is your 2000+ word English‑only article in institutional GTM engineering
 ## Agentic Infrastructure for Cross-border Assets: The New GTM Architecture for Private Capital  
 *By Jonas Hyltén*
 
-Cross‑border private capital is entering a structural phase shift. The previous cycle of international GTM operations—defined by fragmented asset data, localized distribution channels, and unscalable compliance barriers—is collapsing under its own latency. The emerging regime requires a new form of infrastructure: agentic, composable, self-upgrading, and capable of distributing private capital products across jurisdictions with machine-level precision. This infrastructure does not merely route information; it orchestrates intent, validates eligibility, and executes distribution sequences in real time.
+Cross‑border private capital is entering a structural phase shift. The previous cycle of international GTM operations - defined by fragmented asset data, localized distribution channels, and unscalable compliance barriers - is collapsing under its own latency. The emerging regime requires a new form of infrastructure: agentic, composable, self-upgrading, and capable of distributing private capital products across jurisdictions with machine-level precision. This infrastructure does not merely route information; it orchestrates intent, validates eligibility, and executes distribution sequences in real time.
 
 This article outlines the next-generation GTM architecture for private capital, built on agentic systems, enrichment waterfalls, multi-jurisdictional protocol surfaces, and cross-border distribution liquidity. The objective is to define the technical blueprint for how private capital firms expand internationally with predictable throughput and programmatic scalability. The frame is sovereign, high-density, and designed for the engineering leadership of the industry.
 
@@ -29,7 +29,7 @@ Agentic infrastructure replaces the pipeline model with a mesh model. In this ar
 - Enrichment waterfalls resolve identity, eligibility, and intent.  
 - Distribution surfaces activate where demand signals emerge.
 
-The result is not a pipeline but an environment—an active computational field that continuously processes, enriches, routes, and executes distribution logic.
+The result is not a pipeline but an environment - an active computational field that continuously processes, enriches, routes, and executes distribution logic.
 
 Agentic infrastructure is characterized by three capabilities:
 
@@ -48,7 +48,7 @@ This environment is the new competitive frontier.
 
 ## Cross-border Assets and Distribution Liquidity
 
-The next-generation GTM architecture must achieve cross-border distribution liquidity. Liquidity in this sense does not refer to financial liquidity; it refers to *distribution throughput*—the ability to match cross-border demand to cross-border assets without manual intervention or regulatory friction.
+The next-generation GTM architecture must achieve cross-border distribution liquidity. Liquidity in this sense does not refer to financial liquidity; it refers to *distribution throughput* - the ability to match cross-border demand to cross-border assets without manual intervention or regulatory friction.
 
 Distribution liquidity requires:
 
@@ -60,7 +60,7 @@ Distribution liquidity requires:
 
 The infrastructure must abstract jurisdictional differences while preserving local compliance. This means that the agentic layer must synthesize regulatory interpretation into executable code. Once encoded, it becomes reusable across all distribution channels, allowing global scaling without duplicating GTM operations per market.
 
-The objective is to build a system where an asset can enter one side—say, a private credit vehicle in one region—and emerge on the other side as a compliant, localized, market-ready product in multiple jurisdictions simultaneously.
+The objective is to build a system where an asset can enter one side - say, a private credit vehicle in one region - and emerge on the other side as a compliant, localized, market-ready product in multiple jurisdictions simultaneously.
 
 This is the core of distribution liquidity.
 
@@ -209,7 +209,7 @@ In cross-border private capital, vibe coding operates across three dimensions:
    The infrastructure must communicate premium sovereign positioning through tone, precision, and configurational authority.
 
 2. **Motion**  
-   The system must behave with intention—predictive, decisive, low-latency. Motion becomes brand.
+   The system must behave with intention - predictive, decisive, low-latency. Motion becomes brand.
 
 3. **Friction**  
    Friction must be engineered, not accidental. Friction signals value. But it must be controlled and localized.

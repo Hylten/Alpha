@@ -13,7 +13,7 @@ Author: Jonas Hyltén
 
 ## 1. The Core Problem: Capital Markets Infrastructures Are Not Agentic
 
-Most global capital market systems were built for compliance, archival, and reporting—not autonomous origination. The consequence is predictable:
+Most global capital market systems were built for compliance, archival, and reporting - not autonomous origination. The consequence is predictable:
 
 - Opportunities decay before even entering internal systems.  
 - Proprietary deal flow is indistinguishable from public knowledge.  
@@ -37,7 +37,7 @@ Characteristics of agentic infrastructure:
 
 - **Stateful autonomy**: Each agent carries context across interactions.  
 - **Continuous motion**: No idle compute cycles; the system is always scanning, interpreting, scoring, or enriching.  
-- **Event‑driven architecture**: Everything is a trigger—market movements, regulatory shifts, corporate actions, sentiment oscillations, talent migration, liquidity signals.  
+- **Event‑driven architecture**: Everything is a trigger - market movements, regulatory shifts, corporate actions, sentiment oscillations, talent migration, liquidity signals.  
 - **Closed‑loop GTM**: Signals become actions without human mediation.  
 - **Compound leverage**: More data improves actions; more actions generate data.  
 - **Proprietary gravity**: The system produces exclusive insight that cannot be replicated externally.  
@@ -159,7 +159,7 @@ The mechanisms are:
   Systems capture weak signals long before they hit public visibility.
 
 - **Interpretation velocity**  
-  Faster interpretation produces earlier action—early action yields exclusivity.
+  Faster interpretation produces earlier action - early action yields exclusivity.
 
 - **Action density**  
   More actions executed at higher frequency produce more surface area for proprietary capture.
@@ -380,13 +380,13 @@ Agentic infrastructure is the new definition of institutional sovereignty. Insti
 
 Proprietary deal flow is no longer a function of network strength or manual effort. It is the output of a computational organism designed to detect, interpret, and act upon opportunity before the market even sees it.
 
-The shift is final. The future belongs to institutions that engineer agentic GTM infrastructure—not as a toolset, but as an operating system.
+The shift is final. The future belongs to institutions that engineer agentic GTM infrastructure - not as a toolset, but as an operating system.
 
 Agentic capital markets infrastructure is not automation. It is autonomy.  
 Not workflow. Behavior.  
 Not passive systems. Active intelligence.  
 
-The next generation of capital markets dominance will be built by those who own the entire GTM compute graph—from signal ingestion to autonomous execution.
+The next generation of capital markets dominance will be built by those who own the entire GTM compute graph - from signal ingestion to autonomous execution.
 
 This is the new frontier.  
 This is infrastructure sovereignty.  

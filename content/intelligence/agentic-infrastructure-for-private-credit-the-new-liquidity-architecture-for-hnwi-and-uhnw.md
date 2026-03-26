@@ -14,7 +14,7 @@ Author: Jonas Hyltén
 The degree of structural complexity in private credit has outpaced the operational intelligence of most incumbent GTM architectures. Capital allocators, fund administrators, originators, and distribution entities continue to operate with fragmented internal systems, brittle decision flows, and static, non-adaptive data planes. The result is persistent signal loss, elongated underwriting cycles, risk distortions, and a GTM cost structure misaligned with the accelerating velocity of sovereign, institutional, and programmable capital.
 
 An inflection point has arrived.  
-Agentic infrastructure—autonomous, recursive, API-native computational systems built to convert raw signals into executable actions—has become the decisive architecture layer for scaling private credit markets into an environment of sovereign-grade certainty and planetary-scale liquidity.
+Agentic infrastructure - autonomous, recursive, API-native computational systems built to convert raw signals into executable actions - has become the decisive architecture layer for scaling private credit markets into an environment of sovereign-grade certainty and planetary-scale liquidity.
 
 This article defines a technical blueprint for a new GTM architecture for private credit. It focuses on agentic infrastructure, signal-to-action systems, enrichment waterfalls, API-based operational ownership, and the emergence of vibe-coded GTM engines capable of operating at sovereign precision.  
 Minimum 2000 words, institutional GTM engineering tone, 100% English.
@@ -34,7 +34,7 @@ Instead of handoffs, static dashboards, and human-gated decisions, agentic GTM s
 - Continuous reinforcement learning on deal outcomes and signal variance  
 
 This creates a GTM model where “the system moves first.”  
-Human operators become editors, overseers, and sovereign controllers—not executors of repetitive workflows.
+Human operators become editors, overseers, and sovereign controllers - not executors of repetitive workflows.
 
 The decisive shift is the transition from manual GTM coordination to:
 
@@ -313,7 +313,7 @@ Vibe marketing becomes:
 
 **A programmable narrative control system aligned with sovereign-grade GTM logic.**
 
-Its function is to ensure the system speaks with one voice, one tone, one architecture—no matter how many agents are operating in parallel.
+Its function is to ensure the system speaks with one voice, one tone, one architecture - no matter how many agents are operating in parallel.
 
 ---
 
@@ -459,7 +459,7 @@ Private credit will become an engineered system, not a manually coordinated one.
 The private credit ecosystem is transitioning from fragmented workflows to agentic infrastructures that operate with sovereign precision.  
 Signal planes, enrichment waterfalls, autonomous action engines, multi-agent coordination, and vibe-coded GTM logic form the backbone of this new architecture.
 
-The institutions that own their GTM infrastructure—not rent it—will shape the next era of sovereign capital deployment.  
+The institutions that own their GTM infrastructure - not rent it - will shape the next era of sovereign capital deployment.  
 They will operate with computational certainty, multi-jurisdictional coherence, and a system-level intelligence capable of matching the velocity and scale of contemporary private credit markets.
 
 The message is clear:  

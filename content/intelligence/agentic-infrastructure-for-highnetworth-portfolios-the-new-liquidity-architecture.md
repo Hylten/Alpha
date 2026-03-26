@@ -39,7 +39,7 @@ Agentic infrastructure is the architectural layer where intelligence, execution,
 
 Unlike traditional automation, which is event-driven and reactive, agentic infrastructure is *state-driven*. It monitors the portfolio’s evolving state relative to market conditions, internal mandates, and the owner’s liquidity strategy. Every signal is actionable, every action is measurable, and every measurable outcome propagates back into the system, strengthening its next decision.
 
-Agentic infrastructure is not simply a new operating paradigm—it is a liquidity engine that upgrades HNW portfolios from passive entities to sovereign market participants.
+Agentic infrastructure is not simply a new operating paradigm - it is a liquidity engine that upgrades HNW portfolios from passive entities to sovereign market participants.
 
 ---
 
@@ -102,7 +102,7 @@ Policy systems express intent. They bind signals to permissible actions.
 **4. Autonomous Execution**  
 Agents convert evaluation into action flows.
 
-The entire cycle becomes a continuous loop—an autonomous liquidity engine.
+The entire cycle becomes a continuous loop - an autonomous liquidity engine.
 
 ---
 
@@ -132,7 +132,7 @@ Enrichment waterfalls remove market opacity. They make the invisible visible. Th
 
 ## 6. API Sovereignty: The Multi‑Rail Standard
 
-APIs define the rails through which agentic infrastructure interacts with markets. Most HNW platforms rely on custodial APIs that obscure execution, normalize operations, and limit control. This is not sovereignty—it is dependency.
+APIs define the rails through which agentic infrastructure interacts with markets. Most HNW platforms rely on custodial APIs that obscure execution, normalize operations, and limit control. This is not sovereignty - it is dependency.
 
 API sovereignty requires:
 
@@ -151,7 +151,7 @@ APIs are not connectivity tools. They are power tools. They determine the bounda
 
 ## 7. Agentic Liquidity: A New Definition
 
-Traditional liquidity is defined by availability—how quickly an asset can be converted to usable capital. Agentic liquidity redefines the concept. It is not about conversion. It is about orchestration.
+Traditional liquidity is defined by availability - how quickly an asset can be converted to usable capital. Agentic liquidity redefines the concept. It is not about conversion. It is about orchestration.
 
 Agentic liquidity is the portfolio’s ability to:
 
@@ -180,7 +180,7 @@ Market liquidity becomes:
 • a determinism problem  
 • an autonomy problem  
 
-When liquidity is an engineering problem, it becomes solvable. The limiting factor is no longer the market—it is the infrastructure’s ability to interpret and act.
+When liquidity is an engineering problem, it becomes solvable. The limiting factor is no longer the market - it is the infrastructure’s ability to interpret and act.
 
 The agentic portfolio outperforms traditional approaches because it eliminates the manual lag inherent in human-centered decision paths. Speed is not the differentiator. Determinism is.
 
@@ -266,7 +266,7 @@ These networks allow:
 • multi-agent optimization  
 • shared narrative detection  
 
-Autonomy networks amplify the intelligence of each agent through collective data and shared execution signals. This creates a new liquidity surface—one that is not available to manual operators.
+Autonomy networks amplify the intelligence of each agent through collective data and shared execution signals. This creates a new liquidity surface - one that is not available to manual operators.
 
 This is not a platform. It is a self-governing financial organism.
 
@@ -343,7 +343,7 @@ Legacy wealth systems fail under modern conditions because they rely on:
 
 These architectures cannot support agentic flows. They are incompatible with real-time, multi-layer enrichment. They restrict sovereignty by forcing capital to operate through bottlenecks.
 
-Agentic infrastructure is not an upgrade—it is a replacement of the entire operating paradigm.
+Agentic infrastructure is not an upgrade - it is a replacement of the entire operating paradigm.
 
 ---
 
@@ -379,7 +379,7 @@ Agentic infrastructure is not a trend. It is the structural redefinition of HNW 
 • multi-rail execution sovereignty  
 • portfolio state machines  
 
-When portfolios operate with agentic autonomy, liquidity becomes programmable. It becomes a controlled resource—not a market dependency.
+When portfolios operate with agentic autonomy, liquidity becomes programmable. It becomes a controlled resource - not a market dependency.
 
 This is the new standard for HNW portfolios. This is the sovereignty frontier.
 

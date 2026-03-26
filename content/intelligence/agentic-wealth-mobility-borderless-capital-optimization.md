@@ -218,7 +218,7 @@ A steward oriented model requires that RL engines incorporate constraints rooted
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-— Proverbs 13:22which emphasizes generational responsibility.
+ -  Proverbs 13:22which emphasizes generational responsibility.
 
 In practical terms, the stewardship filter mandates four things.
 

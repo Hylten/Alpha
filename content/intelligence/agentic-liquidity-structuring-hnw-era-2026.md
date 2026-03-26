@@ -226,7 +226,7 @@ It is the application of principled capital behaviour to technical environments 
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-— Proverbs 13:22states that a good man leaves an inheritance to his children's children.
+ -  Proverbs 13:22states that a good man leaves an inheritance to his children's children.
 
 The modern interpretation for high performance capital is that capital must be deployed in a manner that preserves generational stability.
 
