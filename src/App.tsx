@@ -275,34 +275,49 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-px bg-white/10 dark:bg-white/5 border border-white/10">
 
             {/* MODULE 01 */}
-            <div className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left">
+            <a 
+              href="https://whop.com/roials-capital/the-modern-capital-playbook/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block"
+            >
               <div className="flex justify-between items-start mb-4">
                 <Server className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
                 <span className="text-[9px] tracking-widest text-gray-700 group-hover:text-oldgold/70">MOD 01</span>
               </div>
               <h3 className="text-sm tracking-widest text-platinum uppercase mb-2">Deal Flow</h3>
               <p className="text-[10px] text-gray-500 leading-relaxed">Automated origination & screening architecture.</p>
-            </div>
+            </a>
 
             {/* MODULE 02 */}
-            <div className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left">
+            <a 
+              href="https://wa.me/46701619978?text=Regarding%20Operational%20Alpha.%20" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block"
+            >
               <div className="flex justify-between items-start mb-4">
                 <Cpu className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
                 <span className="text-[9px] tracking-widest text-gray-700 group-hover:text-oldgold/70">MOD 02</span>
               </div>
               <h3 className="text-sm tracking-widest text-platinum uppercase mb-2">Agentic Workflows</h3>
               <p className="text-[10px] text-gray-500 leading-relaxed">Autonomous AI agents orchestrating operational processes.</p>
-            </div>
+            </a>
 
             {/* MODULE 03 */}
-            <div className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left border-r md:border-r-0 border-white/5">
+            <a 
+              href="https://roialscapital.com/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left border-r md:border-r-0 border-white/5 block"
+            >
               <div className="flex justify-between items-start mb-4">
                 <Activity className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
                 <span className="text-[9px] tracking-widest text-gray-700 group-hover:text-oldgold/70">MOD 03</span>
               </div>
               <h3 className="text-sm tracking-widest text-platinum uppercase mb-2">Capital Deployment</h3>
               <p className="text-[10px] text-gray-500 leading-relaxed">High-velocity resource allocation systems.</p>
-            </div>
+            </a>
 
 
           </div>

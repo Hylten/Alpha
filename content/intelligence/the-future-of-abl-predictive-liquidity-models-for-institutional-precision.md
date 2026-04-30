@@ -187,11 +187,7 @@ Predictive models thrive under these conditions.
 
 More data.
 
-More volatility history.
-
-More structural density.
-
-Higher precision.
+More volatility history. More structural density. Higher precision.
 
 This is why UHNW and HNWI borrowers operate through Roials‑Alpha.
 

@@ -201,9 +201,7 @@ Cashflow wins.
 
 Markets respect nothing else.
 
-Equity narratives collapse.  
-Asset appraisals lag.  
-Projections distort.  
+Equity narratives collapse. Asset appraisals lag. Projections distort.  
 
 Cashflow reveals the truth.
 
@@ -315,9 +313,7 @@ The engine performs:
 • Exposure compression  
 • Stress propagation  
 
-Liquidity is engineered.  
-Not hoped for.  
-Not guessed.  
+Liquidity is engineered. Not hoped for. Not guessed.  
 Engineered.
 
 # The Human Friction Problem

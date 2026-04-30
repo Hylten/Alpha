@@ -370,16 +370,7 @@ Silence is strategy.
 Proprietary alpha inside Roials‑Alpha is engineered.
 
 It is the product of conviction, discipline, and covenant stewardship.
-
-Algorithmic origination.
-
-Asset hardening.
-
-Execution velocity.
-
-Institutional readiness.
-
-Agentic infrastructure.
+ Algorithmic origination. Asset hardening. Execution velocity. Institutional readiness. Agentic infrastructure.
 
 This is the technical edge.
 

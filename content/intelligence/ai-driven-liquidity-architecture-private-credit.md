@@ -157,16 +157,7 @@ Lending precision increases.
 Risk compression follows.
 
 Machine‑gun syntax.
-
-Rapid cadence.
-
-Hard stops.
-
-Predictive models.
-
-Zero drift.
-
-Pure computation.
+ Rapid cadence. Hard stops. Predictive models. Zero drift. Pure computation.
 
 ## The Three‑Engine Credit Stack
 

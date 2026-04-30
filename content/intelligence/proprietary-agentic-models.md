@@ -128,9 +128,7 @@ A system capable of outpacing traditional autonomous infrastructure by orders of
 Proprietary agentic models generate strategic output that evolves across cycles.  
 They read environments.  
 They map incentives.  
-They project moves.  
-They counter moves.  
-They refine.  
+They project moves. They counter moves. They refine.  
 They adapt.  
 They escalate.  
 
@@ -209,9 +207,7 @@ Roials-Alpha is built as a stack, not a patchwork.
 
 ## Layer I: Cognitive Core
 
-The reasoning engine.  
-The internal loops.  
-The identity.  
+The reasoning engine. The internal loops. The identity.  
 
 ## Layer II: Memory Grid
 

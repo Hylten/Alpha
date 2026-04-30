@@ -164,11 +164,7 @@ Ranking criteria:
 
 Machine vision outperforms human perception.
 
-Private credit accelerates.
-
-Real assets stabilize.
-
-Energy compounds.
+Private credit accelerates. Real assets stabilize. Energy compounds.
 
 Data monetizes.
 

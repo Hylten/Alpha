@@ -371,16 +371,7 @@ Automated Covenant Enforcement.
 Decisions must be architected before opportunities surface.
 
 Pre‑decision mapping establishes:
-
-valuation boundaries.
-
-collateral expectations.
-
-default pathways.
-
-data requirements.
-
-communication sequences.
+ valuation boundaries. collateral expectations. default pathways. data requirements. communication sequences.
 
 Friction disappears.
 
@@ -519,16 +510,7 @@ Relentless execution.
 # Summary Architecture
 
 The Alpha Framework stands on five structural pillars.
-
-Algorithmic origination.
-
-Asset hardening.
-
-Covenant stewardship.
-
-Execution velocity.
-
-Agentic infrastructure.
+ Algorithmic origination. Asset hardening. Covenant stewardship. Execution velocity. Agentic infrastructure.
 
 Each pillar compounds the others.
 

@@ -210,16 +210,7 @@ It corrects human misreadings.
 Legacy underwriting is replaced with autonomous inference.
 
 ## Layer III: Execution Layer
-
-Funding triggers.
-
-Margin recalculations.
-
-Price ratchets.
-
-Limit adjustments.
-
-Escrow shifts.
+ Funding triggers. Margin recalculations. Price ratchets. Limit adjustments. Escrow shifts.
 
 Auto-hedging.
 

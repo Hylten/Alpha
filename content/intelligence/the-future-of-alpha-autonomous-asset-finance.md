@@ -111,11 +111,7 @@ Minimum threshold: 5 million USD.
 
 Our autonomous engine integrates liquidity profiles, microstructure signals, concentration risk, and price stability indicators. The result is a high-confidence Strategic Collateralization path tailored to large equity holders.
 
-No margin calls.
-
-No brokerage friction.
-
-No delays.
+No margin calls. No brokerage friction. No delays.
 
 Equity becomes a precision liquidity instrument.
 

@@ -95,8 +95,6 @@ This is where institutional actors previously had an edge, but the difference to
 
 High Frequency GTM is fundamentally the art of compressing decision windows. By staying ahead of the customer's information process, you create not manipulation but coordination. The customer feels they always get the right information at the right time.
 
-The key is:
-
 - Predictive timing
 - Real-time precision segmentation
 - Information injections with controlled cognitive volume

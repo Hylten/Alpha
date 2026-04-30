@@ -320,9 +320,7 @@ A sovereign extension of the Principal’s mandate.
 
 Total clarity.
 
-No blind spots.  
-No informational lag.  
-No hesitation.
+No blind spots. No informational lag. No hesitation.
 
 # Phase Six
 

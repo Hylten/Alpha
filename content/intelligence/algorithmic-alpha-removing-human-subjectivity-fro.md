@@ -349,11 +349,7 @@ The covenant is the center.
 
 Not the borrower’s potential.
 
-Not market direction.
-
-Not originator intuition.
-
-The covenant.
+Not market direction. Not originator intuition. The covenant.
 
 # Roials‑Alpha as Structural Covenant Architecture
 

@@ -122,11 +122,7 @@ The final layer engages the external environment.
 
 It synthesizes outreach context.
 
-Customizes approach angles.
-
-Extracts owner intent.
-
-Requests material.
+Customizes approach angles. Extracts owner intent. Requests material.
 
 By the time an opportunity reaches an investment professional, the intent is directional and the preliminary signals validated.
 
@@ -218,11 +214,7 @@ They identify segments.
 
 Map competitive structures.
 
-Reveal white space.
-
-Detect emerging niches.
-
-Score targets.
+Reveal white space. Detect emerging niches. Score targets.
 
 Tie targets to catalysts.
 

@@ -343,11 +343,7 @@ Technical dominance is not complexity.
 
 It is coherence.
 
-Clean internal logic.
-
-Clean capital vectors.
-
-Clean enforcement.
+Clean internal logic. Clean capital vectors. Clean enforcement.
 
 Clean incentives.
 
