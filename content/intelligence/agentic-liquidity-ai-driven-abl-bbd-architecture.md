@@ -42,9 +42,7 @@ Covenants operate in motion, not as static clauses. If production drops, ratios 
 Institutional BBD cycles face three structural constraints:
 
 1. Illiquid assets create timing risk.  
-
 2. Lending markets impose rigid cycles.  
-
 3. Human intermediaries erode compounding capacity.  
 
 Agentic liquidity resolves all three and converts the BBD architecture into perpetual GTM liquidity.

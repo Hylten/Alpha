@@ -1,7 +1,5 @@
 ---
-title: >-
-  # The Alpha Approach to AI-First Monetization Architecture
-
+title: "The Alpha Approach to AI-First Monetization Architecture"
   ## A Structural Blueprint for Precision Liquidity
 
   Roials Alpha operates within a non-disclosive stratum of financial
@@ -37,9 +35,7 @@ For the Mechanically Sophisticated
 Strategic Collateralization at Roials Alpha is engineered for complex portfolios. Operating companies. Alternative assets. Non‑traditional collateral. Cross‑jurisdictional holdings. AI evaluates each asset layer through three structural parameters.
 
 1. Extractable liquidity  
-
 2. Stability under stress  
-
 3. Frictionless settlement pathways
 
 Every asset class is interrogated with uniform rigor. No shortcuts. No arbitrary haircuts. No templated scoring. We construct bespoke credit mechanics aligned to the geometry of the asset. This is the distinction between institutional‑grade Asset‑Based Lending and retail‑grade Strategic Collateralization.

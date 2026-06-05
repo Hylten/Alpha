@@ -1,8 +1,5 @@
 ---
-title: |-
-  # Agentic Systems for Institutional Capital
-  Institutional capital has exceeded the limits of conventional infrastructure.
-description: Institutional capital has outpaced legacy infrastructure.
+title: "Agentic Systems for Institutional Capital"description: Institutional capital has outpaced legacy infrastructure.
 date: '2026-04-30'
 author: Jonas Hyltén
 slug: agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity

@@ -1,7 +1,5 @@
 ---
-title: >-
-  # AI-First Liquidity for Institutional GPs
-
+title: "AI-First Liquidity for Institutional GPs"
   Institutional capital through Roials Capital is reorganizing itself around a
   single principle
 description: >-
@@ -122,9 +120,7 @@ The next liquidity era is already in motion. Winners adopt AI first mechanics be
 Our value is structural, not cosmetic. Three pillars define the system:
 
 1. Structural AI built first, not retrofitted.
-
 2. Institutional Collateral Intelligence across private credit, asset based frameworks, crypto Strategic Collateralization, and public share Monetization Architecture.
-
 3. Silent Execution without retail noise.
 
 When GPs or UHNW allocators require liquidity that performs like an internal capital engine, they operate through Roials Alpha.

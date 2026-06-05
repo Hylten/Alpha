@@ -1,7 +1,5 @@
 ---
-title: >-
-  # Autonomous Liquidity Management for High‑Frequency Family Offices
-
+title: "Autonomous Liquidity Management for High‑Frequency Family Offices"
   High-frequency wealth operations have hit an efficiency ceiling, exposing the
   need for Agentic Infrastructure capable of sustaining continuous GTM Liquidity
   and delivering Asymmetric Advantage.

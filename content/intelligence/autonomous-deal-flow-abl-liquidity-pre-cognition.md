@@ -96,9 +96,7 @@ Simulated scenario: A 50–70 million‑dollar industrial services company in Te
 Layer I identified three anomalies:
 
 1. Inventory cycle drift from 41 to 48 days  
-
 2. Equipment utilization down to 68 percent for eight weeks  
-
 3. Vendor payment sequence compression indicating liquidity tightening  
 
 No public reporting triggered. Banks detected nothing. No brokers involved. Management felt operational pressure but misattributed it to seasonality.
@@ -142,7 +140,6 @@ A surface‑level opportunity flag triggered full capital stack construction. Pr
 Optimal engagement was projected at 21 days due to two converging events:
 
 1. Delayed invoicing from a major operator  
-
 2. Mandatory regulatory capex filing  
 
 Human operators would detect this only after the invoice delay surfaced. AI maintained a 30‑day lead.

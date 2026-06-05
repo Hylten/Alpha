@@ -115,9 +115,7 @@ The system ingests:
 The engine constructs a collateral map identifying three primary liquidity vectors:
 
 1. Accounts receivable from aerospace contracts valued at 22M with high conversion predictability.
-
 2. Machinery assets valued at 18M with strong hardening coefficients based on usage analytics.
-
 3. Software IP streams valued at 14M modeled through subscription volatility indices.
 
 Total collateral: 54M with a liquidity integrity score of 0.86.

@@ -1,8 +1,5 @@
 ---
-title: |-
-  # The Proprietary Path to Autonomous Capital
-  Capital Is No Longer Passive
-description: >-
+title: "The Proprietary Path to Autonomous Capital"description: >-
   Capital is no longer restricted by underwriting bottlenecks or legacy cycle
   delays.
 date: '2026-03-26'

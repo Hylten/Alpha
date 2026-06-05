@@ -1,7 +1,5 @@
 ---
-title: >-
-  # The Alpha Advantage in Automated Credit Analysis
-
+title: "The Alpha Advantage in Automated Credit Analysis"
   Precision in credit evaluation has become the defining separator between
   legacy lenders and future-native capital allocators
 description: >-

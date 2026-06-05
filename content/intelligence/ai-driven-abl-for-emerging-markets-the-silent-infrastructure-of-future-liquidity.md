@@ -1,8 +1,5 @@
 ---
-title: |-
-  # AI-Driven Asset-Based Lending for Emerging Markets
-  Emerging markets have entered a structural realignment
-description: Emerging markets have entered a structural realignment.
+title: "AI-Driven Asset-Based Lending for Emerging Markets"description: Emerging markets have entered a structural realignment.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: >-

@@ -1,7 +1,5 @@
 ---
-title: >-
-  # The Future of Alpha: AI-Centric Sovereign Financing
-
+title: "The Future of Alpha: AI-Centric Sovereign Financing"
   The next era of wealth creation will not be negotiated across conference
   tables.
 description: The next era of wealth creation will not be negotiated. It will be computed.

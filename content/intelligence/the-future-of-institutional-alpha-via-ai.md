@@ -1,8 +1,5 @@
 ---
-title: |-
-  # The Future of Institutional Alpha via AI
-  Institutional alpha is migrating
-description: >-
+title: "The Future of Institutional Alpha via AI"description: >-
   Institutional alpha is migrating into autonomous infrastructure, intelligence
   layers, and engineered capital‑flow architecture. This is the domain where
   Roials-Alpha operates with principal authority.

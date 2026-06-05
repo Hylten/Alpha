@@ -1,7 +1,5 @@
 ---
-title: >-
-  # AI-Driven Liquidity for Institutional Sovereigns
-
+title: "AI-Driven Liquidity for Institutional Sovereigns"
   Institutional capital no longer reacts; it operates in a state of anticipatory
   asymmetry.
 description: Institutional capital no longer reacts. It anticipates.

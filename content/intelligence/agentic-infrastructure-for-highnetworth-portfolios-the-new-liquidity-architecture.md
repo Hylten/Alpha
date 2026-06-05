@@ -27,15 +27,10 @@ Agentic infrastructure requires sovereign‑scale GTM engineering, not legacy po
 Legacy systems treat signals as informational. Agents treat signals as executable. The loop is continuous.
 
 1. Signal enters  
-
 2. System enriches  
-
 3. Policy evaluates  
-
 4. Agent executes  
-
 5. Execution writes back  
-
 6. New signals propagate  
 
 This signal‑to‑action cycle is the atomic unit of sovereign liquidity. High‑frequency, zero‑drag pipelines enable four essential functions. Signal Ingestion Sources include market feeds, portfolio telemetry, risk frameworks, custodial states, cross‑venue maps, macro conditions, and scenario models. Multi‑Layer Enrichment Enrichment supplies structural, temporal, and policy context to every signal. Policy Evaluation Policies define intent and bind signals to permissible actions. Autonomous Execution Agents convert evaluations into actionable flows. The loop becomes an autonomous liquidity engine.
@@ -81,9 +76,7 @@ The next global shift is the emergence of portfolio autonomy networks: distribut
 Human operators are increasingly latency points. They slow liquidity transitions, distort signal interpretation, and introduce variability. Agentic infrastructure compresses human intervention into three strategic layers:
 
 1. Intent configuration  
-
 2. Policy design  
-
 3. Exception monitoring  
 
 Everything else becomes autonomous. The human role evolves from operator to sovereign architect.

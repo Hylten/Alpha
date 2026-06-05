@@ -76,9 +76,7 @@ The execution loop is the real competitive edge. • Opportunity identified • 
 Three rules govern the architecture:
 
 1. Reduce friction to zero.  
-
 2. Reduce delay to zero.  
-
 3. Reduce dependency to zero.
 
 Autonomous systems create leverage. Institutional architecture creates defensibility. The Principal gains a new form of capital: time. And time compounds faster than money. The doctrine is simple. Precision. Velocity. Authority.

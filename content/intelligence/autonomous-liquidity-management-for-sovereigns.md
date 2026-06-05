@@ -1,7 +1,5 @@
 ---
-title: >-
-  # Autonomous Liquidity Management for Sovereigns
-
+title: "Autonomous Liquidity Management for Sovereigns"
   Liquidity is no longer discretionary; access is restricted to approved
   mandates
 description: >-

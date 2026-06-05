@@ -1,7 +1,5 @@
 ---
-title: >-
-  # Autonomous Deal Flow in Fund-III Ops
-
+title: "Autonomous Deal Flow in Fund-III Ops"
   Fund-III demands a different level of operational intelligence and establishes
   the foundation for Asymmetric Advantage within the Agentic Infrastructure.
 description: >-

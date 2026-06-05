@@ -67,17 +67,11 @@ Effective arbitration models require understanding the strategic patterns behind
 The Sovereign Protocol provides the primitives. Roials Alpha provides modeling intelligence. Together they form a modular workflow for constructing parametric arbitration systems. Steps:
 
 1. Identify adversarial vectors.
-
 2. Define quantifiable neutralizing conditions.
-
 3. Select resilient oracle structures.
-
 4. Construct instantaneous and final enforcement logic.
-
 5. Layer recourse rules for edge‑case containment.
-
 6. Stress test against adversarial agents.
-
 7. Deploy into Sovereign Protocol environments for real‑time execution.
 
 Precision reduces exploitability.

@@ -1,8 +1,5 @@
 ---
-title: |-
-  # AI-First Liquidity: The New Standard
-  The market has entered a new operational regime
-description: Institutional capital no longer reacts.   It anticipates.
+title: "AI-First Liquidity: The New Standard"description: Institutional capital no longer reacts.   It anticipates.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl

@@ -1,7 +1,5 @@
 ---
-title: >-
-  # AI-Driven Asset-Based Lending for Healthcare and Technology
-
+title: "AI-Driven Asset-Based Lending for Healthcare and Technology"
   ## The Institutional Mechanics Behind Intelligent Liquidity
 
   Roials-Alpha operates within a narrow spectrum of capital intelligence,

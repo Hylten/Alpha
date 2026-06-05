@@ -1,7 +1,5 @@
 ---
-title: >-
-  # Autonomous Capital Migration Patterns
-
+title: "Autonomous Capital Migration Patterns"
   Autonomous capital has transitioned from hypothesis to operational reality,
   establishing a new asymmetry in GTM Liquidity and agentic financial
   infrastructure.

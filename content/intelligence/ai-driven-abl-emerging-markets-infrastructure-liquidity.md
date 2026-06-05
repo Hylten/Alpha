@@ -19,9 +19,7 @@ Traditional Asset-Based Lending treats collateral as static. AI-first Asset-Base
 Emerging markets reward structural intelligence, not brute force. Defensible yield arises from triangulation across:
 
 1. Asset Certainty  
-
 2. Cash Flow Dominance  
-
 3. Legal Containment
 
 AI merges, orchestrates, and enforces all three.

@@ -1,7 +1,5 @@
 ---
-title: >-
-  # Autonomous Systems for Ultra‑High‑Net‑Worth Capital Optimization
-
+title: "Autonomous Systems for Ultra‑High‑Net‑Worth Capital Optimization"
   Ultra high net worth capital is no longer optimized through manual decision
   cycles
 description: >-

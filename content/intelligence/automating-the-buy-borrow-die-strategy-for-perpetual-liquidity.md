@@ -1,7 +1,5 @@
 ---
-title: >-
-  # Automating the Buy, Borrow, Die Strategy
-
+title: "Automating the Buy, Borrow, Die Strategy"
   The wealth preservation class has always recognized that asymmetric advantage
   emerges when capital remains unsold and continuously redeployed within agentic
   infrastructure.

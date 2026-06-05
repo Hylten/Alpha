@@ -66,9 +66,7 @@ Roials Capital functions as a strategic navigator and institutional introducer w
 Within private credit and broader alternatives, the mandate is the same. Roials Capital acts as a systems based interpreter. The allocator receives structural alignment rather than investment solicitation. The focus remains on risk topology, collateral behavior, legal architecture, and operational intelligence. This model eliminates three historic frictions:
 
 1. Information asymmetry between allocator and operator.
-
 2. Documentation inconsistency across counterparties.
-
 3. Operational opacity during evaluation and monitoring.
 
 By operating strictly as a strategic navigator, the architecture maintains institutional neutrality while delivering high resolution clarity. This accelerates decision quality without manufacturing urgency.

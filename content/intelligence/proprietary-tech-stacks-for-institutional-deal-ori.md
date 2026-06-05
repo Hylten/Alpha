@@ -1,7 +1,5 @@
 ---
-title: >-
-  # Proprietary Tech Stacks for Institutional Deal Origination
-
+title: "Proprietary Tech Stacks for Institutional Deal Origination"
   The current liquidity environment rewards disciplined GTM execution and
   asymmetrical advantage through agentic infrastructure
 description: The current liquidity environment rewards discipline.
@@ -21,9 +19,7 @@ A principal does not chase flow. A principal creates flow through intelligence. 
 ## Foundations of the Architecture
 
 1. Algorithmic deal origination  
-
 2. AI structured intelligence for underwriting  
-
 3. Autonomous execution rails engineered for covenant-grade discipline
 
 Each pillar is independent yet interlocking. Each advances the mandate of structural alignment with Fund-III expectations and UHNW family office governance. The entire system is oriented around one invariant. Control is never outsourced.

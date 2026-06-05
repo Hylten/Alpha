@@ -1,8 +1,5 @@
 ---
-title: |-
-  # Sovereign AI: Architecting the Digital Balance Sheet
-  Sovereign AI has transitioned from frontier theory to operational mandate.
-description: >-
+title: "Sovereign AI: Architecting the Digital Balance Sheet"description: >-
   It is the operating system for capital defense, capital velocity, and capital
   autonomy.
 date: '2026-03-26'

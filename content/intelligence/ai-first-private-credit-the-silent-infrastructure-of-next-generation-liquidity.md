@@ -1,8 +1,5 @@
 ---
-title: |-
-  # The Future of AI-First Private Credit
-  The private credit arena is entering a structural rewrite
-description: The private credit arena is undergoing a structural rewrite.
+title: "The Future of AI-First Private Credit"description: The private credit arena is undergoing a structural rewrite.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity

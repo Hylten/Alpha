@@ -23,9 +23,7 @@ A business is a trust, not a possession. Operational stewardship requires clarit
 The marketplace defaults to narrative inflation and operational drift. Institutional capital does not engage with drift. It requires mechanical precision. Roials-Alpha’s systems mandate obeys three immutable laws:
 
 1. No opacity.
-
 2. No dependence on personality.
-
 3. No vulnerability to human drift.
 
 Agentic infrastructure is the response. Systems that act. Systems that observe. Systems that reduce friction until liquidity becomes a switch.

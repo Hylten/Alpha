@@ -1,8 +1,5 @@
 ---
-title: |-
-  # The Future of AI-Driven Asset-Based Capital Structuring
-  The next phase of global Strategic Collateralization is not arriving slowly
-description: >-
+title: "The Future of AI-Driven Asset-Based Capital Structuring"description: >-
   The next phase of global Strategic Collateralization is not emerging
   gradually. It is already operational, reshaping private credit mechanics,
   asset‑based Capital Structuring, and balance sheet vel...

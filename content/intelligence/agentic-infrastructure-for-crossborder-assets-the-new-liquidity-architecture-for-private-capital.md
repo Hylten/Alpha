@@ -165,9 +165,7 @@ Once encoded, the protocol layer becomes a reusable surface for all markets. Age
 Vibe marketing transmits identity through atmosphere and narrative. Vibe coding operationalizes that narrative across GTM infrastructure. In cross-border private capital, vibe coding functions across three dimensions:
 
 1. Identity Encoding  
-
 2. Market Resonance Modeling  
-
 3. Distribution-layer Signal Amplification  
 
 Vibe-coded systems inject narrative precision into autonomous GTM workflows, ensuring that brand posture scales with the same mechanical consistency as compliance and distribution.
@@ -285,13 +283,9 @@ Cross-border asset orchestration is the operational layer connecting assets to g
 The objective is to remove manual interpretation from asset distribution. In legacy architectures, distributing a cross-border asset required:
 
 1. Manual regulatory review
-
 2. Manual eligibility validation
-
 3. Manual onboarding workflows
-
 4. Manual partner negotiation
-
 5. Manual marketing adaptation
 
 In the agentic architecture, all five steps become machine-executable. Examples:

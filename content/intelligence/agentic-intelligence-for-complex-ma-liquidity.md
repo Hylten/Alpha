@@ -68,9 +68,7 @@ The result is that they produce volume, not signal. In complex markets where buy
 An agentic reasoning chain consists of three components:
 
 1. Observation  
-
 2. Inference  
-
 3. Action
 
 The difference from traditional AI flows is that the reasoning chain is not a linear program, but an iterative cycle where agents can overrule each other, add context, and build a logical map of each target company. Example of a reasoning chain for a prospect:
@@ -170,11 +168,8 @@ A central element in high-signal outreach is that the message must feel self-pro
 Narrative architecture in agentic GTM is solved by:
 
 1. Breaking the narrative into technical micro-components  
-
 2. Generating argument chains, not copy  
-
 3. Letting each agent contribute context from its domain  
-
 4. Making messaging dependent on real-time market changes
 
 The result is that the message doesn't come from a GPT-like template, but from a reconstruction of reasoning. The system doesn't write copy; it explains technical conclusions.
@@ -228,9 +223,7 @@ The architecture more resembles a real-time system for autonomous navigation tha
 A high-signal message occurs when three components coincide:
 
 1. Temporal precision  
-
 2. Technical depth  
-
 3. Contextual relevance
 
 Example from an agentic system:

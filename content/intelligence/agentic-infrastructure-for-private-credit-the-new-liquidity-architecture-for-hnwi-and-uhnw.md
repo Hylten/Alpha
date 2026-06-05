@@ -67,11 +67,8 @@ Private credit workflows lack consistent lineage across borrower identity, signa
 The next-generation model re-architects GTM into four computational layers:
 
 1. Signal Plane  
-
 2. Enrichment Plane  
-
 3. Action Plane  
-
 4. Governance Plane  
 
 These layers operate through tightly orchestrated agents with explicit authority boundaries and deterministic logic.
@@ -263,11 +260,8 @@ APIs unify the architecture into a single computational organism.
 The signal-to-action engine converts enriched signals into executable steps with sovereign precision. It operates across four mechanisms:
 
 1. Signal Interpretation  
-
 2. Scenario Mapping  
-
 3. Action Selection  
-
 4. Propagation into GTM Surfaces  
 
 This engine governs the pace, quality, and correctness of agentic execution. It determines deal acceleration, risk detection, compliance response, revenue realization, and capital deployment velocity.
@@ -345,11 +339,8 @@ Private credit is undergoing structural transformation. The scale, velocity, and
 The institutions that adopt this architecture will define the next era of private credit. They will own their GTM liquidity. They will operate with computational sovereignty. They will achieve asymmetric advantage through agentic execution.
 
 1. Signal interpretation
-
 2. Action path selection
-
 3. Action execution
-
 4. Feedback propagation
 
 This converts GTM into a living computational system with:

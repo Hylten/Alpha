@@ -34,9 +34,7 @@ This is not marketing. This is capital engineering.
 In this new model, every market is viewed as a liquidity state. Not a target group, not a persona, not a segment. A market exists only when capital is ready to move, and a GTM system is worthless if it cannot capture and accelerate that movement. Sovereign liquidity is defined by three variables:
 
 1. Information asymmetry as systemic advantage  
-
 2. Autonomy in execution  
-
 3. Market nodes as distributed decision points
 
 These three form a structure in which GTM is no longer a sequence of functions but a distributed capital engine running on:

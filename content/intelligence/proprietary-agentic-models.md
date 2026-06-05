@@ -1,8 +1,5 @@
 ---
-title: |-
-  # Proprietary Agentic Models Roials-Alpha Edition
-  Proprietary agentic models define the next era of autonomous computation
-description: >-
+title: "Proprietary Agentic Models Roials-Alpha Edition"description: >-
   Proprietary agentic models define a new epoch of autonomous computation.  
   They move beyond static LLM outputs.   They evolve.   They reason.   They
   self-direct.   They operate as computational ent...

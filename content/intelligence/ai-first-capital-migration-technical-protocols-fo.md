@@ -1,7 +1,5 @@
 ---
-title: >-
-  # AI-First Capital Migration Protocols for Global Wealth
-
+title: "AI-First Capital Migration Protocols for Global Wealth"
   The contemporary capital landscape operates beyond traditional market
   structures, requiring agentic infrastructure designed for asymmetric advantage
   and sustained GTM liquidity.
@@ -24,9 +22,7 @@ AI has become the silent clearing layer beneath every capital transfer. It parse
 Stewardship is governance under a higher institutional mandate. Accountable ownership remains central, and AI intensifies its requirements. The operational ethos is responsibility paired with disciplined industriousness. AI-first protocols scale this ethos through algorithmic precision. This produces:
 
 1. Cleaner balance sheets
-
 2. Stronger debt-service clarity
-
 3. Predictable covenant behavior under stress
 
 Institutions trust covenant discipline. HNWI and UHNW clients benefit when their structures signal institutional readiness. This is asset hardening in its purest form.
@@ -52,7 +48,6 @@ When structure is correct, capital moves without turbulence.
 Hyltén’s contribution is algorithmic posture. The proprietary stack tracks anomalies in credit demand, collateral inefficiency, temporal arbitrage windows, and issuer behavior. This is computational reconnaissance, not market scanning. The algorithms identify:
 
 1. Mispriced real assets
-
 2. Undercapitalized operations with strong covenant profiles
 
 The system isolates structural weaknesses and executes with precision. This produces asymmetric advantage and removes traditional deal drag.
@@ -200,23 +195,14 @@ Principals require sovereignty. Sovereignty requires structure. Structure requir
 AI-first capital migration follows a defined sequence.
 
 1. Structural audit
-
 2. Intelligence baseline
-
 3. Covenant reinforcement
-
 4. Hard-asset anchoring
-
 5. Liquidity-lane construction
-
 6. Counterparty mapping
-
 7. AI-driven underwriting profile
-
 8. Migration execution
-
 9. Continuous monitoring
-
 10. Cross-border adaptability upgrades
 
 The protocol is living. It evolves. It aligns with the mandate of long-term stewardship.

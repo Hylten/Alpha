@@ -326,23 +326,14 @@ Institutions that do not own their infrastructure will be replaced by those that
 The implementation sequence is:
 
 1. Establish ingestion and enrichment infrastructure.
-
 2. Build a unified memory system.
-
 3. Deploy the signal‑to‑action engine.
-
 4. Construct the agent graph.
-
 5. Integrate API‑driven action surfaces.
-
 6. Deploy vibe coding infrastructure.
-
 7. Automate feedback loops.
-
 8. Continuously expand signal coverage.
-
 9. Increase action density.
-
 10. Optimize for emergence.
 
 The system compounds as signal volume increases and action density accelerates.

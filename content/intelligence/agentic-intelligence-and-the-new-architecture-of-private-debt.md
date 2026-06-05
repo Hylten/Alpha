@@ -20,9 +20,7 @@ Private markets have reached a level of complexity that renders the human‑cent
 The legacy GTM paradigm is an artifact of the ERP era: process catalogs, hierarchical roles, pipeline management, and a CRM engineered for reporting rather than real‑time optimization. In private markets this creates three structural choke points:
 
 1. Signal fog: transactional signals are fragmented across closed networks, locked data rooms, asynchronous relationships, and non‑standard formats.
-
 2. Tempo asymmetry: capital allocates faster than relationships can be constructed, making human‑centered sales flows structurally too slow.
-
 3. Analytical leakage: every manual handoff erodes decision context and diminishes predictive strength across the organization.
 
 This is not an operational problem; it is an architectural failure. Private market GTM has become a signal‑processing challenge, not a sales discipline.
@@ -32,9 +30,7 @@ This is not an operational problem; it is an architectural failure. Private mark
 An agentic GTM architecture is built on three pillars:
 
 1. Autonomy: the system analyzes, prioritizes, and acts without human input.
-
 2. Iterative intelligence: every signal enriches a shared memory that improves downstream decisions.
-
 3. Synthetic context: the system generates novel market analysis, hypothetical deal paths, and relational trajectories not explicitly present in the data.
 
 This is a decisive pivot away from CRM plus manual pipeline. Pipeline becomes a function of:
@@ -104,9 +100,7 @@ In private markets it is insufficient to know that an actor has shown interest. 
 Agentic systems structure these inputs into a signalgraph, a multidimensional construct where every datapoint becomes a node with dynamically weighted relationships recalibrated in real time. This produces three asymmetric advantages:
 
 1. Predictive pathfinding: the system identifies transaction routes humans would never detect.
-
 2. Automatic context prioritization: signals are weighted by probable impact, not intuition.
-
 3. Noise elimination: 80 percent of human pipeline artifacts are filtered out before reaching an operator.
 
 Pipeline becomes a graph, not a list.
@@ -116,9 +110,7 @@ Pipeline becomes a graph, not a list.
 Each agent assumes three responsibilities:
 
 1. Continuous scanning
-
 2. Autonomous decision execution
-
 3. Information feed into the memory system
 
 Representative agents include:

@@ -32,9 +32,7 @@ Machines can. Not only can they, but they already do in the most advanced organi
 A complete AI-first GTM infrastructure consists of three critical layers:
 
 1. The sensor layer
-
 2. The decision layer
-
 3. The action layer
 
 Everything else is peripheral.

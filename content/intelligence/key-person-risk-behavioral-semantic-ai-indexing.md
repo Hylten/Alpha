@@ -82,19 +82,12 @@ Some family offices pair this analysis with deeper institutional capital executi
 The model is not designed to replace judgment. It is designed to compress years of observation into minutes of clarity. Humans do not scale. Patterns do. A sequential cascade often precedes failure:
 
 1. Behavioral drift  
-
 2. Semantic dilution  
-
 3. Decision horizon collapse  
-
 4. Identity discontinuity  
-
 5. Operational entropy  
-
 6. Executive disengagement  
-
 7. Organizational fracture  
-
 8. Value destruction
 
 Intervention occurs at stage one. Sometimes stage two. Never later. Later is unacceptable.

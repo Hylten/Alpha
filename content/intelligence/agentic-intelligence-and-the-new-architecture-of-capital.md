@@ -19,9 +19,7 @@ Traditional demand generation is too slow, too manual, and too dependent on stat
 Every GTM engine is powered by three core components:
 
 1. Input signals
-
 2. Decision logic
-
 3. Execution channels
 
 In traditional organizations, all three are managed by humans, creating an inherent bottleneck. Humans cannot process data in real time, cannot scale decision volume, and are limited by coordination overhead. AI agents remove these constraints by:

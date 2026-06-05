@@ -1,8 +1,5 @@
 ---
-title: >-
-  # AI-First Private Credit: The Alpha Framework for Institutional Asset-Based
-  Lending
-
+title: "AI-First Private Credit: The Alpha Framework for Institutional Asset-Based"
   The architecture of private credit is shifting
 description: >-
   Human brokerage and legacy underwriting heuristics no longer define the
