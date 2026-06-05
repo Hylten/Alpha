@@ -1,12 +1,13 @@
 ---
-title: "# The Alpha Playbook for Agentic Finance
-
-Agentic finance is not a trend"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-alpha-playbook-for-agentic-finance"
-
+title: |-
+  # The Alpha Playbook for Agentic Finance
+  Agentic finance is not a trend
+description: >-
+  It is a structural upgrade to how liquidity is created, commanded, and cycled
+  by operators who understand that capital velocity is a form of power.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-alpha-playbook-for-agentic-finance
 re-architected: true
 ---
 

@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "convergent-diligence-ai-risk-engines"
-
+title: The Convergence Begins
+description: >-
+  The convergence initiated when information density surpassed human processing
+  velocity.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: convergent-diligence-ai-risk-engines
 re-architected: true
 ---
 

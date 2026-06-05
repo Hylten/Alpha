@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance"
-
+title: 'The Future of Alpha: Agentic Infrastructure'
+description: 'In the coming financial cycle, the construction layer will not be human.'
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance
 re-architected: true
 ---
 

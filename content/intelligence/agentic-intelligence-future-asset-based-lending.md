@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-future-asset-based-lending"
-
+title: >-
+  The Future of GTM Sourcing: Asset-Based Intelligence for High-Velocity Market
+  Capture
+description: >-
+  In the new GTM economy, manual effort is obsolete. Organizations that still
+  rely on human-driven research, calling, and campaign execution are already
+  behind. Strategic gravity is shifting toward m...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-intelligence-future-asset-based-lending
 re-architected: true
 ---
 

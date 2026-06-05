@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-hnw-liquidity-architecture"
-
+title: >-
+  Agentic Infrastructure: Re‑engineering Market Entry for HNW Liquidity
+  Architecture
+description: >-
+  Agentic infrastructure is a systemic design discipline in which data functions
+  as a sovereign substrate, APIs operate as liquidity corridors, enrichment
+  waterfalls generate context density, autonom...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-hnw-liquidity-architecture
 re-architected: true
 ---
 

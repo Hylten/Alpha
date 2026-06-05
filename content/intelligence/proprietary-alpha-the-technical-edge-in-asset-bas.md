@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "proprietary-alpha-the-technical-edge-in-asset-bas"
-
+title: Proprietary Alpha
+description: >-
+  The technical edge in asset‑based finance is not derived from personality or
+  market optimism.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: proprietary-alpha-the-technical-edge-in-asset-bas
 re-architected: true
 ---
 

@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-systems-mandate-architecture-for-frictionless"
-
+title: The Systems Mandate
+description: 'Architecture for frictionless GTM liquidity is engineered, not discovered.'
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-systems-mandate-architecture-for-frictionless
 re-architected: true
 ---
 

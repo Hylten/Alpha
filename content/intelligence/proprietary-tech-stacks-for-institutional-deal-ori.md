@@ -1,12 +1,13 @@
 ---
-title: "# Proprietary Tech Stacks for Institutional Deal Origination
+title: >-
+  # Proprietary Tech Stacks for Institutional Deal Origination
 
-The current liquidity environment rewards disciplined GTM execution and asymmetrical advantage through agentic infrastructure"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "proprietary-tech-stacks-for-institutional-deal-ori"
-
+  The current liquidity environment rewards disciplined GTM execution and
+  asymmetrical advantage through agentic infrastructure
+description: The current liquidity environment rewards discipline.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: proprietary-tech-stacks-for-institutional-deal-ori
 re-architected: true
 ---
 

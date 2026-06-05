@@ -1,12 +1,12 @@
 ---
-title: "# AI-Driven Asset-Based Lending for Emerging Markets
-
-Emerging markets have entered a structural realignment"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-driven-abl-for-emerging-markets-the-silent-infrastructure-of-future-liquidity"
-
+title: |-
+  # AI-Driven Asset-Based Lending for Emerging Markets
+  Emerging markets have entered a structural realignment
+description: Emerging markets have entered a structural realignment.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  ai-driven-abl-for-emerging-markets-the-silent-infrastructure-of-future-liquidity
 re-architected: true
 ---
 

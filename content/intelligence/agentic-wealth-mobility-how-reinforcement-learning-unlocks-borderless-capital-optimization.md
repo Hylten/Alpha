@@ -1,12 +1,15 @@
 ---
-title: "# Agentic Wealth Mobility: Borderless Capital Optimization via Reinforcement-Led Agentic Systems
+title: >-
+  # Agentic Wealth Mobility: Borderless Capital Optimization via
+  Reinforcement-Led Agentic Systems
 
-Agentic capital infrastructures are no longer an emergent frontier but a deployable mechanism for asymmetric advantage and GTM liquidity."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-wealth-mobility-how-reinforcement-learning-unlocks-borderless-capital-optimization"
-
+  Agentic capital infrastructures are no longer an emergent frontier but a
+  deployable mechanism for asymmetric advantage and GTM liquidity.
+description: Agentic capital infrastructure is no longer theoretical.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  agentic-wealth-mobility-how-reinforcement-learning-unlocks-borderless-capital-optimization
 re-architected: true
 ---
 

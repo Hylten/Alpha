@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "sovereign-market-liquidity-engineering-autonomous-gtm-pipel"
-
+title: >-
+  Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for
+  High-Velocity Capital
+description: >-
+  Sovereign liquidity is no longer a macroeconomic phenomenon. It is an
+  engineering discipline. Markets are defined not by actors but by systems, and
+  systems are defined not by strategies but by prot...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: sovereign-market-liquidity-engineering-autonomous-gtm-pipel
 re-architected: true
 ---
 

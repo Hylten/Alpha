@@ -1,12 +1,11 @@
 ---
-title: "# Cross Exchange Liquidity Harmonization Frameworks for Sovereign AI Execution
-
-## Introduction"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "cross-exchange-liquidity-harmonization-frameworks"
-
+title: |-
+  # Cross Exchange Liquidity Harmonization Frameworks for Sovereign AI Execution
+  ## Introduction
+description: Cross exchange liquidity has evolved beyond market microstructure constraints.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: cross-exchange-liquidity-harmonization-frameworks
 re-architected: true
 ---
 

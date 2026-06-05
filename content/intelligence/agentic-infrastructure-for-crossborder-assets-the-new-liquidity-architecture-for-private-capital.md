@@ -1,10 +1,15 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
-
+title: >-
+  Agentic Infrastructure for Cross-border Assets: The GTM Architecture for
+  Private Capital
+description: >-
+  Cross‑border private capital is undergoing a structural inversion. The legacy
+  GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual
+  compliance—has reached terminal latency. The em...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital
 re-architected: true
 ---
 

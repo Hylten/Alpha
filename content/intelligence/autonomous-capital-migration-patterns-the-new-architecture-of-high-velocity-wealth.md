@@ -1,12 +1,17 @@
 ---
-title: "# Autonomous Capital Migration Patterns
+title: >-
+  # Autonomous Capital Migration Patterns
 
-Autonomous capital has transitioned from hypothesis to operational reality, establishing a new asymmetry in GTM Liquidity and agentic financial infrastructure."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-capital-migration-patterns-the-new-architecture-of-high-velocity-wealth"
-
+  Autonomous capital has transitioned from hypothesis to operational reality,
+  establishing a new asymmetry in GTM Liquidity and agentic financial
+  infrastructure.
+description: >-
+  It functions as a mechanical liquidity organism, routing through markets with
+  a precision that exceeds discretionary decision cycles.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  autonomous-capital-migration-patterns-the-new-architecture-of-high-velocity-wealth
 re-architected: true
 ---
 

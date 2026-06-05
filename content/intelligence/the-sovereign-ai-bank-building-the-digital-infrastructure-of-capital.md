@@ -1,12 +1,11 @@
 ---
-title: "# The Sovereign AI Bank: Building the Digital Infrastructure of Capital
-
-The future of wealth is not managed, it is computed"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital"
-
+title: |-
+  # The Sovereign AI Bank: Building the Digital Infrastructure of Capital
+  The future of wealth is not managed, it is computed
+description: The future of wealth is not managed. It is computed.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital
 re-architected: true
 ---
 

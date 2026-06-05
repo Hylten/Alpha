@@ -79,16 +79,24 @@ async function generateSEO() {
     for (const file of files) {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(rawContent);
-        
-        let title = data.title || 'Intelligence Report';
-        let description = data.description || '';
-        
-        // Clean up YAML artifacts and fix common capitalization issues
-        description = description.replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
-        title = title.replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
-        
+        const { data, content: body } = matter(rawContent);
         const slug = data.slug || file.replace('.md', '');
+
+        const polish = (v) => String(v || '').replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM').trim();
+        const h1Match = body.match(/^#\s+(.+)$/m);
+        const titleFromSlug = slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        let title = polish(data.title);
+        if (!title || title.length < 3) title = h1Match ? polish(h1Match[1]) : titleFromSlug;
+
+        let description = polish(data.description);
+        if (!description || description.length < 30) {
+            const para = body.split('\n\n').map((p) => p.trim()).find((p) => p.length > 50 && !p.startsWith('#'));
+            if (para) {
+                description = polish(para.replace(/\*\*(.*?)\*\*/g, '$1').replace(/\n/g, ' '));
+                if (description.length > 200) description = description.slice(0, 197) + '...';
+            }
+        }
+
         const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
         listHtml += `
@@ -135,8 +143,19 @@ async function generateSEO() {
         const { data, content } = matter(rawContent);
 
         const slug = data.slug || file.replace('.md', '');
-        const title = data.title || 'Intelligence Article';
-        const description = data.description || '';
+        const polish = (v) => String(v || '').replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM').trim();
+        const h1Match = content.match(/^#\s+(.+)$/m);
+        const titleFromSlug = slug.split('-').map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        let title = polish(data.title);
+        if (!title || title.length < 3) title = h1Match ? polish(h1Match[1]) : titleFromSlug;
+        let description = polish(data.description);
+        if (!description || description.length < 30) {
+            const para = content.split('\n\n').map((p) => p.trim()).find((p) => p.length > 50 && !p.startsWith('#'));
+            if (para) {
+                description = polish(para.replace(/\*\*(.*?)\*\*/g, '$1').replace(/\n/g, ' '));
+                if (description.length > 200) description = description.slice(0, 197) + '...';
+            }
+        }
         const date = data.date || today;
         const author = data.author || 'Roials Alpha';
 

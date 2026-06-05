@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "basta-praxis-for-ai-i-svensk-tillverkningsindustri"
-
+title: Best Practices for AI in Swedish Manufacturing
+description: >-
+  Swedish manufacturing is entering a phase where speed, precision, and
+  predictive command define competitive posture.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: basta-praxis-for-ai-i-svensk-tillverkningsindustri
 re-architected: true
 ---
 

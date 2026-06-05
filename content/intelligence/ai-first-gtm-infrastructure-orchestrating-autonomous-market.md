@@ -1,9 +1,11 @@
 ---
-title: "Introduction: The New GTM Order"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-first-gtm-infrastructure-orchestrating-autonomous-market"
+title: 'Introduction: The New GTM Order'
+description: >-
+  AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for
+  Global Dominance
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-first-gtm-infrastructure-orchestrating-autonomous-market
 ---
 
 AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for Global Dominance

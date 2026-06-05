@@ -1,12 +1,13 @@
 ---
-title: "# The Proprietary Path to Autonomous Capital
-
-Capital Is No Longer Passive"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-proprietary-path-to-autonomous-capital"
-
+title: |-
+  # The Proprietary Path to Autonomous Capital
+  Capital Is No Longer Passive
+description: >-
+  Capital is no longer restricted by underwriting bottlenecks or legacy cycle
+  delays.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-proprietary-path-to-autonomous-capital
 re-architected: true
 ---
 

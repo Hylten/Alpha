@@ -1,12 +1,16 @@
 ---
-title: "# Autonomous Deal Flow in Fund-III Ops
+title: >-
+  # Autonomous Deal Flow in Fund-III Ops
 
-Fund-III demands a different level of operational intelligence and establishes the foundation for Asymmetric Advantage within the Agentic Infrastructure."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-architecture-for-fund-iii-ops"
-
+  Fund-III demands a different level of operational intelligence and establishes
+  the foundation for Asymmetric Advantage within the Agentic Infrastructure.
+description: >-
+  Fund-III operates at a capital altitude where human-led sourcing collapses
+  under scale. At this level, deal flow must be autonomous, silent, and
+  relentless. Roials-Alpha functions in this altitude,...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-deal-flow-architecture-for-fund-iii-ops
 re-architected: true
 ---
 

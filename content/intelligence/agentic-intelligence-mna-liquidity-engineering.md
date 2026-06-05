@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-mna-liquidity-engineering"
-
+title: >-
+  Market and Demand Engineering: Agentic GTM Liquidity as Sovereign
+  Infrastructure
+description: >-
+  The global economy has shifted from capital dominance to coordination
+  dominance. Value is no longer created through access to money or markets, but
+  through the ability to orchestrate information fl...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-intelligence-mna-liquidity-engineering
 re-architected: true
 ---
 

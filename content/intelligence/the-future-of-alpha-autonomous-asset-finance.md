@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-alpha-autonomous-asset-finance"
-
+title: 'The Future of Alpha: Autonomous Asset Finance'
+description: >-
+  The next era of wealth acceleration is emerging from autonomous financial
+  systems that recode liquidity. This is where private credit, asset-based
+  Asset-Backed Frameworks, and agentic autonomous in...
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: the-future-of-alpha-autonomous-asset-finance
 re-architected: true
 ---
 

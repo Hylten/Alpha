@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-abl-prompting-the-liquidity-spider"
-
+title: 'The Future of Asset-Based Lending: Prompting the Liquidity Spider'
+description: Asset-Based Strategic Collateralization is no longer a static structure.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-future-of-abl-prompting-the-liquidity-spider
 re-architected: true
 ---
 

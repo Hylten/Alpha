@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "parametric-arbitration-models-for-adversarial-trad"
-
+title: >-
+  Parametric Arbitration Models for Adversarial Trade Environments Using The
+  Sovereign Protocol
+description: Parametric arbitration has moved beyond experimentation.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: parametric-arbitration-models-for-adversarial-trad
 re-architected: true
 ---
 

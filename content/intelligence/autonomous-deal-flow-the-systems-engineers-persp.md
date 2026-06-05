@@ -1,10 +1,9 @@
 ---
-title: "Autonomous Deal Flow"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-the-systems-engineers-persp"
-
+title: Autonomous Deal Flow
+description: A transition from manual pursuit to engineered inevitability.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-deal-flow-the-systems-engineers-persp
 re-architected: true
 ---
 

@@ -1,10 +1,13 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-alpha-framework-engineering-proprietary-credi"
-
+title: >-
+  The Alpha Framework Engineering Proprietary Credit Models Roials‑Alpha
+  Principal Doctrine
+description: >-
+  It is a structural discipline for principals who treat credit as
+  infrastructure rather than product.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: the-alpha-framework-engineering-proprietary-credi
 re-architected: true
 ---
 

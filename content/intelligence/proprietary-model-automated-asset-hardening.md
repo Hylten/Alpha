@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "proprietary-model-automated-asset-hardening"
-
+title: The Modern Capital Estate
+description: >-
+  The modern capital estate requires insulation, leverage, velocity, and a
+  controlled dissociation between personal wealth and operational risk surfaces.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: proprietary-model-automated-asset-hardening
 re-architected: true
 ---
 

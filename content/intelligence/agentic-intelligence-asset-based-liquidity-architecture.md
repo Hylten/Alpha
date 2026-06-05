@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-asset-based-liquidity-architecture"
-
+title: Systemic Architecture for GTM Liquidity
+description: >-
+  In a modern GTM ecosystem built on asset‑driven flows, a central principle
+  emerges that traditional sales and marketing models fail to account for.
+  Liquidity is not merely a property of a market. I...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-intelligence-asset-based-liquidity-architecture
 re-architected: true
 ---
 

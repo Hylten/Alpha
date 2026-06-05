@@ -1,12 +1,11 @@
 ---
-title: "# The Sovereign AI: Engineering the Alpha Future
-
-Sovereign AI is not a concept"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-sovereign-ai-building-the-alpha-future"
-
+title: |-
+  # The Sovereign AI: Engineering the Alpha Future
+  Sovereign AI is not a concept
+description: A liquidity engine that reorders capital behavior for those who command it.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-sovereign-ai-building-the-alpha-future
 re-architected: true
 ---
 

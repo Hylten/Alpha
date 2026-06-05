@@ -1,12 +1,14 @@
 ---
-title: "# The Future of Institutional Alpha via AI
-
-Institutional alpha is migrating"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-institutional-alpha-via-ai"
-
+title: |-
+  # The Future of Institutional Alpha via AI
+  Institutional alpha is migrating
+description: >-
+  Institutional alpha is migrating into autonomous infrastructure, intelligence
+  layers, and engineered capital‑flow architecture. This is the domain where
+  Roials-Alpha operates with principal authority.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-future-of-institutional-alpha-via-ai
 re-architected: true
 ---
 

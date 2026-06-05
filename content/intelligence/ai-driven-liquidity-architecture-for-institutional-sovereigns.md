@@ -1,12 +1,13 @@
 ---
-title: "# AI-Driven Liquidity for Institutional Sovereigns
+title: >-
+  # AI-Driven Liquidity for Institutional Sovereigns
 
-Institutional capital no longer reacts; it operates in a state of anticipatory asymmetry."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-driven-liquidity-architecture-for-institutional-sovereigns"
-
+  Institutional capital no longer reacts; it operates in a state of anticipatory
+  asymmetry.
+description: Institutional capital no longer reacts. It anticipates.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-driven-liquidity-architecture-for-institutional-sovereigns
 re-architected: true
 ---
 

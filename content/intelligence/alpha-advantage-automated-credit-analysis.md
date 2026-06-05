@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "alpha-advantage-automated-credit-analysis"
-
+title: Autonomous Credit Computation
+description: >-
+  Capital compounds when underwriting becomes precision‑grade,
+  architecture-driven, and autonomous at the edge.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: alpha-advantage-automated-credit-analysis
 re-architected: true
 ---
 

@@ -1,12 +1,13 @@
 ---
-title: "# The Future of Alpha: AI-Centric Sovereign Financing
+title: >-
+  # The Future of Alpha: AI-Centric Sovereign Financing
 
-The next era of wealth creation will not be negotiated across conference tables."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-alpha-ai-centric-sovereign-financing"
-
+  The next era of wealth creation will not be negotiated across conference
+  tables.
+description: The next era of wealth creation will not be negotiated. It will be computed.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-future-of-alpha-ai-centric-sovereign-financing
 re-architected: true
 ---
 

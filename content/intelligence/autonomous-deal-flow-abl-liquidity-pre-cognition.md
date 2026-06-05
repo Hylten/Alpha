@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-abl-liquidity-pre-cognition"
-
+title: The Mandate
+description: >-
+  Autonomous deal flow has shifted from hypothesis to operational requirement
+  across 2026 Private Equity Fund-III deployment, mid-market buyout capital
+  formation, NAEOCC energy infrastructure allocat...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-deal-flow-abl-liquidity-pre-cognition
 re-architected: true
 ---
 

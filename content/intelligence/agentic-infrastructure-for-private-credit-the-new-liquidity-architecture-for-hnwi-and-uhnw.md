@@ -1,10 +1,15 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-private-credit-the-new-liquidity-architecture-for-hnwi-and-uhnw"
-
+title: >-
+  Agentic Infrastructure for Private Credit: New GTM Architecture for Sovereign
+  Capital
+description: >-
+  The structural density of private credit markets has accelerated beyond the
+  operational capacity of incumbent GTM architectures. Capital allocators, fund
+  administrators, originators, and distributi...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  agentic-infrastructure-for-private-credit-the-new-liquidity-architecture-for-hnwi-and-uhnw
 re-architected: true
 ---
 

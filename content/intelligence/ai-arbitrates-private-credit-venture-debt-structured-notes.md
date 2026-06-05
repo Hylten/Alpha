@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
-
+title: The Intelligence Architecture
+description: >-
+  The intelligence is direct: capital instruments compete, and only an
+  autonomous system can arbitrate that competition at the velocity demanded by
+  modern markets.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-arbitrates-private-credit-venture-debt-structured-notes
 re-architected: true
 ---
 

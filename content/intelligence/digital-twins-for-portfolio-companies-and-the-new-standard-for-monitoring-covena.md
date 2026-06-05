@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring-covena"
-
+title: >-
+  Digital Twins for Portfolio Companies and the New Standard for Covenant
+  Monitoring
+description: Digital infrastructure has surpassed the limits of human monitoring.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring-covena
 re-architected: true
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-abl-from-analysis-to-autonomy"
-
+title: 'The Future of Asset-Based Lending: From Analysis to Autonomy'
+description: >-
+  Asset-based capital structuring is shifting globally, moving away from manual
+  evaluation cycles and toward autonomous systems that operate at institutional
+  scale.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-future-of-abl-from-analysis-to-autonomy
 re-architected: true
 ---
 

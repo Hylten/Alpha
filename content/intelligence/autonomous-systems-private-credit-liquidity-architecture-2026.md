@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-systems-private-credit-liquidity-architecture-2026"
-
+title: The Mandate
+description: >-
+  Autonomous systems within private credit are no longer conceptual models. They
+  are structural catalysts that redefine GTM Liquidity.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-systems-private-credit-liquidity-architecture-2026
 re-architected: true
 ---
 

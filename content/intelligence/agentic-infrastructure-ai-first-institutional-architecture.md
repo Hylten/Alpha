@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-ai-first-institutional-architecture"
-
+title: >-
+  Agentic Infrastructure: AI-First Institutional Architecture for Sovereign
+  Capital
+description: >-
+  A silent but structurally disruptive shift is transforming how nations
+  organize their economic instruments, information systems, and strategic
+  assets. Where twentieth‑century institutions were buil...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-ai-first-institutional-architecture
 re-architected: true
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "key-person-risk-behavioral-semantic-ai-indexing"
-
+title: The Weak Link Is Never the Model
+description: >-
+  The structural failure point is the human center‑of‑gravity, not the system
+  itself. Key Person Risk is rarely mispriced due to hidden information. It is
+  mispriced because institutions analyze the w...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: key-person-risk-behavioral-semantic-ai-indexing
 re-architected: true
 ---
 

@@ -1,10 +1,15 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity"
-
+title: >-
+  The Future of GTM Intelligence: How AI-Driven Signal Systems Redefine Market
+  Entry
+description: >-
+  For two decades, B2B organizations built their go-to-market structures on
+  static data, manual CRM inputs, outdated ICP profiles, and sales teams’
+  subjective interpretations of what constituted buyi...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity
 re-architected: true
 ---
 

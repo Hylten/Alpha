@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-the-new-standard-for-high"
-
+title: >-
+  The New Standard for High-Performance GTM: Agentic Engineering as Market
+  Dominance
+description: >-
+  The prevailing GTM standard is structurally obsolete. Organizations continue
+  optimizing processes that no longer correspond to reality. They build
+  playbooks for humans while the market responds to ...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-the-new-standard-for-high
 re-architected: true
 ---
 

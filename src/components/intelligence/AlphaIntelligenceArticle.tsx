@@ -1,28 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-
-// Browser-safe frontmatter parser
-function parseFrontmatter(raw: string) {
-    const parts = raw.split(/---/);
-    if (parts.length < 3) return { data: {} as Record<string, string>, content: raw };
-    
-    const frontmatter = parts[1];
-    const content = parts.slice(2).join('---').trim();
-    const data: Record<string, string> = {};
-
-    const regex = /([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n\r]+))/g;
-    let match;
-    while ((match = regex.exec(frontmatter)) !== null) {
-        const key = match[1];
-        const value = match[2] || match[3] || match[4];
-        if (key && !data[key]) {
-            data[key] = value;
-        }
-    }
-    
-    return { data, content };
-}
+import { resolveArticleMeta } from '../../utils/intelligenceArticle';
 
 interface AlphaIntelligenceArticleProps {
     slug: string;
@@ -45,16 +24,21 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
                 let foundIndex = -1;
 
                 for (const [filepath, fileContent] of Object.entries(postsGlob)) {
-                    const rawMarkdown = (fileContent as any).default;
-                    const { data, content: markdownBody } = parseFrontmatter(rawMarkdown);
+                    const rawMarkdown = (fileContent as { default: string }).default;
+                    const { meta, content: markdownBody } = resolveArticleMeta(rawMarkdown, filepath);
 
-                    const fileSlug = data.slug || filepath.split('/').pop()?.replace('.md', '');
                     posts.push({
-                        slug: fileSlug,
-                        title: data.title || 'Untitled',
-                        date: data.date || '',
+                        slug: meta.slug,
+                        title: meta.title,
+                        date: meta.date,
                         body: markdownBody,
-                        meta: data
+                        meta: {
+                            title: meta.title,
+                            description: meta.description,
+                            date: meta.date,
+                            author: meta.author,
+                            slug: meta.slug,
+                        },
                     });
                 }
 

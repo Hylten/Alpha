@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-driven-asset-hardening-the-new-frontier-for-institutional-grade-liquidity"
-
+title: 'AI-Driven Asset Hardening: The New Frontier'
+description: >-
+  It is now the hardening layer that separates vulnerable portfolios from
+  fortified capital infrastructure.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-driven-asset-hardening-the-new-frontier-for-institutional-grade-liquidity
 re-architected: true
 ---
 

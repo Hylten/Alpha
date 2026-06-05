@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-high-net-worth-portfolios-the-te"
-
+title: >-
+  Agentic Infrastructure for High-Net-Worth Portfolios: The Technical Mechanics
+  Behind Sovereign Yield and Asset Hardening
+description: >-
+  Modern wealth management for individuals with extreme asset concentration has
+  entered a phase where traditional portfolio theory is no longer sufficient.
+  Capital must move without human friction, r...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-for-high-net-worth-portfolios-the-te
 re-architected: true
 ---
 

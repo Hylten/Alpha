@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "proprietary-agentic-models-institutional-credit-architecture"
-
+title: The Structural Gap
+description: >-
+  The structural gap shaping North American private credit is not a function of
+  opportunity scarcity.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: proprietary-agentic-models-institutional-credit-architecture
 re-architected: true
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: "Shift Toward Agentic GTM Systems"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-deals-hnw-era-liquidity-structuring"
-
+title: Shift Toward Agentic GTM Systems
+description: >-
+  The current era of high-value GTM architectures is defined by a structural
+  reset. Organizations are moving from manually layered workflows to agentic,
+  AI-equivalent systems that generate their own ...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-deals-hnw-era-liquidity-structuring
 re-architected: true
 ---
 

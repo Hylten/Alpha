@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-alpha-vision-for-aifirst-capital-management"
-
+title: The Alpha Vision for AI‑First Capital Management
+description: Capital accelerates when the human bottleneck is eliminated.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-alpha-vision-for-aifirst-capital-management
 re-architected: true
 ---
 

@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-data-rooms-and-agentic-private-markets"
-
+title: The Emergent Structure
+description: The architecture materializes before the market recognizes the shift.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-data-rooms-and-agentic-private-markets
 re-architected: true
 ---
 

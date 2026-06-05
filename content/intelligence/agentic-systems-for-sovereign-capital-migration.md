@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-systems-for-sovereign-capital-migration"
-
+title: Agentic Systems for Sovereign Capital Migration
+description: The velocity of capital has moved beyond traditional intermediaries.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-systems-for-sovereign-capital-migration
 re-architected: true
 ---
 

@@ -1,9 +1,12 @@
 ---
-title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision"
+title: >-
+  Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at
+  Institutional Precision
+description: 'Agentic Deals for the HNW Era: High Frequency GTM-Structured Precision'
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: >-
+  agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision
 ---
 
 Agentic Deals for the HNW Era: High Frequency GTM-Structured Precision

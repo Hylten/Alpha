@@ -1,14 +1,19 @@
 ---
-title: "# The Alpha Approach to AI-First Monetization Architecture
+title: >-
+  # The Alpha Approach to AI-First Monetization Architecture
 
-## A Structural Blueprint for Precision Liquidity
+  ## A Structural Blueprint for Precision Liquidity
 
-Roials Alpha operates within a non-disclosive stratum of financial intelligence engineered to generate Asymmetric Advantage through Agentic Infrastructure and sustained GTM Liquidity."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-alpha-approach-to-ai-first-liquidity-engineering-institutional-mechanics-for-the-next-liquidity"
-
+  Roials Alpha operates within a non-disclosive stratum of financial
+  intelligence engineered to generate Asymmetric Advantage through Agentic
+  Infrastructure and sustained GTM Liquidity.
+description: >-
+  Roials Alpha operates within a tier of financial intelligence that does not
+  announce itself.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  the-alpha-approach-to-ai-first-liquidity-engineering-institutional-mechanics-for-the-next-liquidity
 re-architected: true
 ---
 

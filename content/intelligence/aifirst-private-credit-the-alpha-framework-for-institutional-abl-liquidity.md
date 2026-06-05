@@ -1,12 +1,15 @@
 ---
-title: "# AI-First Private Credit: The Alpha Framework for Institutional Asset-Based Lending
+title: >-
+  # AI-First Private Credit: The Alpha Framework for Institutional Asset-Based
+  Lending
 
-The architecture of private credit is shifting"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity"
-
+  The architecture of private credit is shifting
+description: >-
+  Human brokerage and legacy underwriting heuristics no longer define the
+  capital stack.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity
 re-architected: true
 ---
 

@@ -1,12 +1,15 @@
 ---
-title: "# Autonomous Liquidity Management for Sovereigns
+title: >-
+  # Autonomous Liquidity Management for Sovereigns
 
-Liquidity is no longer discretionary; access is restricted to approved mandates"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-liquidity-management-for-sovereigns"
-
+  Liquidity is no longer discretionary; access is restricted to approved
+  mandates
+description: >-
+  Liquidity is no longer defined by access. It is defined by autonomous
+  infrastructure.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-liquidity-management-for-sovereigns
 re-architected: true
 ---
 

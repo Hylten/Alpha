@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-liquidity-structuring-hnw-era-2026"
-
+title: 'The Mandate: Defining the Structural Reality of Agentic Deals in 2026'
+description: >-
+  The current capital cycle is shaped by three converging vectors that redefine
+  how UHNW principals, private equity platforms, MiFID II‑governed firms, and
+  sovereign family entities manage deployment...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-liquidity-structuring-hnw-era-2026
 re-architected: true
 ---
 

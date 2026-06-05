@@ -1,12 +1,16 @@
 ---
-title: "# AI-First Liquidity for Institutional GPs
+title: >-
+  # AI-First Liquidity for Institutional GPs
 
-Institutional capital through Roials Capital is reorganizing itself around a single principle"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital"
-
+  Institutional capital through Roials Capital is reorganizing itself around a
+  single principle
+description: >-
+  In the current cycle, the GP that surfaces borrowable value faster than
+  competitors controls the capital stack.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital
 re-architected: true
 ---
 

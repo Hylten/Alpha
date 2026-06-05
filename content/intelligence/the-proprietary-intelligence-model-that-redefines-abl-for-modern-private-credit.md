@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit"
-
+title: >-
+  The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha
+  Edition
+description: >-
+  Asset-based and asset-backed frameworks are no longer mechanical underwriting
+  exercises.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit
 re-architected: true
 ---
 

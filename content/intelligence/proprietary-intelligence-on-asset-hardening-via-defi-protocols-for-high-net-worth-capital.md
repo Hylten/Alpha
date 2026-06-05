@@ -1,12 +1,15 @@
 ---
-title: "# Proprietary Intelligence on Asset Hardening Through DeFi Protocols for High Net Worth Capital
+title: >-
+  # Proprietary Intelligence on Asset Hardening Through DeFi Protocols for High
+  Net Worth Capital
 
-Ultra-high‑net‑worth capital is recalibrating around a new expectation of asymmetric advantage and GTM liquidity."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital"
-
+  Ultra-high‑net‑worth capital is recalibrating around a new expectation of
+  asymmetric advantage and GTM liquidity.
+description: Ultra high net worth capital is recalibrating around a new expectation.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  proprietary-intelligence-on-asset-hardening-via-defi-protocols-for-high-net-worth-capital
 re-architected: true
 ---
 

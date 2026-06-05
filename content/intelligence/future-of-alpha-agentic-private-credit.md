@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "future-of-alpha-agentic-private-credit"
-
+title: 'Phase I: The Regime Shift'
+description: >-
+  The structural gap in private credit is no longer defined by deal scarcity but
+  by institutional latency.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: future-of-alpha-agentic-private-credit
 re-architected: true
 ---
 

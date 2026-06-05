@@ -1,10 +1,15 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering"
-
+title: >-
+  Agentic Alpha: The AI-Orchestrated Future of Crypto-Backed Liquidity
+  Engineering
+description: >-
+  The era of passive GTM execution has ended. What replaces it is not another
+  operational framework or a superficial tooling upgrade. The next frontier is
+  agentic, self-directed, cryptographically co...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  agentic-alpha-the-ai-orchestrated-future-of-crypto-backed-liquidity-engineering
 re-architected: true
 ---
 

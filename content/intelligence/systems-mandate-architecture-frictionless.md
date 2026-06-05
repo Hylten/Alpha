@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "systems-mandate-architecture-frictionless"
-
+title: The Capital Vacuum
+description: >-
+  The capital vacuum in North America is a function of operational drag, legacy
+  processes, and regulatory friction that accumulated faster than institutional
+  systems evolved.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: systems-mandate-architecture-frictionless
 re-architected: true
 ---
 

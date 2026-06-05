@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-driven-liquidity-architecture-private-credit"
-
+title: 'Layer M: System Connectivity'
+description: >-
+  Human friction is the terminal drag coefficient inside every high‑velocity
+  corridor.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: ai-driven-liquidity-architecture-private-credit
 re-architected: true
 ---
 

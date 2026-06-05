@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-wealth-mobility-borderless-capital-optimization"
-
+title: The Mandate
+description: >-
+  Agentic Wealth Mobility represents the migration from geography‑bound capital
+  management to self‑optimizing cross‑border liquidity engines.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-wealth-mobility-borderless-capital-optimization
 re-architected: true
 ---
 

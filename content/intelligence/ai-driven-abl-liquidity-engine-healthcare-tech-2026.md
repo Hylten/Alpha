@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-driven-abl-liquidity-engine-healthcare-tech-2026"
-
+title: The Mandate
+description: >-
+  Artificial intelligence has restructured asset-based liquidity
+  infrastructures, particularly in healthcare and technology where asset classes
+  historically resisted uniform valuation, cycle timing, ...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-driven-abl-liquidity-engine-healthcare-tech-2026
 re-architected: true
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "Layer C: apable of"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "dynamic-risk-based-pricing-llm-macro-private-credit"
+title: 'Layer C: apable of'
+description: Human‑only risk committees are drifting into irrelevance.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: dynamic-risk-based-pricing-llm-macro-private-credit
 ---
 
 The shift is already underway.

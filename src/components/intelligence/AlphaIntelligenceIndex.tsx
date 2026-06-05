@@ -1,67 +1,20 @@
 import React from 'react';
+import { resolveArticleMeta } from '../../utils/intelligenceArticle';
 
-// Browser-safe frontmatter parser (improved - handles YAML >- fold syntax)
-function parseFrontmatter(raw: string) {
-    const match = raw.match(/^\s*---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/);
-    if (!match) return { data: {} as Record<string, string>, content: raw };
-
-    const frontmatter = match[1];
-    const content = match[2];
-    const data: Record<string, string> = {};
-
-    // Handle YAML >- (folded scalar) and > (block) syntax
-    const normalizedFM = frontmatter
-        .replace(/>-\s*\n/g, ' ')
-        .replace(/>\s*\n/g, ' ')
-        .replace(/\|-\s*\n/g, ' ')
-        .replace(/\|\s*\n/g, ' ');
-
-    // Parse key: value pairs (handles quoted values)
-    const keyValuePattern = /([a-zA-Z0-9_-]+):\s*(?:"([^"]*)"|'([^']*)'|([^\n,]+))/g;
-    let match2;
-    while ((match2 = keyValuePattern.exec(normalizedFM)) !== null) {
-        const key = match2[1];
-        let value = match2[2] || match2[3] || match2[4] || '';
-        if (key && !data[key]) {
-            value = value.trim();
-            // Fix common capitalization issues
-            value = value.replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
-            data[key] = value;
-        }
-    }
-
-    return { data, content };
-}
-
-// Helper to parse the raw markdown files explicitly
 const getPosts = () => {
     const postsGlob = import.meta.glob('../../../content/intelligence/*.md', { query: '?raw', eager: true });
 
     const posts = Object.entries(postsGlob).map(([filepath, content]) => {
-        const rawMarkdown = (content as any).default;
-        const { data } = parseFrontmatter(rawMarkdown);
-
-        let title = data.title || 'Untitled';
-        let description = data.description || '';
-        
-        // Clean up YAML artifacts and fix common capitalization issues
-        description = description.replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
-        title = title.replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM');
-
-        return {
-            slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
-            title,
-            description,
-            date: data.date || '2026-03-01',
-            author: data.author || 'Roials Alpha',
-        };
+        const rawMarkdown = (content as { default: string }).default;
+        const { meta } = resolveArticleMeta(rawMarkdown, filepath);
+        return meta;
     });
 
     return posts.sort((a, b) => {
         const dateA = new Date(a.date).getTime();
         const dateB = new Date(b.date).getTime();
-        if (isNaN(dateA)) return 1;
-        if (isNaN(dateB)) return -1;
+        if (Number.isNaN(dateA)) return 1;
+        if (Number.isNaN(dateB)) return -1;
         return dateB - dateA;
     });
 };
@@ -114,9 +67,11 @@ export const AlphaIntelligenceIndex: React.FC = () => {
                                 {post.title}
                             </h2>
 
-                            <p className="text-[11px] md:text-xs text-gray-400 leading-relaxed tracking-wide mb-6 line-clamp-3">
-                                {post.description}
-                            </p>
+                            {post.description && (
+                                <p className="text-[11px] md:text-xs text-gray-400 leading-relaxed tracking-wide mb-6 line-clamp-3">
+                                    {post.description}
+                                </p>
+                            )}
 
                             <div className="inline-flex items-center gap-2 text-[10px] tracking-[0.2em] text-white uppercase group-hover:text-oldgold transition-colors duration-300">
                                 Execute Process
@@ -145,7 +100,6 @@ export const AlphaIntelligenceIndex: React.FC = () => {
                 )}
             </div>
 
-            {/* Background decoration */}
             <div className="absolute top-40 right-10 w-[500px] h-[500px] bg-oldgold/5 rounded-full blur-[100px] pointer-events-none -z-10"></div>
         </div>
     );

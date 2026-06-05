@@ -1,12 +1,14 @@
 ---
-title: "# Autonomous Systems for Multi-Asset Asset-Based Lending
-
-The Architecture of Credit Is Shifting"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit"
-
+title: |-
+  # Autonomous Systems for Multi-Asset Asset-Based Lending
+  The Architecture of Credit Is Shifting
+description: >-
+  The architecture of credit is restructuring around precision movement rather
+  than capital possession.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit
 re-architected: true
 ---
 

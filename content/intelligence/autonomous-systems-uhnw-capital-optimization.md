@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-systems-uhnw-capital-optimization"
-
+title: Ultra-High-Net-Worth Capital Behavior Framework
+description: >-
+  Ultra-high-net-worth capital does not behave like conventional wealth pools.
+  It prioritizes velocity over concentration, structure over sentiment, and
+  precision over scale.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: autonomous-systems-uhnw-capital-optimization
 re-architected: true
 ---
 

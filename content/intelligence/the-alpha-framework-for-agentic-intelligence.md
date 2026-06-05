@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-alpha-framework-for-agentic-intelligence"
-
+title: The Alpha Framework for Agentic Intelligence
+description: >-
+  To give high net worth and ultra high net worth individuals structural
+  authority over liquidity.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-alpha-framework-for-agentic-intelligence
 re-architected: true
 ---
 

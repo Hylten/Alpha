@@ -1,10 +1,10 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-for-institutional-investors-the-new-architecture-of-high-velocity-capital"
-
+title: Autonomous Deal Flow for Institutional Investors
+description: Autonomy is the new frontier of capital allocation.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  autonomous-deal-flow-for-institutional-investors-the-new-architecture-of-high-velocity-capital
 re-architected: true
 ---
 

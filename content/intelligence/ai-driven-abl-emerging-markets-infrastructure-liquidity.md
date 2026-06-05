@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-driven-abl-emerging-markets-infrastructure-liquidity"
-
+title: Emerging Market Shock Absorption
+description: Emerging markets metabolize volatility into operational oxygen.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-driven-abl-emerging-markets-infrastructure-liquidity
 re-architected: true
 ---
 

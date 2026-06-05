@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "algorithmic-asset-hardening-automating-institutio"
-
+title: Algorithmic Asset Hardening
+description: >-
+  Automating institutional scrutiny requires eliminating narrative dependence
+  and enforcing structural rigor. Institutional allocators respond only to
+  precision, covenant clarity, and asset logic cap...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: algorithmic-asset-hardening-automating-institutio
 re-architected: true
 ---
 

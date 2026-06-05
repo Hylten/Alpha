@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-and-the-new-architecture-of-private-debt"
-
+title: 'Agentic GTM Intelligence: Re‑architecting Private Market Pipelines'
+description: >-
+  Private markets have reached a level of complexity that renders the
+  human‑centric GTM model obsolete. Manual acquisition, sequential pipelines,
+  linear sales structures, spreadsheet‑driven assumptio...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-intelligence-and-the-new-architecture-of-private-debt
 re-architected: true
 ---
 

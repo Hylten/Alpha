@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-abl-predictive-liquidity-models-for-institutional-precision"
-
+title: 'The Future of Asset‑Based Lending: Predictive Liquidity Models'
+description: Asset‑Based Capital Structuring is entering a new era.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: the-future-of-abl-predictive-liquidity-models-for-institutional-precision
 re-architected: true
 ---
 

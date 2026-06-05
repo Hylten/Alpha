@@ -1,12 +1,15 @@
 ---
-title: "# The Future of AI-Driven Asset-Based Capital Structuring
-
-The next phase of global Strategic Collateralization is not arriving slowly"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-future-of-ai-driven-asset-based-liquidity-engineering-roials-alpha-and-the-new-liquidity-archite"
-
+title: |-
+  # The Future of AI-Driven Asset-Based Capital Structuring
+  The next phase of global Strategic Collateralization is not arriving slowly
+description: >-
+  The next phase of global Strategic Collateralization is not emerging
+  gradually. It is already operational, reshaping private credit mechanics,
+  asset‑based Capital Structuring, and balance sheet vel...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  the-future-of-ai-driven-asset-based-liquidity-engineering-roials-alpha-and-the-new-liquidity-archite
 re-architected: true
 ---
 

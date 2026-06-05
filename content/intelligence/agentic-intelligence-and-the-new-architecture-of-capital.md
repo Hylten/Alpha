@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-and-the-new-architecture-of-capital"
-
+title: 'Agentic GTM Intelligence: The New Architecture for Demand Generation'
+description: >-
+  Traditional demand generation is too slow, too manual, and too dependent on
+  static workflows that no longer match market velocity.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-intelligence-and-the-new-architecture-of-capital
 re-architected: true
 ---
 

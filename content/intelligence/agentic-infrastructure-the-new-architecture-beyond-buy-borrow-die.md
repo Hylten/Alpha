@@ -1,10 +1,12 @@
 ---
-title: "The Structural Shift: From Manual GTM to Agentic Systems"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die"
-
+title: 'The Structural Shift: From Manual GTM to Agentic Systems'
+description: >-
+  For two decades, go-to-market organizations have built their processes around
+  CRM, MAP, BI, and manual workflows. These systems were designed for static
+  data structures, linear handoffs, and human ...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die
 re-architected: true
 ---
 

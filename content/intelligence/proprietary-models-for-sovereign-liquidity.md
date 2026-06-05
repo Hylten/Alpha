@@ -1,12 +1,15 @@
 ---
-title: "# Proprietary Models for Sovereign Liquidity
+title: >-
+  # Proprietary Models for Sovereign Liquidity
 
-Roials-Alpha operates in a domain where capital functions not as a balance sheet artifact but as an engineered layer of agentic infrastructure."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "proprietary-models-for-sovereign-liquidity"
-
+  Roials-Alpha operates in a domain where capital functions not as a balance
+  sheet artifact but as an engineered layer of agentic infrastructure.
+description: >-
+  Roials-Alpha operates in a domain where capital functions as engineered
+  infrastructure rather than static balance‑sheet inventory.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: proprietary-models-for-sovereign-liquidity
 re-architected: true
 ---
 

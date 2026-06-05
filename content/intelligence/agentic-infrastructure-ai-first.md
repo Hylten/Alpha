@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-ai-first"
-
+title: >-
+  AI-First GTM Stack: Agentic Infrastructure as the Sovereign Operating System
+  for 2026
+description: >-
+  2026 marks the definitive shift from traditional Go-To-Market planning to an
+  automated, agentic ecosystem of technical pipelines, proprietary data
+  channels, and decision engines that continuously o...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-ai-first
 re-architected: true
 ---
 

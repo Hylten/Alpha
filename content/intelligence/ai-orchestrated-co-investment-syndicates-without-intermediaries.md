@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-orchestrated-co-investment-syndicates-without-intermediaries"
-
+title: AI Orchestrated Co‑Investment Syndicates Without Intermediaries
+description: >-
+  Institutional briefing on autonomous deal flow, multi‑agent syndication, and
+  cross‑border capital coordination.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: ai-orchestrated-co-investment-syndicates-without-intermediaries
 re-architected: true
 ---
 

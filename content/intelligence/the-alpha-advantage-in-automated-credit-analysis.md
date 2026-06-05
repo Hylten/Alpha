@@ -1,12 +1,15 @@
 ---
-title: "# The Alpha Advantage in Automated Credit Analysis
+title: >-
+  # The Alpha Advantage in Automated Credit Analysis
 
-Precision in credit evaluation has become the defining separator between legacy lenders and future-native capital allocators"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-alpha-advantage-in-automated-credit-analysis"
-
+  Precision in credit evaluation has become the defining separator between
+  legacy lenders and future-native capital allocators
+description: >-
+  Precision in credit evaluation is now the primary divider between legacy
+  lenders and future-native capital allocators.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-alpha-advantage-in-automated-credit-analysis
 re-architected: true
 ---
 

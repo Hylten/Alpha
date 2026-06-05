@@ -1,12 +1,11 @@
 ---
-title: "# Agentic Liquidity for High-Performance Portfolios
-
-## Roials Alpha operates where traditional finance slows down"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-liquidity-for-highperformance-portfolios"
-
+title: |-
+  # Agentic Liquidity for High-Performance Portfolios
+  ## Roials Alpha operates where traditional finance slows down
+description: Roials Alpha operates where traditional finance slows down.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-liquidity-for-highperformance-portfolios
 re-architected: true
 ---
 

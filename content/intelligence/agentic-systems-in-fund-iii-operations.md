@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-systems-in-fund-iii-operations"
-
+title: Agentic Systems in Fund III Operations
+description: 'Not incremental upgrades, but full agentic transformation.'
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-systems-in-fund-iii-operations
 re-architected: true
 ---
 

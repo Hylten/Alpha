@@ -1,9 +1,13 @@
 ---
-title: "Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal Outreach"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-for-complex-ma-liquidity"
+title: >-
+  Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal
+  Outreach
+description: >-
+  Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal
+  Outreach
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-intelligence-for-complex-ma-liquidity
 ---
 
 Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal Outreach

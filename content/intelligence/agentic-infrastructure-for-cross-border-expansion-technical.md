@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-cross-border-expansion-technical"
-
+title: >-
+  Agentic Infrastructure for Cross‑Border Expansion: Technical Protocols for
+  Multijurisdictional Growth
+description: >-
+  Cross‑border expansion is no longer a matter of geographic scaling but of
+  modularized capability export. Modern organizations do not merely deliver
+  products and services; they distribute autonomous...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-for-cross-border-expansion-technical
 re-architected: true
 ---
 

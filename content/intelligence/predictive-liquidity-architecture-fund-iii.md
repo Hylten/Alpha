@@ -1,12 +1,11 @@
 ---
-title: "# Anchor: Synthetic Forward Covenants
-
-Traditional covenants are blunt instruments"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "predictive-liquidity-architecture-fund-iii"
-
+title: |-
+  # Anchor: Synthetic Forward Covenants
+  Traditional covenants are blunt instruments
+description: Predictive liquidity is no longer an enhancement to Asset-Based Lending.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: predictive-liquidity-architecture-fund-iii
 re-architected: true
 ---
 

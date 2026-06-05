@@ -1,12 +1,15 @@
 ---
-title: "# Autonomous Systems for Ultra‑High‑Net‑Worth Capital Optimization
+title: >-
+  # Autonomous Systems for Ultra‑High‑Net‑Worth Capital Optimization
 
-Ultra high net worth capital is no longer optimized through manual decision cycles"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-systems-for-uhnw-capital-optimization"
-
+  Ultra high net worth capital is no longer optimized through manual decision
+  cycles
+description: >-
+  Ultra high net worth capital is no longer optimized through manual decision
+  cycles.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-systems-for-uhnw-capital-optimization
 re-architected: true
 ---
 

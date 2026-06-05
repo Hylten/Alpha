@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "data-security-and-integrity-with-ai-agents"
-
+title: Data Security and Integrity with AI Agents
+description: >-
+  Sweden is advancing into autonomous AI systems faster than public perception
+  suggests.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: data-security-and-integrity-with-ai-agents
 re-architected: true
 ---
 

@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-driven-liquidity-architecture-institutional-sovereigns"
-
+title: The Capital Vacuum
+description: >-
+  The capital vacuum in global sovereign portfolios is no longer defined by
+  asset scarcity but by the latency embedded in human‑mediated allocation
+  pathways.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-driven-liquidity-architecture-institutional-sovereigns
 re-architected: true
 ---
 

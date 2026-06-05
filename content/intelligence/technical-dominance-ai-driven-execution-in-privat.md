@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "technical-dominance-ai-driven-execution-in-privat"
-
+title: Technical Dominance
+description: AI-driven execution in private debt establishes asymmetric advantage.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: technical-dominance-ai-driven-execution-in-privat
 re-architected: true
 ---
 

@@ -1,12 +1,16 @@
 ---
-title: "# Autonomous Systems for Private Credit Expansion
+title: >-
+  # Autonomous Systems for Private Credit Expansion
 
-Private credit is shifting into a phase defined by automated GTM Liquidity, agentic infrastructure, and asymmetric advantage."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi"
-
+  Private credit is shifting into a phase defined by automated GTM Liquidity,
+  agentic infrastructure, and asymmetric advantage.
+description: >-
+  Institutional capital has already adopted autonomous infrastructure, agentic
+  execution, and deterministic underwriting.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi
 re-architected: true
 ---
 

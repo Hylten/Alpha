@@ -1,12 +1,16 @@
 ---
-title: "# Automating the Buy, Borrow, Die Strategy
+title: >-
+  # Automating the Buy, Borrow, Die Strategy
 
-The wealth preservation class has always recognized that asymmetric advantage emerges when capital remains unsold and continuously redeployed within agentic infrastructure."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "automating-the-buy-borrow-die-strategy-for-perpetual-liquidity"
-
+  The wealth preservation class has always recognized that asymmetric advantage
+  emerges when capital remains unsold and continuously redeployed within agentic
+  infrastructure.
+description: >-
+  The wealth preservation class understands that capital is most powerful when
+  it is never sold.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: automating-the-buy-borrow-die-strategy-for-perpetual-liquidity
 re-architected: true
 ---
 

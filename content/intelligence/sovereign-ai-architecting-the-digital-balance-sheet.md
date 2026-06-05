@@ -1,12 +1,13 @@
 ---
-title: "# Sovereign AI: Architecting the Digital Balance Sheet
-
-Sovereign AI has transitioned from frontier theory to operational mandate."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "sovereign-ai-architecting-the-digital-balance-sheet"
-
+title: |-
+  # Sovereign AI: Architecting the Digital Balance Sheet
+  Sovereign AI has transitioned from frontier theory to operational mandate.
+description: >-
+  It is the operating system for capital defense, capital velocity, and capital
+  autonomy.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: sovereign-ai-architecting-the-digital-balance-sheet
 re-architected: true
 ---
 

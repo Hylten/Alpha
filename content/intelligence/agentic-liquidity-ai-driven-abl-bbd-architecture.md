@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-liquidity-ai-driven-abl-bbd-architecture"
-
+title: Agentic Liquidity as Structural Inversion
+description: >-
+  Agentic liquidity is not an incremental feature. It is a jurisdictional
+  inversion and a structural bypass. It refactors the institutional cash cycle
+  into an autonomous credit engine where portfolio...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-liquidity-ai-driven-abl-bbd-architecture
 re-architected: true
 ---
 

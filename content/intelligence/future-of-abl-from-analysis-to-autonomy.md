@@ -1,10 +1,9 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "future-of-abl-from-analysis-to-autonomy"
-
+title: The Next Epoch of Asset-Based Lending
+description: The next epoch of Asset-Based Lending is no longer analytical.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: future-of-abl-from-analysis-to-autonomy
 re-architected: true
 ---
 

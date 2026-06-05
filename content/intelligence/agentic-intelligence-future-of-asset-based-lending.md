@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-intelligence-future-of-asset-based-lending"
-
+title: 'The Future of Asset-Based GTM: Orchestrating Autonomous Market Machines'
+description: >-
+  Traditional GTM operations relied on human coordination, campaign-driven
+  initiatives, and manually owned processes. This model is no longer
+  competitive. The structural shift is that GTM has transit...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-intelligence-future-of-asset-based-lending
 re-architected: true
 ---
 

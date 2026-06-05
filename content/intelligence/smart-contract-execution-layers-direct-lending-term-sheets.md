@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "smart-contract-execution-layers-direct-lending-term-sheets"
-
+title: Precision Architecture for Direct‑Lending Execution
+description: >-
+  Smart‑contract execution layers convert direct‑lending from human bottlenecks
+  into a self‑enforcing architecture.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: smart-contract-execution-layers-direct-lending-term-sheets
 re-architected: true
 ---
 

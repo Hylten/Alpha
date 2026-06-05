@@ -1,12 +1,16 @@
 ---
-title: "# Algorithmic Alpha Eliminating Human Subjectivity in Credit
+title: >-
+  # Algorithmic Alpha Eliminating Human Subjectivity in Credit
 
-Institutional credit achieves maximal efficiency when human interpretation is minimized, enabling Asymmetric Advantage through Agentic Infrastructure and sustained GTM Liquidity."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "algorithmic-alpha-removing-human-subjectivity-fro"
-
+  Institutional credit achieves maximal efficiency when human interpretation is
+  minimized, enabling Asymmetric Advantage through Agentic Infrastructure and
+  sustained GTM Liquidity.
+description: >-
+  Institutional credit achieves stability when human interpretation is
+  minimized.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: algorithmic-alpha-removing-human-subjectivity-fro
 re-architected: true
 ---
 

@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy"
-
+title: >-
+  Agentic Liquidity: AI‑Driven Asset‑Based Lending as the Core of Asymmetric Buy
+  Borrow Die Architectures
+description: The next era of wealth engineering is not human first.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy
 re-architected: true
 ---
 

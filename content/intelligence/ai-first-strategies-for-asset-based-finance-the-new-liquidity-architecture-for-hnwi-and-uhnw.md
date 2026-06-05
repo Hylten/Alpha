@@ -1,10 +1,10 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-first-strategies-for-asset-based-finance-the-new-liquidity-architecture-for-hnwi-and-uhnw"
-
+title: AI-First Strategies for Asset-Based Finance
+description: Asset-based finance has ceased to be a negotiation.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  ai-first-strategies-for-asset-based-finance-the-new-liquidity-architecture-for-hnwi-and-uhnw
 re-architected: true
 ---
 

@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-powered-liquidity-architecture-sovereign-capital"
-
+title: The Capital Vacuum
+description: >-
+  The capital vacuum in global private markets is not caused by insufficient
+  liquidity.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-powered-liquidity-architecture-sovereign-capital
 re-architected: true
 ---
 

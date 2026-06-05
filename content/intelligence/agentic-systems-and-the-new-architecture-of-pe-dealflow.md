@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-systems-and-the-new-architecture-of-pe-dealflow"
-
+title: Agentic Systems and the New Architecture of PE Dealflow
+description: >-
+  Human‑driven sourcing, slow and intuition dependent, cannot keep pace with a
+  market where every proprietary angle is contested and GTM Liquidity fragments
+  in real time.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: agentic-systems-and-the-new-architecture-of-pe-dealflow
 re-architected: true
 ---
 

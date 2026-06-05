@@ -1,10 +1,13 @@
 ---
-title: "Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A and Eliminates Legacy Deal Friction"
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice"
-
+title: >-
+  Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in
+  M&A and Eliminates Legacy Deal Friction
+description: >-
+  We treat GTM Liquidity origination as an engineering discipline, not a
+  networking ritual.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice
 re-architected: true
 ---
 

@@ -1,10 +1,14 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-global-capital-markets"
-
+title: >-
+  Agentic Infrastructure for Global Capital Markets: Engineering Proprietary
+  Deal Flow
+description: >-
+  Global capital market systems were architected for compliance, archiving, and
+  reporting rather than autonomous origination. The resulting degradation is
+  systemic:
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-infrastructure-for-global-capital-markets
 re-architected: true
 ---
 

@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-centric-sovereign-financing-alpha"
-
+title: The Capital Vacuum
+description: >-
+  The capital vacuum in global sovereign finance is no longer defined by rate
+  cycles or geopolitical volatility.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-centric-sovereign-financing-alpha
 re-architected: true
 ---
 

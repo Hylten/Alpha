@@ -1,10 +1,13 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-infrastructure-for-highnetworth-portfolios-the-new-liquidity-architecture"
-
+title: 1. The Sovereignty Mandate in Modern Capital Infrastructure
+description: >-
+  HNW portfolios now operate inside a high‑frequency topology defined by
+  micro‑liquidity pockets, cross‑venue routing, and continuous multi‑asset
+  repricing. Traditional wealth platforms function as s...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: >-
+  agentic-infrastructure-for-highnetworth-portfolios-the-new-liquidity-architecture
 re-architected: true
 ---
 

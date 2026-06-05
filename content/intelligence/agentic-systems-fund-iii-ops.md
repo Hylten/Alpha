@@ -1,10 +1,11 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-systems-fund-iii-ops"
-
+title: The Mandate
+description: >-
+  Agentic systems have transitioned from experimental autonomy tools to core
+  operational infrastructure within Fund-III environments.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: agentic-systems-fund-iii-ops
 re-architected: true
 ---
 

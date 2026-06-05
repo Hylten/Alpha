@@ -1,12 +1,14 @@
 ---
-title: "# AI-First Capital Migration Protocols for Global Wealth
+title: >-
+  # AI-First Capital Migration Protocols for Global Wealth
 
-The contemporary capital landscape operates beyond traditional market structures, requiring agentic infrastructure designed for asymmetric advantage and sustained GTM liquidity."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "ai-first-capital-migration-technical-protocols-fo"
-
+  The contemporary capital landscape operates beyond traditional market
+  structures, requiring agentic infrastructure designed for asymmetric advantage
+  and sustained GTM liquidity.
+description: 'Velocity is created by system architecture, not human intent.'
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: ai-first-capital-migration-technical-protocols-fo
 re-architected: true
 ---
 

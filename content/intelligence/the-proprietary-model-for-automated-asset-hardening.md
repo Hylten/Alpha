@@ -1,12 +1,15 @@
 ---
-title: "# The Proprietary Model for Automated Asset Hardening
+title: >-
+  # The Proprietary Model for Automated Asset Hardening
 
-Roials-Alpha operates within a domain that few understand and even fewer can architect."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "the-proprietary-model-for-automated-asset-hardening"
-
+  Roials-Alpha operates within a domain that few understand and even fewer can
+  architect.
+description: >-
+  Roials-Alpha operates in a domain that few understand and even fewer can
+  architect.
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: the-proprietary-model-for-automated-asset-hardening
 re-architected: true
 ---
 

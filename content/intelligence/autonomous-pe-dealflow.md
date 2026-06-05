@@ -1,10 +1,12 @@
 ---
-title: ""
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "autonomous-pe-dealflow"
-
+title: Autonomous PE Dealflow
+description: >-
+  Private equity no longer scales on human sourcing. Analyst volume and broker
+  networks no longer create asymmetric advantage. The next decade will be
+  defined by firms that deploy autonomous systems ...
+date: '2026-03-26'
+author: Jonas Hyltén
+slug: autonomous-pe-dealflow
 re-architected: true
 ---
 

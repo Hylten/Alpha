@@ -1,12 +1,11 @@
 ---
-title: "# Agentic Systems for Institutional Capital
-
-Institutional capital has exceeded the limits of conventional infrastructure."
-description: ""
-date: '2026-03-25'
-author: "Jonas Hyltén"
-slug: "agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity"
-
+title: |-
+  # Agentic Systems for Institutional Capital
+  Institutional capital has exceeded the limits of conventional infrastructure.
+description: Institutional capital has outpaced legacy infrastructure.
+date: '2026-04-30'
+author: Jonas Hyltén
+slug: agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity
 re-architected: true
 ---
 
