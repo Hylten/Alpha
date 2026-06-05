@@ -1,16 +1,14 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { resolveArticleMeta } from '../../utils/intelligenceArticle';
 
 const getPosts = () => {
     const postsGlob = import.meta.glob('../../../content/intelligence/*.md', { query: '?raw', eager: true });
 
-    const posts = Object.entries(postsGlob).map(([filepath, content]) => {
+    return Object.entries(postsGlob).map(([filepath, content]) => {
         const rawMarkdown = (content as { default: string }).default;
         const { meta } = resolveArticleMeta(rawMarkdown, filepath);
         return meta;
-    });
-
-    return posts.sort((a, b) => {
+    }).sort((a, b) => {
         const dateA = new Date(a.date).getTime();
         const dateB = new Date(b.date).getTime();
         if (Number.isNaN(dateA)) return 1;
@@ -20,7 +18,7 @@ const getPosts = () => {
 };
 
 export const AlphaIntelligenceIndex: React.FC = () => {
-    const posts = getPosts();
+    const posts = useMemo(() => getPosts(), []);
 
     React.useEffect(() => {
         document.title = 'Intelligence | Roials Alpha';

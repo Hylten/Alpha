@@ -1,5 +1,3 @@
-import matter from 'gray-matter';
-
 export interface IntelligenceArticleMeta {
   slug: string;
   title: string;
@@ -69,11 +67,57 @@ function normalizeDate(value: unknown): string {
   return parsed.toISOString().split('T')[0];
 }
 
+/** Browser-safe frontmatter parser (no gray-matter / eval). */
+export function parseFrontmatter(raw: string): { data: Record<string, string>; content: string } {
+  const match = raw.match(/^\s*---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
+  if (!match) return { data: {}, content: raw };
+
+  const lines = match[1].split('\n');
+  const data: Record<string, string> = {};
+  let i = 0;
+
+  while (i < lines.length) {
+    const line = lines[i];
+    const keyMatch = line.match(/^([a-zA-Z0-9_-]+):\s*(.*)$/);
+    if (!keyMatch) {
+      i++;
+      continue;
+    }
+
+    const key = keyMatch[1];
+    let value = keyMatch[2].trim();
+
+    if (value === '>-' || value === '>' || value === '|-' || value === '|') {
+      const parts: string[] = [];
+      i++;
+      while (i < lines.length && !/^[a-zA-Z0-9_-]+:\s/.test(lines[i])) {
+        if (lines[i].trim()) parts.push(lines[i].trim());
+        i++;
+      }
+      value = parts.join(' ').trim();
+    } else {
+      if (
+        (value.startsWith('"') && value.endsWith('"')) ||
+        (value.startsWith("'") && value.endsWith("'"))
+      ) {
+        value = value.slice(1, -1);
+      }
+      i++;
+    }
+
+    if (!data[key]) {
+      data[key] = polishText(value);
+    }
+  }
+
+  return { data, content: match[2] };
+}
+
 export function resolveArticleMeta(
   rawMarkdown: string,
   filepath?: string
 ): { meta: IntelligenceArticleMeta; content: string } {
-  const { data, content } = matter(rawMarkdown);
+  const { data, content } = parseFrontmatter(rawMarkdown);
   const fileSlug = filepath?.split('/').pop()?.replace('.md', '') ?? '';
 
   const slug = polishText(String(data.slug || fileSlug || '').trim()) || fileSlug;
