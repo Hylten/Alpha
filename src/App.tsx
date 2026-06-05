@@ -161,20 +161,26 @@ function App() {
           <span className="font-mono text-[10px] tracking-[0.2em] font-medium text-gray-500 uppercase">System Online</span>
         </div>
 
-        <div className="flex items-center gap-6">
-          <div className="hidden md:flex items-center gap-2 px-3 py-1 bg-white/5 border border-white/5 rounded-sm">
-            <span className="w-1.5 h-1.5 bg-oldgold rounded-full"></span>
-            <span className="text-[10px] tracking-widest text-gray-400 uppercase">v4.0.2-ALPHA</span>
-          </div>
+          <div className="flex items-center gap-6">
+            <a
+              href="/Alpha/intelligence/"
+              className="hidden md:flex items-center gap-2 px-3 py-1 bg-white/5 border border-white/5 rounded-sm hover:border-oldgold/30 transition-colors"
+            >
+              <span className="w-1.5 h-1.5 bg-oldgold rounded-full"></span>
+              <span className="text-[10px] tracking-widest text-gray-400 uppercase hover:text-oldgold transition-colors">Intelligence</span>
+            </a>
+            <div className="hidden md:flex items-center gap-2 px-3 py-1 bg-white/5 border border-white/5 rounded-sm">
+              <span className="text-[10px] tracking-widest text-gray-400 uppercase">v4.0.2-ALPHA</span>
+            </div>
 
-          <button
-            onClick={openLogin}
-            className="flex items-center gap-1.5 text-gray-700 hover:text-gray-500 transition-colors group"
-            title="Restricted Access"
-          >
-            <Lock className="w-3 h-3 group-hover:text-oldgold transition-colors" />
-          </button>
-        </div>
+            <button
+              onClick={openLogin}
+              className="flex items-center gap-1.5 text-gray-700 hover:text-gray-500 transition-colors group"
+              title="Restricted Access"
+            >
+              <Lock className="w-3 h-3 group-hover:text-oldgold transition-colors" />
+            </button>
+          </div>
       </header>
 
       {/* LOGIN MODAL */}
@@ -272,7 +278,7 @@ function App() {
           </p>
 
           {/* SYSTEM MODULES GRID */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-px bg-white/10 dark:bg-white/5 border border-white/10">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-px bg-white/10 dark:bg-white/5 border border-white/10">
 
             {/* MODULE 01 */}
             <a 
@@ -309,7 +315,7 @@ function App() {
               href="https://roialscapital.com/" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left border-r md:border-r-0 border-white/5 block"
+              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block"
             >
               <div className="flex justify-between items-start mb-4">
                 <Activity className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
@@ -319,6 +325,20 @@ function App() {
               <p className="text-[10px] text-gray-500 leading-relaxed">High-velocity resource allocation systems.</p>
             </a>
 
+            {/* MODULE 04 — INTELLIGENCE */}
+            <a
+              href="/Alpha/intelligence/"
+              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block border-l md:border-l-0 border-white/5"
+            >
+              <div className="flex justify-between items-start mb-4">
+                <svg className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.5">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
+                </svg>
+                <span className="text-[9px] tracking-widest text-gray-700 group-hover:text-oldgold/70">MOD 04</span>
+              </div>
+              <h3 className="text-sm tracking-widest text-platinum uppercase mb-2">Intelligence</h3>
+              <p className="text-[10px] text-gray-500 leading-relaxed">Research & analysis library.</p>
+            </a>
 
           </div>
 
