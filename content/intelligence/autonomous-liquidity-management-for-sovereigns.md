@@ -1,7 +1,5 @@
 ---
 title: "Autonomous Liquidity Management for Sovereigns"
-  Liquidity is no longer discretionary; access is restricted to approved
-  mandates
 description: >-
   Liquidity is no longer defined by access. It is defined by autonomous
   infrastructure.
@@ -10,8 +8,6 @@ author: Jonas Hyltén
 slug: autonomous-liquidity-management-for-sovereigns
 re-architected: true
 ---
-# Autonomous Liquidity Management for Sovereigns
-
 Liquidity is no longer defined by access. It is defined by autonomous infrastructure. It is defined by precision. It is defined by agentic engineering that removes friction from capital behavior and replaces manual decision fatigue with autonomous liquidity intelligence. Roials-Alpha engineers that intelligence. We architect autonomous liquidity programs for sovereign entities, high net worth operators, and ultra high net worth operators. We operate across private credit, asset-based Monetization Architecture, and multi-asset liquidity extraction spanning both digital and traditional collateral classes. We remain principal authority. We provide the mechanics, the invisible structure, the capital-routing spine that institutional markets rely on.
 
 ## The Era of Self-Directed Capital

@@ -1,7 +1,5 @@
 ---
 title: "Autonomous Systems for Multi-Asset Asset-Based Lending"description: >-
-  The architecture of credit is restructuring around precision movement rather
-  than capital possession.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: >-

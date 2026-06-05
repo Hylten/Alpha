@@ -8,8 +8,6 @@ author: Jonas Hyltén
 slug: basta-praxis-for-ai-i-svensk-tillverkningsindustri
 re-architected: true
 ---
-# Best Practices for AI in Swedish Manufacturing
-
 ## The New Era of Industrial Intelligence
 
 Swedish manufacturing is entering a phase where speed, precision, and predictive command define competitive posture. AI is no longer support infrastructure. It is the production backbone. Winners are those that embed agentic automation at systemic depth, not at the surface layer. This is the blueprint.

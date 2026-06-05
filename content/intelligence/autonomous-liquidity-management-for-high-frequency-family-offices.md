@@ -1,8 +1,5 @@
 ---
 title: "Autonomous Liquidity Management for High‑Frequency Family Offices"
-  High-frequency wealth operations have hit an efficiency ceiling, exposing the
-  need for Agentic Infrastructure capable of sustaining continuous GTM Liquidity
-  and delivering Asymmetric Advantage.
 description: High-frequency wealth operations have reached a structural ceiling.
 date: '2026-03-26'
 author: Jonas Hyltén

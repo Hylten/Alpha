@@ -1,7 +1,5 @@
 ---
 title: "The Alpha Playbook for Agentic Finance"description: >-
-  It is a structural upgrade to how liquidity is created, commanded, and cycled
-  by operators who understand that capital velocity is a form of power.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: the-alpha-playbook-for-agentic-finance

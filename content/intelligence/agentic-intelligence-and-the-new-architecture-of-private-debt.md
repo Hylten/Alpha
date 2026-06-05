@@ -9,8 +9,6 @@ author: Jonas Hyltén
 slug: agentic-intelligence-and-the-new-architecture-of-private-debt
 re-architected: true
 ---
-# Agentic GTM Intelligence: Re‑architecting Private Market Pipelines
-
 ## Overview: GTM as an Autonomous System
 
 Private markets have reached a level of complexity that renders the human‑centric GTM model obsolete. Manual acquisition, sequential pipelines, linear sales structures, spreadsheet‑driven assumptions, and CRMs functioning as passive storage cannot process the data density of the modern capital environment. Agentic systems therefore emerge not as tools but as structural governance. GTM becomes a distributed network of autonomous decision nodes executing continuous market intelligence, prioritization, qualification, orchestration, and synthetic expansion of deal flow. This section establishes the foundation for a GTM architecture in which pipeline is no longer a sequence but a self‑optimizing loop, a technical organism built on agentic intelligence rather than human process discipline.

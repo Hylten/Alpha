@@ -1,7 +1,5 @@
 ---
 title: "Autonomous Deal Flow in Fund-III Ops"
-  Fund-III demands a different level of operational intelligence and establishes
-  the foundation for Asymmetric Advantage within the Agentic Infrastructure.
 description: >-
   Fund-III operates at a capital altitude where human-led sourcing collapses
   under scale. At this level, deal flow must be autonomous, silent, and

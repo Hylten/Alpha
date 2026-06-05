@@ -1,7 +1,5 @@
 ---
 title: "Agentic Wealth Mobility: Borderless Capital Optimization via"
-  Agentic capital infrastructures are no longer an emergent frontier but a
-  deployable mechanism for asymmetric advantage and GTM liquidity.
 description: Agentic capital infrastructure is no longer theoretical.
 date: '2026-03-26'
 author: Jonas Hyltén

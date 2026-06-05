@@ -6,8 +6,6 @@ author: Jonas Hyltén
 slug: the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance
 re-architected: true
 ---
-# The Future of Alpha: Agentic Infrastructure
-
 Alpha is no longer extracted. Alpha is constructed. In the coming financial cycle, the construction layer will not be human. It will be agentic. It will be autonomous. It will be structural. This is where Roials‑Alpha operates. Principal authority. Mechanics over noise. Infrastructure over storytelling. We enable GTM Liquidity for HNWI and UHNW operators through private credit and asset‑based capital structuring calibrated for a future shaped by automated decisioning and continuous capital orchestration.
 
 ## The New Era of Agentic Capital

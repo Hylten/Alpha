@@ -9,8 +9,6 @@ author: Jonas Hyltén
 slug: systems-mandate-architecture-frictionless
 re-architected: true
 ---
-# The Capital Vacuum
-
 The capital vacuum in North America is a function of operational drag, legacy processes, and regulatory friction that accumulated faster than institutional systems evolved. The market did not become inefficient because capital withdrew. It became inefficient because the operating architecture responsible for deploying capital failed to maintain velocity. In 2026 the highest performing allocators are not faster. They are architecturally cleaner. Frictionless execution is now a systems mandate rather than a workflow optimization.
 
 ## The Regime Shift

@@ -1,7 +1,5 @@
 ---
 title: "Autonomous Systems for Private Credit Expansion"
-  Private credit is shifting into a phase defined by automated GTM Liquidity,
-  agentic infrastructure, and asymmetric advantage.
 description: >-
   Institutional capital has already adopted autonomous infrastructure, agentic
   execution, and deterministic underwriting.
@@ -11,8 +9,6 @@ slug: >-
   autonomous-systems-for-private-credit-expansion-the-new-liquidity-architecture-for-hnwi
 re-architected: true
 ---
-# Autonomous Systems for Private Credit Expansion
-
 Private credit is no longer a peripheral asset class. It is a programmable liquidity surface, a computational frontier where institutional capital has already migrated to agentic infrastructure, deterministic execution, and hardened underwriting frameworks. The structural inefficiency that remains is not in the institutional tier - it is in the high net worth and ultra-high net worth (HNWI/UHNW) segment, where liquidity strategies still operate on legacy rails: manual underwriting, static collateral valuation, and episodic capital deployment. Roials-Alpha is engineered to collapse this gap. We treat private credit as a computational problem, collateral as a machine-readable input, and liquidity as an engineered output. This architecture brief decomposes the autonomous systems that expand private credit pathways, the agentic underwriting mechanisms that compress risk, and the institutional-grade infrastructure that elevates HNWI/UHNW clients to the operational altitude of institutional desks.
 
 ## The Structural Shift: From Manual to Agentic Credit Infrastructure

@@ -9,8 +9,6 @@ author: Jonas Hyltén
 slug: key-person-risk-behavioral-semantic-ai-indexing
 re-architected: true
 ---
-# The Weak Link Is Never the Model
-
 The structural failure point is the human center‑of‑gravity, not the system itself. Key Person Risk is rarely mispriced due to hidden information. It is mispriced because institutions analyze the wrong dimension. They measure the résumé. We measure the human signature. The delta is the source of Asymmetric Advantage. The architecture begins with a single axiom. Human behavior is patterned. Human collapse is patterned. Detection requires computation, not intuition. This is the full stack, not the surface narrative. It is the engine that removes friction and converts human volatility into GTM Liquidity for the family office, the principal owner, and the operator preparing for generational transfer. Machine precision. Zero sentiment. Algorithmic clarity. Kill the guesswork. Map the human. Remove the blind zone.
 
 ## The Dual-Index Core

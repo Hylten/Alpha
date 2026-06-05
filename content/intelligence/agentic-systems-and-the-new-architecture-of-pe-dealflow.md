@@ -9,8 +9,6 @@ author: Jonas Hyltén
 slug: agentic-systems-and-the-new-architecture-of-pe-dealflow
 re-architected: true
 ---
-# Agentic Systems and the New Architecture of PE Dealflow
-
 Private equity has reached a systemic ceiling. Human‑driven sourcing, slow and intuition dependent, cannot keep pace with a market where every proprietary angle is contested and GTM Liquidity fragments in real time. The strategic high ground has shifted. Agentic Infrastructure now executes where junior teams once scanned, queued, and filtered. Firms that recognize this shift are not adding automation. They are rebuilding the sourcing stack itself.
 
 ## The Rise of Autonomous Dealflow Engines

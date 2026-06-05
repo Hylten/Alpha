@@ -1,9 +1,5 @@
 ---
 title: "Agentic Systems for Complex Financial Structures"
-  Modern structured finance requires architectures engineered for speeds,
-  complexities, and thresholds beyond the operational capacity of human teams,
-  enabling asymmetric advantage through agentic infrastructure and GTM
-  liquidity.
 description: >-
   Modern structured finance demands architectures operating at speeds and
   complexity thresholds beyond human capacity.
@@ -12,8 +8,6 @@ author: Jonas Hyltén
 slug: agentic-systems-for-complex-financial-structures
 re-architected: true
 ---
-# Agentic Systems for Complex Financial Structures
-
 Modern structured finance demands architectures operating at speeds and complexity thresholds beyond human capacity. Agentic infrastructure distributes analysis, execution, and risk logic across autonomous computational units that coordinate without friction. These units eliminate latency, enforce procedural precision, and maintain performance integrity across multi‑jurisdictional environments. They convert capital engineering into a high‑frequency, self‑correcting ecosystem defined by GTM liquidity and asymmetric advantage.
 
 ## The Rise of Multi‑Agent Execution in High‑Complexity Finance

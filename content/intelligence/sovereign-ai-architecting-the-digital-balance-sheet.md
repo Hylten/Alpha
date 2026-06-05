@@ -1,7 +1,5 @@
 ---
 title: "Sovereign AI: Architecting the Digital Balance Sheet"description: >-
-  It is the operating system for capital defense, capital velocity, and capital
-  autonomy.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: sovereign-ai-architecting-the-digital-balance-sheet

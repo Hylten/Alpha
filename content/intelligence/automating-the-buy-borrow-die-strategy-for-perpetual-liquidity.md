@@ -1,8 +1,5 @@
 ---
 title: "Automating the Buy, Borrow, Die Strategy"
-  The wealth preservation class has always recognized that asymmetric advantage
-  emerges when capital remains unsold and continuously redeployed within agentic
-  infrastructure.
 description: >-
   The wealth preservation class understands that capital is most powerful when
   it is never sold.
@@ -11,8 +8,6 @@ author: Jonas Hyltén
 slug: automating-the-buy-borrow-die-strategy-for-perpetual-liquidity
 re-architected: true
 ---
-# Automating the Buy, Borrow, Die Strategy
-
 The wealth preservation class understands that capital is most powerful when it is never sold. The Buy, Borrow, Die model is not a tax maneuver. It is an engineered framework for permanent liquidity. It is an operational system for individuals who prioritize leverage over liquidation. It is the silent architecture behind dynastic resilience. Roials-Alpha transforms this classical mechanism into an automated liquidity engine. The objective is singular: perpetual control of assets and perpetual access to GTM Liquidity. The autonomous infrastructure is the force multiplier. It is the distinction between a strategy and a system.
 
 ## The Silent Architecture Behind Perpetual Leverage

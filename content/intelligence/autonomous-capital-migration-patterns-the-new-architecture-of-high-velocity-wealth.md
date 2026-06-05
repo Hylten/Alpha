@@ -1,8 +1,5 @@
 ---
 title: "Autonomous Capital Migration Patterns"
-  Autonomous capital has transitioned from hypothesis to operational reality,
-  establishing a new asymmetry in GTM Liquidity and agentic financial
-  infrastructure.
 description: >-
   It functions as a mechanical liquidity organism, routing through markets with
   a precision that exceeds discretionary decision cycles.
@@ -12,8 +9,6 @@ slug: >-
   autonomous-capital-migration-patterns-the-new-architecture-of-high-velocity-wealth
 re-architected: true
 ---
-# Autonomous Capital Migration Patterns
-
 Autonomous capital is no longer theoretical. It functions as a mechanical liquidity organism, routing through markets with a precision that exceeds discretionary decision cycles. It observes. It interprets. It reallocates. Not by emotion, consensus, or legacy heuristics, but by structural incentives embedded into the global financial chassis. We do not chase these flows. We engineer the rails that carry them. This document defines the strategic patterns shaping autonomous capital migration and how private credit and asset‑backed frameworks have become gravitational centers for HNWI and UHNW liquidity. The objective is not spectacle. The objective is asymmetric advantage through clarity.
 
 ## The Silent Logic of Migration

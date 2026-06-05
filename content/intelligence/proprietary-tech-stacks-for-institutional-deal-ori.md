@@ -1,15 +1,11 @@
 ---
 title: "Proprietary Tech Stacks for Institutional Deal Origination"
-  The current liquidity environment rewards disciplined GTM execution and
-  asymmetrical advantage through agentic infrastructure
 description: The current liquidity environment rewards discipline.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: proprietary-tech-stacks-for-institutional-deal-ori
 re-architected: true
 ---
-# Proprietary Tech Stacks for Institutional Deal Origination
-
 The current liquidity environment rewards discipline. It rewards clarity. It rewards covenant-grade execution engineered through intelligence rather than sentiment. Institutional capital does not seek noise. It seeks systems that produce repeatable asymmetry. The objective is singular. Engineer origination velocity without compromising the mandate of stewardship, prudence, and responsibility over entrusted capital. This is the doctrine. This is the architecture.
 
 ## The Principal Position

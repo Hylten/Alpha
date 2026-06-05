@@ -1,15 +1,11 @@
 ---
 title: "AI-Driven Liquidity for Institutional Sovereigns"
-  Institutional capital no longer reacts; it operates in a state of anticipatory
-  asymmetry.
 description: Institutional capital no longer reacts. It anticipates.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: ai-driven-liquidity-architecture-for-institutional-sovereigns
 re-architected: true
 ---
-# AI-Driven Liquidity for Institutional Sovereigns
-
 Institutional capital no longer reacts. It anticipates. And anticipation is no longer human. It is algorithmic. It is autonomous. It is structural. This is the domain where Roials-Alpha operates, the arena where liquidity architecture is engineered as a sovereign instrument for High Net Worth and Ultra High Net Worth operators.
 
 ## The Shift from Manual Credit Models to Autonomous Liquidity Engines

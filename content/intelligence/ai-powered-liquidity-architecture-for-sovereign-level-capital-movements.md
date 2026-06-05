@@ -6,8 +6,6 @@ author: Jonas Hyltén
 slug: ai-powered-liquidity-architecture-for-sovereign-level-capital-movements
 re-architected: true
 ---
-# AI-Powered Liquidity for Sovereign Entities
-
 Roials-Alpha operates where conventional capital providers hesitate. We deliver engineered liquidity for sovereign-tier actors through private credit, asset-based Strategic Collateralization, public equity Strategic Collateralization, and crypto Asset-Backed Frameworks. Our domain is high-net-worth and ultra-high-net-worth individuals requiring precision capital without exposure, noise, or institutional drag. Our infrastructure is principal authority. Our mechanics are invisible, automated, and built for continuity.
 
 ## The Sovereign Shift in Liquidity Expectations

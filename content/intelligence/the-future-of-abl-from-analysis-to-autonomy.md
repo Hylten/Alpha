@@ -9,8 +9,6 @@ author: Jonas Hyltén
 slug: the-future-of-abl-from-analysis-to-autonomy
 re-architected: true
 ---
-# The Future of Asset-Based Lending: From Analysis to Autonomy
-
 Asset-based capital structuring is shifting globally, moving away from manual evaluation cycles and toward autonomous systems that operate at institutional scale. The legacy model depended on human inspection, slow valuation cycles, incremental underwriting, and heuristic-driven risk evaluation. It was a spreadsheet culture, not a systems culture. That era is closing. A new architecture is emerging in which autonomous infrastructure functions as the operating system of capital. Roials-Alpha operates inside this transition, engineering the agentic infrastructure that high-tier balance sheets will rely on for the next decade.
 
 ## The Silent Shift: Asset-Based Lending Leaves the Analog World

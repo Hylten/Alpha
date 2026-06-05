@@ -1,17 +1,11 @@
 ---
 title: "AI-Driven Asset-Based Lending for Healthcare and Technology"
-  ## The Institutional Mechanics Behind Intelligent Liquidity
-
-  Roials-Alpha operates within a narrow spectrum of capital intelligence,
-  engineered for Asymmetric Advantage across GTM Liquidity.
 description: Roials-Alpha operates within a narrow band of capital intelligence.
 date: '2026-03-26'
 author: Jonas Hyltén
 slug: ai-driven-abl-the-new-liquidity-engine-for-healthcare-and-tech-capital
 re-architected: true
 ---
-## AI-Driven Asset-Based Lending for Healthcare and Technology
-
 ### The Institutional Mechanics Behind Intelligent Liquidity
 
 Roials-Alpha operates within a narrow band of capital intelligence. The system is designed for precision, not scale. Liquidity engineering occurs at the intersection of asset hardening and institutional-grade risk transfer. The architecture does not serve markets - it anticipates them.

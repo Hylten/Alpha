@@ -8,8 +8,6 @@ author: Jonas Hyltén
 slug: convergent-diligence-ai-risk-engines
 re-architected: true
 ---
-# The Convergence Begins
-
 The convergence initiated when information density surpassed human processing velocity. Private equity diligence was architected for human tempo. Teams, memos, data rooms, checklists, site visits. Efficient under legacy norms, but slow relative to modern transaction velocity. The gap was structural. The gap demanded redesign. The gap made an AI‑first diligence engine inevitable. The Principal recognizes a single governing law. Friction destroys momentum. Momentum defines valuation. Intelligence, when architected for compounding, generates asymmetric advantage. So we built for compounding. We built engines, not workflows. I will frame the architecture with precision. Short line. Direct intent. No wasted signal. This is Roials‑Alpha.
 
 ## Phase One

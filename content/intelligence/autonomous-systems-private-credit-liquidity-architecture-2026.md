@@ -8,8 +8,6 @@ author: Jonas Hyltén
 slug: autonomous-systems-private-credit-liquidity-architecture-2026
 re-architected: true
 ---
-# The Mandate
-
 Autonomous systems within private credit are no longer conceptual models. They are structural catalysts that redefine GTM Liquidity. They represent the most significant inflection point in capital markets since the institutional expansion of structured credit in the mid‑1990s. The differentiation in the current cycle is the convergence of algorithmic policy execution, machine‑mediated underwriting, and architected liquidity pathways engineered for HNWI and UHNW capital.
 
 ## Mandate Definition

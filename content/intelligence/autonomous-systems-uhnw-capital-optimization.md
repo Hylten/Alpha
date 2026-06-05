@@ -9,8 +9,6 @@ author: Jonas Hyltén
 slug: autonomous-systems-uhnw-capital-optimization
 re-architected: true
 ---
-# Ultra-High-Net-Worth Capital Behavior Framework
-
 Ultra-high-net-worth capital does not behave like conventional wealth pools. It prioritizes velocity over concentration, structure over sentiment, and precision over scale. The modern UHNW ecosystem requires institutional-grade architecture capable of ingesting complex multi-entity footprints and executing without drag. No advisors. No intermediaries. No noise. Only agentic infrastructure that computes exposure, allocates liquidity, and governs transaction flow at machine speed. This briefing defines a Principal-level framework for autonomous capital systems engineered for UHNW/HNW families, sovereign-adjacent operators, and private credit dominants.
 
 ## The Mandate

@@ -1,8 +1,5 @@
 ---
 title: "Proprietary Agentic Models Roials-Alpha Edition"description: >-
-  Proprietary agentic models define a new epoch of autonomous computation.  
-  They move beyond static LLM outputs.   They evolve.   They reason.   They
-  self-direct.   They operate as computational ent...
 date: '2026-04-30'
 author: Jonas Hyltén
 slug: proprietary-agentic-models

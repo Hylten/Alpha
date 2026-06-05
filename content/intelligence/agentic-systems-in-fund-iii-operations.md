@@ -6,8 +6,6 @@ author: Jonas Hyltén
 slug: agentic-systems-in-fund-iii-operations
 re-architected: true
 ---
-# Agentic Systems in Fund III Operations
-
 Fund III operations require structural overhaul. Not incremental upgrades, but full agentic transformation. Winning firms in Fund III do not scale by hiring. They scale by engineering autonomous operational intelligence. Roials-Alpha constructs this intelligence as a strategic infrastructure layer. Below is the internal logic. No excess. Only the mechanics that generate Fund III repeatability.
 
 ## The Contract of Fund III Scale

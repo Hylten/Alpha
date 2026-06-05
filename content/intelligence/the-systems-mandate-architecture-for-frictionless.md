@@ -6,8 +6,6 @@ author: Jonas Hyltén
 slug: the-systems-mandate-architecture-for-frictionless
 re-architected: true
 ---
-# The Systems Mandate
-
 Architecture for frictionless GTM liquidity is engineered, not discovered. It emerges from asymmetric advantage, covenant-grade order, and systems that eliminate variance while enforcing institutional clarity. This mandate is not ideology. It is architecture.
 
 ## The Principal’s Lens
