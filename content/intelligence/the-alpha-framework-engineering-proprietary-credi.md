@@ -116,8 +116,4 @@ Private credit is dominion oriented. Dominion is not aggression. Dominion is ord
 
 The Alpha Framework stands on five structural pillars. Algorithmic origination. Asset hardening. Covenant stewardship. Execution velocity. Agentic infrastructure. Each pillar compounds the others. Each converts chaos into order. Each reinforces institutional confidence. The output is simple. Predictability. Control. Alignment. Velocity. This is the foundation on which Roials-Alpha constructs proprietary credit systems for HNWI, UHNW, and institutional mandates. Not as intermediaries. As principals.
 
-## Inquiry
-
-## Summary
-
 The market rewards those who act before consensus. Roials Alpha is building that infrastructure now.
