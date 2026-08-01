@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Lock, Server, Cpu, Activity, ShieldCheck, Zap, X, Linkedin, AlertCircle } from 'lucide-react';
+import { Lock, Server, Cpu, Activity, ShieldCheck, Zap, X, Linkedin, AlertCircle, BookOpen } from 'lucide-react';
 import { AlphaIntelligenceIndex } from './components/intelligence/AlphaIntelligenceIndex';
 import { AlphaIntelligenceArticle } from './components/intelligence/AlphaIntelligenceArticle';
 import { MatrixIntro } from './components/MatrixIntro';
@@ -326,18 +326,18 @@ function App() {
             </a>
 
             {/* MODULE 04 — INTELLIGENCE */}
-            <a
-              href="/Alpha/intelligence/"
+            <a 
+              href="https://hylten.github.io/Venture-Studio/#/intelligence" 
+              target="_blank" 
+              rel="noopener noreferrer" 
               className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block border-l md:border-l-0 border-white/5"
             >
               <div className="flex justify-between items-start mb-4">
-                <svg className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="1.5">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
-                </svg>
+                <BookOpen className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
                 <span className="text-[9px] tracking-widest text-gray-700 group-hover:text-oldgold/70">MOD 04</span>
               </div>
               <h3 className="text-sm tracking-widest text-platinum uppercase mb-2">Intelligence</h3>
-              <p className="text-[10px] text-gray-500 leading-relaxed">Research & analysis library.</p>
+              <p className="text-[10px] text-gray-500 leading-relaxed">Proprietary research & venture intelligence.</p>
             </a>
 
           </div>
