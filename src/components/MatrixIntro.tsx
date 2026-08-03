@@ -109,16 +109,16 @@ export const MatrixIntro: React.FC = () => {
   }, []);
 
   return (
-    <div className="fixed inset-0 z-[9999] bg-black flex flex-col items-center justify-center overflow-hidden">
+    <div className="fixed inset-0 z-[9999] bg-black flex flex-col items-center justify-center overflow-hidden px-4">
       <canvas ref={canvasRef} className="absolute inset-0 w-full h-full opacity-80" />
-      <div className="relative z-10 text-center animate-pulse mt-[-8rem]">
-        <h1 className="text-white font-mono text-2xl md:text-5xl tracking-[0.3em] uppercase mb-4 drop-shadow-[0_0_8px_rgba(255,255,255,0.8)]">
+      <div className="relative z-10 text-center animate-pulse mt-[-8rem] w-full flex flex-col items-center">
+        <h1 className="text-white font-mono text-xl sm:text-2xl md:text-5xl tracking-[0.2em] sm:tracking-[0.3em] uppercase mb-4 drop-shadow-[0_0_8px_rgba(255,255,255,0.8)] whitespace-nowrap">
           SYSTEM_BOOT_SEQUENCE
         </h1>
-        <p className="text-white/70 font-mono text-sm tracking-widest uppercase mt-4">
+        <p className="text-white/70 font-mono text-[11px] sm:text-sm tracking-widest uppercase mt-4 whitespace-nowrap">
           Decrypting Alpha Modules...
         </p>
-        <div className="w-64 h-1 bg-white/20 rounded overflow-hidden mt-8 mx-auto">
+        <div className="w-full max-w-[16rem] h-1 bg-white/20 rounded overflow-hidden mt-8">
           <div className="h-full bg-white shadow-[0_0_10px_#FFFFFF] animate-[matrixLoad_5.3s_ease-out_forwards]"></div>
         </div>
       </div>
