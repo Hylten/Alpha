@@ -152,7 +152,7 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-obsidian text-platinum font-sans selection:bg-oldgold selection:text-obsidian bg-grid overflow-hidden">
+    <div className="min-h-screen bg-obsidian text-platinum font-sans selection:bg-oldgold selection:text-obsidian bg-grid overflow-x-hidden">
 
       {/* HEADER */}
       <header className="absolute top-0 left-0 w-full z-50 px-8 py-6 flex justify-between items-center border-b border-white/5 bg-obsidian/80 backdrop-blur-md">
@@ -255,7 +255,7 @@ function App() {
       )}
 
       {/* MAIN CONTENT */}
-      <main className="relative h-screen flex flex-col justify-center items-center px-4">
+      <main className="relative min-h-screen flex flex-col justify-center items-center px-4 py-24 md:py-0">
 
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-oldgold/5 rounded-full blur-[120px] pointer-events-none"></div>
 
@@ -267,7 +267,7 @@ function App() {
             </div>
           </div>
 
-          <h1 className="font-serif text-5xl md:text-7xl text-platinum leading-none tracking-tight mb-8">
+          <h1 className="font-serif text-4xl sm:text-5xl md:text-7xl text-platinum leading-none tracking-tight mb-8">
             ROIALS <span className="font-light italic text-gray-600">ALPHA</span>
           </h1>
 
@@ -278,7 +278,7 @@ function App() {
           </p>
 
           {/* SYSTEM MODULES GRID */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-px bg-white/10 dark:bg-white/5 border border-white/10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-white/10 dark:bg-white/5 border border-white/10">
 
             {/* MODULE 01 */}
             <a 
@@ -330,7 +330,7 @@ function App() {
               href="https://hylten.github.io/Venture-Studio/#/intelligence" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block border-l md:border-l-0 border-white/5"
+              className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block"
             >
               <div className="flex justify-between items-start mb-4">
                 <BookOpen className="w-5 h-5 text-gray-600 group-hover:text-oldgold transition-colors" />
@@ -347,7 +347,7 @@ function App() {
       </main>
 
       {/* FOOTER */}
-      <footer className="absolute bottom-0 left-0 w-full z-50 px-8 py-6 border-t border-white/5 flex justify-between items-center text-[10px] text-gray-600 tracking-widest uppercase bg-obsidian/90 backdrop-blur-sm">
+      <footer className="relative w-full z-50 px-8 py-6 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] text-gray-600 tracking-widest uppercase bg-obsidian/90 backdrop-blur-sm">
         <div className="flex items-center gap-4">
           <span className="flex items-center gap-2 text-gray-700 text-[9px] normal-case tracking-wider">
             <ShieldCheck className="w-2.5 h-2.5 text-gray-700" />
@@ -360,7 +360,7 @@ function App() {
           </span>
         </div>
 
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-4 flex-wrap justify-center">
           {/* WhatsApp - super discreet */}
           <a
             href="https://wa.me/46701619978?text=Regarding%20Operational%20Alpha.%20"
