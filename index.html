@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <link rel="icon" type="image/svg+xml" href="/vite.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data:; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'" />
   <title>Roials Alpha | Operational Infrastructure</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,18 +13,7 @@
     href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Inter:wght@300;400;500&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap"
     rel="stylesheet">
   <!-- GitHub Pages SPA redirect handler -->
-  <script type="text/javascript">
-    (function (l) {
-      if (l.search[1] === '/') {
-        var decoded = l.search.slice(1).split('&').map(function (s) {
-          return s.replace(/~and~/g, '&')
-        }).join('?');
-        window.history.replaceState(null, null,
-          l.pathname.slice(0, -1) + decoded + l.hash
-        );
-      }
-    }(window.location))
-  </script>
+  <script src="%BASE_URL%redirect.js"></script>
 </head>
 
 <body>
