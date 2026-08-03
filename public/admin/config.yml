@@ -2,8 +2,7 @@ backend:
   name: github
   repo: Hylten/Alpha
   branch: main
-  auth_type: implicit
-  client_id: ALPHA_CLIENT_ID_PENDING
+  base_url: https://cms-oauth-proxy.vercel.app
 
 # Media-hantering
 media_folder: "public/assets"
