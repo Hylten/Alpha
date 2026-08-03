@@ -1,12 +1,18 @@
 ---
 title: "AI-First Capital Migration Protocols for Global Wealth"
-description: 'Velocity is created by system architecture, not human intent.'
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-first-capital-migration-technical-protocols-fo
+slug: "ai-first-capital-migration-technical-protocols-fo"
+description: "Velocity is created by system architecture, not human intent."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-first-capital-migration-technical-protocols-fo/"
+meta_title: "AI-First Capital Migration Protocols for Global Wealth"
+meta_description: "Velocity is created by system architecture, not human intent."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# AI-First Capital Migration Technical Protocols for Global Wealth
 
 The capital landscape is no longer a market. It is a computational environment. Velocity is created by system architecture, not human intent. This document defines the principal-level protocols governing AI-first capital migration for HNWI and UHNW mandates. It outlines Roials-Alpha’s algorithmic position within this environment through institutional stewardship and the doctrine that business is a trust-based enterprise. It is written for those who control capital, not those who service it.
 

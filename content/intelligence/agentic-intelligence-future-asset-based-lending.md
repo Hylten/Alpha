@@ -1,17 +1,18 @@
 ---
-title: >-
-  The Future of GTM Sourcing: Asset-Based Intelligence for High-Velocity Market
-  Capture
-description: >-
-  In the new GTM economy, manual effort is obsolete. Organizations that still
-  rely on human-driven research, calling, and campaign execution are already
-  behind. Strategic gravity is shifting toward m...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-intelligence-future-asset-based-lending
+title: "The Future of GTM Sourcing: Asset-Based Intelligence for High-Velocity Market Capture"
+slug: "agentic-intelligence-future-asset-based-lending"
+description: "In the new GTM economy, manual effort is obsolete. Organizations that still rely on human-driven research, calling, and campaign execution are already behind. Strategic gravity is shifting toward m..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-future-asset-based-lending/"
+meta_title: "The Future of GTM Sourcing: Asset-Based Intelligence for High-Velocity Market Capture"
+meta_description: "In the new GTM economy, manual effort is obsolete. Organizations that still rely on human-driven research, calling, and campaign execution are already behind. Strategic gravity is shifting toward m..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The Future of GTM Sourcing: Asset-Based Intelligence for High-Velocity Market Capture
 
 ## Introduction: When GTM Stops Being Manual and Becomes Predictive
 

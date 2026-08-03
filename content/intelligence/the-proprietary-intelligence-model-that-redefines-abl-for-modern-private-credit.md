@@ -1,17 +1,18 @@
 ---
-title: >-
-  The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha
-  Edition
-description: >-
-  Asset-based and asset-backed frameworks are no longer mechanical underwriting
-  exercises.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: >-
-  the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit
+title: "The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha Edition"
+slug: "the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit"
+description: "Asset-based and asset-backed frameworks are no longer mechanical underwriting exercises."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-proprietary-intelligence-model-that-redefines-abl-for-modern-private-credit/"
+meta_title: "The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha Edition"
+meta_description: "Asset-based and asset-backed frameworks are no longer mechanical underwriting exercises."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The Proprietary Intelligence Model for Asset-Based Lending Roials-Alpha Edition
 
 Asset-based and asset-backed frameworks are no longer mechanical underwriting exercises. They have evolved into computational disciplines. A liquidity science. A field defined by signal extraction, precision thresholds, and automated decision funnels that generate Asymmetric Advantage over traditional private credit operators. Roials-Alpha operates in this computational layer. We do not imitate institutional capital. We engineer the agentic infrastructure that institutions later attempt to replicate.
 

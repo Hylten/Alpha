@@ -1,11 +1,18 @@
 ---
-title: "The Proprietary Path to Autonomous Capital"description: >-
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-proprietary-path-to-autonomous-capital
+title: "The Proprietary Path to Autonomous Capital"
+slug: "the-proprietary-path-to-autonomous-capital"
+description: "Capital is no longer passive. Capital is no longer reactive. Capital is no longer restricted by underwriting bottlenecks or legacy cycle delays. The new era is Autonomous Capital. The gateway is Agentic Infrastructure…"
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-proprietary-path-to-autonomous-capital/"
+meta_title: "The Proprietary Path to Autonomous Capital"
+meta_description: "Capital is no longer passive. Capital is no longer reactive. Capital is no longer restricted by underwriting bottlenecks or legacy cycle delays. The new era is Autonomous Capital. The gateway is Agentic Infrastructure…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The Proprietary Path to Autonomous Capital
 
 Capital is no longer passive. Capital is no longer reactive. Capital is no longer restricted by underwriting bottlenecks or legacy cycle delays. The new era is Autonomous Capital. The gateway is Agentic Infrastructure. Roials-Alpha operates within this frontier. Quietly. Precisely. With structural mechanics engineered for individuals who understand the Asymmetric Advantage created through controlled leverage. We do not chase markets. We architect them.
 

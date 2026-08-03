@@ -1,13 +1,18 @@
 ---
-title: 'Agentic Systems For Complex Financial Structures: The Principal Mandate'
-description: >-
-  A high‑density institutional briefing on agentic architectures, algorithmic
-  deal flow, credit structuring, and sovereign-grade private capital systems for
-  UHNW/HNW family offices.
-date: '2025-12-25'
-author: Jonas Hyltén
-slug: agentic-systems-complex-financial-structures
+title: "Agentic Systems For Complex Financial Structures: The Principal Mandate"
+slug: "agentic-systems-complex-financial-structures"
+description: "A high‑density institutional briefing on agentic architectures, algorithmic deal flow, credit structuring, and sovereign-grade private capital systems for UHNW/HNW family offices."
+date: "2025-12-25"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-systems-complex-financial-structures/"
+meta_title: "Agentic Systems For Complex Financial Structures: The Principal Mandate"
+meta_description: "A high‑density institutional briefing on agentic architectures, algorithmic deal flow, credit structuring, and sovereign-grade private capital systems for UHNW/HNW family offices."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 Institutional capital has entered a new epoch: agentic decision rails, continuous‑time credit scoring, and self-reinforcing liquidity engines. The architecture no longer tolerates latency. Manual diligence collapses under exponential deal velocity. Traditional family-office workflows fracture when the transaction density surpasses cognitive bandwidth. The new order is algorithmic. Cold. Precise. Sovereign by design.
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22.

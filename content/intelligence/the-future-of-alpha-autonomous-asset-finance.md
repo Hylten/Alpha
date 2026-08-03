@@ -1,14 +1,19 @@
 ---
-title: 'The Future of Alpha: Autonomous Asset Finance'
-description: >-
-  The next era of wealth acceleration is emerging from autonomous financial
-  systems that recode liquidity. This is where private credit, asset-based
-  Asset-Backed Frameworks, and agentic autonomous in...
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: the-future-of-alpha-autonomous-asset-finance
+title: "The Future of Alpha: Autonomous Asset Finance"
+slug: "the-future-of-alpha-autonomous-asset-finance"
+description: "The next era of wealth acceleration is emerging from autonomous financial systems that recode liquidity. This is where private credit, asset-based Asset-Backed Frameworks, and agentic autonomous in..."
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-future-of-alpha-autonomous-asset-finance/"
+meta_title: "The Future of Alpha: Autonomous Asset Finance"
+meta_description: "The next era of wealth acceleration is emerging from autonomous financial systems that recode liquidity. This is where private credit, asset-based Asset-Backed Frameworks, and agentic autonomous in..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Alpha is shifting. Structurally. The next era of wealth acceleration is emerging from autonomous financial systems that recode liquidity. This is where private credit, asset-based Asset-Backed Frameworks, and agentic autonomous infrastructure converge. This is the frontier Roials-Alpha is engineered to dominate. Our mandate is clear. Unlock silent capital. Automate liquidity. Engineer asymmetric advantage for HNWI and UHNW operators beyond the constraints of traditional lenders.
 
 ## Autonomous Finance as Structural Advantage

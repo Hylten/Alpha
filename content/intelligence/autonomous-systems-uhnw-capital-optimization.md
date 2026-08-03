@@ -1,14 +1,19 @@
 ---
-title: Ultra-High-Net-Worth Capital Behavior Framework
-description: >-
-  Ultra-high-net-worth capital does not behave like conventional wealth pools.
-  It prioritizes velocity over concentration, structure over sentiment, and
-  precision over scale.
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: autonomous-systems-uhnw-capital-optimization
+title: "Ultra-High-Net-Worth Capital Behavior Framework"
+slug: "autonomous-systems-uhnw-capital-optimization"
+description: "Ultra-high-net-worth capital does not behave like conventional wealth pools. It prioritizes velocity over concentration, structure over sentiment, and precision over scale."
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/autonomous-systems-uhnw-capital-optimization/"
+meta_title: "Ultra-High-Net-Worth Capital Behavior Framework"
+meta_description: "Ultra-high-net-worth capital does not behave like conventional wealth pools. It prioritizes velocity over concentration, structure over sentiment, and precision over scale."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Ultra-high-net-worth capital does not behave like conventional wealth pools. It prioritizes velocity over concentration, structure over sentiment, and precision over scale. The modern UHNW ecosystem requires institutional-grade architecture capable of ingesting complex multi-entity footprints and executing without drag. No advisors. No intermediaries. No noise. Only agentic infrastructure that computes exposure, allocates liquidity, and governs transaction flow at machine speed. This briefing defines a Principal-level framework for autonomous capital systems engineered for UHNW/HNW families, sovereign-adjacent operators, and private credit dominants.
 
 ## The Mandate

@@ -1,14 +1,19 @@
 ---
-title: The Intelligence Architecture
-description: >-
-  The intelligence is direct: capital instruments compete, and only an
-  autonomous system can arbitrate that competition at the velocity demanded by
-  modern markets.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-arbitrates-private-credit-venture-debt-structured-notes
+title: "The Intelligence Architecture"
+slug: "ai-arbitrates-private-credit-venture-debt-structured-notes"
+description: "The intelligence is direct: capital instruments compete, and only an autonomous system can arbitrate that competition at the velocity demanded by modern markets."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-arbitrates-private-credit-venture-debt-structured-notes/"
+meta_title: "The Intelligence Architecture"
+meta_description: "The intelligence is direct: capital instruments compete, and only an autonomous system can arbitrate that competition at the velocity demanded by modern markets."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The intelligence is direct: capital instruments compete, and only an autonomous system can arbitrate that competition at the velocity demanded by modern markets. Human execution cannot compete. Committees collapse under the required speed. An AI‑first architecture interprets the global capital stack as a dynamic organism—reactive, fluid, and self-adjusting. Private credit. Venture debt. Structured notes. One engine. The arbitration loop.
 
 ## Layer D: Decides

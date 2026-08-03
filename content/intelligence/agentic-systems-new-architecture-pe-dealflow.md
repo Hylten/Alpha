@@ -1,13 +1,18 @@
 ---
-title: Agentic Systems And The New Architecture Of Pe Dealflow
-description: >-
-  A high‑density institutional brief on algorithmic dealflow, agentic capital
-  systems, and AI‑first private credit architectures redefining family office
-  deployment velocity.
-date: '2025-09-12'
-author: Jonas Hyltén
-slug: agentic-systems-new-architecture-pe-dealflow
+title: "Agentic Systems And The New Architecture Of Pe Dealflow"
+slug: "agentic-systems-new-architecture-pe-dealflow"
+description: "A high‑density institutional brief on algorithmic dealflow, agentic capital systems, and AI‑first private credit architectures redefining family office deployment velocity."
+date: "2025-09-12"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-systems-new-architecture-pe-dealflow/"
+meta_title: "Agentic Systems And The New Architecture Of Pe Dealflow"
+meta_description: "A high‑density institutional brief on algorithmic dealflow, agentic capital systems, and AI‑first private credit architectures redefining family office deployment velocity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 Private markets have entered a structural inversion. Deal velocity outpaces human bandwidth. Discovery windows compress. Underwriting cycles shrink. Counterparty latency kills margin. The old model-relationship sourcing, incremental screening, partner-led diligence-fails under the weight of information asymmetry. Private equity can no longer rely on human throughput to command edge. The next frontier is agentic. Autonomous. Multi‑modal. Modular. A new architecture where principal intelligence is embedded, not delegated. Where the firm becomes a system, not a hierarchy. Where dealflow becomes computable.
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22speaks: A good man leaves an inheritance to his children’s children.

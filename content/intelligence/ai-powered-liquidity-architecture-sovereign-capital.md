@@ -1,13 +1,19 @@
 ---
-title: The Capital Vacuum
-description: >-
-  The capital vacuum in global private markets is not caused by insufficient
-  liquidity.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-powered-liquidity-architecture-sovereign-capital
+title: "The Capital Vacuum"
+slug: "ai-powered-liquidity-architecture-sovereign-capital"
+description: "The capital vacuum in global private markets is not caused by insufficient liquidity."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-powered-liquidity-architecture-sovereign-capital/"
+meta_title: "The Capital Vacuum"
+meta_description: "The capital vacuum in global private markets is not caused by insufficient liquidity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The capital vacuum in global private markets is not caused by insufficient liquidity. It is caused by the misalignment between balance sheet velocity and institutional deployment mechanics. In 2026 the most rapidly compounding asymmetric advantage for allocators is no longer access to differentiated deal flow. The advantage is mechanized liquidity orchestration through AI governed credit engines capable of moving sovereign level capital in minutes, not months, without introducing execution risk or jurisdictional friction.
 
 ## The Regime Shift

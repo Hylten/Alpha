@@ -1,14 +1,19 @@
 ---
-title: Algorithmic Asset Hardening
-description: >-
-  Automating institutional scrutiny requires eliminating narrative dependence
-  and enforcing structural rigor. Institutional allocators respond only to
-  precision, covenant clarity, and asset logic cap...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: algorithmic-asset-hardening-automating-institutio
+title: "Algorithmic Asset Hardening"
+slug: "algorithmic-asset-hardening-automating-institutio"
+description: "Automating institutional scrutiny requires eliminating narrative dependence and enforcing structural rigor. Institutional allocators respond only to precision, covenant clarity, and asset logic cap..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/algorithmic-asset-hardening-automating-institutio/"
+meta_title: "Algorithmic Asset Hardening"
+meta_description: "Automating institutional scrutiny requires eliminating narrative dependence and enforcing structural rigor. Institutional allocators respond only to precision, covenant clarity, and asset logic cap..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Automating institutional scrutiny requires eliminating narrative dependence and enforcing structural rigor. Institutional allocators respond only to precision, covenant clarity, and asset logic capable of sustaining deep diligence cycles. They distinguish between presentation and architecture. Algorithmic asset hardening occupies this distinction, converting fragmented operator environments into institutional-grade credit frameworks. It is the interface where stewardship principles intersect with high‑velocity execution. Quantified order replaces intuition. Roials‑Alpha operates within this interface with deliberate intent.
 
 ## The Mandate of the Principal

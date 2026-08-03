@@ -1,11 +1,19 @@
 ---
-title: 'The Future of Alpha: Agentic Infrastructure'
-description: 'In the coming financial cycle, the construction layer will not be human.'
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance
+title: "The Future of Alpha: Agentic Infrastructure"
+slug: "the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance"
+description: "In the coming financial cycle, the construction layer will not be human."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-future-of-alpha-agentic-infrastructure-for-private-credit-dominance/"
+meta_title: "The Future of Alpha: Agentic Infrastructure"
+meta_description: "In the coming financial cycle, the construction layer will not be human."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Alpha is no longer extracted. Alpha is constructed. In the coming financial cycle, the construction layer will not be human. It will be agentic. It will be autonomous. It will be structural. This is where Roials‑Alpha operates. Principal authority. Mechanics over noise. Infrastructure over storytelling. We enable GTM Liquidity for HNWI and UHNW operators through private credit and asset‑based capital structuring calibrated for a future shaped by automated decisioning and continuous capital orchestration.
 
 ## The New Era of Agentic Capital

@@ -1,14 +1,18 @@
 ---
-title: >-
-  Parametric Arbitration Models for Adversarial Trade Environments Using The
-  Sovereign Protocol
-description: Parametric arbitration has moved beyond experimentation.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: parametric-arbitration-models-for-adversarial-trad
+title: "Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol"
+slug: "parametric-arbitration-models-for-adversarial-trad"
+description: "Parametric arbitration has moved beyond experimentation."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/parametric-arbitration-models-for-adversarial-trad/"
+meta_title: "Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol"
+meta_description: "Parametric arbitration has moved beyond experimentation."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Parametric Arbitration Models for Adversarial Trade Environments Using The Sovereign Protocol
 
 ## Introduction
 

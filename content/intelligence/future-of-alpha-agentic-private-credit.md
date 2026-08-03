@@ -1,16 +1,22 @@
 ---
-title: 'Phase I: The Regime Shift'
-description: >-
-  The structural gap in private credit is no longer defined by deal scarcity but
-  by institutional latency.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: future-of-alpha-agentic-private-credit
+title: "Phase I: The Regime Shift"
+slug: "future-of-alpha-agentic-private-credit"
+description: "The structural gap in private credit is no longer defined by deal scarcity but by institutional latency."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/future-of-alpha-agentic-private-credit/"
+meta_title: "Phase I: The Regime Shift"
+meta_description: "The structural gap in private credit is no longer defined by deal scarcity but by institutional latency."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The structural gap in private credit is no longer defined by deal scarcity but by institutional latency. Across North America and Europe, transaction velocity now exceeds the analytical capacity of legacy underwriting systems. The result is a widening dispersion between allocators operating on agentic infrastructure and those constrained by sequential human analysis. This dispersion is quantifiable in cycle times, recovery precision, default anticipation accuracy, and GTM Liquidity throughput. Private credit alpha in the coming decade will not be driven by price negotiation or capital access. It will be driven by computational architecture.
 
-# Phase I: The Regime Shift
+## Phase I: The Regime Shift
 
 Private credit has undergone a four‑stage evolution over the past fifteen years. Each phase created a new performance ceiling and a new structural challenge for allocators. Stage One: Post‑GFC dislocation liquidity. Returns were driven by capital scarcity and distress premium. Underwriting was manual, binary, and operationally shallow. Institutional allocators could win simply by arriving with deployable balance sheet capacity. Stage Two: Yield compression and scale consolidation. As traditional banks withdrew from middle‑market and energy lending, private credit funds filled the vacuum. Large platforms used generic underwriting templates, compensating for informational inefficiency with higher rates and tighter covenants. Deal flow outpaced analytical depth, limiting operational insight. Stage Three: The 2020–2024 volatility regime. Commodity instability, supply chain stress, and inconsistent global monetary policy exposed the structural limits of legacy underwriting. Verification cycles were slow. Operational intelligence was insufficient. Risk frameworks became reactive instead of anticipatory, generating valuation drift. Stage Four: 2025 onward — computational credit. AI‑native underwriting, autonomous monitoring, and agentic deal sourcing initiated the first true regime shift since the GFC. Underwriting cycles compressed. Unstructured operational data became intelligible. Technical failure points became forecastable. Competitive positioning shifted from team size to systems architecture. Allocators without agentic infrastructure can no longer maintain competitive cycle times, price risk with necessary granularity, or operate at the cumulative velocity of middle‑market deal flow. Capital is no longer the advantage. Computational asymmetry is.
 

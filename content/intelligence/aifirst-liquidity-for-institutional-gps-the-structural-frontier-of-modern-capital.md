@@ -1,15 +1,18 @@
 ---
 title: "AI-First Liquidity for Institutional GPs"
-description: >-
-  In the current cycle, the GP that surfaces borrowable value faster than
-  competitors controls the capital stack.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: >-
-  aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital
+slug: "aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital"
+description: "In the current cycle, the GP that surfaces borrowable value faster than competitors controls the capital stack."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/aifirst-liquidity-for-institutional-gps-the-structural-frontier-of-modern-capital/"
+meta_title: "AI-First Liquidity for Institutional GPs"
+meta_description: "In the current cycle, the GP that surfaces borrowable value faster than competitors controls the capital stack."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# AI First Liquidity for Institutional GPs
 
 Latency is risk. Liquidity is sovereignty. In the current cycle, the GP that surfaces borrowable value faster than competitors controls the capital stack. Spread generation is no longer structural alone. It is intelligence applied to structure. Roials Alpha operates inside that asymmetry. We work where AI, collateral analytics, private credit, and asset based Institutional Liquidity Paths converge. Our mandate is direct. We provide liquidity to high net worth and ultra high net worth clients, as well as institutional GPs, through an AI first infrastructure that converts opaque assets into actionable Institutional Liquidity Paths. We do not broadcast. We do not hype. Principal authority is the operating signature.
 

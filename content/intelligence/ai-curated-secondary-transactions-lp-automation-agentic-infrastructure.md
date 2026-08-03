@@ -1,17 +1,18 @@
 ---
-title: >-
-  The Principal Architecture Of Ai‑curated Secondaries And Autonomous Lp
-  Rebalancing
-description: >-
-  A high‑density examination of AI‑driven secondary signal detection
-  infrastructure, autonomous LP portfolio rebalancing, agentic fund
-  infrastructure, and the rise of algorithmic deal flow pipelines across
-  UHNW/HNW family offices
-date: '2025-09-17'
-author: Jonas Hyltén
-slug: >-
-  ai-curated-secondary-transactions-lp-autonomous-infrastructure-agentic-infrastructure
+title: "The Principal Architecture Of Ai‑curated Secondaries And Autonomous Lp Rebalancing"
+slug: "ai-curated-secondary-transactions-lp-autonomous-infrastructure-agentic-infrastructure"
+description: "A high‑density examination of AI‑driven secondary signal detection infrastructure, autonomous LP portfolio rebalancing, agentic fund infrastructure, and the rise of algorithmic deal flow pipelines across UHNW/HNW fami…"
+date: "2025-09-17"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-curated-secondary-transactions-lp-autonomous-infrastructure-agentic-infrastructure/"
+meta_title: "The Principal Architecture Of Ai‑curated Secondaries And Autonomous Lp Rebalancing"
+meta_description: "A high‑density examination of AI‑driven secondary signal detection infrastructure, autonomous LP portfolio rebalancing, agentic fund infrastructure, and the rise of algorithmic deal flow pipelines across UHNW/HNW fami…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 The inefficiency begins with silence. LPs sit on portfolios whose signals decay faster than they can be manually interpreted. The market drifts. Returns bleed. Rebalancing becomes reactive instead of sovereign. The transition underway is not cosmetic. It is architectural. AI systems are now metabolizing the private‑market information stack at a speed, depth, and structural precision that permanently alters how secondary opportunities surface and how LPs defend their yield curves. Machine-first. Human-guided. Frictionless. Below is the internal briefing.
 
 ### Phase I: - Vault language only

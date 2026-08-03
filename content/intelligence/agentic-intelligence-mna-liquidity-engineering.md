@@ -1,17 +1,18 @@
 ---
-title: >-
-  Market and Demand Engineering: Agentic GTM Liquidity as Sovereign
-  Infrastructure
-description: >-
-  The global economy has shifted from capital dominance to coordination
-  dominance. Value is no longer created through access to money or markets, but
-  through the ability to orchestrate information fl...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-intelligence-mna-liquidity-engineering
+title: "Market and Demand Engineering: Agentic GTM Liquidity as Sovereign Infrastructure"
+slug: "agentic-intelligence-mna-liquidity-engineering"
+description: "The global economy has shifted from capital dominance to coordination dominance. Value is no longer created through access to money or markets, but through the ability to orchestrate information fl..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-mna-liquidity-engineering/"
+meta_title: "Market and Demand Engineering: Agentic GTM Liquidity as Sovereign Infrastructure"
+meta_description: "The global economy has shifted from capital dominance to coordination dominance. Value is no longer created through access to money or markets, but through the ability to orchestrate information fl..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Market and Demand Engineering: Agentic GTM Liquidity as Sovereign Infrastructure
 
 ## Introduction: A New Axis of Power
 

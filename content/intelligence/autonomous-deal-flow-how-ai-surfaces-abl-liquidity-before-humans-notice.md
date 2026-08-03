@@ -1,15 +1,19 @@
 ---
-title: >-
-  Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in
-  M&A and Eliminates Legacy Deal Friction
-description: >-
-  We treat GTM Liquidity origination as an engineering discipline, not a
-  networking ritual.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice
+title: "Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A and Eliminates Legacy Deal Friction"
+slug: "autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice"
+description: "We treat GTM Liquidity origination as an engineering discipline, not a networking ritual."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/autonomous-deal-flow-how-ai-surfaces-abl-liquidity-before-humans-notice/"
+meta_title: "Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A and Eliminates Legacy Deal Friction"
+meta_description: "We treat GTM Liquidity origination as an engineering discipline, not a networking ritual."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 ## Autonomous Deal Flow: How AI Identifies Asset-Based Lending Opportunities in M&A
 
 The private credit market operates on a fundamental asymmetry: capital velocity outpaces human cognition. Traditional deal flow is a relic of analog origination - static pipelines, manual collateral validation, and reactive underwriting. These methods degrade signal integrity. Opportunities decay in transit. Strike windows close before capital mobilizes. Roials Alpha re-engineers this process as a closed-loop system. We treat liquidity origination as an institutional-grade engineering discipline, not a networking exercise. The objective is singular: identify mispriced collateral, extract concealed signal, and deploy capital with structural authority. This is not incremental improvement. It is a full-stack replacement of legacy origination architecture.

@@ -1,13 +1,19 @@
 ---
-title: 'Agentic GTM Intelligence: The New Architecture for Demand Generation'
-description: >-
-  Traditional demand generation is too slow, too manual, and too dependent on
-  static workflows that no longer match market velocity.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-intelligence-and-the-new-architecture-of-capital
+title: "Agentic GTM Intelligence: The New Architecture for Demand Generation"
+slug: "agentic-intelligence-and-the-new-architecture-of-capital"
+description: "Traditional demand generation is too slow, too manual, and too dependent on static workflows that no longer match market velocity."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-and-the-new-architecture-of-capital/"
+meta_title: "Agentic GTM Intelligence: The New Architecture for Demand Generation"
+meta_description: "Traditional demand generation is too slow, too manual, and too dependent on static workflows that no longer match market velocity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 ## Overview: A New GTM Order
 
 Traditional demand generation is too slow, too manual, and too dependent on static workflows that no longer match market velocity. As AI systems begin operating as agentic actors across the entire GTM stack, a new intelligence layer emerges—one that does not merely provide insights but decides, executes, optimizes, and learns in real time. This is agentic GTM intelligence. Not dashboards. Not reports. Not more sequences or campaigns. A dynamic, self-learning system that integrates market data, sales intelligence, product telemetry, and tactical execution interfaces into a singular machine. The new GTM landscape requires an engineering shift: from campaign creation to system design, from marketing as a functional silo to marketing as a distributed intelligence layer, from human-driven operations to machine-driven agents that run the majority of tactical workflows. This document outlines the underlying mechanics behind this evolution and the architectural shifts now defining the frontier of demand generation.

@@ -1,16 +1,18 @@
 ---
-title: >-
-  Agentic Infrastructure For Private Credit: The New Liquidity Architecture For
-  Hnwi And Uhnw
-description: >-
-  AI‑first private credit infrastructure engineered for HNWI/UHNW investors,
-  enabling liquidity expansion, automated underwriting, algorithmic deal flow,
-  and frictionless institutional execution across multi‑jurisdictional capital
-  rails.
-date: '2025-11-25'
-author: Jonas Hyltén
-slug: agentic-infrastructure-private-credit-liquidity-architecture
+title: "Agentic Infrastructure For Private Credit: The New Liquidity Architecture For Hnwi And Uhnw"
+slug: "agentic-infrastructure-private-credit-liquidity-architecture"
+description: "AI‑first private credit infrastructure engineered for HNWI/UHNW investors, enabling liquidity expansion, automated underwriting, algorithmic deal flow, and frictionless institutional execution across multi‑jurisdictio…"
+date: "2025-11-25"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-private-credit-liquidity-architecture/"
+meta_title: "Agentic Infrastructure For Private Credit: The New Liquidity Architecture For Hnwi And Uhnw"
+meta_description: "AI‑first private credit infrastructure engineered for HNWI/UHNW investors, enabling liquidity expansion, automated underwriting, algorithmic deal flow, and frictionless institutional execution across multi‑jurisdictio…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 Private credit is no longer a financial product. It is infrastructure. Hard-coded. Algorithmic. Ultra-personalized at scale but non-negotiably institutional in structure. The new frontier is not yield. Not structure. Not collateral sophistication. The frontier is agentic autonomy: credit systems that move without human drag. Credit engines that interpret risk faster than counterparties can articulate it. Liquidity frameworks that harden the wealth stack of HNWI and UHNW families through velocity, not leverage.
 
 - "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22states: A good man leaves an inheritance to his children's children.

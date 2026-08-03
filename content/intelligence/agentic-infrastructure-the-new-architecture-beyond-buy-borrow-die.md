@@ -1,15 +1,18 @@
 ---
-title: 'The Structural Shift: From Manual GTM to Agentic Systems'
-description: >-
-  For two decades, go-to-market organizations have built their processes around
-  CRM, MAP, BI, and manual workflows. These systems were designed for static
-  data structures, linear handoffs, and human ...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die
+title: "The Structural Shift: From Manual GTM to Agentic Systems"
+slug: "agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die"
+description: "For two decades, go-to-market organizations have built their processes around CRM, MAP, BI, and manual workflows. These systems were designed for static data structures, linear handoffs, and human ..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-the-new-architecture-beyond-buy-borrow-die/"
+meta_title: "The Structural Shift: From Manual GTM to Agentic Systems"
+meta_description: "For two decades, go-to-market organizations have built their processes around CRM, MAP, BI, and manual workflows. These systems were designed for static data structures, linear handoffs, and human ..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Agentic GTM Infrastructure: Architecture Beyond Legacy Systems
 
 ## The Structural Shift: From Manual GTM to Agentic Systems
 

@@ -1,14 +1,18 @@
 ---
-title: >-
-  Agentic Liquidity: AI‑Driven Asset‑Based Lending as the Core of Asymmetric Buy
-  Borrow Die Architectures
-description: The next era of wealth engineering is not human first.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy
+title: "Agentic Liquidity: AI‑Driven Asset‑Based Lending as the Core of Asymmetric Buy Borrow Die Architectures"
+slug: "agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy"
+description: "The next era of wealth engineering is not human first."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-liquidity-how-ai-driven-abl-supercharges-the-buy-borrow-die-strategy/"
+meta_title: "Agentic Liquidity: AI‑Driven Asset‑Based Lending as the Core of Asymmetric Buy Borrow Die Architectures"
+meta_description: "The next era of wealth engineering is not human first."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Agentic Liquidity: AI‑Driven Asset‑Based Lending as the Core of Asymmetric Buy Borrow Die Architectures
 
 The next era of wealth engineering is not human first. It is agentic first. GTM Liquidity now determines whether a wealth structure compounds or decays, and nowhere is this shift more strategically decisive than inside the Buy Borrow Die architecture. Legacy private credit and traditional Asset‑Based Lending cannot operate at the speed, precision, or liquidity velocity required for modern asymmetric structures. Agentic liquidity rewrites the economics. Most family offices have not recognized this inflection point. Below is the reconstruction of how AI‑driven Asset‑Based Lending compresses latency, expands balance sheet optimization capacity, and transforms the Buy Borrow Die loop into an autonomous, self‑correcting compound engine.
 

@@ -1,14 +1,19 @@
 ---
-title: Agentic Systems and the New Architecture of PE Dealflow
-description: >-
-  Human‑driven sourcing, slow and intuition dependent, cannot keep pace with a
-  market where every proprietary angle is contested and GTM Liquidity fragments
-  in real time.
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: agentic-systems-and-the-new-architecture-of-pe-dealflow
+title: "Agentic Systems and the New Architecture of PE Dealflow"
+slug: "agentic-systems-and-the-new-architecture-of-pe-dealflow"
+description: "Human‑driven sourcing, slow and intuition dependent, cannot keep pace with a market where every proprietary angle is contested and GTM Liquidity fragments in real time."
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-systems-and-the-new-architecture-of-pe-dealflow/"
+meta_title: "Agentic Systems and the New Architecture of PE Dealflow"
+meta_description: "Human‑driven sourcing, slow and intuition dependent, cannot keep pace with a market where every proprietary angle is contested and GTM Liquidity fragments in real time."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Private equity has reached a systemic ceiling. Human‑driven sourcing, slow and intuition dependent, cannot keep pace with a market where every proprietary angle is contested and GTM Liquidity fragments in real time. The strategic high ground has shifted. Agentic Infrastructure now executes where junior teams once scanned, queued, and filtered. Firms that recognize this shift are not adding automation. They are rebuilding the sourcing stack itself.
 
 ## The Rise of Autonomous Dealflow Engines

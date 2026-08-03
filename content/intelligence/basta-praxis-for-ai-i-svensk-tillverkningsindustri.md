@@ -1,13 +1,19 @@
 ---
-title: Best Practices for AI in Swedish Manufacturing
-description: >-
-  Swedish manufacturing is entering a phase where speed, precision, and
-  predictive command define competitive posture.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: basta-praxis-for-ai-i-svensk-tillverkningsindustri
+title: "Best Practices for AI in Swedish Manufacturing"
+slug: "basta-praxis-for-ai-i-svensk-tillverkningsindustri"
+description: "Swedish manufacturing is entering a phase where speed, precision, and predictive command define competitive posture."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/basta-praxis-for-ai-i-svensk-tillverkningsindustri/"
+meta_title: "Best Practices for AI in Swedish Manufacturing"
+meta_description: "Swedish manufacturing is entering a phase where speed, precision, and predictive command define competitive posture."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 ## The New Era of Industrial Intelligence
 
 Swedish manufacturing is entering a phase where speed, precision, and predictive command define competitive posture. AI is no longer support infrastructure. It is the production backbone. Winners are those that embed agentic automation at systemic depth, not at the surface layer. This is the blueprint.

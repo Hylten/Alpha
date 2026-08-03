@@ -1,18 +1,18 @@
 ---
-title: >-
-  The Future of GTM Intelligence: How AI-Driven Signal Systems Redefine Market
-  Entry
-description: >-
-  For two decades, B2B organizations built their go-to-market structures on
-  static data, manual CRM inputs, outdated ICP profiles, and sales teams’
-  subjective interpretations of what constituted buyi...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: >-
-  agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity
+title: "The Future of GTM Intelligence: How AI-Driven Signal Systems Redefine Market Entry"
+slug: "agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity"
+description: "For two decades, B2B organizations built their go-to-market structures on static data, manual CRM inputs, outdated ICP profiles, and sales teams’ subjective interpretations of what constituted buyi..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-and-the-future-of-abl-how-ai-driven-credit-systems-redefine-liquidity/"
+meta_title: "The Future of GTM Intelligence: How AI-Driven Signal Systems Redefine Market Entry"
+meta_description: "For two decades, B2B organizations built their go-to-market structures on static data, manual CRM inputs, outdated ICP profiles, and sales teams’ subjective interpretations of what constituted buyi..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The Future of GTM Intelligence: How AI-Driven Signal Systems Redefine Market Entry
 
 ## The Structural Collapse of Traditional GTM Intelligence
 

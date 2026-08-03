@@ -1,15 +1,18 @@
 ---
-title: >-
-  Automated Sponsor Vetting Through Multi‑modal Ingestion And Pattern
-  Intelligence
-description: >-
-  A Principal-level breakdown of AI-first sponsor evaluation architecture,
-  multi-modal data ingestion, and pattern-recognition pipelines for
-  institutional-grade algorithmic deal flow.
-date: '2026-03-06'
-author: Jonas Hyltén
-slug: automated-sponsor-vetting-multimodal-pattern-intelligence
+title: "Automated Sponsor Vetting Through Multi‑modal Ingestion And Pattern Intelligence"
+slug: "automated-sponsor-vetting-multimodal-pattern-intelligence"
+description: "A Principal-level breakdown of AI-first sponsor evaluation architecture, multi-modal data ingestion, and pattern-recognition pipelines for institutional-grade algorithmic deal flow."
+date: "2026-03-06"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/automated-sponsor-vetting-multimodal-pattern-intelligence/"
+meta_title: "Automated Sponsor Vetting Through Multi‑modal Ingestion And Pattern Intelligence"
+meta_description: "A Principal-level breakdown of AI-first sponsor evaluation architecture, multi-modal data ingestion, and pattern-recognition pipelines for institutional-grade algorithmic deal flow."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 The signal emerges before the sponsor ever speaks. That is the first principle. The second principle: institutional capital no longer tolerates friction, delay, or personality-driven evaluation cycles when pattern intelligence can map the behavioral, financial, and operational fingerprints of a sponsor within minutes. The third principle: a credit architecture that does not automate sponsor vetting will lose Machine gun clarity. Patterns don’t lie. Humans hesitate. Systems do not. The internal architecture must therefore reconstruct sponsor vetting from a human-driven ritual into an autonomous, continuously updated, multi-modal ingestion engine that sees everything-financial history, operational cadence, linguistic markers, structural patterns, anomaly vectors-and produces one thing the markets respect: conviction built on computation, not charisma. This document is written at the Principal level. Not an explanation. A directive. (
 
 ### Phase I:

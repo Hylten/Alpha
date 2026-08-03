@@ -1,15 +1,18 @@
 ---
-title: >-
-  Digital Twins for Portfolio Companies and the New Standard for Covenant
-  Monitoring
-description: Digital infrastructure has surpassed the limits of human monitoring.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: >-
-  digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring-covena
+title: "Digital Twins for Portfolio Companies and the New Standard for Covenant Monitoring"
+slug: "digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring-covena"
+description: "Digital infrastructure has surpassed the limits of human monitoring."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/digital-twins-for-portfolio-companies-and-the-new-standard-for-monitoring-covena/"
+meta_title: "Digital Twins for Portfolio Companies and the New Standard for Covenant Monitoring"
+meta_description: "Digital infrastructure has surpassed the limits of human monitoring."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Digital Twins for Portfolio Companies and the New Standard for Covenant Monitoring
 
 Digital infrastructure has surpassed the limits of human monitoring. Firms that recognize this have already crossed the threshold. The rest will be forced across it. Roials Alpha operates beyond that threshold. Digital twins for portfolio companies. Autonomous covenant surveillance. Alpha Sentinel Layer as the permanent guardrail. A new operating standard for principal‑led mandates above five million. The era of quarterly reporting is finished. Only autonomous systems can detect drift early enough to reshape outcome curves. Only digital twins can compress the distance between the operating entity and the capital that owns it. Only agentic infrastructure can operate surveillance at the depth required to protect enterprise value in real time.
 

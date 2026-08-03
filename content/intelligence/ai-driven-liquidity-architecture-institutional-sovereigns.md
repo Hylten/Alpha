@@ -1,14 +1,19 @@
 ---
-title: The Capital Vacuum
-description: >-
-  The capital vacuum in global sovereign portfolios is no longer defined by
-  asset scarcity but by the latency embedded in human‑mediated allocation
-  pathways.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-driven-liquidity-architecture-institutional-sovereigns
+title: "The Capital Vacuum"
+slug: "ai-driven-liquidity-architecture-institutional-sovereigns"
+description: "The capital vacuum in global sovereign portfolios is no longer defined by asset scarcity but by the latency embedded in human‑mediated allocation pathways."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-driven-liquidity-architecture-institutional-sovereigns/"
+meta_title: "The Capital Vacuum"
+meta_description: "The capital vacuum in global sovereign portfolios is no longer defined by asset scarcity but by the latency embedded in human‑mediated allocation pathways."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The capital vacuum in global sovereign portfolios is no longer defined by asset scarcity but by the latency embedded in human‑mediated allocation pathways. The 2026 macro regime operates on machine‑led precision where liquidity formation, risk segmentation, and transaction sequencing are executed within autonomous frameworks. Jurisdictions managing intergenerational sovereign mandates require capital preservation, opportunity velocity, and policy‑aligned deployment without friction. AI‑driven liquidity architecture has become the institutional archetype because it compresses decision cycles, restructures balance sheet efficiency, and establishes agentic infrastructure that neutralizes sovereign disbursement delays.
 
 ## The Regime Shift

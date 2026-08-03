@@ -1,11 +1,18 @@
 ---
-title: "Proprietary Agentic Models Roials-Alpha Edition"description: >-
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: proprietary-agentic-models
+title: "Proprietary Agentic Models Roials-Alpha Edition"
+slug: "proprietary-agentic-models"
+description: "Proprietary agentic models define a new epoch of autonomous computation. They move beyond static LLM outputs. They evolve. They reason. They self-direct. They operate as computational entities with intent shaped by ar…"
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/proprietary-agentic-models/"
+meta_title: "Proprietary Agentic Models Roials-Alpha Edition"
+meta_description: "Proprietary agentic models define a new epoch of autonomous computation. They move beyond static LLM outputs. They evolve. They reason. They self-direct. They operate as computational entities with intent shaped by ar…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Proprietary Agentic Models: Roials-Alpha Edition
 
 Proprietary agentic models define a new epoch of autonomous computation. They move beyond static LLM outputs. They evolve. They reason. They self-direct. They operate as computational entities with intent shaped by architecture. Roials-Alpha builds them as core trade assets. Not as features. Not as extensions. As agentic infrastructure engineered for asymmetric advantage.
 

@@ -1,15 +1,18 @@
 ---
-title: >-
-  The Principal Architecture Of Zero‑friction Capital Deployment For Family
-  Offices
-description: >-
-  A deep, technical Principal brief on agentic infrastructure, algorithmic deal
-  flow, and AI-first credit architecture for UHNW/HNW family offices seeking
-  zero‑human‑friction capital deployment.
-date: '2025-12-05'
-author: Jonas Hyltén
-slug: family-office-zero-friction-agentic-infrastructure
+title: "The Principal Architecture Of Zero‑friction Capital Deployment For Family Offices"
+slug: "family-office-zero-friction-agentic-infrastructure"
+description: "A deep, technical Principal brief on agentic infrastructure, algorithmic deal flow, and AI-first credit architecture for UHNW/HNW family offices seeking zero‑human‑friction capital deployment."
+date: "2025-12-05"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/family-office-zero-friction-agentic-infrastructure/"
+meta_title: "The Principal Architecture Of Zero‑friction Capital Deployment For Family Offices"
+meta_description: "A deep, technical Principal brief on agentic infrastructure, algorithmic deal flow, and AI-first credit architecture for UHNW/HNW family offices seeking zero‑human‑friction capital deployment."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 The bottleneck has never been capital. The bottleneck is latency. Human latency. Interpretive drag. Decision friction. Coordination overhead. The gap between signal detection and capital execution. Remove the friction and the machine runs. Clean. Precise. Relentless. Family offices that still rely on human‑first workflows are effectively operating in analog time while markets move in digital time. That gap widens every quarter. It becomes a structural disadvantage. The next generation of family office architecture is not built on forms, dashboards, or analysts pressing refresh on a data room. The next generation runs on agents. Self-maintaining systems. Autonomous coordination networks. A machine layer that interprets, decides, and structures before a human even enters the field. Agentic infrastructure is not an upgrade. It is a migration path from the legacy family office to an institutional machine with the agility of a founder and the precision of a quant desk. And the first rule is simple: the human must step out of the process. Not out of oversight, but out of the flow. Oversight remains sacrosanct. Flow must become autonomous. Now the architecture.
 
 ### Phase I:

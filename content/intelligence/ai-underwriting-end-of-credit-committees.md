@@ -1,15 +1,18 @@
 ---
-title: >-
-  The Terminal Decline Of Legacy Credit Committees And The Rise Of Ai
-  Underwriting Sovereignty
-description: >-
-  A principal-level analysis of AI-driven underwriting stacks, autonomous credit
-  architecture, and agentic infrastructures reshaping UHNW/HNW family office
-  deal execution.
-date: '2025-10-29'
-author: Jonas Hyltén
-slug: ai-underwriting-end-of-credit-committees
+title: "The Terminal Decline Of Legacy Credit Committees And The Rise Of Ai Underwriting Sovereignty"
+slug: "ai-underwriting-end-of-credit-committees"
+description: "A principal-level analysis of AI-driven underwriting stacks, autonomous credit architecture, and agentic infrastructures reshaping UHNW/HNW family office deal execution."
+date: "2025-10-29"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-underwriting-end-of-credit-committees/"
+meta_title: "The Terminal Decline Of Legacy Credit Committees And The Rise Of Ai Underwriting Sovereignty"
+meta_description: "A principal-level analysis of AI-driven underwriting stacks, autonomous credit architecture, and agentic infrastructures reshaping UHNW/HNW family office deal execution."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 The fracture line is visible. Legacy credit committees move too slowly. AI moves instantly. The market has already chosen its sovereign. The firms still pretending this shift is optional are already irrelevant. They just have not been notified yet. A Principal knows what follows. autonomous infrastructure does not compete with human committees. It replaces them. Cleanly. Irreversibly. Quietly at first, then all at once. The modern underwriting stack has become an agentic organism-multi-layered, self-correcting, and strategically indifferent to legacy bureaucracy. It absorbs data, forms conviction, establishes risk boundaries, and allocates capital with the precision only a machine-first ecosystem can sustain. Human friction is the last inefficiency. It is being eliminated. PHASE ONE:
 
 - PRIVATE BRIEFING The future of credit is neither decentralized nor democratic.

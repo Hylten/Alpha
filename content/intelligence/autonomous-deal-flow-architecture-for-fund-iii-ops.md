@@ -1,15 +1,18 @@
 ---
 title: "Autonomous Deal Flow in Fund-III Ops"
-description: >-
-  Fund-III operates at a capital altitude where human-led sourcing collapses
-  under scale. At this level, deal flow must be autonomous, silent, and
-  relentless. Roials-Alpha functions in this altitude,...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: autonomous-deal-flow-architecture-for-fund-iii-ops
+slug: "autonomous-deal-flow-architecture-for-fund-iii-ops"
+description: "Fund-III operates at a capital altitude where human-led sourcing collapses under scale. At this level, deal flow must be autonomous, silent, and relentless. Roials-Alpha functions in this altitude,..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/autonomous-deal-flow-architecture-for-fund-iii-ops/"
+meta_title: "Autonomous Deal Flow in Fund-III Ops"
+meta_description: "Fund-III operates at a capital altitude where human-led sourcing collapses under scale. At this level, deal flow must be autonomous, silent, and relentless. Roials-Alpha functions in this altitude,..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Autonomous Deal Flow in Fund-III Operations
 
 Fund-III operates at a capital altitude where human-led sourcing collapses under scale. At this level, deal flow must be autonomous, silent, and relentless. Roials-Alpha functions in this altitude, engineered for Private Credit and Asset-Based Strategic Collateralization serving HNWI and UHNW operators who transact with eight-figure conviction and nine-figure precision. This is the operating layer where deal flow is not sourced. It is generated. It is where Fund-III becomes an autonomous organism.
 

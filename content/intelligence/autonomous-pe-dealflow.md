@@ -1,14 +1,19 @@
 ---
-title: Autonomous PE Dealflow
-description: >-
-  Private equity no longer scales on human sourcing. Analyst volume and broker
-  networks no longer create asymmetric advantage. The next decade will be
-  defined by firms that deploy autonomous systems ...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: autonomous-pe-dealflow
+title: "Autonomous PE Dealflow"
+slug: "autonomous-pe-dealflow"
+description: "Private equity no longer scales on human sourcing. Analyst volume and broker networks no longer create asymmetric advantage. The next decade will be defined by firms that deploy autonomous systems ..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/autonomous-pe-dealflow/"
+meta_title: "Autonomous PE Dealflow"
+meta_description: "Private equity no longer scales on human sourcing. Analyst volume and broker networks no longer create asymmetric advantage. The next decade will be defined by firms that deploy autonomous systems ..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Private equity no longer scales on human sourcing. Analyst volume and broker networks no longer create asymmetric advantage. The next decade will be defined by firms that deploy autonomous systems operating without interruption, latency, or cognitive limits. These systems generate GTM liquidity by detecting angles humans cannot see. Roials Alpha operates at this boundary. This is the front line of autonomous dealflow.
 
 ## The Death of Manual Sourcing

@@ -1,13 +1,19 @@
 ---
-title: 'AI-Driven Asset Hardening: The New Frontier'
-description: >-
-  It is now the hardening layer that separates vulnerable portfolios from
-  fortified capital infrastructure.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-driven-asset-hardening-the-new-frontier-for-institutional-grade-liquidity
+title: "AI-Driven Asset Hardening: The New Frontier"
+slug: "ai-driven-asset-hardening-the-new-frontier-for-institutional-grade-liquidity"
+description: "It is now the hardening layer that separates vulnerable portfolios from fortified capital infrastructure."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-driven-asset-hardening-the-new-frontier-for-institutional-grade-liquidity/"
+meta_title: "AI-Driven Asset Hardening: The New Frontier"
+meta_description: "It is now the hardening layer that separates vulnerable portfolios from fortified capital infrastructure."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 AI is no longer an operational advantage. It is now the hardening layer that separates vulnerable portfolios from fortified capital infrastructure. Roials-Alpha builds this layer for High Net Worth and Ultra High Net Worth individuals operating at institutional scale. We execute through private credit, asset-based Strategic Collateralization, and Institutional Liquidity Paths reinforced by agentic intelligence. We operate quietly. We operate with structural authority.
 
 ## The Shift Toward Hard AI Infrastructure

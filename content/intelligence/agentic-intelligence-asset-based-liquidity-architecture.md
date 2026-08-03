@@ -1,14 +1,19 @@
 ---
-title: Systemic Architecture for GTM Liquidity
-description: >-
-  In a modern GTM ecosystem built on asset‑driven flows, a central principle
-  emerges that traditional sales and marketing models fail to account for.
-  Liquidity is not merely a property of a market. I...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-intelligence-asset-based-liquidity-architecture
+title: "Systemic Architecture for GTM Liquidity"
+slug: "agentic-intelligence-asset-based-liquidity-architecture"
+description: "In a modern GTM ecosystem built on asset‑driven flows, a central principle emerges that traditional sales and marketing models fail to account for. Liquidity is not merely a property of a market. I..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-asset-based-liquidity-architecture/"
+meta_title: "Systemic Architecture for GTM Liquidity"
+meta_description: "In a modern GTM ecosystem built on asset‑driven flows, a central principle emerges that traditional sales and marketing models fail to account for. Liquidity is not merely a property of a market. I..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 In a modern GTM ecosystem built on asset‑driven flows, a central principle emerges that traditional sales and marketing models fail to account for. Liquidity is not merely a property of a market. It is the engineered outcome of how internal and external assets are structured, synchronized, and rendered consumable for both humans and autonomous systems. Market presence no longer results from activities but from the ownership of critical assets and the ability to circulate them through scalable distribution. This architecture enables a form of market control comparable to dominance without visible power projection. Within GTM organizations, this is fundamentally an engineering discipline, not a commercial one.
 
 ## Asset Profiles as Core Components in the GTM Infrastructure

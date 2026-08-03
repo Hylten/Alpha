@@ -1,11 +1,19 @@
 ---
 title: "AI-Driven Asset-Based Lending for Healthcare and Technology"
-description: Roials-Alpha operates within a narrow band of capital intelligence.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-driven-abl-the-new-liquidity-engine-for-healthcare-and-tech-capital
+slug: "ai-driven-abl-the-new-liquidity-engine-for-healthcare-and-tech-capital"
+description: "Roials-Alpha operates within a narrow band of capital intelligence."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-driven-abl-the-new-liquidity-engine-for-healthcare-and-tech-capital/"
+meta_title: "AI-Driven Asset-Based Lending for Healthcare and Technology"
+meta_description: "Roials-Alpha operates within a narrow band of capital intelligence."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 ### The Institutional Mechanics Behind Intelligent Liquidity
 
 Roials-Alpha operates within a narrow band of capital intelligence. The system is designed for precision, not scale. Liquidity engineering occurs at the intersection of asset hardening and institutional-grade risk transfer. The architecture does not serve markets - it anticipates them.

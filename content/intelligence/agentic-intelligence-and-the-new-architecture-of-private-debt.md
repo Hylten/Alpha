@@ -1,14 +1,19 @@
 ---
-title: 'Agentic GTM Intelligence: Re‑architecting Private Market Pipelines'
-description: >-
-  Private markets have reached a level of complexity that renders the
-  human‑centric GTM model obsolete. Manual acquisition, sequential pipelines,
-  linear sales structures, spreadsheet‑driven assumptio...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-intelligence-and-the-new-architecture-of-private-debt
+title: "Agentic GTM Intelligence: Re‑architecting Private Market Pipelines"
+slug: "agentic-intelligence-and-the-new-architecture-of-private-debt"
+description: "Private markets have reached a level of complexity that renders the human‑centric GTM model obsolete. Manual acquisition, sequential pipelines, linear sales structures, spreadsheet‑driven assumptio..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-and-the-new-architecture-of-private-debt/"
+meta_title: "Agentic GTM Intelligence: Re‑architecting Private Market Pipelines"
+meta_description: "Private markets have reached a level of complexity that renders the human‑centric GTM model obsolete. Manual acquisition, sequential pipelines, linear sales structures, spreadsheet‑driven assumptio..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 ## Overview: GTM as an Autonomous System
 
 Private markets have reached a level of complexity that renders the human‑centric GTM model obsolete. Manual acquisition, sequential pipelines, linear sales structures, spreadsheet‑driven assumptions, and CRMs functioning as passive storage cannot process the data density of the modern capital environment. Agentic systems therefore emerge not as tools but as structural governance. GTM becomes a distributed network of autonomous decision nodes executing continuous market intelligence, prioritization, qualification, orchestration, and synthetic expansion of deal flow. This section establishes the foundation for a GTM architecture in which pipeline is no longer a sequence but a self‑optimizing loop, a technical organism built on agentic intelligence rather than human process discipline.

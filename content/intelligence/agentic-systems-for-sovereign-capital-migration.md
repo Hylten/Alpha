@@ -1,11 +1,19 @@
 ---
-title: Agentic Systems for Sovereign Capital Migration
-description: The velocity of capital has moved beyond traditional intermediaries.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-systems-for-sovereign-capital-migration
+title: "Agentic Systems for Sovereign Capital Migration"
+slug: "agentic-systems-for-sovereign-capital-migration"
+description: "The velocity of capital has moved beyond traditional intermediaries."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-systems-for-sovereign-capital-migration/"
+meta_title: "Agentic Systems for Sovereign Capital Migration"
+meta_description: "The velocity of capital has moved beyond traditional intermediaries."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The architecture of global wealth is shifting. The velocity of capital has moved beyond traditional intermediaries. HNWI and UHNW operators now require direct control, autonomous execution, and precision liquidity without institutional drag. Roials-Alpha is the structural response.
 
 ## Why High Net Worth Operators Are Migrating to Agentic Systems

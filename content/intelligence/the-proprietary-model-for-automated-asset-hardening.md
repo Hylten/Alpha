@@ -1,13 +1,19 @@
 ---
 title: "The Proprietary Model for Automated Asset Hardening"
-description: >-
-  Roials-Alpha operates in a domain that few understand and even fewer can
-  architect.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-proprietary-model-for-automated-asset-hardening
+slug: "the-proprietary-model-for-automated-asset-hardening"
+description: "Roials-Alpha operates in a domain that few understand and even fewer can architect."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-proprietary-model-for-automated-asset-hardening/"
+meta_title: "The Proprietary Model for Automated Asset Hardening"
+meta_description: "Roials-Alpha operates in a domain that few understand and even fewer can architect."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Roials-Alpha operates in a domain that few understand and even fewer can architect. The model for Automated Asset Hardening functions as a controlled system engineered for precision monetization. It delivers institutional structure for High Net Worth and Ultra High Net Worth individuals without introducing institutional visibility. We design the mechanics. You retain the asymmetric advantage.
 
 ## The Architecture Behind Automated Asset Hardening

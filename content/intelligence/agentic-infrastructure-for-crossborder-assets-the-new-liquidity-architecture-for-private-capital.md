@@ -1,18 +1,18 @@
 ---
-title: >-
-  Agentic Infrastructure for Cross-border Assets: The GTM Architecture for
-  Private Capital
-description: >-
-  Cross‑border private capital is undergoing a structural inversion. The legacy
-  GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual
-  compliance—has reached terminal latency. The em...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: >-
-  agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital
+title: "Agentic Infrastructure for Cross-border Assets: The GTM Architecture for Private Capital"
+slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
+description: "Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual compliance—has reached terminal latency. The em..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital/"
+meta_title: "Agentic Infrastructure for Cross-border Assets: The GTM Architecture for Private Capital"
+meta_description: "Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual compliance—has reached terminal latency. The em..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Agentic Infrastructure for Cross-border Assets: The GTM Architecture for Private Capital  
 
 By Jonas Hyltén Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual compliance—has reached terminal latency. The emerging regime demands agentic infrastructure capable of synchronizing identity, eligibility, and distribution logic at machine speed. This architecture does not transport information; it executes intent and manufactures compliant market entry across borders.
 

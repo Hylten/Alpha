@@ -1,15 +1,18 @@
 ---
-title: >-
-  The Sovereign Ai: Building The Alpha Future Through Institutional-grade
-  Computational Infrastructure
-description: >-
-  A technical intelligence briefing on AI driven credit architecture,
-  algorithmic deal flow, and sovereign level capital optimization frameworks for
-  UHNWIs and institutional allocators.
-date: '2026-01-13'
-author: Jonas Hyltén
-slug: sovereign-ai-alpha-future
+title: "The Sovereign Ai: Building The Alpha Future Through Institutional-grade Computational Infrastructure"
+slug: "sovereign-ai-alpha-future"
+description: "A technical intelligence briefing on AI driven credit architecture, algorithmic deal flow, and sovereign level capital optimization frameworks for UHNWIs and institutional allocators."
+date: "2026-01-13"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/sovereign-ai-alpha-future/"
+meta_title: "The Sovereign Ai: Building The Alpha Future Through Institutional-grade Computational Infrastructure"
+meta_description: "A technical intelligence briefing on AI driven credit architecture, algorithmic deal flow, and sovereign level capital optimization frameworks for UHNWIs and institutional allocators."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 The structural dislocation in global capital markets is no longer defined by interest rate regimes or political oscillation. The dominant force is computational asymmetry. The entities that control the velocity, accuracy, and interpretive intelligence of data
 
 - not the volume of capital

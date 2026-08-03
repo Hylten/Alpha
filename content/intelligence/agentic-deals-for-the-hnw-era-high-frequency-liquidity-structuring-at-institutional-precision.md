@@ -1,13 +1,18 @@
 ---
-title: >-
-  Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at
-  Institutional Precision
-description: 'Agentic Deals for the HNW Era: High Frequency GTM-Structured Precision'
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: >-
-  agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision
+title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
+slug: "agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision"
+description: "Agentic Deals for the HNW Era: High Frequency GTM-Structured Precision"
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-deals-for-the-hnw-era-high-frequency-liquidity-structuring-at-institutional-precision/"
+meta_title: "Agentic Deals for the HNW Era: High Frequency Liquidity Structuring at Institutional Precision"
+meta_description: "Agentic Deals for the HNW Era: High Frequency GTM-Structured Precision"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 Agentic Deals for the HNW Era: High Frequency GTM-Structured Precision
 
 ## A New Infrastructure for Commercial Dominance

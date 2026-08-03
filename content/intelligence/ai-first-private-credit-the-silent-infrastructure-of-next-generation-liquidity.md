@@ -1,11 +1,18 @@
 ---
-title: "The Future of AI-First Private Credit"description: The private credit arena is undergoing a structural rewrite.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity
+title: "The Future of AI-First Private Credit"
+slug: "ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity"
+description: "The private credit arena is undergoing a structural rewrite."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-first-private-credit-the-silent-infrastructure-of-next-generation-liquidity/"
+meta_title: "The Future of AI-First Private Credit"
+meta_description: "The private credit arena is undergoing a structural rewrite."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The Future of AI-First Private Credit
 
 The private credit arena is undergoing a structural rewrite. The legacy model depended on manual underwriting, opaque risk books, and heuristic-driven human judgment. Operational drag has made that model obsolete. A new architecture is emerging. AI-first private credit. Automated, velocity-driven, structurally superior. Roials-Alpha operates in the silent tier where capital mechanics evolve before the market detects the shift. The future of private credit is programmatic. High net worth and ultra high net worth clients now demand institutional precision, machine-grade decisioning, and frictionless liquidity frameworks. This is the inflection point.
 

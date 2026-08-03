@@ -1,12 +1,18 @@
 ---
 title: "Autonomous Liquidity Management for High‑Frequency Family Offices"
-description: High-frequency wealth operations have reached a structural ceiling.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: autonomous-liquidity-management-for-high-frequency-family-offices
+slug: "autonomous-liquidity-management-for-high-frequency-family-offices"
+description: "High-frequency wealth operations have reached a structural ceiling."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/autonomous-liquidity-management-for-high-frequency-family-offices/"
+meta_title: "Autonomous Liquidity Management for High‑Frequency Family Offices"
+meta_description: "High-frequency wealth operations have reached a structural ceiling."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Autonomous Liquidity Management for High-Frequency Family Offices
 
 High-frequency wealth operations have reached a structural ceiling. Capital velocity now exceeds the supervisory capacity of human governance. Margins compress. Liquidity windows contract. Counterparty architectures fail to match execution tempo. Roials-Alpha enters precisely at the point where the human factor shifts from advantage to drag on performance. Our liquidity infrastructure does not negotiate with latency. It removes it.
 

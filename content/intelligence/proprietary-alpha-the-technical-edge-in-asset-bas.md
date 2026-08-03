@@ -1,13 +1,19 @@
 ---
-title: Proprietary Alpha
-description: >-
-  The technical edge in asset‑based finance is not derived from personality or
-  market optimism.
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: proprietary-alpha-the-technical-edge-in-asset-bas
+title: "Proprietary Alpha"
+slug: "proprietary-alpha-the-technical-edge-in-asset-bas"
+description: "The technical edge in asset‑based finance is not derived from personality or market optimism."
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/proprietary-alpha-the-technical-edge-in-asset-bas/"
+meta_title: "Proprietary Alpha"
+meta_description: "The technical edge in asset‑based finance is not derived from personality or market optimism."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The technical edge in asset‑based finance is not derived from personality or market optimism. It is a function of discipline. It is a function of stewardship. It is a function of systems built to withstand institutional scrutiny. Roials‑Alpha operates on a single governing principle. Move before markets register the opportunity. Extract value before liquidity becomes public. Lock covenant integrity before competitors detect the structure. This document defines the architecture that enables that posture.
 
 ## Architecture of Technical Dominance

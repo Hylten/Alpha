@@ -1,11 +1,19 @@
 ---
-title: The Next Epoch of Asset-Based Lending
-description: The next epoch of Asset-Based Lending is no longer analytical.
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: future-of-abl-from-analysis-to-autonomy
+title: "The Next Epoch of Asset-Based Lending"
+slug: "future-of-abl-from-analysis-to-autonomy"
+description: "The next epoch of Asset-Based Lending is no longer analytical."
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/future-of-abl-from-analysis-to-autonomy/"
+meta_title: "The Next Epoch of Asset-Based Lending"
+meta_description: "The next epoch of Asset-Based Lending is no longer analytical."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The next epoch of Asset-Based Lending is no longer analytical. Not procedural. Not human-led. It is autonomous. Code-defined. Systemic. Asset-Based Lending is shifting from manual underwriting to continuous verification. From episodic borrower engagement to perpetual observability. From credit committees to algorithmic sovereignty. Institutions that understand this shift early will fortify their balance sheets while competitors drown in latency. Those who delay will be priced out of relevance. The market has already signaled the direction. Volatility compresses. Liquidity bifurcates. Information asymmetry no longer delivers edge; execution asymmetry does. The Roials-Alpha thesis is direct: autonomous Asset-Based Lending becomes the dominant substrate of private credit once deal origination, collateral verification, and borrower monitoring detach from human bandwidth. The future belongs to Fund-III class entities engineered for computational throughput, jurisdictional arbitrage, and scalable collateral ingestion across energy, industrials, and real assets. Inheritance in the modern context is no longer capital. It is infrastructure. Systems. Structures that compound without fatigue. Autonomy ensures continuity. Below is the institutional brief.
 
 ## The Market Fracture

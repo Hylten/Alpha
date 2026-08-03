@@ -1,11 +1,19 @@
 ---
-title: The Alpha Vision for AI‑First Capital Management
-description: Capital accelerates when the human bottleneck is eliminated.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-alpha-vision-for-aifirst-capital-management
+title: "The Alpha Vision for AI‑First Capital Management"
+slug: "the-alpha-vision-for-aifirst-capital-management"
+description: "Capital accelerates when the human bottleneck is eliminated."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-alpha-vision-for-aifirst-capital-management/"
+meta_title: "The Alpha Vision for AI‑First Capital Management"
+meta_description: "Capital accelerates when the human bottleneck is eliminated."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 ## The Alpha Vision for AI-First Capital Management
 
 Capital does not merely flow - it accelerates when friction is engineered out of the system. The human bottleneck is not a philosophical constraint; it is a structural inefficiency. Roials Alpha eliminates it through agentic infrastructure designed for private capital markets where latency, opacity, and manual intervention are unacceptable. This is not a vision of incremental improvement. It is a rearchitecture of capital execution at the institutional level, built for operators who demand liquidity engineering without intermediation, asset hardening without disclosure, and asymmetric advantage without compromise.

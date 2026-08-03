@@ -1,11 +1,18 @@
 ---
-title: "Agentic Systems for Institutional Capital"description: Institutional capital has outpaced legacy infrastructure.
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity
+title: "Agentic Systems for Institutional Capital"
+slug: "agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity"
+description: "Institutional capital has outpaced legacy infrastructure."
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-systems-for-institutional-capital-the-new-architecture-of-liquidity/"
+meta_title: "Agentic Systems for Institutional Capital"
+meta_description: "Institutional capital has outpaced legacy infrastructure."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Agentic Systems for Institutional Capital
 
 Institutional capital has outpaced legacy infrastructure. It moves with greater velocity, expands across broader domains, and demands precision that manual desks, intermediaries, and outdated platforms cannot maintain. Roials-Alpha engineers the structural mechanics that support this transition. We operate at the intersection of autonomous infrastructure, private credit, and asset-backed frameworks. This is where agentic systems function as capital engines. This is where liquidity is not requested. It is orchestrated.
 

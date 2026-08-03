@@ -1,13 +1,19 @@
 ---
-title: The Alpha Framework for Agentic Intelligence
-description: >-
-  To give high net worth and ultra high net worth individuals structural
-  authority over liquidity.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-alpha-framework-for-agentic-intelligence
+title: "The Alpha Framework for Agentic Intelligence"
+slug: "the-alpha-framework-for-agentic-intelligence"
+description: "To give high net worth and ultra high net worth individuals structural authority over liquidity."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-alpha-framework-for-agentic-intelligence/"
+meta_title: "The Alpha Framework for Agentic Intelligence"
+meta_description: "To give high net worth and ultra high net worth individuals structural authority over liquidity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Roials-Alpha exists for a single mandate. To give high net worth and ultra high net worth individuals structural authority over liquidity. Not surface-level liquidity. Institutional-grade liquidity that commands capital flows. We operate inside private credit. We operate inside asset based Strategic Collateralization. We operate where leverage, custody, and credit modelling converge into asymmetric advantage. Our thresholds reflect that architecture. Crypto Capital Structuring begins at 2 million USD. Public Share Institutional Liquidity Paths begin at 5 million USD. Everything below this band belongs to consumer markets. Roials-Alpha is engineered exclusively for the top decile of global wealth. The Alpha Framework for Agentic Intelligence is the internal doctrine that drives the system. It is the hidden layer that converts capital into computation and computation into directional GTM liquidity.
 
 ## Why High Net Worth Capital Behaves Differently Inside the Alpha Framework

@@ -1,17 +1,18 @@
 ---
-title: >-
-  The New Standard for High-Performance GTM: Agentic Engineering as Market
-  Dominance
-description: >-
-  The prevailing GTM standard is structurally obsolete. Organizations continue
-  optimizing processes that no longer correspond to reality. They build
-  playbooks for humans while the market responds to ...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-infrastructure-the-new-standard-for-high
+title: "The New Standard for High-Performance GTM: Agentic Engineering as Market Dominance"
+slug: "agentic-infrastructure-the-new-standard-for-high"
+description: "The prevailing GTM standard is structurally obsolete. Organizations continue optimizing processes that no longer correspond to reality. They build playbooks for humans while the market responds to ..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-the-new-standard-for-high/"
+meta_title: "The New Standard for High-Performance GTM: Agentic Engineering as Market Dominance"
+meta_description: "The prevailing GTM standard is structurally obsolete. Organizations continue optimizing processes that no longer correspond to reality. They build playbooks for humans while the market responds to ..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The New Standard for High-Performance GTM: Agentic Engineering as Market Dominance
 
 ## Introduction: The Silent Revolution in Modern Go-to-Market
 

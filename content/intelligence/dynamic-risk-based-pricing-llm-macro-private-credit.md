@@ -1,10 +1,18 @@
 ---
-title: 'Layer C: apable of'
-description: Human‑only risk committees are drifting into irrelevance.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: dynamic-risk-based-pricing-llm-macro-private-credit
+title: "Layer C: apable of"
+slug: "dynamic-risk-based-pricing-llm-macro-private-credit"
+description: "Human‑only risk committees are drifting into irrelevance."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/dynamic-risk-based-pricing-llm-macro-private-credit/"
+meta_title: "Layer C: apable of"
+meta_description: "Human‑only risk committees are drifting into irrelevance."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 The shift is already underway. Fixed‑premium private credit is dying. Static underwriting is eroding. Human‑only risk committees are drifting into irrelevance. The firms that recognize this early-who treat risk as a dynamic, continuously updated variable rather than a one-time judgment-will own the next cycle of capital formation. Dynamic pricing wins. Static models lose. The frontier tilts. Private credit now moves in real time, and the only engine capable of reading volatility at the speed it emerges is an LLM trained not on headlines but on the structural pulses buried inside macroeconomic signals, sectoral balance sheets, geopolitical liquidity corridors, and borrower‑level operating telemetry. The breakthrough is simple: A price is no longer a snapshot. A price becomes a stream. This is the age of dynamic risk-based credit architecture.
 
 - SECURED BRIEFING The internal mechanics must be understood without ornamentation.

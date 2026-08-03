@@ -1,11 +1,19 @@
 ---
-title: The Systems Mandate
-description: 'Architecture for frictionless GTM liquidity is engineered, not discovered.'
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-systems-mandate-architecture-for-frictionless
+title: "The Systems Mandate"
+slug: "the-systems-mandate-architecture-for-frictionless"
+description: "Architecture for frictionless GTM liquidity is engineered, not discovered."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-systems-mandate-architecture-for-frictionless/"
+meta_title: "The Systems Mandate"
+meta_description: "Architecture for frictionless GTM liquidity is engineered, not discovered."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Architecture for frictionless GTM liquidity is engineered, not discovered. It emerges from asymmetric advantage, covenant-grade order, and systems that eliminate variance while enforcing institutional clarity. This mandate is not ideology. It is architecture.
 
 ## The Principal’s Lens

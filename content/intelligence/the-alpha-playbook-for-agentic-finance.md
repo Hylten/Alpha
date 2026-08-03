@@ -1,11 +1,18 @@
 ---
-title: "The Alpha Playbook for Agentic Finance"description: >-
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-alpha-playbook-for-agentic-finance
+title: "The Alpha Playbook for Agentic Finance"
+slug: "the-alpha-playbook-for-agentic-finance"
+description: "Agentic finance is not a trend. It is a structural upgrade to how liquidity is created, commanded, and cycled by operators who understand that capital velocity is a form of power. Roials Alpha operates inside that pow…"
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-alpha-playbook-for-agentic-finance/"
+meta_title: "The Alpha Playbook for Agentic Finance"
+meta_description: "Agentic finance is not a trend. It is a structural upgrade to how liquidity is created, commanded, and cycled by operators who understand that capital velocity is a form of power. Roials Alpha operates inside that pow…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The Alpha Playbook for Agentic Finance
 
 Agentic finance is not a trend. It is a structural upgrade to how liquidity is created, commanded, and cycled by operators who understand that capital velocity is a form of power. Roials Alpha operates inside that power strata. We do not broadcast. We architect. We construct agentic infrastructure for individuals who operate beyond standard market narratives and who treat capital as an engineered system rather than an event. Our ecosystem is built for High Net Worth and Ultra High Net Worth operators who require infrastructure that responds at the speed of autonomous decision systems rather than the drag of legacy institutions.
 

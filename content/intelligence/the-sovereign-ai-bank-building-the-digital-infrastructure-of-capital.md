@@ -1,11 +1,18 @@
 ---
-title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"description: The future of wealth is not managed. It is computed.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital
+title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"
+slug: "the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital"
+description: "The future of wealth is not managed. It is computed."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-sovereign-ai-bank-building-the-digital-infrastructure-of-capital/"
+meta_title: "The Sovereign AI Bank: Building the Digital Infrastructure of Capital"
+meta_description: "The future of wealth is not managed. It is computed."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# The Sovereign AI Bank: Constructing the Digital Infrastructure of Capital
 
 The future of wealth is not managed. It is computed. The Sovereign AI Bank establishes a new class of capital architecture where liquidity is engineered, credit flow is algorithmic, and capital movement is executed through precision-grade computation rather than administrative approval. High net worth and ultra‑high net worth operators now function inside a financial topology defined by velocity, privacy, and strategic autonomy. Roials Alpha constructs the agentic infrastructure that enables this class to mobilize capital with institutional force and asymmetric advantage. This is the sovereign layer. A fully agentic capital stack. A governance‑free liquidity engine.
 

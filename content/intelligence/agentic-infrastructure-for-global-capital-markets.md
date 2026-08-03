@@ -1,17 +1,18 @@
 ---
-title: >-
-  Agentic Infrastructure for Global Capital Markets: Engineering Proprietary
-  Deal Flow
-description: >-
-  Global capital market systems were architected for compliance, archiving, and
-  reporting rather than autonomous origination. The resulting degradation is
-  systemic:
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-infrastructure-for-global-capital-markets
+title: "Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow"
+slug: "agentic-infrastructure-for-global-capital-markets"
+description: "Global capital market systems were architected for compliance, archiving, and reporting rather than autonomous origination. The resulting degradation is systemic:"
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-for-global-capital-markets/"
+meta_title: "Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow"
+meta_description: "Global capital market systems were architected for compliance, archiving, and reporting rather than autonomous origination. The resulting degradation is systemic:"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Agentic Infrastructure for Global Capital Markets: Engineering Proprietary Deal Flow  
 
 Author: Jonas Hyltén
 

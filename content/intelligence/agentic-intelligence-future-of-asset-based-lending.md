@@ -1,14 +1,19 @@
 ---
-title: 'The Future of Asset-Based GTM: Orchestrating Autonomous Market Machines'
-description: >-
-  Traditional GTM operations relied on human coordination, campaign-driven
-  initiatives, and manually owned processes. This model is no longer
-  competitive. The structural shift is that GTM has transit...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-intelligence-future-of-asset-based-lending
+title: "The Future of Asset-Based GTM: Orchestrating Autonomous Market Machines"
+slug: "agentic-intelligence-future-of-asset-based-lending"
+description: "Traditional GTM operations relied on human coordination, campaign-driven initiatives, and manually owned processes. This model is no longer competitive. The structural shift is that GTM has transit..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-future-of-asset-based-lending/"
+meta_title: "The Future of Asset-Based GTM: Orchestrating Autonomous Market Machines"
+meta_description: "Traditional GTM operations relied on human coordination, campaign-driven initiatives, and manually owned processes. This model is no longer competitive. The structural shift is that GTM has transit..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 ## The New Logic: GTM as an Engineering Discipline
 
 Traditional GTM operations relied on human coordination, campaign-driven initiatives, and manually owned processes. This model is no longer competitive. The structural shift is that GTM has transitioned from an operational function to an engineering problem. As the cost of data, computation, and automation rapidly declines, an asymmetry emerges between organizations that build autonomous GTM systems and those that remain activity-driven. The core principle is that GTM is no longer defined by activity but by assets. Each asset becomes a micro-organizational system with its own feedback loops, its own triggers, and its own output. These assets are built, versioned, tested, and improved like software. The distinction is that they do more than execute logic; they interact directly with the market. GTM therefore becomes machine-designed market flows that continuously optimize themselves. Organizations that complete this transition will be able to predict demand, scale without scaling cost, and create structural advantages that are extremely difficult to replicate.

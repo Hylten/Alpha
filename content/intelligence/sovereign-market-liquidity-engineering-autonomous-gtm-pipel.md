@@ -1,17 +1,18 @@
 ---
-title: >-
-  Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for
-  High-Velocity Capital
-description: >-
-  Sovereign liquidity is no longer a macroeconomic phenomenon. It is an
-  engineering discipline. Markets are defined not by actors but by systems, and
-  systems are defined not by strategies but by prot...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: sovereign-market-liquidity-engineering-autonomous-gtm-pipel
+title: "Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for High-Velocity Capital"
+slug: "sovereign-market-liquidity-engineering-autonomous-gtm-pipel"
+description: "Sovereign liquidity is no longer a macroeconomic phenomenon. It is an engineering discipline. Markets are defined not by actors but by systems, and systems are defined not by strategies but by prot..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/sovereign-market-liquidity-engineering-autonomous-gtm-pipel/"
+meta_title: "Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for High-Velocity Capital"
+meta_description: "Sovereign liquidity is no longer a macroeconomic phenomenon. It is an engineering discipline. Markets are defined not by actors but by systems, and systems are defined not by strategies but by prot..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Sovereign Market Liquidity: Engineering Autonomous GTM Pipelines for High-Velocity Capital
 
 ## Introduction: Toward an Autonomous Market Architecture
 

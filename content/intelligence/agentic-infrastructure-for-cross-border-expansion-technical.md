@@ -1,17 +1,18 @@
 ---
-title: >-
-  Agentic Infrastructure for Cross‑Border Expansion: Technical Protocols for
-  Multijurisdictional Growth
-description: >-
-  Cross‑border expansion is no longer a matter of geographic scaling but of
-  modularized capability export. Modern organizations do not merely deliver
-  products and services; they distribute autonomous...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-infrastructure-for-cross-border-expansion-technical
+title: "Agentic Infrastructure for Cross‑Border Expansion: Technical Protocols for Multijurisdictional Growth"
+slug: "agentic-infrastructure-for-cross-border-expansion-technical"
+description: "Cross‑border expansion is no longer a matter of geographic scaling but of modularized capability export. Modern organizations do not merely deliver products and services; they distribute autonomous..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-for-cross-border-expansion-technical/"
+meta_title: "Agentic Infrastructure for Cross‑Border Expansion: Technical Protocols for Multijurisdictional Growth"
+meta_description: "Cross‑border expansion is no longer a matter of geographic scaling but of modularized capability export. Modern organizations do not merely deliver products and services; they distribute autonomous..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Agentic Infrastructure for Cross‑Border Expansion: Technical Protocols for Multijurisdictional Growth
 
 ## Operationalizing Agentic Capacity in Multinational Environments
 

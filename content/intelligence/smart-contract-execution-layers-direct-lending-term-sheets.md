@@ -1,13 +1,19 @@
 ---
-title: Precision Architecture for Direct‑Lending Execution
-description: >-
-  Smart‑contract execution layers convert direct‑lending from human bottlenecks
-  into a self‑enforcing architecture.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: smart-contract-execution-layers-direct-lending-term-sheets
+title: "Precision Architecture for Direct‑Lending Execution"
+slug: "smart-contract-execution-layers-direct-lending-term-sheets"
+description: "Smart‑contract execution layers convert direct‑lending from human bottlenecks into a self‑enforcing architecture."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/smart-contract-execution-layers-direct-lending-term-sheets/"
+meta_title: "Precision Architecture for Direct‑Lending Execution"
+meta_description: "Smart‑contract execution layers convert direct‑lending from human bottlenecks into a self‑enforcing architecture."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Precision defines the domain. Smart‑contract execution layers convert direct‑lending from human bottlenecks into a self‑enforcing architecture. No romance. No myth. Only clarity, velocity, and programmable enforcement. The opportunity is direct: encode the economic logic of a term sheet into an execution layer that never sleeps, never forgets, and never negotiates with inefficiency. Direct‑lending becomes a living system rather than a static document bound by emails and PDFs. Families that grasp this take structural lead. Everyone else negotiates with avoidable delays. Machine‑gun clarity. Speed wins. Precision compounds. This is the brief.
 
 ## Phase I: Vault‑Secured Architecture

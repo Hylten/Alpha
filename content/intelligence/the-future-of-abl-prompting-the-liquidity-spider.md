@@ -1,11 +1,19 @@
 ---
-title: 'The Future of Asset-Based Lending: Prompting the Liquidity Spider'
-description: Asset-Based Strategic Collateralization is no longer a static structure.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-future-of-abl-prompting-the-liquidity-spider
+title: "The Future of Asset-Based Lending: Prompting the Liquidity Spider"
+slug: "the-future-of-abl-prompting-the-liquidity-spider"
+description: "Asset-Based Strategic Collateralization is no longer a static structure."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-future-of-abl-prompting-the-liquidity-spider/"
+meta_title: "The Future of Asset-Based Lending: Prompting the Liquidity Spider"
+meta_description: "Asset-Based Strategic Collateralization is no longer a static structure."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Asset-Based Strategic Collateralization is no longer a static structure. It is no longer a ledger locked inside legacy underwriting. It is no longer a negotiation between borrower and capital. It has become a dynamic intelligence layer that listens, reacts, and reallocates in real time. Asset-Based Lending is evolving into a liquidity spider. A distributed cognitive system that triangulates value across private credit, off‑market assets, public equity positions, and digital collateral architectures. Roials‑Alpha sits inside this transition with principal authority. We do not announce change. We engineer the Agentic Infrastructure behind it.
 
 ## The New Intelligence Layer of Asset-Based Institutional Liquidity Paths

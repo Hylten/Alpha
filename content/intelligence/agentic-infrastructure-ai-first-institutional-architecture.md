@@ -1,17 +1,18 @@
 ---
-title: >-
-  Agentic Infrastructure: AI-First Institutional Architecture for Sovereign
-  Capital
-description: >-
-  A silent but structurally disruptive shift is transforming how nations
-  organize their economic instruments, information systems, and strategic
-  assets. Where twentieth‑century institutions were buil...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-infrastructure-ai-first-institutional-architecture
+title: "Agentic Infrastructure: AI-First Institutional Architecture for Sovereign Capital"
+slug: "agentic-infrastructure-ai-first-institutional-architecture"
+description: "A silent but structurally disruptive shift is transforming how nations organize their economic instruments, information systems, and strategic assets. Where twentieth‑century institutions were buil..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-ai-first-institutional-architecture/"
+meta_title: "Agentic Infrastructure: AI-First Institutional Architecture for Sovereign Capital"
+meta_description: "A silent but structurally disruptive shift is transforming how nations organize their economic instruments, information systems, and strategic assets. Where twentieth‑century institutions were buil..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Agentic Infrastructure: AI-First Institutional Architecture for Sovereign Capital
 
 ## Introduction: The Agentic Reconfiguration of Capital Power
 

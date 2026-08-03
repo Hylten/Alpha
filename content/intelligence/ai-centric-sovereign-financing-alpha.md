@@ -1,13 +1,19 @@
 ---
-title: The Capital Vacuum
-description: >-
-  The capital vacuum in global sovereign finance is no longer defined by rate
-  cycles or geopolitical volatility.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-centric-sovereign-financing-alpha
+title: "The Capital Vacuum"
+slug: "ai-centric-sovereign-financing-alpha"
+description: "The capital vacuum in global sovereign finance is no longer defined by rate cycles or geopolitical volatility."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-centric-sovereign-financing-alpha/"
+meta_title: "The Capital Vacuum"
+meta_description: "The capital vacuum in global sovereign finance is no longer defined by rate cycles or geopolitical volatility."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The capital vacuum in global sovereign finance is no longer defined by rate cycles or geopolitical volatility. The structural gap is driven by computational asymmetry. Major allocators now compete not on capital availability but on the velocity and precision of intelligence formation. In 2026 the dominant source of alpha creation emerges from AI centric credit architectures that compress underwriting timelines, eliminate friction, and realign risk transfer between sovereign borrowers and institutional private credit structures. This briefing outlines the regime shift, the technical mechanics of AI based sovereign financing, the partnership architecture Roials Capital deploys for institutional navigation, and the stewardship philosophy that governs capital deployment in this computational epoch.
 
 ## Phase I: The Regime Shift — Sovereign Financing in a Computational World

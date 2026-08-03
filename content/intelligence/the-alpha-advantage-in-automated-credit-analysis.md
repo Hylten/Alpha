@@ -1,13 +1,19 @@
 ---
 title: "The Alpha Advantage in Automated Credit Analysis"
-description: >-
-  Precision in credit evaluation is now the primary divider between legacy
-  lenders and future-native capital allocators.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: the-alpha-advantage-in-automated-credit-analysis
+slug: "the-alpha-advantage-in-automated-credit-analysis"
+description: "Precision in credit evaluation is now the primary divider between legacy lenders and future-native capital allocators."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/the-alpha-advantage-in-automated-credit-analysis/"
+meta_title: "The Alpha Advantage in Automated Credit Analysis"
+meta_description: "Precision in credit evaluation is now the primary divider between legacy lenders and future-native capital allocators."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 Precision in credit evaluation is not a competitive edge - it is the foundational divider between legacy lenders and future-native capital allocators. High-net-worth individuals (HNWI) and ultra-high-net-worth (UHNW) operators recognize this asymmetry as a structural inefficiency, not a transient market condition. They observe the latency embedded in conventional underwriting cycles, the persistent liquidity drag, and the absence of institutional-grade execution at scale. Roials Alpha is engineered to eliminate that drag through an autonomous, infrastructure-first architecture that embeds measurable Alpha into every credit decision. This is not a refinement of existing systems; it is a redefinition of credit infrastructure for private capital markets.
 
 ## Agentic Infrastructure: The Core of Asymmetric Advantage

@@ -1,12 +1,18 @@
 ---
-title: 'Introduction: The New GTM Order'
-description: >-
-  AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for
-  Global Dominance
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: ai-first-gtm-infrastructure-orchestrating-autonomous-market
+title: "Introduction: The New GTM Order"
+slug: "ai-first-gtm-infrastructure-orchestrating-autonomous-market"
+description: "AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for Global Dominance"
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/ai-first-gtm-infrastructure-orchestrating-autonomous-market/"
+meta_title: "Introduction: The New GTM Order"
+meta_description: "AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for Global Dominance"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 AI-First GTM Infrastructure: Orchestrating Autonomous Market Machines for Global Dominance
 
 ## Introduction: The New GTM Order

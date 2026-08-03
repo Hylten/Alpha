@@ -1,12 +1,18 @@
 ---
-title: "Autonomous Systems for Multi-Asset Asset-Based Lending"description: >-
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: >-
-  autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit
+title: "Autonomous Systems for Multi-Asset Asset-Based Lending"
+slug: "autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit"
+description: "The architecture of credit is restructuring around precision movement rather than capital possession. The asymmetric advantage is now held by those who can mobilize capital with mechanical accuracy. Institutional velo…"
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/autonomous-systems-for-multiasset-abl-the-new-architecture-of-intelligent-credit/"
+meta_title: "Autonomous Systems for Multi-Asset Asset-Based Lending"
+meta_description: "The architecture of credit is restructuring around precision movement rather than capital possession. The asymmetric advantage is now held by those who can mobilize capital with mechanical accuracy. Institutional velo…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Autonomous Systems for Multi‑Asset Asset‑Based Lending
 
 The architecture of credit is restructuring around precision movement rather than capital possession. The asymmetric advantage is now held by those who can mobilize capital with mechanical accuracy. Institutional velocity emerges from information flow, risk computation, and execution latency—now automated at the structural level. Autonomous systems operate as the agentic infrastructure beneath multi‑asset Asset‑Based Lending, generating GTM liquidity with consistency unattainable by human desks. Roials Alpha functions within this layer, supplying the invisible infrastructure that enables high‑net‑worth and ultra‑high‑net‑worth capital to expand leverage without exposing strategic intent.
 

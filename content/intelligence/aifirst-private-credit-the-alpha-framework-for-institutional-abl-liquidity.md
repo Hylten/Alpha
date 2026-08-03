@@ -1,14 +1,18 @@
 ---
 title: "AI-First Private Credit: The Alpha Framework for Institutional Asset-Based"
-description: >-
-  Human brokerage and legacy underwriting heuristics no longer define the
-  capital stack.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity
+slug: "aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity"
+description: "Human brokerage and legacy underwriting heuristics no longer define the capital stack."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/aifirst-private-credit-the-alpha-framework-for-institutional-abl-liquidity/"
+meta_title: "AI-First Private Credit: The Alpha Framework for Institutional Asset-Based"
+meta_description: "Human brokerage and legacy underwriting heuristics no longer define the capital stack."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# AI‑First Private Credit: The Alpha Framework for Institutional Asset-Based Lending
 
 The architecture of private credit has entered a phase transition. Legacy systems - built on human brokerage, static underwriting heuristics, and linear liquidity pipelines - are being displaced by agentic infrastructure designed for machine-scale execution. This shift is not incremental; it is structural. The capital stack now operates within a domain where liquidity efficiency, risk resolution, and collateral intelligence are governed by computational systems capable of non-linear optimization. Roials-Alpha’s Alpha Framework is engineered to function natively within this domain, delivering institutional-grade asset-based lending (ABL) without the friction, latency, or opacity of traditional structures.
 

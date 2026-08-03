@@ -1,17 +1,18 @@
 ---
-title: >-
-  AI-First GTM Stack: Agentic Infrastructure as the Sovereign Operating System
-  for 2026
-description: >-
-  2026 marks the definitive shift from traditional Go-To-Market planning to an
-  automated, agentic ecosystem of technical pipelines, proprietary data
-  channels, and decision engines that continuously o...
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-infrastructure-ai-first
+title: "AI-First GTM Stack: Agentic Infrastructure as the Sovereign Operating System for 2026"
+slug: "agentic-infrastructure-ai-first"
+description: "2026 marks the definitive shift from traditional Go-To-Market planning to an automated, agentic ecosystem of technical pipelines, proprietary data channels, and decision engines that continuously o..."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-ai-first/"
+meta_title: "AI-First GTM Stack: Agentic Infrastructure as the Sovereign Operating System for 2026"
+meta_description: "2026 marks the definitive shift from traditional Go-To-Market planning to an automated, agentic ecosystem of technical pipelines, proprietary data channels, and decision engines that continuously o..."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# AI-First GTM Stack: Agentic Infrastructure as the Sovereign Operating System for 2026
 
 ## Why GTM 2026 Is an Infrastructure Problem, Not a Campaign Problem
 

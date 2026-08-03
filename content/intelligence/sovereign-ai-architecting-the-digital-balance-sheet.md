@@ -1,11 +1,18 @@
 ---
-title: "Sovereign AI: Architecting the Digital Balance Sheet"description: >-
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: sovereign-ai-architecting-the-digital-balance-sheet
+title: "Sovereign AI: Architecting the Digital Balance Sheet"
+slug: "sovereign-ai-architecting-the-digital-balance-sheet"
+description: "Sovereign AI is no longer a frontier concept. It is the operating system for capital defense, capital velocity, and capital autonomy. For high-net-worth and ultra-high-net-worth decision makers, the balance sheet is n…"
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/sovereign-ai-architecting-the-digital-balance-sheet/"
+meta_title: "Sovereign AI: Architecting the Digital Balance Sheet"
+meta_description: "Sovereign AI is no longer a frontier concept. It is the operating system for capital defense, capital velocity, and capital autonomy. For high-net-worth and ultra-high-net-worth decision makers, the balance sheet is n…"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# Sovereign AI: Architecting the Digital Balance Sheet
 
 Sovereign AI is no longer a frontier concept. It is the operating system for capital defense, capital velocity, and capital autonomy. For high-net-worth and ultra-high-net-worth decision makers, the balance sheet is no longer a static artifact. It is an instrument. It is a machine. It is a continuously learning organism that reallocates liquidity across jurisdictions, asset classes, and risk configurations with precision. Roials-Alpha builds the mechanical layer that enables this architecture. We operate quietly. We operate structurally. We operate where institutional capital is engineered, not advertised. This document outlines the trade architecture behind Sovereign AI and why digital balance sheets are becoming the dominant standard for elite private capital.
 

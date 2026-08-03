@@ -1,13 +1,19 @@
 ---
-title: The Convergence Begins
-description: >-
-  The convergence initiated when information density surpassed human processing
-  velocity.
-date: '2026-04-30'
-author: Jonas Hyltén
-slug: convergent-diligence-ai-risk-engines
+title: "The Convergence Begins"
+slug: "convergent-diligence-ai-risk-engines"
+description: "The convergence initiated when information density surpassed human processing velocity."
+date: "2026-04-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/convergent-diligence-ai-risk-engines/"
+meta_title: "The Convergence Begins"
+meta_description: "The convergence initiated when information density surpassed human processing velocity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The convergence initiated when information density surpassed human processing velocity. Private equity diligence was architected for human tempo. Teams, memos, data rooms, checklists, site visits. Efficient under legacy norms, but slow relative to modern transaction velocity. The gap was structural. The gap demanded redesign. The gap made an AI‑first diligence engine inevitable. The Principal recognizes a single governing law. Friction destroys momentum. Momentum defines valuation. Intelligence, when architected for compounding, generates asymmetric advantage. So we built for compounding. We built engines, not workflows. I will frame the architecture with precision. Short line. Direct intent. No wasted signal. This is Roials‑Alpha.
 
 ## Phase One

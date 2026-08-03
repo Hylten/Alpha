@@ -1,11 +1,19 @@
 ---
 title: "Proprietary Tech Stacks for Institutional Deal Origination"
-description: The current liquidity environment rewards discipline.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: proprietary-tech-stacks-for-institutional-deal-ori
+slug: "proprietary-tech-stacks-for-institutional-deal-ori"
+description: "The current liquidity environment rewards discipline."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/proprietary-tech-stacks-for-institutional-deal-ori/"
+meta_title: "Proprietary Tech Stacks for Institutional Deal Origination"
+meta_description: "The current liquidity environment rewards discipline."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The current liquidity environment rewards discipline. It rewards clarity. It rewards covenant-grade execution engineered through intelligence rather than sentiment. Institutional capital does not seek noise. It seeks systems that produce repeatable asymmetry. The objective is singular. Engineer origination velocity without compromising the mandate of stewardship, prudence, and responsibility over entrusted capital. This is the doctrine. This is the architecture.
 
 ## The Principal Position

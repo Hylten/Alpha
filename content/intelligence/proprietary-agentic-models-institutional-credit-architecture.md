@@ -1,13 +1,19 @@
 ---
-title: The Structural Gap
-description: >-
-  The structural gap shaping North American private credit is not a function of
-  opportunity scarcity.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: proprietary-agentic-models-institutional-credit-architecture
+title: "The Structural Gap"
+slug: "proprietary-agentic-models-institutional-credit-architecture"
+description: "The structural gap shaping North American private credit is not a function of opportunity scarcity."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/proprietary-agentic-models-institutional-credit-architecture/"
+meta_title: "The Structural Gap"
+meta_description: "The structural gap shaping North American private credit is not a function of opportunity scarcity."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
+
 The structural gap shaping North American private credit is not a function of opportunity scarcity. It is a function of operational latency embedded in legacy underwriting systems engineered for a pre‑autonomous era. The velocity at which sub‑institutional operators generate asset‑backed deal flow now surpasses the throughput of human‑centric diligence pipelines. This expanding divergence between opportunity creation and underwriting capacity defines the frontier of proprietary agentic models.
 
 ## The Regime Shift

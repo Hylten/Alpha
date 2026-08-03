@@ -1,14 +1,18 @@
 ---
-title: >-
-  Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal
-  Outreach
-description: >-
-  Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal
-  Outreach
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: agentic-intelligence-for-complex-ma-liquidity
+title: "Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal Outreach"
+slug: "agentic-intelligence-for-complex-ma-liquidity"
+description: "Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal Outreach"
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-intelligence-for-complex-ma-liquidity/"
+meta_title: "Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal Outreach"
+meta_description: "Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal Outreach"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 Agentic GTM Intelligence for Complex Market Entry: Engineering for High-Signal Outreach
 
 ## Why Traditional GTM Dies in Complex Markets

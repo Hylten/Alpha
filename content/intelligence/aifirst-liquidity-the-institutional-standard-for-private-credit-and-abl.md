@@ -1,11 +1,18 @@
 ---
-title: "AI-First Liquidity: The New Standard"description: Institutional capital no longer reacts.   It anticipates.
-date: '2026-03-26'
-author: Jonas Hyltén
-slug: aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl
+title: "AI-First Liquidity: The New Standard"
+slug: "aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl"
+description: "Institutional capital no longer reacts.   It anticipates."
+date: "2026-03-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Alpha/intelligence/aifirst-liquidity-the-institutional-standard-for-private-credit-and-abl/"
+meta_title: "AI-First Liquidity: The New Standard"
+meta_description: "Institutional capital no longer reacts.   It anticipates."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 re-architected: true
 ---
-# AI-First Liquidity: The New Standard
 
 The market has entered a new operational regime. Liquidity is no longer sourced; it is computed. Institutional capital no longer reacts. It anticipates. Only systems built on AI-first mechanics can match that cadence. Roials-Alpha operates inside that velocity layer. Quietly. Precisely. Without friction. Liquidity is not a commodity. Liquidity is an operating advantage. HNWI and UHNW operators require accelerated access to capital. Today, those paths are defined by algorithmic intelligence, not human speed. This is the era of AI-first liquidity.
 
