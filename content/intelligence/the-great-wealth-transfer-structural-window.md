@@ -99,11 +99,17 @@ Consolidation in the region is active. Strategic buyers and private equity firms
 
 ## The Signal Advantage
 
-The stack delivers its advantage through temporal positioning. A seller signal detected in week two produces an outreach in week three. The broker learns of the mandate in week forty. The buyer with the stack negotiates against an owner, not against a process.
+The stack delivers its advantage through temporal positioning. A seller signal detected in week two produces an outreach in week three. The broker learns of the mandate in week forty.
 
-The advantage compounds across the pipeline. Every logged signal improves the ranking model. Every conversation improves the outreach angle. Every closed deal funds the next iteration of the stack.
+The buyer with the stack negotiates against an owner, not against a process.
 
-The compounding is the moat. A broker network is finite and relationship-bound. The stack scales with compute and improves with data. The gap widens with each quarter the competitor waits.
+The advantage compounds across the pipeline. Every logged signal improves the ranking model. Every conversation improves the outreach angle.
+
+Every closed deal funds the next iteration of the stack.
+
+The compounding is the moat. A broker network is finite and relationship-bound. The stack scales with compute and improves with data.
+
+The gap widens with each quarter the competitor waits.
 
 ## The Institutional Angle
 
