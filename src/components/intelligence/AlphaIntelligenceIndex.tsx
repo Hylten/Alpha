@@ -7,8 +7,9 @@ const getPosts = () => {
     return Object.entries(postsGlob).map(([filepath, content]) => {
         const rawMarkdown = (content as { default: string }).default;
         const { meta } = resolveArticleMeta(rawMarkdown, filepath);
+        if (meta && (meta as any).draft === true) return null;
         return meta;
-    }).sort((a, b) => {
+    }).filter((p): p is NonNullable<typeof p> => p !== null).sort((a, b) => {
         const dateA = new Date(a.date).getTime();
         const dateB = new Date(b.date).getTime();
         if (Number.isNaN(dateA)) return 1;

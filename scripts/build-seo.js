@@ -80,6 +80,7 @@ async function generateSEO() {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
         const { data, content: body } = matter(rawContent);
+    if (data.draft === true) continue;
         const slug = data.slug || file.replace('.md', '');
 
         const polish = (v) => String(v || '').replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM').trim();
@@ -141,6 +142,7 @@ async function generateSEO() {
         const filePath = path.join(CONTENT_DIR, file);
         const rawContent = fs.readFileSync(filePath, 'utf8');
         const { data, content } = matter(rawContent);
+    if (data.draft === true) continue;
 
         const slug = data.slug || file.replace('.md', '');
         const polish = (v) => String(v || '').replace(/>-\s*/g, '').replace(/\bAi\b/g, 'AI').replace(/\bGtm\b/g, 'GTM').replace(/\bAbl\b/g, 'ABL').replace(/\bHnw\b/g, 'HNW').replace(/\bUhnw\b/g, 'UHNW').replace(/\bPe\b/g, 'PE').replace(/\bLlms?\b/gi, 'LLM').trim();

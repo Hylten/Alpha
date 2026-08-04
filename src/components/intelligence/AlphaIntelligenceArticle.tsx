@@ -26,6 +26,7 @@ export const AlphaIntelligenceArticle: React.FC<AlphaIntelligenceArticleProps> =
                 for (const [filepath, fileContent] of Object.entries(postsGlob)) {
                     const rawMarkdown = (fileContent as { default: string }).default;
                     const { meta, content: markdownBody } = resolveArticleMeta(rawMarkdown, filepath);
+                    if (meta && (meta as any).draft === true) continue;
 
                     posts.push({
                         slug: meta.slug,
