@@ -34,7 +34,7 @@ Institutional-grade credit mechanics are usually locked behind bureaucracy. The 
 
 ## Crypto Capital Structuring with Institutional Precision
 
-Crypto institutional liquidity paths are often either excessively conservative or irresponsibly aggressive. Our position is engineered. We lend against crypto with a minimum threshold of 2,000,000. This threshold enables institutional-scale AI operations. Deep liquidity mapping. Real-time volatility analysis. Dynamic stress testing. Surgical liquidation modeling. Every position is continuously evaluated. Risk becomes a live, adaptive sequence—not a month‑end calculation. This is how institutional alpha is secured in an asset class that moves in seconds.
+Crypto institutional liquidity paths are often either excessively conservative or irresponsibly aggressive. Our position is engineered. We lend against crypto with a minimum threshold of 2,000,000. This threshold enables institutional-scale AI operations. Deep liquidity mapping. Real-time volatility analysis. Dynamic stress testing. Surgical liquidation modeling. Every position is continuously evaluated. Risk becomes a live, adaptive sequence, not a month‑end calculation. This is how institutional alpha is secured in an asset class that moves in seconds.
 
 ## Public Share Capital Structuring for Strategic Capital
 
@@ -54,7 +54,7 @@ Private credit is the most misunderstood component of wealth architecture. It is
 
 ## Collateral Sovereignty
 
-Your assets must not trap liquidity. Your liquidity must not constrain opportunity. AI constructs the bridge that frees static value. This is collateral sovereignty—full structural leverage over your balance sheet. This is where the wealthy evolve into capital architects.
+Your assets must not trap liquidity. Your liquidity must not constrain opportunity. AI constructs the bridge that frees static value. This is collateral sovereignty, full structural leverage over your balance sheet. This is where the wealthy evolve into capital architects.
 
 ## How AI Builds a Forward-Looking Balance Sheet
 
@@ -62,7 +62,7 @@ Traditional balance sheets are frozen artifacts. AI transforms them into predict
 
 ## The New Hierarchy of Capital
 
-A bifurcated system is emerging. One group relies on traditional banking—slow, manual, restrictive. The other operates with AI-driven liquidity engines—fast, precise, adaptive. The second group becomes the capital elite. HNWI and UHNW clients who adopt AI‑first capital structuring will not merely outperform. They will outmaneuver. The market rewards the first mover.
+A bifurcated system is emerging. One group relies on traditional banking, slow, manual, restrictive. The other operates with AI-driven liquidity engines, fast, precise, adaptive. The second group becomes the capital elite. HNWI and UHNW clients who adopt AI‑first capital structuring will not merely outperform. They will outmaneuver. The market rewards the first mover.
 
 ## Risk as Calculated Precision
 

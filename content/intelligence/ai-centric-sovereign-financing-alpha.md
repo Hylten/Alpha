@@ -16,7 +16,7 @@ re-architected: true
 
 The capital vacuum in global sovereign finance is no longer defined by rate cycles or geopolitical volatility. The structural gap is driven by computational asymmetry. Major allocators now compete not on capital availability but on the velocity and precision of intelligence formation. In 2026 the dominant source of alpha creation emerges from AI centric credit architectures that compress underwriting timelines, eliminate friction, and realign risk transfer between sovereign borrowers and institutional private credit structures. This briefing outlines the regime shift, the technical mechanics of AI based sovereign financing, the partnership architecture Roials Capital deploys for institutional navigation, and the stewardship philosophy that governs capital deployment in this computational epoch.
 
-## Phase I: The Regime Shift — Sovereign Financing in a Computational World
+## Phase I: The Regime Shift ,  Sovereign Financing in a Computational World
 
 The global sovereign financing landscape has entered a technical realignment. The previous cycle was defined by liquidity expansion, rate suppression, and dollar hegemony. The current cycle is defined by:
 
@@ -32,7 +32,7 @@ The global sovereign financing landscape has entered a technical realignment. Th
 
 These forces have created a structural liquidity deficit. Sovereigns require capital injections at a velocity large institutions cannot match. Traditional underwriting cycles operate on 9 to 18‑month windows. AI centric sovereign financing systems operate on compressed 14 to 40‑day cycles. This time differential generates computational arbitrage. The sovereign gains speed. The allocator gains structural optionality. The intermediary gains predictive visibility into sovereign cash flow behavior. For the first time in modern credit, the highest value asset is no longer capital. It is the ability to model sovereign behavior, risk migration patterns, commodity revenue stability, cross border payment flows, and regulatory drift in real time.
 
-## Phase II: Technical Mechanics — AI First Sovereign Credit Architecture
+## Phase II: Technical Mechanics ,  AI First Sovereign Credit Architecture
 
 AI driven sovereign financing is not fintech extension. It is a full reengineering of the underwriting stack. The architecture operates across four verticals.
 
@@ -96,7 +96,7 @@ The liquidity engine models sovereign behavior under fiscal stress. This include
 
 The output is a calibrated liquidity corridor that dictates structure, increments, and capital velocity. This is the core of AI centric sovereign credit: a risk architecture that adapts in real time rather than relying on backward‑looking ratings.
 
-## Phase III: The Partnership Model — Roials Capital as Strategic Navigator
+## Phase III: The Partnership Model ,  Roials Capital as Strategic Navigator
 
 Roials Capital functions as a strategic navigator and institutional introducer within this new financing regime. The firm is not a fund manager or sovereign lender.
 
@@ -116,7 +116,7 @@ The mandate is to generate structural clarity for UHNWIs, private credit allocat
 
 Roials Capital treats sovereign financing as a multi regime environment requiring disciplined navigation, not transactional engagement. When the topic intersects North American energy or heavy oil optimization, the institutional partner is NAEO. In sovereign finance, partners vary by jurisdiction, regulatory posture, and AI system maturity.
 
-## Phase IV: The Stewardship Filter — Ethics and Capital Non Waste
+## Phase IV: The Stewardship Filter ,  Ethics and Capital Non Waste
 
 The stewardship doctrine defines the Roials Capital framework. It is a capital management protocol anchored in disciplined non waste. Sovereign financing demands stewardship because:
 

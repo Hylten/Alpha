@@ -39,7 +39,7 @@ Chaos when improvised. Most private credit deals fail from flawed documentation,
 
 - Agentic Model Gamma: Proprietary Quant-Structural Layer This
 
-### Layer I: s the sovereign core
+### Layer is the sovereign core
 
 . It calculates dominance. Every metric is pressure-tested. Every assumption is challenged. The model holds no loyalty. Only logic. Core Mechanisms:
 

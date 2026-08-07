@@ -14,7 +14,7 @@ author: "Jonas Hyltén"
 re-architected: true
 ---
 
-The architecture of credit is restructuring around precision movement rather than capital possession. The asymmetric advantage is now held by those who can mobilize capital with mechanical accuracy. Institutional velocity emerges from information flow, risk computation, and execution latency—now automated at the structural level. Autonomous systems operate as the agentic infrastructure beneath multi‑asset Asset‑Based Lending, generating GTM liquidity with consistency unattainable by human desks. Roials Alpha functions within this layer, supplying the invisible infrastructure that enables high‑net‑worth and ultra‑high‑net‑worth capital to expand leverage without exposing strategic intent.
+The architecture of credit is restructuring around precision movement rather than capital possession. The asymmetric advantage is now held by those who can mobilize capital with mechanical accuracy. Institutional velocity emerges from information flow, risk computation, and execution latency, now automated at the structural level. Autonomous systems operate as the agentic infrastructure beneath multi‑asset Asset‑Based Lending, generating GTM liquidity with consistency unattainable by human desks. Roials Alpha functions within this layer, supplying the invisible infrastructure that enables high‑net‑worth and ultra‑high‑net‑worth capital to expand leverage without exposing strategic intent.
 
 ## Autonomous Valuation and Continuous Verification
 
@@ -26,7 +26,7 @@ Liquidity is a behavior, not a balance‑sheet artifact. Autonomous systems rend
 
 ## AI‑Driven Risk Surplus Extraction
 
-Risk in multi‑asset Asset‑Based Lending is not eliminated. It is reinterpreted. Autonomous systems identify the surplus between perceived risk and true risk—the zone where asymmetric advantage emerges. Human analysts treat risk as a boundary. Machine agents treat it as a variable. Autonomous agents model: • Time decay tolerance • Volatility absorption capacity • Behavioral signatures in collateral classes • Market‑maker dependency • Stress threshold probability curves They compute the leverage perimeter that maximizes borrow power without compromising structural integrity. This is alpha extraction through computational discipline.
+Risk in multi‑asset Asset‑Based Lending is not eliminated. It is reinterpreted. Autonomous systems identify the surplus between perceived risk and true risk, the zone where asymmetric advantage emerges. Human analysts treat risk as a boundary. Machine agents treat it as a variable. Autonomous agents model: • Time decay tolerance • Volatility absorption capacity • Behavioral signatures in collateral classes • Market‑maker dependency • Stress threshold probability curves They compute the leverage perimeter that maximizes borrow power without compromising structural integrity. This is alpha extraction through computational discipline.
 
 ## Crypto Strategic Collateralization at Institutional Scale
 

@@ -28,7 +28,7 @@ Alpha no longer emerges from relationships alone. It emerges from deltas humans 
 
 Screening is the heaviest friction point in PE sourcing. Teams spend thousands of hours filtering noise with inconsistent frameworks and inconsistent insight. Agentic architectures eliminate this bottleneck. The system reads industries as datasets. It identifies non‑obvious adjacencies, reverse‑engineers competitive landscapes, and builds acquisition logic trees autonomously. It determines which targets matter and why. It produces deal‑ready contextual summaries.
 
-## Layer C: Collapses Into a Single Action — Evaluation
+## Layer C: Collapses Into a Single Action ,  Evaluation
 
 Everything else is automated.
 

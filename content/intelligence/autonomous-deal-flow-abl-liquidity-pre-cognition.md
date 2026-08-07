@@ -72,7 +72,7 @@ The result is proactive GTM liquidity origination before broker activation.
 
 ## Case Analysis
 
-Simulated scenario: A 50–70 million‑dollar industrial services company in Texas with NAEOCC energy asset exposure.
+Simulated scenario: A 50-70 million‑dollar industrial services company in Texas with NAEOCC energy asset exposure.
 
 ## Company Profile
 
@@ -118,7 +118,7 @@ AI processed the anomalies and produced:
 
 - Yield‑to‑liquidity curve: 16 to 22 percent  
 
-The system projected a cash conversion event within 60–90 days. AI identified this before management acknowledgment.
+The system projected a cash conversion event within 60-90 days. AI identified this before management acknowledgment.
 
 ## Pre Cognition Execution
 

@@ -14,7 +14,7 @@ author: "Jonas Hyltén"
 re-architected: true
 ---
 
-Private credit accelerates when noise collapses. When latency dissolves. When the credit spine becomes fully autonomous. Human friction is the terminal drag coefficient inside every high‑velocity corridor. Remove it and spread differentials become structural, not situational. Families with scale understand this. Institutions simulate understanding. Fund‑III architectures imitate speed; they rarely deliver it. Velocity requires architecture, not enthusiasm. AI‑driven liquidity systems act as compression engines. They fuse dispersed credit signals—fragmented borrower data, cross‑jurisdictional collateral trails, multi‑exchange commodity patterns—into a single executable vector. Underwriting becomes pattern‑weighted. Collateralization becomes perpetual. Default risk transforms into a continuous series rather than a discrete event.
+Private credit accelerates when noise collapses. When latency dissolves. When the credit spine becomes fully autonomous. Human friction is the terminal drag coefficient inside every high‑velocity corridor. Remove it and spread differentials become structural, not situational. Families with scale understand this. Institutions simulate understanding. Fund‑III architectures imitate speed; they rarely deliver it. Velocity requires architecture, not enthusiasm. AI‑driven liquidity systems act as compression engines. They fuse dispersed credit signals, fragmented borrower data, cross‑jurisdictional collateral trails, multi‑exchange commodity patterns, into a single executable vector. Underwriting becomes pattern‑weighted. Collateralization becomes perpetual. Default risk transforms into a continuous series rather than a discrete event.
 
 ## Asymmetric Credit Mandate
 
@@ -22,7 +22,7 @@ Architecture first. Exposure second. Private credit sits at a structural inflect
 
 ## The Integrated Liquidity Spine
 
-A modern family office requires an integrated liquidity spine—an AI‑first underwriting engine that processes velocity rather than paperwork. Three architectural principles define the system: • Real‑time ingestion. • Autonomous triage. • Execution‑grade certainty. Everything else is ornamental. Families require cash‑on‑call capabilities. Instant deployment. Instant facility generation. High integrity. Low friction. Cross‑border fluidity. AI collapses the underwriting stack from days to minutes. Risk becomes a model, not a meeting. This shift redefines private‑credit economics.
+A modern family office requires an integrated liquidity spine, an AI‑first underwriting engine that processes velocity rather than paperwork. Three architectural principles define the system: • Real‑time ingestion. • Autonomous triage. • Execution‑grade certainty. Everything else is ornamental. Families require cash‑on‑call capabilities. Instant deployment. Instant facility generation. High integrity. Low friction. Cross‑border fluidity. AI collapses the underwriting stack from days to minutes. Risk becomes a model, not a meeting. This shift redefines private‑credit economics.
 
 ## Signal Consolidation Architecture
 

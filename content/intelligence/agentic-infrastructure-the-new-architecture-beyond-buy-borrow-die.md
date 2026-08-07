@@ -162,7 +162,7 @@ This is not BI. It is intelligence observability. The organization must understa
 
 ## Why API-First GTM Is No Longer Enough
 
-API-first was the correct paradigm for a decade. But it assumes that applications communicate with one another. In agentic GTM, agents communicate—not systems. This is a shift from:
+API-first was the correct paradigm for a decade. But it assumes that applications communicate with one another. In agentic GTM, agents communicate, not systems. This is a shift from:
 
 - system integration to agent coordination
 
@@ -193,7 +193,7 @@ When execution shifts from humans to agents, roles transform radically:
 
 ## Systemic Role Recomposition
 
-Operations becomes system design. Sales becomes signal processing. Marketing becomes narrative architecture. The SDR function disappears entirely. Managers become supervisors of agentic coordination. The agentic system reduces manual interaction volume by 80–95 percent. This is not an efficiency upgrade. It is a power realignment. GTM becomes an industrial-grade machine layer where humans define objectives, not minutiae. Organizations that cling to legacy roles enter structural limbo. Those that understand the architectural shift become exponentially faster than their competitors.
+Operations becomes system design. Sales becomes signal processing. Marketing becomes narrative architecture. The SDR function disappears entirely. Managers become supervisors of agentic coordination. The agentic system reduces manual interaction volume by 80-95 percent. This is not an efficiency upgrade. It is a power realignment. GTM becomes an industrial-grade machine layer where humans define objectives, not minutiae. Organizations that cling to legacy roles enter structural limbo. Those that understand the architectural shift become exponentially faster than their competitors.
 
 ## Legacy Architectures as Barriers to Agentic Acceleration
 
@@ -335,7 +335,7 @@ An analytics agent that produces autonomous insights and reporting without relyi
 
 A coordination agent that links all other agents, eliminating duplicated effort and preventing contradictory operational actions. The modularity ensures each agent is interchangeable and can be upgraded without system‑wide refactoring. This marks the shift from tool‑oriented GTM to function‑oriented GTM built on Agentic Infrastructure.
 
-## Human–Agent Collaboration: The Operational Hybrid Model
+## Human-Agent Collaboration: The Operational Hybrid Model
 
 The prevailing misconception is that agentic GTM systems eliminate human GTM roles. In practice, they amplify the need for human leadership while shifting focus from execution to orchestration. The human operator transitions away from repetitive work and instead: Authorizes strategic decisions Defines constraints Prioritizes conflicting objectives Evaluates agent behavior over time Adjusts system autonomy across operational domains This transforms the GTM organization into a more strategic layer, free from micro‑coordination and manual strain. For GTM Engineering, this separation is critical. It establishes clear boundaries between: The human decision layer The agentic execution layer The technical integration layer Instead of humans oscillating between systems and fragmented tasks, an operational ecosystem emerges where humans operate at a higher tier while agents manage execution loops.
 

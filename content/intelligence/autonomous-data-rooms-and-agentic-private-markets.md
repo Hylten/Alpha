@@ -92,7 +92,7 @@ Once autonomous verification becomes standard, deal flow accelerates at a rate t
 
 ## The Final Statement
 
-Autonomous data rooms validating their own inputs mark the beginning of a new era in private markets. An era defined not by who has the most analysts, but by who operates the most intelligent infrastructure. Next‑generation private markets reward firms that eliminate friction, automate validation, and engineer trust directly into the system. Roials-Alpha engineers this infrastructure. We operate at this frontier. We design the architecture. We remove the friction. We accelerate the deal. We control the environment. If you want the next step – the agentic infrastructure blueprint, the sovereign-core architecture, the execution-swarm configuration – The call will restructure how you operate. Would you like the full Agentic Infrastructure Map?
+Autonomous data rooms validating their own inputs mark the beginning of a new era in private markets. An era defined not by who has the most analysts, but by who operates the most intelligent infrastructure. Next‑generation private markets reward firms that eliminate friction, automate validation, and engineer trust directly into the system. Roials-Alpha engineers this infrastructure. We operate at this frontier. We design the architecture. We remove the friction. We accelerate the deal. We control the environment. If you want the next step - the agentic infrastructure blueprint, the sovereign-core architecture, the execution-swarm configuration - The call will restructure how you operate. Would you like the full Agentic Infrastructure Map?
 
 ## Summary
 

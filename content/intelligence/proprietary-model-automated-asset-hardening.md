@@ -79,7 +79,7 @@ Estates collapse when families delegate control. Banks dilute it. Advisors fract
 
 ## Convergence: The Full Stack
 
-When all components align—Fund-III, metalayer autonomous infrastructure, oil and gas collateral anchors, jurisdictional rings, liquidity engines—the estate becomes something rare: A self-regulating financial organism. A forward-biased capital machine. A sovereign architecture independent of external institutions. Everything interlocks. Everything becomes modular. Everything becomes scalable. And every node hardens. The system reaches operational inevitability. The Proprietary Model for Automated Asset Hardening is not a service. It is an upgrade to the way a principal family executes power. To receive the architecture is to step into the long arc of capital continuity. Clean. Deliberate. Engineered. Unbreakable. End metric: Systemic Hardening Coefficient target ≥ 0.82 across all capital layers.
+When all components align, Fund-III, metalayer autonomous infrastructure, oil and gas collateral anchors, jurisdictional rings, liquidity engines, the estate becomes something rare: A self-regulating financial organism. A forward-biased capital machine. A sovereign architecture independent of external institutions. Everything interlocks. Everything becomes modular. Everything becomes scalable. And every node hardens. The system reaches operational inevitability. The Proprietary Model for Automated Asset Hardening is not a service. It is an upgrade to the way a principal family executes power. To receive the architecture is to step into the long arc of capital continuity. Clean. Deliberate. Engineered. Unbreakable. End metric: Systemic Hardening Coefficient target ≥ 0.82 across all capital layers.
 
 ## Summary
 

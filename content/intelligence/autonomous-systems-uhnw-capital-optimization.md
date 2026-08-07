@@ -38,7 +38,7 @@ The principal defines thresholds, constraints, legacy rules, and veto rights. Hu
 
 ## The Institutional Shell
 
-Trust structures, SPVs, holding companies, fund vehicles, private banks, offshore nodes. The shell provides legal insulation and regulatory clarity. It is the outer skin of the enterprise—replaceable, flexible, and jurisdiction‑agnostic. Portugal. UAE. Luxembourg. Cayman. Singapore. Each functions as a node, tool, and shield. The shell enables cross‑jurisdictional arbitrage, optimized tax flows, and rapid liquidity deployment. It maintains compliance while preserving structured opacity.
+Trust structures, SPVs, holding companies, fund vehicles, private banks, offshore nodes. The shell provides legal insulation and regulatory clarity. It is the outer skin of the enterprise, replaceable, flexible, and jurisdiction‑agnostic. Portugal. UAE. Luxembourg. Cayman. Singapore. Each functions as a node, tool, and shield. The shell enables cross‑jurisdictional arbitrage, optimized tax flows, and rapid liquidity deployment. It maintains compliance while preserving structured opacity.
 
 ## Algorithmic Deal Flow: The Roials‑Alpha Model
 

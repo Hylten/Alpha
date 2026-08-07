@@ -42,7 +42,7 @@ AI-first Strategic Collateralization relies on volume because models gain precis
 
 ## Principal Authority: The F-Hierarchical Dynamics
 
-Roials-Alpha does not operate in the public sphere of retail Institutional Liquidity Paths. We build structural mechanics for institutional capital. This is the F-Hierarchical Dynamics — the divide between public lenders and the entities that quietly enable elite capital flows. We do not broadcast processes. We do not externalize algorithmic frameworks. Our authority is silent. Our presence is infrastructure. Institutional capital moves efficiently only when the underlying architecture is sound. We provide that architecture.
+Roials-Alpha does not operate in the public sphere of retail Institutional Liquidity Paths. We build structural mechanics for institutional capital. This is the F-Hierarchical Dynamics ,  the divide between public lenders and the entities that quietly enable elite capital flows. We do not broadcast processes. We do not externalize algorithmic frameworks. Our authority is silent. Our presence is infrastructure. Institutional capital moves efficiently only when the underlying architecture is sound. We provide that architecture.
 
 ## AI-First Liquidity as a Strategic Weapon
 

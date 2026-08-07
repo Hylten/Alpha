@@ -38,7 +38,7 @@ Crypto markets are data-saturated, producing more signal flow than any human ope
 
 ## Public Share Institutional Liquidity Paths: Threshold 5,000,000
 
-Public equity capital structuring requires exact precision. Liquidity, volume, float, historical volatility, earnings cycles, sector rotations, synthetic short pressure—each variable determines viable credit extension. Minimum threshold is 5,000,000. At this level, small deviations become structural risk. Roials-Alpha uses multi-layer valuation engines modeling asset trajectories across dozens of projected futures. These models execute stress scenarios beyond human computational capacity. This is how confidence is preserved when extending credit at scale.
+Public equity capital structuring requires exact precision. Liquidity, volume, float, historical volatility, earnings cycles, sector rotations, synthetic short pressure, each variable determines viable credit extension. Minimum threshold is 5,000,000. At this level, small deviations become structural risk. Roials-Alpha uses multi-layer valuation engines modeling asset trajectories across dozens of projected futures. These models execute stress scenarios beyond human computational capacity. This is how confidence is preserved when extending credit at scale.
 
 ## The AI Liquidity Stack: How the System Thinks
 

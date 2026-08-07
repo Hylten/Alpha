@@ -60,7 +60,7 @@ Covenants are binding structures of accountability. The market treats them as le
 
 - Irregular payment timing patterns.
 
-When covenants drift, intervention is immediate. Not punitive—protective. This reflects the Gnosjö discipline of vigilance. Quiet oversight. Zero drama. Maximum responsibility. The borrower receives clarity. The Principal receives continuity.
+When covenants drift, intervention is immediate. Not punitive, protective. This reflects the Gnosjö discipline of vigilance. Quiet oversight. Zero drama. Maximum responsibility. The borrower receives clarity. The Principal receives continuity.
 
 ## Execution Velocity
 

@@ -24,7 +24,7 @@ Traditional automation is linear. It executes tasks. Agentic AI validates, optim
 
 ## Core Principles for AI Excellence in Industrial Sweden
 
-These are the non-negotiables. The operating laws followed by the top one percent. The principles deployed in Roials Alpha–class environments.
+These are the non-negotiables. The operating laws followed by the top one percent. The principles deployed in Roials Alpha-class environments.
 
 ### 1. Everything Starts With Granular Process Mapping
 
@@ -98,7 +98,7 @@ The strongest AI systems understand volatility. That is how they neutralize it.
 
 ### 5. Introduce Closed-Loop Autonomy, Not Advisory AI
 
-Advisory AI suggests. Agentic AI executes. The Swedish market is full of systems that produce dashboards, alerts, and recommendations. These systems are obsolete. Roials Alpha–level operations deploy:
+Advisory AI suggests. Agentic AI executes. The Swedish market is full of systems that produce dashboards, alerts, and recommendations. These systems are obsolete. Roials Alpha-level operations deploy:
 
 - Autonomous tuning
 

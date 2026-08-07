@@ -96,7 +96,7 @@ Each model carries distinct authority. Each operates under unique constraints. E
 
 ## Autonomous Strategy Engines
 
-Proprietary agentic models generate strategic output that evolves across cycles. They read environments. They map incentives. They project moves. They counter moves. They refine. They adapt. They escalate. This produces directional intelligence. Not analysis—action-shaping clarity. Roials-Alpha systems run recursive evaluation. Every strategic output includes:
+Proprietary agentic models generate strategic output that evolves across cycles. They read environments. They map incentives. They project moves. They counter moves. They refine. They adapt. They escalate. This produces directional intelligence. Not analysis, action-shaping clarity. Roials-Alpha systems run recursive evaluation. Every strategic output includes:
 
 - Input signals  
 
@@ -192,7 +192,7 @@ Tool calls. Execution paths. Operational commands.
 
 ## Layer V: Governance Layer
 
-Permissions. Boundaries. Outcome constraints. This stack makes proprietary agentic models reliable—and potent. Roials-Alpha builds for teams capable of handling high-autonomy infrastructure.
+Permissions. Boundaries. Outcome constraints. This stack makes proprietary agentic models reliable, and potent. Roials-Alpha builds for teams capable of handling high-autonomy infrastructure.
 
 ## Enterprise Use Cases With Agentic Precision
 

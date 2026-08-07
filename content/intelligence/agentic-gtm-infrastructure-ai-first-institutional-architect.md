@@ -98,7 +98,7 @@ All agent‑driven GTM relies on two categories of data. The first is positional
 
 - Real‑time interactions
 
-Agents read thousands of datapoints per account and generate a continuously updated positional matrix. The second is the learning loop. Every output, response, non‑response, and commercial outcome is fed back into the system. Agents adjust messaging, channel, timing, and strategy in real time. The organization operates a machine feedback loop that never stops. The GTM function becomes self‑correcting. When the market shifts, the machine adapts automatically—often before a human becomes aware of the change.
+Agents read thousands of datapoints per account and generate a continuously updated positional matrix. The second is the learning loop. Every output, response, non‑response, and commercial outcome is fed back into the system. Agents adjust messaging, channel, timing, and strategy in real time. The organization operates a machine feedback loop that never stops. The GTM function becomes self‑correcting. When the market shifts, the machine adapts automatically, often before a human becomes aware of the change.
 
 ## The Operational Foundation: Agent Orchestration in Production
 

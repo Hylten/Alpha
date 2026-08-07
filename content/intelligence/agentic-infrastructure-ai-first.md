@@ -32,7 +32,7 @@ Agentic GTM infrastructure is not a toolkit and not a set of playbooks. It is an
 
 - An observability layer that tracks flows, conversions, response times, data coverage, and model performance
 
-The infrastructure behaves as a self‑sustaining machine where humans participate but not as executors. They function as supervisors, validators, strategic auditors, and debugging endpoints. In agentic GTM, human labor becomes the exception—not the norm.
+The infrastructure behaves as a self‑sustaining machine where humans participate but not as executors. They function as supervisors, validators, strategic auditors, and debugging endpoints. In agentic GTM, human labor becomes the exception, not the norm.
 
 ## The Technical Core: GTM as Code
 
@@ -335,7 +335,7 @@ Human teams are shifting from producing outputs to defining rules, frameworks, a
 
 ## Steering Plans That Replace Playbooks
 
-Traditional playbooks outline how humans should behave in various customer scenarios. They act as manuals. Agents do not operate this way. They require steering plans that are machine-readable and define: • Intent • Constraints • State evolution over time • Goals decomposable into sub-goals • Context-dependent rules • Risk criteria A steering plan functions as an operational constitution. It defines how agents should reason across situations without predicting specific outcomes. By 2026, companies discovered that the quality of their steering plans dictated the performance of the entire agentic GTM stack. Tools mattered less. Architecture and principles mattered more. This marks a major departure from the 2024–2025 operating model. Companies that simply embed LLMs into legacy tools fall behind. Those that define rules for real-time collaboration across intelligent systems achieve exponential productivity.
+Traditional playbooks outline how humans should behave in various customer scenarios. They act as manuals. Agents do not operate this way. They require steering plans that are machine-readable and define: • Intent • Constraints • State evolution over time • Goals decomposable into sub-goals • Context-dependent rules • Risk criteria A steering plan functions as an operational constitution. It defines how agents should reason across situations without predicting specific outcomes. By 2026, companies discovered that the quality of their steering plans dictated the performance of the entire agentic GTM stack. Tools mattered less. Architecture and principles mattered more. This marks a major departure from the 2024-2025 operating model. Companies that simply embed LLMs into legacy tools fall behind. Those that define rules for real-time collaboration across intelligent systems achieve exponential productivity.
 
 ## Agentic Orchestration Instead of Pipeline Management
 

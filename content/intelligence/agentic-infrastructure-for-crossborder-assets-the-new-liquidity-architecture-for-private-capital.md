@@ -1,20 +1,20 @@
 ---
 title: "Agentic Infrastructure for Cross-border Assets: The GTM Architecture for Private Capital"
 slug: "agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital"
-description: "Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual compliance—has reached terminal latency. The em..."
+description: "Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle, fragmented data, jurisdiction‑locked distribution, and manual compliance, has reached terminal latency. The em..."
 date: "2026-03-26"
 tags: []
 categories: ["Intelligence"]
 canonical_url: "https://hylten.github.io/Alpha/intelligence/agentic-infrastructure-for-crossborder-assets-the-new-liquidity-architecture-for-private-capital/"
 meta_title: "Agentic Infrastructure for Cross-border Assets: The GTM Architecture for Private Capital"
-meta_description: "Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual compliance—has reached terminal latency. The em..."
+meta_description: "Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle, fragmented data, jurisdiction‑locked distribution, and manual compliance, has reached terminal latency. The em..."
 featured_image: ""
 draft: false
 author: "Jonas Hyltén"
 re-architected: true
 ---
 
-By Jonas Hyltén Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle—fragmented data, jurisdiction‑locked distribution, and manual compliance—has reached terminal latency. The emerging regime demands agentic infrastructure capable of synchronizing identity, eligibility, and distribution logic at machine speed. This architecture does not transport information; it executes intent and manufactures compliant market entry across borders.
+By Jonas Hyltén Cross‑border private capital is undergoing a structural inversion. The legacy GTM cycle, fragmented data, jurisdiction‑locked distribution, and manual compliance, has reached terminal latency. The emerging regime demands agentic infrastructure capable of synchronizing identity, eligibility, and distribution logic at machine speed. This architecture does not transport information; it executes intent and manufactures compliant market entry across borders.
 
 ## From Linear Pipelines to Agentic Mesh Systems
 
@@ -30,7 +30,7 @@ The historical CRM‑centric pipeline was sequential and dependent on human inte
 
 - Distribution surfaces activate where demand emerges  
 
-The system becomes an active computational environment—self‑evaluating, self‑routing, and self‑optimizing. It generates asymmetric advantage through latency elimination and deterministic scalability.
+The system becomes an active computational environment, self‑evaluating, self‑routing, and self‑optimizing. It generates asymmetric advantage through latency elimination and deterministic scalability.
 
 ## Cross-border Assets and the Mechanics of GTM Liquidity
 
@@ -192,7 +192,7 @@ The infrastructure must transmit premium sovereign positioning through tone, pre
 
 ## Motion
 
-The system must operate with intention—predictive, decisive, and low-latency. Motion becomes brand.
+The system must operate with intention, predictive, decisive, and low-latency. Motion becomes brand.
 
 ## Friction
 

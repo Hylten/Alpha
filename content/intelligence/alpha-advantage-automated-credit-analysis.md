@@ -18,7 +18,7 @@ Private credit scales when friction dies. Alpha appears when latency collapses. 
 
 ## Autonomous Credit Computation
 
-True automated credit analysis has nothing to do with dashboards. It is not about reports. It is about computational control over probabilistic outcomes. When built correctly, the stack becomes a sovereign instrument—predictive, directional, self-healing. Core components create the alpha delta: • Data exfiltration engines • Autonomous borrower identity graphs • Embedded-risk-radar models • Jurisdictional-collateral variance calculators • Forward-default probability curves • Perpetual covenant scanning • Multi-node asset hardening diagnostics Each component strips uncertainty. Each node converts ambiguity into quantized signal. The portfolio begins to breathe on its own. AI does not simply optimize underwriting. It rewrites the rules of underwriting.
+True automated credit analysis has nothing to do with dashboards. It is not about reports. It is about computational control over probabilistic outcomes. When built correctly, the stack becomes a sovereign instrument, predictive, directional, self-healing. Core components create the alpha delta: • Data exfiltration engines • Autonomous borrower identity graphs • Embedded-risk-radar models • Jurisdictional-collateral variance calculators • Forward-default probability curves • Perpetual covenant scanning • Multi-node asset hardening diagnostics Each component strips uncertainty. Each node converts ambiguity into quantized signal. The portfolio begins to breathe on its own. AI does not simply optimize underwriting. It rewrites the rules of underwriting.
 
 ## The Stack
 
@@ -42,7 +42,7 @@ Risk-adjusted pricing. Covenant embedding. Liquidity routing. Real-time surveill
 
 ## The Alpha Zone
 
-Most firms operate in the reactive zone—post-default, post-deterioration, post-newsflow. Alpha lives in the pre-signal zone. The micro-window before deterioration becomes visible. The signal delta only machine systems can see. Proactive underwriting is obsolete. Predictive underwriting is outdated. Pre‑emptive underwriting is the new benchmark. Machines catch: • Liquidity tremors • Micro-lag covenant strain • Inventory compression • Payment-sequence perturbations • Cross-border tax drift • Asset fatigue signatures • Internal control fractures This is where institutional advantage forms. The earlier the detection, the cheaper the intervention.
+Most firms operate in the reactive zone, post-default, post-deterioration, post-newsflow. Alpha lives in the pre-signal zone. The micro-window before deterioration becomes visible. The signal delta only machine systems can see. Proactive underwriting is obsolete. Predictive underwriting is outdated. Pre‑emptive underwriting is the new benchmark. Machines catch: • Liquidity tremors • Micro-lag covenant strain • Inventory compression • Payment-sequence perturbations • Cross-border tax drift • Asset fatigue signatures • Internal control fractures This is where institutional advantage forms. The earlier the detection, the cheaper the intervention.
 
 ## The Roials‑Alpha Credit Engine
 
@@ -78,7 +78,7 @@ Family offices operate best with proprietary tools, not generic market infrastru
 
 ## The New Imperative
 
-The Alpha Advantage emerges from five non-negotiables: • Autonomous underwriting • Perpetual credit surveillance • Cross-border structure optimization • High-speed collateral scoring • Liquidity-first architecture When these pillars unify, private credit transforms. Deals accelerate. Losses decline. Recoveries increase. Yield stabilizes. Exposure becomes predictable. Institutional confidence hardens. This is the architecture of Fund‑III scale dominance. This is the Roials‑Alpha signature—machines delivering Asymmetric Advantage. If you want the advantage, you build the stack. If you want the edge, you trust the architecture. If you want the future, you remove friction. Metric: Latency‑to‑Underwrite = 0. 83 seconds.
+The Alpha Advantage emerges from five non-negotiables: • Autonomous underwriting • Perpetual credit surveillance • Cross-border structure optimization • High-speed collateral scoring • Liquidity-first architecture When these pillars unify, private credit transforms. Deals accelerate. Losses decline. Recoveries increase. Yield stabilizes. Exposure becomes predictable. Institutional confidence hardens. This is the architecture of Fund‑III scale dominance. This is the Roials‑Alpha signature, machines delivering Asymmetric Advantage. If you want the advantage, you build the stack. If you want the edge, you trust the architecture. If you want the future, you remove friction. Metric: Latency‑to‑Underwrite = 0. 83 seconds.
 
 ## Summary
 

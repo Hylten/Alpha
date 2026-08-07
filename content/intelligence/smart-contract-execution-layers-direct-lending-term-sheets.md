@@ -97,7 +97,7 @@ A smart‑contract credit system must retain sovereignty: the authority to overr
 
 - Structural renegotiation
 
-This is the safety valve—the control tower ensuring machine logic and human governance coexist without conflict.
+This is the safety valve, the control tower ensuring machine logic and human governance coexist without conflict.
 
 ## Phase II: Principal Voice
 
@@ -111,7 +111,7 @@ This is how UHNW capital protects itself in an era of noise and operational deca
 
 ## Phase III: Internal Bypass
 
-This section deepens the structural brief. The breakthrough is not autonomy—it is unification of credit logic and execution logic. Institutions separate them: Underwriting in one silo. Operations in another. Legal enforcement elsewhere. Fragmentation breeds failure. Smart‑contract execution layers unify the stack. Underwriting produces the term sheet. The term sheet becomes code. The code enforces credit logic. All actors operate under identical execution rules. No internal misalignment. No interpretive drift. Version mismanagement ends. Approval confusion ends. Covenant ambiguity ends. The contract becomes a system. The system becomes the operator. This architecture pairs naturally with algorithmic deal flow. Data enters from sourcing. AI‑first underwriting produces structural clarity. The execution layer binds logic. A full stack. A unified system. End‑to‑end. Families do not win through negotiation. Families win through architecture.
+This section deepens the structural brief. The breakthrough is not autonomy, it is unification of credit logic and execution logic. Institutions separate them: Underwriting in one silo. Operations in another. Legal enforcement elsewhere. Fragmentation breeds failure. Smart‑contract execution layers unify the stack. Underwriting produces the term sheet. The term sheet becomes code. The code enforces credit logic. All actors operate under identical execution rules. No internal misalignment. No interpretive drift. Version mismanagement ends. Approval confusion ends. Covenant ambiguity ends. The contract becomes a system. The system becomes the operator. This architecture pairs naturally with algorithmic deal flow. Data enters from sourcing. AI‑first underwriting produces structural clarity. The execution layer binds logic. A full stack. A unified system. End‑to‑end. Families do not win through negotiation. Families win through architecture.
 
 ## Agentic Infrastructure: The Next Step
 

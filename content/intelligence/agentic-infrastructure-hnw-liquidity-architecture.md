@@ -38,7 +38,7 @@ Autonomous agents interpret enriched signals within the GTM ontology to determin
 
 4. Action Automation Layer  
 
-The system executes predefined sequences—outreach, API calls, environment provisioning, liquidity modeling, or portfolio simulation—without human intervention. This is deterministic GTM physics.
+The system executes predefined sequences, outreach, API calls, environment provisioning, liquidity modeling, or portfolio simulation, without human intervention. This is deterministic GTM physics.
 
 ## The Sovereign Data Layer
 
@@ -54,7 +54,7 @@ Enrichment waterfalls convert raw signals into executable intelligence. Raw extr
 
 ## Vibe Marketing and Vibe Coding
 
-In high‑net‑worth liquidity systems, perception is governed by perception signature—an encoded frequency that communicates authority without explicit narrative. Vibe marketing and vibe coding function as perception architecture. Authority is signaled, not stated. Minimalism communicates structural competence. Frequency patterns signal strategic maturity. Execution speed generates gravitational credibility. High‑value participants respond to signals of structural inevitability. Infrastructure is the narrative. Execution is the brand. Precision is the persuasion layer.
+In high‑net‑worth liquidity systems, perception is governed by perception signature, an encoded frequency that communicates authority without explicit narrative. Vibe marketing and vibe coding function as perception architecture. Authority is signaled, not stated. Minimalism communicates structural competence. Frequency patterns signal strategic maturity. Execution speed generates gravitational credibility. High‑value participants respond to signals of structural inevitability. Infrastructure is the narrative. Execution is the brand. Precision is the persuasion layer.
 
 ## GTM Infrastructure Ownership
 

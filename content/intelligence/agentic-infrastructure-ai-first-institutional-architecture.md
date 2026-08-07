@@ -86,7 +86,7 @@ Traditional digital transformations rely on centralized systems. Agentic infrast
 
 - constructing a self‑adjusting decision structure aligned with system goals
 
-This produces emergent institutional intelligence. Where a ministry would require extensive human coordination to analyze, model, and allocate resources, an agent colony executes equivalent workloads in microseconds—without organizational friction, political bias, or internal power dynamics. The result is hyper‑coordinated national resource management beyond the reach of legacy institutions.
+This produces emergent institutional intelligence. Where a ministry would require extensive human coordination to analyze, model, and allocate resources, an agent colony executes equivalent workloads in microseconds, without organizational friction, political bias, or internal power dynamics. The result is hyper‑coordinated national resource management beyond the reach of legacy institutions.
 
 ## Power Geometry: Why Agentic Infrastructure Becomes the Primary Arena of Geostrategic Dominance
 
@@ -112,7 +112,7 @@ Speed is not a variable; it is a power vector. When a state’s decision velocit
 
 ## An Architecture Beyond Algorithms: Sensor‑Based Sovereignty
 
-AI systems become strategically meaningful only when coupled with dense, continuous data streams. Agentic infrastructure requires national sensor sovereignty—the capability to collect, structure, and exploit in real time:
+AI systems become strategically meaningful only when coupled with dense, continuous data streams. Agentic infrastructure requires national sensor sovereignty, the capability to collect, structure, and exploit in real time:
 
 - financial micro‑signals
 
@@ -130,7 +130,7 @@ AI systems become strategically meaningful only when coupled with dense, continu
 
 - logistical movement data
 
-The richer the sensor network, the stronger the predictive and operational capacity of the agent colony. A state without sensor sovereignty cannot achieve agentic sovereignty, and therefore cannot achieve capital sovereignty. Nations lacking deep data infrastructures will become dependent on those that own the signals—and thus the strategic forecasting models.
+The richer the sensor network, the stronger the predictive and operational capacity of the agent colony. A state without sensor sovereignty cannot achieve agentic sovereignty, and therefore cannot achieve capital sovereignty. Nations lacking deep data infrastructures will become dependent on those that own the signals, and thus the strategic forecasting models.
 
 ## AI‑First Institutional Design: From Organizational Charts to Dynamic Coordination
 

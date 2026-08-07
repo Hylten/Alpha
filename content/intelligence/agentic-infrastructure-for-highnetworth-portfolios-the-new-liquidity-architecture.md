@@ -51,7 +51,7 @@ Traditional liquidity measures conversion speed. Agentic liquidity measures orch
 
 ## 8. Market Liquidity as an Engineering Problem
 
-Agentic systems reframe liquidity as an engineering domain rather than a market condition. Liquidity becomes: • a data challenge • an execution challenge • a routing challenge • a latency challenge • a determinism challenge • an autonomy challenge When treated as engineering, liquidity becomes solvable. The constraint is infrastructure capability, not market behavior. Agentic portfolios outperform because they remove manual latency. Determinism—not speed—produces the asymmetric advantage.
+Agentic systems reframe liquidity as an engineering domain rather than a market condition. Liquidity becomes: • a data challenge • an execution challenge • a routing challenge • a latency challenge • a determinism challenge • an autonomy challenge When treated as engineering, liquidity becomes solvable. The constraint is infrastructure capability, not market behavior. Agentic portfolios outperform because they remove manual latency. Determinism, not speed, produces the asymmetric advantage.
 
 ## 9. Vibe Coding: Behavioral Signaling for Market Positioning
 
@@ -71,7 +71,7 @@ Policy architecture defines what agents can and cannot do. It is the constitutio
 
 ## 13. The Rise of Portfolio Autonomy Networks
 
-The next global shift is the emergence of portfolio autonomy networks: distributed networks of agentic infrastructures that coordinate across markets, assets, and liquidity pools. These networks allow: • coordinated rebalancing • shared liquidity intelligence • distributed risk awareness • multi-agent optimization • shared narrative detection Autonomy networks amplify the intelligence of each agent through collective data and shared execution signals. This creates a new liquidity surface—one unavailable to manual operators. This is not a platform. It is a self-governing financial organism.
+The next global shift is the emergence of portfolio autonomy networks: distributed networks of agentic infrastructures that coordinate across markets, assets, and liquidity pools. These networks allow: • coordinated rebalancing • shared liquidity intelligence • distributed risk awareness • multi-agent optimization • shared narrative detection Autonomy networks amplify the intelligence of each agent through collective data and shared execution signals. This creates a new liquidity surface, one unavailable to manual operators. This is not a platform. It is a self-governing financial organism.
 
 ## 14. The Compression of Human Intervention
 
@@ -93,7 +93,7 @@ A single execution rail restricts liquidity. Multi-rail execution resolves this.
 
 ## 17. The Collapse of Legacy Wealth Architecture
 
-Legacy wealth systems fail under modern conditions because they rely on: • manual decision chains • slow reconciliation cycles • siloed data • fragmented routing • single-rail execution • non-deterministic operations • passive liquidity assumptions These architectures cannot support agentic flows. They are incompatible with real-time, multi-layer enrichment. They restrict sovereignty by forcing capital through structural bottlenecks. Agentic infrastructure is not an upgrade—it is a replacement of the entire operating paradigm.
+Legacy wealth systems fail under modern conditions because they rely on: • manual decision chains • slow reconciliation cycles • siloed data • fragmented routing • single-rail execution • non-deterministic operations • passive liquidity assumptions These architectures cannot support agentic flows. They are incompatible with real-time, multi-layer enrichment. They restrict sovereignty by forcing capital through structural bottlenecks. Agentic infrastructure is not an upgrade, it is a replacement of the entire operating paradigm.
 
 ## 18. Future State: Full Agentic Portfolios
 

@@ -30,9 +30,9 @@ The gap is not informational - it is architectural. Legacy systems rely on backw
 
 The core architecture consists of three layers:
 
-1. **Asset Hardening Layer** – Structural transformation of illiquid or semi-liquid assets into institutional-grade collateral.
-2. **Dynamic Valuation Engine** – AI-driven real-time assessment of asset state, trajectory, and liquidation pathways.
-3. **Risk Transfer Mechanism** – Automated, rules-based execution of capital deployment and recovery.
+1. **Asset Hardening Layer** - Structural transformation of illiquid or semi-liquid assets into institutional-grade collateral.
+2. **Dynamic Valuation Engine** - AI-driven real-time assessment of asset state, trajectory, and liquidation pathways.
+3. **Risk Transfer Mechanism** - Automated, rules-based execution of capital deployment and recovery.
 
 Each layer operates as a closed-loop system with feedback dependencies. The hardening layer does not merely securitize assets - it re-engineers them. In healthcare, this means converting clinical data pipelines, regulatory approval pathways, and IP portfolios into structured collateral with defined liquidation hierarchies. In technology, it involves tokenized compute contracts, AI model weights with provable provenance, and distributed ledger-based revenue streams.
 
@@ -62,9 +62,9 @@ The AI layer is not an accessory. It is the primary arbiter of value. The system
 
 The valuation engine operates on three time horizons:
 
-1. **Immediate State (t=0)** – Current asset configuration, liquidation pathways, and recovery probabilities.
-2. **Trajectory State (t=1 to t=30)** – Projected state transitions based on real-time telemetry.
-3. **Terminal State (t=30+)** – Long-term asset equilibrium under stress scenarios.
+1. **Immediate State (t=0)** - Current asset configuration, liquidation pathways, and recovery probabilities.
+2. **Trajectory State (t=1 to t=30)** - Projected state transitions based on real-time telemetry.
+3. **Terminal State (t=30+)** - Long-term asset equilibrium under stress scenarios.
 
 The engine does not rely on historical data. It relies on structural invariants: regulatory timelines, compute efficiency curves, clinical trial success rates, and tokenized revenue decay functions. These are not predictions - they are engineering parameters.
 
@@ -76,10 +76,10 @@ The system does not underwrite based on probability. It underwrites based on sta
 
 Capital deployment is not a lending decision. It is an automated state transition.
 
-1. **Mandate Approval** – The system recognizes an approved operator and their asset configuration.
-2. **State Assessment** – The AI engine computes the current state and trajectory of the collateral pool.
-3. **Deployment Trigger** – Capital is released upon predefined state transitions (e.g., FDA submission, compute contract execution, model training completion).
-4. **Recovery Protocol** – If state transitions deviate beyond tolerance thresholds, the system executes pre-defined liquidation pathways.
+1. **Mandate Approval** - The system recognizes an approved operator and their asset configuration.
+2. **State Assessment** - The AI engine computes the current state and trajectory of the collateral pool.
+3. **Deployment Trigger** - Capital is released upon predefined state transitions (e.g., FDA submission, compute contract execution, model training completion).
+4. **Recovery Protocol** - If state transitions deviate beyond tolerance thresholds, the system executes pre-defined liquidation pathways.
 
 There is no human intervention in the execution loop. The system does not "monitor" assets - it computes their state in real time. There are no early warnings, no covenant breaches, no grace periods. There are only state transitions and automated responses.
 
@@ -93,9 +93,9 @@ Access is restricted to approved mandates. These are not clients - they are oper
 
 The mandate system operates on three principles:
 
-1. **Structural Compatibility** – The operator’s assets must align with the system’s collateralization framework.
-2. **State Transparency** – The operator must provide real-time telemetry for state computation.
-3. **Execution Alignment** – The operator must accept automated capital deployment and recovery protocols.
+1. **Structural Compatibility** - The operator’s assets must align with the system’s collateralization framework.
+2. **State Transparency** - The operator must provide real-time telemetry for state computation.
+3. **Execution Alignment** - The operator must accept automated capital deployment and recovery protocols.
 
 Mandates are not approved based on creditworthiness. They are approved based on structural fit. A biotech company with a Phase 2 asset does not receive capital because it has "strong fundamentals." It receives capital because its regulatory pathway, clinical data pipeline, and IP portfolio align with the system’s collateralization model.
 

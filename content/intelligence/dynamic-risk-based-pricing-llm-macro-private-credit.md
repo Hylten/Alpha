@@ -109,6 +109,6 @@ The architecture converts macro uncertainty into advantage. It produces returns 
 
 We can detail the required agents, their roles, their data Tell me the depth you want: Do you want the full system blueprint? Or do you want the modular agent design?
 
-## Sammanfattning
+## Summary
 
 Marknaden belönar de som agerar före consensus. Roials Alpha bygger den infrastrukturen nu.

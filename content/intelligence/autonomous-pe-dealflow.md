@@ -30,7 +30,7 @@ Humans think in lists. Autonomous systems think in graphs. Humans look for targe
 
 1. Continuous intelligence  
 
-The system never stops. Every digital shift—job posts, infrastructure changes, or microtrend emergence—is captured and processed instantly.
+The system never stops. Every digital shift, job posts, infrastructure changes, or microtrend emergence, is captured and processed instantly.
 
 2. Exponential search surface  
 
@@ -70,7 +70,7 @@ Targets move autonomously through qualification, enrichment, scoring, and readin
 
 ## The Secret Weapon: Behavioral Profiling
 
-Information asymmetry now includes founder behavioral inference. Roials Alpha models decision patterns, leadership heuristics, risk tolerance, timing behaviors, and growth signals. These patterns predict acquisition openness, optimal outreach timing, message resonance, and negotiation leverage. This creates asymmetric advantage at the behavioral layer—an intelligence vector humans cannot scale.
+Information asymmetry now includes founder behavioral inference. Roials Alpha models decision patterns, leadership heuristics, risk tolerance, timing behaviors, and growth signals. These patterns predict acquisition openness, optimal outreach timing, message resonance, and negotiation leverage. This creates asymmetric advantage at the behavioral layer, an intelligence vector humans cannot scale.
 
 ## Systemic Data Enrichment
 

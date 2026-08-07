@@ -22,7 +22,7 @@ Automated Asset Hardening is our internal designation for a multi-phase conversi
 
 ## Why Autonomous Infrastructure Is the Dominant Paradigm
 
-HNWI and UHNW capital ecosystems have outgrown manual structuring. Asset positions shift daily. Liquidity windows compress from weeks into hours. Autonomous infrastructure is not an enhancement. It is the only viable operating system. The proprietary Roials-Alpha model continuously analyzes asset strength, margin elasticity, credit aperture, and collateralization efficiency. It recalibrates structure the moment market conditions shift. This produces a hardened asset posture—expandable, contractible, and reweightable at high velocity.
+HNWI and UHNW capital ecosystems have outgrown manual structuring. Asset positions shift daily. Liquidity windows compress from weeks into hours. Autonomous infrastructure is not an enhancement. It is the only viable operating system. The proprietary Roials-Alpha model continuously analyzes asset strength, margin elasticity, credit aperture, and collateralization efficiency. It recalibrates structure the moment market conditions shift. This produces a hardened asset posture, expandable, contractible, and reweightable at high velocity.
 
 ## Asset Hardening as a Liquidity Multiplier
 
@@ -30,7 +30,7 @@ The central function of the model is to amplify the liquidity potential of exist
 
 ## Private Credit and Asset-Based Lending Within a Hardened Framework
 
-Roials-Alpha deploys Asset-Backed Frameworks across two primary categories. Private Credit. Asset-Based Strategic Collateralization. Traditional markets render both categories paperwork-heavy and structurally rigid. Within our architecture, they become modular, programmable, and predictable. A hardened asset is institutionally acceptable collateral. It becomes instantly actionable within our private credit systems. Clients whose capital positions require discretion, precision, and high throughput operate seamlessly within this framework. HNWI and UHNW individuals typically hold fragmented wealth—high in value, inefficient in mobility. The hardening model eliminates this structural drag. It establishes liquidity as an always-available function.
+Roials-Alpha deploys Asset-Backed Frameworks across two primary categories. Private Credit. Asset-Based Strategic Collateralization. Traditional markets render both categories paperwork-heavy and structurally rigid. Within our architecture, they become modular, programmable, and predictable. A hardened asset is institutionally acceptable collateral. It becomes instantly actionable within our private credit systems. Clients whose capital positions require discretion, precision, and high throughput operate seamlessly within this framework. HNWI and UHNW individuals typically hold fragmented wealth, high in value, inefficient in mobility. The hardening model eliminates this structural drag. It establishes liquidity as an always-available function.
 
 ## The Multi-Layer Hardening Cycle
 
@@ -66,7 +66,7 @@ High-tier clients require liquidity without disruption, structure without opacit
 
 ## Principal Authority
 
-Roials-Alpha operates using F Hierarchical Dynamics, our internal term for principal authority. We deliver the mechanics and the infrastructure—never the noise. Institutional capital requires stability and predictability. High-net-worth capital requires discretion and speed. Our model is engineered at the intersection of both. The system is quiet. The results are not.
+Roials-Alpha operates using F Hierarchical Dynamics, our internal term for principal authority. We deliver the mechanics and the infrastructure, never the noise. Institutional capital requires stability and predictability. High-net-worth capital requires discretion and speed. Our model is engineered at the intersection of both. The system is quiet. The results are not.
 
 ## The Automated Hardening Engine as a Strategic Advantage
 
