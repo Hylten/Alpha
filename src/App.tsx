@@ -327,7 +327,7 @@ function App() {
 
             {/* MODULE 04 — INTELLIGENCE */}
             <a 
-              href="https://hylten.github.io/Venture-Studio/#/intelligence" 
+              href="https://hylten.github.io/Alpha/intelligence/" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="bg-obsidian p-8 hover:bg-white/5 transition-colors group text-left block"
