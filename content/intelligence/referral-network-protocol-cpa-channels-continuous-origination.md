@@ -69,17 +69,15 @@ The pace of conversion varies by jurisdiction. Markets with digitized commercial
 
 ## The GTM Stack Behind the Referral Network
 
-The referral network is a go-to-market system. The channel mix, the response speed and the follow-up cadence are the same mechanics a B2B sales team measures, applied to deal origination. The terms differ; the funnel does not.
+The referral network runs on a technical pipeline. The advisor channels feed data sources that can be read programmatically, and the provider that wires those sources into its screening and pricing systems operates at machine speed. This is where the network becomes GTM engineering rather than relationship management.
 
-Channel design comes first. Each channel type has its own conversion rate, and the rates differ enough that tracking them separately changes where the provider spends its time. A provider that cannot attribute referrals to a channel is managing relationships, not a channel.
+The data layer comes first. Versana provides structured visibility into loan positions, Octus and 9fin provide credit market intelligence, and invoice or payroll platforms provide cash flow data, per Intake to Close's 2026 benchmark. Each source exposes its data through feeds that a provider can ingest on a schedule. The output is a normalized stream of companies, maturities and financial events.
 
-Response speed is the second lever. In B2B go-to-market, response time is a decisive conversion variable, per our experience with referral-based platforms. An instant quote is the private credit equivalent: it replaces the follow-up email. Speed-to-lead and speed-to-price are the same metric.
+The screening layer sits on top. Incoming events are matched against loan maturity data, enriched with payment and covenant information, and scored for deal readiness. Our assessment is that rule-based scoring handles the obvious cases, while an agentic layer handles the ambiguous ones: a company with a maturing loan, mixed cash flow and a strained covenant. The agent collects the context a human underwriter would ask for, before the underwriter asks.
 
-The funnel is the third lever. The conversion pattern described in the previous section is a funnel like any other, and it can be logged at every stage: identification, pricing, closing. The provider that logs the stages can see where referrals die. Without the log, the network is a black box.
+The pricing layer turns the screened event into a response. An automated pricing model produces an indicative quote from the enriched data, and the relationship team sends it to the advisor. The quote is the deliverable; the pipeline that produces it is the GTM infrastructure.
 
-The loop closes the system. The data from each closed referral improves the screening logic, which makes the next quote faster and more accurate. That is the compounding effect.
-
-The GTM layer also automates the capture of incoming signals. The software channel already produces structured data; piping invoice and payroll data into the screening logic removes the manual step where a referral waits for a human to notice it. This is where origination discipline and GTM engineering converge: the same discipline that turns website visitors into pipeline applies to advisor referrals.
+The log layer closes the loop. Every step, from source to event to quote to close, is recorded with a timestamp and a source attribution. That log is where the conversion numbers in this article come from, and it is what makes the network measurable: the provider can see which channel produces the most qualified referrals, where they stall, and how fast the pricing system responds. Without the log, the network runs on memory and guesswork.
 
 ## Summary
 
