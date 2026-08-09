@@ -427,6 +427,66 @@ class Audit:
                               f"falsk precision: '{pat}' — använd bara 'N stycken' om N verkligen "
                               "är antalet kategorier; annars skriv om strukturen")
 
+    # -- R16: humanisering / anti-AI-lik text (BLOCK, 2026-08-09, Jonas) ----
+    def check_humanization(self, f, body):
+        lines = body.splitlines()
+        # R16a: "not X; does Y" / "not X. The Y builds..." — max 1 per artikel
+        notx_doesy = 0
+        for ln in lines:
+            if re.search(r"\bdoes not \w+[^.;]{0,70}[.;] (The|the) [a-z]+ (builds|constructs|creates|generates|delivers|owns|operates)\b", ln):
+                notx_doesy += 1
+        if notx_doesy > 1:
+            self.fail(f, "R16", 0,
+                      f"humanisering: {notx_doesy} st 'does not X; does Y'-konstruktioner (max 1) — "
+                      "AI-rytm; omformulera med nyanserad konkretisering")
+        # R16b: slogan-slut / positionscopy
+        for i, ln in enumerate(lines, 1):
+            for pat in (r"\bcontrols? the deal flow\b", r"\bis the operating metric\b",
+                        r"\bbecomes? the deal\b", r"\bprices? instantly wins\b",
+                        r"\bthe (provider|firm) who (prices|owns|activates|wins)\b"):
+                if re.search(pat, ln, re.I):
+                    self.fail(f, "R16", i,
+                              f"humanisering: slogan/positionscopy '{pat}' — avsluta med praktisk "
+                              "konsekvens eller begränsning, inte kontrollpåstående")
+        # R16c: konceptnamns-täthet — total >8 ELLER >3 i en paragraf
+        concepts = ["origination infrastructure", "referral motor", "pricing engine",
+                    "feedback loop", "continuous signal", "conversion feedback loop",
+                    "advisor channel activation", "data-layer provider"]
+        low = body.lower()
+        total = sum(len(re.findall(re.escape(c), low)) for c in concepts)
+        para_max = 0
+        for para in re.split(r"\n\s*\n", body):
+            pl = para.lower()
+            para_max = max(para_max, sum(len(re.findall(re.escape(c), pl)) for c in concepts))
+        if total > 8 or para_max > 3:
+            self.fail(f, "R16", 0,
+                      f"humanisering: konceptnamn {total} totalt (max 8), {para_max} i ett stycke "
+                      "(max 3) — definiera praktiskt första gången, sprid ut dem")
+        # R16d: 3+ stycken i rad med samma startfras (första 2 ord)
+        # Exkludera bullets/rubriker/kodblock/nummerlistor (markdown-syntax är inte "stycken")
+        MD_START = re.compile(r"^(\s*[-*#>|]|\s*\d+\.|\s*```|\s*<)")
+        paras = []
+        for p in re.split(r"\n\s*\n", body):
+            p = p.strip()
+            if not p or MD_START.match(p) or "```" in p:
+                continue
+            paras.append(p)
+        starts = []
+        for p in paras:
+            words = p.split()
+            starts.append(" ".join(words[:2]).lower() if len(words) >= 2 else words[0].lower() if words else "")
+        streak = 1
+        for k in range(1, len(starts)):
+            if starts[k] == starts[k - 1] and starts[k]:
+                streak += 1
+                if streak >= 3:
+                    self.fail(f, "R16", 0,
+                              f"humanisering: {streak} stycken i rad börjar med '{starts[k]}' — "
+                              "variera perspektiv (borrower/advisor/lender/data)")
+                    break
+            else:
+                streak = 1
+
     # -- CLAIM-AUDIT: extrahera varje siffra-/absolut-mening, kräv källa/etikett
     LABEL_WORDS = ["our assessment", "vår bedömning", "our experience", "vår erfarenhet",
                    "we label", "vi märker", "internal", "indicates", "estimates",
@@ -501,6 +561,7 @@ class Audit:
             self.check_ai_style(f, body)
             self.check_buzzwords(f, body)
             self.check_false_precision(f, body)
+            self.check_humanization(f, body)
 
     # -- R10: sista rubrik --------------------------------------------------
     def check_last_heading(self, f, body, lang):
