@@ -77,11 +77,53 @@ OVERCLAIM_PATTERNS = [
     r"\bdefinitively\b", r"has entirely disappeared", r"\bgenerationally\b",
     r"the market (no longer|now) punishes", r"has (all but |completely |entirely )?(vanished|died)",
     r"(?<!one of )\bthe (single most|single largest|most significant)\b", r"\bcaptures? the spread\b",
+    r"\bevaporates? (instantly|immediately)\b", r"\beliminated at the root\b",
+    r"\bfatigue becomes\b", r"\bmeasurable (decline|increase|shift)\b",
+    r"\buncanny consistency\b", r"\bmoves? from (resistance|skepticism|defensive) to\b",
+    r"\bdissolves\b", r"\bdrains? (energy|trust|conviction|momentum)\b",
 ]
 # Kausala/regulatoriska påståenden — granskas i claim-audit (kräver källa/etikett i närheten)
 CAUSAL_PATTERNS = [
     r"\b(one reason|a key reason|a major driver|is why|a reason for the (growth|rise|shift))\b",
     r"\b(rules|regulations|requirements) (were|are|has been) (revised|finalized|implemented|raised)\b",
+]
+# R12 (BLOCK): påhittad research / empiriska påståenden utan källmaterial (Jonas 2026-08-08).
+# ABSOLUT FÖRBUD: 'we have studied N', 'our research shows', 'data shows', 'observed reality',
+# 'the market has reached', 'in the last N cycles' m.fl. — om inte källa finns i meningen.
+FABRICATED_RESEARCH = [
+    r"\bwe ('ve|have)?\s+(studied|analysed|analyzed|reviewed|examined|tracked|monitored|observed)\s+(over|more than|some)?\s*\d+",
+    r"\bwe ('ve|have)?\s+(studied|analysed|analyzed|reviewed|examined)\s+\d+\+?\s+(mid[- ]market\s+)?(pipelines|deals|transactions|processes|companies|firms|mandates)",
+    r"\b(our|the)\s+(analyst team|team|firm|research|data|studies|analysis)\s+(has|have)\s+(studied|analysed|analyzed|reviewed|examined|tracked|observed)\b",
+    r"\bour\s+(research|data|studies|analysis|proprietary data)\s+(shows?|indicates?|demonstrates?|confirms?|proves?|suggests?)\b",
+    r"\bobserved reality\b",
+    r"\bstudied over \d+\b",
+    r"\bin the last (three|four|five|six|several|few) (cycles|quarters)\b",
+    r"\breviewing? \d+\+?\s+(deals|transactions|pipelines|processes)\s+(simultaneously|at once|concurrently)\b",
+]
+# 'data shows' / 'the market has reached' — BLOCK om ingen källa i samma mening
+FABRICATED_NEEDS_SOURCE = [
+    r"\bdata shows?\b",
+    r"\bthe market has reached\b",
+]
+# R13 (WARN): AI-slogan-/retorik-mönster (Jonas 2026-08-08). 'X is the antidote',
+# 'X is no mystery', 'X is not Y. It is Z.', kedjemeningar 'A breeds B. B closes deals.',
+# treordsformuleringar 'X is a. Y is b. Z is c.'
+AI_SLOGAN_PATTERNS = [
+    r"\bis (the|a) (antidote|lubricant|differentiator|panacea|silver bullet|engine)\b",
+    r"\bis no (mystery|accident|coincidence|theory|mood)\b",
+    r"\b[A-Z][a-z]+ is not [^.!?]*\.\s+(It|This|That) is [^.!?]*\.",
+    r"\b(\w+) (breeds?|begets?|creates?|drives?|kills?|fuels?|erodes?|restores?|accelerates?|closes?)\s+(\w+)\.\s+\3\s+(breeds?|begets?|creates?|drives?|kills?|fuels?|erodes?|restores?|accelerates?|closes?)\s+",
+    r"\b[A-Z]\w+ is the \w+\.\s+[A-Z]\w+ is the \w+\.\s+[A-Z]\w+ is the \w+\.",
+]
+# R14 (WARN): buzzword-täthet — abstrakta koncept som ersätter konkret analys.
+BUZZWORDS = ["structural", "tactical intelligence", "friction", "architecture", "momentum",
+             "alignment", "signal", "noise", "clarity", "conviction", "ecosystem", "engineered",
+             "recalibrat", "information quality", "opacity", "asymmetr", "leverage", "bottleneck"]
+BUZZ_LIMIT_PER_1000 = 10.0
+BUZZ_LIMIT_TOTAL = 25
+# R15 (WARN): falsk precision — 'N pillars/vectors/patterns' som strukturförsköning.
+FALSE_PRECISION = [
+    r"\b(three|four|five|six|seven|eight|nine|ten)\s+(future |key |core |main |dominant )?(fatigue )?(vectors?|pillars?|patterns?|principles?|drivers?|stages?|forces?|themes?|architectures?)\b",
 ]
 STAT_RE = re.compile(
     r"\d+\s?%|\b\d+\s?(percent|procent)\b|\$\d|€|£"
@@ -143,8 +185,8 @@ class Audit:
     def fail(self, f, rule, line, msg, fix=None):
         self.results.append((str(f), "BLOCK", rule, line, msg, fix))
 
-    def warn(self, f, rule, line, msg):
-        self.results.append((str(f), "WARN", rule, line, msg, None))
+    def warn(self, f, rule, line, msg, fix=None):
+        self.results.append((str(f), "WARN", rule, line, msg, fix))
 
     # -- fix-hjälpare -------------------------------------------------------
     def fix_text(self, f, old, new, rule, line, msg):
@@ -321,13 +363,69 @@ class Audit:
         for i, ln in enumerate(lines, 1):
             if STAT_RE.search(ln):
                 window = " ".join(lines[max(0, i - 3):i + 1]).lower()
-                if not any(s in window for s in CLAIM_SOURCES):
+                src = any(s in window for s in CLAIM_SOURCES)
+                lab = any(w in ln.lower() for w in self.LABEL_WORDS)
+                if not (src or lab):
                     self.warn(f, "R11", i, "siffra utan källa i närheten",
                               "lägg källa (EY/PwC/McKinsey/PitchBook m.fl.) eller märk som egen bedömning")
             for pat in OVERCLAIM_PATTERNS:
                 if re.search(pat, ln, re.I):
                     self.warn(f, "R11", i, f"överdrivet absolut uttryck: '{pat}'",
                               "mjukformulera eller stöd med data")
+
+    # -- R12: påhittad research / empiriska påståenden (BLOCK) ---------------
+    def check_fabricated(self, f, body):
+        low = body.lower()
+        lines = body.splitlines()
+        for i, ln in enumerate(lines, 1):
+            lln = ln.lower()
+            for pat in FABRICATED_RESEARCH:
+                if re.search(pat, lln):
+                    self.fail(f, "R12", i,
+                              f"påhittad research/empiri: mönster '{pat}' — hitta ALDRIG på antal, "
+                              "studier eller observationer; ta bort, formulera som hypotes eller källbelägg",
+                              "ta bort eller skriv 'our assessment/vår bedömning' + källa")
+            for pat in FABRICATED_NEEDS_SOURCE:
+                if re.search(pat, lln) and not any(s in lln for s in CLAIM_SOURCES):
+                    self.fail(f, "R12", i,
+                              f"empiriskt påstående utan källa: '{pat}' — kräver källa i samma mening",
+                              "lägg källa (t.ex. 'PitchBook data shows') eller ta bort")
+
+    # -- R13: AI-slogan-/retorik-mönster (WARN) ------------------------------
+    def check_ai_style(self, f, body):
+        for i, ln in enumerate(body.splitlines(), 1):
+            for pat in AI_SLOGAN_PATTERNS:
+                if re.search(pat, ln):
+                    self.warn(f, "R13", i,
+                              f"AI-slogan/retorikmönster: '{pat}' — skriv konkret och naturligt, "
+                              "inga 'X is not Y. It is Z.'-formuleringar eller slogan-kedjor")
+
+    # -- R14: buzzword-täthet (WARN) -----------------------------------------
+    def check_buzzwords(self, f, body):
+        low = body.lower()
+        words_total = len(re.findall(r"\S+", body))
+        hits = {}
+        for bw in BUZZWORDS:
+            n = len(re.findall(r"\b" + re.escape(bw) + r"\b", low))
+            if n:
+                hits[bw] = n
+        total = sum(hits.values())
+        per_1000 = (total / words_total) * 1000 if words_total else 0
+        if total > BUZZ_LIMIT_TOTAL or per_1000 > BUZZ_LIMIT_PER_1000:
+            top = ", ".join(sorted(hits, key=hits.get, reverse=True)[:6])
+            self.warn(f, "R14", 0,
+                      f"buzzword-täthet: {total} träffar ({per_1000:.0f}/1000 ord, "
+                      f"gräns {BUZZ_LIMIT_TOTAL} totalt / {BUZZ_LIMIT_PER_1000:.0f}/1000) — "
+                      f"ersätt abstrakta koncept med konkreta exempel. Topp: {top}")
+
+    # -- R15: falsk precision (WARN) -----------------------------------------
+    def check_false_precision(self, f, body):
+        for i, ln in enumerate(body.splitlines(), 1):
+            for pat in FALSE_PRECISION:
+                if re.search(pat, ln, re.I):
+                    self.warn(f, "R15", i,
+                              f"falsk precision: '{pat}' — använd bara 'N stycken' om N verkligen "
+                              "är antalet kategorier; annars skriv om strukturen")
 
     # -- CLAIM-AUDIT: extrahera varje siffra-/absolut-mening, kräv källa/etikett
     LABEL_WORDS = ["our assessment", "vår bedömning", "our experience", "vår erfarenhet",
@@ -399,6 +497,10 @@ class Audit:
             self.check_cta(f, body, body.splitlines())
             self.check_last_heading(f, body, lang)
             self.check_claims(f, body)
+            self.check_fabricated(f, body)
+            self.check_ai_style(f, body)
+            self.check_buzzwords(f, body)
+            self.check_false_precision(f, body)
 
     # -- R10: sista rubrik --------------------------------------------------
     def check_last_heading(self, f, body, lang):
@@ -443,6 +545,10 @@ class Audit:
                 self.check_cta(f, body, lines)
                 self.check_last_heading(f, body, lang)
                 self.check_claims(f, body)
+                self.check_fabricated(f, body)
+                self.check_ai_style(f, body)
+                self.check_buzzwords(f, body)
+                self.check_false_precision(f, body)
         # --fix-applikation (efter analys)
         if self.do_fix:
             self.apply_fixes()
