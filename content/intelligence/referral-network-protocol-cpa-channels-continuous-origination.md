@@ -15,7 +15,7 @@ author: "Jonas Hyltén"
 
 An advisor can hear about a refinancing problem before the lender does. The CPA sees the audit trail, the attorney sees the covenant work, the commercial banker sees the loan file. That timing is what makes these advisors valuable to a private credit platform, and it explains why advisor channels matter more than auction access.
 
-Per the FSB's May 2026 report on private credit vulnerabilities, the definition of private credit has shifted toward origination: the operator's infrastructure, not its capital stack, is the primary differentiator between firms. Competition between providers therefore moves from individual deals to the speed of the pricing response.
+Per the FSB's May 2026 report on private credit vulnerabilities, the discussion places greater emphasis on how private credit firms originate, monitor and manage exposures, rather than on capital allocation alone. Competition between providers therefore moves from individual deals to the speed of the pricing response.
 
 ## The Maturity Wall as Referral Motor
 
@@ -39,13 +39,15 @@ Accounting system providers and software vendors form the third channel. A platf
 
 The channels are not equally reliable. A banker can know that a loan is approaching maturity but have little visibility into the borrower's current cash position. A CPA can hold better financial information but has no mandate to introduce a lender. Software data can flag stress or growth, yet it rarely explains the management decision behind the numbers. No single channel substitutes for underwriting.
 
-When the three channels activate together, the banker raises the conversation, the CPA adds financial context, and the software provides evidence of how cash flow is developing. These signals rarely arrive at the same time or carry the same weight. A provider that treats them as one stream screens earlier than a provider that waits for a single complete picture.
+When the three channels activate together, the banker may identify the refinancing issue first. The CPA adds financial context, while the software provides evidence of how the company's cash flow is developing. These signals rarely arrive at the same time or carry the same weight. A provider that treats them as one stream screens earlier than a provider that waits for a single complete picture.
 
 ## The Pricing Signal
 
+This is where the operating problem changes. The advisor has useful information; the question is whether the provider can process it quickly enough to make it commercially useful.
+
 An advisor channel becomes origination infrastructure when pricing is continuous rather than batched. Continuous pricing here means the provider can quote a structure during the first conversation: rate, leverage cap, tenor. A provider that routes every referral through a human underwriter operates at the transaction rate, a few facilities per week at institutional quality. A provider that prices through a live engine operates at a continuous rate, hundreds of facilities per week.
 
-Per the FSB report, the information-centric definition of private credit separates operators who price from data from operators who price from relationship memory. The data-layer provider captures the referral when it arrives, not after the banker's next call.
+The FSB report also distinguishes operators who price from data from operators who price from relationship memory. The data-layer provider captures the referral when it arrives, not after the banker's next call.
 
 The difference shows up in the conversation. Instead of "Let me get back to you with a term sheet," the provider gives an indicative quote: "850 basis points, 1.5x leverage cap, 24-month tenor." Advisors return to the provider who can price during the call. Originations concentrate in the channel that matches the advisor's timeline.
 
@@ -53,29 +55,29 @@ The difference shows up in the conversation. Instead of "Let me get back to you 
 
 Network activation follows a typical pattern rather than a fixed curve. As an illustrative planning assumption, a provider that activates 200 advisors can generate 12 to 18 qualified referrals per quarter; of those, 8 to 12 proceed to initial pricing and 4 to 7 close. These numbers are internal planning assumptions for a mature network, not a market benchmark.
 
-The pattern accelerates as the network matures. A new provider activates 200 advisors and converts two deals in the first quarter. By the fourth quarter the same network converts eight deals, not because advisors refer more, but because the pricing engine has learned which patterns indicate deal readiness. The improvement is in screening, not in volume.
+The pattern can accelerate as the network matures. One illustrative scenario would be a network that closes two deals in its first quarter and eight by its fourth. That improvement would not necessarily mean advisors are referring more; it could simply mean the provider has become better at identifying which referrals are ready for action.
 
 Scale is visible in deployed capital. Per ABF Journal's reporting on Overland Capital, the firm has deployed more than 7 billion USD since launch, and its origination infrastructure, not the capital stack, is the primary reason for the sourcing advantage. At 11 SEK per USD, that is roughly 77 billion SEK in capital sourced through advisor channels.
 
 ## The Systems Mandate
 
-The referral network is a system, not a relationship list. The channel feeds the pricing engine, the pricing engine feeds the advisor signal, and the advisor signal feeds the next referral.
+The referral network is a system, not a relationship list. Referral information enters the screening and pricing process, and the result is returned to the advisor. That return signal determines whether the relationship becomes recurring or ends after one referral.
 
 For the advisor, the relevant issue is timing. A referral made too early is not actionable; a referral made after several lenders are already involved has little value. For the borrower, the process typically starts as a refinancing question rather than a private credit transaction. For the lender, the challenge is to turn timing information into a credible price before the opportunity becomes competitive.
 
-An advisor who refers a deal and sees the price update in real time returns with the next situation. An advisor who refers a deal and waits two weeks for a callback learns to call someone else. The feedback loop is what a relationship list cannot deliver on its own.
+An advisor who refers a deal and sees the price update in real time returns with the next situation. An advisor who refers a deal and waits two weeks for a callback learns to call someone else. A relationship list records contacts; it does not show which referrals are useful or how quickly they were handled.
 
 The pace of conversion varies by jurisdiction. Markets with digitized commercial registries and electronic collateral administration convert advisor referrals faster, per the FSB report. Where the relevant data is incomplete or difficult to access, the advisor relationship matters more than the automated signal. Digitized data does not remove the need for the advisor; it changes what the advisor is asked to confirm.
 
-## The GTM Stack Behind the Referral Network
+## From Referral to Indicative Price
 
-The referral network runs on a technical pipeline. The advisor channels feed data sources that can be read programmatically, and the provider that wires those sources into its screening and pricing systems operates at machine speed. This is where the network becomes GTM engineering rather than relationship management.
+The referral network runs on a technical pipeline. The advisor channels feed data sources that can be read programmatically. A provider that connects these sources to screening and pricing can review more situations before a human underwriter becomes involved. At that point, the network is no longer managed only through personal relationships; it is supported by a process that captures, screens and tracks each referral.
 
 The data layer comes first. Versana provides structured visibility into loan positions, Octus and 9fin provide credit market intelligence, and invoice or payroll platforms provide cash flow data, per Intake to Close's 2026 benchmark. Each source exposes its data through feeds that a provider can ingest on a schedule. The output is a normalized stream of companies, maturities and financial events.
 
 The screening layer sits on top. Incoming events are matched against loan maturity data, enriched with payment and covenant information, and scored for deal readiness. Our assessment is that rule-based scoring handles the obvious cases, while an agentic layer handles the ambiguous ones: a company with a maturing loan, mixed cash flow and a strained covenant. The agent collects the context a human underwriter would ask for, before the underwriter asks.
 
-The pricing layer turns the screened event into a response. An automated pricing model produces an indicative quote from the enriched data, and the relationship team sends it to the advisor. The quote is the deliverable; the pipeline that produces it is the GTM infrastructure.
+The pricing layer turns the screened event into a response. An automated pricing model produces an indicative quote from the enriched data, and the relationship team sends it to the advisor. The quote is what the advisor sees. Internally, the value lies in the process that produces it consistently.
 
 The log layer closes the loop. Every step, from source to event to quote to close, is recorded with a timestamp and a source attribution. That log is where the conversion numbers in this article come from, and it is what makes the network measurable: the provider can see which channel produces the most qualified referrals, where they stall, and how fast the pricing system responds. Without the log, the network runs on memory and guesswork.
 
