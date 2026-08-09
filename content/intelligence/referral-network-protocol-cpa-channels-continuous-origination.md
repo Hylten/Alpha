@@ -67,6 +67,20 @@ An advisor who refers a deal and sees the price update in real time returns with
 
 The pace of conversion varies by jurisdiction. Markets with digitized commercial registries and electronic collateral administration convert advisor referrals faster, per the FSB report. Where the relevant data is incomplete or difficult to access, the advisor relationship matters more than the automated signal. Digitized data does not remove the need for the advisor; it changes what the advisor is asked to confirm.
 
+## The GTM Stack Behind the Referral Network
+
+The referral network is a go-to-market system. The channel mix, the response speed and the follow-up cadence are the same mechanics a B2B sales team measures, applied to deal origination. The terms differ; the funnel does not.
+
+Channel design comes first. Each channel type has its own conversion rate, and the rates differ enough that tracking them separately changes where the provider spends its time. A provider that cannot attribute referrals to a channel is managing relationships, not a channel.
+
+Response speed is the second lever. In B2B go-to-market, response time is a decisive conversion variable, per our experience with referral-based platforms. An instant quote is the private credit equivalent: it replaces the follow-up email. Speed-to-lead and speed-to-price are the same metric.
+
+The funnel is the third lever. The conversion pattern described in the previous section is a funnel like any other, and it can be logged at every stage: identification, pricing, closing. The provider that logs the stages can see where referrals die. Without the log, the network is a black box.
+
+The loop closes the system. The data from each closed referral improves the screening logic, which makes the next quote faster and more accurate. That is the compounding effect.
+
+The GTM layer also automates the capture of incoming signals. The software channel already produces structured data; piping invoice and payroll data into the screening logic removes the manual step where a referral waits for a human to notice it. This is where origination discipline and GTM engineering converge: the same discipline that turns website visitors into pipeline applies to advisor referrals.
+
 ## Summary
 
 Advisor networks give private credit providers earlier access to refinancing situations, but only if the provider can respond with useful information at the right time. That requires more than a relationship list: a process for identifying relevant maturities, collecting borrower context, pricing quickly, and feeding the outcome back to the advisor.
