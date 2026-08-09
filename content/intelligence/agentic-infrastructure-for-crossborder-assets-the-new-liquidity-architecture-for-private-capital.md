@@ -320,7 +320,7 @@ The GTM graph replaces the CRM as the canonical source of truth. It becomes a dy
 
 - Policy gates
 
-The GTM graph generates:
+The graph generates:
 
 - Precision segmentation
 
@@ -332,7 +332,7 @@ The GTM graph generates:
 
 - Cross-border eligibility evaluation
 
-The GTM graph becomes the intelligence fabric of the organization. Every GTM motion emerges from the graph.
+This graph becomes the intelligence fabric of the organization. Every GTM motion emerges from the graph.
 
 ## High-frequency GTM Motion
 
