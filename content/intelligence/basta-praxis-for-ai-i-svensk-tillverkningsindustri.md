@@ -46,7 +46,7 @@ Granularity enables the creation of autonomous agents capable of executing acros
 
 ### 2. Unify All Machine Data Into a Single Operational Layer
 
-Swedish plants often operate on fragmented data stacks. AI fails when system-wide visibility is obstructed. Best practice mandates a single operational layer where:
+Swedish plants frequently operate on fragmented data stacks. AI fails when system-wide visibility is obstructed. Best practice mandates a single operational layer where:
 
 - PLC signals
 
@@ -285,6 +285,20 @@ Robots function as coordinated ecosystems. The factory floor becomes adaptive an
 ## Final Word
 
 Swedish manufacturing is entering an era where agentic AI is the central competitive advantage. Early adopters dominate. Late adopters consolidate. Non-adopters disappear. Roials Alpha builds the agentic infrastructure that makes factories autonomous, predictive, and self-optimizing. Inquire about agentic infrastructure.
+
+The GTM Stack in Practice
+
+For Swedish manufacturing, the GTM stack should operate like the production systems it supports: connected, observable, predictive, and capable of moving from signal to action without unnecessary manual handoffs. The same agentic principles used to optimize a production line apply to commercial operations. A practical architecture connects machine data, operational systems, CRM systems, pricing logic, and AI agents through a shared signal-to-deal pipeline. The objective is not another dashboard. It is a closed operational loop in which every relevant signal is ingested, enriched, scored, translated into a commercial action, and logged for continuous improvement.
+
+The first layer is ingestion. PLC signals, sensor data, SCADA outputs, MES logs, operator notes, and maintenance records enter the operational data layer through API integrations, connectors, and scheduled ETL jobs. Event-driven systems use webhooks when an immediate trigger matters, such as a machine-state change, quality event, maintenance condition, or production-status update. The ingestion layer preserves timestamps, machine identifiers, process states, and source information so downstream agents work from granular operational context rather than isolated snapshots.
+
+The second step is enrichment. AI agents correlate raw signals with production context, including sequence timing, variability signatures, machine health, tool degradation, WIP levels, operator availability, and demand information already present in the connected systems. That enriched signal then enters a defined scoring schema. Instead of treating every alert equally, the architecture scores conditions according to operational relevance, severity, predicted impact, and the appropriate autonomy boundary. This creates a consistent decision layer between raw data and action.
+
+The third step is commercial translation. Production capacity, quality performance, machine availability, and demand signals feed pricing and allocation workflows through APIs connected to the relevant CRM system and commercial tools. The pricing layer applies approved rules and constraints rather than allowing an agent to improvise outside its defined process envelope. A qualified opportunity then moves through quotation, prioritization, and follow-up workflows with the same discipline applied to autonomous production decisions.
+
+The fourth step is logging. Every meaningful agent action, input, score, pricing decision, override, and outcome is written into structured log tables. These records create an audit trail and supply the feedback required to improve the agents. Commercial metrics sit alongside operational metrics, including time-to-quote and conversion per channel, while production metrics retain their connection to quality, throughput, maintenance, and cycle stability.
+
+The final stage closes the loop. Outcomes flow back into the scoring, enrichment, and optimization layers, allowing the system to learn from both successful flows and failure conditions. The result is a GTM architecture that mirrors an AI-native factory: signals enter continuously, intelligence coordinates them, actions execute within defined boundaries, and every outcome becomes new operational data.
 
 ## Summary
 

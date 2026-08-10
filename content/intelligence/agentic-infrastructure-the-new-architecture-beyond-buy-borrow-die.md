@@ -104,7 +104,7 @@ These loops make the infrastructure self-learning. GTM becomes a cybernetic syst
 
 ## Multi-Agent Orchestration Protocols: The Communication Layer
 
-One of the main bottlenecks in current AI deployments is the absence of robust multi-agent collaboration protocols. Most environments are built as single-agent labs, not coordination systems. In agentic GTM, agents must:
+One of the main bottlenecks in current AI deployments is the absence of reliable multi-agent collaboration protocols. Most environments are built as single-agent labs, not coordination systems. In agentic GTM, agents must:
 
 - share context
 
@@ -354,6 +354,16 @@ The final transformation is architectural compression. As agentic models assume 
 ## Agentic GTM Architecture as a Future‑Proof Backbone
 
 Agentic systems eliminate structural weaknesses in legacy GTM stacks: perpetual administration, siloed data, manually defined processes, and long feedback cycles. Instead, the architecture becomes: Adaptive Self‑improving Real‑time data‑driven Human‑controlled but not human‑constrained Modular and extensible Resilient to organizational and market volatility For GTM Engineering, this is not an incremental improvement. It is a foundational reset. An agentic GTM system is not an upgrade to the current stack. It is a new paradigm where infrastructure finally conforms to business dynamics, not the reverse. This is the core of agentic GTM architecture and the basis for the next era of commercial operational design.
+
+The GTM Stack in Practice
+
+The practical difference between a traditional GTM stack and an agentic one appears in the signal-to-deal pipeline. API integrations ingest account activity, contact events, product usage, market signals, and interaction data from the systems already generating them. Webhooks push meaningful events into the operational graph as they occur rather than waiting for a scheduled synchronization. ETL jobs handle the heavier movement and normalization of historical or batch-oriented data, while the graph becomes the shared operational representation that agents use for current context. The CRM system still exists where required, but it shifts toward a record and system-of-account role rather than serving as the primary execution environment. The important architectural change is that incoming signals become action material instead of simply becoming fields in another record.
+
+The next stage is enrichment. Raw signals are combined with contextual information already held in the domain-specific memory fabric and operational graph. An account interaction, for example, is not treated as an isolated event. It becomes part of a larger relationship containing prior interactions, behavioral signals, intent, decision narratives, and relevant market dynamics. Agents then apply scoring schemas to this enriched state. These schemas translate multiple signals into decision inputs that determine priority, routing, and the next execution step. Unlike a static CRM score that waits for a predefined workflow, the agentic model evaluates the current graph state continuously and feeds the resulting decision directly into the autonomous execution layer.
+
+From there, the pipeline moves into pricing and execution. Pricing logic becomes an agent-accessible decision component rather than a disconnected manual step. The execution layer evaluates the available context, applies the relevant pricing rules and objectives, and coordinates the action required to move the opportunity forward. The critical distinction is that execution does not stop at a trigger firing. Agents operate continuously against changing graph state, with each decision and resulting action captured as part of the system's operational memory.
+
+Finally, every stage is logged. Log tables record signals, decisions, actions, outcomes, and deviations so the continual feedback loop has usable evidence. Those logs support operational metrics such as time-to-quote and conversion per channel, connecting agent behavior to measurable GTM outcomes. The resulting architecture is therefore a closed pipeline: ingestion creates the signal, enrichment supplies context, scoring establishes priority, pricing turns intelligence into a commercial action, and logging feeds the next cycle of learning. The CRM is no longer the place where GTM motion lives. The operational graph, autonomous execution layer, memory fabric, orchestration protocols, and feedback loops collectively become the system through which that motion
 
 ## Summary
 

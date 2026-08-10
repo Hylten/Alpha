@@ -48,9 +48,9 @@ Origination does not rely on networking. It relies on intelligence. This is what
 
 Institutional partners expect engineered order. They expect every component to withstand audit, replication, and accelerated scaling. Proprietary tech stacks are not branding. They are the mechanism through which borrowers are prealigned with lender thresholds before the first conversation. Structural alignment is the backbone of disciplined covenant management. Borrowers entering the pipeline are conditioned through systematic filtration. Eligibility is verified against capital thresholds.
 
-- Crypto-secured liquidity minimum: 2 million  
+- Crypto-secured liquidity minimum: 2 million USD (~21 million SEK)  
 
-- Public shares minimum: 5 million  
+- Public shares minimum: 5 million USD (~53 million SEK)  
 
 - Private credit mandates mapped to liquidity ranges and collateral integrity
 
@@ -175,6 +175,18 @@ Institutions are migrating toward private credit. Borrowers face tightening liqu
 If the objective is tactical clarity. If the objective is disciplined origination. If the objective is institutional‑grade infrastructure. If the objective is covenant stewardship built on engineered precision. Then the next
 
 ## Step Is Straightforward
+
+The GTM Stack in Practice
+
+The Roials Alpha GTM stack turns proprietary intelligence into an operating pipeline that moves from market signal to qualified transaction without breaking the discipline established by the mandate. The architecture starts with API integrations and ETL jobs that ingest fragmented information relevant to liquidity conditions, collateral, borrower behavior, transaction history, and lender appetite. APIs provide structured feeds where available, while ETL processes normalize disparate records into a consistent internal data layer. Webhooks then move material events through the workflow as they occur, reducing the latency between a detected signal and the next underwriting or origination action. The objective is not simply to collect more data. It is to create a traceable chain from signal intake to institutional decision.
+
+The first operational stage is ingestion. Unstructured and structured inputs enter the system and are organized around the variables already defined by the Roials Alpha architecture: supply distortion, liquidity compression, borrower urgency, collateral traceability, jurisdictional exposure, and relevant asset characteristics. The second stage is enrichment, where those records are connected to proprietary data graphs covering borrower lineages, transaction histories, fund behavior, lender appetite cycles, and collateral movement. This is where fragmented information becomes structured intelligence. A borrower record is no longer an isolated prospect; it becomes part of a broader relationship and risk context that supports institutional-grade filtration.
+
+The third stage is scoring. A defined scoring schema converts the enriched record into comparable signals across eligibility, liquidity stress, collateral integrity, behavioral urgency, and covenant-related risk. The system applies the article's stated thresholds as hard qualification parameters, including the $2 million minimum for crypto-secured liquidity and $5 million minimum for public shares (roughly 21 million and 53 million SEK at current rates), while private credit mandates are mapped to liquidity ranges and collateral integrity. Scoring therefore functions as a filtration mechanism rather than a generic lead-ranking exercise. Records that fail structural requirements do not receive artificial priority simply because they generate commercial interest.
+
+The fourth stage is pricing and lender matching. Once structural alignment is confirmed, underwriting intelligence and lender appetite data inform the pathway toward a term sheet. The technology records the progression through the CRM system, preserving borrower status, qualification outcomes, lender matching activity, and transaction history. Log tables provide the audit trail behind each material system action, creating operational visibility into what entered the pipeline, how it was enriched, how it scored, and what happened next.
+
+The final stage is measurement. GTM performance is tracked through operational metrics such as time-to-quote and conversion per channel, alongside pipeline progression and qualification outcomes. These metrics expose where latency or friction enters the system without replacing the principal's judgment. The result is a signal-to-deal pipeline built around ingestion, enrichment, scoring, pricing, and logging: technology serving covenant-grade execution rather than technology for its own sake.
 
 ## Summary
 

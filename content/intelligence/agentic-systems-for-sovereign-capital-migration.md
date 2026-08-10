@@ -62,7 +62,19 @@ Our capital structuring minimums are deliberate. Crypto Asset-Backed Frameworks 
 
 ## The Future of Wealth is Agentic
 
-Within a decade, significant capital will route through autonomous systems. Early adopters will gain unmatchable asymmetric advantage. They will command liquidity. They will access risk optics beyond advisory reach. They will operate with sovereign mobility. Roials-Alpha is already positioned in that future. Access is restricted to approved mandates.
+Within a decade, significant capital will route through autonomous systems. Early adopters will gain unmatchable asymmetric advantage. They will command liquidity. They will access risk optics beyond advisory reach. They will operate with sovereign mobility. Roials-Alpha is already positioned in that future. Participation is limited to qualified institutions.
+
+The GTM Stack in Practice
+
+The GTM stack turns Roials-Alpha’s agentic capital architecture into an operational signal-to-deal pipeline. The starting point is ingestion. API integrations pull approved asset, market, CRM, and mandate data into a centralized operating layer, while scheduled ETL jobs normalize that information into consistent fields. Webhooks then push time-sensitive events through the workflow without relying on manual handoffs. The objective is straightforward: convert fragmented capital signals into machine-readable inputs that support the same precision described throughout the Roials-Alpha architecture.
+
+Once data enters the system, enrichment adds context to each capital profile. The asset interpretation layer classifies holdings according to characteristics such as yield potential, off-book exposure, liquidity depth, and volatility signatures. Those attributes feed structured scoring schemas rather than subjective assessments. A crypto asset-backed framework, for example, is evaluated as a defined risk and liquidity object; public share monetization is processed through its own structural parameters. The resulting score represents the system's view of asset quality, liquidity conditions, and execution readiness. The CRM then becomes the commercial control plane, connecting qualified capital profiles to mandate status, engagement history, and next-stage execution.
+
+Pricing follows scoring and asset interpretation. The system translates the available inputs into a defined liquidity and structuring pathway rather than treating every operator as an identical prospect. For Roials-Alpha, the relevant architecture includes Crypto Asset-Backed Frameworks beginning at 2,000,000 and Public Share Monetization Architecture beginning at 5,000,000. Those stated thresholds become operational filters inside the GTM stack. They separate profiles that fit the intended capital architecture from profiles outside the stated engagement parameters, keeping commercial activity aligned with the system's focus on significant holdings and sovereign-scale operators.
+
+Logging closes the loop. Every meaningful transition is written to log tables, creating an execution history across ingestion, enrichment, scoring, pricing, and mandate progression. The same infrastructure supports performance metrics such as time-to-quote and conversion per channel. Time-to-quote exposes friction between a qualified signal and a structured liquidity response. Conversion per channel shows which acquisition pathways produce progression into the mandate process. These metrics turn GTM activity into an observable system rather than a collection of disconnected conversations.
+
+The result is a feedback architecture: ingestion → enrichment → scoring → pricing → logging → measurement. Signals become qualified capital profiles, qualified profiles become structured opportunities, and structured opportunities become measurable execution pathways. That is what makes the Roials-Alpha model agentic at the GTM layer: the infrastructure continuously translates capital intelligence into controlled commercial movement while preserving the article's central principle, principal authority with visible outcomes and invisible mechanics.
 
 ## Summary
 

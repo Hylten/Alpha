@@ -199,7 +199,7 @@ The system then reallocates energy where effect is greatest. It is not human jud
 
 ## The Role Distribution of AI-First GTM Agents
 
-In a mature system, there are often three main types of agents.
+In a mature system, there are frequently three main types of agents.
 
 ## Analytical Agents
 
@@ -345,7 +345,7 @@ Models must improve continuously through: • Operational data • Human feedbac
 
 ## State and Context Management
 
-Agents need to understand history and current context to act correctly. This requires robust mechanisms for context storage and access.
+Agents need to understand history and current context to act correctly. This requires reliable mechanisms for context storage and access.
 
 ## Organizational Changes Required
 
@@ -357,7 +357,7 @@ In an AI-First environment, GTM engineering is a strategic unit, not a support f
 
 ## People Learn the Machine's Language
 
-Teams need to understand: • How agents work • How models make decisions • How data affects outcomes • How to work in loops instead of linear steps This is a mental shift that often takes time but is absolutely crucial.
+Teams need to understand: • How agents work • How models make decisions • How data affects outcomes • How to work in loops instead of linear steps This is a mental shift that frequently takes time but is absolutely crucial.
 
 ## Leadership That Guides Through Principles
 
@@ -379,6 +379,16 @@ When 86 percent of work is performed by automation, costs decrease dramatically 
 
 Every new data point is used to improve the entire system. This creates a positive feedback loop where the organization's collective intelligence increases day by day. When these advantages combine, the gap to competitors becomes exponential. Not because of better marketing or more salespeople, but because the entire system operates at a different level of speed, precision, and scalability.
 
-## Summary of Part 2
+The GTM Stack in Practice
 
-In this part, the foundation for an AI-First GTM system is established. The central insights are: • GTM must be viewed as a technical system • Models, agents, and humans work together • Workflows become probabilistic, not sequential • Orchestration is critical for autonomy • The organization must be structured around the machine The next part deepens how to design an AI-First GTM system that can drive independent decisions and create global market dominance. --- TECHNICAL MANDATE Qualification gates strictly observed for comprehensive structural execution. Access is restricted to approved mandates. Inquire about agentic infrastructure.
+An AI-first GTM machine becomes concrete when the architecture is translated into connected technical components rather than abstract AI capabilities. At the foundation, API integrations, webhooks, ETL jobs, event streams, and log tables continuously move market and customer signals into a shared data layer. API integrations pull structured information from connected systems, while webhooks push events as they happen. ETL jobs normalize those inputs so company changes, product behavior, customer interactions, competitive movements, and other buying signals follow consistent schemas. The result is a live sensor layer rather than a collection of disconnected dashboards. Every meaningful event enters the system with enough structure for downstream models and agents to interpret it.
+
+From there, the signal-to-deal pipeline moves into enrichment and scoring. Incoming records are enriched with the attributes required by the decision layer, then evaluated against scoring schemas that reflect current market behavior rather than relying on static personas. A scoring model may combine company changes, technical installation trends, interaction signals, product anomalies, and other observed indicators into a continuously updated priority score. The CRM system becomes an execution record rather than the sole source of intelligence: accounts, contacts, opportunities, activities, scores, and agent decisions are written back into the operational system so the action layer has current context. When new evidence changes an account's score, the resulting state flows forward instead of waiting for a salesperson to manually review a list.
+
+Pricing sits inside the same loop. The decision layer evaluates available signals and applies the relevant pricing logic, including predictive price-elasticity adjustments described in the article. The action layer then uses that decision in the appropriate GTM workflow, whether the output is an outreach action, an offer, a product-price update, or another execution step. The important architectural point is that pricing is not isolated from demand intelligence; it is another decision produced from the same continuously refreshed signal environment.
+
+Finally, every stage writes its activity and outcome into log tables. The system records what signal entered, how it was enriched, which score was assigned, what decision followed, which action executed, and what happened afterward. Those records feed operational metrics such as time-to-quote and conversion per channel, giving the decision layer evidence for evaluating performance and updating future priorities. The pipeline therefore becomes a closed loop: ingestion → enrichment → scoring → pricing → action → logging → learning. Instead of humans manually moving information between systems, APIs, webhooks, ETL processes, CRM records, scoring schemas, and agent workflows form the connective tissue of the autonomous GTM machine.
+
+## Summary
+
+In this part, the foundation for an AI-First GTM system is established. The central insights are: • GTM must be viewed as a technical system • Models, agents, and humans work together • Workflows become probabilistic, not sequential • Orchestration is critical for autonomy • The organization must be structured around the machine The next part deepens how to design an AI-First GTM system that can drive independent decisions and create global market dominance. --- TECHNICAL MANDATE Qualification gates strictly observed for comprehensive structural execution. Participation is limited to qualified institutions. 

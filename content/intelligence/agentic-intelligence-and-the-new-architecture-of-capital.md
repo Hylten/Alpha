@@ -206,7 +206,7 @@ The fundamental shift is not volume. It is that content is no longer produced in
 
 ## The Integration Layer: Where Intelligence Actually Emerges
 
-Agentic GTM depends on an integration layer where data flows without friction. This layer is often the most underestimated part of the organization. Many assume the power of agents resides in the model itself. But it is the integration of:
+Agentic GTM depends on an integration layer where data flows without friction. This layer is frequently the most underestimated part of the organization. Many assume the power of agents resides in the model itself. But it is the integration of:
 
 - CRM events  
 
@@ -391,6 +391,18 @@ Companies that build agentic GTM infrastructure will secure an asymmetric advant
 ## The Next Phase of Development
 
 The next section outlines the operational development of GTM agents and details how companies should design their initial agent flows, policies, and modular content pools to construct their own agentic GTM infrastructure.
+
+The GTM Stack in Practice
+
+The practical difference between a traditional GTM system and an agentic one becomes clear when the architecture is traced from the first signal to the resulting deal action. At the foundation are API integrations connecting the core operating systems: CRM, marketing automation, advertising platforms, web infrastructure, product telemetry, and content pipelines. These connections continuously move operational data into a shared intelligence layer. ETL jobs normalize and transform that data, while webhooks provide event-driven triggers when important changes occur, such as a new product interaction, a CRM field update, or a meaningful website behavior. Instead of waiting for a scheduled report, the system receives the event and starts the next stage of the GTM loop.
+
+The first stage is ingestion. Incoming signals from web visits, product usage, CRM activity, advertising performance, and intent sources enter the data pipeline and are recorded as structured events. The next stage is enrichment, where those events are combined with the broader customer context already available across the system. A prospect's current behavior is therefore evaluated alongside its existing CRM record and interaction history rather than treated as an isolated activity. The architecture described in the article depends on this continuous flow because detecting agents need a complete and current signal environment before decision-making agents determine what matters.
+
+The third stage is scoring. A defined scoring schema translates raw activity into a continuously updated probabilistic view of buying intent. Rather than relying on a static MQL threshold, decision-making agents evaluate the relevance of each signal, the objective it influences, the appropriate tactical response, and its risk profile. The resulting score drives the next micro-execution. An agent may generate a tailored CTA, produce an SDR script, trigger personalized email, adjust an advertising action, or update a CRM field. The important architectural shift is that scoring is directly connected to execution rather than ending in a dashboard for someone to review.
+
+The fourth stage is pricing and commercial action. Once an opportunity reaches the appropriate decision point, the agentic layer applies the relevant pricing logic and moves the opportunity toward quote or deal execution through connected systems. Operational metrics then provide the feedback loop. Time-to-quote measures how quickly the system moves from qualified signal to commercial response, while conversion per channel reveals which execution paths produce downstream results. Every action and outcome is written into log tables, creating an auditable record of signals, decisions, executions, and results.
+
+That logging layer closes the loop. Detecting agents read new events, decision-making agents interpret them, executing agents act, and the resulting outcomes return to the system as new data. GTM engineering therefore becomes the discipline of connecting ingestion, enrichment, scoring, pricing, execution, and logging into one continuously operating signal-to-deal pipeline.
 
 ## Summary
 

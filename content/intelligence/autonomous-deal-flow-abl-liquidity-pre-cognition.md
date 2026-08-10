@@ -36,7 +36,7 @@ This layer ingests multi‑class operational data from target environments. The 
 
 - MiFID II order flow anomalies indicating ownership transition
 
-Data capture does not wait for audited financials or brokered materials. It collects organizational telemetry from public sources, private data feeds, supply chain metadata, energy grid reports, tax filings, emissions logs, tender submissions, and industrial IoT systems. The output is a continuous stream of liquidity signals.
+Data capture does not wait for audited financials or brokered materials. It collects organizational telemetry from public sources, private data feeds, supply chain metadata, energy grid reports, tax filings, emissions logs, offer submissions, and industrial IoT systems. The output is a continuous stream of liquidity signals.
 
 ## Layer II: The Liquidity Detection
 
@@ -200,6 +200,16 @@ These components create the competitive distance necessary to secure proprietary
 ## Conclusion
 
 Autonomous deal flow is not a trend. It is the structural foundation for capital deployment in 2026 across mid‑market buyouts, energy infrastructure assets, MiFID II platforms, and UHNW liquidity architectures. Firms that master early liquidity detection will dominate the next decade of private market activity. Liquidity signals emerge before valuation signals. If AI can detect liquidity friction before management, lenders, brokers, or competitors notice, then proprietary deal flow becomes the natural output of system design rather than human effort. In a world defined by collapsing information latency, autonomous deal flow is the final frontier for consistent alpha generation. It unifies stewardship, Gnosjö proximity, and technical edge into a single capital formation doctrine. This is the operating model for next‑generation Private Equity Fund‑III investment opportunities in 2026. This is how principal investors will capture the strongest asset‑backed financing opportunities across businesses, energy infrastructure assets, and mid‑market platforms. This is how disciplined capital allocators will build long‑horizon UHNW liquidity structures while maintaining integrity and operational excellence.
+
+The GTM Stack in Practice
+
+The GTM stack turns the three-layer autonomous deal-flow model into an operating system for Asset-Based Lending liquidity origination. At the ingestion stage, API integrations pull structured signals from public filings, supply-chain metadata, energy-grid reports, tax filings, emissions logs, offer submissions, and industrial IoT systems. ETL jobs normalize these inputs into a common target profile, while webhooks push event-driven changes into the workflow when operational conditions shift. For the Texas industrial-services profile, the relevant fields include inventory-cycle movement, receivable timing, equipment utilization, vendor-payment sequences, customer concentration, regulatory activity, and asset categories such as field equipment, pressure assets, and pipeline diagnostics. The objective is not to wait for a completed financial package; it is to maintain a continuously refreshed liquidity dataset.
+
+The enrichment layer connects those signals to counterparty, ownership, regulatory, asset, and commercial context. A CRM system becomes the execution record rather than a static list of prospects. Each target receives a structured scoring schema covering Asset-Based Lending readiness, asset hardening, cash-flow resilience, capital efficiency, advance-rate capacity, and timing signals. The score changes as telemetry changes. In the simulated case, the movement from a 41-day to 48-day inventory cycle, equipment utilization falling from 72 percent to 68 percent, and compressed vendor-payment sequences formed the core signal set. The system then connected those operating changes with the delayed invoicing event and mandatory regulatory capex filing to establish the 21-day engagement window.
+
+Pricing follows scoring rather than preceding it. The liquidity engine converts collateral and operating data into a capital structure, using the article's modeled 81 percent receivable advance-rate potential, $33 million equipment collateral value at a 62 percent advance rate, and $7 million inventory tranche potential at 35 percent. Those outputs produced the simulated $41 million (roughly 430 million SEK) liquidity structure: $14 million receivables, $20 million equipment, and $7 million inventory, with a 24-month tenor and telemetry-based maintenance covenants. Pricing records should preserve the relationship between collateral quality, advance rates, yield-to-liquidity projections, and proposed structure so that every quote remains traceable to its originating signals.
+
+Logging completes the pipeline. Event log tables capture ingestion timestamps, signal changes, enrichment results, score revisions, pricing decisions, outreach events, and conversion outcomes. Operational dashboards then track time-to-quote, time from signal detection to principal-level engagement, and conversion per channel across direct, partner, and oth
 
 ## Summary
 

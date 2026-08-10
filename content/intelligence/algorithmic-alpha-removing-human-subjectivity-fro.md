@@ -46,7 +46,7 @@ Asset hardening is the act of fortifying an asset until institutional scrutiny b
 
 ## Institutional Thresholds
 
-To maintain structural discipline, thresholds are nonnegotiable. Crypto-backed credit: 2 million minimum. Publicly traded shares: 5 million minimum. These floors ensure intelligence density and manageable volatility. They ensure alignment with covenant philosophy. Institutions do not fail because markets move. They fail because structure is weak. Thresholds are structure.
+To maintain structural discipline, thresholds are nonnegotiable. Crypto-backed credit: 2 million USD (~21 million SEK) minimum. Publicly traded shares: 5 million USD (~53 million SEK) minimum. These floors ensure intelligence density and manageable volatility. They ensure alignment with covenant philosophy. Institutions do not fail because markets move. They fail because structure is weak. Thresholds are structure.
 
 ## Removing Narrative Bias
 
@@ -91,6 +91,18 @@ This is the transition. From opinion to computation. From narratives to covenant
 ## Principal Summary
 
 Roials‑Alpha eliminates the distortions of human decision‑making by embedding algorithmic intelligence across every layer of credit. It enforces covenant stewardship with precision and maintains structural alignment from origination through repayment. It hardens assets. It protects capital through velocity, surveillance, and discipline. This is conservative institutional stewardship expressed in modern finance. Order. Integrity. Accountability. Credit without subjectivity. Capital without drift. Covenants without compromise.
+
+The GTM Stack in Practice
+
+The Roials-Alpha GTM stack translates algorithmic origination into an operating pipeline where every signal moves toward a defined credit decision. The first layer is ingestion. API integrations bring relevant market, collateral, transactional, and counterparty inputs into the intelligence environment, while webhooks capture event-driven changes that require immediate processing. ETL jobs normalize those inputs into a consistent structure, removing fragmented formats before the data enters underwriting. The purpose is not to collect more information. It is to make the information required for covenant analysis machine-readable, auditable, and consistent across the credit cycle.
+
+The second layer is enrichment. Incoming opportunities are mapped against the Roials-Alpha collateral intelligence framework: lineage verification, transactional purity, market depth mapping, real-time drift modeling, and counterparty reliability scoring. CRM systems provide the commercial record around each opportunity, while internal data structures connect that record to the underlying collateral and covenant attributes. This creates a single signal-to-deal path rather than a collection of disconnected originator notes, emails, and subjective assessments. The system moves from an initial opportunity to an enriched credit profile without relying on narrative persuasion.
+
+The third layer is scoring. Each opportunity enters a defined scoring schema based on the article's covenant-anchored criteria, including collateral quality, liquidity velocity, historical drift patterns, stress-time-to-default, and counterparty integrity metrics. Threshold qualification then determines whether the asset is admissible inside the architecture. The stated institutional floors remain explicit: $2 million minimum for crypto-backed credit and $5 million minimum for publicly traded shares (21 million and 53 million SEK respectively). These thresholds are not sales preferences; they are structural filters designed to preserve intelligence density, manage volatility, and maintain covenant discipline.
+
+The fourth layer is pricing and execution. Once an asset satisfies the required criteria, validated signals feed the pricing process and AI-driven execution removes unnecessary committee drag. The objective is synchronized decision-making: the same verified attributes that qualify an asset inform the commercial response. This turns velocity into an operating control rather than an isolated sales metric. The GTM function therefore remains connected to underwriting instead of operating as a separate funnel.
+
+The final layer is logging and measurement. Log tables record ingestion events, enrichment outputs, scoring decisions, pricing actions, and execution states, creating an auditable trail through the credit cycle. GTM performance is measured alongside credit discipline through metrics such as time-to-quote and conversion per channel, while operational records preserve the underlying decision path. The result is a signal-to-deal pipeline built around ingestion, enrichment, scoring, pricing, and logging. Every stage reinforces the same principle: data enters as a signal, covenant logic converts it into a decision, and the system preserves the evidence behind that decision.
 
 ## Summary
 
